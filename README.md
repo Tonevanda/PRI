@@ -1,5 +1,13 @@
 # PRI - One Piece Search Engine
 
+## Preparations
+
+Start environment
+```
+prienv/Scripts/activate
+```
+Run requirements.txt
+
 ## M1. Data Preparation
 
 We will use the data from episodes stored at the [wiki](https://onepiece.fandom.com/wiki/Episode_1). From this we will collect:
