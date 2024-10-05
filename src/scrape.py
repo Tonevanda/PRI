@@ -26,6 +26,7 @@ for saga, url in saga_dict.items():
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
 
+    # The id of the h2 is the name of the saga with spaces replaced by underscores, so this makes it easy to find the arcs
     h2_id = saga.replace(" ", "_")
     h2 = soup.find(id=h2_id)
 
@@ -35,7 +36,7 @@ for saga, url in saga_dict.items():
             continue
         episodes = arc.find_all_next("a", href = True)
         for episode in episodes:
-            if(episode.find_previous("h3") != arc):
+            if(episode.find_previous("h3") != arc): # So the scrapper doesn't go to the episodes of the next arc
                 break
             href = episode["href"]
             # Check if href contains "Episode_" followed by a number to avoid recaps, movies, etc.
