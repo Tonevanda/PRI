@@ -35,6 +35,8 @@ for saga, url in saga_dict.items():
             continue
         episodes = arc.find_all_next("a", href = True)
         for episode in episodes:
+            if(episode.find_previous("h3") != arc):
+                break
             href = episode["href"]
             # Check if href contains "Episode_" followed by a number to avoid recaps, movies, etc.
             if re.search(r"Episode_\d+", href):
