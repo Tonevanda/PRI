@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import re
 
-url = "https://onepiece.fandom.com/wiki/Episode_314"
+url = "https://onepiece.fandom.com/wiki/Episode_336"
 
 page = requests.get(url)
 
