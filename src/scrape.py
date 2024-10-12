@@ -54,11 +54,11 @@ def scrape_episode(url):
     else:
         content_dict["Ending"] = "N/A"
 
-    season_piece=air_date.parent.parent.find_next_sibling().find_next_sibling().find_all("td")
-    if len(season_piece) > 0:
-        content_dict["Season"] = season_piece[0].text
-    else:
+    season_piece=air_date.parent.parent.find_next_sibling().find_next_sibling()
+    if len(season_piece) == 0 or 'pi-collapse' in season_piece['class']:
         content_dict["Season"] = "N/A"
+    else:
+        content_dict["Season"] = (season_piece.find_all("td"))[0].text
     return content_dict
 
 url = "https://onepiece.fandom.com/wiki/Episode_Guide"
