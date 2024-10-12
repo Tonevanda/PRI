@@ -2,6 +2,13 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import re
+from rake_nltk import Rake
+
+#import nltk
+
+#nltk.download('stopwords')
+#nltk.download('punkt_tab')
+#nltk.download('punkt')
 
 url = "https://onepiece.fandom.com/wiki/Episode_336"
 
@@ -44,4 +51,22 @@ if 'pi-collapse' in season_piece['class']:
 else:
     content_dict["Season"] = (season_piece.find_all("td"))[0].text
 
+rake = Rake()
+rake.extract_keywords_from_text(content_dict["Summary"])
+keywordsDict = {}
+for score, keyword in rake.get_ranked_phrases_with_scores():
+    if(score > 5.0):
+        keywordsDict[keyword] = score
+
+keywords = ""
+isFirst = True
+for keyword, score in keywordsDict.items():
+    if isFirst:
+        isFirst = False
+    else:
+        keywords += ", "
+    keywords += keyword
+content_dict['keywords'] = keywords
+
 print(content_dict)
+
