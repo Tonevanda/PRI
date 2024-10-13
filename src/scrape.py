@@ -22,7 +22,7 @@ def date_converter(date):
     date = date.split(" ")
     return f"{date[2]}-{months[date[0]]}-{date[1][:-1]}"
     
-
+# Function to scrape the episode's information
 def scrape_episode(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -61,78 +61,99 @@ def scrape_episode(url):
         content_dict["Season"] = (season_piece.find_all("td"))[0].text
     return content_dict
 
-url = "https://onepiece.fandom.com/wiki/Episode_Guide"
+# Function to save the sagas and their urls in a dictionary
+def save_saga(soup):
+    # Find the article-tabs class to get the sagas list
+    article_tab = soup.find_all(class_="article-tabs")
+    # Find all the li tags to get the sagas themselves
+    li = article_tab[0].find_all("li")
+    saga_dict = {}
 
-page = requests.get(url)
+    # Save in dictionary the name of the saga and the url
+    for item in li:
+        if item.find("a"):
+            saga = item.find("a").text
+            url = "https://onepiece.fandom.com" + item.find("a")["href"]
+            saga_dict[saga] = url
+    return saga_dict
 
-soup = BeautifulSoup(page.content, "html.parser")
+# Function to scrape every saga page and get every episode data
+def scrape_sagas(saga_dict):
+    # Create a dictionary to store the episode data with the fields we want
+    episode_data = {
+        "Episode": [],
+        "Title": [],
+        "Season": [],
+        "Arc": [],
+        "Saga": [],
+        "Air Date": [],
+        "Opening": [],
+        "Ending": [],
+        "Summary": []
+    }
 
-article_tab = soup.find_all(class_="article-tabs")
+    for saga, url in saga_dict.items():
+        page = requests.get(url)
+        soup = BeautifulSoup(page.content, "html.parser")
 
-li = article_tab[0].find_all("li")
+        # The id of the h2 is the name of the saga with spaces replaced by underscores, so this makes it easy to find the arcs
+        h2_id = saga.replace(" ", "_")
+        h2 = soup.find(id=h2_id)
 
-saga_dict = {}
+        arcs = h2.find_all_next("h3")
 
-episode_data = {
-    "Episode": [],
-    "Title": [],
-    "Season": [],
-    "Arc": [],
-    "Saga": [],
-    "Air Date": [],
-    "Opening": [],
-    "Ending": [],
-    "Summary": []
-}
+        for arc in arcs:
+            if("Arc" not in arc.text):
+                continue
+            episodes = arc.find_all_next("a", href = True)
+            for episode in episodes:
+                if(episode.find_previous("h3") != arc): # So the scrapper doesn't go to the episodes of the next arc
+                    break
+                href = episode["href"]
+                if "Film" in href:
+                    continue
+                # Check if href contains "Episode_" followed by a number to avoid recaps, movies, etc.
+                match = re.search(r"Episode_(\d+)", href)
+                
+                if match:
+                    episode_number = match.group(1)
+                    if int(episode_number) == 542:
+                        continue
+                    episode_name = episode.text
+                    episode_url = "https://onepiece.fandom.com" + href
+                    print(episode_name, episode_url)
+                    content_dict = scrape_episode(episode_url)
+                    episode_data["Episode"].append(episode_number)
+                    episode_data["Title"].append(episode.text)
+                    episode_data["Season"].append(content_dict["Season"])
+                    episode_data["Arc"].append(arc.text[:-2]) # Remove the "[]" at the end of the arc name
+                    episode_data["Saga"].append(saga)
+                    episode_data["Air Date"].append(date_converter(content_dict["Airdate"]))
+                    episode_data["Opening"].append(content_dict["Opening"])
+                    episode_data["Ending"].append(content_dict["Ending"])
+                    episode_data["Summary"].append(content_dict["Summary"])
 
-# Save in dictionary the name of the saga and the url
-for item in li:
-    if item.find("a"):
-        saga = item.find("a").text
-        url = "https://onepiece.fandom.com" + item.find("a")["href"]
-        saga_dict[saga] = url
+    return episode_data
 
-for saga, url in saga_dict.items():
+# Function to save the data in a csv file
+def save_csv(episodes_data):
+    df = pd.DataFrame(episodes_data)
+    df.to_csv("data.csv", index=False)
+
+def main():
+    # URL of the One Piece episode guide where we can find everything related to the anime episodes
+    url = "https://onepiece.fandom.com/wiki/Episode_Guide"
+
+    # Prepare beautiful soup for parsing
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
 
-    # The id of the h2 is the name of the saga with spaces replaced by underscores, so this makes it easy to find the arcs
-    h2_id = saga.replace(" ", "_")
-    h2 = soup.find(id=h2_id)
-
-    arcs = h2.find_all_next("h3")
-
-    for arc in arcs:
-        if("Arc" not in arc.text):
-            continue
-        episodes = arc.find_all_next("a", href = True)
-        for episode in episodes:
-            if(episode.find_previous("h3") != arc): # So the scrapper doesn't go to the episodes of the next arc
-                break
-            href = episode["href"]
-            if "Film" in href:
-                continue
-            # Check if href contains "Episode_" followed by a number to avoid recaps, movies, etc.
-            match = re.search(r"Episode_(\d+)", href)
-            
-            if match:
-                episode_number = match.group(1)
-                if int(episode_number) == 542:
-                    continue
-                episode_name = episode.text
-                episode_url = "https://onepiece.fandom.com" + href
-                print(episode_name, episode_url)
-                content_dict = scrape_episode(episode_url)
-                episode_data["Episode"].append(episode_number)
-                episode_data["Title"].append(episode.text)
-                episode_data["Season"].append(content_dict["Season"])
-                episode_data["Arc"].append(arc.text[:-2])
-                episode_data["Saga"].append(saga)
-                episode_data["Air Date"].append(date_converter(content_dict["Airdate"]))
-                episode_data["Opening"].append(content_dict["Opening"])
-                episode_data["Ending"].append(content_dict["Ending"])
-                episode_data["Summary"].append(content_dict["Summary"])
-
-df = pd.DataFrame(episode_data)
-
-df.to_csv("data.csv", index=False)
+    # Save the sagas and their urls in a dictionary
+    saga_dict = save_saga(soup)
+    # Find and save all the episodes data
+    episodes_data = scrape_sagas(saga_dict)
+    # Save the data in a csv file for further use
+    save_csv(episodes_data)
+    
+if __name__ == "__main__":
+    main()
