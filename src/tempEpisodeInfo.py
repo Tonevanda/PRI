@@ -10,6 +10,8 @@ from rake_nltk import Rake
 #nltk.download('punkt_tab')
 #nltk.download('punkt')
 
+#IF RUNNING FIRST TIME, UNCOMMENT THE LINES ABOVE TO DOWNLOAD IT AND THEN COMMENT BACK AGAIN
+
 url = "https://onepiece.fandom.com/wiki/Episode_336"
 
 page = requests.get(url)
