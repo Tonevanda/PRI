@@ -32,3 +32,19 @@ From this, we will have, at least:
 - 11 sagas
 - 26 openings
 - 20 endings
+
+## Solr
+
+### Como Correr
+#### Windows
+
+
+### Versões corretas dos comandos para windows
+#### Create a core
+docker exec meic_solr bin/solr create -c courses   
+#### Load schema
+curl http://localhost:8983/solr/courses/schema -H "Content-type:application/json" -T "schema.json" -X POST
+#### Load data
+curl http://localhost:8983/solr/courses/update?commit=true -H "Content-type:application/json" -T "meic_courses.json" -X POST
+#### Get Operation
+curl http://localhost:8983/solr/courses/schema/fields/title -X GET 
