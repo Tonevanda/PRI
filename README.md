@@ -35,9 +35,12 @@ From this, we will have, at least:
 
 ## Solr
 
-### Como Correr
+### How To Run
 #### Windows
 
+There are many ways, try different ones until they work
+1. run ``startup.bat``, open http://localhost:8983/solr/#/
+2. Inside ``git bash``, run ``sh startup.sh``, open http://localhost:8983/solr/#/
 
 ### Versões corretas dos comandos para windows
 #### Create a core

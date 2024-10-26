@@ -2,7 +2,7 @@ docker run --rm -p 8983:8983 --name onepiece_solr -v %cd%:/data -d solr:9 solr-p
 
 timeout /t 1
 
-curl http://localhost:8983/solr/episodes/schema -H "Content-type:application/json" -T "schema.json" -X POST
+curl http://localhost:8983/solr/episodes/schema -H "Content-type:application/json" -T "./data/schema.json" -X POST
 ::curl http://localhost:8983/solr/episodes/schema \
 ::    -H "Content-type:application/json" \
 ::    -T "schema.json" -X POST
