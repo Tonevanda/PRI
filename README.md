@@ -66,9 +66,11 @@ Find all possible schema options [here](https://solr.apache.org/guide/solr/lates
 - "positionIncrementGap":"100": Needed when using multiValued fields (Full_Text), to ensure it doesn't produce false positives. i.e. Value 1: "Monkey D. Luffy sets out to become the Pirate King." / Value 2: "He recruits Zoro and navigates the Grand Line.". Without the gap, a query such as "Pirate King He recruits" might match because there's no positional gap, even though "He" comes from the second value.
 - analyzer: Does the following in both the query and indexing
     - "class":"solr.StandardTokenizerFactory": splits text into tokens based on standard grammar.
+    - "class":"solr.ASCIIFoldingFilterFactory": Converts non-ASCII characters to their ASCII equivalents.
     - "class": "solr.LowerCaseFilterFactory": Converts all tokens to lowercase for case-insensitive searching.
     - "class": "solr.StopFilterFactory": Removes common English stop words
     - "class": "solr.PorterStemFilterFactory": Reduces words to their root form (i.e., "pirates" to "pirate")
+    - "class": "solr.PhoneticFilterFactory": To handle misspellings and provide more flexible search results. This filter helps match similar-sounding words, enhancing the user experience by providing more relevant search results.
 
 #### small_text
 - "class":"solr.StrField": Good for fields where the exact value is important, and no text analysis is needed.
@@ -92,3 +94,6 @@ We define what kind of field type each field will use, in order to use the corre
 
 ### Copy Field
 Copies contents from one field to another. We use this to add all the text elements to a single one to improve querying.
+
+## M2. Schema -> Ideas to improve schema:
+- KeywordMarkerFilterFactory: Protects words from being modified by stemmers.
