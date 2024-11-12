@@ -1,6 +1,6 @@
 {
-    "query": "Full_Text:(diable jambe)^2 OR Title:(diable jambe)^1",
-    "fields": "Episode, score",
+    "query": "Full_Text:(diable jambe)^3 OR Summary:(diable jambe)^1",
+    "fields": "id, Episode, score",
     "params": {
         "defType": "edismax"
     }

@@ -97,3 +97,4 @@ Copies contents from one field to another. We use this to add all the text eleme
 
 ## M2. Schema -> Ideas to improve schema:
 - KeywordMarkerFilterFactory: Protects words from being modified by stemmers.
+- Synonymns...
