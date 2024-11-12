@@ -20,11 +20,6 @@
                     },
                     {
                         "class": "solr.PorterStemFilterFactory"
-                    },
-                    {
-                        "class": "solr.PhoneticFilterFactory",
-                        "encoder": "DoubleMetaphone",
-                        "inject": false
                     }
                 ]
             }

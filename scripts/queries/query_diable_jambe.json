@@ -2,6 +2,7 @@
     "query": "Full_Text:(diable jambe)^3 OR Summary:(diable jambe)^1",
     "fields": "id, Episode, score",
     "params": {
-        "defType": "edismax"
+        "defType": "edismax",
+        "rows": 2000
     }
 }
