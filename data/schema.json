@@ -15,7 +15,7 @@
                     },
                     {
                         "class": "solr.StopFilterFactory",
-                        "words": "stopwords.txt",
+                        "words": "lang/stopwords_en.txt",
                         "ignoreCase": true
                     },
                     {
