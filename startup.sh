@@ -6,6 +6,9 @@ docker run --rm -p 8983:8983 --name onepiece_solr -v "${PWD}:/data" -d solr:9 so
 # Add a delay to ensure Solr is fully up and running
 sleep 5
 
+# Copy the synonyms file to the Solr container
+docker exec -it onepiece_solr bash -c "cp @./data/synonyms.txt http://localhost:8983/solr/episodes/files/synonyms.txt"
+
 # Schema definition via API
 curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/schema.json" \
@@ -21,8 +24,3 @@ curl -X POST -H 'Content-type:application/json' \
 curl -X POST -H 'Content-type:text/csv' \
     --data-binary "@./data/data.csv" \
     http://localhost:8983/solr/episodes/update?commit=true
-
-
-
-
-
