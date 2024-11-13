@@ -6,10 +6,8 @@ docker run --rm -p 8983:8983 --name onepiece_solr -v "${PWD}:/data" -d solr:9 so
 # Add a delay to ensure Solr is fully up and running
 sleep 5
 
+# Update synonyms.txt
 docker cp ./data/synonyms.txt onepiece_solr:/var/solr/data/episodes/conf/synonyms.txt
-
-#docker exec onepiece_solr curl "http://localhost:8983/solr/admin/cores?action=RELOAD&core=episodes"
-
 
 # Schema definition via API
 curl -X POST -H 'Content-type:application/json' \
