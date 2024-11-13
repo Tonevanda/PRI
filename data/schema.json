@@ -4,7 +4,35 @@
             "name":"text",
             "class":"solr.TextField",
             "positionIncrementGap":"100",
-            "analyzer": {
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class":"solr.StandardTokenizerFactory"
+                },
+                "filters": [
+                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {
+                        "class": "solr.LowerCaseFilterFactory"
+                    },
+                    {
+                        "class": "solr.SynonymGraphFilterFactory",
+                        "synonyms": "synonyms.txt",
+                        "ignoreCase": true,
+                        "tokenizerFactory": "solr.StandardTokenizerFactory"
+                    },
+                    {
+                        "class": "solr.FlattenGraphFilterFactory"
+                    },
+                    {
+                        "class": "solr.StopFilterFactory",
+                        "words": "lang/stopwords_en.txt",
+                        "ignoreCase": true
+                    },
+                    {
+                        "class": "solr.PorterStemFilterFactory"
+                    }
+                ]
+            },
+            "queryAnalyzer": {
                 "tokenizer": {
                     "class":"solr.StandardTokenizerFactory"
                 },
@@ -17,12 +45,6 @@
                         "class": "solr.StopFilterFactory",
                         "words": "lang/stopwords_en.txt",
                         "ignoreCase": true
-                    },
-                    {
-                        "class": "solr.SynonymFilterFactory",
-                        "synonyms": "synonyms.txt",
-                        "ignoreCase": true,
-                        "expand": true
                     },
                     {
                         "class": "solr.PorterStemFilterFactory"
