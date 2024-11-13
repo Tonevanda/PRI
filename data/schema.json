@@ -38,6 +38,11 @@
         },
         {
             "name":"number",
+            "class":"solr.IntPointField",
+            "docValues": true
+        },
+        {
+            "name":"float_number",
             "class":"solr.FloatPointField",
             "docValues": true
         },
@@ -103,7 +108,7 @@
         },
         {
             "name": "Season",
-            "type": "number",
+            "type": "float_number",
             "indexed": true,
             "stored": true
         },
