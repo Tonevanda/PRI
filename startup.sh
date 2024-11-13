@@ -26,8 +26,3 @@ curl -X POST -H 'Content-type:application/json' \
 curl -X POST -H 'Content-type:text/csv' \
     --data-binary "@./data/data.csv" \
     http://localhost:8983/solr/episodes/update?commit=true
-
-
-
-
-
