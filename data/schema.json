@@ -19,6 +19,12 @@
                         "ignoreCase": true
                     },
                     {
+                        "class": "solr.SynonymFilterFactory",
+                        "synonyms": "synonyms.txt",
+                        "ignoreCase": true,
+                        "expand": true
+                    },
+                    {
                         "class": "solr.PorterStemFilterFactory"
                     }
                 ]
