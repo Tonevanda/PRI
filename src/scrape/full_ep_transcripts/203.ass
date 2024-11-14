@@ -1,0 +1,332 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.38,0:00:20.61,Default,,0000,0000,0000,,Did you know there's an awesome\Ntreasure at the end of this sea?!
+Dialogue: 0,0:00:20.61,0:00:25.18,Default,,0000,0000,0000,,And whoever gets it can be King\Nof the Pirates! Isn't that exciting?!
+Dialogue: 0,0:00:25.18,0:00:28.39,Default,,0000,0000,0000,,Unheard-of adventures are waiting!
+Dialogue: 0,0:00:30.39,0:00:38.26,Default,,0000,0000,0000,,Bon voyage! Let that shred of courage grow
+Dialogue: 0,0:00:38.26,0:00:45.90,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:00:45.90,0:00:53.68,Default,,0000,0000,0000,,The horizons everyone\Ndreamed of were separate at first
+Dialogue: 0,0:00:53.68,0:01:00.82,Default,,0000,0000,0000,,but now they can be seen\Nthrough a single telescope
+Dialogue: 0,0:01:00.82,0:01:10.16,Default,,0000,0000,0000,,A bitter compass of destiny\Nis leading your heart astray
+Dialogue: 0,0:01:10.16,0:01:13.06,Default,,0000,0000,0000,,so turn the wheel in the other direction!
+Dialogue: 0,0:01:13.06,0:01:15.13,Default,,0000,0000,0000,,Bon voyage!
+Dialogue: 0,0:01:15.13,0:01:20.37,Default,,0000,0000,0000,,Toss aside your bonds and your past
+Dialogue: 0,0:01:20.37,0:01:27.38,Default,,0000,0000,0000,,We can surely smile despite that
+Dialogue: 0,0:01:27.38,0:01:36.86,Default,,0000,0000,0000,,Tears shed trying to achieve\Nyour dreams aren't for naught
+Dialogue: 0,0:01:36.86,0:01:42.26,Default,,0000,0000,0000,,Precious in my life
+Dialogue: 0,0:01:42.26,0:01:50.04,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:02:05.12,0:02:08.05,Default,,0000,0000,0000,,Gum-Gum Balloon!
+Dialogue: 0,0:02:19.50,0:02:22.37,Default,,0000,0000,0000,,--Nami?\N--We've been had...
+Dialogue: 0,0:02:22.37,0:02:24.40,Default,,0000,0000,0000,,Our treasure is gone!
+Dialogue: 0,0:02:27.01,0:02:31.91,Default,,0000,0000,0000,,"The Pirate Ship Disappears!\NFortress Battle, Round #2"
+Dialogue: 0,0:02:46.79,0:02:49.26,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:49.26,0:02:51.66,Default,,0000,0000,0000,,They're getting away! After them!
+Dialogue: 0,0:02:51.66,0:02:53.33,Default,,0000,0000,0000,,But Lt. Commander!
+Dialogue: 0,0:02:53.33,0:02:56.80,Default,,0000,0000,0000,,These are shallow waters, and we\Nhave to go through the shore reef,
+Dialogue: 0,0:02:56.80,0:02:58.34,Default,,0000,0000,0000,,so all this smoke is dangerous!
+Dialogue: 0,0:02:58.34,0:03:00.51,Default,,0000,0000,0000,,I'm aware of that! And I don't care!
+Dialogue: 0,0:03:00.51,0:03:01.97,Default,,0000,0000,0000,,But...!
+Dialogue: 0,0:03:01.97,0:03:05.51,Default,,0000,0000,0000,,What if they make it onto the ocean outside?!
+Dialogue: 0,0:03:05.51,0:03:11.95,Default,,0000,0000,0000,,We'll wind up the laughingstock\Nand shame of the entire navy!
+Dialogue: 0,0:03:11.95,0:03:15.55,Default,,0000,0000,0000,,We-- the Navarone Fortress-- will?!
+Dialogue: 0,0:03:15.55,0:03:19.26,Default,,0000,0000,0000,,That's right! Those damn navy\Nbigwigs'll start arguing again
+Dialogue: 0,0:03:19.26,0:03:24.73,Default,,0000,0000,0000,,about destroying some useless\Nhedgehog of a fortress
+Dialogue: 0,0:03:24.73,0:03:28.20,Default,,0000,0000,0000,,that can't even capture a\Nsingle bug that snuck inside!
+Dialogue: 0,0:03:29.53,0:03:33.94,Default,,0000,0000,0000,,You! As a marine of the Navarone\NFortress, can you tolerate that?!
+Dialogue: 0,0:03:33.94,0:03:35.61,Default,,0000,0000,0000,,No, sir!
+Dialogue: 0,0:03:36.64,0:03:38.21,Default,,0000,0000,0000,,Attention, all warships!
+Dialogue: 0,0:03:38.21,0:03:41.81,Default,,0000,0000,0000,,Full speed ahead! Pass through the Sea Gate!
+Dialogue: 0,0:03:50.86,0:03:54.09,Default,,0000,0000,0000,,It's the outside ocean! We can\Nget out if we go straight ahead!
+Dialogue: 0,0:03:54.09,0:03:57.70,Default,,0000,0000,0000,,--No, we can't leave!\N--Eh?
+Dialogue: 0,0:03:57.70,0:04:00.80,Default,,0000,0000,0000,,Take the ship back! Turn it around! Hurry!
+Dialogue: 0,0:04:00.80,0:04:06.77,Default,,0000,0000,0000,,We're going back into the fortress!\NThe navy stole all our gold!
+Dialogue: 0,0:04:06.77,0:04:07.74,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:04:07.74,0:04:14.51,Default,,0000,0000,0000,,A-Are you insane, Nami?!\NWe almost died trying to get this far!
+Dialogue: 0,0:04:14.51,0:04:17.12,Default,,0000,0000,0000,,I'm very sane!
+Dialogue: 0,0:04:17.12,0:04:21.59,Default,,0000,0000,0000,,Even if we do make it out,\Nthere's no point without the gold!
+Dialogue: 0,0:04:21.59,0:04:25.36,Default,,0000,0000,0000,,When money is involved,\Nshe can be strangely persuasive...
+Dialogue: 0,0:04:25.36,0:04:28.13,Default,,0000,0000,0000,,I love that side of Nami-san, too!
+Dialogue: 0,0:04:28.13,0:04:32.60,Default,,0000,0000,0000,,But we made that huge hole!\NWhy can't we just leave now?!
+Dialogue: 0,0:04:32.60,0:04:35.33,Default,,0000,0000,0000,,--Aren't we pirates, Luffy?!\N--Yeah.
+Dialogue: 0,0:04:35.33,0:04:41.04,Default,,0000,0000,0000,,Don't you think pirates leaving\Ngold behind is shameful?!
+Dialogue: 0,0:04:41.04,0:04:42.57,Default,,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:04:42.57,0:04:44.01,Default,,0000,0000,0000,,Good! Then it's decided!
+Dialogue: 0,0:04:44.01,0:04:49.01,Default,,0000,0000,0000,,Right rudder, full! Make a U-turn\Nand take us back into the fortress!
+Dialogue: 0,0:04:49.01,0:04:52.68,Default,,0000,0000,0000,,--Right! Got it!\N--Yes! As you wish, Nami-san!
+Dialogue: 0,0:04:52.68,0:04:55.62,Default,,0000,0000,0000,,--Right rudder, full!\N--U-turn!
+Dialogue: 0,0:04:58.89,0:05:01.69,Default,,0000,0000,0000,,--Hold on, you guys!\N--What're you doing?!
+Dialogue: 0,0:05:01.69,0:05:04.06,Default,,0000,0000,0000,,Don't be reckless!
+Dialogue: 0,0:05:12.87,0:05:15.94,Default,,0000,0000,0000,,That's it, that's it! Keep it up!
+Dialogue: 0,0:05:22.38,0:05:25.32,Default,,0000,0000,0000,,Sound the alarm bell! Louder!
+Dialogue: 0,0:05:25.32,0:05:29.52,Default,,0000,0000,0000,,Can't see a thing in this smoke!\NBe sure not to hit any fellow ships!
+Dialogue: 0,0:05:34.09,0:05:35.56,Default,,0000,0000,0000,,Something happen?
+Dialogue: 0,0:05:35.56,0:05:37.33,Default,,0000,0000,0000,,Quiet, Luffy!
+Dialogue: 0,0:05:38.73,0:05:40.53,Default,,0000,0000,0000,,Wind chimes?
+Dialogue: 0,0:05:40.53,0:05:45.47,Default,,0000,0000,0000,,These are alarm bells for signaling\Nyour location to other ships in fog!
+Dialogue: 0,0:05:47.17,0:05:50.44,Default,,0000,0000,0000,,Oh, no! One's coming straight at us!
+Dialogue: 0,0:05:50.44,0:05:53.38,Default,,0000,0000,0000,,How's that? Is that good enough, Nami-san?!
+Dialogue: 0,0:05:53.38,0:05:55.65,Default,,0000,0000,0000,,No! Left rudder, full!
+Dialogue: 0,0:05:55.65,0:05:59.92,Default,,0000,0000,0000,,--Eh?!\N--We have to change course or we'll crash!
+Dialogue: 0,0:06:01.82,0:06:04.66,Default,,0000,0000,0000,,Whatever you want, Nami-san!
+Dialogue: 0,0:06:12.43,0:06:14.83,Default,,0000,0000,0000,,We're gonna crash!
+Dialogue: 0,0:06:26.41,0:06:30.68,Default,,0000,0000,0000,,We almost wound up in pieces\Nwithout ever seeing the gold again...
+Dialogue: 0,0:06:32.45,0:06:35.59,Default,,0000,0000,0000,,How are things up ahead?
+Dialogue: 0,0:06:37.06,0:06:40.79,Default,,0000,0000,0000,,--Not again...\N--There are lots more wind chimes than before!
+Dialogue: 0,0:06:42.96,0:06:49.07,Default,,0000,0000,0000,,There's one-- two-- no, even more\Nwarships coming from the smoke!
+Dialogue: 0,0:06:50.44,0:06:52.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:54.74,0:06:58.48,Default,,0000,0000,0000,,Nami-san! What'll it be? Left or right rudder?
+Dialogue: 0,0:06:58.48,0:07:00.51,Default,,0000,0000,0000,,More left!
+Dialogue: 0,0:07:00.51,0:07:03.92,Default,,0000,0000,0000,,We gotta get out of this smoke!
+Dialogue: 0,0:07:03.92,0:07:05.72,Default,,0000,0000,0000,,What the heck's going on?!
+Dialogue: 0,0:07:05.72,0:07:11.26,Default,,0000,0000,0000,,Just do what she says!\NShe's the best navigator in the world!
+Dialogue: 0,0:07:14.66,0:07:16.90,Default,,0000,0000,0000,,We're gonna crash for sure this time!
+Dialogue: 0,0:07:21.80,0:07:23.53,Default,,0000,0000,0000,,Please, God...!
+Dialogue: 0,0:07:37.12,0:07:39.15,Default,,0000,0000,0000,,We made it...
+Dialogue: 0,0:07:39.15,0:07:41.05,Default,,0000,0000,0000,,Keep going straight now!
+Dialogue: 0,0:07:44.66,0:07:49.16,Default,,0000,0000,0000,,We have to get out of this dangerous\Nsmoke as quickly as possible!
+Dialogue: 0,0:07:49.16,0:07:50.90,Default,,0000,0000,0000,,They're gonna spot us, you know!
+Dialogue: 0,0:07:50.90,0:07:56.00,Default,,0000,0000,0000,,Yeah! We'll be sitting ducks\Nonce we leave the smoke!
+Dialogue: 0,0:07:56.00,0:07:59.90,Default,,0000,0000,0000,,We'll get blasted and wind up\Nat the bottom of the ocean!
+Dialogue: 0,0:07:59.90,0:08:01.97,Default,,0000,0000,0000,,We'll just have to play it by ear!
+Dialogue: 0,0:08:01.97,0:08:04.08,Default,,0000,0000,0000,,--Navigator...\N--Eh?
+Dialogue: 0,0:08:04.08,0:08:06.44,Default,,0000,0000,0000,,I did some research in the reference room--
+Dialogue: 0,0:08:06.44,0:08:12.35,Default,,0000,0000,0000,,this fortress actually used to house\Nmany more people and warships.
+Dialogue: 0,0:08:14.15,0:08:18.59,Default,,0000,0000,0000,,Hey now, Robin! This is no time for old stories!
+Dialogue: 0,0:08:18.59,0:08:22.99,Default,,0000,0000,0000,,It was military downsizing.\NThey've really fallen into decline since.
+Dialogue: 0,0:08:22.99,0:08:28.80,Default,,0000,0000,0000,,So it seems there are many\Nunused docks in this port.
+Dialogue: 0,0:08:28.80,0:08:31.00,Default,,0000,0000,0000,,Unused docks...
+Dialogue: 0,0:08:31.00,0:08:34.91,Default,,0000,0000,0000,,I see! That's some nice info, Robin!
+Dialogue: 0,0:08:34.91,0:08:39.34,Default,,0000,0000,0000,,Guys! We're gonna hide the\NGoing Merry in an old dock!
+Dialogue: 0,0:08:39.34,0:08:42.51,Default,,0000,0000,0000,,Eh?! And where exactly is that?!
+Dialogue: 0,0:08:42.51,0:08:44.95,Default,,0000,0000,0000,,Just follow my orders!
+Dialogue: 0,0:08:56.96,0:08:59.20,Default,,0000,0000,0000,,W-What?!
+Dialogue: 0,0:09:02.67,0:09:05.00,Default,,0000,0000,0000,,Call the cannoneers at the waterway!
+Dialogue: 0,0:09:05.00,0:09:07.67,Default,,0000,0000,0000,,Ask if the Straw Hat ship passed through!
+Dialogue: 0,0:09:07.67,0:09:09.71,Default,,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:09:09.71,0:09:13.18,Default,,0000,0000,0000,,Attention, cannoneers! This is Drake's flagship!
+Dialogue: 0,0:09:13.18,0:09:16.65,Default,,0000,0000,0000,,Have you seen the Straw Hats' ship?!
+Dialogue: 0,0:09:16.65,0:09:18.58,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:18.58,0:09:22.45,Default,,0000,0000,0000,,Apparently, no other ships have\Npassed through the Sea Gate yet!
+Dialogue: 0,0:09:22.45,0:09:24.36,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:24.36,0:09:26.72,Default,,0000,0000,0000,,Where did you disappear to, pirates?!
+Dialogue: 0,0:09:26.72,0:09:30.60,Default,,0000,0000,0000,,Don't tell me you managed\Nto sneak past the cannoneers
+Dialogue: 0,0:09:30.60,0:09:34.80,Default,,0000,0000,0000,,and vanish beyond the horizon\Nin that short period of time?!
+Dialogue: 0,0:09:40.81,0:09:42.31,Default,,0000,0000,0000,,I'm very sorry!
+Dialogue: 0,0:09:42.31,0:09:45.68,Default,,0000,0000,0000,,We lost sight of the pirate ship\Nonce it entered the outer waters!
+Dialogue: 0,0:09:45.68,0:09:49.28,Default,,0000,0000,0000,,It's almost as if they\Nmagically turned invisible!
+Dialogue: 0,0:09:49.28,0:09:50.92,Default,,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:09:50.92,0:09:55.92,Default,,0000,0000,0000,,--Sir?!\N--No, good work. Come on back for now.
+Dialogue: 0,0:09:55.92,0:10:00.46,Default,,0000,0000,0000,,We can talk leisurely about\Nour forthcoming plan.
+Dialogue: 0,0:10:00.46,0:10:04.50,Default,,0000,0000,0000,,They won't try to escape.
+Dialogue: 0,0:10:04.50,0:10:09.90,Default,,0000,0000,0000,,Not with their dreams still in this fortress...
+Dialogue: 0,0:10:24.62,0:10:25.82,Default,,0000,0000,0000,,Unhand me!
+Dialogue: 0,0:10:25.82,0:10:29.19,Default,,0000,0000,0000,,Do you wanna be court-martialed\Nfor insulting a superior officer?!
+Dialogue: 0,0:10:29.19,0:10:31.22,Default,,0000,0000,0000,,Hear that? He's gonna court-martial us!
+Dialogue: 0,0:10:31.22,0:10:33.62,Default,,0000,0000,0000,,Go ahead! Be our guest!
+Dialogue: 0,0:10:34.83,0:10:37.73,Default,,0000,0000,0000,,You two! Let that man go!
+Dialogue: 0,0:10:39.46,0:10:42.27,Default,,0000,0000,0000,,I'm so sorry, Major!
+Dialogue: 0,0:10:42.27,0:10:45.10,Default,,0000,0000,0000,,I told you so!
+Dialogue: 0,0:10:45.10,0:10:50.78,Default,,0000,0000,0000,,I am Major Shepherd, special\Ninspector for Navy Command!
+Dialogue: 0,0:10:51.94,0:10:57.32,Default,,0000,0000,0000,,I'd say the Straw Hats are right around here...
+Dialogue: 0,0:10:57.32,0:11:00.32,Default,,0000,0000,0000,,I'd like to use them a little more.
+Dialogue: 0,0:11:00.32,0:11:04.69,Default,,0000,0000,0000,,I guess I'll wait for them\Nto come out on their own.
+Dialogue: 0,0:11:05.79,0:11:09.23,Default,,0000,0000,0000,,Those Straw Hat pirates\Nhave us working like crazy...
+Dialogue: 0,0:11:09.23,0:11:13.50,Default,,0000,0000,0000,,Time for some good, energizing grub,\Nthen it's back to searching.
+Dialogue: 0,0:11:16.30,0:11:18.87,Default,,0000,0000,0000,,What is this?! This isn't\Nlike this morning's food!
+Dialogue: 0,0:11:18.87,0:11:22.71,Default,,0000,0000,0000,,Yeah! I'd never had anything like it before!
+Dialogue: 0,0:11:22.71,0:11:26.11,Default,,0000,0000,0000,,Hey! Don't be skimpin'! Give us\Nsome grub like this morning's!
+Dialogue: 0,0:11:26.11,0:11:29.31,Default,,0000,0000,0000,,Give us good food! Give us good food!
+Dialogue: 0,0:11:29.31,0:11:33.99,Default,,0000,0000,0000,,Jessica-san! The soldiers are\Ncomplaining about their meals!
+Dialogue: 0,0:11:33.99,0:11:36.25,Default,,0000,0000,0000,,Give us good food! Give us good food!
+Dialogue: 0,0:11:36.25,0:11:39.82,Default,,0000,0000,0000,,Please, let us use those recipes!
+Dialogue: 0,0:11:39.82,0:11:44.33,Default,,0000,0000,0000,,Where has your pride as\Ncooks of Navarone gone?!
+Dialogue: 0,0:11:44.33,0:11:45.96,Default,,0000,0000,0000,,Jessica-san!
+Dialogue: 0,0:11:45.96,0:11:50.57,Default,,0000,0000,0000,,It's true that he was a pirate,\Nbut he was still an excellent cook
+Dialogue: 0,0:11:50.57,0:11:55.91,Default,,0000,0000,0000,,who made food for the famished\Nsoldiers who came here to eat!
+Dialogue: 0,0:11:55.91,0:12:00.85,Default,,0000,0000,0000,,Yeah! All these men want to be\Nrevitalized by eating his food!
+Dialogue: 0,0:12:00.85,0:12:03.51,Default,,0000,0000,0000,,Please make a decision! Please!
+Dialogue: 0,0:12:03.51,0:12:05.55,Default,,0000,0000,0000,,Please, Jessica-san!
+Dialogue: 0,0:12:05.55,0:12:07.49,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:12:16.56,0:12:18.20,Default,,0000,0000,0000,,We will make our own cooking
+Dialogue: 0,0:12:18.20,0:12:22.10,Default,,0000,0000,0000,,that's every bit as delicious\Nand replenishing as his!
+Dialogue: 0,0:12:22.10,0:12:26.90,Default,,0000,0000,0000,,But for today, we'll abandon our\Ncheap pride and borrow his recipes!
+Dialogue: 0,0:12:26.90,0:12:32.31,Default,,0000,0000,0000,,It's true that he wasn't a pirate\Nin the kitchen-- he was a cook.
+Dialogue: 0,0:12:34.05,0:12:38.12,Default,,0000,0000,0000,,What's most important of all\Nis satisfying the people eating!
+Dialogue: 0,0:12:38.12,0:12:40.12,Default,,0000,0000,0000,,Jessica-san!
+Dialogue: 0,0:12:40.12,0:12:42.89,Default,,0000,0000,0000,,What're you standing around for?!\NThose men are waiting!
+Dialogue: 0,0:12:42.89,0:12:44.72,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:12:48.19,0:12:50.46,Default,,0000,0000,0000,,What do we do now, Nami?!
+Dialogue: 0,0:12:50.46,0:12:52.36,Default,,0000,0000,0000,,It's not too late yet.
+Dialogue: 0,0:12:52.36,0:12:55.17,Default,,0000,0000,0000,,We should go back to the\Ngate and get onto the ocean.
+Dialogue: 0,0:12:55.17,0:12:57.87,Default,,0000,0000,0000,,Yeah! These guys mean business!
+Dialogue: 0,0:12:57.87,0:13:01.67,Default,,0000,0000,0000,,It's a shame about the gold,\Nbut our lives are more important!
+Dialogue: 0,0:13:01.67,0:13:04.34,Default,,0000,0000,0000,,What do you think, Luffy?
+Dialogue: 0,0:13:04.34,0:13:08.61,Default,,0000,0000,0000,,We need the gold! But I'm hungry! Sanji! Food!
+Dialogue: 0,0:13:08.61,0:13:12.78,Default,,0000,0000,0000,,I'll look for some food\Nand make you somethin'.
+Dialogue: 0,0:13:12.78,0:13:14.79,Default,,0000,0000,0000,,The storeroom is empty.
+Dialogue: 0,0:13:14.79,0:13:18.09,Default,,0000,0000,0000,,There's gotta be something left somewhere.
+Dialogue: 0,0:13:21.73,0:13:26.40,Default,,0000,0000,0000,,Do you really think it's okay to\Nescape without getting the gold?!
+Dialogue: 0,0:13:26.40,0:13:28.33,Default,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:13:28.33,0:13:33.87,Default,,0000,0000,0000,,Well, that's a pity.\NPirate treasure is always divided up!
+Dialogue: 0,0:13:33.87,0:13:39.08,Default,,0000,0000,0000,,And given all that gold, we'd each\Nhave gotten so much money!
+Dialogue: 0,0:13:39.08,0:13:41.65,Default,,0000,0000,0000,,--Divided up?!\N--Naturally.
+Dialogue: 0,0:13:41.65,0:13:45.75,Default,,0000,0000,0000,,I've been waiting for this!\NI'm gonna buy me a bronze statue!
+Dialogue: 0,0:13:45.75,0:13:49.22,Default,,0000,0000,0000,,Yeah! Can we buy books?!\NI want the latest medical books!
+Dialogue: 0,0:13:49.22,0:13:53.36,Default,,0000,0000,0000,,I want to study all sorts of medical\Ntechniques I don't know about!
+Dialogue: 0,0:13:53.36,0:13:57.83,Default,,0000,0000,0000,,New pots and frying pans,\Nplus silverware and giant mousetraps...
+Dialogue: 0,0:13:57.83,0:14:00.40,Default,,0000,0000,0000,,That leaves a crapload left over!
+Dialogue: 0,0:14:00.40,0:14:02.40,Default,,0000,0000,0000,,I could drink all I want!
+Dialogue: 0,0:14:02.40,0:14:04.67,Default,,0000,0000,0000,,--Right?!\N--Yeah! Yeah!
+Dialogue: 0,0:14:04.67,0:14:07.67,Default,,0000,0000,0000,,First, my stash will be 80%!
+Dialogue: 0,0:14:07.67,0:14:09.07,Default,,0000,0000,0000,,Hold on a second!
+Dialogue: 0,0:14:09.07,0:14:10.91,Default,,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:14:10.91,0:14:15.05,Default,,0000,0000,0000,,Obviously! You can't just\Nopenly have a secret stash!
+Dialogue: 0,0:14:15.05,0:14:21.05,Default,,0000,0000,0000,,By "stash," I mean money\Nsaved up to repair the ship!
+Dialogue: 0,0:14:21.05,0:14:23.85,Default,,0000,0000,0000,,The ship? You mean Merry?
+Dialogue: 0,0:14:23.85,0:14:28.16,Default,,0000,0000,0000,,That's right. The Going Merry is\Nwhat brought us where we are now.
+Dialogue: 0,0:14:28.16,0:14:29.96,Default,,0000,0000,0000,,Come to think of it,
+Dialogue: 0,0:14:29.96,0:14:36.70,Default,,0000,0000,0000,,it has given us a ride on the seas\Never since my East Blue village...
+Dialogue: 0,0:14:36.70,0:14:41.44,Default,,0000,0000,0000,,It's a slightly older model,\Nbut I personally designed it!
+Dialogue: 0,0:14:41.44,0:14:48.11,Default,,0000,0000,0000,,A carvel-make caravel, with lateen\Nsails and a central stern rudder...
+Dialogue: 0,0:14:48.11,0:14:51.85,Default,,0000,0000,0000,,The Going Merry!
+Dialogue: 0,0:14:51.85,0:14:53.88,Default,,0000,0000,0000,,--Get on already.\N--Eh?!
+Dialogue: 0,0:14:53.88,0:14:56.29,Default,,0000,0000,0000,,We're friends now, aren't we?
+Dialogue: 0,0:14:56.29,0:14:58.89,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:14:58.89,0:15:01.06,Default,,0000,0000,0000,,I get to be captain, right?!
+Dialogue: 0,0:15:01.06,0:15:04.26,Default,,0000,0000,0000,,Don't be dumb! I'm the captain!
+Dialogue: 0,0:15:07.16,0:15:11.77,Default,,0000,0000,0000,,We've made so many memories with this ship...
+Dialogue: 0,0:15:14.07,0:15:17.78,Default,,0000,0000,0000,,I'm thinking of leaving this island!
+Dialogue: 0,0:15:20.81,0:15:23.41,Default,,0000,0000,0000,,I'm... going now.
+Dialogue: 0,0:15:52.01,0:15:53.78,Default,,0000,0000,0000,,I'll be back someday!
+Dialogue: 0,0:15:56.55,0:16:00.82,Default,,0000,0000,0000,,And it was with us when we\Ncrossed Reverse Mountain
+Dialogue: 0,0:16:00.82,0:16:03.02,Default,,0000,0000,0000,,and burst onto the Grand Line...
+Dialogue: 0,0:16:03.02,0:16:04.86,Default,,0000,0000,0000,,This can't be real!
+Dialogue: 0,0:16:04.86,0:16:08.29,Default,,0000,0000,0000,,The ocean really is flowing up it!
+Dialogue: 0,0:16:08.29,0:16:11.40,Default,,0000,0000,0000,,We made it!
+Dialogue: 0,0:16:15.20,0:16:18.00,Default,,0000,0000,0000,,We're going into the clouds!
+Dialogue: 0,0:16:28.55,0:16:34.45,Default,,0000,0000,0000,,I see it! This is the greatest sea\Nin the world! The Grand Line!
+Dialogue: 0,0:16:34.45,0:16:38.52,Default,,0000,0000,0000,,The One Piece is up ahead, somewhere!
+Dialogue: 0,0:16:38.52,0:16:41.23,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:16:42.96,0:16:45.50,Default,,0000,0000,0000,,And then the sky islands...
+Dialogue: 0,0:16:50.43,0:16:52.17,Default,,0000,0000,0000,,Who's this ship's navigator?!
+Dialogue: 0,0:16:52.17,0:16:54.17,Default,,0000,0000,0000,,You are, Nami-san!
+Dialogue: 0,0:16:54.17,0:16:57.14,Default,,0000,0000,0000,,All right, men! Do what Nami-san says!
+Dialogue: 0,0:16:57.14,0:16:59.04,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:16:59.04,0:17:01.11,Default,,0000,0000,0000,,We're flying!
+Dialogue: 0,0:17:03.08,0:17:05.55,Default,,0000,0000,0000,,Awesome! The ship is flying!
+Dialogue: 0,0:17:05.55,0:17:08.02,Default,,0000,0000,0000,,Nami-san! You're wonderful!
+Dialogue: 0,0:17:08.02,0:17:10.82,Default,,0000,0000,0000,,And I like you!
+Dialogue: 0,0:17:11.86,0:17:16.03,Default,,0000,0000,0000,,And I even risked my life to protect it!
+Dialogue: 0,0:17:19.90,0:17:23.27,Default,,0000,0000,0000,,Stop it! Stop it!
+Dialogue: 0,0:17:23.27,0:17:25.60,Default,,0000,0000,0000,,Please don't harm the ship!
+Dialogue: 0,0:17:27.24,0:17:29.04,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:17:37.18,0:17:41.05,Default,,0000,0000,0000,,And then someone fixed the ship for us...
+Dialogue: 0,0:17:48.96,0:17:52.26,Default,,0000,0000,0000,,I really saw it!
+Dialogue: 0,0:17:52.26,0:17:56.30,Default,,0000,0000,0000,,When you think about it,\Nthis ship's been through a lot!
+Dialogue: 0,0:18:07.11,0:18:10.48,Default,,0000,0000,0000,,It's done so much for us,\Nbut now it's all beat up.
+Dialogue: 0,0:18:10.48,0:18:13.85,Default,,0000,0000,0000,,Good idea! The Going Merry's Great Repair!
+Dialogue: 0,0:18:13.85,0:18:16.05,Default,,0000,0000,0000,,I'm all for it!
+Dialogue: 0,0:18:16.05,0:18:19.32,Default,,0000,0000,0000,,Okay, then. Since we don't\Nknow how much it'll cost,
+Dialogue: 0,0:18:19.32,0:18:22.23,Default,,0000,0000,0000,,we'll hold off on dividing up\Nthe treasure when we get it back.
+Dialogue: 0,0:18:22.23,0:18:27.23,Default,,0000,0000,0000,,They took most of the food,\Nbut not the stuff in the fridge.
+Dialogue: 0,0:18:27.23,0:18:29.97,Default,,0000,0000,0000,,Dig in.
+Dialogue: 0,0:18:29.97,0:18:34.00,Default,,0000,0000,0000,,Yeah. Usopp's cheap repairs\Nare just about at their limit.
+Dialogue: 0,0:18:34.00,0:18:36.91,Default,,0000,0000,0000,,I'll have you know that I'm a sniper!
+Dialogue: 0,0:18:36.91,0:18:41.18,Default,,0000,0000,0000,,But yeah, Mechao-san said the\Nsame thing-- that it needs real repairs.
+Dialogue: 0,0:18:41.18,0:18:44.22,Default,,0000,0000,0000,,Yeah. We should go to a real shipbuilding dock
+Dialogue: 0,0:18:44.22,0:18:47.99,Default,,0000,0000,0000,,and have real shipwrights fix it for us.
+Dialogue: 0,0:18:49.12,0:18:51.66,Default,,0000,0000,0000,,There are people better than\Nyou at fixing ships, Usopp?
+Dialogue: 0,0:18:51.66,0:18:54.12,Default,,0000,0000,0000,,Sometimes you gotta take extra good care,
+Dialogue: 0,0:18:54.12,0:18:55.56,Default,,0000,0000,0000,,or you'll wind up paying for it later!
+Dialogue: 0,0:18:55.56,0:18:57.63,Default,,0000,0000,0000,,All right, it's decided!
+Dialogue: 0,0:18:57.63,0:19:00.53,Default,,0000,0000,0000,,Let's get a shipwright in our crew!
+Dialogue: 0,0:19:00.53,0:19:02.90,Default,,0000,0000,0000,,Our journey is far from over!
+Dialogue: 0,0:19:02.90,0:19:04.40,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:04.40,0:19:07.07,Default,,0000,0000,0000,,We need those skills anyway...
+Dialogue: 0,0:19:07.07,0:19:09.17,Default,,0000,0000,0000,,Yes, yes!
+Dialogue: 0,0:19:09.17,0:19:13.14,Default,,0000,0000,0000,,And Merry is our home! Our life!
+Dialogue: 0,0:19:13.14,0:19:16.75,Default,,0000,0000,0000,,Let's find a shipwright who can keep it safe!
+Dialogue: 0,0:19:19.02,0:19:20.58,Default,,0000,0000,0000,,There he goes again...
+Dialogue: 0,0:19:20.58,0:19:24.39,Default,,0000,0000,0000,,Yeah, on rare occasion,\Nhe gets straight to the point.
+Dialogue: 0,0:19:24.39,0:19:27.79,Default,,0000,0000,0000,,That's the best way! Let's do it!
+Dialogue: 0,0:19:27.79,0:19:31.73,Default,,0000,0000,0000,,--Okay, then that's the plan!\N--I hope we find someone good!
+Dialogue: 0,0:19:31.73,0:19:33.20,Default,,0000,0000,0000,,And we need a musician, too!
+Dialogue: 0,0:19:33.20,0:19:35.40,Default,,0000,0000,0000,,No, just forget about that.
+Dialogue: 0,0:19:35.40,0:19:39.14,Default,,0000,0000,0000,,It's nice to be all excited, but have\Nyou forgotten what comes first?
+Dialogue: 0,0:19:39.14,0:19:43.47,Default,,0000,0000,0000,,--What's that?\N--We have to get our gold back!
+Dialogue: 0,0:19:43.47,0:19:45.21,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:19:45.21,0:19:48.98,Default,,0000,0000,0000,,Question is, where's it hidden?
+Dialogue: 0,0:19:48.98,0:19:50.71,Default,,0000,0000,0000,,In a vault, most likely.
+Dialogue: 0,0:19:50.71,0:19:55.69,Default,,0000,0000,0000,,We know that! The problem is,\Nwe don't know where it is!
+Dialogue: 0,0:19:55.69,0:19:57.62,Default,,0000,0000,0000,,You don't hafta yell at me!
+Dialogue: 0,0:19:57.62,0:19:59.09,Default,,0000,0000,0000,,Wouldn't it be here?
+Dialogue: 0,0:19:59.09,0:20:03.09,Default,,0000,0000,0000,,It's only a guess, but if I were\Nto hide gold in this fortress,
+Dialogue: 0,0:20:03.09,0:20:06.86,Default,,0000,0000,0000,,this multi-lock storage vault\Nseems like the only place to do it.
+Dialogue: 0,0:20:06.86,0:20:09.03,Default,,0000,0000,0000,,--Eh?!\N--You're so smart, Robin-chan!
+Dialogue: 0,0:20:09.03,0:20:12.57,Default,,0000,0000,0000,,Yeah, that does seem the most likely!
+Dialogue: 0,0:20:12.57,0:20:16.01,Default,,0000,0000,0000,,All right, guys! Let's go there\Nand get our gold back!
+Dialogue: 0,0:20:16.01,0:20:21.61,Default,,0000,0000,0000,,But are we just gonna leave the\NGoing Merry here? It'll get spotted!
+Dialogue: 0,0:20:22.68,0:20:27.02,Default,,0000,0000,0000,,"Hide a tree in a forest! Hide a ship in ships!"
+Dialogue: 0,0:20:31.56,0:20:33.52,Default,,0000,0000,0000,,What, that's it?
+Dialogue: 0,0:20:33.52,0:20:36.83,Default,,0000,0000,0000,,You shouldn't try to get too serious that often.
+Dialogue: 0,0:20:36.83,0:20:41.90,Default,,0000,0000,0000,,These are the remains of a dock\Nwhere ships were built and repaired.
+Dialogue: 0,0:20:41.90,0:20:47.37,Default,,0000,0000,0000,,When we came in just now, I saw\Nplenty of abandoned materials.
+Dialogue: 0,0:20:47.37,0:20:50.54,Default,,0000,0000,0000,,Aha! I have a great idea!
+Dialogue: 0,0:20:50.54,0:20:51.84,Default,,0000,0000,0000,,Whisper, whisper, whisper!
+Dialogue: 0,0:20:51.84,0:20:53.71,Default,,0000,0000,0000,,All right?! Help me out, guys!
+Dialogue: 0,0:20:53.71,0:20:55.31,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:08.76,0:21:10.09,Default,,0000,0000,0000,,Whadya think?!
+Dialogue: 0,0:21:10.09,0:21:16.03,Default,,0000,0000,0000,,At least now we don't have to\Nworry about it being stolen again!
+Dialogue: 0,0:21:19.77,0:21:23.61,Default,,0000,0000,0000,,Gluing paper all over the\NGoing Merry was a great idea.
+Dialogue: 0,0:21:23.61,0:21:26.34,Default,,0000,0000,0000,,But I dunno how long it'll fool people,
+Dialogue: 0,0:21:26.34,0:21:28.71,Default,,0000,0000,0000,,given how crappily it's been done...
+Dialogue: 0,0:21:28.71,0:21:33.52,Default,,0000,0000,0000,,Yep! This is definitely a navy\Nwarship, no doubt about it!
+Dialogue: 0,0:21:33.52,0:21:35.42,Default,,0000,0000,0000,,--Yeah!\N--You serious?!
+Dialogue: 0,0:21:35.42,0:21:38.59,Default,,0000,0000,0000,,All right, then! Now to get our gold back!
+Dialogue: 0,0:21:38.59,0:21:42.43,Default,,0000,0000,0000,,Everyone! We commence\Ntonight at midnight! Got that?!
+Dialogue: 0,0:21:42.43,0:21:43.43,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:43.43,0:21:45.56,Default,,0000,0000,0000,,But why don't we go now?
+Dialogue: 0,0:21:45.56,0:21:48.77,Default,,0000,0000,0000,,'Cause the mood'll be\Nbetter at night, obviously!
+Dialogue: 0,0:21:48.77,0:21:51.17,Default,,0000,0000,0000,,Oh! Mood! I see!
+Dialogue: 0,0:21:51.17,0:21:53.70,Default,,0000,0000,0000,,No, I don't think that's quite why.
+Dialogue: 0,0:22:00.31,0:22:10.65,Default,,0000,0000,0000,,Hurry up and get moving towards the future!
+Dialogue: 0,0:22:10.65,0:22:19.50,Default,,0000,0000,0000,,Let's move ahead, pursuing our dreams
+Dialogue: 0,0:22:19.50,0:22:31.51,Default,,0000,0000,0000,,All the answers are right here, pouring out
+Dialogue: 0,0:22:31.51,0:22:37.68,Default,,0000,0000,0000,,Rush forth, rush forth,\Non the road opened before us
+Dialogue: 0,0:22:37.68,0:22:43.25,Default,,0000,0000,0000,,Let's keep moving forward! We can do it!
+Dialogue: 0,0:22:43.25,0:22:49.46,Default,,0000,0000,0000,,We won't give in, we won't give in,\Neven if the obstacle is big
+Dialogue: 0,0:22:49.46,0:22:59.74,Default,,0000,0000,0000,,It's nothing to be scared of,\Nwe can overcome it
+Dialogue: 0,0:23:10.38,0:23:13.28,Default,,0000,0000,0000,,Now we don't have to worry\Nabout Merry, but hold on, you guys!
+Dialogue: 0,0:23:13.28,0:23:14.85,Default,,0000,0000,0000,,Are you just gonna go like this?!
+Dialogue: 0,0:23:14.85,0:23:18.59,Default,,0000,0000,0000,,Geez! Seven people running\Naround will stand out too much!
+Dialogue: 0,0:23:18.59,0:23:21.96,Default,,0000,0000,0000,,Here! I'll give you my super secret plan!
+Dialogue: 0,0:23:21.96,0:23:24.36,Default,,0000,0000,0000,,--On the next One Piece!\N--I do this part!
+Dialogue: 0,0:23:24.36,0:23:25.63,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:25.63,0:23:28.97,Default,,0000,0000,0000,,"The Gold and Waver Recovery Operations!"
+Dialogue: 0,0:23:28.97,0:23:31.54,Default,,0000,0000,0000,,I'm gonna be a brave warrior of the sea!
+Dialogue: 0,0:23:31.54,0:23:33.17,Default,,0000,0000,0000,,You too?!
+Dialogue: 0,0:23:33.17,0:23:35.17,Default,,0000,0000,0000,,

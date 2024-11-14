@@ -1,0 +1,372 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.53,0:00:19.54,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:16.53,0:00:19.54,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.95,0:00:24.87,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.95,0:00:24.87,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.42,0:00:30.34,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.42,0:00:30.34,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.88,0:00:35.72,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.88,0:00:35.72,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:35.88,0:00:38.35,Default,,0000,0000,0000,,{\i1}Your dream is like a monster{\i0}
+Dialogue: 0,0:00:35.88,0:00:38.35,On Top,,0000,0000,0000,,{\i1}kimi no yume wa monsutaa kyuu de{\i0}
+Dialogue: 0,0:00:38.39,0:00:41.31,Default,,0000,0000,0000,,{\i1}Every time it breaks the cage in your heart{\i0}
+Dialogue: 0,0:00:38.39,0:00:41.31,On Top,,0000,0000,0000,,{\i1}mune no ori bukkowashitewa{\i0}
+Dialogue: 0,0:00:41.39,0:00:45.56,Default,,0000,0000,0000,,{\i1}Jump into the paradise on \Nwhich is written "Go to Hell"{\i0}
+Dialogue: 0,0:00:41.39,0:00:45.56,On Top,,0000,0000,0000,,{\i1}tobikomu yo "Go to Hell" to kaita paradaisu{\i0}
+Dialogue: 0,0:00:45.60,0:00:48.31,Default,,0000,0000,0000,,{\i1}It's always, Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:45.60,0:00:48.31,On Top,,0000,0000,0000,,{\i1}itsudatte Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:48.36,0:00:49.02,Default,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.36,0:00:49.02,On Top,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:49.06,0:00:51.11,Default,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:49.06,0:00:51.11,On Top,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:51.15,0:00:52.19,Default,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:51.15,0:00:52.19,On Top,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:52.23,0:00:56.53,Default,,0000,0000,0000,,{\i1}Someday, the dream that's \Ncovered in cuts and bruises{\i0}
+Dialogue: 0,0:00:52.23,0:00:56.53,On Top,,0000,0000,0000,,{\i1}kizu darake ni natta yume wa itsuka{\i0}
+Dialogue: 0,0:00:56.53,0:01:01.87,Default,,0000,0000,0000,,{\i1}will become your one and only treasure{\i0}
+Dialogue: 0,0:00:56.53,0:01:01.87,On Top,,0000,0000,0000,,{\i1}daiji na takaramono ni naru sa{\i0}
+Dialogue: 0,0:01:01.91,0:01:05.54,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:01.91,0:01:05.54,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:05.58,0:01:08.63,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:05.58,0:01:08.63,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:01:08.67,0:01:11.30,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:01:08.67,0:01:11.30,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:01:11.34,0:01:13.63,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:11.34,0:01:13.63,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:13.67,0:01:16.80,Default,,0000,0000,0000,,{\i1}Believing in a great dream together{\i0}
+Dialogue: 0,0:01:13.67,0:01:16.80,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:01:16.80,0:01:19.26,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:01:16.80,0:01:19.26,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:01:19.30,0:01:22.18,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:01:19.30,0:01:22.18,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:01:22.22,0:01:24.60,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:22.22,0:01:24.60,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:27.14,0:01:30.06,Default,,0000,0000,0000,,{\i1}To that planet where love combines with tears{\i0}
+Dialogue: 0,0:01:27.14,0:01:30.06,On Top,,0000,0000,0000,,{\i1}ai ga namida to mazaru hoshi ni{\i0}
+Dialogue: 0,0:01:32.36,0:01:35.53,Default,,0000,0000,0000,,{\i1}The future gently brings a morning{\i0}
+Dialogue: 0,0:01:32.36,0:01:35.53,On Top,,0000,0000,0000,,{\i1}sotto mirai wa asa wo hakobi{\i0}
+Dialogue: 0,0:01:35.57,0:01:47.62,Default,,0000,0000,0000,,{\i1}It shines on our silly but dear world{\i0}
+Dialogue: 0,0:01:35.57,0:01:47.62,On Top,,0000,0000,0000,,{\i1}oroka de itoshii boku \Ntachi no sekai terasu yo{\i0}
+Dialogue: 0,0:01:48.12,0:01:51.88,Default,,0000,0000,0000,,{\i1}Fight! The most formidable enemy is yourself{\i0}
+Dialogue: 0,0:01:48.12,0:01:51.88,On Top,,0000,0000,0000,,{\i1}tatakae! saikyou no teki wa jibun sa{\i0}
+Dialogue: 0,0:01:51.92,0:01:53.46,Default,,0000,0000,0000,,{\i1}Always and forever...{\i0}
+Dialogue: 0,0:01:51.92,0:01:53.46,On Top,,0000,0000,0000,,{\i1}eien ni...{\i0}
+Dialogue: 0,0:01:53.50,0:01:57.38,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:53.50,0:01:57.38,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:57.42,0:02:00.26,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:57.42,0:02:00.26,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:02:00.30,0:02:02.97,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:02:00.30,0:02:02.97,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:02:03.01,0:02:05.56,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:03.01,0:02:05.56,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:05.60,0:02:08.35,Default,,0000,0000,0000,,{\i1}Believing a great dream together{\i0}
+Dialogue: 0,0:02:05.60,0:02:08.35,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:02:08.39,0:02:11.06,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:02:08.39,0:02:11.06,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:02:11.11,0:02:13.77,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:02:11.11,0:02:13.77,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:02:13.82,0:02:16.44,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:13.82,0:02:16.44,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:19.15,0:02:21.78,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:19.15,0:02:21.78,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.79,0:02:27.29,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.79,0:02:27.29,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:30.08,0:02:32.88,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:30.08,0:02:32.88,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.55,0:02:38.80,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.55,0:02:38.80,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:42.89,0:02:44.93,Italics,,0000,0000,0000,,{\i1}The Great Pirate Era
+Dialogue: 0,0:02:44.93,0:02:49.92,Italics,,0000,0000,0000,,is experiencing a groundswell\Nbeyond the World Government's expectation.{\i0}
+Dialogue: 0,0:02:51.60,0:02:58.41,Default,,0000,0000,0000,,{\i1}Being at the center of the unstoppable swell\Nand drawing the most attention is...{\i0}
+Dialogue: 0,0:03:00.70,0:03:02.57,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:03.74,0:03:05.46,Default,,0000,0000,0000,,{\i1}And the Straw Hats!{\i0}
+Dialogue: 0,0:03:08.37,0:03:11.71,Default,,0000,0000,0000,,{\i1}In order to cope with the \Nturbulent Great Pirate Era,{\i0}
+Dialogue: 0,0:03:12.25,0:03:16.63,Default,,0000,0000,0000,,{\i1}50 leaders hold the World Conference\Nevery four years.{\i0}
+Dialogue: 0,0:03:17.34,0:03:20.67,Default,,0000,0000,0000,,{\i1}Known as the Reverie, it is about to start.{\i0}
+Dialogue: 0,0:03:25.30,0:03:29.56,Default,,0000,0000,0000,,{\i1}The times are changing drastically now.{\i0}
+Dialogue: 0,0:03:34.31,0:03:40.82,Default,,0000,0000,0000,,{\i1}"An Explosive Situation!\NTwo Emperors of the Sea Going After Luffy!"{\i0}
+Dialogue: 0,0:03:43.86,0:03:45.91,Default,,0000,0000,0000,,Ring, ring, ring...
+Dialogue: 0,0:03:46.24,0:03:48.45,Default,,0000,0000,0000,,Ring, ring, ring... Clank.
+Dialogue: 0,0:04:04.93,0:04:06.39,Default,,0000,0000,0000,,Kaido-{\i1}sama{\i0}!
+Dialogue: 0,0:04:08.35,0:04:11.77,Default,,0000,0000,0000,,What is it?!\NAre you trying to disturb me while I'm drinking?!
+Dialogue: 0,0:04:11.93,0:04:14.35,Default,,0000,0000,0000,,No! I'd never do that!
+Dialogue: 0,0:04:14.44,0:04:15.51,Default,,0000,0000,0000,,The thing is...
+Dialogue: 0,0:04:22.95,0:04:26.07,On Top,,0000,0000,0000,,WHOLE CAKE ISLAND
+Dialogue: 0,0:04:28.68,0:04:30.29,Default,,0000,0000,0000,,{\i1}What do you want?!{\i0}
+Dialogue: 0,0:04:31.27,0:04:33.50,Default,,0000,0000,0000,,It's about Straw Hat.
+Dialogue: 0,0:04:33.79,0:04:36.36,Default,,0000,0000,0000,,{\i1}He's on his way to you...{\i0}
+Dialogue: 0,0:04:36.96,0:04:39.09,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:04:39.17,0:04:42.43,Default,,0000,0000,0000,,Listen, keep your hands off of him!
+Dialogue: 0,0:04:43.60,0:04:47.80,Default,,0000,0000,0000,,I'll come to the Land of Wano\Nto chop Straw Hat's head off myself.
+Dialogue: 0,0:04:48.45,0:04:51.31,Default,,0000,0000,0000,,Is that some kind of joke?! I refuse!
+Dialogue: 0,0:04:51.60,0:04:54.32,Default,,0000,0000,0000,,{\i1}It has nothing to do with you.{\i0}
+Dialogue: 0,0:04:55.19,0:05:00.61,Default,,0000,0000,0000,,I must cut off his head\Nor I'll keep losing face!
+Dialogue: 0,0:05:00.61,0:05:04.44,Default,,0000,0000,0000,,There's something I want \Nto take back from him, too!
+Dialogue: 0,0:05:04.44,0:05:05.81,Default,,0000,0000,0000,,{\i1}I don't care!{\i0}
+Dialogue: 0,0:05:06.53,0:05:10.13,Default,,0000,0000,0000,,{\i1}I think you owe me quite a favor.{\i0}
+Dialogue: 0,0:05:10.13,0:05:11.58,Default,,0000,0000,0000,,A favor?
+Dialogue: 0,0:05:11.74,0:05:14.33,Default,,0000,0000,0000,,{\i1}You do remember it, don't you?{\i0}
+Dialogue: 0,0:05:14.56,0:05:16.67,Default,,0000,0000,0000,,{\i1}That was a long time ago.{\i0}
+Dialogue: 0,0:05:16.67,0:05:19.42,Default,,0000,0000,0000,,But that's a lifetime debt.
+Dialogue: 0,0:05:25.30,0:05:31.32,Default,,0000,0000,0000,,I have greater resentment\Ntowards that brat - Straw Hat!
+Dialogue: 0,0:05:32.01,0:05:38.64,Default,,0000,0000,0000,,{\i1}Kaido used to buy tons of SMILEs,\Nthose artificial Devil Fruits Doflamingo was manufacturing,{\i0}
+Dialogue: 0,0:05:38.64,0:05:43.28,Default,,0000,0000,0000,,{\i1}in order to form the ultimate pirate group\Nmade of all Devil Fruit eaters.{\i0}
+Dialogue: 0,0:05:44.57,0:05:45.78,Default,,0000,0000,0000,,{\i1}However...{\i0}
+Dialogue: 0,0:05:49.99,0:05:56.04,Default,,0000,0000,0000,,This damn factory that gave \Nyou Tontattas a hard time!
+Dialogue: 0,0:05:56.37,0:05:59.17,Default,,0000,0000,0000,,Destroy it!!
+Dialogue: 0,0:06:04.84,0:06:10.68,Default,,0000,0000,0000,,{\i1}The SMILE manufacturing factory in Dressrosa\Nwas destroyed by the Straw Hats.{\i0}
+Dialogue: 0,0:06:13.31,0:06:17.61,Default,,0000,0000,0000,,Straw Hat Luffy! Trafalgar Law!
+Dialogue: 0,0:06:20.02,0:06:24.23,Default,,0000,0000,0000,,I know! They're from {\i1}the{\i0} generation, right?!
+Dialogue: 0,0:06:24.92,0:06:28.67,Default,,0000,0000,0000,,Those brats think they're something\Njust because they brought down a Warlord!
+Dialogue: 0,0:06:29.45,0:06:34.20,Default,,0000,0000,0000,,They must realize they messed up my business!
+Dialogue: 0,0:06:38.96,0:06:41.36,Default,,0000,0000,0000,,Screw them!
+Dialogue: 0,0:06:48.21,0:06:54.33,Default,,0000,0000,0000,,Hey, you!\NTell those idiots from your generation!
+Dialogue: 0,0:06:55.33,0:07:01.41,Default,,0000,0000,0000,,"You'd better run!\NWhat we were doing was just playing at being pirates!"
+Dialogue: 0,0:07:04.40,0:07:07.75,Default,,0000,0000,0000,,Eustass "Captain" Kid!
+Dialogue: 0,0:07:14.62,0:07:17.20,Default,,0000,0000,0000,,I'll be who kills that brat!
+Dialogue: 0,0:07:17.70,0:07:20.91,Default,,0000,0000,0000,,If you come, I'll kill you, Linlin!
+Dialogue: 0,0:07:23.08,0:07:28.34,Default,,0000,0000,0000,,{\i1}Try it. I didn't call to ask your opinion.\NI just called to warn you.{\i0}
+Dialogue: 0,0:07:30.26,0:07:34.32,Default,,0000,0000,0000,,Okay? I'll chop his head off!
+Dialogue: 0,0:07:34.32,0:07:38.85,Default,,0000,0000,0000,,Let's be friends... just like we used to be!
+Dialogue: 0,0:07:51.28,0:07:52.96,DefaultLow,,0000,0000,0000,,Big Mom is on the move!
+Dialogue: 0,0:07:52.07,0:07:55.66,On Top,,0000,0000,0000,,NAVY HEADQUARTERS, NEW MARINEFORD
+Dialogue: 0,0:07:52.96,0:07:55.70,DefaultLow,,0000,0000,0000,,It seems like she's going to meet Kaido!
+Dialogue: 0,0:07:55.82,0:07:58.16,DefaultLow,,0000,0000,0000,,They're using an unsecured channel.
+Dialogue: 0,0:07:58.43,0:08:03.26,Default,,0000,0000,0000,,They don't care about being wiretapped!\NAre they trying to provoke us?
+Dialogue: 0,0:08:03.87,0:08:06.34,Default,,0000,0000,0000,,{\i1}Let's be friends...{\i0}
+Dialogue: 0,0:08:06.62,0:08:10.80,Default,,0000,0000,0000,,Those Emperors of the Sea, Big Mom and Kaido,\Ncan only be stopped...
+Dialogue: 0,0:08:10.80,0:08:13.68,Default,,0000,0000,0000,,...by the Admirals or the Seven Warlords.
+Dialogue: 0,0:08:16.32,0:08:20.14,Default,,0000,0000,0000,,Do you want me to go handle it, Sakazuki?
+Dialogue: 0,0:08:20.39,0:08:22.89,Default,,0000,0000,0000,,Wait, Borsalino...
+Dialogue: 0,0:08:23.17,0:08:27.73,Default,,0000,0000,0000,,The Land of Wano has mighty, \Nmysterious warriors.
+Dialogue: 0,0:08:28.57,0:08:30.63,Default,,0000,0000,0000,,The samurai, huh?
+Dialogue: 0,0:08:32.57,0:08:35.20,On Top,,0000,0000,0000,,RED PORT
+Dialogue: 0,0:08:32.82,0:08:35.16,DefaultLow,,0000,0000,0000,,Gee! Garp-{\i1}chan{\i0}?!
+Dialogue: 0,0:08:35.56,0:08:39.70,Default,,0000,0000,0000,,Kaido and Big Mom are going \Nafter your grandson...
+Dialogue: 0,0:08:40.12,0:08:42.29,Default,,0000,0000,0000,,...Straw Hat Luffy!
+Dialogue: 0,0:08:44.12,0:08:45.54,Default,,0000,0000,0000,,That's funny!
+Dialogue: 0,0:08:47.60,0:08:50.13,Default,,0000,0000,0000,,That's not funny at all!
+Dialogue: 0,0:08:50.50,0:08:54.78,DefaultLow,,0000,0000,0000,,Are you gonna allow two of \Nthe Four Emperors to team up?
+Dialogue: 0,0:08:51.30,0:08:55.05,On Top,,0000,0000,0000,,GION (MOMOUSAGI)\NA VICE ADMIRAL OF THE NAVY HEADQUARTERS
+Dialogue: 0,0:08:55.22,0:08:59.30,Default,,0000,0000,0000,,Well, whether we like it or not,\Nit's the time of the Reverie now.
+Dialogue: 0,0:08:59.30,0:09:03.35,Default,,0000,0000,0000,,All of our soldiers who could stop them\Nare escorting royalties!
+Dialogue: 0,0:09:03.35,0:09:05.10,Default,,0000,0000,0000,,But if nothing is done...
+Dialogue: 0,0:09:05.10,0:09:07.77,Default,,0000,0000,0000,,Pardon me, young lady!
+Dialogue: 0,0:09:08.01,0:09:09.98,Default,,0000,0000,0000,,We're talking about Big Mom...
+Dialogue: 0,0:09:09.98,0:09:13.32,DefaultLow,,0000,0000,0000,,She knew that the Navy \Nis short on soldiers...
+Dialogue: 0,0:09:10.57,0:09:15.95,On Top,,0000,0000,0000,,TOKIKAKE (CHATON)\NA VICE ADMIRAL OF THE NAVY HEADQUARTERS
+Dialogue: 0,0:09:13.32,0:09:15.99,DefaultLow,,0000,0000,0000,,...because of the Reverie!
+Dialogue: 0,0:09:16.20,0:09:17.91,Default,,0000,0000,0000,,You're right but...
+Dialogue: 0,0:09:17.91,0:09:20.33,Default,,0000,0000,0000,,What did Boss Sakazuki say?
+Dialogue: 0,0:09:20.49,0:09:24.96,Default,,0000,0000,0000,,He said, "The Land of Wano is a non-affiliated country\Nso it's outside our jurisdiction."
+Dialogue: 0,0:09:25.12,0:09:26.56,Default,,0000,0000,0000,,That's what I thought!
+Dialogue: 0,0:09:28.42,0:09:30.50,Default,,0000,0000,0000,,We'd better not get involved now!
+Dialogue: 0,0:09:33.63,0:09:35.26,DefaultLow,,0000,0000,0000,,But Garp-{\i1}kun{\i0}...
+Dialogue: 0,0:09:35.68,0:09:38.09,DefaultLow,,0000,0000,0000,,If Big Mom and Kaido are up to something,
+Dialogue: 0,0:09:37.30,0:09:41.31,On Top,,0000,0000,0000,,HINA - A REAR ADMIRAL \NOF THE NAVY HEADQUARTERS
+Dialogue: 0,0:09:38.09,0:09:40.43,DefaultLow,,0000,0000,0000,,we can't just sit here and do nothing.
+Dialogue: 0,0:09:40.43,0:09:41.35,DefaultLow,,0000,0000,0000,,Because those two are...
+Dialogue: 0,0:09:42.06,0:09:45.27,DefaultLow,,0000,0000,0000,,...the reason that you've been \Ncalled the hero of the Navy...
+Dialogue: 0,0:09:47.60,0:09:49.23,Default,,0000,0000,0000,,"Rox," huh?
+Dialogue: 0,0:09:52.40,0:09:55.90,Default,,0000,0000,0000,,Hina, you're young.\NHow do you know that?
+Dialogue: 0,0:09:57.36,0:10:01.20,Default,,0000,0000,0000,,Before Roger,\Nit was definitely their time!
+Dialogue: 0,0:10:01.95,0:10:06.25,Default,,0000,0000,0000,,But that was 40 years ago.\NThe past is the past...
+Dialogue: 0,0:10:06.41,0:10:10.21,Default,,0000,0000,0000,,Even after they lost their captain,\Nthey're growing in power.
+Dialogue: 0,0:10:10.54,0:10:11.74,Default,,0000,0000,0000,,Hina's worried.
+Dialogue: 0,0:10:12.17,0:10:14.13,Default,,0000,0000,0000,,No need to be worried!
+Dialogue: 0,0:10:14.13,0:10:19.50,Default,,0000,0000,0000,,They may become a threat if they come back,\Nbut things always defy our expectations...
+Dialogue: 0,0:10:20.43,0:10:22.17,Default,,0000,0000,0000,,{\i1}What is "Rox"?{\i0}
+Dialogue: 0,0:10:22.68,0:10:27.18,Default,,0000,0000,0000,,{\i1}Without a doubt, it's deeply linked to\Nthe two of the Four Emperors - Kaido and Big Mom.{\i0}
+Dialogue: 0,0:10:27.81,0:10:31.56,Default,,0000,0000,0000,,{\i1}And its comeback is feared...{\i0}
+Dialogue: 0,0:10:34.53,0:10:37.70,Default,,0000,0000,0000,,Why are you smiling? Hina can't understand.
+Dialogue: 0,0:10:38.11,0:10:42.37,Default,,0000,0000,0000,,Remember the Paramount War in Marineford?
+Dialogue: 0,0:10:42.62,0:10:43.27,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:46.25,0:10:51.25,Default,,0000,0000,0000,,At that time, unbelievable things\Nhappened one after another, too...
+Dialogue: 0,0:10:51.25,0:10:56.17,Default,,0000,0000,0000,,It was your grandson who \Nstirred up things the most.
+Dialogue: 0,0:10:56.17,0:10:59.97,Default,,0000,0000,0000,,I can't believe that Straw Hat\Nbecame such a big figure...
+Dialogue: 0,0:10:59.97,0:11:01.72,Default,,0000,0000,0000,,Hina's surprised.
+Dialogue: 0,0:11:05.47,0:11:07.18,Default,,0000,0000,0000,,Not big enough...
+Dialogue: 0,0:11:10.02,0:11:14.39,Italics,,0000,0000,0000,,{\i1}In fact, Luffy kept up with \Nthe shocking incidents
+Dialogue: 0,0:11:14.39,0:11:17.36,Italics,,0000,0000,0000,,right after the Paramount \NWar in Marineford as well.{\i0}
+Dialogue: 0,0:11:18.32,0:11:21.82,Italics,,0000,0000,0000,,{\i1}Along with "First Son of the Sea" Jimbei
+Dialogue: 0,0:11:21.82,0:11:25.45,Italics,,0000,0000,0000,,and "Dark King" Rayleigh, he \Nboldly invaded the Navy HQ{\i0}
+Dialogue: 0,0:11:25.45,0:11:29.13,Default,,0000,0000,0000,,{\i1}and rang the bell to honor the memories of\NAce and Whitebeard.{\i0}
+Dialogue: 0,0:11:29.62,0:11:33.29,Default,,0000,0000,0000,,{\i1}That encouraged the rookies with bounties of\Nover 100 million.{\i0}
+Dialogue: 0,0:11:36.42,0:11:40.84,Default,,0000,0000,0000,,So maybe he did it to announce\Nthe end and the beginning of the era.
+Dialogue: 0,0:11:41.05,0:11:43.34,Default,,0000,0000,0000,,He wants to say,
+Dialogue: 0,0:11:43.43,0:11:47.51,On Top,,0000,0000,0000,,STRAW HAT LUFFY APPEARS IN MARINEFORD
+Dialogue: 0,0:11:43.78,0:11:47.56,Default,,0000,0000,0000,,"Whitebeard's era is over.\NI'll shape the new era"?
+Dialogue: 0,0:11:48.06,0:11:54.52,Default,,0000,0000,0000,,In fact, after the war, he took the lead\Namong the rookies with a bounty of over 100 million.
+Dialogue: 0,0:11:54.98,0:11:59.94,Default,,0000,0000,0000,,But I won't let him do whatever he wants.
+Dialogue: 0,0:12:01.61,0:12:04.67,Default,,0000,0000,0000,,{\i1}However, Luffy had a \Ntotally different motive.{\i0}
+Dialogue: 0,0:12:05.32,0:12:06.70,Default,,0000,0000,0000,,{\i1}"3D2Y."{\i0}
+Dialogue: 0,0:12:07.37,0:12:10.73,Default,,0000,0000,0000,,{\i1}It was a message to his far-flung friends.{\i0}
+Dialogue: 0,0:12:11.25,0:12:16.38,Default,,0000,0000,0000,,{\i1}The Straw Hats swore to meet up at the \NSabaody Archipelago two years later{\i0}
+Dialogue: 0,0:12:16.38,0:12:18.80,Default,,0000,0000,0000,,{\i1}and started to train themselves separately.{\i0}
+Dialogue: 0,0:12:20.21,0:12:23.58,Default,,0000,0000,0000,,See you at the Sabaody Archipelago\Nin two years!
+Dialogue: 0,0:12:39.44,0:12:40.86,Default,,0000,0000,0000,,Well then, Rayleigh...
+Dialogue: 0,0:12:41.86,0:12:43.73,Default,,0000,0000,0000,,Thanks again for everything!
+Dialogue: 0,0:12:44.53,0:12:46.82,Default,,0000,0000,0000,,I'm going now!
+Dialogue: 0,0:12:47.37,0:12:49.95,Default,,0000,0000,0000,,Rise to the top!
+Dialogue: 0,0:12:52.83,0:12:55.06,Default,,0000,0000,0000,,{\i1}After finishing their individual training,{\i0}
+Dialogue: 0,0:12:55.71,0:12:59.80,Default,,0000,0000,0000,,{\i1}the Straw Hats met up at the Sabaody Archipelago\Nand headed to the Fish-Man Island.{\i0}
+Dialogue: 0,0:13:03.97,0:13:09.22,Default,,0000,0000,0000,,That was the last promise \Nwe made with Mother-{\i1}sama{\i0}.
+Dialogue: 0,0:13:10.10,0:13:13.80,Default,,0000,0000,0000,,She told us that\Nno matter who did it to her,
+Dialogue: 0,0:13:14.81,0:13:19.32,Default,,0000,0000,0000,,we should not get angry or hate anybody!
+Dialogue: 0,0:13:19.48,0:13:24.70,Default,,0000,0000,0000,,You know, Shirahoshi, what you did\Nis what we would call pretty stupid in this world!
+Dialogue: 0,0:13:24.90,0:13:28.57,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}! Brothers-{\i1}sama{\i0}!
+Dialogue: 0,0:13:29.41,0:13:33.95,Default,,0000,0000,0000,,{\i1}At the Fish-Man Island, they rescued \NShirahoshi and the others who were captured,{\i0}
+Dialogue: 0,0:13:33.95,0:13:37.33,Default,,0000,0000,0000,,{\i1}and stopped the coup by \Nthe New Fish-Man Pirates.{\i0}
+Dialogue: 0,0:13:37.62,0:13:40.13,Default,,0000,0000,0000,,{\i1}They saved the Ryugu Kingdom from the crisis.{\i0}
+Dialogue: 0,0:13:45.30,0:13:47.51,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:13:47.68,0:13:52.60,Default,,0000,0000,0000,,...Elephant Gatling!
+Dialogue: 0,0:14:03.38,0:14:04.17,Default,,0000,0000,0000,,{\i1}In addition...{\i0}
+Dialogue: 0,0:14:04.94,0:14:05.99,Default,,0000,0000,0000,,The sweets are gone!
+Dialogue: 0,0:14:06.78,0:14:08.11,Default,,0000,0000,0000,,I ate them all!
+Dialogue: 0,0:14:08.28,0:14:10.16,Default,,0000,0000,0000,,I ate 10 tons of them!
+Dialogue: 0,0:14:10.45,0:14:12.70,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy...{\i0}
+Dialogue: 0,0:14:12.70,0:14:14.63,Default,,0000,0000,0000,,{\i1}I know your name now.{\i0}
+Dialogue: 0,0:14:15.00,0:14:18.25,Default,,0000,0000,0000,,{\i1}Come! To the New World!{\i0}
+Dialogue: 0,0:14:19.58,0:14:21.43,Default,,0000,0000,0000,,Sure, wait for me there.
+Dialogue: 0,0:14:22.19,0:14:24.55,Default,,0000,0000,0000,,There's some business I want \Nto settle with you, too.
+Dialogue: 0,0:14:27.42,0:14:31.14,Default,,0000,0000,0000,,I can't leave {\i1}it{\i0} in your hands -\Nthat's too dangerous!
+Dialogue: 0,0:14:31.55,0:14:35.14,Default,,0000,0000,0000,,I'll kick your ass all over the New World...
+Dialogue: 0,0:14:36.18,0:14:39.19,Default,,0000,0000,0000,,...and make the Fish-Man Island my territory!
+Dialogue: 0,0:14:44.19,0:14:48.36,Default,,0000,0000,0000,,I can't believe he picked a fight with\None of the Four Emperors at the Fish-Man Island.
+Dialogue: 0,0:14:50.16,0:14:51.37,Default,,0000,0000,0000,,That's funny!
+Dialogue: 0,0:14:53.12,0:14:55.73,Default,,0000,0000,0000,,{\i1}The Straw Hats entered the New World{\i0}
+Dialogue: 0,0:14:56.16,0:15:01.28,Default,,0000,0000,0000,,{\i1}and arrived at Punk Hazard,\Nthe mysterious island where fire and snow coexist.{\i0}
+Dialogue: 0,0:15:02.38,0:15:03.25,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:15:03.79,0:15:05.75,Default,,0000,0000,0000,,Let's go, recon team!
+Dialogue: 0,0:15:06.42,0:15:08.88,Default,,0000,0000,0000,,{\i1}While Luffy was exploring the island,{\i0}
+Dialogue: 0,0:15:09.47,0:15:12.24,Default,,0000,0000,0000,,{\i1}he met Trafalgar Law again.{\i0}
+Dialogue: 0,0:15:12.97,0:15:16.35,Default,,0000,0000,0000,,There are only two ways to survive\Nin the New World.
+Dialogue: 0,0:15:17.18,0:15:22.40,Default,,0000,0000,0000,,Either by living under the Four Emperors\Nor going against them.
+Dialogue: 0,0:15:23.52,0:15:27.90,Default,,0000,0000,0000,,And I guess you're not the kind of person\Nwho wants to work under someone.
+Dialogue: 0,0:15:28.53,0:15:31.49,Default,,0000,0000,0000,,Yeah, I want to stay as a captain.
+Dialogue: 0,0:15:31.74,0:15:36.37,Default,,0000,0000,0000,,Then, we have to form an alliance!
+Dialogue: 0,0:15:36.37,0:15:37.54,Default,,0000,0000,0000,,An alliance?
+Dialogue: 0,0:15:37.91,0:15:41.42,Default,,0000,0000,0000,,If you and I join forces, maybe we can do it.
+Dialogue: 0,0:15:44.17,0:15:45.84,Default,,0000,0000,0000,,I have a plan...
+Dialogue: 0,0:15:46.75,0:15:48.95,Default,,0000,0000,0000,,...to bring down one of the Four Emperors!
+Dialogue: 0,0:15:49.47,0:15:52.09,Default,,0000,0000,0000,,Which of the Four Emperors \Nare you talking about?
+Dialogue: 0,0:15:53.47,0:15:55.35,Default,,0000,0000,0000,,The Emperor's name is...
+Dialogue: 0,0:15:56.06,0:15:58.68,Default,,0000,0000,0000,,...Kaido, the King of the Beasts!
+Dialogue: 0,0:16:00.35,0:16:03.56,Default,,0000,0000,0000,,As long as Shanks is not the first one to fight,\NI have no problem.
+Dialogue: 0,0:16:05.15,0:16:06.21,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:16:06.86,0:16:10.61,Default,,0000,0000,0000,,...I plan to beat all of the Four Emperors!
+Dialogue: 0,0:16:10.78,0:16:13.16,Default,,0000,0000,0000,,"Beat all of the Four Emperors"?
+Dialogue: 0,0:16:13.20,0:16:16.12,Default,,0000,0000,0000,,We share a mutual interest\Nbut you're underestimating them.
+Dialogue: 0,0:16:17.05,0:16:20.74,Default,,0000,0000,0000,,They are the emperors of the sea who have\Nskirmished over territories
+Dialogue: 0,0:16:20.74,0:16:22.53,Default,,0000,0000,0000,,even against Whitebeard himself.
+Dialogue: 0,0:16:22.96,0:16:28.86,Default,,0000,0000,0000,,And above all, they say Kaido, the King of the Beasts\Nis the strongest creature in the world.
+Dialogue: 0,0:16:29.34,0:16:33.43,Default,,0000,0000,0000,,We'll ally with each other \Nuntil we kill Kaido.
+Dialogue: 0,0:16:33.43,0:16:35.89,Default,,0000,0000,0000,,And our chances of success are...
+Dialogue: 0,0:16:36.35,0:16:39.06,Default,,0000,0000,0000,,Well, I'll just say they're really low.
+Dialogue: 0,0:16:39.22,0:16:40.98,Default,,0000,0000,0000,,Okay, let's do it!
+Dialogue: 0,0:16:41.60,0:16:46.40,Default,,0000,0000,0000,,{\i1}Thus, the Straw Hats and the \NHeart Pirates led by Law...{\i0}
+Dialogue: 0,0:16:46.40,0:16:50.36,Default,,0000,0000,0000,,{\i1}...formed the pirate alliance\Nto take down one of the Four Emperors - Kaido.{\i0}
+Dialogue: 0,0:16:51.99,0:16:56.12,Default,,0000,0000,0000,,{\i1}And, with Kin'emon, the samurai \Nfrom the Land of Wano,{\i0}
+Dialogue: 0,0:16:56.12,0:16:58.62,Default,,0000,0000,0000,,{\i1}they saved the captured Momonosuke...{\i0}
+Dialogue: 0,0:16:58.85,0:17:02.34,Default,,0000,0000,0000,,...{\i1}who was a son of Kozuki Oden,\Nthe great {\i0}daimyo{\i1} of the Land of Wano.{\i0}
+Dialogue: 0,0:17:03.37,0:17:06.92,Italics,,0000,0000,0000,,{\i1}Then they took down Caesar Clown,\Nthe mad scientist and the
+Dialogue: 0,0:17:06.92,0:17:08.89,Italics,,0000,0000,0000,,former colleague of Dr. Vegapunk,{\i0}
+Dialogue: 0,0:17:08.89,0:17:12.06,Default,,0000,0000,0000,,{\i1}and released the children\Nwho were being treated as guinea pigs.{\i0}
+Dialogue: 0,0:17:14.38,0:17:17.39,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:17.55,0:17:21.27,Default,,0000,0000,0000,,...Grizzly Magnum!
+Dialogue: 0,0:17:30.77,0:17:37.24,Default,,0000,0000,0000,,{\i1}Next, they infiltrated Dressrosa\Nwhere the Warlord - Doflamingo reigned.{\i0}
+Dialogue: 0,0:17:39.74,0:17:42.20,Default,,0000,0000,0000,,We made it! Dressrosa!
+Dialogue: 0,0:17:43.00,0:17:49.38,Default,,0000,0000,0000,,{\i1}After learning that the country was\Nunjustly governed by Doflamingo's plot,{\i0}
+Dialogue: 0,0:17:50.79,0:17:53.76,Default,,0000,0000,0000,,{\i1}Luffy clashed with Doflamingo who used\Nthe Haki of the Color of the Supreme King{\i0}
+Dialogue: 0,0:17:54.38,0:17:58.01,Default,,0000,0000,0000,,{\i1}and activated his new technique - Gear Four.{\i0}
+Dialogue: 0,0:17:58.68,0:18:01.51,Default,,0000,0000,0000,,Do your worst, brat!
+Dialogue: 0,0:18:02.26,0:18:03.77,Default,,0000,0000,0000,,Spiderweb!
+Dialogue: 0,0:18:07.60,0:18:09.61,Default,,0000,0000,0000,,King Kong...
+Dialogue: 0,0:18:10.23,0:18:13.23,Default,,0000,0000,0000,,Sixteen Holy Bullets!
+Dialogue: 0,0:18:14.69,0:18:16.24,Default,,0000,0000,0000,,God Thread!
+Dialogue: 0,0:18:16.24,0:18:17.78,Default,,0000,0000,0000,,...Gun!
+Dialogue: 0,0:18:33.75,0:18:36.42,Default,,0000,0000,0000,,{\i1}By heroically taking down Doflamingo,{\i0}
+Dialogue: 0,0:18:37.26,0:18:41.39,Default,,0000,0000,0000,,{\i1}Luffy freed the citizens who were suffering \Nfrom the tyranny, and the former king.{\i0}
+Dialogue: 0,0:18:42.18,0:18:46.73,Default,,0000,0000,0000,,{\i1}The news and the video that were broadcasted\Nto the neighboring countries spread instantly{\i0}
+Dialogue: 0,0:18:46.73,0:18:48.96,Default,,0000,0000,0000,,{\i1}and shook up the world.{\i0}
+Dialogue: 0,0:18:49.94,0:18:55.40,Default,,0000,0000,0000,,Freedom... Freedom...\NThat's what Luffy-{\i1}senpai{\i0} wants...
+Dialogue: 0,0:18:55.40,0:19:01.17,Default,,0000,0000,0000,,In that case, I admire you \Neven more, Luffy-{\i1}senpai{\i0}!
+Dialogue: 0,0:19:05.45,0:19:07.82,Italics,,0000,0000,0000,,{\i1}In addition, the tough ones who Luffy
+Dialogue: 0,0:19:07.82,0:19:11.10,Italics,,0000,0000,0000,,met in Dressrosa and fought alongside \Nto bring down Doflamingo...{\i0}
+Dialogue: 0,0:19:11.10,0:19:15.79,Italics,,0000,0000,0000,,{\i1}...rallied around Luffy, and \Nthe Straw Hat Fleet with over
+Dialogue: 0,0:19:15.79,0:19:18.68,Italics,,0000,0000,0000,,5,600 troops total was formed.{\i0}
+Dialogue: 0,0:19:21.05,0:19:26.56,Default,,0000,0000,0000,,{\i1}Then, Luffy and the others arrived at\Nthe traveling country Zou{\i0}
+Dialogue: 0,0:19:26.56,0:19:30.79,Default,,0000,0000,0000,,{\i1}and learned that the Land of Wano had been\Nsuppressed by Kaido and its shogun...{\i0}
+Dialogue: 0,0:19:32.73,0:19:33.98,Default,,0000,0000,0000,,Let's join hands!
+Dialogue: 0,0:19:36.57,0:19:37.69,Default,,0000,0000,0000,,We're allies!
+Dialogue: 0,0:19:39.19,0:19:42.35,Default,,0000,0000,0000,,Let me have Kaido's head though!
+Dialogue: 0,0:19:46.45,0:19:51.50,Default,,0000,0000,0000,,Thank you! Thank you!
+Dialogue: 0,0:19:52.00,0:19:53.79,Default,,0000,0000,0000,,Our objective is...
+Dialogue: 0,0:19:58.71,0:20:02.60,Default,,0000,0000,0000,,...to kick Emperor Kaido's butt!
+Dialogue: 0,0:20:06.22,0:20:13.52,Default,,0000,0000,0000,,We're the Ninja-Pirate-Mink-Samurai Alliance!
+Dialogue: 0,0:20:15.11,0:20:19.82,Default,,0000,0000,0000,,{\i1}However, to take back Sanji\Nwho was involved in a political marriage,{\i0}
+Dialogue: 0,0:20:19.82,0:20:22.23,Default,,0000,0000,0000,,{\i1}the crew temporarily split up{\i0}
+Dialogue: 0,0:20:23.07,0:20:27.39,Default,,0000,0000,0000,,{\i1}and Luffy infiltrated the Whole Cake Island\Nruled by the Emperor of the Sea - Big Mom.{\i0}
+Dialogue: 0,0:20:28.70,0:20:32.58,Default,,0000,0000,0000,,{\i1}At last, Luffy and the others \Nclashed with Big Mom!{\i0}
+Dialogue: 0,0:20:33.33,0:20:36.79,Default,,0000,0000,0000,,{\i1}The furious Big Mom Pirates came after them,{\i0}
+Dialogue: 0,0:20:36.79,0:20:41.71,Default,,0000,0000,0000,,{\i1}but they brought down the formidable Katakuri\Nwhose bounty was over a billion.{\i0}
+Dialogue: 0,0:20:45.59,0:20:47.68,Default,,0000,0000,0000,,Buzz Cut Mochi!
+Dialogue: 0,0:20:48.97,0:20:50.96,Default,,0000,0000,0000,,King Cobra!
+Dialogue: 0,0:20:53.31,0:20:55.35,Default,,0000,0000,0000,,You can't get away now!
+Dialogue: 0,0:20:56.11,0:20:58.07,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:21:22.42,0:21:29.39,Default,,0000,0000,0000,,{\i1}The news about Luffy and the others\Ndevastating Big Mom's troops and getting away safely...{\i0}
+Dialogue: 0,0:21:29.39,0:21:32.10,Default,,0000,0000,0000,,{\i1}...spread across the world in no time.{\i0}
+Dialogue: 0,0:21:36.23,0:21:38.90,Default,,0000,0000,0000,,I think... I'll see you soon...
+Dialogue: 0,0:21:40.77,0:21:41.73,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:21:46.86,0:21:51.99,Default,,0000,0000,0000,,What a pain in the neck!\NAnd your grandson's bounty...
+Dialogue: 0,0:21:51.99,0:21:57.79,Default,,0000,0000,0000,,...jumped to 1.5 billion berries\Nbecause of the things he has done!
+Dialogue: 0,0:22:00.59,0:22:03.02,Default,,0000,0000,0000,,He's still just a fledgling!
+Dialogue: 0,0:22:03.59,0:22:06.88,On Top,,0000,0000,0000,,HOLYLAND OF MARIEJOIS
+Dialogue: 0,0:22:04.51,0:22:07.47,DefaultLow,,0000,0000,0000,,{\i1}Now, even at the Holyland of Mariejois,{\i0}
+Dialogue: 0,0:22:07.05,0:22:10.39,On Top,,0000,0000,0000,,PANGAEA CASTLE
+Dialogue: 0,0:22:07.47,0:22:11.00,DefaultLow,,0000,0000,0000,,{\i1}the unexpected was about to happen...{\i0}
+Dialogue: 0,0:22:14.43,0:22:18.15,On Top,,0000,0000,0000,,ROOM OF AUTHORITY
+Dialogue: 0,0:22:21.40,0:22:25.11,On Top,,0000,0000,0000,,FIVE ELDERS\NHIGHEST AUTHORITIES OF THE WORLD GOVERNMENT
+Dialogue: 0,0:22:26.95,0:22:30.55,Default,,0000,0000,0000,,What did you come all the way here for?
+Dialogue: 0,0:22:31.03,0:22:32.86,Default,,0000,0000,0000,,It's the time of the Reverie now...
+Dialogue: 0,0:22:32.86,0:22:37.04,Default,,0000,0000,0000,,Considering your status, you \Nshould stay away from politics.
+Dialogue: 0,0:22:37.54,0:22:39.90,Default,,0000,0000,0000,,Since it's you, we made time.
+Dialogue: 0,0:22:40.46,0:22:43.06,Default,,0000,0000,0000,,Yes... I appreciate that.
+Dialogue: 0,0:22:43.75,0:22:47.30,Default,,0000,0000,0000,,Let's hear it.\NGuys, would you excuse us?
+Dialogue: 0,0:22:47.30,0:22:48.21,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:23:06.88,0:23:09.59,Default,,0000,0000,0000,,I want to talk to you \Nabout a certain pirate...
+Dialogue: 0,0:23:20.42,0:23:24.29,Italics,,0000,0000,0000,,{\i1}Sabo and the Revolutionary Army start \Ntheir mission to sneak into Mariejois.{\i0}
+Dialogue: 0,0:23:24.29,0:23:27.74,Italics,,0000,0000,0000,,{\i1}After overcoming various \Nobstacles, Sabo finally reaches
+Dialogue: 0,0:23:27.74,0:23:30.88,Italics,,0000,0000,0000,,the Land of the Gods where \Nthe Celestial Dragons live,{\i0}
+Dialogue: 0,0:23:30.88,0:23:33.49,Italics,,0000,0000,0000,,{\i1}but there, he is shocked \Nat the appearance of the
+Dialogue: 0,0:23:33.49,0:23:35.63,Italics,,0000,0000,0000,,Revolutionary Army's \Nwarrior Bartholomew Kuma!{\i0}
+Dialogue: 0,0:23:35.63,0:23:37.15,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:37.15,0:23:40.72,Default,,0000,0000,0000,,"Sabo Enraged!\NThe Tragedy of the Revolutionary Army Officer Kuma!"
+Dialogue: 0,0:23:40.72,0:23:42.99,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.11,0:23:46.11,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.11,0:23:48.11,On Top,,0000,0000,0000,,

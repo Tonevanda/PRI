@@ -1,0 +1,289 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:51.37,0:01:54.41,Default,,0000,0000,0000,,What?! A cannonball will be shot\Ninto the Square in ten minutes?!
+Dialogue: 0,0:01:54.41,0:01:56.14,Default,,0000,0000,0000,,That's right. The attack is scheduled at 4:30.
+Dialogue: 0,0:01:56.14,0:01:57.48,Default,,0000,0000,0000,,4:30?!
+Dialogue: 0,0:01:57.48,0:01:59.78,Default,,0000,0000,0000,,We found you, Princess Vivi!
+Dialogue: 0,0:01:59.78,0:02:03.15,Default,,0000,0000,0000,,I wonder how far I'll be\Npromoted if I kill you...
+Dialogue: 0,0:02:03.15,0:02:05.55,Default,,0000,0000,0000,,--I'll go on ahead!\N--On ahead!
+Dialogue: 0,0:02:08.32,0:02:09.49,Default,,0000,0000,0000,,Ten more minutes...!
+Dialogue: 0,0:02:09.49,0:02:12.29,Default,,0000,0000,0000,,This is really the last chance!
+Dialogue: 0,0:02:12.29,0:02:16.66,Default,,0000,0000,0000,,The next ten minutes...\Nwill decide... this country's fate...!
+Dialogue: 0,0:02:19.76,0:02:22.93,Default,,0000,0000,0000,,Gum-Gum... Bazooka!
+Dialogue: 0,0:02:26.14,0:02:29.07,Default,,0000,0000,0000,,We don't have the slightest\Nintention of giving way to you!
+Dialogue: 0,0:02:29.07,0:02:33.41,Default,,0000,0000,0000,,Don't get in my way! Treinta Fleurs!
+Dialogue: 0,0:02:33.41,0:02:34.75,Default,,0000,0000,0000,,Strangle!
+Dialogue: 0,0:02:34.75,0:02:37.78,Default,,0000,0000,0000,,Sergeant Major! This woman... is Nico Robin!
+Dialogue: 0,0:02:37.78,0:02:41.29,Default,,0000,0000,0000,,She's got a bounty and was talked\Nabout worldwide 20 years ago!
+Dialogue: 0,0:02:47.93,0:02:52.63,Default,,0000,0000,0000,,My right hand dries out everything...
+Dialogue: 0,0:02:57.27,0:02:59.87,Default,,0000,0000,0000,,Ground Death!
+Dialogue: 0,0:03:07.65,0:03:11.88,Default,,0000,0000,0000,,"That Looks Gator-ish!\NLuffy, Run to the Royal Tomb!"
+Dialogue: 0,0:03:16.86,0:03:21.03,Default,,0000,0000,0000,,That was close!\NHis right hand is a problem...
+Dialogue: 0,0:03:21.03,0:03:24.53,Default,,0000,0000,0000,,The lawn has turned into desert!
+Dialogue: 0,0:03:24.53,0:03:26.83,Default,,0000,0000,0000,,Where'd he go?
+Dialogue: 0,0:03:26.83,0:03:30.87,Default,,0000,0000,0000,,You made me waste my energy...
+Dialogue: 0,0:03:37.54,0:03:39.61,Default,,0000,0000,0000,,You missed...
+Dialogue: 0,0:03:42.05,0:03:44.52,Default,,0000,0000,0000,,Cro... co...
+Dialogue: 0,0:03:44.52,0:03:47.02,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:03:49.15,0:03:52.19,Default,,0000,0000,0000,,...lose again...
+Dialogue: 0,0:03:52.19,0:03:56.03,Default,,0000,0000,0000,,Straw Hat Luffy... This is a good way to die...
+Dialogue: 0,0:03:58.93,0:04:03.30,Default,,0000,0000,0000,,Within six minutes or so, this yard will\Nbe blown up along with the Square.
+Dialogue: 0,0:04:03.30,0:04:05.64,Default,,0000,0000,0000,,Sorry, but I'm in a hurry...
+Dialogue: 0,0:04:05.64,0:04:11.94,Default,,0000,0000,0000,,You just relax here and celebrate the\Nbirth of a new king of the sand country.
+Dialogue: 0,0:04:14.01,0:04:15.68,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:04:18.72,0:04:20.59,Default,,0000,0000,0000,,I should get going, too...
+Dialogue: 0,0:04:20.59,0:04:23.92,Default,,0000,0000,0000,,He said it's in the mortuary\Ntemple to the west of here...
+Dialogue: 0,0:04:39.50,0:04:42.61,Default,,0000,0000,0000,,Ahh! That was close! I thought I was a goner!
+Dialogue: 0,0:04:47.81,0:04:51.98,Default,,0000,0000,0000,,That bastard... He's gone now...
+Dialogue: 0,0:04:51.98,0:04:54.59,Default,,0000,0000,0000,,I saw him flying that way!
+Dialogue: 0,0:04:54.59,0:04:57.89,Default,,0000,0000,0000,,I won't let him get away! That gator!
+Dialogue: 0,0:04:57.59,0:05:01.86,On Top,,0000,0000,0000,,"West of the palace -- The mortuary temple\N(royal tomb)"
+Dialogue: 0,0:05:08.43,0:05:13.91,Default,,0000,0000,0000,,So this is the royal tomb... where the\Nbodies of generations of kings sleep...
+Dialogue: 0,0:05:16.54,0:05:18.54,Default,,0000,0000,0000,,Where's the Poneglyph?
+Dialogue: 0,0:05:30.72,0:05:33.16,Default,,0000,0000,0000,,Hidden stairs!
+Dialogue: 0,0:05:33.16,0:05:37.86,Default,,0000,0000,0000,,The Poneglyph is deep underground.
+Dialogue: 0,0:05:37.86,0:05:41.67,Default,,0000,0000,0000,,Normally, people aren't even\Naware of Poneglyphs' existence...
+Dialogue: 0,0:05:41.67,0:05:43.60,Default,,0000,0000,0000,,What's happening behind the scenes is deep.
+Dialogue: 0,0:05:43.60,0:05:45.84,Default,,0000,0000,0000,,Even if countries belong\Nto the World Government,
+Dialogue: 0,0:05:45.84,0:05:48.84,Default,,0000,0000,0000,,it doesn't mean their kings know everything.
+Dialogue: 0,0:05:50.34,0:05:53.08,Default,,0000,0000,0000,,You aren't to be blamed...
+Dialogue: 0,0:05:53.08,0:05:56.61,Default,,0000,0000,0000,,...since you probably didn't know\Nthere was someone in this world
+Dialogue: 0,0:05:56.61,0:05:58.35,Default,,0000,0000,0000,,who can decipher them.
+Dialogue: 0,0:05:58.35,0:06:00.39,Default,,0000,0000,0000,,You can read Poneglyphs?
+Dialogue: 0,0:06:00.39,0:06:04.96,Default,,0000,0000,0000,,Yes... That's why Crocodile and I teamed up.
+Dialogue: 0,0:06:04.96,0:06:08.06,Default,,0000,0000,0000,,Because of that, he can't kill me.
+Dialogue: 0,0:06:08.06,0:06:13.60,Default,,0000,0000,0000,,It's likely that the Poneglyph in\Nthis country tells where Pluton is.
+Dialogue: 0,0:06:13.60,0:06:15.00,Default,,0000,0000,0000,,Isn't that right?
+Dialogue: 0,0:06:15.00,0:06:16.30,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:06:16.30,0:06:20.37,Default,,0000,0000,0000,,Alabasta's royal family has been\Nobligated for generations to protect it.
+Dialogue: 0,0:06:20.37,0:06:23.07,Default,,0000,0000,0000,,That's all it is to us.
+Dialogue: 0,0:06:23.07,0:06:25.94,Default,,0000,0000,0000,,Protect?! Don't make me laugh!
+Dialogue: 0,0:06:32.02,0:06:33.92,Default,,0000,0000,0000,,What an impressive-looking place...
+Dialogue: 0,0:06:33.92,0:06:36.62,Default,,0000,0000,0000,,It's behind the doors in the back.
+Dialogue: 0,0:06:45.10,0:06:46.90,Default,,0000,0000,0000,,Indeed...
+Dialogue: 0,0:07:11.66,0:07:14.59,Default,,0000,0000,0000,,I won't... let you go...
+Dialogue: 0,0:07:14.59,0:07:17.30,Default,,0000,0000,0000,,How many times do you have to\Ncome at me before you're satisfied?
+Dialogue: 0,0:07:34.78,0:07:37.05,Default,,0000,0000,0000,,Nico Robin...
+Dialogue: 0,0:07:39.85,0:07:43.35,Default,,0000,0000,0000,,I'll... capture you...
+Dialogue: 0,0:08:03.61,0:08:06.84,Default,,0000,0000,0000,,Croco... dile...
+Dialogue: 0,0:08:06.84,0:08:09.58,Default,,0000,0000,0000,,Looks like you were taken\Ndown by that woman...
+Dialogue: 0,0:08:09.58,0:08:13.82,Default,,0000,0000,0000,,I never thought that you'd\Nfollow me to this town... Navy...
+Dialogue: 0,0:08:13.82,0:08:18.36,Default,,0000,0000,0000,,Where's your boss? Did that\Nsmoke bastard run away?
+Dialogue: 0,0:08:22.76,0:08:27.80,Default,,0000,0000,0000,,Losers can't speak about justice.\NWe're in that kind of sea.
+Dialogue: 0,0:08:27.80,0:08:32.74,Default,,0000,0000,0000,,Go back to your base and just devote\Nyour time to talking about justice.
+Dialogue: 0,0:08:45.02,0:08:47.02,Default,,0000,0000,0000,,Crocodile!
+Dialogue: 0,0:08:57.46,0:08:59.63,Default,,0000,0000,0000,,You small fry...!
+Dialogue: 0,0:08:59.63,0:09:01.23,Default,,0000,0000,0000,,What the heck are you doing?!
+Dialogue: 0,0:09:01.23,0:09:04.40,Default,,0000,0000,0000,,What am I doing?! I'm trying to\Nput myself in Crocodile's shoes!
+Dialogue: 0,0:09:04.40,0:09:06.90,Default,,0000,0000,0000,,Like, if I were him, where\Nwould I shoot a cannon from...?
+Dialogue: 0,0:09:06.90,0:09:09.74,Default,,0000,0000,0000,,Forget it! Just look for the cannoneer!\NWe've got less than five minutes!
+Dialogue: 0,0:09:09.74,0:09:13.11,Default,,0000,0000,0000,,Five more minutes! A million lives\Nwill be blown up in five minutes!
+Dialogue: 0,0:09:13.11,0:09:16.41,Default,,0000,0000,0000,,We gotta hurry...! We gotta\Nhurry up and find the cannoneer!
+Dialogue: 0,0:09:16.41,0:09:18.92,Default,,0000,0000,0000,,Chopper! Can't you find\Nthe guy by using your nose?
+Dialogue: 0,0:09:18.92,0:09:22.09,Default,,0000,0000,0000,,I can't. The smell of\Ngunpowder is all over the town!
+Dialogue: 0,0:09:22.09,0:09:23.59,Default,,0000,0000,0000,,Then... listen.
+Dialogue: 0,0:09:23.59,0:09:27.23,Default,,0000,0000,0000,,Find the smell of "a cannoneer who may\Nbe aiming at the center of the Square."
+Dialogue: 0,0:09:27.23,0:09:28.46,Default,,0000,0000,0000,,What kind of smell is that?
+Dialogue: 0,0:09:28.46,0:09:30.40,Default,,0000,0000,0000,,How should I know?! Try your best!
+Dialogue: 0,0:09:30.40,0:09:31.96,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:34.67,0:09:38.47,Default,,0000,0000,0000,,A cannonball that can\Nblow up a 5 km diameter...
+Dialogue: 0,0:09:38.47,0:09:41.04,Default,,0000,0000,0000,,Wait. Then it must be big...
+Dialogue: 0,0:09:41.04,0:09:44.68,Default,,0000,0000,0000,,If it is to be shot from a cannon,\Nit won't travel very far...
+Dialogue: 0,0:09:44.68,0:09:47.55,Default,,0000,0000,0000,,Then it should be closer\Nto the Square after all?!
+Dialogue: 0,0:09:47.55,0:09:50.92,Default,,0000,0000,0000,,Ahh! I don't have time to go around!
+Dialogue: 0,0:09:50.92,0:09:52.48,Default,,0000,0000,0000,,I'll take a shortcut!
+Dialogue: 0,0:09:53.52,0:09:54.99,Default,,0000,0000,0000,,How is it from the sky, Pell?!
+Dialogue: 0,0:09:54.99,0:09:57.69,Default,,0000,0000,0000,,I searched every corner of the rooftops\Nof the buildings near the Square,
+Dialogue: 0,0:09:57.69,0:09:59.66,Default,,0000,0000,0000,,but I saw no preparations\Nfor the cannon anywhere.
+Dialogue: 0,0:09:59.66,0:10:02.83,Default,,0000,0000,0000,,Then... it might be from\Nsomewhere inside a building...
+Dialogue: 0,0:10:02.83,0:10:05.23,Default,,0000,0000,0000,,--I'll search all of them!\N--Okay!
+Dialogue: 0,0:10:23.08,0:10:24.88,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:10:24.88,0:10:27.55,Default,,0000,0000,0000,,Where did... the gator go?
+Dialogue: 0,0:10:31.29,0:10:33.62,Default,,0000,0000,0000,,We've been warned that at 4:30 pm,\Nan explosion will happen
+Dialogue: 0,0:10:33.62,0:10:35.93,Default,,0000,0000,0000,,in the Palace Square where the\Nrebellion is going on right now!
+Dialogue: 0,0:10:35.93,0:10:39.76,Default,,0000,0000,0000,,Please stop it somehow!\NA million lives are at stake!
+Dialogue: 0,0:10:44.20,0:10:49.27,Default,,0000,0000,0000,,Losers can't speak about justice.\NWe're in that kind of sea.
+Dialogue: 0,0:10:49.27,0:10:53.91,Default,,0000,0000,0000,,Go back to your base and just devote\Nyour time to talking about justice.
+Dialogue: 0,0:10:57.68,0:11:00.42,Default,,0000,0000,0000,,Tell me! Where's the gator?!
+Dialogue: 0,0:11:20.97,0:11:23.67,Default,,0000,0000,0000,,He went in the direction\Nof the mortuary temple.
+Dialogue: 0,0:11:23.67,0:11:26.01,Default,,0000,0000,0000,,That way?! Thanks!
+Dialogue: 0,0:11:39.09,0:11:41.63,Default,,0000,0000,0000,,What justice...
+Dialogue: 0,0:11:58.04,0:12:01.11,Default,,0000,0000,0000,,The hell with Navy Headquarters...
+Dialogue: 0,0:12:12.26,0:12:15.59,Default,,0000,0000,0000,,Oh? I can't move well...
+Dialogue: 0,0:12:17.13,0:12:20.63,Default,,0000,0000,0000,,This is strange... when I ate meat...
+Dialogue: 0,0:12:20.63,0:12:23.90,Default,,0000,0000,0000,,What's wrong...?\NThese are such small wounds...
+Dialogue: 0,0:12:23.90,0:12:26.74,Default,,0000,0000,0000,,I wonder if I'm a little tired...
+Dialogue: 0,0:13:00.20,0:13:03.98,Default,,0000,0000,0000,,Did it tell you what you wanted to know?
+Dialogue: 0,0:13:11.68,0:13:16.99,Default,,0000,0000,0000,,Hm...? Oh, I see... Hidden stairs...
+Dialogue: 0,0:13:22.19,0:13:25.13,Default,,0000,0000,0000,,Four... four more minutes...!
+Dialogue: 0,0:13:47.15,0:13:51.56,Default,,0000,0000,0000,,Aren't there any others?!\NIs this all this country is hiding?
+Dialogue: 0,0:13:51.56,0:13:55.96,Default,,0000,0000,0000,,You're not satisfied? I kept my promise.
+Dialogue: 0,0:13:57.40,0:13:59.10,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:14:00.46,0:14:03.37,Default,,0000,0000,0000,,Just as you'd expect from a national secret...
+Dialogue: 0,0:14:03.37,0:14:05.57,Default,,0000,0000,0000,,No matter how desperately you search,
+Dialogue: 0,0:14:05.57,0:14:09.41,Default,,0000,0000,0000,,it can't be found unless you know where it is.
+Dialogue: 0,0:14:09.41,0:14:12.48,Default,,0000,0000,0000,,So this is the Poneglyph, huh, Nico Robin?
+Dialogue: 0,0:14:13.98,0:14:15.91,Default,,0000,0000,0000,,That didn't take long...
+Dialogue: 0,0:14:15.91,0:14:20.58,Default,,0000,0000,0000,,It's strange, or how should I put it...\NWere you able to decipher it?
+Dialogue: 0,0:14:20.58,0:14:21.82,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:21.82,0:14:25.66,Default,,0000,0000,0000,,Good. Now, read...\Nthe so-called Poneglyph...
+Dialogue: 0,0:14:28.93,0:14:34.37,Default,,0000,0000,0000,,Kahira conquered Alabasta...\Nin Sky Ephemeris Year 239.
+Dialogue: 0,0:14:34.37,0:14:38.77,Default,,0000,0000,0000,,In 260, Taymer ruled the Bitain Dynasty.
+Dialogue: 0,0:14:38.77,0:14:43.44,Default,,0000,0000,0000,,In 306, the Taff Cathedral\Nwas completed in Erumalu.
+Dialogue: 0,0:14:43.44,0:14:46.78,Default,,0000,0000,0000,,In 325, the hero Mamdin of Oltia...
+Dialogue: 0,0:14:46.78,0:14:51.02,Default,,0000,0000,0000,,Hey, hey... Wait! Wait!\NIs that what we wanna know?!
+Dialogue: 0,0:14:51.02,0:14:53.62,Default,,0000,0000,0000,,Who cares about the history of this country?
+Dialogue: 0,0:14:53.62,0:14:56.12,Default,,0000,0000,0000,,Just tell me the location of the world's\Nmost disastrous "military power"
+Dialogue: 0,0:14:56.12,0:14:58.12,Default,,0000,0000,0000,,that is sleeping in this country!
+Dialogue: 0,0:14:58.12,0:15:00.32,Default,,0000,0000,0000,,Where is the Pluton?!
+Dialogue: 0,0:15:02.03,0:15:03.63,Default,,0000,0000,0000,,It's not written here.
+Dialogue: 0,0:15:03.63,0:15:07.10,Default,,0000,0000,0000,,--What?!\N--History is the only thing written here.
+Dialogue: 0,0:15:07.10,0:15:08.20,Default,,0000,0000,0000,,Is that true?!
+Dialogue: 0,0:15:08.20,0:15:14.21,Default,,0000,0000,0000,,Pluton... I didn't see that\Nword mentioned even once.
+Dialogue: 0,0:15:26.32,0:15:31.52,Default,,0000,0000,0000,,Well... I see... That's unfortunate...
+Dialogue: 0,0:15:31.52,0:15:35.39,Default,,0000,0000,0000,,You've been an excellent\Npartner to me, but...
+Dialogue: 0,0:15:35.39,0:15:37.76,Default,,0000,0000,0000,,...I think I'll kill you here.
+Dialogue: 0,0:15:37.76,0:15:39.83,Default,,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:15:39.83,0:15:44.40,Default,,0000,0000,0000,,The agreement that we made four\Nyears ago has been achieved here.
+Dialogue: 0,0:15:44.40,0:15:47.37,Default,,0000,0000,0000,,This is what you said then.
+Dialogue: 0,0:15:47.37,0:15:49.74,Default,,0000,0000,0000,,If I take you to where the Poneglyph is,
+Dialogue: 0,0:15:49.74,0:15:53.38,Default,,0000,0000,0000,,you'd turn over the information\Non the weapon to me...
+Dialogue: 0,0:15:53.38,0:15:56.68,Default,,0000,0000,0000,,Your work in Baroque Works\Nthese past four years was excellent
+Dialogue: 0,0:15:56.68,0:16:00.32,Default,,0000,0000,0000,,both in terms of brainpower\Nand command ability.
+Dialogue: 0,0:16:00.32,0:16:05.52,Default,,0000,0000,0000,,That's enough for me... to say\Nthat you were a useful woman.
+Dialogue: 0,0:16:05.52,0:16:10.26,Default,,0000,0000,0000,,But... you broke your word at the end!
+Dialogue: 0,0:16:12.56,0:16:17.77,Default,,0000,0000,0000,,The Poneglyph in this country doesn't\Neven show a clue on the Pluton.
+Dialogue: 0,0:16:17.77,0:16:22.37,Default,,0000,0000,0000,,Or... is it that you weren't\Nplanning to tell me from the start,
+Dialogue: 0,0:16:22.37,0:16:25.21,Default,,0000,0000,0000,,even if you found out?
+Dialogue: 0,0:16:32.98,0:16:37.09,Default,,0000,0000,0000,,However... I don't feel\Nany anger against you...
+Dialogue: 0,0:16:37.09,0:16:40.72,Default,,0000,0000,0000,,You know why, Nico Robin?
+Dialogue: 0,0:16:40.72,0:16:43.26,Default,,0000,0000,0000,,How silly... We were a team for four years.
+Dialogue: 0,0:16:43.26,0:16:47.43,Default,,0000,0000,0000,,I knew you'd pull something like this.
+Dialogue: 0,0:16:47.43,0:16:48.90,Default,,0000,0000,0000,,Water?!
+Dialogue: 0,0:16:48.90,0:16:51.57,Default,,0000,0000,0000,,If you get wet, a knife\Ncan stick in you, right?!
+Dialogue: 0,0:16:53.47,0:16:55.47,Default,,0000,0000,0000,,He dodged it! Where'd he...
+Dialogue: 0,0:17:02.28,0:17:06.35,Default,,0000,0000,0000,,I'll forgive you for everything, Nico Robin...
+Dialogue: 0,0:17:12.82,0:17:20.83,Default,,0000,0000,0000,,...because I've never... trusted\Nanyone... from the beginning.
+Dialogue: 0,0:17:25.67,0:17:30.11,Default,,0000,0000,0000,,I now know from Cobra's reaction\Nthat Pluton really exists.
+Dialogue: 0,0:17:30.11,0:17:33.61,Default,,0000,0000,0000,,I don't have to depend on the\NPoneglyph. I'll find it on my own.
+Dialogue: 0,0:17:33.61,0:17:36.81,Default,,0000,0000,0000,,Once this country becomes mine,\Nit's just a matter of time.
+Dialogue: 0,0:17:38.58,0:17:43.39,Default,,0000,0000,0000,,Hm?! What's going on?! It's still too\Nearly for the attack on the Square!
+Dialogue: 0,0:17:43.39,0:17:45.56,Default,,0000,0000,0000,,It must be you. What'd you do?!
+Dialogue: 0,0:17:45.56,0:17:48.26,Default,,0000,0000,0000,,Well... nothing major...
+Dialogue: 0,0:17:48.26,0:17:49.89,Default,,0000,0000,0000,,This underground sacred temple is built
+Dialogue: 0,0:17:49.89,0:17:53.90,Default,,0000,0000,0000,,so that pulling just one small column\Nout will cause the entire balance
+Dialogue: 0,0:17:53.90,0:17:56.63,Default,,0000,0000,0000,,to be disrupted and destroy the temple.
+Dialogue: 0,0:17:58.07,0:18:02.94,Default,,0000,0000,0000,,You two... will die here with me.
+Dialogue: 0,0:18:02.94,0:18:07.14,Default,,0000,0000,0000,,As the 12th king of the Nefertari Family,
+Dialogue: 0,0:18:07.14,0:18:11.15,Default,,0000,0000,0000,,I can't give this sand kingdom\Nto someone like you.
+Dialogue: 0,0:18:27.06,0:18:30.13,Default,,0000,0000,0000,,Where is it? Three minutes left...
+Dialogue: 0,0:18:30.13,0:18:33.34,Default,,0000,0000,0000,,A cannon big enough to\Nblow up a 5 km diameter...
+Dialogue: 0,0:18:33.34,0:18:36.81,Default,,0000,0000,0000,,There can't be many places\Nwhere such a thing would fit...
+Dialogue: 0,0:18:36.81,0:18:40.81,Default,,0000,0000,0000,,Why can't we find it when\Nwe search this much...?
+Dialogue: 0,0:18:40.81,0:18:43.31,Default,,0000,0000,0000,,An open space where a big cannon can fit...
+Dialogue: 0,0:18:44.62,0:18:46.02,Default,,0000,0000,0000,,A stray bullet!
+Dialogue: 0,0:18:47.02,0:18:48.92,Default,,0000,0000,0000,,An open space...
+Dialogue: 0,0:18:50.49,0:18:53.99,Default,,0000,0000,0000,,Hey, no fair, Koza! You were\Nhiding in a place like this?!
+Dialogue: 0,0:18:53.99,0:18:56.46,Default,,0000,0000,0000,,Leader! No fair!
+Dialogue: 0,0:18:56.46,0:18:59.40,Default,,0000,0000,0000,,That's right... That place can...
+Dialogue: 0,0:18:59.40,0:19:02.83,Default,,0000,0000,0000,,That's dangerous, you bastard! Smoke Star!
+Dialogue: 0,0:19:02.83,0:19:04.74,Default,,0000,0000,0000,,It doesn't attract people's\Nattention and it's a big space.
+Dialogue: 0,0:19:04.74,0:19:07.81,Default,,0000,0000,0000,,Idiot! Ahh! I'm not from the Rebel Army!
+Dialogue: 0,0:19:07.81,0:19:11.51,Default,,0000,0000,0000,,Usopp Hammer!\NUsopp's Rubberband of Doom!
+Dialogue: 0,0:19:11.51,0:19:16.01,Default,,0000,0000,0000,,Did that teach you, you bastard!\NGeez... who do they think I am?
+Dialogue: 0,0:19:16.01,0:19:18.05,Default,,0000,0000,0000,,Don't be surprised when I\Ntell you this. No, be surprised!
+Dialogue: 0,0:19:18.05,0:19:21.39,Default,,0000,0000,0000,,I am that famous Captain... U...
+Dialogue: 0,0:19:21.39,0:19:24.59,Default,,0000,0000,0000,,What? O-Oh, it's you, Vivi.\NDid you find the cannoneer?!
+Dialogue: 0,0:19:24.59,0:19:26.49,Default,,0000,0000,0000,,I figured it out! It's gotta be there!
+Dialogue: 0,0:19:26.49,0:19:30.36,Default,,0000,0000,0000,,What?! Really?! Okay, then! I'll signal them!
+Dialogue: 0,0:19:30.36,0:19:33.50,Default,,0000,0000,0000,,In any case, I'll call everyone!\NYou're sure about it, right?
+Dialogue: 0,0:19:33.50,0:19:34.70,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:34.70,0:19:37.94,Default,,0000,0000,0000,,Special Attack... Red Serpent Star!
+Dialogue: 0,0:19:44.24,0:19:46.68,Default,,0000,0000,0000,,Ahh?!
+Dialogue: 0,0:19:46.68,0:19:48.31,Default,,0000,0000,0000,,Oh?!
+Dialogue: 0,0:20:14.14,0:20:16.44,Default,,0000,0000,0000,,Boy, I slept well.
+Dialogue: 0,0:20:16.44,0:20:19.28,Default,,0000,0000,0000,,Huh...? Oh, that's right.
+Dialogue: 0,0:20:19.28,0:20:21.95,Default,,0000,0000,0000,,My body suddenly became\Nincapable of moving...
+Dialogue: 0,0:20:21.95,0:20:26.12,Default,,0000,0000,0000,,...so I decided to risk it and take\Na nap since it couldn't be helped.
+Dialogue: 0,0:20:26.12,0:20:30.02,Default,,0000,0000,0000,,And now I feel fine, so...
+Dialogue: 0,0:20:30.02,0:20:31.82,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:20:31.82,0:20:35.33,Default,,0000,0000,0000,,Gator! I'll beat him up!
+Dialogue: 0,0:20:44.23,0:20:46.14,Default,,0000,0000,0000,,That hole...
+Dialogue: 0,0:20:49.77,0:20:51.71,Default,,0000,0000,0000,,It looks gator-ish...
+Dialogue: 0,0:20:56.21,0:20:59.92,Default,,0000,0000,0000,,Whoa... You're a model king...
+Dialogue: 0,0:20:59.92,0:21:02.99,Default,,0000,0000,0000,,Are you trying to be buried alive,\Ntaking me with you...
+Dialogue: 0,0:21:02.99,0:21:05.29,Default,,0000,0000,0000,,...for the country...?!
+Dialogue: 0,0:21:05.29,0:21:07.66,Default,,0000,0000,0000,,But... you can't kill me...
+Dialogue: 0,0:21:07.66,0:21:08.83,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:21:08.83,0:21:13.53,Default,,0000,0000,0000,,I can change all the bedrocks\Ninto sand and escape from here.
+Dialogue: 0,0:21:13.53,0:21:16.90,Default,,0000,0000,0000,,You'll die in vain, Cobra.
+Dialogue: 0,0:21:16.90,0:21:19.40,Default,,0000,0000,0000,,It's now less than three minutes.
+Dialogue: 0,0:21:19.40,0:21:21.97,Default,,0000,0000,0000,,With the collapse of this sacred temple\Nand the big explosion of the Square,
+Dialogue: 0,0:21:21.97,0:21:26.34,Default,,0000,0000,0000,,everyone in my way will\Nbe blown up in an instant!
+Dialogue: 0,0:21:26.34,0:21:31.45,Default,,0000,0000,0000,,In that moment, this land...\Nwill become my country.
+Dialogue: 0,0:21:48.43,0:21:53.44,Default,,0000,0000,0000,,Crocodile!! Where are you?!
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.45,0:23:11.88,Default,,0000,0000,0000,,I've cornered you, gator!
+Dialogue: 0,0:23:11.88,0:23:13.88,Default,,0000,0000,0000,,Straw Hat... Why are you alive?
+Dialogue: 0,0:23:13.88,0:23:15.99,Default,,0000,0000,0000,,Just how many times do you want to be killed?
+Dialogue: 0,0:23:15.99,0:23:18.36,Default,,0000,0000,0000,,What? Is the cannoneer really in such a place?!
+Dialogue: 0,0:23:18.36,0:23:20.39,Default,,0000,0000,0000,,Yes! There's nowhere else I can think of!
+Dialogue: 0,0:23:20.39,0:23:21.99,Default,,0000,0000,0000,,Okay then! Everyone's headed here.\NSo we'll leave a message!
+Dialogue: 0,0:23:21.99,0:23:23.09,Default,,0000,0000,0000,,I'm gonna go on ahead!
+Dialogue: 0,0:23:23.09,0:23:25.43,Default,,0000,0000,0000,,What?! Hey, Vivi! Wait! Wait for me!
+Dialogue: 0,0:23:25.43,0:23:26.70,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.70,0:23:30.47,Default,,0000,0000,0000,,"The Nightmare Draws Near!\NThis is the Sand Sand Clan's Secret Base"
+Dialogue: 0,0:23:30.47,0:23:32.80,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.80,0:23:37.30,Default,,0000,0000,0000,,

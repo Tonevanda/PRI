@@ -1,0 +1,335 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.43,0:00:19.43,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:16.43,0:00:19.43,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,Default,,0000,0000,0000,,{\i1}Your dream is like a monster{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,On Top,,0000,0000,0000,,{\i1}kimi no yume wa monsutaa kyuu de{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,Default,,0000,0000,0000,,{\i1}Every time it breaks the cage in your heart{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,On Top,,0000,0000,0000,,{\i1}mune no ori bukkowashitewa{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,Default,,0000,0000,0000,,{\i1}Jump into the paradise on \Nwhich is written "Go to Hell"{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,On Top,,0000,0000,0000,,{\i1}tobikomu yo "Go to Hell" to kaita paradaisu{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,Default,,0000,0000,0000,,{\i1}It's always, Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,On Top,,0000,0000,0000,,{\i1}itsudatte Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,Default,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,On Top,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,Default,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,On Top,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,Default,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,On Top,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,Default,,0000,0000,0000,,{\i1}Someday, the dream that's \Ncovered in cuts and bruises{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,On Top,,0000,0000,0000,,{\i1}kizu darake ni natta yume wa itsuka{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,Default,,0000,0000,0000,,{\i1}will become your one and only treasure{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,On Top,,0000,0000,0000,,{\i1}daiji na takaramono ni naru sa{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,Default,,0000,0000,0000,,{\i1}Believing in a great dream together{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,Default,,0000,0000,0000,,{\i1}To that planet where love combines with tears{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,On Top,,0000,0000,0000,,{\i1}ai ga namida to mazaru hoshi ni{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,Default,,0000,0000,0000,,{\i1}The future gently brings a morning{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,On Top,,0000,0000,0000,,{\i1}sotto mirai wa asa wo hakobi{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,Default,,0000,0000,0000,,{\i1}It shines on our silly but dear world{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,On Top,,0000,0000,0000,,{\i1}oroka de itoshii boku \Ntachi no sekai terasu yo{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,Default,,0000,0000,0000,,{\i1}Fight! The most formidable enemy is yourself{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,On Top,,0000,0000,0000,,{\i1}tatakae! saikyou no teki wa jibun sa{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,Default,,0000,0000,0000,,{\i1}Always and forever...{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,On Top,,0000,0000,0000,,{\i1}eien ni...{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.28,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.28,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:02:00.32,0:02:02.87,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:02:00.32,0:02:02.87,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:02:02.91,0:02:05.45,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:02.91,0:02:05.45,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,Default,,0000,0000,0000,,{\i1}Believing a great dream together{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:42.78,0:02:44.82,Italics,,0000,0000,0000,,{\i1}The Great Pirate Era is experiencing
+Dialogue: 0,0:02:44.82,0:02:49.88,Italics,,0000,0000,0000,,a groundswell beyond the World \NGovernment's expectation.{\i0}
+Dialogue: 0,0:02:51.46,0:02:58.30,Default,,0000,0000,0000,,{\i1}Being at the center of the unstoppable swell\Nand drawing the most attention is...{\i0}
+Dialogue: 0,0:03:00.59,0:03:02.47,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:03.64,0:03:05.52,Default,,0000,0000,0000,,{\i1}And the Straw Hats!{\i0}
+Dialogue: 0,0:03:08.27,0:03:12.17,Default,,0000,0000,0000,,{\i1}In order to cope with the \Nturbulent Great Pirate Era,{\i0}
+Dialogue: 0,0:03:12.17,0:03:16.63,Default,,0000,0000,0000,,{\i1}50 leaders hold the World Conference\Nevery four years.{\i0}
+Dialogue: 0,0:03:17.19,0:03:20.57,Default,,0000,0000,0000,,{\i1}Known as the Reverie, it is about to start.{\i0}
+Dialogue: 0,0:03:25.20,0:03:29.33,Default,,0000,0000,0000,,{\i1}The times are changing drastically now.{\i0}
+Dialogue: 0,0:03:34.96,0:03:40.51,Default,,0000,0000,0000,,{\i1}"Sabo Enraged!\NThe Tragedy of the Revolutionary Army Officer Kuma!"{\i0}
+Dialogue: 0,0:03:41.34,0:03:44.72,On Top,,0000,0000,0000,,PANGAEA CASTLE
+Dialogue: 0,0:03:42.40,0:03:44.87,DefaultLow,,0000,0000,0000,,{\i1}The Pangaea Castle has...{\i0}
+Dialogue: 0,0:03:45.32,0:03:49.61,Default,,0000,0000,0000,,{\i1}...three gates outside of its main gate\Nand all of them are guarded.{\i0}
+Dialogue: 0,0:03:52.37,0:03:55.29,Italics,,0000,0000,0000,,{\i1}One of those gates is the \NCelestial Dragon Gate
+Dialogue: 0,0:03:55.29,0:03:58.91,Italics,,0000,0000,0000,,which leads to the Land of the Gods \Nwhere the Celestial Dragons live...{\i0}
+Dialogue: 0,0:04:06.89,0:04:10.73,Default,,0000,0000,0000,,--I came at the request for reinforcements.\N--Yes, we're aware.
+Dialogue: 0,0:04:11.31,0:04:12.77,Default,,0000,0000,0000,,Open the gate!
+Dialogue: 0,0:05:30.55,0:05:33.52,Default,,0000,0000,0000,,Who the hell are you?\NWhat are you doing there?!
+Dialogue: 0,0:05:35.31,0:05:37.65,Default,,0000,0000,0000,,Put your hands up and turn around slowly!
+Dialogue: 0,0:06:10.66,0:06:15.50,On Top,,0000,0000,0000,,MINGLING PLAZA IN THE PANGAEA CASTLE
+Dialogue: 0,0:06:15.85,0:06:18.60,Default,,0000,0000,0000,,A lot of people are gone...
+Dialogue: 0,0:06:18.92,0:06:21.65,Default,,0000,0000,0000,,It's to be expected\Nafter something like that happened.
+Dialogue: 0,0:06:21.65,0:06:25.61,Default,,0000,0000,0000,,No one wants to get involved \Nin unwanted trouble.
+Dialogue: 0,0:06:30.91,0:06:32.24,Default,,0000,0000,0000,,Wow...
+Dialogue: 0,0:06:32.57,0:06:35.45,Default,,0000,0000,0000,,How's that, Shirahoshi-{\i1}san{\i0}?
+Dialogue: 0,0:06:36.54,0:06:39.37,Default,,0000,0000,0000,,The bruise is completely gone!
+Dialogue: 0,0:06:39.83,0:06:43.63,Default,,0000,0000,0000,,Thank you very much, Mansherry-{\i1}chan{\i0}-{\i1}sama{\i0}!
+Dialogue: 0,0:06:44.09,0:06:45.89,Default,,0000,0000,0000,,That's a great ability!
+Dialogue: 0,0:06:49.84,0:06:55.56,Default,,0000,0000,0000,,I think you two are both the biggest princess\Nand the smallest princess in the world!
+Dialogue: 0,0:06:56.10,0:06:59.69,Default,,0000,0000,0000,,I'm sorry that I was \Nafraid of you at first...
+Dialogue: 0,0:06:59.94,0:07:03.69,Default,,0000,0000,0000,,I don't mind at all, Mansherry-{\i1}chan{\i0}-{\i1}sama{\i0}!
+Dialogue: 0,0:07:05.86,0:07:09.97,Default,,0000,0000,0000,,All countries have both \Ngood people and bad people.
+Dialogue: 0,0:07:09.97,0:07:13.14,Default,,0000,0000,0000,,The Fish-Men are not an exception-{\i1}jamon{\i0}!
+Dialogue: 0,0:07:13.68,0:07:18.46,Default,,0000,0000,0000,,Thanks to you,\NI could keep my promise with Otohime.
+Dialogue: 0,0:07:18.46,0:07:21.81,Default,,0000,0000,0000,,No need to thank me, Neptune.
+Dialogue: 0,0:07:21.81,0:07:24.79,Default,,0000,0000,0000,,I want to return the favor \Nfor saving me 10 years ago.
+Dialogue: 0,0:07:24.79,0:07:29.69,Default,,0000,0000,0000,,During the seven days of the conference,\NI'll look after Princess Shirahoshi.
+Dialogue: 0,0:07:30.09,0:07:33.97,Default,,0000,0000,0000,,If I can use my status to help anyone,\Nit'd make me so happy.
+Dialogue: 0,0:07:34.39,0:07:37.85,Default,,0000,0000,0000,,I've been told that I should keep my hands off of\Nthe Celestial Dragons,
+Dialogue: 0,0:07:37.85,0:07:42.19,Default,,0000,0000,0000,,but can I kick their butts\Nand say that it was on your orders?
+Dialogue: 0,0:07:42.50,0:07:46.54,Default,,0000,0000,0000,,Y-Yeah! If it's necessary to protect\Nthe princess and the others,
+Dialogue: 0,0:07:46.54,0:07:49.19,Default,,0000,0000,0000,,I'll take full responsibility!
+Dialogue: 0,0:07:52.03,0:07:56.41,Default,,0000,0000,0000,,I can't believe there is \Nan odd man like him...
+Dialogue: 0,0:07:56.73,0:07:58.19,Default,,0000,0000,0000,,Vivi-{\i1}sama{\i0}!
+Dialogue: 0,0:08:00.66,0:08:05.30,Default,,0000,0000,0000,,I'm sorry, Vivi-{\i1}sama{\i0}. I \Nheard there was trouble...
+Dialogue: 0,0:08:05.30,0:08:07.30,Default,,0000,0000,0000,,I should've stayed with you.
+Dialogue: 0,0:08:07.30,0:08:09.88,Default,,0000,0000,0000,,Don't worry, Pell. I'm alright.
+Dialogue: 0,0:08:10.68,0:08:12.34,Default,,0000,0000,0000,,Anyway, how's my dad?
+Dialogue: 0,0:08:12.34,0:08:14.41,Default,,0000,0000,0000,,Cobra-{\i1}sama{\i0} is talking to...
+Dialogue: 0,0:08:14.76,0:08:18.30,Default,,0000,0000,0000,,...Navy Admiral Fujitora \Nwho wrote him a letter
+Dialogue: 0,0:08:18.30,0:08:21.56,Default,,0000,0000,0000,,as I told you and King Riku from Dressrosa.
+Dialogue: 0,0:08:21.56,0:08:22.89,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:08:49.75,0:08:51.93,Default,,0000,0000,0000,,I heard there was a notice from above...
+Dialogue: 0,0:08:51.93,0:08:56.18,Default,,0000,0000,0000,,Yeah, since there was a ruckus\Nat the Mingling Plaza earlier,
+Dialogue: 0,0:08:56.55,0:08:58.52,Default,,0000,0000,0000,,they wanna tighten security.
+Dialogue: 0,0:08:59.21,0:09:02.76,Default,,0000,0000,0000,,Well, I don't think even \Na mouse can get in here...
+Dialogue: 0,0:09:05.48,0:09:06.67,Default,,0000,0000,0000,,Oops...
+Dialogue: 0,0:09:07.98,0:09:09.23,Default,,0000,0000,0000,,Intruder!
+Dialogue: 0,0:09:09.23,0:09:10.52,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:09:14.65,0:09:16.45,Default,,0000,0000,0000,,He's not outside!
+Dialogue: 0,0:09:17.49,0:09:20.16,Default,,0000,0000,0000,,Gee! Where did he go?!
+Dialogue: 0,0:09:32.25,0:09:34.67,Default,,0000,0000,0000,,Let's go the Land of the Gods next!
+Dialogue: 0,0:09:35.22,0:09:38.50,Default,,0000,0000,0000,,It's a pain in the butt.\NLet's get out here.
+Dialogue: 0,0:09:42.01,0:09:43.75,Default,,0000,0000,0000,,Here is the core.
+Dialogue: 0,0:09:44.73,0:09:46.02,Default,,0000,0000,0000,,Dragon Claw Fist!
+Dialogue: 0,0:09:49.10,0:09:50.90,Default,,0000,0000,0000,,Dragon Breath!
+Dialogue: 0,0:09:59.74,0:10:01.20,Default,,0000,0000,0000,,You went reckless again...
+Dialogue: 0,0:10:01.67,0:10:04.37,Default,,0000,0000,0000,,Do you wanna screw up the whole plan?
+Dialogue: 0,0:10:04.72,0:10:09.42,Default,,0000,0000,0000,,It's fine! We'll get in a big fight with them\Nlater anyway!
+Dialogue: 0,0:10:10.56,0:10:12.90,On Top,,0000,0000,0000,,CELESTIAL DRAGON GATE
+Dialogue: 0,0:10:16.97,0:10:19.39,Default,,0000,0000,0000,,Stop! Who are you?!
+Dialogue: 0,0:10:19.82,0:10:23.66,On Top,,0000,0000,0000,,CONNEY - QUEEN DOWAGER OF THE SORBET KINGDOM
+Dialogue: 0,0:10:23.97,0:10:28.80,Default,,0000,0000,0000,,Why it's Queen Dowager Conney \Nof the Sorbet Kingdom!
+Dialogue: 0,0:10:32.93,0:10:36.59,Default,,0000,0000,0000,,The Land of the Gods is beyond this point.
+Dialogue: 0,0:10:36.59,0:10:40.11,Default,,0000,0000,0000,,You can't get by and it's dangerous\Nso please go back to the castle...
+Dialogue: 0,0:10:40.41,0:10:46.21,Default,,0000,0000,0000,,It hurts-{\i1}eh{\i0}! It's unforgivable-{\i1}eh{\i0}!\NDamn Mjosgard!
+Dialogue: 0,0:10:46.21,0:10:48.96,Default,,0000,0000,0000,,Saint Charlos! Please be calm!
+Dialogue: 0,0:10:49.21,0:10:51.13,Default,,0000,0000,0000,,It's bad for your wounds!
+Dialogue: 0,0:10:51.13,0:10:54.80,Default,,0000,0000,0000,,He can't get away with this-{\i1}eh{\i0}...
+Dialogue: 0,0:10:55.25,0:10:56.88,Default,,0000,0000,0000,,Open the gate!
+Dialogue: 0,0:10:57.13,0:10:59.84,Default,,0000,0000,0000,,What?! What's going on?!
+Dialogue: 0,0:11:00.14,0:11:02.22,Default,,0000,0000,0000,,Saint Charlos is hurt!
+Dialogue: 0,0:11:02.51,0:11:04.77,Default,,0000,0000,0000,,He needs to be treated urgently!
+Dialogue: 0,0:11:04.77,0:11:05.88,Default,,0000,0000,0000,,Right away!
+Dialogue: 0,0:11:15.27,0:11:18.16,Default,,0000,0000,0000,,Hurry up! To the doctor!
+Dialogue: 0,0:11:23.03,0:11:27.49,Default,,0000,0000,0000,,Oh, Charlos! Are you okay?!
+Dialogue: 0,0:11:23.68,0:11:27.35,On Top,,0000,0000,0000,,SAINT ROSWALD - A WORLD \NNOBLE (CELESTIAL DRAGON)
+Dialogue: 0,0:11:27.83,0:11:32.21,Default,,0000,0000,0000,,I heard what happened\Nand I was on my way to pick you up-{\i1}eh{\i0}!
+Dialogue: 0,0:11:32.54,0:11:34.38,Default,,0000,0000,0000,,Saint Roswald!
+Dialogue: 0,0:11:34.38,0:11:37.09,Default,,0000,0000,0000,,F-Father-{\i1}sama{\i0}!
+Dialogue: 0,0:11:39.55,0:11:42.18,Default,,0000,0000,0000,,Oh, look at you!
+Dialogue: 0,0:11:42.55,0:11:44.72,Default,,0000,0000,0000,,My dearest son!
+Dialogue: 0,0:11:50.27,0:11:51.12,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:11:51.58,0:11:53.16,Default,,0000,0000,0000,,Where did Queen Dowager-{\i1}sama{\i0} go?
+Dialogue: 0,0:11:53.86,0:11:57.90,Default,,0000,0000,0000,,Damn Mjosgard! I'll make him pay for this!
+Dialogue: 0,0:11:57.90,0:12:00.33,Default,,0000,0000,0000,,He's a strange man who doesn't have a
+Dialogue: 0,0:12:00.33,0:12:03.28,Default,,0000,0000,0000,,single slave even though \Nhe's a Celestial Dragon!
+Dialogue: 0,0:12:03.28,0:12:08.01,Default,,0000,0000,0000,,Just like Homing who descended \Nto the lower world 30 years ago,
+Dialogue: 0,0:12:08.01,0:12:12.25,Default,,0000,0000,0000,,the Donquixote Family are crazy-{\i1}eh{\i0}!
+Dialogue: 0,0:12:13.54,0:12:16.29,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}, he's...
+Dialogue: 0,0:12:16.61,0:12:22.49,On Top,,0000,0000,0000,,BARTHOLOMEW KUMA - A CURRENT WARLORD OF THE SEA\N(A FORMER TOP OFFICER OF THE REVOLUTIONARY ARMY)\N(AND FORMER KING OF THE SORBET KINGDOM)
+Dialogue: 0,0:12:19.17,0:12:22.63,DefaultLow,,0000,0000,0000,,...the invincible slave Kuma!
+Dialogue: 0,0:12:22.91,0:12:24.45,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:12:24.45,0:12:29.06,Default,,0000,0000,0000,,My turn to rent him finally came-{\i1}eh{\i0}!
+Dialogue: 0,0:12:29.85,0:12:33.80,Default,,0000,0000,0000,,{\i1}Bartholomew Kuma was once a pirate
+Dialogue: 0,0:12:33.80,0:12:36.77,Default,,0000,0000,0000,,who was called Tyrant and feared by everyone,{\i0}
+Dialogue: 0,0:12:37.14,0:12:41.82,Default,,0000,0000,0000,,{\i1}but no one's ever had as \Ncheckered a life as his.{\i0}
+Dialogue: 0,0:12:42.86,0:12:45.05,Default,,0000,0000,0000,,{\i1}Kuma is one of the Seven Warlords{\i0}
+Dialogue: 0,0:12:45.05,0:12:47.54,Italics,,0000,0000,0000,,{\i1}and was assigned a special mission by the
+Dialogue: 0,0:12:47.54,0:12:50.10,Italics,,0000,0000,0000,,World Government\Nto eliminate the Straw Hats.{\i0}
+Dialogue: 0,0:12:50.10,0:12:53.95,Italics,,0000,0000,0000,,{\i1}Thus he suddenly emerged in front \Nof Luffy and the others right
+Dialogue: 0,0:12:53.95,0:12:55.63,Italics,,0000,0000,0000,,after the hard battle in Thriller Bark.{\i0}
+Dialogue: 0,0:13:07.64,0:13:10.64,Default,,0000,0000,0000,,36-Pound Phoenix!
+Dialogue: 0,0:13:14.18,0:13:16.60,Default,,0000,0000,0000,,Is that your ability?
+Dialogue: 0,0:13:17.19,0:13:20.38,Default,,0000,0000,0000,,I have the power to repel various things.
+Dialogue: 0,0:13:20.96,0:13:25.24,Default,,0000,0000,0000,,I am a Paw Pad Human,\Nhaving eaten the Paw-Paw Fruit.
+Dialogue: 0,0:13:27.16,0:13:31.57,Default,,0000,0000,0000,,Are you truly willing to die for that man?
+Dialogue: 0,0:13:32.22,0:13:36.92,Default,,0000,0000,0000,,Right now, it's the only way\Nto save my crewmates!
+Dialogue: 0,0:13:37.84,0:13:41.30,Default,,0000,0000,0000,,My ambition means nothing if\NI can't protect my own captain.
+Dialogue: 0,0:13:42.74,0:13:45.22,Default,,0000,0000,0000,,Luffy will become the King of the Pirates!
+Dialogue: 0,0:13:53.02,0:13:55.36,Default,,0000,0000,0000,,He has good companions.
+Dialogue: 0,0:13:56.98,0:14:01.32,Default,,0000,0000,0000,,I should have expected no less\Nfrom your son, Dragon.
+Dialogue: 0,0:14:01.86,0:14:06.39,Default,,0000,0000,0000,,{\i1}Even though Kuma is a Warlord,\Nhe disobeyed the Government's order{\i0}
+Dialogue: 0,0:14:06.39,0:14:09.81,Default,,0000,0000,0000,,{\i1}and for some unknown reason,\Nspared the Straw Hats' lives.{\i0}
+Dialogue: 0,0:14:10.95,0:14:16.10,Default,,0000,0000,0000,,{\i1}Then, Kuma reappeared in front of the Straw Hats\Nin the Sabaody Archipelago.{\i0}
+Dialogue: 0,0:14:16.10,0:14:20.63,Default,,0000,0000,0000,,{\i1}At that time, his body had undergone\Na tremendous change.{\i0}
+Dialogue: 0,0:14:27.01,0:14:30.26,Default,,0000,0000,0000,,--What is this?!\N--He can do this, too?!
+Dialogue: 0,0:14:33.39,0:14:37.81,Default,,0000,0000,0000,,{\i1}Something's off here...\NHe seems different from last time.{\i0}
+Dialogue: 0,0:14:58.87,0:15:02.67,Default,,0000,0000,0000,,{\i1}The Kuma-looking man\Nwho appeared in front of the Straw Hats...{\i0}
+Dialogue: 0,0:15:02.67,0:15:06.08,Default,,0000,0000,0000,,{\i1}...was actually one of the Pacifistas,\Nthe human weapons.{\i0}
+Dialogue: 0,0:15:06.92,0:15:12.16,Default,,0000,0000,0000,,{\i1}Kuma became a guinea pig for\NDr. Vegapunk, the Government's genius scientist,{\i0}
+Dialogue: 0,0:15:12.16,0:15:16.20,Default,,0000,0000,0000,,{\i1}and by replicating him,\Nthese human weapons were developed.{\i0}
+Dialogue: 0,0:15:17.60,0:15:20.09,Default,,0000,0000,0000,,Wait, PX-1.
+Dialogue: 0,0:15:24.77,0:15:28.53,Default,,0000,0000,0000,,Now there's another one!
+Dialogue: 0,0:15:29.84,0:15:31.20,Default,,0000,0000,0000,,What in the world's going on?!
+Dialogue: 0,0:15:31.56,0:15:37.62,Default,,0000,0000,0000,,I've had enough!\NJust how many of these guys are there?!
+Dialogue: 0,0:15:46.17,0:15:47.56,Default,,0000,0000,0000,,{\i1}This one's...{\i0}
+Dialogue: 0,0:15:49.01,0:15:50.63,Default,,0000,0000,0000,,{\i1}...the real deal!{\i0}
+Dialogue: 0,0:15:55.05,0:15:58.56,Default,,0000,0000,0000,,If you were to take a trip,\Nwhere would you want to go?
+Dialogue: 0,0:16:07.27,0:16:12.25,Default,,0000,0000,0000,,{\i1}Kuma gradually lost his personality\Nin the process of the modifications.{\i0}
+Dialogue: 0,0:16:12.82,0:16:15.34,Default,,0000,0000,0000,,{\i1}However, with his own remaining free will,{\i0}
+Dialogue: 0,0:16:15.34,0:16:19.12,Default,,0000,0000,0000,,{\i1}he saved the Straw Hats by sending them \Naway to different parts of the world.{\i0}
+Dialogue: 0,0:16:19.62,0:16:23.58,Default,,0000,0000,0000,,We will never meet again.
+Dialogue: 0,0:16:30.31,0:16:31.59,Default,,0000,0000,0000,,Farewell...
+Dialogue: 0,0:16:40.35,0:16:43.85,Default,,0000,0000,0000,,{\i1}Later, when Kuma was deployed \Nin the Paramount War,
+Dialogue: 0,0:16:43.85,0:16:46.36,Default,,0000,0000,0000,,he had already received \Nhis final modifications.{\i0}
+Dialogue: 0,0:16:46.36,0:16:49.27,Default,,0000,0000,0000,,Kuma! Kuma, that's enough!
+Dialogue: 0,0:16:49.27,0:16:53.03,Default,,0000,0000,0000,,It's me! Did you forget my face?!
+Dialogue: 0,0:16:53.69,0:16:57.53,Default,,0000,0000,0000,,If you don't stop, I'm gonna fight back\Nalthough I'm a gentle person!
+Dialogue: 0,0:16:58.70,0:17:03.08,Default,,0000,0000,0000,,I don't know how you know him\Nbut you may as well give up!
+Dialogue: 0,0:17:03.45,0:17:08.21,Default,,0000,0000,0000,,It's no use talking to him, Emporio Ivankov,\Na top officer of the Revolutionary Army!
+Dialogue: 0,0:17:08.60,0:17:12.22,Default,,0000,0000,0000,,You...! What do you mean?!\NWhat's wrong with him?!
+Dialogue: 0,0:17:12.22,0:17:17.14,Default,,0000,0000,0000,,You're a friend of \NBartholomew Kuma I suppose.
+Dialogue: 0,0:17:17.14,0:17:22.10,Default,,0000,0000,0000,,He was once called Tyrant Kuma\Nand now he is...
+Dialogue: 0,0:17:22.64,0:17:24.98,Default,,0000,0000,0000,,...dead.
+Dialogue: 0,0:17:26.19,0:17:27.83,Default,,0000,0000,0000,,What are you talking...
+Dialogue: 0,0:17:28.47,0:17:33.92,Default,,0000,0000,0000,,In fact, he volunteered to be a guinea pig for\Na study to build a human weapon...
+Dialogue: 0,0:17:33.92,0:17:36.41,Default,,0000,0000,0000,,...run by the Government.
+Dialogue: 0,0:17:38.12,0:17:42.64,Default,,0000,0000,0000,,Stop lying! Kuma hates the Government!
+Dialogue: 0,0:17:42.64,0:17:45.75,Default,,0000,0000,0000,,He wouldn't sacrifice his life for them.
+Dialogue: 0,0:17:45.75,0:17:48.92,Default,,0000,0000,0000,,I know that he wouldn't do that!
+Dialogue: 0,0:17:50.96,0:17:53.55,Default,,0000,0000,0000,,But now, he doesn't even
+Dialogue: 0,0:17:53.55,0:17:58.05,Default,,0000,0000,0000,,remember that he was born human\Nso he is no better than dead.
+Dialogue: 0,0:17:58.05,0:18:01.88,Default,,0000,0000,0000,,He is a monster who fights\Nas the Government tells him.
+Dialogue: 0,0:18:03.18,0:18:06.23,Default,,0000,0000,0000,,He is Pacifista PX-0!
+Dialogue: 0,0:18:06.59,0:18:09.10,Default,,0000,0000,0000,,So you better forget about the past!
+Dialogue: 0,0:18:22.23,0:18:26.88,Default,,0000,0000,0000,,{\i1}And two years later,\Nthe Straw Hats got back together...{\i0}
+Dialogue: 0,0:18:26.88,0:18:31.21,Default,,0000,0000,0000,,There's something that I have to\Ntell you all about.
+Dialogue: 0,0:18:32.38,0:18:38.50,Default,,0000,0000,0000,,I couldn't believe my eyes\Nwhen I got to the Sunny a few days ago...
+Dialogue: 0,0:18:42.81,0:18:44.47,Default,,0000,0000,0000,,I've been expecting you.
+Dialogue: 0,0:18:45.85,0:18:48.02,Default,,0000,0000,0000,,What are you doing here?!
+Dialogue: 0,0:18:49.14,0:18:51.41,Default,,0000,0000,0000,,Mission accomplished.
+Dialogue: 0,0:19:00.95,0:19:03.64,Default,,0000,0000,0000,,There isn't even a scratch on the Sunny.
+Dialogue: 0,0:19:04.87,0:19:07.66,Default,,0000,0000,0000,,And Rayleigh told me later...
+Dialogue: 0,0:19:08.58,0:19:11.06,Default,,0000,0000,0000,,I work for the Revolutionary Army.
+Dialogue: 0,0:19:11.42,0:19:15.09,Default,,0000,0000,0000,,Since I have a connection with them,\NI wanna let them get away from here.
+Dialogue: 0,0:19:15.09,0:19:18.74,Default,,0000,0000,0000,,I think you guys half expected that.
+Dialogue: 0,0:19:18.74,0:19:22.55,Default,,0000,0000,0000,,He saved our lives!
+Dialogue: 0,0:19:22.55,0:19:24.32,Default,,0000,0000,0000,,Just remember that.
+Dialogue: 0,0:19:24.32,0:19:31.53,Default,,0000,0000,0000,,Bartholomew Kuma turned out to be\None of our greatest allies.
+Dialogue: 0,0:19:32.27,0:19:35.62,Italics,,0000,0000,0000,,{\i1}Why did he help Luffy and the \Nothers get out of trouble
+Dialogue: 0,0:19:35.62,0:19:37.97,Italics,,0000,0000,0000,,and give them chances to escape?{\i0}
+Dialogue: 0,0:19:38.76,0:19:43.07,Default,,0000,0000,0000,,{\i1}He can't explain his motive now...{\i0}
+Dialogue: 0,0:19:52.61,0:19:53.71,Default,,0000,0000,0000,,{\i1}Kuma!{\i0}
+Dialogue: 0,0:19:57.80,0:20:04.10,Default,,0000,0000,0000,,This is exciting-{\i1}eh{\i0}! Father-{\i1}sama{\i0} finally got to rent\Nthe invincible slave Kuma!
+Dialogue: 0,0:20:04.10,0:20:07.85,Default,,0000,0000,0000,,It's convenient to have \Na Warlord as a slave-{\i1}eh{\i0}!
+Dialogue: 0,0:20:08.43,0:20:09.93,Default,,0000,0000,0000,,It feels good to hit him!
+Dialogue: 0,0:20:12.73,0:20:14.44,Default,,0000,0000,0000,,It feels good to stab him!
+Dialogue: 0,0:20:21.82,0:20:26.20,Default,,0000,0000,0000,,He doesn't even scream.\NHe's a top-class slave-{\i1}eh{\i0}!
+Dialogue: 0,0:20:26.45,0:20:31.80,Default,,0000,0000,0000,,Nice, Father-{\i1}sama{\i0}! I want one, too-{\i1}eh{\i0}!
+Dialogue: 0,0:20:31.80,0:20:35.40,Default,,0000,0000,0000,,Ow, ow, ow... I'm gonna die-{\i1}eh{\i0}...
+Dialogue: 0,0:20:35.40,0:20:38.11,Default,,0000,0000,0000,,Keep quiet, Charlos-{\i1}sama{\i0}!
+Dialogue: 0,0:20:49.31,0:20:50.27,Default,,0000,0000,0000,,Karasu!
+Dialogue: 0,0:20:56.84,0:21:01.70,Default,,0000,0000,0000,,Ow, ow, ow... I really \Nhad a terrible time-{\i1}eh{\i0}...
+Dialogue: 0,0:21:01.70,0:21:05.13,Default,,0000,0000,0000,,Oh, poor Charlos!
+Dialogue: 0,0:21:05.13,0:21:09.16,Default,,0000,0000,0000,,Let's get the world's greatest \Ndoctor to look at you-{\i1}eh{\i0}!
+Dialogue: 0,0:21:13.25,0:21:16.33,Default,,0000,0000,0000,,{\i1}I didn't expect to see him this soon...{\i0}
+Dialogue: 0,0:21:26.41,0:21:33.54,On Top,,0000,0000,0000,,JEWELRY BONNEY\NA PIRATE FROM THE WORST GENERATION\NCAPTAIN OF THE BONNEY PIRATES
+Dialogue: 0,0:21:31.56,0:21:33.68,DefaultLow,,0000,0000,0000,,{\i1}The infiltration is successful.{\i0}
+Dialogue: 0,0:21:38.06,0:21:41.43,Default,,0000,0000,0000,,{\i1}I'll never forgive them!{\i0}
+Dialogue: 0,0:21:44.74,0:21:46.40,Default,,0000,0000,0000,,{\i1}Ever!{\i0}
+Dialogue: 0,0:21:51.32,0:21:52.87,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:21:53.71,0:21:56.55,DefaultLow,,0000,0000,0000,,Don't get mad, Sabo...
+Dialogue: 0,0:21:53.89,0:21:59.77,On Top,,0000,0000,0000,,BENEATH THE LAND OF THE GODS,\NHOME TO THE CELESTIAL DRAGONS
+Dialogue: 0,0:21:56.55,0:21:59.92,DefaultLow,,0000,0000,0000,,Gee, boys scare me!
+Dialogue: 0,0:21:59.92,0:22:02.30,Default,,0000,0000,0000,,It's hard not to get mad!
+Dialogue: 0,0:22:02.88,0:22:05.90,Default,,0000,0000,0000,,Our friend is going through hell like that!
+Dialogue: 0,0:22:05.90,0:22:08.26,Default,,0000,0000,0000,,Our gentle Kuma!
+Dialogue: 0,0:22:11.35,0:22:13.23,Default,,0000,0000,0000,,It's unforgivable...
+Dialogue: 0,0:22:15.02,0:22:16.61,Default,,0000,0000,0000,,Calm down.
+Dialogue: 0,0:22:16.61,0:22:20.25,Default,,0000,0000,0000,,We got you. We all feel the same.
+Dialogue: 0,0:22:20.25,0:22:22.86,Default,,0000,0000,0000,,We won't leave Kuma-{\i1}san{\i0} like that!
+Dialogue: 0,0:22:22.86,0:22:25.99,Default,,0000,0000,0000,,That's what we came here for...
+Dialogue: 0,0:22:28.07,0:22:33.87,Default,,0000,0000,0000,,Having said that, even if we set him free,\Nhe'll never return to his old self...
+Dialogue: 0,0:22:35.45,0:22:41.21,Default,,0000,0000,0000,,But Kuma-{\i1}chan{\i0} is a prime example of\Nthe World Government's oppression!
+Dialogue: 0,0:22:41.21,0:22:44.85,Default,,0000,0000,0000,,Kuma-{\i1}san{\i0} is formerly a king \Nof an affiliated nation.
+Dialogue: 0,0:22:44.85,0:22:48.21,Default,,0000,0000,0000,,That's why they used him as a warning.
+Dialogue: 0,0:22:48.74,0:22:53.72,Default,,0000,0000,0000,,To say that no matter how tough you are,\Nthis is how you end up if you disobey the gods!
+Dialogue: 0,0:22:54.10,0:22:57.81,Default,,0000,0000,0000,,The Celestial Dragons have CP-0\Nand the Navy Headquarters on their side.
+Dialogue: 0,0:22:58.50,0:23:01.19,Default,,0000,0000,0000,,If we blunder and get caught...
+Dialogue: 0,0:23:01.19,0:23:03.61,Default,,0000,0000,0000,,Blundering is not an option.
+Dialogue: 0,0:23:04.53,0:23:06.18,Default,,0000,0000,0000,,It's either success...
+Dialogue: 0,0:23:06.71,0:23:07.99,Default,,0000,0000,0000,,...or death!
+Dialogue: 0,0:23:16.50,0:23:18.66,Italics,,0000,0000,0000,,{\i1}The Reverie has finally begun!
+Dialogue: 0,0:23:18.66,0:23:23.17,Italics,,0000,0000,0000,,Meanwhile the Five Elders, the highest \Nauthorities of the world, are secretly on the move!{\i0}
+Dialogue: 0,0:23:23.17,0:23:27.21,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Finally, It Starts! The Conspiracy-filled Reverie!"
+Dialogue: 0,0:23:27.21,0:23:29.84,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:31.76,0:23:35.51,Default,,0000,0000,0000,,I'm gonna kick the Emperor \Nof the Sea, Kaido's butt!
+Dialogue: 0,0:23:36.25,0:23:40.35,Default,,0000,0000,0000,,{\i1}Tough enemies are waiting for him!\NSamurai, shogun, and ninja!{\i0}
+Dialogue: 0,0:23:40.35,0:23:44.00,Default,,0000,0000,0000,,{\i1}One Piece! The Land of Wano \NArc will finally begin!{\i0}
+Dialogue: 0,0:23:42.00,0:23:45.54,On Top,,0000,0000,0000,,LAND OF WANO ARC STARTS \NSUNDAY, JULY 7TH! (JST)
+Dialogue: 0,0:23:44.88,0:23:46.88,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.88,0:23:48.88,On Top,,0000,0000,0000,,

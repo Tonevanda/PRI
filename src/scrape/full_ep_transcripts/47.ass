@@ -1,0 +1,258 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.73,0:00:03.76,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:03.76,0:00:05.66,Default,,0000,0000,0000,,Gold Roger,\Nthe King of the Pirates,
+Dialogue: 0,0:00:05.66,0:00:07.97,Default,,0000,0000,0000,,attained everything\Nthis world has to offer.
+Dialogue: 0,0:00:07.97,0:00:11.84,Default,,0000,0000,0000,,The words he uttered just before\Nhis death drove people to the seas.
+Dialogue: 0,0:00:11.84,0:00:15.67,Default,,0000,0000,0000,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:15.67,0:00:19.24,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:21.85,0:00:26.59,Default,,0000,0000,0000,,And so men head for the\NGrand Line in pursuit of their dreams!
+Dialogue: 0,0:00:26.59,0:00:30.49,Default,,0000,0000,0000,,The world has truly\Nentered a Great Pirate Era!
+Dialogue: 0,0:00:30.49,0:00:35.86,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:00:35.86,0:00:41.77,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:00:41.77,0:00:43.27,Default,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:00:47.97,0:00:53.61,Default,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:00:53.61,0:00:59.35,Default,,0000,0000,0000,,Delirious with fever,\NI take the helm
+Dialogue: 0,0:00:59.35,0:01:11.46,Default,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it's not a legend!
+Dialogue: 0,0:01:11.46,0:01:17.17,Default,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:17.17,0:01:22.47,Default,,0000,0000,0000,,simply ride aboard\Nsomeone else's biorhythm
+Dialogue: 0,0:01:22.47,0:01:26.14,Default,,0000,0000,0000,,and pretend it isn't there!
+Dialogue: 0,0:01:26.14,0:01:31.65,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:01:31.65,0:01:37.36,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:01:37.36,0:01:43.60,Default,,0000,0000,0000,,A coin in my pocket,\Nand do you wanna be my friend?
+Dialogue: 0,0:01:43.60,0:01:48.97,Default,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:01:48.97,0:01:50.04,Default,,0000,0000,0000,,We are!
+Dialogue: 0,0:02:16.09,0:02:21.27,Default,,0000,0000,0000,,Thanks! I flashily thought\NI was a goner there!
+Dialogue: 0,0:02:21.27,0:02:23.90,Default,,0000,0000,0000,,There's no need to thank me.
+Dialogue: 0,0:02:23.90,0:02:26.27,Default,,0000,0000,0000,,You're Buggy the Clown, right?
+Dialogue: 0,0:02:26.27,0:02:30.14,Default,,0000,0000,0000,,How do you know that?! Who are you?
+Dialogue: 0,0:02:30.14,0:02:33.45,Default,,0000,0000,0000,,I'm looking for a certain man.
+Dialogue: 0,0:02:33.45,0:02:36.58,Default,,0000,0000,0000,,What do you say?\NWill you team up with me?
+Dialogue: 0,0:02:39.35,0:02:44.02,Default,,0000,0000,0000,,"The Wait is Over!\NThe Return of Captain Buggy!"
+Dialogue: 0,0:02:48.89,0:02:50.80,Default,,0000,0000,0000,,To where are we headed, Buggy?
+Dialogue: 0,0:02:50.80,0:02:53.57,Default,,0000,0000,0000,,What?! I smell like I farted?!
+Dialogue: 0,0:02:53.57,0:02:55.90,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:02:55.90,0:03:01.71,Default,,0000,0000,0000,,F-First, we need to find my crew...
+Dialogue: 0,0:03:01.71,0:03:05.94,Default,,0000,0000,0000,,I wonder where they are now,\Nand what they're up to...
+Dialogue: 0,0:03:05.94,0:03:09.38,Default,,0000,0000,0000,,Gum-Gum... Bazooka!
+Dialogue: 0,0:03:11.08,0:03:13.72,Default,,0000,0000,0000,,Retreat for now, men!
+Dialogue: 0,0:03:13.72,0:03:16.82,Default,,0000,0000,0000,,Everyone! Run away on your own!
+Dialogue: 0,0:03:16.82,0:03:19.02,Default,,0000,0000,0000,,Wait for us!
+Dialogue: 0,0:03:23.16,0:03:24.93,Default,,0000,0000,0000,,Is everyone here?!
+Dialogue: 0,0:03:24.93,0:03:28.27,Default,,0000,0000,0000,,Are the people who got off\Nthe ship with you all back?!
+Dialogue: 0,0:03:28.27,0:03:29.73,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:03:29.73,0:03:32.10,Default,,0000,0000,0000,,--Yes.\N--Yes.
+Dialogue: 0,0:03:32.10,0:03:33.51,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:03:33.51,0:03:37.94,Default,,0000,0000,0000,,Captain Buggy isn't...\NCaptain Buggy isn't here!
+Dialogue: 0,0:03:44.95,0:03:48.29,Default,,0000,0000,0000,,Captain Buggy!
+Dialogue: 0,0:03:53.46,0:03:55.79,Default,,0000,0000,0000,,Who knows how long\Nit's been since then...
+Dialogue: 0,0:03:55.79,0:04:01.17,Default,,0000,0000,0000,,Or even where\NCaptain Buggy flew off to?
+Dialogue: 0,0:04:01.17,0:04:06.47,Default,,0000,0000,0000,,What's going to happen to us?\NWhat's the future of the Buggy Pirates?
+Dialogue: 0,0:04:08.24,0:04:12.34,Default,,0000,0000,0000,,This was all because of that girl\Nthief named Nami or whatever!
+Dialogue: 0,0:04:12.34,0:04:16.68,Default,,0000,0000,0000,,Roronoa Zoro... I will take\Nyour head by my own hand!
+Dialogue: 0,0:04:20.15,0:04:25.72,Default,,0000,0000,0000,,Zoro! Did you finally catch cold\Nafter always sleeping on deck?
+Dialogue: 0,0:04:25.72,0:04:28.29,Default,,0000,0000,0000,,I've never gotten sick\Nbefore, only injured.
+Dialogue: 0,0:04:28.29,0:04:32.96,Default,,0000,0000,0000,,Come to think of it,\NI've never had a headache myself...
+Dialogue: 0,0:04:34.03,0:04:38.44,Default,,0000,0000,0000,,Is someone out there talkin'\Nabout me being a master swordsman?
+Dialogue: 0,0:04:38.44,0:04:41.11,Default,,0000,0000,0000,,Ah, I see. Wait!
+Dialogue: 0,0:04:43.31,0:04:45.98,Default,,0000,0000,0000,,Someone's talking about me!
+Dialogue: 0,0:04:45.98,0:04:49.45,Default,,0000,0000,0000,,Honestly! Being a hottie is punishment!
+Dialogue: 0,0:04:49.45,0:04:51.68,Default,,0000,0000,0000,,Someone's always talking about you...
+Dialogue: 0,0:04:54.29,0:04:56.22,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:05:09.40,0:05:11.30,Default,,0000,0000,0000,,Captain Buggy!
+Dialogue: 0,0:05:14.27,0:05:19.38,Default,,0000,0000,0000,,I always felt he was a cold-hearted,\Nhorrible captain when he was well,
+Dialogue: 0,0:05:19.38,0:05:24.72,Default,,0000,0000,0000,,but now I realize he was a bold\Nand open-hearted pirate-like pirate!
+Dialogue: 0,0:05:24.72,0:05:28.09,Default,,0000,0000,0000,,When I look back, we were allowed\Nto ravage to our hearts' content
+Dialogue: 0,0:05:28.09,0:05:32.16,Default,,0000,0000,0000,,only because we had\NCaptain Buggy's backing!
+Dialogue: 0,0:05:32.16,0:05:37.83,Default,,0000,0000,0000,,Today, let's give the greatest and\Nflashiest funeral for Captain Buggy!
+Dialogue: 0,0:05:40.03,0:05:43.17,Default,,0000,0000,0000,,Captain... Rest in peace!
+Dialogue: 0,0:05:43.17,0:05:46.30,Default,,0000,0000,0000,,Please leave the rest\Nto me, Acrobat Cabaji,
+Dialogue: 0,0:05:46.30,0:05:50.34,Default,,0000,0000,0000,,the Buggy Pirates' Number Two\Nand Chief of Staff!
+Dialogue: 0,0:05:50.34,0:05:54.08,Default,,0000,0000,0000,,I promise to rebuild the Buggy Pirates!
+Dialogue: 0,0:05:54.08,0:05:56.45,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:05:56.45,0:05:58.98,Default,,0000,0000,0000,,--Cabaji!\N--W-What?!
+Dialogue: 0,0:05:58.98,0:06:04.62,Default,,0000,0000,0000,,It's only natural for Captain\NBuggy's successor to be me,
+Dialogue: 0,0:06:04.62,0:06:09.73,Default,,0000,0000,0000,,Beast Tamer Mohji-sama,\Nthe vice-captain!
+Dialogue: 0,0:06:09.73,0:06:15.23,Default,,0000,0000,0000,,I'm the captain! You can stay\Nvice-captain for the rest of your life!
+Dialogue: 0,0:06:24.74,0:06:25.84,Default,,0000,0000,0000,,Hey, guys!
+Dialogue: 0,0:06:25.84,0:06:30.08,Default,,0000,0000,0000,,We're gonna decide who gets to\Nbe captain by seeing who's stronger!
+Dialogue: 0,0:06:30.08,0:06:31.82,Default,,0000,0000,0000,,Fine by me!
+Dialogue: 0,0:06:37.99,0:06:40.83,Default,,0000,0000,0000,,Mohji! Mohji! Mohji!
+Dialogue: 0,0:06:42.13,0:06:45.06,Default,,0000,0000,0000,,Cabaji! Cabaji! Cabaji!
+Dialogue: 0,0:06:45.06,0:06:47.03,Default,,0000,0000,0000,,Mohji! Mohji!
+Dialogue: 0,0:06:47.03,0:06:48.83,Default,,0000,0000,0000,,Cabaji! Cabaji!
+Dialogue: 0,0:06:48.83,0:06:50.84,Default,,0000,0000,0000,,Mohji! Mohji!
+Dialogue: 0,0:06:50.84,0:06:52.77,Default,,0000,0000,0000,,Cabaji! Cabaji!
+Dialogue: 0,0:06:59.61,0:07:03.15,Default,,0000,0000,0000,,Acrobat Technique: Monkey Showman!
+Dialogue: 0,0:07:03.15,0:07:06.65,Default,,0000,0000,0000,,Secret Technique:\NCandid Camera Police Trio!
+Dialogue: 0,0:07:06.65,0:07:10.39,Default,,0000,0000,0000,,Murder at the Open-Air Steam Bath!
+Dialogue: 0,0:07:13.76,0:07:16.69,Default,,0000,0000,0000,,Die...
+Dialogue: 0,0:07:16.69,0:07:20.13,Default,,0000,0000,0000,,Mohji!
+Dialogue: 0,0:07:20.13,0:07:22.10,Default,,0000,0000,0000,,That's what you think!
+Dialogue: 0,0:07:44.82,0:07:48.86,Default,,0000,0000,0000,,Looks like I'll just have to fight\Nyou until your body falls apart!
+Dialogue: 0,0:07:48.86,0:07:54.17,Default,,0000,0000,0000,,Yeah. A man-to-man fight.\NI'll take you down with these two fists!
+Dialogue: 0,0:08:03.78,0:08:05.68,Default,,0000,0000,0000,,Mohji! Mohji!
+Dialogue: 0,0:08:05.68,0:08:07.71,Default,,0000,0000,0000,,Cabaji! Cabaji!
+Dialogue: 0,0:08:07.71,0:08:09.61,Default,,0000,0000,0000,,Mohji! Mohji!
+Dialogue: 0,0:08:09.61,0:08:11.75,Default,,0000,0000,0000,,Cabaji! Cabaji!
+Dialogue: 0,0:08:39.78,0:08:42.81,Default,,0000,0000,0000,,--Yeah! You got 'im!\N--Ooh! So close!
+Dialogue: 0,0:09:09.74,0:09:15.21,Default,,0000,0000,0000,,Damn you... J-Just give up already...
+Dialogue: 0,0:09:15.21,0:09:19.55,Default,,0000,0000,0000,,N-No, you give up already...
+Dialogue: 0,0:09:19.55,0:09:22.85,Default,,0000,0000,0000,,I'm going to be captain!
+Dialogue: 0,0:09:22.85,0:09:24.66,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:10:01.53,0:10:04.80,Default,,0000,0000,0000,,Yes! Our Captain Richie!
+Dialogue: 0,0:10:36.99,0:10:39.90,Default,,0000,0000,0000,,Captain Richie!
+Dialogue: 0,0:11:06.96,0:11:11.36,Default,,0000,0000,0000,,Captain Richie! Captain Richie!\NOur great captain!
+Dialogue: 0,0:11:11.36,0:11:14.93,Default,,0000,0000,0000,,With Captain Buggy now gone,\Nthe most worthy of us to be captain
+Dialogue: 0,0:11:14.93,0:11:17.14,Default,,0000,0000,0000,,is Captain Richie!
+Dialogue: 0,0:11:17.14,0:11:20.34,Default,,0000,0000,0000,,Captain Richie! Our great captain!
+Dialogue: 0,0:11:20.34,0:11:24.81,Default,,0000,0000,0000,,Captain Richie! Captain\NRichie! Our great captain!
+Dialogue: 0,0:11:24.81,0:11:34.25,Default,,0000,0000,0000,,Captain Richie! Captain Richie!\NOur great captain!...
+Dialogue: 0,0:12:24.20,0:12:26.30,Default,,0000,0000,0000,,Who are you people?!
+Dialogue: 0,0:12:26.30,0:12:31.14,Default,,0000,0000,0000,,Who gave you permission\Nto come onto this island?!
+Dialogue: 0,0:12:31.14,0:12:36.21,Default,,0000,0000,0000,,You do realize this island belongs\Nto us, the Bear Claw Tribe, right?!
+Dialogue: 0,0:12:37.35,0:12:38.75,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:12:42.75,0:12:46.42,Default,,0000,0000,0000,,Oh? So you're these guys' captain, huh?
+Dialogue: 0,0:12:49.13,0:12:51.60,Default,,0000,0000,0000,,Amusing! Are you picking a fight?!
+Dialogue: 0,0:13:32.20,0:13:33.87,Default,,0000,0000,0000,,W-We surrender...
+Dialogue: 0,0:13:42.31,0:13:46.62,Default,,0000,0000,0000,,Hey! Hey!
+Dialogue: 0,0:13:46.62,0:13:48.02,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:13:48.02,0:13:52.02,Default,,0000,0000,0000,,You don't need to shout so loud;\NI can hear you just fine.
+Dialogue: 0,0:13:53.26,0:13:56.13,Default,,0000,0000,0000,,Did you find something good?
+Dialogue: 0,0:13:56.13,0:14:00.50,Default,,0000,0000,0000,,Yeah! That's my...
+Dialogue: 0,0:14:00.50,0:14:05.17,Default,,0000,0000,0000,,...super flashy\NBuggy Pirates pirate ship!
+Dialogue: 0,0:14:07.81,0:14:10.51,Default,,0000,0000,0000,,What's with this big grave?!
+Dialogue: 0,0:14:10.51,0:14:13.44,Default,,0000,0000,0000,,W-What?! I have a big nose?!
+Dialogue: 0,0:14:13.44,0:14:17.62,Default,,0000,0000,0000,,Who're you calling Big Nose?!\NEh?! Eh?! Are you talking about me?!
+Dialogue: 0,0:14:17.62,0:14:19.28,Default,,0000,0000,0000,,I said grave! Grave!
+Dialogue: 0,0:14:19.28,0:14:21.62,Default,,0000,0000,0000,,Red?! Red, you say?!
+Dialogue: 0,0:14:21.62,0:14:25.82,Default,,0000,0000,0000,,You're saying I have a big, red nose?!
+Dialogue: 0,0:14:25.82,0:14:27.83,Default,,0000,0000,0000,,What? My grave?!
+Dialogue: 0,0:14:30.19,0:14:31.70,Default,,0000,0000,0000,,Took you long enough.
+Dialogue: 0,0:14:33.30,0:14:37.30,Default,,0000,0000,0000,,But who did this?! This is morbid!
+Dialogue: 0,0:14:37.30,0:14:41.31,Default,,0000,0000,0000,,Not to mention this is\Nan old wanted poster...
+Dialogue: 0,0:14:41.31,0:14:44.44,Default,,0000,0000,0000,,Oh? There's someone\Non the ground there...
+Dialogue: 0,0:14:45.31,0:14:46.94,Default,,0000,0000,0000,,Wha?!
+Dialogue: 0,0:14:46.94,0:14:51.55,Default,,0000,0000,0000,,Mohji! Cabaji!\NWhat happened to you guys?!
+Dialogue: 0,0:14:51.55,0:14:55.55,Default,,0000,0000,0000,,C-Captain Buggy...
+Dialogue: 0,0:14:55.55,0:15:00.22,Default,,0000,0000,0000,,I-It's so good to see you...
+Dialogue: 0,0:15:00.22,0:15:02.89,Default,,0000,0000,0000,,I'm so glad you're all right!
+Dialogue: 0,0:15:02.89,0:15:05.33,Default,,0000,0000,0000,,I thought we'd never see you again!
+Dialogue: 0,0:15:05.33,0:15:09.47,Default,,0000,0000,0000,,I'm so happy, too!
+Dialogue: 0,0:15:09.47,0:15:14.64,Default,,0000,0000,0000,,But what on earth happened here?
+Dialogue: 0,0:15:14.64,0:15:16.71,Default,,0000,0000,0000,,Who did this to you?!
+Dialogue: 0,0:15:16.71,0:15:21.51,Default,,0000,0000,0000,,Eh? We suddenly got\Npunched out of the blue, so...
+Dialogue: 0,0:15:21.51,0:15:26.25,Default,,0000,0000,0000,,Embarrassingly enough,\Nwe can't remember a thing...
+Dialogue: 0,0:15:26.25,0:15:30.19,Default,,0000,0000,0000,,The Bear Claw Tribe did this.
+Dialogue: 0,0:15:31.79,0:15:33.26,Default,,0000,0000,0000,,Bear Claw Tribe?!
+Dialogue: 0,0:15:33.26,0:15:37.40,Default,,0000,0000,0000,,Yeah. If you're going to\Nsave them, you'd better hurry.
+Dialogue: 0,0:15:38.90,0:15:42.30,Default,,0000,0000,0000,,Bear Claw tribesmen are famous\Nfor being food connoisseurs.
+Dialogue: 0,0:15:55.51,0:15:59.05,Default,,0000,0000,0000,,The captain says that lions taste bad!
+Dialogue: 0,0:15:59.05,0:16:02.65,Default,,0000,0000,0000,,--We taste bad, too!\N--I won't be very tasty at all!
+Dialogue: 0,0:16:02.65,0:16:07.12,Default,,0000,0000,0000,,--This guy tastes way better than me!\N--Lies! Lies! He tastes much better!
+Dialogue: 0,0:16:07.12,0:16:10.49,Default,,0000,0000,0000,,I'm too boney! I got nothing to eat!
+Dialogue: 0,0:16:12.83,0:16:17.13,Default,,0000,0000,0000,,Don't worry! We're the Bear\NClaw Tribe! We're iron chefs!
+Dialogue: 0,0:16:17.13,0:16:19.97,Default,,0000,0000,0000,,Some wine and spices\Nwill take your smell away!
+Dialogue: 0,0:16:24.48,0:16:26.44,Default,,0000,0000,0000,,What do we do with this food?
+Dialogue: 0,0:16:26.44,0:16:27.91,Default,,0000,0000,0000,,What are they?
+Dialogue: 0,0:16:27.91,0:16:30.55,Default,,0000,0000,0000,,I've never seen such\Nstrange ingredients before.
+Dialogue: 0,0:16:30.55,0:16:32.75,Default,,0000,0000,0000,,Do we boil it with them?
+Dialogue: 0,0:16:32.75,0:16:34.85,Default,,0000,0000,0000,,I just hope it doesn't\Ngive me stomach trouble...
+Dialogue: 0,0:16:34.85,0:16:36.79,Default,,0000,0000,0000,,Chop-Chop-Chop...
+Dialogue: 0,0:16:40.93,0:16:42.96,Default,,0000,0000,0000,,...Chop-Chop-Chop-Chop...
+Dialogue: 0,0:17:14.56,0:17:16.03,Default,,0000,0000,0000,,Is that...?!
+Dialogue: 0,0:17:19.70,0:17:26.07,Default,,0000,0000,0000,,Chop-Chop-Chop-Chop\NChop-Chop-Chop...
+Dialogue: 0,0:17:26.07,0:17:29.01,Default,,0000,0000,0000,,Flashily reassemble!
+Dialogue: 0,0:17:57.20,0:18:01.11,Default,,0000,0000,0000,,I'm back!
+Dialogue: 0,0:18:01.11,0:18:04.04,Default,,0000,0000,0000,,--Captain Buggy!\N--What?!
+Dialogue: 0,0:18:07.04,0:18:11.38,Default,,0000,0000,0000,,Sorry I took so long, men!
+Dialogue: 0,0:18:11.38,0:18:14.92,Default,,0000,0000,0000,,Liven things up with\Na super flashy Buggy Ball!
+Dialogue: 0,0:18:24.50,0:18:26.06,Default,,0000,0000,0000,,Richie!
+Dialogue: 0,0:18:34.51,0:18:38.58,Default,,0000,0000,0000,,Acrobat Technique:\NMurder at the Steam Bath!
+Dialogue: 0,0:18:38.58,0:18:41.55,Default,,0000,0000,0000,,Let the beast-taming show begin!
+Dialogue: 0,0:18:48.92,0:18:53.39,Default,,0000,0000,0000,,Do you really think you can\Nhit me, Buggy the Clown-sama?!
+Dialogue: 0,0:18:55.76,0:19:00.70,Default,,0000,0000,0000,,I hafta thank you all for\Neverything you did to my men!
+Dialogue: 0,0:19:00.70,0:19:02.97,Default,,0000,0000,0000,,Here I flashily come!
+Dialogue: 0,0:19:04.44,0:19:06.67,Default,,0000,0000,0000,,Chop-Chop Kick!
+Dialogue: 0,0:19:12.21,0:19:15.25,Default,,0000,0000,0000,,Chop-Chop Punch!
+Dialogue: 0,0:19:15.25,0:19:17.25,Default,,0000,0000,0000,,Die flashily!
+Dialogue: 0,0:19:18.32,0:19:21.82,Default,,0000,0000,0000,,Chop-Chop Rice Cracker!
+Dialogue: 0,0:19:23.35,0:19:25.86,Default,,0000,0000,0000,,Chop-Chop Festival!
+Dialogue: 0,0:19:27.09,0:19:29.56,Default,,0000,0000,0000,,Chop-Chop Punch!
+Dialogue: 0,0:19:29.56,0:19:33.06,Default,,0000,0000,0000,,Chop-Chop Carnival!
+Dialogue: 0,0:19:33.06,0:19:36.63,Default,,0000,0000,0000,,--H-He's doing this all for us!\N--That's our captain!
+Dialogue: 0,0:19:41.14,0:19:43.54,Default,,0000,0000,0000,,Captain Buggy!
+Dialogue: 0,0:19:47.88,0:19:50.78,Default,,0000,0000,0000,,I'm so glad you're all right!
+Dialogue: 0,0:19:50.78,0:19:55.22,Default,,0000,0000,0000,,I've greatly pained you all,\Nmy adorable underlings!
+Dialogue: 0,0:19:55.22,0:19:59.42,Default,,0000,0000,0000,,Our pain is nothing at all!
+Dialogue: 0,0:20:03.93,0:20:06.10,Default,,0000,0000,0000,,Who're you calling a weird creature?!
+Dialogue: 0,0:20:08.23,0:20:15.44,Default,,0000,0000,0000,,All the hardships you had were\Nbecause of that damn Straw Hat!
+Dialogue: 0,0:20:19.11,0:20:23.11,Default,,0000,0000,0000,,Incidentally, who might this\Npretty young woman be?
+Dialogue: 0,0:20:23.11,0:20:25.42,Default,,0000,0000,0000,,Don't forget "really cute"!
+Dialogue: 0,0:20:25.42,0:20:29.39,Default,,0000,0000,0000,,Y-Yes. I had been\Nwondering about that myself...
+Dialogue: 0,0:20:30.52,0:20:34.93,Default,,0000,0000,0000,,This nice woman saved\Nmy life! Her name is...
+Dialogue: 0,0:20:34.93,0:20:37.09,Default,,0000,0000,0000,,U-Uhh...
+Dialogue: 0,0:20:37.09,0:20:42.03,Default,,0000,0000,0000,,Umm, I'm sorry.\NWhat was your name again?
+Dialogue: 0,0:20:44.44,0:20:48.71,Default,,0000,0000,0000,,Everyone! The Buggy\NPirates are back in action!
+Dialogue: 0,0:20:50.97,0:20:54.45,Default,,0000,0000,0000,,Captain! What is our first goal now?!
+Dialogue: 0,0:20:54.45,0:20:58.38,Default,,0000,0000,0000,,The head of Monkey D. Luffy!
+Dialogue: 0,0:21:26.11,0:21:28.45,Default,,0000,0000,0000,,Hey. I think I see an island.
+Dialogue: 0,0:21:28.45,0:21:30.38,Default,,0000,0000,0000,,Eh? Really?!
+Dialogue: 0,0:21:31.65,0:21:33.75,Default,,0000,0000,0000,,What island is that?!
+Dialogue: 0,0:21:33.75,0:21:37.32,Default,,0000,0000,0000,,--I just told you the other day!\N--Huh?
+Dialogue: 0,0:21:37.32,0:21:40.32,Default,,0000,0000,0000,,So that's the island where Loguetown is!
+Dialogue: 0,0:21:42.03,0:21:44.33,Default,,0000,0000,0000,,It's a pretty big town, right?
+Dialogue: 0,0:21:44.33,0:21:46.46,Default,,0000,0000,0000,,Yeah, that's what I hear!
+Dialogue: 0,0:21:46.46,0:21:51.34,Default,,0000,0000,0000,,Then it sounds like there might\Nbe a market with fresh ingredients.
+Dialogue: 0,0:21:51.34,0:21:53.77,Default,,0000,0000,0000,,I'm hittin' up the weapon stores.
+Dialogue: 0,0:21:53.77,0:21:58.58,Default,,0000,0000,0000,,Being stuck with one sword doesn't\Nsuit a Three Sword-Style user.
+Dialogue: 0,0:21:58.58,0:22:02.28,Default,,0000,0000,0000,,In that case, I guess I'll\Ncheck out some equipment shops!
+Dialogue: 0,0:22:03.85,0:22:09.92,Default,,0000,0000,0000,,That island is where Gold Roger\Nwas born and then executed, right?
+Dialogue: 0,0:22:11.86,0:22:14.06,Default,,0000,0000,0000,,Wow, you actually remember!
+Dialogue: 0,0:22:15.83,0:22:18.76,Default,,0000,0000,0000,,The town where the\NKing of the Pirates died...
+Dialogue: 0,0:22:18.76,0:22:21.97,Default,,0000,0000,0000,,Also known as the city of\Nthe beginning and end...
+Dialogue: 0,0:22:56.07,0:23:01.07,Default,,0000,0000,0000,,My overflowing feelings don't connect
+Dialogue: 0,0:23:01.07,0:23:05.98,Default,,0000,0000,0000,,as I firmly squeeze your hand back
+Dialogue: 0,0:23:05.98,0:23:10.91,Default,,0000,0000,0000,,I'll set off by myself,
+Dialogue: 0,0:23:10.91,0:23:16.25,Default,,0000,0000,0000,,so keep watching me intently\Nas I go into the distance
+Dialogue: 0,0:23:20.76,0:23:25.76,Default,,0000,0000,0000,,I was thinking about it\Na bit since this morning
+Dialogue: 0,0:23:25.76,0:23:30.33,Default,,0000,0000,0000,,Why is it so hot?
+Dialogue: 0,0:23:30.33,0:23:40.74,Default,,0000,0000,0000,,Starting from some point, I haven't\Nbeen able to get away from that
+Dialogue: 0,0:23:41.81,0:23:46.68,Default,,0000,0000,0000,,I want to catch those\Nfeelings that rushed off,
+Dialogue: 0,0:23:46.68,0:23:51.56,Default,,0000,0000,0000,,and I'm already about\Nto overtake myself, even
+Dialogue: 0,0:23:51.56,0:23:56.56,Default,,0000,0000,0000,,I want to embrace my\Ndreams that have jumped out
+Dialogue: 0,0:23:56.56,0:24:01.73,Default,,0000,0000,0000,,With you, I can run there
+Dialogue: 0,0:24:10.51,0:24:12.71,Default,,0000,0000,0000,,So this is the city where Gold Roger,\NKing of the Pirates, died!
+Dialogue: 0,0:24:12.71,0:24:15.31,Default,,0000,0000,0000,,This place is filled with great\Ningredients and beautiful girls!
+Dialogue: 0,0:24:15.31,0:24:17.98,Default,,0000,0000,0000,,--Think they got any bargain sales?!\N--What are you, a housewife?
+Dialogue: 0,0:24:17.98,0:24:20.08,Default,,0000,0000,0000,,Climbing the execution platform\Nand seeing the scenery comes first!
+Dialogue: 0,0:24:20.08,0:24:23.09,Default,,0000,0000,0000,,--I want some swords, but...\N--Do you have money?
+Dialogue: 0,0:24:23.09,0:24:25.39,Default,,0000,0000,0000,,I can lend you some at 300% interest!
+Dialogue: 0,0:24:25.39,0:24:26.76,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:24:26.76,0:24:30.09,Default,,0000,0000,0000,,"The Town of the Beginning and End;\NLandfall at Loguetown"
+Dialogue: 0,0:24:30.09,0:24:32.23,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:24:32.23,0:24:34.23,Default,,0000,0000,0000,,

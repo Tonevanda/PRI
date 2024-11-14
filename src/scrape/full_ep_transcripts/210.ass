@@ -1,0 +1,439 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.77,0:02:06.39,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:18.95,0:00:23.25,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:23.25,0:00:26.67,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:26.67,0:00:30.05,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:30.05,0:00:34.34,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:41.18,0:00:48.73,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:48.73,0:00:55.90,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:55.90,0:01:02.87,Italics,,0000,0000,0000,,Now's the time to set \Nsail-- let's raise anchor
+Dialogue: 0,0:01:02.87,0:01:10.00,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:01:10.00,0:01:13.51,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:01:13.51,0:01:17.34,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:17.34,0:01:21.39,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:21.39,0:01:24.39,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:24.39,0:01:28.65,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:28.65,0:01:32.11,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:32.11,0:01:35.36,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:35.36,0:01:39.62,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:39.62,0:01:43.33,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:43.33,0:01:46.62,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:46.62,0:01:50.04,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:50.04,0:01:55.46,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:55.46,0:01:57.80,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:02:06.56,0:02:09.75,Default,,0000,0000,0000,,The first round of the Davy\NBack Fight is the Donut Race.
+Dialogue: 0,0:02:09.75,0:02:13.84,Default,,0000,0000,0000,,The Straw Hat team managed to\Novercome various acts of sabotage...
+Dialogue: 0,0:02:14.78,0:02:17.43,Default,,0000,0000,0000,,...but Zoro and Chopper's boat\Nwas knocked out of the race.
+Dialogue: 0,0:02:17.43,0:02:21.20,Default,,0000,0000,0000,,Only the Cutie Wagon,\NBarrel Tiger, and It's a Raft remain!
+Dialogue: 0,0:02:21.20,0:02:23.57,Default,,0000,0000,0000,,The battle is between these three boats now!
+Dialogue: 0,0:02:27.45,0:02:31.56,Default,,0000,0000,0000,,"'Silver Fox' Foxy! The \NMerciless Interference"
+Dialogue: 0,0:02:36.81,0:02:38.67,Default,,0000,0000,0000,,The race is really heating up!
+Dialogue: 0,0:02:38.67,0:02:41.55,Default,,0000,0000,0000,,The Long Coral Reef blocks\Nthe course directly ahead!
+Dialogue: 0,0:02:41.67,0:02:44.66,Default,,0000,0000,0000,,In the lead is Porche-chan's Cutie Wagon!
+Dialogue: 0,0:02:44.66,0:02:48.14,Default,,0000,0000,0000,,The Straw Hats' Barrel Tiger\Nand It's a Raft desperately pursue!
+Dialogue: 0,0:02:48.72,0:02:51.40,Default,,0000,0000,0000,,Wow! They're like Chopper's antlers!
+Dialogue: 0,0:02:52.10,0:02:55.05,Default,,0000,0000,0000,,What is this long, protruding coral?
+Dialogue: 0,0:02:55.05,0:02:58.36,Default,,0000,0000,0000,,What kind of coral sticks out like that?
+Dialogue: 0,0:02:59.00,0:03:02.70,Default,,0000,0000,0000,,Look! It's causing strange-acting currents!
+Dialogue: 0,0:03:03.70,0:03:06.04,Default,,0000,0000,0000,,We can't just plunge in recklessly...
+Dialogue: 0,0:03:06.20,0:03:09.83,Default,,0000,0000,0000,,Yuck! I can't believe the\Nrace has lasted this long...
+Dialogue: 0,0:03:10.37,0:03:11.79,Default,,0000,0000,0000,,Monda! We're counting on you!
+Dialogue: 0,0:03:12.67,0:03:16.32,Default,,0000,0000,0000,,But let's not forget there's someone\Non land just hoping to interfere:
+Dialogue: 0,0:03:16.32,0:03:19.84,Default,,0000,0000,0000,,our boss, "Silver Fox" Foxy!
+Dialogue: 0,0:03:20.01,0:03:23.30,Default,,0000,0000,0000,,Just what does he have in store?!
+Dialogue: 0,0:03:25.99,0:03:29.52,Default,,0000,0000,0000,,--Get 'em, Boss!\N--Yahoo! Just a matter o' time now!
+Dialogue: 0,0:03:29.52,0:03:33.65,Default,,0000,0000,0000,,Oh, what's this?! Both Straw Hat\Nboats have slowed a bit!
+Dialogue: 0,0:03:34.72,0:03:37.29,Default,,0000,0000,0000,,--C'mon, Nami! Paddle!\N--Not yet!
+Dialogue: 0,0:03:37.29,0:03:39.41,Default,,0000,0000,0000,,But they're getting ahead!
+Dialogue: 0,0:03:39.41,0:03:41.62,Default,,0000,0000,0000,,I said not yet!
+Dialogue: 0,0:03:42.00,0:03:45.28,Default,,0000,0000,0000,,--Same goes for you, Sanji-kun!\N--Your wish is my command!
+Dialogue: 0,0:03:45.37,0:03:47.95,Default,,0000,0000,0000,,The Cutie Wagon uses this\Nchance to continue forward
+Dialogue: 0,0:03:47.95,0:03:50.72,Default,,0000,0000,0000,,and plunge into the Long Coral Reef!
+Dialogue: 0,0:03:50.72,0:03:52.41,Default,,0000,0000,0000,,Let's go, Monda!
+Dialogue: 0,0:03:54.02,0:03:57.00,Default,,0000,0000,0000,,Wait! Oh, my! What's happening?!
+Dialogue: 0,0:03:57.00,0:03:58.00,Default,,0000,0000,0000,,Monda!
+Dialogue: 0,0:04:00.13,0:04:01.55,Default,,0000,0000,0000,,Oh... They came back.
+Dialogue: 0,0:04:01.55,0:04:04.26,Default,,0000,0000,0000,,Oh, my! The Cutie Wagon\Nhas been sent backwards!
+Dialogue: 0,0:04:04.26,0:04:05.68,Default,,0000,0000,0000,,What in the world happened?!
+Dialogue: 0,0:04:06.05,0:04:07.43,Default,,0000,0000,0000,,No! Why?!
+Dialogue: 0,0:04:07.76,0:04:10.94,Default,,0000,0000,0000,,See? I knew something\Nwas up with these currents.
+Dialogue: 0,0:04:12.41,0:04:14.49,Default,,0000,0000,0000,,Okay! Let's increase speed!
+Dialogue: 0,0:04:14.49,0:04:15.73,Default,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:04:15.73,0:04:18.05,Default,,0000,0000,0000,,Follow us, Sanji-kun!
+Dialogue: 0,0:04:18.05,0:04:20.14,Default,,0000,0000,0000,,Aye-aye, Sir!
+Dialogue: 0,0:04:20.99,0:04:22.86,Default,,0000,0000,0000,,Try again, Monda!
+Dialogue: 0,0:04:22.86,0:04:23.83,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:04:25.45,0:04:29.01,Default,,0000,0000,0000,,What's this?! Both Straw Hat\Nboats have sped up!
+Dialogue: 0,0:04:29.39,0:04:33.54,Default,,0000,0000,0000,,All three boats are entering the\NLong Coral Reef at the same time!
+Dialogue: 0,0:04:33.99,0:04:37.68,Default,,0000,0000,0000,,Hmm? The Barrel Tiger and\NIt's a Raft are staying inside!
+Dialogue: 0,0:04:40.63,0:04:42.10,Default,,0000,0000,0000,,Whoa! What the...?!
+Dialogue: 0,0:04:46.34,0:04:48.51,Default,,0000,0000,0000,,Ahh! There it is at last!
+Dialogue: 0,0:04:48.51,0:04:51.77,Default,,0000,0000,0000,,Devilish interference from you-know-who!
+Dialogue: 0,0:04:51.93,0:04:53.45,Default,,0000,0000,0000,,A smoke screen...!
+Dialogue: 0,0:04:55.28,0:04:57.96,Default,,0000,0000,0000,,What's that damn idiot doing?!
+Dialogue: 0,0:04:57.96,0:04:59.82,Default,,0000,0000,0000,,I can't see in front of us!
+Dialogue: 0,0:05:00.11,0:05:01.69,Default,,0000,0000,0000,,Oh, my!
+Dialogue: 0,0:05:01.69,0:05:03.94,Default,,0000,0000,0000,,It's too dangerous for the Straw Hat
+Dialogue: 0,0:05:03.94,0:05:05.70,Default,,0000,0000,0000,,\Nboats to continue forward one bit!
+Dialogue: 0,0:05:07.87,0:05:11.74,Default,,0000,0000,0000,,Operation White Out is a great success!
+Dialogue: 0,0:05:11.74,0:05:15.30,Default,,0000,0000,0000,,Let's see you find your way\Nthrough this coral maze blind!
+Dialogue: 0,0:05:15.71,0:05:17.17,Default,,0000,0000,0000,,Success?
+Dialogue: 0,0:05:20.04,0:05:21.34,Default,,0000,0000,0000,,How in the...?!
+Dialogue: 0,0:05:22.46,0:05:26.04,Default,,0000,0000,0000,,They got through! With no\Ntrouble at all! How did they do it?!
+Dialogue: 0,0:05:26.04,0:05:27.48,Default,,0000,0000,0000,,Just as I thought!
+Dialogue: 0,0:05:28.47,0:05:33.59,Default,,0000,0000,0000,,The Straw Hat boats slip through\Nthe forest of coral with ease!
+Dialogue: 0,0:05:33.59,0:05:35.35,Default,,0000,0000,0000,,Meanwhile, the Cutie Wagon...
+Dialogue: 0,0:05:35.44,0:05:38.73,Default,,0000,0000,0000,,--Oh, no!\N--...has been sent back again!
+Dialogue: 0,0:05:39.40,0:05:42.34,Default,,0000,0000,0000,,What's going on?!\NThe boat's moving on its own!
+Dialogue: 0,0:05:42.55,0:05:45.53,Default,,0000,0000,0000,,--This is a maze of sea currents.\N--Of sea currents?
+Dialogue: 0,0:05:45.82,0:05:48.45,Default,,0000,0000,0000,,Yep. The whirlpool up ahead is
+Dialogue: 0,0:05:48.45,0:05:50.78,Default,,0000,0000,0000,,\Ncausing strange currents in this reef,
+Dialogue: 0,0:05:50.78,0:05:52.83,Default,,0000,0000,0000,,full of smaller whirlpools.
+Dialogue: 0,0:05:52.83,0:05:55.41,Default,,0000,0000,0000,,So we don't need to see ahead!
+Dialogue: 0,0:05:56.32,0:06:00.42,Default,,0000,0000,0000,,The currents will carry us through,\Nas long as we take the right entrance!
+Dialogue: 0,0:06:00.42,0:06:04.46,Default,,0000,0000,0000,,Awesome! That's the power of our navigator!
+Dialogue: 0,0:06:04.46,0:06:06.08,Default,,0000,0000,0000,,Hurray!
+Dialogue: 0,0:06:06.63,0:06:10.39,Default,,0000,0000,0000,,Way to go, Nami-san!
+Dialogue: 0,0:06:10.51,0:06:12.83,Default,,0000,0000,0000,,Curses!
+Dialogue: 0,0:06:15.27,0:06:20.73,Default,,0000,0000,0000,,But their joy is short-lived!\NBeyond the coral forest is the Long Ring!
+Dialogue: 0,0:06:20.99,0:06:24.27,Default,,0000,0000,0000,,Huh?! It's just one "Long" after another!
+Dialogue: 0,0:06:25.53,0:06:27.78,Default,,0000,0000,0000,,Usopp! Quit freaking out and fire it!
+Dialogue: 0,0:06:27.78,0:06:30.08,Default,,0000,0000,0000,,--Fire what?!\N--An Impact!
+Dialogue: 0,0:06:30.53,0:06:34.82,Default,,0000,0000,0000,,--I-I told you, we don't have it! Nope!\N--Oh? Then what's this?
+Dialogue: 0,0:06:35.99,0:06:37.54,Default,,0000,0000,0000,,When did you...?!
+Dialogue: 0,0:06:38.15,0:06:42.04,Default,,0000,0000,0000,,Hurry! Before the whirlpool sucks us in!
+Dialogue: 0,0:06:42.04,0:06:42.96,Default,,0000,0000,0000,,What's with the smile...?
+Dialogue: 0,0:06:43.42,0:06:44.80,Default,,0000,0000,0000,,You've used it before!
+Dialogue: 0,0:06:44.80,0:06:46.92,Default,,0000,0000,0000,,You know using it can bust your shoulders...!
+Dialogue: 0,0:06:47.17,0:06:51.22,Default,,0000,0000,0000,,--That's okay! I don't mind!\N--'Cause it's my shoulder!
+Dialogue: 0,0:06:51.54,0:06:53.55,Default,,0000,0000,0000,,--Good luck!\N--Hey, now!
+Dialogue: 0,0:06:53.55,0:06:55.68,Default,,0000,0000,0000,,Hurry! There's no time!
+Dialogue: 0,0:06:55.68,0:06:59.39,Default,,0000,0000,0000,,No wonder you seemed so calm!\N
+Dialogue: 0,0:06:59.39,0:07:01.85,Default,,0000,0000,0000,,You had this in mind from the start...
+Dialogue: 0,0:07:03.53,0:07:05.65,Default,,0000,0000,0000,,Well, it's been a nice life...
+Dialogue: 0,0:07:05.82,0:07:07.49,Default,,0000,0000,0000,,Treinta Fleurs!
+Dialogue: 0,0:07:11.95,0:07:14.58,Default,,0000,0000,0000,,--Okay, Long-nose!\N--"Okay," my butt...
+Dialogue: 0,0:07:14.58,0:07:15.63,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:07:16.99,0:07:21.50,Default,,0000,0000,0000,,Oh! The Barrel Tiger and\NIt's a Raft have sped up together!
+Dialogue: 0,0:07:21.50,0:07:24.25,Default,,0000,0000,0000,,More than just that! They're flying!
+Dialogue: 0,0:07:25.04,0:07:28.09,Default,,0000,0000,0000,,They're leaping right over Long Cape!
+Dialogue: 0,0:07:28.09,0:07:30.34,Default,,0000,0000,0000,,Will they land back in the water?!
+Dialogue: 0,0:07:30.34,0:07:31.44,Default,,0000,0000,0000,,No, wait!
+Dialogue: 0,0:07:34.68,0:07:36.43,Default,,0000,0000,0000,,Huh? Huh?
+Dialogue: 0,0:07:36.43,0:07:39.73,Default,,0000,0000,0000,,Huh, huh, huh? Huh?!
+Dialogue: 0,0:07:41.85,0:07:42.85,Default,,0000,0000,0000,,It snapped off...
+Dialogue: 0,0:07:49.15,0:07:52.17,Default,,0000,0000,0000,,The It's a Raft crashes\Ninto pieces on Long Cape!
+Dialogue: 0,0:07:52.17,0:07:54.00,Default,,0000,0000,0000,,It can't continue the race!
+Dialogue: 0,0:07:53.99,0:07:57.38,Default,,0000,0000,0000,,What a shame! The It's a Raft\Nis now out of the race!
+Dialogue: 0,0:07:58.13,0:08:02.67,Default,,0000,0000,0000,,Sorry, Nami-san! Don't worry\Nabout us! Just keep going!
+Dialogue: 0,0:08:02.85,0:08:04.49,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:08:05.35,0:08:08.64,Default,,0000,0000,0000,,But the Barrel Tiger takes\Na miraculously big lead!
+Dialogue: 0,0:08:09.38,0:08:13.80,Default,,0000,0000,0000,,Does this spell defeat for\Nthe indomitable Cutie Wagon?!
+Dialogue: 0,0:08:13.96,0:08:16.30,Default,,0000,0000,0000,,We underestimated them a bit!
+Dialogue: 0,0:08:16.30,0:08:18.18,Default,,0000,0000,0000,,Hang on tight, Porche-chan!
+Dialogue: 0,0:08:18.59,0:08:19.47,Default,,0000,0000,0000,,We're counting on you!
+Dialogue: 0,0:08:20.85,0:08:21.85,Default,,0000,0000,0000,,Combine!
+Dialogue: 0,0:08:22.39,0:08:24.86,Default,,0000,0000,0000,,Two Fish Engine!
+Dialogue: 0,0:08:27.15,0:08:29.02,Default,,0000,0000,0000,,No! They haven't lost yet!
+Dialogue: 0,0:08:29.02,0:08:32.74,Default,,0000,0000,0000,,Their fishman muscle and shark fin\Ncombo doubles their engine speed!
+Dialogue: 0,0:08:32.74,0:08:36.59,Default,,0000,0000,0000,,They zip through the coral and\Nturbulent waves to close the gap!
+Dialogue: 0,0:08:39.03,0:08:40.54,Default,,0000,0000,0000,,The race is half over!
+Dialogue: 0,0:08:40.54,0:08:43.62,Default,,0000,0000,0000,,Meanwhile, the Barrel Tiger\Npaddles desperately!
+Dialogue: 0,0:08:43.62,0:08:45.00,Default,,0000,0000,0000,,Get up, Usopp!
+Dialogue: 0,0:08:46.50,0:08:48.50,Default,,0000,0000,0000,,--Where am I?\N--Just start paddling!
+Dialogue: 0,0:08:48.90,0:08:50.98,Default,,0000,0000,0000,,Your arm is twisted in an odd direction.
+Dialogue: 0,0:08:53.51,0:08:54.51,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:08:54.68,0:08:57.01,Default,,0000,0000,0000,,--It's a course marker.\N--It says to go right.
+Dialogue: 0,0:08:57.01,0:08:59.30,Default,,0000,0000,0000,,Okay! Right we go!
+Dialogue: 0,0:08:59.47,0:09:00.81,Default,,0000,0000,0000,,Like we'd fall for that!
+Dialogue: 0,0:09:02.14,0:09:07.59,Default,,0000,0000,0000,,Oh, my! Our boss's Ploy #18,\N"Operation Lie to Them," has failed!
+Dialogue: 0,0:09:08.52,0:09:13.03,Default,,0000,0000,0000,,Truly formidable! Does this girl\Nnot believe anything?!
+Dialogue: 0,0:09:13.03,0:09:14.67,Default,,0000,0000,0000,,Shut up, you!
+Dialogue: 0,0:09:14.94,0:09:16.24,Default,,0000,0000,0000,,She's foul-mouthed, too!
+Dialogue: 0,0:09:16.86,0:09:21.32,Default,,0000,0000,0000,,The race continues!\NBarrel Tiger is still in the lead!
+Dialogue: 0,0:09:23.70,0:09:27.15,Default,,0000,0000,0000,,What are these columns of water?!
+Dialogue: 0,0:09:27.15,0:09:31.18,Default,,0000,0000,0000,,They also clear the long waves\Nthat reach high into the sky!
+Dialogue: 0,0:09:31.18,0:09:32.71,Default,,0000,0000,0000,,Natural phenomenon?!
+Dialogue: 0,0:09:32.92,0:09:34.23,Default,,0000,0000,0000,,Granny...
+Dialogue: 0,0:09:34.66,0:09:36.80,Default,,0000,0000,0000,,Boss, err, Granny...
+Dialogue: 0,0:09:36.80,0:09:40.01,Default,,0000,0000,0000,,Yeah... I think I'm done for...
+Dialogue: 0,0:09:40.01,0:09:43.35,Default,,0000,0000,0000,,Our boss unleashes a third nasty trick!
+Dialogue: 0,0:09:43.35,0:09:47.73,Default,,0000,0000,0000,,Oh! You on the boat! Please save me!
+Dialogue: 0,0:09:47.73,0:09:52.07,Default,,0000,0000,0000,,Unbelievable! She completely\Nignores a helpless, sick grandmother!
+Dialogue: 0,0:09:52.07,0:09:55.00,Default,,0000,0000,0000,,Is she heartless, or does she\Nonly care about herself?!
+Dialogue: 0,0:09:55.00,0:09:57.74,Default,,0000,0000,0000,,Whatever the case,\NNavigator Nami has a heart of ice!
+Dialogue: 0,0:09:57.74,0:10:02.12,Default,,0000,0000,0000,,Will you shut up already?!\NI'd never fall for that crap!
+Dialogue: 0,0:10:02.12,0:10:03.79,Default,,0000,0000,0000,,She's foul-mouthed, too!
+Dialogue: 0,0:10:06.97,0:10:08.75,Default,,0000,0000,0000,,Look! It's the goal!
+Dialogue: 0,0:10:11.21,0:10:13.59,Default,,0000,0000,0000,,The finish is close at hand!
+Dialogue: 0,0:10:13.59,0:10:15.51,Default,,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:10:16.45,0:10:18.23,Default,,0000,0000,0000,,The Cutie Wagon has caught up!
+Dialogue: 0,0:10:18.23,0:10:25.32,Default,,0000,0000,0000,,Who will be the winner of\NRound #1's Donut Race?!
+Dialogue: 0,0:10:40.86,0:10:43.93,Default,,0000,0000,0000,,Who will be the winner?!
+Dialogue: 0,0:10:46.04,0:10:47.37,Default,,0000,0000,0000,,I told you...
+Dialogue: 0,0:10:47.79,0:10:49.83,Default,,0000,0000,0000,,Cut it out! You're annoying!
+Dialogue: 0,0:10:50.89,0:10:54.64,Default,,0000,0000,0000,,She even sees through "Operation Fake Goal"!
+Dialogue: 0,0:10:54.64,0:10:56.80,Default,,0000,0000,0000,,Formidable! Truly formidable!
+Dialogue: 0,0:10:56.96,0:11:02.02,Default,,0000,0000,0000,,I have a question for her now!\NWhat does it mean to "believe"?
+Dialogue: 0,0:11:02.02,0:11:03.12,Default,,0000,0000,0000,,I don't care!
+Dialogue: 0,0:11:03.12,0:11:07.02,Default,,0000,0000,0000,,Oh, it's too late! Her heart's\Nalready closed! She's a heathen!
+Dialogue: 0,0:11:07.37,0:11:09.23,Default,,0000,0000,0000,,The real goal is near, though.
+Dialogue: 0,0:11:09.23,0:11:12.98,Default,,0000,0000,0000,,--No more Impacts!\N--Yeah, I know!
+Dialogue: 0,0:11:13.25,0:11:18.13,Default,,0000,0000,0000,,Meanwhile, Porche-chan's team has\Ntragically stopped at the fake goal!
+Dialogue: 0,0:11:18.13,0:11:21.90,Default,,0000,0000,0000,,--What happened to the race?\N--Hey! Where is everyone?!
+Dialogue: 0,0:11:22.55,0:11:24.82,Default,,0000,0000,0000,,The purity of your heart is dazzling!
+Dialogue: 0,0:11:24.82,0:11:27.16,Default,,0000,0000,0000,,But you've been duped!\NPay attention, Porche-chan!
+Dialogue: 0,0:11:27.31,0:11:29.15,Default,,0000,0000,0000,,So many idiots!
+Dialogue: 0,0:11:29.15,0:11:32.54,Default,,0000,0000,0000,,I'll be too embarrassed to live\Nif we lose to these guys!
+Dialogue: 0,0:11:32.54,0:11:34.92,Default,,0000,0000,0000,,They'll take our crew too! That's even worse!
+Dialogue: 0,0:11:35.48,0:11:37.76,Default,,0000,0000,0000,,Oh, no! This goal is a fake!
+Dialogue: 0,0:11:38.04,0:11:40.67,Default,,0000,0000,0000,,What?! Who would be so evil?!
+Dialogue: 0,0:11:40.67,0:11:41.34,Default,,0000,0000,0000,,Eep!
+Dialogue: 0,0:11:41.92,0:11:46.26,Default,,0000,0000,0000,,The Barrel Tiger is finally\Napproaching Long Bamboo Cape!
+Dialogue: 0,0:11:46.58,0:11:49.50,Default,,0000,0000,0000,,The goal is just beyond it!\NThis is the homestretch!
+Dialogue: 0,0:11:50.27,0:11:52.60,Default,,0000,0000,0000,,He's right! There's the goal!
+Dialogue: 0,0:11:52.77,0:11:54.19,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:11:54.62,0:11:56.91,Default,,0000,0000,0000,,But they're catching up to us!
+Dialogue: 0,0:11:56.91,0:11:58.57,Default,,0000,0000,0000,,We're no match for their speed!
+Dialogue: 0,0:11:58.91,0:12:01.42,Default,,0000,0000,0000,,That's it, Usopp! Can you\Nknock that bamboo down?!
+Dialogue: 0,0:12:01.42,0:12:02.24,Default,,0000,0000,0000,,The bamboo?!
+Dialogue: 0,0:12:02.66,0:12:03.78,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:12:05.99,0:12:07.74,Default,,0000,0000,0000,,--Like that?!\N--Do more!
+Dialogue: 0,0:12:08.05,0:12:10.66,Default,,0000,0000,0000,,Full speed, Capote! Monda!
+Dialogue: 0,0:12:10.66,0:12:13.08,Default,,0000,0000,0000,,We have to sink them!
+Dialogue: 0,0:12:15.54,0:12:18.17,Default,,0000,0000,0000,,Take this! And this! And this!
+Dialogue: 0,0:12:24.01,0:12:25.76,Default,,0000,0000,0000,,Wow! Bingo!
+Dialogue: 0,0:12:27.10,0:12:29.25,Default,,0000,0000,0000,,Oh, no! Capote!
+Dialogue: 0,0:12:29.25,0:12:31.73,Default,,0000,0000,0000,,They'll pay for this!
+Dialogue: 0,0:12:31.98,0:12:34.41,Default,,0000,0000,0000,,Cutie Baton!
+Dialogue: 0,0:12:35.48,0:12:37.65,Default,,0000,0000,0000,,What's that? Flower magic?
+Dialogue: 0,0:12:38.08,0:12:40.69,Default,,0000,0000,0000,,Flower Shurikens!
+Dialogue: 0,0:12:41.99,0:12:44.29,Default,,0000,0000,0000,,Ah, they're throwing stars... Yikes!
+Dialogue: 0,0:12:46.49,0:12:48.20,Default,,0000,0000,0000,,Oh, no! We've sprung a leak!
+Dialogue: 0,0:12:48.20,0:12:51.33,Default,,0000,0000,0000,,It's okay! We can make it!\NThe goal's right there!
+Dialogue: 0,0:12:51.33,0:12:52.16,Default,,0000,0000,0000,,Let's make a run for it!
+Dialogue: 0,0:12:52.33,0:12:57.13,Default,,0000,0000,0000,,Round #1 of the Davy Back Fight,\Nthe Donut Race,
+Dialogue: 0,0:12:57.62,0:13:01.42,Default,,0000,0000,0000,,is about to reach a conclusion!
+Dialogue: 0,0:13:03.88,0:13:07.35,Default,,0000,0000,0000,,Stay strong, Monda! We \Ncan't let them beat us!
+Dialogue: 0,0:13:08.47,0:13:12.04,Default,,0000,0000,0000,,We'll lose if we don't do something!\NStay in line with them!
+Dialogue: 0,0:13:12.04,0:13:13.07,Default,,0000,0000,0000,,Right, Boss!
+Dialogue: 0,0:13:14.12,0:13:16.57,Default,,0000,0000,0000,,Which one is winning?!
+Dialogue: 0,0:13:19.69,0:13:23.04,Default,,0000,0000,0000,,--Made it in time!\N--All right! Nami's team is winning!
+Dialogue: 0,0:13:23.41,0:13:26.64,Default,,0000,0000,0000,,Nami-san! Robin-chan!
+Dialogue: 0,0:13:26.64,0:13:28.53,Default,,0000,0000,0000,,You speedy ladies are lovely!
+Dialogue: 0,0:13:28.53,0:13:30.37,Default,,0000,0000,0000,,Man, you guys almost won...
+Dialogue: 0,0:13:30.58,0:13:32.41,Default,,0000,0000,0000,,Huh? We are winning!
+Dialogue: 0,0:13:33.66,0:13:35.87,Default,,0000,0000,0000,,For now! But look!
+Dialogue: 0,0:13:36.00,0:13:40.21,Default,,0000,0000,0000,,--Our boss is there!\N--So?! What can he do now?!
+Dialogue: 0,0:13:40.21,0:13:42.27,Default,,0000,0000,0000,,Our boss is just like you.
+Dialogue: 0,0:13:42.27,0:13:44.84,Default,,0000,0000,0000,,He has Devil Fruit powers.
+Dialogue: 0,0:13:47.19,0:13:48.79,Default,,0000,0000,0000,,Slow-Slow Beam!
+Dialogue: 0,0:13:58.52,0:14:01.66,Default,,0000,0000,0000,,And the winner is the Cutie Wagon!
+Dialogue: 0,0:14:01.65,0:14:05.44,Default,,0000,0000,0000,,Our idol, Porche-chan, has won the
+Dialogue: 0,0:14:05.44,0:14:08.04,Default,,0000,0000,0000,,\Nfirst round of the Davy Back Fight!
+Dialogue: 0,0:14:08.04,0:14:10.03,Default,,0000,0000,0000,,All right! Way to go!
+Dialogue: 0,0:14:10.03,0:14:12.20,Default,,0000,0000,0000,,Oh! Thanks, everyone!
+Dialogue: 0,0:14:12.20,0:14:15.95,Default,,0000,0000,0000,,--You're the greatest, Porche-chan!\N--It's only natural I won!
+Dialogue: 0,0:14:16.44,0:14:19.23,Default,,0000,0000,0000,,Now let's swipe us a crew member!
+Dialogue: 0,0:14:19.93,0:14:22.88,Default,,0000,0000,0000,,No one's a match for the Foxy Pirates!
+Dialogue: 0,0:14:27.38,0:14:28.31,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:14:32.68,0:14:37.18,Default,,0000,0000,0000,,All right! Time for you to\Nhand over a crew member!
+Dialogue: 0,0:14:37.51,0:14:40.20,Default,,0000,0000,0000,,Are you guys hurt?! Are you okay?!
+Dialogue: 0,0:14:40.20,0:14:41.76,Default,,0000,0000,0000,,Yes, we're all right.
+Dialogue: 0,0:14:42.08,0:14:44.07,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:14:44.07,0:14:45.74,Default,,0000,0000,0000,,Beats us...
+Dialogue: 0,0:14:45.74,0:14:49.17,Default,,0000,0000,0000,,That's what we'd like to know!\NDid we end up losing?
+Dialogue: 0,0:14:49.49,0:14:51.55,Default,,0000,0000,0000,,You were about to win, but then you
+Dialogue: 0,0:14:51.55,0:14:53.49,Default,,0000,0000,0000,,\Nsuddenly got slow and they passed you!
+Dialogue: 0,0:14:56.58,0:14:58.66,Default,,0000,0000,0000,,There's no need to be mystified!
+Dialogue: 0,0:14:59.03,0:15:01.12,Default,,0000,0000,0000,,\NIt was caused by Slowmo Photons!
+Dialogue: 0,0:15:01.12,0:15:03.88,Default,,0000,0000,0000,,Hey! What did you do to Nami's team?!
+Dialogue: 0,0:15:04.45,0:15:05.84,Default,,0000,0000,0000,,Slowmo Photons...?
+Dialogue: 0,0:15:06.18,0:15:09.39,Default,,0000,0000,0000,,They're a type of particle\Nunlike anything currently known.
+Dialogue: 0,0:15:10.43,0:15:12.44,Default,,0000,0000,0000,,Whatever this light touches--
+Dialogue: 0,0:15:12.44,0:15:14.78,Default,,0000,0000,0000,,\Nwhether it's alive, a liquid, or even a gas--
+Dialogue: 0,0:15:14.78,0:15:17.58,Default,,0000,0000,0000,,physically loses a fixed amount of speed
+Dialogue: 0,0:15:17.58,0:15:20.44,Default,,0000,0000,0000,,\Nwhile retaining all other energy.
+Dialogue: 0,0:15:20.77,0:15:22.90,Default,,0000,0000,0000,,I don't get it! Are you stupid or something?!
+Dialogue: 0,0:15:23.02,0:15:25.86,Default,,0000,0000,0000,,--He snapped at me...\N--Oh, no! Boss!
+Dialogue: 0,0:15:25.94,0:15:28.82,Default,,0000,0000,0000,,But that sounds too ridiculous...
+Dialogue: 0,0:15:28.94,0:15:31.82,Default,,0000,0000,0000,,...to be real?
+Dialogue: 0,0:15:31.82,0:15:34.51,Default,,0000,0000,0000,,You surely know that such childish
+Dialogue: 0,0:15:34.51,0:15:36.91,Default,,0000,0000,0000,,\Nclaims have no merit in these waters!
+Dialogue: 0,0:15:36.91,0:15:39.04,Default,,0000,0000,0000,,Everything they touch slows down!
+Dialogue: 0,0:15:39.04,0:15:40.71,Default,,0000,0000,0000,,\NThat's the power of Slowmo Photons!
+Dialogue: 0,0:15:40.71,0:15:43.29,Default,,0000,0000,0000,,Oh, now that makes sense!
+Dialogue: 0,0:15:43.50,0:15:47.13,Default,,0000,0000,0000,,After eating the Slow-Slow Fruit,\NI became a "slow person"
+Dialogue: 0,0:15:47.13,0:15:49.26,Default,,0000,0000,0000,,capable of producing these\Nparticles from my body!
+Dialogue: 0,0:15:49.26,0:15:50.34,Default,,0000,0000,0000,,Observe its power!
+Dialogue: 0,0:15:53.72,0:15:55.76,Default,,0000,0000,0000,,Yikes! He slowed a flying cannonball!
+Dialogue: 0,0:15:56.26,0:15:57.97,Default,,0000,0000,0000,,Slow-Slow Beam!
+Dialogue: 0,0:15:59.38,0:16:02.04,Default,,0000,0000,0000,,The effect lasts approximately 30 seconds.
+Dialogue: 0,0:16:02.04,0:16:06.23,Default,,0000,0000,0000,,It'll regain its original speed afterward,\Nas if nothing had happened.
+Dialogue: 0,0:16:09.19,0:16:11.28,Default,,0000,0000,0000,,Can't believe your eyes? This is--!
+Dialogue: 0,0:16:12.91,0:16:14.53,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:16:15.09,0:16:17.87,Default,,0000,0000,0000,,Crap! So that's what happened to us?!
+Dialogue: 0,0:16:18.34,0:16:21.96,Default,,0000,0000,0000,,So this is the reason they're\Nstrangely confident about the game.
+Dialogue: 0,0:16:21.96,0:16:23.62,Default,,0000,0000,0000,,What a joke of a power...
+Dialogue: 0,0:16:23.62,0:16:28.35,Default,,0000,0000,0000,,Do you get it now?! You lost!
+Dialogue: 0,0:16:28.35,0:16:30.21,Default,,0000,0000,0000,,Victory in Round #1's Donut Race...
+Dialogue: 0,0:16:30.61,0:16:32.22,Default,,0000,0000,0000,,goes to us!
+Dialogue: 0,0:16:32.30,0:16:34.80,Default,,0000,0000,0000,,Oh, my! You were so close, too!
+Dialogue: 0,0:16:34.97,0:16:37.39,Default,,0000,0000,0000,,That concludes Round #1!
+Dialogue: 0,0:16:37.39,0:16:40.31,Default,,0000,0000,0000,,Now for the long-awaited spoils of war!
+Dialogue: 0,0:16:40.31,0:16:43.33,Default,,0000,0000,0000,,It's time to call one member\Nof the opposing crew!
+Dialogue: 0,0:16:52.44,0:16:55.78,Default,,0000,0000,0000,,The first person I want is...
+Dialogue: 0,0:16:56.57,0:16:57.28,Default,,0000,0000,0000,,you!
+Dialogue: 0,0:16:57.61,0:17:00.30,Default,,0000,0000,0000,,The ship doctor! Tony Tony Chopper!
+Dialogue: 0,0:17:01.03,0:17:02.00,Default,,0000,0000,0000,,Me?!
+Dialogue: 0,0:17:02.08,0:17:04.20,Default,,0000,0000,0000,,Bring him here at once!
+Dialogue: 0,0:17:04.46,0:17:06.17,Default,,0000,0000,0000,,Oh, no! Chopper!
+Dialogue: 0,0:17:07.29,0:17:12.03,Default,,0000,0000,0000,,What a rare creature!\NYou're way softer than I imagined!
+Dialogue: 0,0:17:12.03,0:17:15.12,Default,,0000,0000,0000,,Oh, Boss! Let me touch him too!
+Dialogue: 0,0:17:15.12,0:17:16.59,Default,,0000,0000,0000,,Nauseatingly cute!
+Dialogue: 0,0:17:16.76,0:17:18.16,Default,,0000,0000,0000,,He's ours now!
+Dialogue: 0,0:17:21.18,0:17:22.34,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:17:24.40,0:17:27.18,Default,,0000,0000,0000,,So that creep was after Chopper?
+Dialogue: 0,0:17:27.18,0:17:30.66,Default,,0000,0000,0000,,Well, I guess he is the \Nrarest of rare animals...
+Dialogue: 0,0:17:30.66,0:17:32.28,Default,,0000,0000,0000,,He's into cute things?
+Dialogue: 0,0:17:32.28,0:17:33.94,Default,,0000,0000,0000,,Or furs, perhaps?
+Dialogue: 0,0:17:33.94,0:17:35.79,Default,,0000,0000,0000,,This is no time to chat!
+Dialogue: 0,0:17:35.79,0:17:38.45,Default,,0000,0000,0000,,This is serious!\NThey just took our friend!
+Dialogue: 0,0:17:39.18,0:17:40.78,Default,,0000,0000,0000,,Guys...
+Dialogue: 0,0:17:41.64,0:17:46.32,Default,,0000,0000,0000,,All right, Dr. Chopper.\NYou're a member of my crew now.
+Dialogue: 0,0:17:46.70,0:17:50.29,Default,,0000,0000,0000,,You need to pledge loyalty to me!\NNow put on this mask...
+Dialogue: 0,0:17:52.92,0:17:54.23,Default,,0000,0000,0000,,Guys...!
+Dialogue: 0,0:17:55.09,0:17:58.75,Default,,0000,0000,0000,,I'm sorry we lost, Chopper...!
+Dialogue: 0,0:17:58.75,0:17:59.78,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:18:01.64,0:18:03.81,Default,,0000,0000,0000,,This is a true rarity!
+Dialogue: 0,0:18:04.18,0:18:07.14,Default,,0000,0000,0000,,A talking reindeer! Amazing!
+Dialogue: 0,0:18:07.77,0:18:09.31,Default,,0000,0000,0000,,Let's be buddies!
+Dialogue: 0,0:18:10.42,0:18:11.69,Default,,0000,0000,0000,,Yo! Comrade!
+Dialogue: 0,0:18:15.99,0:18:17.32,Default,,0000,0000,0000,,Guys!
+Dialogue: 0,0:18:17.99,0:18:21.95,Default,,0000,0000,0000,,I only set sail so I could be with you guys!
+Dialogue: 0,0:18:22.41,0:18:26.33,Default,,0000,0000,0000,,No! I-I don't want this!
+Dialogue: 0,0:18:26.50,0:18:31.17,Default,,0000,0000,0000,,Luffy! I only set sail \Nbecause you invited me to!
+Dialogue: 0,0:18:31.17,0:18:33.59,Default,,0000,0000,0000,,I don't wanna go with these guys...!
+Dialogue: 0,0:18:33.83,0:18:40.64,Default,,0000,0000,0000,,No! I'm the Straw Hat Pirates'\Nship doctor, Tony Tony Chopper!
+Dialogue: 0,0:18:42.55,0:18:44.39,Default,,0000,0000,0000,,I don't want this!
+Dialogue: 0,0:18:46.24,0:18:48.19,Default,,0000,0000,0000,,Quit your griping, Chopper!
+Dialogue: 0,0:18:48.89,0:18:50.40,Default,,0000,0000,0000,,You're being a poor sport!
+Dialogue: 0,0:18:51.13,0:18:52.24,Default,,0000,0000,0000,,Zoro...
+Dialogue: 0,0:18:52.24,0:18:55.19,Default,,0000,0000,0000,,You're the one who decided to set sail!
+Dialogue: 0,0:18:55.19,0:18:57.64,Default,,0000,0000,0000,,No one else is to blame if \Nyou end up dying somewhere!
+Dialogue: 0,0:18:57.64,0:18:59.07,Default,,0000,0000,0000,,Only you are!
+Dialogue: 0,0:18:59.53,0:19:01.42,Default,,0000,0000,0000,,We agreed to this game.
+Dialogue: 0,0:19:01.81,0:19:04.79,Default,,0000,0000,0000,,Usopp, you, and everyone else did their best!
+Dialogue: 0,0:19:05.92,0:19:09.46,Default,,0000,0000,0000,,No one in the pirate world would\Nsympathize with your tears!
+Dialogue: 0,0:19:10.21,0:19:11.39,Default,,0000,0000,0000,,A real man...
+Dialogue: 0,0:19:11.96,0:19:14.55,Default,,0000,0000,0000,,...would roll up his sleeves and\Nwatch the rest of the contest quietly!
+Dialogue: 0,0:19:16.21,0:19:19.75,Default,,0000,0000,0000,,How can you say that?!\NDon't you know how he feels?!
+Dialogue: 0,0:19:24.30,0:19:27.53,Default,,0000,0000,0000,,All right! Do anything you like with me!
+Dialogue: 0,0:19:28.81,0:19:29.85,Default,,0000,0000,0000,,Chopper...
+Dialogue: 0,0:19:30.32,0:19:31.40,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:19:31.40,0:19:34.17,Default,,0000,0000,0000,,--Whoa!\N--That swordsman is awesome!
+Dialogue: 0,0:19:34.17,0:19:36.67,Default,,0000,0000,0000,,All right! Teach 'em a lesson, Zoro!
+Dialogue: 0,0:19:36.67,0:19:38.32,Default,,0000,0000,0000,,Get Chopper back!
+Dialogue: 0,0:19:38.32,0:19:41.85,Default,,0000,0000,0000,,--Let's take him next, Boss!\N--This reindeer's got guts!
+Dialogue: 0,0:19:41.85,0:19:43.74,Default,,0000,0000,0000,,Let's get the second round started.
+Dialogue: 0,0:19:44.09,0:19:46.41,Default,,0000,0000,0000,,So moving! I'm moved to tears!
+Dialogue: 0,0:19:46.81,0:19:49.33,Default,,0000,0000,0000,,Yeah. There's still two rounds left.
+Dialogue: 0,0:19:50.08,0:19:53.75,Default,,0000,0000,0000,,We're gonna take back our precious\Nemergency food... and then some.
+Dialogue: 0,0:19:53.75,0:19:55.69,Default,,0000,0000,0000,,Sanji! We're counting on you!
+Dialogue: 0,0:19:55.69,0:19:57.63,Default,,0000,0000,0000,,The exchange is finished
+Dialogue: 0,0:19:57.63,0:19:59.97,Default,,0000,0000,0000,,as the Davy Back Fight suddenly\Nexplodes with excitement!
+Dialogue: 0,0:20:00.30,0:20:03.28,Default,,0000,0000,0000,,Huh? Wait, Chopper's in the second round.
+Dialogue: 0,0:20:03.28,0:20:05.64,Default,,0000,0000,0000,,--But they took him.\N--You're right.
+Dialogue: 0,0:20:06.37,0:20:08.06,Default,,0000,0000,0000,,That's the real thrill of this game!
+Dialogue: 0,0:20:08.35,0:20:09.51,Default,,0000,0000,0000,,We told you!
+Dialogue: 0,0:20:09.51,0:20:12.81,Default,,0000,0000,0000,,You can't change your roster!\N No replacements allowed!
+Dialogue: 0,0:20:12.90,0:20:15.27,Default,,0000,0000,0000,,In other words, only the other\Ntwo Straw Hat contestants
+Dialogue: 0,0:20:15.27,0:20:17.83,Default,,0000,0000,0000,,can participate in Round #2's Groggy Ring!
+Dialogue: 0,0:20:17.83,0:20:20.47,Default,,0000,0000,0000,,Team Foxy already has the advantage!
+Dialogue: 0,0:20:20.47,0:20:21.28,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:21.66,0:20:23.91,Default,,0000,0000,0000,,You can drop out too, if you want.
+Dialogue: 0,0:20:23.91,0:20:26.49,Default,,0000,0000,0000,,No, but you can, loser.
+Dialogue: 0,0:20:26.82,0:20:30.21,Default,,0000,0000,0000,,I find it hard to believe \Nthey'll work as a team...
+Dialogue: 0,0:20:30.56,0:20:32.33,Default,,0000,0000,0000,,--Say what?!\N--Stop that!
+Dialogue: 0,0:20:32.67,0:20:36.39,Default,,0000,0000,0000,,I'll now explain the rules of Groggy Ring!
+Dialogue: 0,0:20:36.39,0:20:38.55,Default,,0000,0000,0000,,There's a field, and two goals!
+Dialogue: 0,0:20:38.55,0:20:40.56,Default,,0000,0000,0000,,Knock the balls into them and you win!
+Dialogue: 0,0:20:40.56,0:20:43.28,Default,,0000,0000,0000,,However, the balls are no ordinary balls!
+Dialogue: 0,0:20:43.28,0:20:44.66,Default,,0000,0000,0000,,They're people!
+Dialogue: 0,0:20:44.66,0:20:48.31,Default,,0000,0000,0000,,Both teams, select someone to be a ball!
+Dialogue: 0,0:20:48.31,0:20:51.06,Default,,0000,0000,0000,,Which of you's gonna be the ball?!
+Dialogue: 0,0:20:52.80,0:20:53.89,Default,,0000,0000,0000,,Here's your ball mark!
+Dialogue: 0,0:20:54.10,0:20:57.65,Default,,0000,0000,0000,,Who made you boss?!\NYou be the ball, Moss Head!
+Dialogue: 0,0:20:58.11,0:21:02.05,Default,,0000,0000,0000,,Oh, there it is! Their entrance song!
+Dialogue: 0,0:21:02.05,0:21:05.24,Default,,0000,0000,0000,,It's the undefeated elites of Groggy Ring!
+Dialogue: 0,0:21:05.24,0:21:09.12,Default,,0000,0000,0000,,Yes! Defeat is impossible for them!
+Dialogue: 0,0:21:11.16,0:21:12.04,Default,,0000,0000,0000,,Crush 'em!
+Dialogue: 0,0:21:12.41,0:21:19.01,Default,,0000,0000,0000,,The famous Groggy Monsters\Nhave just taken the field!
+Dialogue: 0,0:21:21.11,0:21:23.59,Default,,0000,0000,0000,,At the lead is "Full Dash" Hamburg!
+Dialogue: 0,0:21:23.97,0:21:27.64,Default,,0000,0000,0000,,He's followed by "Tackle Machine" Pickles!
+Dialogue: 0,0:21:28.29,0:21:34.23,Default,,0000,0000,0000,,Last but not least is Big Pan the wotan:\Na half-fishman half-giant!
+Dialogue: 0,0:21:34.69,0:21:38.15,Default,,0000,0000,0000,,This is literally a monstrous march!
+Dialogue: 0,0:21:38.15,0:21:41.61,Default,,0000,0000,0000,,Now, then!
+Dialogue: 0,0:21:44.73,0:21:45.86,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:21:47.34,0:21:49.37,Default,,0000,0000,0000,,What is that giant fishman?!
+Dialogue: 0,0:21:50.33,0:21:52.29,Default,,0000,0000,0000,,They're putting the ball mark on him!
+Dialogue: 0,0:21:53.91,0:21:55.12,Default,,0000,0000,0000,,Let's see you win this!
+Dialogue: 0,0:22:00.59,0:22:01.55,Default,,0000,0000,0000,,Seem like a good match?
+Dialogue: 0,0:22:04.25,0:22:05.38,Default,,0000,0000,0000,,Yep.
+Dialogue: 0,0:22:21.11,0:22:23.23,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:23.23,0:22:26.78,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:26.78,0:22:31.41,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:32.37,0:22:34.66,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:34.66,0:22:37.83,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:37.83,0:22:43.25,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:43.25,0:22:46.17,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:46.17,0:22:48.97,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:48.97,0:22:51.93,Italics,,0000,0000,0000,,We pray to this endless \Nsky that we look up at
+Dialogue: 0,0:22:51.93,0:22:55.02,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:55.02,0:22:57.81,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:57.81,0:23:00.65,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:23:00.65,0:23:06.32,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:23:06.32,0:23:09.11,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:23:09.11,0:23:11.95,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:23:11.95,0:23:14.54,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:14.54,0:23:17.33,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:25.17,0:23:28.49,Default,,0000,0000,0000,,--What are you doing?!\N--Huh? Look who's talking!
+Dialogue: 0,0:23:28.49,0:23:30.28,Default,,0000,0000,0000,,I'll chop you up if they score a goal!
+Dialogue: 0,0:23:30.28,0:23:32.05,Default,,0000,0000,0000,,Shut up! Don't try anything funny!
+Dialogue: 0,0:23:32.05,0:23:33.47,Default,,0000,0000,0000,,You get thrown around too easy!
+Dialogue: 0,0:23:33.47,0:23:35.76,Default,,0000,0000,0000,,I don't need you to give me backup!
+Dialogue: 0,0:23:35.76,0:23:37.73,Default,,0000,0000,0000,,It's only 'cause I can't count on you!
+Dialogue: 0,0:23:38.48,0:23:42.02,Default,,0000,0000,0000,,They're funny! They're fighting\Neven during the match!
+Dialogue: 0,0:23:42.06,0:23:43.48,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:43.48,0:23:46.11,Default,,0000,0000,0000,,"Round 2! Shoot It into the Groggy Ring"
+Dialogue: 0,0:23:46.11,0:23:48.08,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:48.53,0:23:50.53,Italics,,0000,0000,0000,,

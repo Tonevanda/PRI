@@ -1,0 +1,337 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.99,0:00:23.29,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:00:23.29,0:00:26.71,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:00:26.71,0:00:30.09,Default,,0000,0000,0000,,{\i1}As power passes through our clasped hands{\i0}
+Dialogue: 0,0:00:30.09,0:00:33.67,Default,,0000,0000,0000,,{\i1}let's grab hold of our wishes{\i0}
+Dialogue: 0,0:00:41.27,0:00:48.77,Default,,0000,0000,0000,,{\i1}Working together, let's ride the giant waves{\i0}
+Dialogue: 0,0:00:48.77,0:00:55.99,Default,,0000,0000,0000,,{\i1}Let's hurry toward the excitement--\Nthere's the starting signal{\i0}
+Dialogue: 0,0:00:55.99,0:01:02.95,Default,,0000,0000,0000,,{\i1}Now's the time to set sail-- let's raise anchor{\i0}
+Dialogue: 0,0:01:02.95,0:01:10.09,Default,,0000,0000,0000,,{\i1}Cut through the rainbow-colored wind\Nand head for a sea of adventure{\i0}
+Dialogue: 0,0:01:10.09,0:01:13.75,Default,,0000,0000,0000,,{\i1}It'll be a journey fraught with injury{\i0}
+Dialogue: 0,0:01:13.75,0:01:17.26,Default,,0000,0000,0000,,{\i1}but what you cherish most will be right there{\i0}
+Dialogue: 0,0:01:17.26,0:01:21.43,Default,,0000,0000,0000,,{\i1}And if you get into a jam{\i0}
+Dialogue: 0,0:01:21.43,0:01:24.43,Default,,0000,0000,0000,,{\i1}I'll always be there to protect you{\i0}
+Dialogue: 0,0:01:24.43,0:01:28.65,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:01:28.65,0:01:32.15,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:01:32.15,0:01:35.48,Default,,0000,0000,0000,,{\i1}If a storm hits, let's put\Nour arms around each other{\i0}
+Dialogue: 0,0:01:35.48,0:01:39.70,Default,,0000,0000,0000,,{\i1}and gaze at the light beyond{\i0}
+Dialogue: 0,0:01:39.70,0:01:43.41,Default,,0000,0000,0000,,{\i1}If we gather up the pieces of our dreams{\i0}
+Dialogue: 0,0:01:43.41,0:01:46.71,Default,,0000,0000,0000,,{\i1}they'll make a map leading to tomorrow{\i0}
+Dialogue: 0,0:01:46.71,0:01:50.08,Default,,0000,0000,0000,,{\i1}So let's grab hold of our wishes{\i0}
+Dialogue: 0,0:01:50.08,0:01:55.34,Default,,0000,0000,0000,,{\i1}under the same flag-- together, we're one{\i0}
+Dialogue: 0,0:01:55.34,0:01:58.09,Default,,0000,0000,0000,,{\i1}One Piece{\i0}
+Dialogue: 0,0:02:18.51,0:02:20.99,Default,,0000,0000,0000,,What speed!
+Dialogue: 0,0:02:20.99,0:02:24.70,Default,,0000,0000,0000,,--He's well on his way to\Ncatching up with Porche-chan!\N--Flower Shurikens!
+Dialogue: 0,0:02:28.16,0:02:29.87,Default,,0000,0000,0000,,I'm a wall...
+Dialogue: 0,0:02:33.71,0:02:37.25,Default,,0000,0000,0000,,Oh! But he clears the wall with a skillful toss!
+Dialogue: 0,0:02:37.25,0:02:39.63,Default,,0000,0000,0000,,Is it only a matter of time\Nuntil he catches Porche-chan?!
+Dialogue: 0,0:02:45.59,0:02:47.98,Default,,0000,0000,0000,,He's already back?!
+Dialogue: 0,0:02:47.98,0:02:50.02,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:02:50.02,0:02:52.31,Default,,0000,0000,0000,,--Oh...\N--Oh?!
+Dialogue: 0,0:02:52.31,0:02:53.48,Default,,0000,0000,0000,,That's it.
+Dialogue: 0,0:02:53.48,0:02:55.44,Default,,0000,0000,0000,,Now do it just like I explained!
+Dialogue: 0,0:02:55.44,0:03:00.36,Default,,0000,0000,0000,,That's it! Stand up, Luffy!
+Dialogue: 0,0:03:04.91,0:03:13.79,B1,,0000,0000,0000,,{\fad(2000,2000)}"A Seriously Heated Race!\NInto the Final Round!"
+Dialogue: 0,0:03:14.42,0:03:17.88,Default,,0000,0000,0000,,C'mon! You can do it! Just a little more!
+Dialogue: 0,0:03:17.88,0:03:21.29,Default,,0000,0000,0000,,Man, this is great!
+Dialogue: 0,0:03:32.73,0:03:35.23,Default,,0000,0000,0000,,This is so moving! Seriously!
+Dialogue: 0,0:03:35.75,0:03:38.15,Default,,0000,0000,0000,,All right! I'm up!
+Dialogue: 0,0:03:38.15,0:03:40.61,Default,,0000,0000,0000,,Hang on, Usopp!
+Dialogue: 0,0:03:43.07,0:03:45.03,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:03:45.42,0:03:46.95,Default,,0000,0000,0000,,And then...
+Dialogue: 0,0:03:46.95,0:03:48.33,Default,,0000,0000,0000,,...like this?!
+Dialogue: 0,0:03:52.42,0:03:55.75,Default,,0000,0000,0000,,It's so fast! Awesome!
+Dialogue: 0,0:03:58.42,0:04:00.84,Default,,0000,0000,0000,,I won't let you win!
+Dialogue: 0,0:04:05.30,0:04:06.64,Default,,0000,0000,0000,,Amazing!
+Dialogue: 0,0:04:06.64,0:04:10.90,Default,,0000,0000,0000,,It's hard to believe Straw Hat Luffy\Ncouldn't even stand up moments ago!
+Dialogue: 0,0:04:10.90,0:04:12.81,Default,,0000,0000,0000,,He's keeping pace with Chiqicheetah,
+Dialogue: 0,0:04:12.81,0:04:15.65,Default,,0000,0000,0000,,who's powered up with his\NDouble Speed Full Dash!
+Dialogue: 0,0:04:22.71,0:04:26.62,Default,,0000,0000,0000,,Crap! I never taught him how to turn corners!
+Dialogue: 0,0:04:36.53,0:04:39.51,Default,,0000,0000,0000,,Straw Hat Luffy has left the course once again!
+Dialogue: 0,0:04:39.51,0:04:41.96,Default,,0000,0000,0000,,He's out of Round #3 as well!
+Dialogue: 0,0:04:43.57,0:04:46.97,Default,,0000,0000,0000,,Darn it...!
+Dialogue: 0,0:04:48.85,0:04:51.64,Default,,0000,0000,0000,,I knew it! He's hopeless...!
+Dialogue: 0,0:04:54.18,0:04:58.15,Default,,0000,0000,0000,,There goes the Speed King, Chiqicheetah!\NHe's four laps in the lead now!
+Dialogue: 0,0:05:03.11,0:05:06.45,Default,,0000,0000,0000,,Long-nose! Grab on! Hurry!
+Dialogue: 0,0:05:06.45,0:05:09.45,Default,,0000,0000,0000,,Right! Whoa...!
+Dialogue: 0,0:05:09.45,0:05:13.45,Default,,0000,0000,0000,,What's this?! Archaeologist\NNico Robin uses a Long Whip!
+Dialogue: 0,0:05:13.46,0:05:15.91,Default,,0000,0000,0000,,Will this help him rally back?!
+Dialogue: 0,0:05:17.75,0:05:20.08,Default,,0000,0000,0000,,Oh, that woman!
+Dialogue: 0,0:05:21.59,0:05:23.67,Default,,0000,0000,0000,,Porche-chan! Just leave it to me, ya know?!
+Dialogue: 0,0:05:39.51,0:05:43.94,Default,,0000,0000,0000,,There it is! Chiqicheetah's\NTriple Speed Rocket Dash!
+Dialogue: 0,0:05:49.00,0:05:53.22,Default,,0000,0000,0000,,Hey! He went off the course just now, dammit!
+Dialogue: 0,0:05:53.22,0:05:54.91,Default,,0000,0000,0000,,He was only in the air! Only in the air!
+Dialogue: 0,0:05:55.53,0:05:59.74,Default,,0000,0000,0000,,Violent coach Sanji's desperate\Ncomplaint is shot down!
+Dialogue: 0,0:06:00.87,0:06:02.91,Default,,0000,0000,0000,,I have to do something before it's too late!
+Dialogue: 0,0:06:02.91,0:06:04.88,Default,,0000,0000,0000,,Mucha Caramente!
+Dialogue: 0,0:06:04.88,0:06:06.34,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:06:06.34,0:06:08.80,Default,,0000,0000,0000,,I wouldn't move if I were you!
+Dialogue: 0,0:06:08.80,0:06:13.31,Default,,0000,0000,0000,,The more you struggle,\Nthe tighter it gets, ya know!
+Dialogue: 0,0:06:18.63,0:06:22.52,Default,,0000,0000,0000,,It's no use! I'm soft-bodied!\NThat doesn't hurt me one bit, ya know!
+Dialogue: 0,0:06:27.59,0:06:30.16,Default,,0000,0000,0000,,Well done, Jube!
+Dialogue: 0,0:06:30.16,0:06:31.87,Default,,0000,0000,0000,,That's one down, ya know!
+Dialogue: 0,0:06:31.87,0:06:34.61,Default,,0000,0000,0000,,Damn! They got Robin-chan!
+Dialogue: 0,0:06:34.61,0:06:35.87,Default,,0000,0000,0000,,Hey, idiot coach!
+Dialogue: 0,0:06:35.87,0:06:40.36,Default,,0000,0000,0000,,We're gonna lose unless we do\Nsomething about that Chiqicheetah guy!
+Dialogue: 0,0:06:40.36,0:06:41.88,Default,,0000,0000,0000,,Don't need you to tell me that!
+Dialogue: 0,0:06:43.04,0:06:44.84,Default,,0000,0000,0000,,"Chiqi... cheetah"...
+Dialogue: 0,0:06:44.84,0:06:46.53,Default,,0000,0000,0000,,Cheetah?
+Dialogue: 0,0:06:46.53,0:06:47.96,Default,,0000,0000,0000,,Could it be?!
+Dialogue: 0,0:06:47.96,0:06:49.42,Default,,0000,0000,0000,,Old guy!
+Dialogue: 0,0:06:49.81,0:06:52.34,Default,,0000,0000,0000,,Old guy with the horse! You here?!
+Dialogue: 0,0:06:53.44,0:06:55.31,Default,,0000,0000,0000,,Oh, you mean me?
+Dialogue: 0,0:06:55.31,0:07:00.29,Default,,0000,0000,0000,,That Long Kiwi you gave Luffy!\NWhere'd you get it?!
+Dialogue: 0,0:07:00.29,0:07:02.76,Default,,0000,0000,0000,,--What are you talking about?!\N--Shut it!
+Dialogue: 0,0:07:02.76,0:07:04.82,Default,,0000,0000,0000,,Hurry! Tell me where!
+Dialogue: 0,0:07:04.82,0:07:08.25,Default,,0000,0000,0000,,There! They grow on those trees!
+Dialogue: 0,0:07:08.25,0:07:10.87,Default,,0000,0000,0000,,Hey, Shrub Head! Run and get us a kiwi branch!
+Dialogue: 0,0:07:10.87,0:07:13.28,Default,,0000,0000,0000,,Is that how you ask for stuff?!
+Dialogue: 0,0:07:13.28,0:07:16.58,Default,,0000,0000,0000,,It might be the only way to stop him!
+Dialogue: 0,0:07:17.71,0:07:19.04,Default,,0000,0000,0000,,Stop him?!
+Dialogue: 0,0:07:19.04,0:07:21.00,Default,,0000,0000,0000,,Yeah! So get goin'!
+Dialogue: 0,0:07:22.30,0:07:25.11,Default,,0000,0000,0000,,--Wh-What the...?!\N--What's he doing?!
+Dialogue: 0,0:07:25.11,0:07:27.88,Default,,0000,0000,0000,,--You can ride Shelly!\N--Thanks!
+Dialogue: 0,0:07:34.03,0:07:38.22,Default,,0000,0000,0000,,Dunno if it'll work or not,\Nbut it's better than nothing!
+Dialogue: 0,0:07:41.18,0:07:46.15,Default,,0000,0000,0000,,After four minutes,\NChiqicheetah has a huge 13-lap lead!
+Dialogue: 0,0:07:48.60,0:07:52.61,Default,,0000,0000,0000,,Four and a half minutes have passed!\NHis lead has increased to 15 laps!
+Dialogue: 0,0:07:52.61,0:07:56.58,Default,,0000,0000,0000,,Things are looking bleak\Nfor the Straw Hat Dangers!
+Dialogue: 0,0:07:56.58,0:07:59.04,Default,,0000,0000,0000,,What's taking that loser so long?!
+Dialogue: 0,0:08:06.46,0:08:08.42,Default,,0000,0000,0000,,Is that it?!
+Dialogue: 0,0:08:08.42,0:08:10.56,Default,,0000,0000,0000,,Four minutes and fifty seconds have passed!
+Dialogue: 0,0:08:10.56,0:08:14.29,Default,,0000,0000,0000,,Ten more seconds and the Foxy Devils\Nwill clinch a shut-out victory!
+Dialogue: 0,0:08:17.29,0:08:18.85,Default,,0000,0000,0000,,Not gonna make it...!
+Dialogue: 0,0:08:25.99,0:08:27.86,Default,,0000,0000,0000,,Five seconds to go!
+Dialogue: 0,0:08:29.61,0:08:31.93,Default,,0000,0000,0000,,Wh-What's happening?!
+Dialogue: 0,0:08:31.93,0:08:33.24,Default,,0000,0000,0000,,I-Is that...?!
+Dialogue: 0,0:08:47.96,0:08:52.30,Default,,0000,0000,0000,,O-Oh, my! What on earth\Nhappened to Chiqicheetah?!
+Dialogue: 0,0:08:57.70,0:09:01.17,Default,,0000,0000,0000,,Chiqicheetah left the course\Njust before the round ended!
+Dialogue: 0,0:09:01.17,0:09:02.96,Default,,0000,0000,0000,,What a conclusion!
+Dialogue: 0,0:09:02.96,0:09:07.60,Default,,0000,0000,0000,,The Straw Hat Dangers come from\Nbehind to win the third round!
+Dialogue: 0,0:09:07.60,0:09:10.96,Default,,0000,0000,0000,,Oh, no! Chiqicheetah!
+Dialogue: 0,0:09:12.33,0:09:13.44,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:15.23,0:09:17.71,Default,,0000,0000,0000,,H-Hooray!
+Dialogue: 0,0:09:19.85,0:09:24.41,Default,,0000,0000,0000,,--What happened?!\N--What's the deal?!
+Dialogue: 0,0:09:24.87,0:09:27.46,Default,,0000,0000,0000,,Kiwifruits have catnip-like properties.
+Dialogue: 0,0:09:27.46,0:09:35.51,Default,,0000,0000,0000,,Just like with catnip, the smell of the\Nplant itself mesmerizes some cats.
+Dialogue: 0,0:09:35.51,0:09:39.39,Default,,0000,0000,0000,,Cheetahs are cats too,\Nso I figured it was worth a shot.
+Dialogue: 0,0:09:39.90,0:09:43.82,Default,,0000,0000,0000,,So that's why he was sniffing Luffy earlier!
+Dialogue: 0,0:09:43.82,0:09:45.31,Default,,0000,0000,0000,,I'm guessing so.
+Dialogue: 0,0:09:46.02,0:09:47.78,Default,,0000,0000,0000,,Excellent thinking, Cook!
+Dialogue: 0,0:09:47.78,0:09:50.98,Default,,0000,0000,0000,,Oh! It was nothing!
+Dialogue: 0,0:09:56.45,0:09:58.78,Default,,0000,0000,0000,,Whew, just barely made it...
+Dialogue: 0,0:09:59.22,0:10:01.78,Default,,0000,0000,0000,,The Straw Hat Dangers have\Nscored a point of their own!
+Dialogue: 0,0:10:01.78,0:10:04.48,Default,,0000,0000,0000,,But the Foxy Devils still have the advantage!
+Dialogue: 0,0:10:04.48,0:10:07.70,Default,,0000,0000,0000,,There's no time to bask in the\Nafterglow of victory, though!
+Dialogue: 0,0:10:07.70,0:10:10.75,Default,,0000,0000,0000,,It's time for Round #4 to begin!
+Dialogue: 0,0:10:11.52,0:10:14.71,Default,,0000,0000,0000,,The scorers will be Nico Robin the archaeologist
+Dialogue: 0,0:10:14.71,0:10:17.17,Default,,0000,0000,0000,,versus Jube the fishman!
+Dialogue: 0,0:10:17.17,0:10:19.68,Default,,0000,0000,0000,,A great match-up, indeed!
+Dialogue: 0,0:10:20.15,0:10:23.15,Default,,0000,0000,0000,,Listen up, Luffy! When you reach a curve...
+Dialogue: 0,0:10:23.15,0:10:25.02,Default,,0000,0000,0000,,I got it! I'm fine now!
+Dialogue: 0,0:10:25.02,0:10:28.18,Default,,0000,0000,0000,,What do you mean "fine"?\NYou screwed up just a second ago...
+Dialogue: 0,0:10:28.79,0:10:34.15,Default,,0000,0000,0000,,Don't you remember, Zoro? You told\Nme to watch everyone else earlier...
+Dialogue: 0,0:10:36.61,0:10:39.40,Default,,0000,0000,0000,,He's definitely going to shoot that beam again.
+Dialogue: 0,0:10:39.40,0:10:42.51,Default,,0000,0000,0000,,Yeah. That Idiot-Idiot Beam is bad news.
+Dialogue: 0,0:10:42.51,0:10:45.08,Default,,0000,0000,0000,,--Idiot-Idiot Beam...?!\N--B-Boss!
+Dialogue: 0,0:10:46.27,0:10:48.20,Default,,0000,0000,0000,,Usopp! Hear me out!
+Dialogue: 0,0:10:48.20,0:10:50.04,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:10:51.81,0:10:54.30,Default,,0000,0000,0000,,You're a wicked one, all right!
+Dialogue: 0,0:10:56.84,0:10:59.05,Default,,0000,0000,0000,,Good idea, huh?!
+Dialogue: 0,0:10:59.05,0:11:02.58,Default,,0000,0000,0000,,Oh! Does the heartless Nami\Nhave a secret plan?!
+Dialogue: 0,0:11:02.58,0:11:05.28,Default,,0000,0000,0000,,Her dishonest face is on par\Nwith that of our own boss!
+Dialogue: 0,0:11:05.28,0:11:07.96,Default,,0000,0000,0000,,Who're you calling dishonest?!
+Dialogue: 0,0:11:07.96,0:11:09.02,Default,,0000,0000,0000,,You.
+Dialogue: 0,0:11:26.89,0:11:30.54,Default,,0000,0000,0000,,It's time for Round #4!
+Dialogue: 0,0:11:33.61,0:11:35.46,Default,,0000,0000,0000,,Got ya good earlier, huh?
+Dialogue: 0,0:11:35.93,0:11:38.43,Default,,0000,0000,0000,,Ready! Go!
+Dialogue: 0,0:11:44.81,0:11:46.14,Default,,0000,0000,0000,,Oh, no, you don't!
+Dialogue: 0,0:11:46.14,0:11:49.35,Default,,0000,0000,0000,,I'm no Chiqicheetah, but I'm\Npretty fast too, ya know!
+Dialogue: 0,0:11:52.89,0:11:56.86,Default,,0000,0000,0000,,Twenty seconds are up! Defense, go!
+Dialogue: 0,0:11:56.86,0:11:59.32,Default,,0000,0000,0000,,I-Is Luffy gonna be okay?!
+Dialogue: 0,0:12:14.33,0:12:18.71,Default,,0000,0000,0000,,--Yes!\N--Way to go, Luffy!
+Dialogue: 0,0:12:21.94,0:12:26.31,Default,,0000,0000,0000,,Bring it on anytime! I'll give you\Nanother taste of my Mucha Caramente!
+Dialogue: 0,0:12:26.31,0:12:29.26,Default,,0000,0000,0000,,No, you won't!
+Dialogue: 0,0:12:35.50,0:12:38.47,Default,,0000,0000,0000,,Oh! Is he finally in fighting form?!
+Dialogue: 0,0:12:38.47,0:12:42.79,Default,,0000,0000,0000,,Straw Hat Luffy sends Jube flying!
+Dialogue: 0,0:12:42.79,0:12:45.70,Default,,0000,0000,0000,,Go, Robin! I'll take care of this guy!
+Dialogue: 0,0:12:45.70,0:12:47.16,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:13:07.17,0:13:09.43,Default,,0000,0000,0000,,Huh?! My baton is gone!
+Dialogue: 0,0:13:10.25,0:13:11.93,Default,,0000,0000,0000,,So sorry!
+Dialogue: 0,0:13:11.93,0:13:14.73,Default,,0000,0000,0000,,Oh! How could you?!
+Dialogue: 0,0:13:21.16,0:13:24.07,Default,,0000,0000,0000,,I'd stay down if I were you!
+Dialogue: 0,0:13:24.62,0:13:26.07,Default,,0000,0000,0000,,Okay...!
+Dialogue: 0,0:13:28.53,0:13:32.05,Default,,0000,0000,0000,,Incredible! The Straw Hat Dangers are on a roll!
+Dialogue: 0,0:13:32.05,0:13:34.45,Default,,0000,0000,0000,,They've taken a one-lap lead!
+Dialogue: 0,0:13:35.43,0:13:37.45,Default,,0000,0000,0000,,We'll just see about that!
+Dialogue: 0,0:13:37.45,0:13:40.52,Default,,0000,0000,0000,,Hamburg! Prepare for a full dash!
+Dialogue: 0,0:13:40.52,0:13:41.92,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:13:41.92,0:13:44.38,Default,,0000,0000,0000,,Get ready, Usopp!
+Dialogue: 0,0:13:44.38,0:13:48.80,Default,,0000,0000,0000,,Yeah! I dub it "Operation\NLaugh and Fall"! Ready?!
+Dialogue: 0,0:13:48.80,0:13:49.89,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:14:00.44,0:14:05.11,Default,,0000,0000,0000,,Lousy Split-Head! Shootin' your\NIdiot-Idiot Beam again, huh?!
+Dialogue: 0,0:14:06.54,0:14:08.97,Default,,0000,0000,0000,,Split-Head?! Idiot-Idiot Beam?!
+Dialogue: 0,0:14:08.97,0:14:12.91,Default,,0000,0000,0000,,He's not like that! He's an\Nintelligent, handsome man!
+Dialogue: 0,0:14:12.91,0:14:15.05,Default,,0000,0000,0000,,Don't listen to her, you stupid fox!
+Dialogue: 0,0:14:15.05,0:14:18.37,Default,,0000,0000,0000,,No, I'm serious! I'm head over heels for you!
+Dialogue: 0,0:14:18.37,0:14:21.44,Default,,0000,0000,0000,,No one would like you, Crappy Split-Head!
+Dialogue: 0,0:14:21.44,0:14:23.18,Default,,0000,0000,0000,,He added "Crappy" to "Split-Head"...!
+Dialogue: 0,0:14:23.18,0:14:24.09,Default,,0000,0000,0000,,So handsome!
+Dialogue: 0,0:14:24.09,0:14:26.17,Default,,0000,0000,0000,,--Split-Head!\N--Handsome!
+Dialogue: 0,0:14:26.17,0:14:28.34,Default,,0000,0000,0000,,--Split-Head!\N--I'm in love!
+Dialogue: 0,0:14:28.34,0:14:30.05,Default,,0000,0000,0000,,All lies!
+Dialogue: 0,0:14:30.05,0:14:32.40,Default,,0000,0000,0000,,Split-Head! Split-Head--!
+Dialogue: 0,0:14:32.40,0:14:34.85,Default,,0000,0000,0000,,What are you doing, Nami?!\NYou need to compliment him!
+Dialogue: 0,0:14:35.62,0:14:39.77,Default,,0000,0000,0000,,I can't go on... It's making me sick...
+Dialogue: 0,0:14:39.77,0:14:41.81,Default,,0000,0000,0000,,Switch places with me...
+Dialogue: 0,0:14:41.81,0:14:44.57,Default,,0000,0000,0000,,Why, you... How dare you?!
+Dialogue: 0,0:14:45.53,0:14:47.57,Default,,0000,0000,0000,,I can't think of any nice things to say...
+Dialogue: 0,0:14:47.57,0:14:51.60,Default,,0000,0000,0000,,--All right! Let's just keep repeating stuff!\N--Right!
+Dialogue: 0,0:14:51.60,0:14:54.53,Default,,0000,0000,0000,,--You're manly! You're manly!...\N--Split-Head! Split-Head!...
+Dialogue: 0,0:14:54.53,0:14:56.79,Default,,0000,0000,0000,,He can't fire his Slow-Slow Beam!
+Dialogue: 0,0:14:56.79,0:15:00.50,Default,,0000,0000,0000,,Has our boss been KOed by\Nthis ingenious verbal assault?!
+Dialogue: 0,0:15:00.50,0:15:03.37,Default,,0000,0000,0000,,Time is nearly up!
+Dialogue: 0,0:15:13.89,0:15:16.85,Default,,0000,0000,0000,,--Manly! Manly! Manly!...\N--Split-Head! Split-Head!...
+Dialogue: 0,0:15:16.85,0:15:18.35,Default,,0000,0000,0000,,--Split-Head!\N--Manly!
+Dialogue: 0,0:15:18.35,0:15:21.02,Default,,0000,0000,0000,,--Split-Head!\N--Split-Head!
+Dialogue: 0,0:15:21.02,0:15:24.21,Default,,0000,0000,0000,,Incredible! Just incredible!
+Dialogue: 0,0:15:24.21,0:15:28.95,Default,,0000,0000,0000,,The Straw Hat Dangers win\NRound #4 by a landslide!
+Dialogue: 0,0:15:36.29,0:15:40.26,Default,,0000,0000,0000,,There'll now be a five-minute break\Nbefore the final round begins!
+Dialogue: 0,0:15:42.12,0:15:45.38,Default,,0000,0000,0000,,I can't believe I fell for that childish trick!
+Dialogue: 0,0:15:45.38,0:15:48.17,Default,,0000,0000,0000,,Or that this would drag out to the final round!
+Dialogue: 0,0:15:48.17,0:15:50.32,Default,,0000,0000,0000,,We can't lose the next one!
+Dialogue: 0,0:15:50.32,0:15:53.15,Default,,0000,0000,0000,,We'll use you-know-what to win for sure!
+Dialogue: 0,0:15:53.15,0:15:54.58,Default,,0000,0000,0000,,The plan?!
+Dialogue: 0,0:15:54.58,0:15:56.26,Default,,0000,0000,0000,,All right! Let's win this thing!
+Dialogue: 0,0:15:56.26,0:16:00.21,Default,,0000,0000,0000,,The final round is about to begin!
+Dialogue: 0,0:16:00.21,0:16:02.15,Default,,0000,0000,0000,,Both teams, to the starting line!
+Dialogue: 0,0:16:02.15,0:16:05.95,Default,,0000,0000,0000,,Oh! The Foxy Devils' scorer,\NGirarin, is all alone!
+Dialogue: 0,0:16:05.95,0:16:07.87,Default,,0000,0000,0000,,All the others are off the track!
+Dialogue: 0,0:16:07.87,0:16:11.69,Default,,0000,0000,0000,,Could they be planning to\Nunleash that huge technique?!
+Dialogue: 0,0:16:11.69,0:16:14.08,Default,,0000,0000,0000,,Huge technique?
+Dialogue: 0,0:16:14.08,0:16:16.66,Default,,0000,0000,0000,,Just gonna be another Idiot Beam, obviously.
+Dialogue: 0,0:16:16.66,0:16:19.04,Default,,0000,0000,0000,,Oh, my. How did you know?
+Dialogue: 0,0:16:19.04,0:16:25.70,Default,,0000,0000,0000,,Yes. This tactic is all about getting\Nthe Slow-Slow Beam to hit its mark.
+Dialogue: 0,0:16:25.70,0:16:28.24,Default,,0000,0000,0000,,But knowing that still won't help ya!
+Dialogue: 0,0:16:29.63,0:16:33.53,Default,,0000,0000,0000,,As if! Weren't you paying attention last time?!
+Dialogue: 0,0:16:33.53,0:16:35.71,Default,,0000,0000,0000,,We have Operation Laugh and Fall!
+Dialogue: 0,0:16:35.71,0:16:38.04,Default,,0000,0000,0000,,Don't worry, Luffy! Just skate like crazy!
+Dialogue: 0,0:16:38.04,0:16:40.06,Default,,0000,0000,0000,,Yeah! Leave it to me!
+Dialogue: 0,0:16:40.97,0:16:43.05,Default,,0000,0000,0000,,Okay, it's time!
+Dialogue: 0,0:16:43.05,0:16:46.23,Default,,0000,0000,0000,,Ready! Go!
+Dialogue: 0,0:16:50.69,0:16:52.69,Default,,0000,0000,0000,,What?! Already?!
+Dialogue: 0,0:16:52.69,0:16:59.08,Default,,0000,0000,0000,,--Manly! Manly! Manly!...\N--Split-Head! Split-Head!...
+Dialogue: 0,0:17:01.04,0:17:04.00,Default,,0000,0000,0000,,Slow-Slow Beam!
+Dialogue: 0,0:17:04.00,0:17:07.33,Default,,0000,0000,0000,,There it is! A barrage of Slow-Slow Beams!
+Dialogue: 0,0:17:07.80,0:17:10.96,Default,,0000,0000,0000,,Why isn't Operation Laugh and Fall working?!
+Dialogue: 0,0:17:13.38,0:17:16.84,Default,,0000,0000,0000,,Huh? Did you say somethin'?!
+Dialogue: 0,0:17:17.25,0:17:19.35,Default,,0000,0000,0000,,Earplugs!
+Dialogue: 0,0:17:19.35,0:17:23.56,Default,,0000,0000,0000,,The Straw Hat Dangers have been bested!\NThat's our boss for you!
+Dialogue: 0,0:17:24.17,0:17:26.02,Default,,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:17:31.84,0:17:35.32,Default,,0000,0000,0000,,Is it me, or do the Idiot Beams\Nbounce off that guy?!
+Dialogue: 0,0:17:35.32,0:17:37.12,Default,,0000,0000,0000,,Oh! You noticed?
+Dialogue: 0,0:17:37.12,0:17:39.78,Default,,0000,0000,0000,,Slow-Slow Beams don't work on Girarin!
+Dialogue: 0,0:17:39.78,0:17:43.24,Default,,0000,0000,0000,,Oh, really? Why not?
+Dialogue: 0,0:17:43.84,0:17:47.71,Default,,0000,0000,0000,,Oh, I'm afraid that's a secret!
+Dialogue: 0,0:17:47.71,0:17:51.55,Default,,0000,0000,0000,,Oh, a secret? That's what I thought!
+Dialogue: 0,0:17:51.55,0:17:55.97,Default,,0000,0000,0000,,That's why you're already off the course, huh?
+Dialogue: 0,0:17:55.97,0:18:01.37,Default,,0000,0000,0000,,That's right. All your guys are gonna\Nturn into slowpokes, but not us!
+Dialogue: 0,0:18:01.37,0:18:04.93,Default,,0000,0000,0000,,And they can't hide behind us!
+Dialogue: 0,0:18:05.68,0:18:08.90,Default,,0000,0000,0000,,So that's their deal! This is bad! Really bad!
+Dialogue: 0,0:18:08.90,0:18:12.07,Default,,0000,0000,0000,,Twenty seconds are up! Defenders, go!
+Dialogue: 0,0:18:15.17,0:18:18.36,Default,,0000,0000,0000,,Time for you all to slow down!
+Dialogue: 0,0:18:18.36,0:18:20.82,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:18:20.82,0:18:21.95,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:18:21.95,0:18:24.18,Default,,0000,0000,0000,,Direct hit!
+Dialogue: 0,0:18:24.18,0:18:29.81,Default,,0000,0000,0000,,Navigator Nami and Sniper Usopp\Nhave fallen prey to the Slow-Slow Beam!
+Dialogue: 0,0:18:34.60,0:18:36.92,Default,,0000,0000,0000,,Luffy! Look out behind you!
+Dialogue: 0,0:18:38.97,0:18:41.72,Default,,0000,0000,0000,,They finally got Straw Hat Luffy!
+Dialogue: 0,0:18:41.72,0:18:44.31,Default,,0000,0000,0000,,Is victory a near-certainty now?!
+Dialogue: 0,0:18:46.27,0:18:48.26,Default,,0000,0000,0000,,That just leaves you!
+Dialogue: 0,0:18:48.26,0:18:55.65,Default,,0000,0000,0000,,I can't risk it! We'll be\Ndone for if that beam hits me!
+Dialogue: 0,0:19:06.04,0:19:09.53,Default,,0000,0000,0000,,Oh! What's this?!
+Dialogue: 0,0:19:09.53,0:19:12.93,Default,,0000,0000,0000,,Nico Robin was keeping the\NStraw Hat Dangers in the game!
+Dialogue: 0,0:19:12.93,0:19:15.55,Default,,0000,0000,0000,,And now... she's given up?
+Dialogue: 0,0:19:15.55,0:19:19.51,Default,,0000,0000,0000,,She's exited the course of her own\Naccord with only one minute left!
+Dialogue: 0,0:19:20.81,0:19:23.72,Default,,0000,0000,0000,,The Slow-Slow Beam lasts for 30 seconds...
+Dialogue: 0,0:19:23.72,0:19:28.50,Default,,0000,0000,0000,,If Luffy can dodge the next attack,\Nhe'll still have a chance...!
+Dialogue: 0,0:19:28.50,0:19:30.76,Default,,0000,0000,0000,,Failure isn't an option!
+Dialogue: 0,0:19:30.76,0:19:32.48,Default,,0000,0000,0000,,I have to wait for my chance!
+Dialogue: 0,0:19:34.18,0:19:36.48,Default,,0000,0000,0000,,What's going on, Robin-chan?
+Dialogue: 0,0:19:37.69,0:19:40.95,Default,,0000,0000,0000,,I can avoid those beams by staying here, right?
+Dialogue: 0,0:19:42.70,0:19:44.41,Default,,0000,0000,0000,,Robin-chan...?
+Dialogue: 0,0:19:45.19,0:19:50.37,Default,,0000,0000,0000,,Forty seconds remain!\NGirarin has an easy, three-lap lead!
+Dialogue: 0,0:19:52.37,0:19:54.86,Default,,0000,0000,0000,,Ouch...!
+Dialogue: 0,0:19:54.86,0:19:59.34,Default,,0000,0000,0000,,Time for another dose, just to be safe!
+Dialogue: 0,0:20:01.30,0:20:03.19,Default,,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:20:04.78,0:20:07.43,Default,,0000,0000,0000,,It's been fun, Straw Hat Luffy...
+Dialogue: 0,0:20:07.43,0:20:09.52,Default,,0000,0000,0000,,...but this is the end!
+Dialogue: 0,0:20:11.35,0:20:12.77,Default,,0000,0000,0000,,Thirty seconds left!
+Dialogue: 0,0:20:12.77,0:20:17.36,Default,,0000,0000,0000,,Victory is guaranteed if he can hit\NStraw Hat Luffy with another beam!
+Dialogue: 0,0:20:26.28,0:20:28.20,Default,,0000,0000,0000,,End of the line!
+Dialogue: 0,0:20:36.71,0:20:38.13,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:20:38.13,0:20:41.13,Default,,0000,0000,0000,,Skate, Luffy! There's no time!
+Dialogue: 0,0:20:42.47,0:20:44.05,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:46.55,0:20:48.51,Default,,0000,0000,0000,,Twenty seconds left!
+Dialogue: 0,0:20:54.39,0:20:57.15,Default,,0000,0000,0000,,Mucha Cara...
+Dialogue: 0,0:21:03.06,0:21:07.54,Default,,0000,0000,0000,,Grilled or deep-fried... Which do you prefer?
+Dialogue: 0,0:21:07.54,0:21:08.82,Default,,0000,0000,0000,,D-Damn!
+Dialogue: 0,0:21:08.82,0:21:10.79,Default,,0000,0000,0000,,D-Damn...!
+Dialogue: 0,0:21:16.71,0:21:18.64,Default,,0000,0000,0000,,Ten seconds left!
+Dialogue: 0,0:21:18.64,0:21:21.01,Default,,0000,0000,0000,,Straw Hat Luffy is moving at incredible speed!
+Dialogue: 0,0:21:21.01,0:21:24.55,Default,,0000,0000,0000,,This could turn into a mad dash for the finish!
+Dialogue: 0,0:21:34.39,0:21:37.19,Default,,0000,0000,0000,,Oh! Our boss slowed himself down!
+Dialogue: 0,0:21:40.98,0:21:42.98,Default,,0000,0000,0000,,Five seconds left!
+Dialogue: 0,0:21:42.98,0:21:45.03,Default,,0000,0000,0000,,Swords that can't cut...
+Dialogue: 0,0:21:45.03,0:21:48.62,Default,,0000,0000,0000,,...won't work on me!
+Dialogue: 0,0:21:56.25,0:22:00.21,Default,,0000,0000,0000,,The Straw Hat Dangers\Ncome from behind to win!
+Dialogue: 0,0:22:03.78,0:22:06.95,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:21.04,0:22:23.16,Default,,0000,0000,0000,,{\i1}A piece of a dream that we started grasping{\i0}
+Dialogue: 0,0:22:23.16,0:22:26.71,Default,,0000,0000,0000,,{\i1}Chasing after something constant{\i0}
+Dialogue: 0,0:22:26.71,0:22:31.34,Default,,0000,0000,0000,,{\i1}We send our aspirations sailing into the sky{\i0}
+Dialogue: 0,0:22:32.30,0:22:34.59,Default,,0000,0000,0000,,{\i1}Even when we're exhausted{\i0}
+Dialogue: 0,0:22:34.59,0:22:37.76,Default,,0000,0000,0000,,{\i1}We have a compass that can\Nsearch for something constant{\i0}
+Dialogue: 0,0:22:37.76,0:22:43.18,Default,,0000,0000,0000,,{\i1}Say, do you think we can keep it forever?{\i0}
+Dialogue: 0,0:22:43.18,0:22:46.10,Default,,0000,0000,0000,,{\i1}At the end of the dream\Nthat we will reach someday{\i0}
+Dialogue: 0,0:22:46.10,0:22:48.90,Default,,0000,0000,0000,,{\i1}We want to be adults as we\Nare now as much as possible{\i0}
+Dialogue: 0,0:22:48.90,0:22:51.86,Default,,0000,0000,0000,,{\i1}We pray to this endless sky that we look up at{\i0}
+Dialogue: 0,0:22:51.86,0:22:54.94,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:22:54.94,0:22:57.74,Default,,0000,0000,0000,,{\i1}Wild fantasies from our childhood{\i0}
+Dialogue: 0,0:22:57.74,0:23:00.57,Default,,0000,0000,0000,,{\i1}We trace unforgettable memories{\i0}
+Dialogue: 0,0:23:00.57,0:23:06.25,Default,,0000,0000,0000,,{\i1}And try to keep the embers\Nburning that still consume us{\i0}
+Dialogue: 0,0:23:06.25,0:23:09.04,Default,,0000,0000,0000,,{\i1}To this familiar sunny sky{\i0}
+Dialogue: 0,0:23:09.04,0:23:11.88,Default,,0000,0000,0000,,{\i1}Together we entrust our feelings{\i0}
+Dialogue: 0,0:23:11.88,0:23:14.46,Default,,0000,0000,0000,,{\i1}We go beyond the changing time{\i0}
+Dialogue: 0,0:23:14.46,0:23:17.26,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:23:25.22,0:23:29.03,Default,,0000,0000,0000,,--Thank you, Luffy!\N--You know we'd never lose!
+Dialogue: 0,0:23:29.03,0:23:32.93,Default,,0000,0000,0000,,As a pirate, I refuse this outcome!\NI challenge you to extra rounds!
+Dialogue: 0,0:23:32.93,0:23:34.68,Default,,0000,0000,0000,,--Are you an idiot?!\N--Id--?!
+Dialogue: 0,0:23:34.68,0:23:36.73,Default,,0000,0000,0000,,Who'd agree to more of these lame games?!
+Dialogue: 0,0:23:36.73,0:23:38.81,Default,,0000,0000,0000,,All right! You're on!
+Dialogue: 0,0:23:38.81,0:23:40.61,Default,,0000,0000,0000,,What a surprise.
+Dialogue: 0,0:23:40.61,0:23:41.93,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.93,0:23:44.77,Default,,0000,0000,0000,,"Screaming-Hot Bombardment!\NPirate Dodgeball!"
+Dialogue: 0,0:23:44.77,0:23:47.36,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.36,0:23:49.36,Default,,0000,0000,0000,,

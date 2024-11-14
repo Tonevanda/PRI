@@ -1,0 +1,339 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.56,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.56,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.98,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.98,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.78,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.78,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.36,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.36,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.25,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.25,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.51,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.51,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.39,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.39,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.14,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.14,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.31,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.31,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.73,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.73,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.61,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.61,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.16,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.16,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.08,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.08,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.83,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.83,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.38,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.38,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.59,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.59,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.18,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.18,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:36.18,0:01:38.72,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:36.18,0:01:38.72,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.51,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.51,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.27,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.27,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.45,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.45,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.08,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.08,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.33,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.33,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.17,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.17,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:14.17,0:02:18.01,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:14.17,0:02:18.01,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.51,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.51,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.31,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.31,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.35,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.35,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.90,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.90,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.40,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.40,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.19,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.19,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.37,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.37,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:47.70,0:02:53.29,Default,,0000,0000,0000,,{\i1}To take back Sanji who was being pressed \Ninto a marriage and left his friends behind,{\i0}
+Dialogue: 0,0:02:53.29,0:02:57.82,Default,,0000,0000,0000,,{\i1}Luffy and the others infiltrated the Whole \NCake Island where Emperor Big Mom is.{\i0}
+Dialogue: 0,0:02:58.88,0:03:03.97,Default,,0000,0000,0000,,{\i1}In the Mirro-world, Nami and Jimbei\Nfinally reunited with Chopper and Carrot.{\i0}
+Dialogue: 0,0:03:04.39,0:03:08.27,Default,,0000,0000,0000,,Let's get going!\NWe gotta get Brook, Luffy and Sanji!
+Dialogue: 0,0:03:09.39,0:03:15.27,Default,,0000,0000,0000,,{\i1}Brook who was caught by Big Mom\Nsaw Pudding's real face.{\i0}
+Dialogue: 0,0:03:16.32,0:03:19.36,Default,,0000,0000,0000,,Thanks to her, I got to try my gun.
+Dialogue: 0,0:03:20.28,0:03:26.37,Default,,0000,0000,0000,,With this, I definitely can\Nriddle Germa's modified human bodies with bullets.
+Dialogue: 0,0:03:27.08,0:03:31.35,Default,,0000,0000,0000,,{\i1}Luffy kept fighting\Nin order to wait for Sanji at the rendezvous point.{\i0}
+Dialogue: 0,0:03:32.76,0:03:33.94,Default,,0000,0000,0000,,That meat is...
+Dialogue: 0,0:03:36.92,0:03:38.92,Default,,0000,0000,0000,,...not for you!
+Dialogue: 0,0:03:39.49,0:03:45.01,Default,,0000,0000,0000,,{\i1}And Sanji was thinking of Luffy.\NWill they be able to meet again?{\i0}
+Dialogue: 0,0:03:48.39,0:03:53.77,Default,,0000,0000,0000,,{\i1}"The Emperor Rolls Over!\NRescue Brook Mission!"{\i0}
+Dialogue: 0,0:04:04.74,0:04:06.16,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:04:06.28,0:04:10.41,Default,,0000,0000,0000,,--I just heard a loud noise from this way!\N--Who was it?!
+Dialogue: 0,0:04:12.75,0:04:13.81,Default,,0000,0000,0000,,Is that it?
+Dialogue: 0,0:04:16.42,0:04:18.34,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:04:19.30,0:04:21.17,DefaultLow,,0000,0000,0000,,B-Bobbin-{\i1}sama{\i0}!
+Dialogue: 0,0:04:20.76,0:04:25.39,OS,,0000,0000,0000,,BOBBIN THE DISPOSER\NA FIGHTER (BISHOP), BIG MOM PIRATES\NBOUNTY: 105 MILLION 500 THOUSAND BERRIES
+Dialogue: 0,0:04:21.48,0:04:23.38,DefaultLow,,0000,0000,0000,,What happened to the wall?
+Dialogue: 0,0:04:25.43,0:04:29.14,Default,,0000,0000,0000,,--What happened here?\N--Who did this?
+Dialogue: 0,0:04:29.64,0:04:32.72,Default,,0000,0000,0000,,--It's nothing.\N--B-But...
+Dialogue: 0,0:04:32.72,0:04:35.56,Default,,0000,0000,0000,,You guys can sit back.
+Dialogue: 0,0:04:38.46,0:04:39.46,Default,,0000,0000,0000,,Bobbin-{\i1}sa{\i0}...
+Dialogue: 0,0:04:52.34,0:04:54.33,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:04:54.86,0:04:57.75,Default,,0000,0000,0000,,I'll take care of it myself.
+Dialogue: 0,0:04:58.16,0:05:02.23,Default,,0000,0000,0000,,He'll never ever get away with this!
+Dialogue: 0,0:05:02.71,0:05:05.34,Default,,0000,0000,0000,,Even the devil himself...
+Dialogue: 0,0:05:05.34,0:05:07.97,Default,,0000,0000,0000,,...comes from hell...
+Dialogue: 0,0:05:08.60,0:05:10.70,Default,,0000,0000,0000,,...to attend Mama's tea party!
+Dialogue: 0,0:05:15.48,0:05:18.52,DefaultLow,,0000,0000,0000,,MIRRO-WORLD
+Dialogue: 0,0:05:20.29,0:05:21.78,Default,,0000,0000,0000,,Mirror, mirror!
+Dialogue: 0,0:05:21.78,0:05:23.78,Default,,0000,0000,0000,,Here's the other three!
+Dialogue: 0,0:05:23.78,0:05:28.22,Default,,0000,0000,0000,,This skeleton and the straw hat\Nand the spiral eyebrows!
+Dialogue: 0,0:05:28.82,0:05:32.91,Default,,0000,0000,0000,,Have you seen them?\NTell us if you know!
+Dialogue: 0,0:05:33.04,0:05:36.27,Default,,0000,0000,0000,,--Two boys and a skeleton?\N--Has anyone seen them?
+Dialogue: 0,0:05:36.37,0:05:38.50,Default,,0000,0000,0000,,--Have you seen them?\N--No, I haven't.
+Dialogue: 0,0:05:38.63,0:05:41.00,Default,,0000,0000,0000,,--Have you?\N--No, I haven't seen them.
+Dialogue: 0,0:05:41.13,0:05:42.94,Default,,0000,0000,0000,,I haven't either.
+Dialogue: 0,0:05:50.05,0:05:51.74,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:05:52.57,0:05:54.78,Default,,0000,0000,0000,,The skeleton is here!
+Dialogue: 0,0:05:55.14,0:05:57.85,Default,,0000,0000,0000,,--It's from that way!\N--Let's go see.
+Dialogue: 0,0:05:57.98,0:06:00.61,Default,,0000,0000,0000,,Hey. Go faster. You're too slow!
+Dialogue: 0,0:06:00.73,0:06:05.24,Default,,0000,0000,0000,,I can't go any faster than this!\NYou guys are too heavy!
+Dialogue: 0,0:06:06.10,0:06:08.24,Default,,0000,0000,0000,,Stop grumbling. Just run.
+Dialogue: 0,0:06:08.36,0:06:12.60,Default,,0000,0000,0000,,A-All right! Gee, what jerks!
+Dialogue: 0,0:06:14.37,0:06:19.81,Default,,0000,0000,0000,,The mirror down there might be {\i1}that{\i0} mirror.
+Dialogue: 0,0:06:20.17,0:06:21.39,Default,,0000,0000,0000,,{\i1}That{\i0} mirror?
+Dialogue: 0,0:06:23.96,0:06:26.86,Default,,0000,0000,0000,,Well, you'll see.
+Dialogue: 0,0:06:28.93,0:06:30.22,Default,,0000,0000,0000,,Just hurry up!
+Dialogue: 0,0:06:30.58,0:06:34.12,Default,,0000,0000,0000,,Dammit!\NI can't stand getting pushed around!
+Dialogue: 0,0:06:41.73,0:06:44.86,Default,,0000,0000,0000,,We've arrived. We've arrived.
+Dialogue: 0,0:06:45.92,0:06:47.90,Default,,0000,0000,0000,,So Brook is here.
+Dialogue: 0,0:06:49.92,0:06:51.28,Default,,0000,0000,0000,,This mirror is...
+Dialogue: 0,0:06:56.75,0:06:59.28,Default,,0000,0000,0000,,This mirror is so big.
+Dialogue: 0,0:07:01.63,0:07:02.93,Default,,0000,0000,0000,,Hey, look!
+Dialogue: 0,0:07:03.79,0:07:04.85,Default,,0000,0000,0000,,There's Brook!
+Dialogue: 0,0:07:10.26,0:07:11.34,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:07:11.62,0:07:14.17,Default,,0000,0000,0000,,Mirror, mirror! Thank you!
+Dialogue: 0,0:07:14.17,0:07:15.57,Default,,0000,0000,0000,,You're welcome!
+Dialogue: 0,0:07:16.30,0:07:17.02,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:07:18.35,0:07:23.02,Default,,0000,0000,0000,,Something big is enveloping Brook...
+Dialogue: 0,0:07:28.65,0:07:29.84,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:07:34.62,0:07:36.35,Default,,0000,0000,0000,,I can't believe this...
+Dialogue: 0,0:07:41.37,0:07:42.83,Default,,0000,0000,0000,,That place is...
+Dialogue: 0,0:07:45.52,0:07:47.44,Default,,0000,0000,0000,,What are you gonna do?
+Dialogue: 0,0:07:48.59,0:07:50.15,Default,,0000,0000,0000,,That room is...
+Dialogue: 0,0:07:53.55,0:07:57.35,Default,,0000,0000,0000,,...our Mama's bedroom!
+Dialogue: 0,0:07:57.35,0:07:59.93,Default,,0000,0000,0000,,The one of the Emperors - Big Mom?!
+Dialogue: 0,0:08:00.81,0:08:02.60,Default,,0000,0000,0000,,Wh-Wh-What should we do?
+Dialogue: 0,0:08:02.73,0:08:05.33,Default,,0000,0000,0000,,It's a good thing that he's alive but...
+Dialogue: 0,0:08:06.02,0:08:09.76,Default,,0000,0000,0000,,--Brook...\N--I didn't expect him to be in such a place.
+Dialogue: 0,0:08:12.74,0:08:15.55,Default,,0000,0000,0000,,But why is she sleeping with him?
+Dialogue: 0,0:08:17.49,0:08:21.10,Default,,0000,0000,0000,,--He's in a deep sleep too.\N--How could he even sleep?
+Dialogue: 0,0:08:21.41,0:08:23.64,Default,,0000,0000,0000,,Wake up, Brook!
+Dialogue: 0,0:08:27.25,0:08:30.19,Default,,0000,0000,0000,,No good. He's not hearing you at all.
+Dialogue: 0,0:08:32.01,0:08:37.22,Default,,0000,0000,0000,,He's a strange bony creature.\NMama won't let go of such a thing!
+Dialogue: 0,0:08:37.52,0:08:39.28,Default,,0000,0000,0000,,But don't worry.
+Dialogue: 0,0:08:39.28,0:08:42.45,Default,,0000,0000,0000,,I can make her loosen up her hand.
+Dialogue: 0,0:08:43.06,0:08:46.29,Default,,0000,0000,0000,,Mama! It's Brulee!
+Dialogue: 0,0:08:46.29,0:08:47.33,Default,,0000,0000,0000,,Choo!
+Dialogue: 0,0:08:47.33,0:08:49.02,Default,,0000,0000,0000,,--Help...\N--Choo!
+Dialogue: 0,0:08:49.15,0:08:51.65,Default,,0000,0000,0000,,--Cut it out!\N--Cover their mouths!
+Dialogue: 0,0:08:51.78,0:08:53.14,Default,,0000,0000,0000,,Electro!
+Dialogue: 0,0:09:02.20,0:09:04.48,Default,,0000,0000,0000,,Did it wake Big Mom up?
+Dialogue: 0,0:09:08.34,0:09:10.48,Default,,0000,0000,0000,,Oh, good. She's still sleepin...
+Dialogue: 0,0:09:12.84,0:09:14.01,Default,,0000,0000,0000,,She...
+Dialogue: 0,0:09:14.26,0:09:15.09,Default,,0000,0000,0000,,She...
+Dialogue: 0,0:09:15.59,0:09:17.95,Default,,0000,0000,0000,,She sees us!
+Dialogue: 0,0:09:27.33,0:09:30.19,Default,,0000,0000,0000,,Oh, it's just a fly.
+Dialogue: 0,0:09:35.20,0:09:37.52,Default,,0000,0000,0000,,I guess she hasn't noticed us.
+Dialogue: 0,0:09:49.17,0:09:51.77,Default,,0000,0000,0000,,No! What, what? What's wrong?!
+Dialogue: 0,0:09:52.50,0:09:53.53,Default,,0000,0000,0000,,He woke up!
+Dialogue: 0,0:09:53.53,0:09:55.80,Default,,0000,0000,0000,,Brook! Over here, over here!
+Dialogue: 0,0:09:55.92,0:09:57.70,Default,,0000,0000,0000,,Come to us now!
+Dialogue: 0,0:09:57.70,0:09:59.33,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:10:01.81,0:10:04.02,Default,,0000,0000,0000,,Oh, it's just a fly.
+Dialogue: 0,0:10:05.18,0:10:07.00,Default,,0000,0000,0000,,Don't go back to sleep!
+Dialogue: 0,0:10:08.25,0:10:10.92,Default,,0000,0000,0000,,What is it, Mama? An enemy attack?!
+Dialogue: 0,0:10:10.92,0:10:12.54,Default,,0000,0000,0000,,I'm sleeping!
+Dialogue: 0,0:10:12.81,0:10:14.48,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:10:17.33,0:10:18.77,Default,,0000,0000,0000,,There you are!
+Dialogue: 0,0:10:48.90,0:10:50.46,Default,,0000,0000,0000,,How powerful they are!
+Dialogue: 0,0:11:03.49,0:11:05.64,Default,,0000,0000,0000,,How can we...
+Dialogue: 0,0:11:06.29,0:11:07.96,Default,,0000,0000,0000,,...save...
+Dialogue: 0,0:11:08.65,0:11:10.14,Default,,0000,0000,0000,,Brook...
+Dialogue: 0,0:11:10.89,0:11:13.11,Default,,0000,0000,0000,,From those monsters?!
+Dialogue: 0,0:11:38.03,0:11:39.49,Default,,0000,0000,0000,,Hmmm...
+Dialogue: 0,0:11:39.68,0:11:41.99,Default,,0000,0000,0000,,More hair, maybe?
+Dialogue: 0,0:11:42.11,0:11:44.83,Default,,0000,0000,0000,,Hm, then how about this?
+Dialogue: 0,0:11:44.95,0:11:46.93,Default,,0000,0000,0000,,Yeah, looks good to me!
+Dialogue: 0,0:11:47.22,0:11:49.18,Default,,0000,0000,0000,,Where did you find this?
+Dialogue: 0,0:11:49.20,0:11:51.38,Default,,0000,0000,0000,,I found it in a death chamber in the castle.
+Dialogue: 0,0:11:51.79,0:11:54.40,Default,,0000,0000,0000,,Seaweed from the kitchen\Nis a substitute for his afro.
+Dialogue: 0,0:11:55.65,0:11:57.57,Default,,0000,0000,0000,,Okay, it's done.
+Dialogue: 0,0:11:58.34,0:12:02.77,Default,,0000,0000,0000,,--Oh! It looks exactly like Brook!\N--Totally!
+Dialogue: 0,0:12:02.77,0:12:04.70,Default,,0000,0000,0000,,If we can replace Brook with this,
+Dialogue: 0,0:12:05.22,0:12:08.58,Default,,0000,0000,0000,,I don't think she'll notice \Nthat we took him away.
+Dialogue: 0,0:12:11.96,0:12:15.33,Default,,0000,0000,0000,,Now, if we place Brulee\Nat the midpoint of the mirror,
+Dialogue: 0,0:12:15.85,0:12:20.02,Default,,0000,0000,0000,,we can go in and out of the mirror\Nas we want.
+Dialogue: 0,0:12:21.28,0:12:24.02,Default,,0000,0000,0000,,{\i1}Damn! I'll make them pay for this!{\i0}
+Dialogue: 0,0:12:24.53,0:12:28.56,Default,,0000,0000,0000,,I think it's all set now. Let's begin.
+Dialogue: 0,0:12:29.37,0:12:31.75,Default,,0000,0000,0000,,The Rescue Brook Mission!
+Dialogue: 0,0:12:33.75,0:12:35.32,Default,,0000,0000,0000,,Challenge 1!
+Dialogue: 0,0:12:36.98,0:12:38.61,Default,,0000,0000,0000,,Okay, I'm gonna go!
+Dialogue: 0,0:12:38.61,0:12:40.84,Default,,0000,0000,0000,,Don't make any noise!
+Dialogue: 0,0:12:40.96,0:12:44.09,Default,,0000,0000,0000,,Big Mom is cautious\Neven when she's sleeping.
+Dialogue: 0,0:12:44.22,0:12:46.89,Default,,0000,0000,0000,,If you think it's dangerous,\Ncome back.
+Dialogue: 0,0:12:47.20,0:12:48.62,Default,,0000,0000,0000,,Be careful, Chobro!
+Dialogue: 0,0:12:48.99,0:12:52.08,Default,,0000,0000,0000,,I know! You can just count on me!
+Dialogue: 0,0:13:37.70,0:13:40.07,Default,,0000,0000,0000,,Watch your step, Chobro!
+Dialogue: 0,0:13:40.19,0:13:42.49,Default,,0000,0000,0000,,Relax! You're almost there!
+Dialogue: 0,0:13:45.15,0:13:47.64,Default,,0000,0000,0000,,{\i1}Now, if I can just climb this bed...{\i0}
+Dialogue: 0,0:13:51.99,0:13:53.14,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:13:53.45,0:13:54.66,Default,,0000,0000,0000,,What is it, Chobro?!
+Dialogue: 0,0:13:54.86,0:13:57.13,Default,,0000,0000,0000,,D-Don't tell me he's about to...
+Dialogue: 0,0:13:57.58,0:14:00.94,Default,,0000,0000,0000,,--...sneeze!\N--What?! Chobro, no!
+Dialogue: 0,0:14:04.42,0:14:06.90,Default,,0000,0000,0000,,--Fight it off!\N--Please, Chobro!
+Dialogue: 0,0:14:06.90,0:14:08.70,Default,,0000,0000,0000,,Hold it! Hold it!
+Dialogue: 0,0:14:16.85,0:14:18.52,Default,,0000,0000,0000,,That's our Chobro!
+Dialogue: 0,0:14:18.65,0:14:20.25,Default,,0000,0000,0000,,Okay, just go!
+Dialogue: 0,0:14:21.28,0:14:25.36,Default,,0000,0000,0000,,{\i1}Alright, wait for me, Brook.\NI'll save you now!{\i0}
+Dialogue: 0,0:14:38.61,0:14:40.06,Default,,0000,0000,0000,,You dummy!
+Dialogue: 0,0:14:43.30,0:14:46.92,Default,,0000,0000,0000,,I'm so scared! {\i1}Really{\i0} scared!
+Dialogue: 0,0:14:46.92,0:14:50.91,Default,,0000,0000,0000,,--Are you okay, Chobro?\N--Somebody else has to go.
+Dialogue: 0,0:14:50.91,0:14:53.92,Default,,0000,0000,0000,,Okay, let me go next!
+Dialogue: 0,0:14:55.23,0:14:56.57,Default,,0000,0000,0000,,Challenge 2!
+Dialogue: 0,0:15:03.86,0:15:06.24,Default,,0000,0000,0000,,{\i1}Okay, I made it this far...{\i0}
+Dialogue: 0,0:15:07.78,0:15:09.87,Default,,0000,0000,0000,,{\i1}I-It's really expanding!{\i0}
+Dialogue: 0,0:15:10.66,0:15:14.01,Default,,0000,0000,0000,,--Look for the right time!\N--Go when it's deflated!
+Dialogue: 0,0:15:18.37,0:15:19.95,Default,,0000,0000,0000,,{\i1}Deflating...{\i0}
+Dialogue: 0,0:15:21.47,0:15:23.04,Default,,0000,0000,0000,,{\i1}Inflating...{\i0}
+Dialogue: 0,0:15:23.20,0:15:24.06,Default,,0000,0000,0000,,{\i1}Now!{\i0}
+Dialogue: 0,0:15:25.71,0:15:26.69,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:15:27.18,0:15:29.65,Default,,0000,0000,0000,,Brook, Brook, wake up.
+Dialogue: 0,0:15:29.65,0:15:31.67,Default,,0000,0000,0000,,Hey, Brook, wake up now.
+Dialogue: 0,0:15:31.67,0:15:33.87,Default,,0000,0000,0000,,Oh, no! The snot bubble's coming!
+Dialogue: 0,0:15:34.06,0:15:34.99,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:15:42.69,0:15:44.67,Default,,0000,0000,0000,,{\i1}Did she notice...{\i0}
+Dialogue: 0,0:15:45.13,0:15:47.44,Default,,0000,0000,0000,,Staaare...
+Dialogue: 0,0:15:48.53,0:15:50.55,Default,,0000,0000,0000,,{\i1}It's staring right at me...{\i0}
+Dialogue: 0,0:15:57.88,0:15:58.81,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:15:59.04,0:16:00.66,Default,,0000,0000,0000,,A stuffed bunny!
+Dialogue: 0,0:16:00.93,0:16:02.35,Default,,0000,0000,0000,,That's not gonna work!
+Dialogue: 0,0:16:05.79,0:16:09.82,Default,,0000,0000,0000,,Oh, it's just a stuffed bunny.
+Dialogue: 0,0:16:11.72,0:16:13.43,Default,,0000,0000,0000,,What? That worked?
+Dialogue: 0,0:16:13.67,0:16:15.32,Default,,0000,0000,0000,,Now's your chance, Carrot!
+Dialogue: 0,0:16:18.06,0:16:19.68,Default,,0000,0000,0000,,{\i1}I'll do it this time...{\i0}
+Dialogue: 0,0:16:29.23,0:16:31.29,Default,,0000,0000,0000,,There's still a fly?
+Dialogue: 0,0:16:32.45,0:16:35.17,Default,,0000,0000,0000,,What an annoying fly!
+Dialogue: 0,0:16:43.44,0:16:47.25,Default,,0000,0000,0000,,--I'm so scared! {\i1}Really{\i0} scared!\N--I know, I know.
+Dialogue: 0,0:16:47.62,0:16:49.21,Default,,0000,0000,0000,,We need to switch again.
+Dialogue: 0,0:16:49.34,0:16:52.32,Default,,0000,0000,0000,,How disappointing.\NWhen it comes to this...
+Dialogue: 0,0:16:53.17,0:16:54.82,Default,,0000,0000,0000,,{\i1}I{\i0} must do it!
+Dialogue: 0,0:16:55.83,0:16:57.28,Default,,0000,0000,0000,,Challenge 3!
+Dialogue: 0,0:17:06.62,0:17:07.58,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:17:08.22,0:17:09.12,Default,,0000,0000,0000,,Hey, wake up!
+Dialogue: 0,0:17:09.65,0:17:10.76,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:17:13.20,0:17:15.33,Default,,0000,0000,0000,,{\i1}Oh, no! Did I wake her up?{\i0}
+Dialogue: 0,0:17:19.41,0:17:21.26,Default,,0000,0000,0000,,{\i1}No, she just turned over.{\i0}
+Dialogue: 0,0:17:22.18,0:17:24.02,Default,,0000,0000,0000,,{\i1}This is my chance.{\i0}
+Dialogue: 0,0:17:24.40,0:17:26.60,Default,,0000,0000,0000,,{\i1}While her hands are off of Brook...{\i0}
+Dialogue: 0,0:17:26.60,0:17:30.07,Default,,0000,0000,0000,,--Now, Pedro!\N--Switch them quickly!
+Dialogue: 0,0:17:31.02,0:17:32.76,Default,,0000,0000,0000,,{\i1}I must do it in an instant.{\i0}
+Dialogue: 0,0:17:33.59,0:17:35.99,Default,,0000,0000,0000,,{\i1}Switch them as quick as I can\Nso she won't notice.{\i0}
+Dialogue: 0,0:17:37.64,0:17:39.12,Default,,0000,0000,0000,,{\i1}Escape spectacularly!{\i0}
+Dialogue: 0,0:17:40.07,0:17:43.18,Default,,0000,0000,0000,,{\i1}And go back to my friends!{\i0}
+Dialogue: 0,0:17:46.32,0:17:48.12,Default,,0000,0000,0000,,That's our Pedro!
+Dialogue: 0,0:17:48.12,0:17:50.94,Default,,0000,0000,0000,,Let me call you Brother Pedro!
+Dialogue: 0,0:17:50.94,0:17:52.40,Default,,0000,0000,0000,,Pebro!
+Dialogue: 0,0:17:52.85,0:17:56.36,Default,,0000,0000,0000,,Oh, thank you so much, Pedro-{\i1}san{\i0}!
+Dialogue: 0,0:17:56.82,0:17:58.28,Default,,0000,0000,0000,,Don't mention it.
+Dialogue: 0,0:17:59.95,0:18:02.66,Default,,0000,0000,0000,,{\i1}Okay, I'm imagining it perfectly.{\i0}
+Dialogue: 0,0:18:07.71,0:18:09.44,Default,,0000,0000,0000,,She's rolling over!
+Dialogue: 0,0:18:13.05,0:18:14.21,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:18:15.05,0:18:16.91,Default,,0000,0000,0000,,I can't believe I let my guard down!
+Dialogue: 0,0:18:21.18,0:18:22.61,Default,,0000,0000,0000,,Did he wake up?!
+Dialogue: 0,0:18:23.36,0:18:24.22,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:18:24.58,0:18:26.33,Default,,0000,0000,0000,,But that's good for us.
+Dialogue: 0,0:18:26.33,0:18:28.52,Default,,0000,0000,0000,,He's out of Big Mom's hands!
+Dialogue: 0,0:18:28.65,0:18:30.56,Default,,0000,0000,0000,,Okay, I'll go!
+Dialogue: 0,0:18:31.50,0:18:33.00,Default,,0000,0000,0000,,Challenge 4!
+Dialogue: 0,0:18:36.20,0:18:38.01,Default,,0000,0000,0000,,Brook, wake up!
+Dialogue: 0,0:18:42.01,0:18:43.39,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:18:44.87,0:18:46.75,Default,,0000,0000,0000,,It's me, Brook!
+Dialogue: 0,0:18:49.37,0:18:51.44,Default,,0000,0000,0000,,Ghost!
+Dialogue: 0,0:18:53.42,0:18:55.40,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:56.34,0:18:58.61,Default,,0000,0000,0000,,Are you still here?
+Dialogue: 0,0:19:02.17,0:19:03.16,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:19:03.47,0:19:06.31,Default,,0000,0000,0000,,You annoying fly!
+Dialogue: 0,0:19:09.32,0:19:10.96,Default,,0000,0000,0000,,Heavenly...
+Dialogue: 0,0:19:11.46,0:19:13.09,Default,,0000,0000,0000,,...Fire!
+Dialogue: 0,0:19:27.10,0:19:28.02,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:32.96,0:19:36.14,Default,,0000,0000,0000,,That... That was close.
+Dialogue: 0,0:19:37.32,0:19:39.32,Default,,0000,0000,0000,,Thank you, Jimbei!
+Dialogue: 0,0:19:41.20,0:19:43.10,Default,,0000,0000,0000,,The mission succeeded!
+Dialogue: 0,0:19:43.22,0:19:45.03,Default,,0000,0000,0000,,Woo-hoo!
+Dialogue: 0,0:19:45.06,0:19:48.35,Default,,0000,0000,0000,,This is great! I'm so relieved!
+Dialogue: 0,0:20:12.55,0:20:15.48,Default,,0000,0000,0000,,Sanji, I'm almost there.
+Dialogue: 0,0:20:31.48,0:20:35.71,Default,,0000,0000,0000,,There you are, Straw Hat Luffy.
+Dialogue: 0,0:20:37.97,0:20:41.34,Default,,0000,0000,0000,,Didn't I beat you up right here before?
+Dialogue: 0,0:20:41.63,0:20:45.51,Default,,0000,0000,0000,,Dammit! Don't get in my way!
+Dialogue: 0,0:20:52.12,0:20:53.89,Default,,0000,0000,0000,,It's not working.
+Dialogue: 0,0:20:55.17,0:20:57.11,Default,,0000,0000,0000,,What's wrong with him?
+Dialogue: 0,0:21:08.93,0:21:10.81,Default,,0000,0000,0000,,Hey! Stop!
+Dialogue: 0,0:21:10.81,0:21:12.50,Default,,0000,0000,0000,,This isn't for you!
+Dialogue: 0,0:21:21.69,0:21:26.22,Default,,0000,0000,0000,,I'm sorry. There's somebody \Nthat I really wanna give it to.
+Dialogue: 0,0:21:31.25,0:21:33.73,Default,,0000,0000,0000,,Gum-Gum...r
+Dialogue: 0,0:21:34.01,0:21:37.96,Default,,0000,0000,0000,,...Gatling!
+Dialogue: 0,0:21:43.28,0:21:45.24,Default,,0000,0000,0000,,He hasn't been hurt at all.
+Dialogue: 0,0:21:45.98,0:21:48.30,Default,,0000,0000,0000,,Is that all you've got?
+Dialogue: 0,0:21:48.30,0:21:51.24,Default,,0000,0000,0000,,You're not that strong.
+Dialogue: 0,0:21:53.54,0:21:54.96,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:21:55.81,0:21:58.65,Default,,0000,0000,0000,,...Bazooka!
+Dialogue: 0,0:22:04.73,0:22:07.01,Default,,0000,0000,0000,,It's my turn now!
+Dialogue: 0,0:22:22.90,0:22:24.99,Default,,0000,0000,0000,,You're so persistent.
+Dialogue: 0,0:22:27.26,0:22:31.45,Default,,0000,0000,0000,,I have to... wait for Sanji.
+Dialogue: 0,0:22:33.14,0:22:35.66,Default,,0000,0000,0000,,I'm not gonna let you go.
+Dialogue: 0,0:22:44.57,0:22:47.03,Default,,0000,0000,0000,,Nice try.
+Dialogue: 0,0:22:47.60,0:22:49.89,Default,,0000,0000,0000,,But this is it, Straw Hat!
+Dialogue: 0,0:23:25.21,0:23:27.11,Italics,,0000,0000,0000,,{\i1}Suffering from never-before-experienced \Nhunger,
+Dialogue: 0,0:23:27.11,0:23:29.13,Italics,,0000,0000,0000,,Luffy continues fighting beyond his limit.{\i0}
+Dialogue: 0,0:23:29.34,0:23:30.82,Italics,,0000,0000,0000,,{\i1}Though Sanji hasn't yet figured out
+Dialogue: 0,0:23:30.82,0:23:34.17,Italics,,0000,0000,0000,,his course of action, he digs through \Na heap of rubble searching for Luffy.{\i0}
+Dialogue: 0,0:23:34.41,0:23:39.81,Italics,,0000,0000,0000,,{\i1}The two men never supposed to see each \Nother again try to reach the fateful spot!{\i0}
+Dialogue: 0,0:23:39.83,0:23:41.26,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.26,0:23:44.57,Default,,0000,0000,0000,,"The Rendezvous! Luffy, a \NOne-on-One at His Limit!"
+Dialogue: 0,0:23:44.57,0:23:46.97,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!
+Dialogue: 0,0:23:47.42,0:23:49.42,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:49.42,0:23:51.42,Default,,0000,0000,0000,,

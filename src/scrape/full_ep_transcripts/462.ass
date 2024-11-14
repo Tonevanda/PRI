@@ -1,0 +1,318 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:40.39,0:00:45.44,On Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:40.39,0:00:45.44,DefaultLow,,0000,0000,0000,,Every time I look up to \Nthe sky after the rain
+Dialogue: 0,0:00:45.44,0:00:51.15,On Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:45.44,0:00:51.15,DefaultLow,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:51.15,0:00:58.91,On Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:51.15,0:00:58.91,DefaultLow,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:58.91,0:01:01.75,On Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:58.91,0:01:01.75,DefaultLow,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:01:01.75,0:01:07.21,On Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:01:01.75,0:01:07.21,DefaultLow,,0000,0000,0000,,The word "thank you" has \Nfaded into the wind now
+Dialogue: 0,0:01:07.21,0:01:12.38,On Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:01:07.21,0:01:12.38,DefaultLow,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:01:12.38,0:01:18.06,On Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:01:12.38,0:01:18.06,DefaultLow,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:18.06,0:01:23.64,On Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:18.06,0:01:23.64,DefaultLow,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:23.64,0:01:25.85,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:23.64,0:01:25.85,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:25.85,0:01:29.19,On Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:25.85,0:01:29.19,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:29.19,0:01:34.44,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:29.19,0:01:34.44,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:34.44,0:01:40.00,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:34.44,0:01:40.00,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:40.00,0:01:45.42,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:40.00,0:01:45.42,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:01:45.42,0:01:50.84,On Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:45.42,0:01:50.84,DefaultLow,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:50.84,0:01:56.19,On Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:50.84,0:01:56.19,DefaultLow,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:56.19,0:02:01.41,On Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:56.19,0:02:01.41,DefaultLow,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:02:01.41,0:02:06.12,On Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:02:01.41,0:02:06.12,DefaultLow,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:02:06.41,0:02:09.40,On Top,,0000,0000,0000,,Oh
+Dialogue: 0,0:02:06.41,0:02:09.40,DefaultLow,,0000,0000,0000,,Oh
+Dialogue: 0,0:02:09.40,0:02:11.69,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:02:09.40,0:02:11.69,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:02:11.69,0:02:14.98,On Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:02:11.69,0:02:14.98,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:14.98,0:02:20.20,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:14.98,0:02:20.20,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:20.20,0:02:25.88,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:20.20,0:02:25.88,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:25.88,0:02:31.48,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:25.88,0:02:31.48,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:02:31.48,0:02:37.26,On Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:31.48,0:02:37.26,DefaultLow,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:47.88,0:02:50.37,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:50.96,0:02:54.96,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:54.96,0:02:58.61,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:59.80,0:03:02.71,Default,,0000,0000,0000,,Monkey D. Luffy, \Na boy whose body turned to rubber
+Dialogue: 0,0:03:02.71,0:03:04.63,Default,,0000,0000,0000,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.63,0:03:06.68,Default,,0000,0000,0000,,also takes to the sea to become\N the next King of the Pirates.
+Dialogue: 0,0:03:07.51,0:03:11.54,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:03:11.54,0:03:16.30,Default,,0000,0000,0000,,the World Government is less and\N less able to ignore their existence.
+Dialogue: 0,0:03:17.44,0:03:19.14,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:19.84,0:03:22.77,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:23.13,0:03:26.28,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.28,0:03:29.48,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:34.89,0:03:37.44,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:37.44,0:03:40.39,Default,,0000,0000,0000,,Luffy is rushing to Navy HQ \Nto rescue his brother, Ace,
+Dialogue: 0,0:03:40.39,0:03:42.33,Default,,0000,0000,0000,,who is waiting to be executed.
+Dialogue: 0,0:03:42.91,0:03:45.70,Default,,0000,0000,0000,,Meanwhile, the world's \Ngreatest pirate – Whitebeard
+Dialogue: 0,0:03:45.70,0:03:48.31,Default,,0000,0000,0000,,has finally appeared...
+Dialogue: 0,0:03:48.31,0:03:50.48,Default,,0000,0000,0000,,...at the Navy HQ in Marineford!
+Dialogue: 0,0:03:55.51,0:03:56.89,Default,,0000,0000,0000,,He cracked the air?
+Dialogue: 0,0:04:04.65,0:04:07.80,Default,,0000,0000,0000,,A seaquake! He's distorting the sea!
+Dialogue: 0,0:04:14.54,0:04:15.90,Default,,0000,0000,0000,,I won't...
+Dialogue: 0,0:04:18.69,0:04:20.28,Default,,0000,0000,0000,,Still some fight left in you?
+Dialogue: 0,0:04:22.09,0:04:24.78,Default,,0000,0000,0000,,You are too valuable to let die now, boy.
+Dialogue: 0,0:04:25.87,0:04:27.87,Default,,0000,0000,0000,,If you still wanna run wild,
+Dialogue: 0,0:04:27.87,0:04:32.21,Default,,0000,0000,0000,,run as wild as you want\N on the sea under my name.
+Dialogue: 0,0:04:37.42,0:04:39.09,Default,,0000,0000,0000,,Become my son!
+Dialogue: 0,0:04:39.97,0:04:42.04,Default,,0000,0000,0000,,Screw you!
+Dialogue: 0,0:04:43.76,0:04:44.81,Default,,0000,0000,0000,,Why...
+Dialogue: 0,0:04:45.39,0:04:47.81,Default,,0000,0000,0000,,...do you people call him Pops?
+Dialogue: 0,0:04:49.46,0:04:53.47,Default,,0000,0000,0000,,Because he calls us "sons."
+Dialogue: 0,0:04:54.33,0:04:57.48,Default,,0000,0000,0000,,We are all hated by the world.
+Dialogue: 0,0:04:58.36,0:04:59.80,Default,,0000,0000,0000,,So it makes us happy.
+Dialogue: 0,0:05:00.19,0:05:01.68,Default,,0000,0000,0000,,I know it's just a word.
+Dialogue: 0,0:05:02.35,0:05:03.73,Default,,0000,0000,0000,,But it still makes us happy.
+Dialogue: 0,0:05:09.26,0:05:13.57,Default,,0000,0000,0000,,"The Force That Could Destroy the World! \NThe Power of the Tremor-Tremor Fruit!"
+Dialogue: 0,0:05:54.36,0:05:56.99,Default,,0000,0000,0000,,That's a lie! Cut it out!
+Dialogue: 0,0:05:56.99,0:05:59.52,Default,,0000,0000,0000,,You told me not to go but I...
+Dialogue: 0,0:05:59.52,0:06:01.81,Default,,0000,0000,0000,,I'm the one who told you to go.
+Dialogue: 0,0:06:08.20,0:06:10.68,Default,,0000,0000,0000,,I'm the one who told him to go.
+Dialogue: 0,0:06:11.05,0:06:13.01,Default,,0000,0000,0000,,Isn't that right, Marco?
+Dialogue: 0,0:06:13.15,0:06:15.67,Default,,0000,0000,0000,,Yes, that's what I heard.
+Dialogue: 0,0:06:15.67,0:06:18.61,Default,,0000,0000,0000,,I'm sorry that we put you \Nthrough so much, Ace.
+Dialogue: 0,0:06:19.21,0:06:22.27,Default,,0000,0000,0000,,Everybody in this world knows.
+Dialogue: 0,0:06:23.16,0:06:27.09,Default,,0000,0000,0000,,What will happen to someone \Nwho messes with...
+Dialogue: 0,0:06:27.09,0:06:29.75,Default,,0000,0000,0000,,...our crewmate!
+Dialogue: 0,0:06:31.95,0:06:36.94,Default,,0000,0000,0000,,We won't let anybody who \Nhurts you get away with it, Ace!
+Dialogue: 0,0:06:36.94,0:06:39.56,Default,,0000,0000,0000,,Count on us! We will save you!
+Dialogue: 0,0:06:45.21,0:06:48.31,Default,,0000,0000,0000,,Prepare yourselves, Navy HQ!
+Dialogue: 0,0:06:54.88,0:06:57.27,Default,,0000,0000,0000,,We brought this upon ourselves.
+Dialogue: 0,0:06:57.63,0:07:00.23,Default,,0000,0000,0000,,It's too late to say such a thing.
+Dialogue: 0,0:07:01.77,0:07:03.57,Default,,0000,0000,0000,,That's so hideous.
+Dialogue: 0,0:07:07.05,0:07:11.21,Default,,0000,0000,0000,,On this side, we, The Warlords, \Nthe Navy's greatest powers--3 admirals
+Dialogue: 0,0:07:11.21,0:07:15.35,Default,,0000,0000,0000,,and a hundred thousand elite soldiers!
+Dialogue: 0,0:07:15.35,0:07:17.82,Default,,0000,0000,0000,,On that side, there are \Nthe Whitebeard Pirates
+Dialogue: 0,0:07:17.82,0:07:21.13,Default,,0000,0000,0000,,and more than 40 allied ships!
+Dialogue: 0,0:07:21.13,0:07:25.18,Default,,0000,0000,0000,,Now, how do you wanna do it, Whitebeard?!
+Dialogue: 0,0:07:26.49,0:07:28.18,Default,,0000,0000,0000,,It's so exciting!
+Dialogue: 0,0:07:32.21,0:07:35.34,Default,,0000,0000,0000,,Do you wanna be on the sideline as always?
+Dialogue: 0,0:07:35.34,0:07:37.81,Default,,0000,0000,0000,,I know that you just came to kill some time.
+Dialogue: 0,0:07:39.42,0:07:40.85,Default,,0000,0000,0000,,So be it.
+Dialogue: 0,0:07:43.28,0:07:47.56,Default,,0000,0000,0000,,There are rowdy men everywhere \Nand I can't stand it.
+Dialogue: 0,0:07:48.24,0:07:52.27,Default,,0000,0000,0000,,He is also a man but he is an exception.
+Dialogue: 0,0:07:53.46,0:07:56.19,Default,,0000,0000,0000,,I'm praying for you, Luffy!
+Dialogue: 0,0:08:08.82,0:08:10.21,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:08:10.44,0:08:11.42,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:17.35,0:08:18.69,Default,,0000,0000,0000,,The water is receding!
+Dialogue: 0,0:08:18.91,0:08:20.31,Default,,0000,0000,0000,,What does it mean?
+Dialogue: 0,0:08:23.29,0:08:25.62,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:08:26.57,0:08:29.90,Default,,0000,0000,0000,,The ship is flying backwards!
+Dialogue: 0,0:08:34.69,0:08:36.65,Default,,0000,0000,0000,,Is this for real?!
+Dialogue: 0,0:08:36.65,0:08:39.57,Default,,0000,0000,0000,,It was really smooth just two minutes ago!
+Dialogue: 0,0:08:40.00,0:08:42.12,Default,,0000,0000,0000,,Why all of the sudden...
+Dialogue: 0,0:08:42.12,0:08:44.38,Default,,0000,0000,0000,,Oh no! My waterworks!
+Dialogue: 0,0:08:50.59,0:08:53.43,Default,,0000,0000,0000,,We've gotta keep moving!
+Dialogue: 0,0:08:53.43,0:08:54.55,Default,,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:08:56.18,0:08:57.57,Default,,0000,0000,0000,,This must be...
+Dialogue: 0,0:09:18.07,0:09:20.15,Default,,0000,0000,0000,,F-Finally it stopped!
+Dialogue: 0,0:09:20.15,0:09:22.54,Default,,0000,0000,0000,,What was that all about?
+Dialogue: 0,0:09:22.54,0:09:25.54,Default,,0000,0000,0000,,We went back a good distance.
+Dialogue: 0,0:09:27.21,0:09:31.39,Default,,0000,0000,0000,,I wonder when we can get \Nto Marineford like this.
+Dialogue: 0,0:09:32.02,0:09:33.75,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:09:38.52,0:09:40.03,Default,,0000,0000,0000,,Wh-What was it?
+Dialogue: 0,0:09:40.60,0:09:42.63,Default,,0000,0000,0000,,Hey, Jimbei!
+Dialogue: 0,0:09:42.83,0:09:44.67,Default,,0000,0000,0000,,Can you hurry up? Please!
+Dialogue: 0,0:09:44.67,0:09:47.06,Default,,0000,0000,0000,,I gotta get there before Ace's execution!
+Dialogue: 0,0:09:48.33,0:09:52.03,Default,,0000,0000,0000,,Don't worry, Luffy-kun. We'll make it!
+Dialogue: 0,0:09:52.16,0:09:53.15,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:53.60,0:09:55.00,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:09:57.57,0:09:59.46,Default,,0000,0000,0000,,How can you be so sure?
+Dialogue: 0,0:09:59.46,0:10:00.46,Default,,0000,0000,0000,,Roll-y roll-y.
+Dialogue: 0,0:10:00.82,0:10:03.50,Default,,0000,0000,0000,,You think your Fish-Man Karate can help?
+Dialogue: 0,0:10:03.50,0:10:07.63,Default,,0000,0000,0000,,Or are you gonna call out \Nwhale sharks to help again?!
+Dialogue: 0,0:10:07.89,0:10:10.30,Default,,0000,0000,0000,,My power is not enough.
+Dialogue: 0,0:10:10.30,0:10:12.74,Default,,0000,0000,0000,,Then, who are you depending on?
+Dialogue: 0,0:10:12.74,0:10:15.60,Default,,0000,0000,0000,,He said we'll make it! So we'll make it!
+Dialogue: 0,0:10:15.78,0:10:18.73,Default,,0000,0000,0000,,"He said we'll make it! So we'll make it!"
+Dialogue: 0,0:10:18.73,0:10:20.89,Default,,0000,0000,0000,,Fine! Whatever!
+Dialogue: 0,0:10:21.65,0:10:22.90,Default,,0000,0000,0000,,That's nonsense.
+Dialogue: 0,0:10:25.06,0:10:26.39,Default,,0000,0000,0000,,I'm gonna take a nap.
+Dialogue: 0,0:10:28.36,0:10:33.32,Default,,0000,0000,0000,,We can't stick around here any longer!
+Dialogue: 0,0:10:33.60,0:10:38.20,Default,,0000,0000,0000,,What happened to your dream to \Nbecome the King, Captain Buggy?
+Dialogue: 0,0:10:38.68,0:10:40.38,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:10:40.79,0:10:44.64,Default,,0000,0000,0000,,If the time is right, \NI'm sure that there'll be a miracle.
+Dialogue: 0,0:10:45.09,0:10:48.92,Default,,0000,0000,0000,,But if it's too early, \Nthen I'll just wait for the right timing.
+Dialogue: 0,0:10:49.05,0:10:51.13,Default,,0000,0000,0000,,Y-You're gonna just give up?
+Dialogue: 0,0:10:51.13,0:10:52.92,Default,,0000,0000,0000,,I'm disappointed in you!
+Dialogue: 0,0:10:52.92,0:10:54.97,Default,,0000,0000,0000,,Can't you see it?!
+Dialogue: 0,0:10:56.04,0:11:00.67,Default,,0000,0000,0000,,I mean, can't you see his \Nmagnificent confidence?!
+Dialogue: 0,0:11:01.39,0:11:04.55,Default,,0000,0000,0000,,No... It doesn't look like that to me.
+Dialogue: 0,0:11:04.67,0:11:06.70,Default,,0000,0000,0000,,This is what they call "perfect composure!"
+Dialogue: 0,0:11:06.70,0:11:10.58,Default,,0000,0000,0000,,He's got the regal presence\N to become the King!
+Dialogue: 0,0:11:11.39,0:11:13.39,Default,,0000,0000,0000,,Now that you mention it, I see it!
+Dialogue: 0,0:11:13.52,0:11:15.14,Default,,0000,0000,0000,,How great!
+Dialogue: 0,0:11:15.43,0:11:17.62,Default,,0000,0000,0000,,I can't see it at all...
+Dialogue: 0,0:11:19.96,0:11:23.38,Default,,0000,0000,0000,,I know that miracles don't happen that often.
+Dialogue: 0,0:11:23.98,0:11:26.88,Default,,0000,0000,0000,,But there is nothing I can do but wait.
+Dialogue: 0,0:11:27.44,0:11:28.64,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:11:47.98,0:11:49.76,Default,,0000,0000,0000,,The tide has changed!
+Dialogue: 0,0:11:49.76,0:11:51.26,Default,,0000,0000,0000,,We're going forward!
+Dialogue: 0,0:11:51.49,0:11:52.74,Default,,0000,0000,0000,,Did you do something?
+Dialogue: 0,0:11:53.06,0:11:55.90,Default,,0000,0000,0000,,I was just steering.
+Dialogue: 0,0:11:58.47,0:12:00.85,Default,,0000,0000,0000,,It's speeding up!
+Dialogue: 0,0:12:01.26,0:12:03.00,Default,,0000,0000,0000,,C-Could this be...?!
+Dialogue: 0,0:12:03.78,0:12:06.46,Default,,0000,0000,0000,,Ouch! What? What happened?!
+Dialogue: 0,0:12:07.12,0:12:08.74,Default,,0000,0000,0000,,Captain Buggy!
+Dialogue: 0,0:12:08.74,0:12:12.41,Default,,0000,0000,0000,,The miracle that  you were\N talking about is about to happen!
+Dialogue: 0,0:12:16.34,0:12:18.22,Default,,0000,0000,0000,,I don't think so.
+Dialogue: 0,0:12:20.04,0:12:23.89,Default,,0000,0000,0000,,I don't know what's happening \Nbut this is it! Go!
+Dialogue: 0,0:12:24.03,0:12:25.96,Default,,0000,0000,0000,,Do you see it, guys?!
+Dialogue: 0,0:12:25.96,0:12:28.28,Default,,0000,0000,0000,,The time is calling me now!
+Dialogue: 0,0:12:28.28,0:12:31.00,Default,,0000,0000,0000,,Saying "come and become the King!"
+Dialogue: 0,0:12:32.55,0:12:35.39,Default,,0000,0000,0000,,You're so great! Like no other!
+Dialogue: 0,0:12:35.39,0:12:38.68,Default,,0000,0000,0000,,Yeah! Captain Buggy!
+Dialogue: 0,0:12:38.68,0:12:41.83,Default,,0000,0000,0000,,Great! It seems like we can make it!
+Dialogue: 0,0:12:46.70,0:12:49.29,Default,,0000,0000,0000,,H-Hey! Look at that!
+Dialogue: 0,0:12:55.44,0:12:57.79,Default,,0000,0000,0000,,Wh-What a hell is that?!
+Dialogue: 0,0:13:29.45,0:13:31.86,Default,,0000,0000,0000,,They've quieted down all of the sudden.
+Dialogue: 0,0:13:32.65,0:13:35.00,Default,,0000,0000,0000,,Are they waiting for Whitebeard's command?
+Dialogue: 0,0:13:35.87,0:13:37.65,Default,,0000,0000,0000,,I can hardly breathe!
+Dialogue: 0,0:13:42.25,0:13:45.58,Default,,0000,0000,0000,,The water level is rising again!
+Dialogue: 0,0:13:48.75,0:13:50.36,Default,,0000,0000,0000,,Wh-What's that?!
+Dialogue: 0,0:13:58.96,0:14:01.24,Default,,0000,0000,0000,,I can hear the ground rumbling!
+Dialogue: 0,0:14:01.67,0:14:03.46,Default,,0000,0000,0000,,Now it's coming!
+Dialogue: 0,0:14:03.46,0:14:05.95,Default,,0000,0000,0000,,The seaquake that he set up before!
+Dialogue: 0,0:14:06.31,0:14:08.79,Default,,0000,0000,0000,,Coming in the form of tsunami!
+Dialogue: 0,0:14:15.16,0:14:17.67,Default,,0000,0000,0000,,The Tremor-Tremor Fruit \Nmade him a quake man!
+Dialogue: 0,0:14:17.80,0:14:21.63,Default,,0000,0000,0000,,Edward Newgate aka Whitebeard!
+Dialogue: 0,0:14:25.07,0:14:26.09,Default,,0000,0000,0000,,Look! What is that?!
+Dialogue: 0,0:14:26.54,0:14:28.35,Default,,0000,0000,0000,,It's a giant tsunami!
+Dialogue: 0,0:14:28.57,0:14:32.77,Default,,0000,0000,0000,,Don't think that our superior forces \Nwill guarantee us victory.
+Dialogue: 0,0:14:33.12,0:14:36.73,Default,,0000,0000,0000,,We could well fail.
+Dialogue: 0,0:14:37.42,0:14:38.81,Default,,0000,0000,0000,,Because that man has...
+Dialogue: 0,0:14:39.88,0:14:43.07,Default,,0000,0000,0000,,...the power to destroy the world!
+Dialogue: 0,0:14:52.39,0:14:55.66,Default,,0000,0000,0000,,It's beginning! The war!
+Dialogue: 0,0:14:58.75,0:15:00.42,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:15:09.91,0:15:15.02,Default,,0000,0000,0000,,The invaders: a fleet of 47 ships \Nfrom the New World led by Whitebeard.
+Dialogue: 0,0:15:15.98,0:15:18.89,Default,,0000,0000,0000,,The defenders: the 2 greatest\N forces of the Government--
+Dialogue: 0,0:15:18.89,0:15:21.61,Default,,0000,0000,0000,,Navy HQ and The Seven Warlords.
+Dialogue: 0,0:15:22.57,0:15:25.64,Default,,0000,0000,0000,,No matter who wins and who loses,
+Dialogue: 0,0:15:25.93,0:15:27.61,Default,,0000,0000,0000,,the times will change!
+Dialogue: 0,0:16:07.38,0:16:09.14,Default,,0000,0000,0000,,It's a tsunami!
+Dialogue: 0,0:16:23.20,0:16:24.68,Default,,0000,0000,0000,,What power!
+Dialogue: 0,0:16:24.68,0:16:26.84,Default,,0000,0000,0000,,He certainly is the legendary monster!
+Dialogue: 0,0:16:54.27,0:16:56.16,Default,,0000,0000,0000,,Ice Age!
+Dialogue: 0,0:16:57.50,0:16:59.52,Default,,0000,0000,0000,,Aokiji!
+Dialogue: 0,0:17:00.46,0:17:02.07,Default,,0000,0000,0000,,You young squirt!
+Dialogue: 0,0:17:02.76,0:17:04.47,Default,,0000,0000,0000,,I-It's frozen!
+Dialogue: 0,0:17:07.23,0:17:08.77,Default,,0000,0000,0000,,Th-That was close!
+Dialogue: 0,0:17:09.05,0:17:10.51,Default,,0000,0000,0000,,Admiral Kuzan did it!
+Dialogue: 0,0:17:11.88,0:17:13.26,Default,,0000,0000,0000,,Partisan!
+Dialogue: 0,0:17:19.43,0:17:20.55,Default,,0000,0000,0000,,Uh-oh.
+Dialogue: 0,0:17:50.06,0:17:52.29,Default,,0000,0000,0000,,The whole bay is frozen!
+Dialogue: 0,0:17:52.65,0:17:54.97,Default,,0000,0000,0000,,The ships can't move now!
+Dialogue: 0,0:17:56.27,0:18:01.29,Default,,0000,0000,0000,,W-We have the greatest force of the \NNavy HQ--the admirals--on our side!
+Dialogue: 0,0:18:01.64,0:18:03.19,Default,,0000,0000,0000,,Th-That's right!
+Dialogue: 0,0:18:03.42,0:18:06.40,Default,,0000,0000,0000,,There's no reason to be  \Nafraid of the Whitebeards!
+Dialogue: 0,0:18:07.77,0:18:11.57,Default,,0000,0000,0000,,Fire! Destroy the Moby Dick!
+Dialogue: 0,0:18:26.51,0:18:27.79,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:18:27.79,0:18:29.62,Default,,0000,0000,0000,,We've got a good foothold now!
+Dialogue: 0,0:18:29.75,0:18:32.38,Default,,0000,0000,0000,,Show them what we're capable of!
+Dialogue: 0,0:18:40.47,0:18:42.27,Default,,0000,0000,0000,,The commanders came out, too!
+Dialogue: 0,0:18:42.65,0:18:44.47,Default,,0000,0000,0000,,Don't stop firing!
+Dialogue: 0,0:18:52.44,0:18:53.47,Default,,0000,0000,0000,,Mount a counter-offensive!
+Dialogue: 0,0:18:53.47,0:18:54.23,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:10.32,0:19:14.08,Default,,0000,0000,0000,,He must be the 5th division \Ncommander - Flower Sword Vista!
+Dialogue: 0,0:19:22.14,0:19:23.80,Default,,0000,0000,0000,,Stay alert, Tashigi!
+Dialogue: 0,0:19:24.11,0:19:28.49,Default,,0000,0000,0000,,They're all mighty soldiers - \Nnot just the commanders!
+Dialogue: 0,0:19:28.49,0:19:30.31,Default,,0000,0000,0000,,Don't forget it!
+Dialogue: 0,0:19:31.85,0:19:33.98,Default,,0000,0000,0000,,I-I got it, Smoker-san!
+Dialogue: 0,0:19:36.97,0:19:39.49,Default,,0000,0000,0000,,It's nice to have ice in the water!
+Dialogue: 0,0:19:42.30,0:19:45.62,Default,,0000,0000,0000,,Because my blood is burning!
+Dialogue: 0,0:19:45.62,0:19:48.47,Default,,0000,0000,0000,,Let's shoot them up and invade the island!
+Dialogue: 0,0:19:54.91,0:19:57.11,Default,,0000,0000,0000,,It's not that easy, huh?
+Dialogue: 0,0:20:06.85,0:20:09.94,Default,,0000,0000,0000,,Here come the vice admirals of the Navy HQ!
+Dialogue: 0,0:20:11.87,0:20:16.03,Default,,0000,0000,0000,,It's so rare to see all of them \Ntogether at the same place!
+Dialogue: 0,0:20:17.69,0:20:21.49,Default,,0000,0000,0000,,It's like when they have \Nthe Buster Call. But...
+Dialogue: 0,0:20:21.49,0:20:25.61,Default,,0000,0000,0000,,...when it comes to Pops and us, \Nit won't work that way!
+Dialogue: 0,0:20:25.81,0:20:28.62,Default,,0000,0000,0000,,Tsuru-san, why don't you stand back?
+Dialogue: 0,0:20:29.57,0:20:31.80,Default,,0000,0000,0000,,Leave it up to us
+Dialogue: 0,0:20:31.80,0:20:34.30,Default,,0000,0000,0000,,and have some tea or something\N from a comfortable distance.
+Dialogue: 0,0:20:34.94,0:20:38.55,Default,,0000,0000,0000,,Don't talk smart to me, fledglings!
+Dialogue: 0,0:20:39.04,0:20:43.56,Default,,0000,0000,0000,,There is no safe place even if \NI back up to the end of the sea!
+Dialogue: 0,0:20:46.91,0:20:49.34,Default,,0000,0000,0000,,Bring the ship to the ice gorge!
+Dialogue: 0,0:20:50.01,0:20:53.73,Default,,0000,0000,0000,,Trounce them all and get to the land!
+Dialogue: 0,0:20:53.73,0:20:55.07,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:20:55.76,0:20:58.86,Default,,0000,0000,0000,,We'd be happy to give our lives for Pops!
+Dialogue: 0,0:20:58.86,0:21:01.80,Default,,0000,0000,0000,,We're not scared of the Navy HQ!
+Dialogue: 0,0:21:01.80,0:21:04.61,Default,,0000,0000,0000,,Let's go, Squard Pirates!
+Dialogue: 0,0:21:08.70,0:21:11.16,Default,,0000,0000,0000,,It finally started!
+Dialogue: 0,0:21:25.55,0:21:27.40,Default,,0000,0000,0000,,Dracule Mihawk!
+Dialogue: 0,0:21:27.80,0:21:29.85,Default,,0000,0000,0000,,Is the Warlord on the move?!
+Dialogue: 0,0:21:29.96,0:21:33.23,Default,,0000,0000,0000,,That's very unusual!
+Dialogue: 0,0:21:33.54,0:21:38.69,Default,,0000,0000,0000,,The capricious "Hawk-Eye" \Nseems like he's willing to fight.
+Dialogue: 0,0:21:39.36,0:21:41.70,Default,,0000,0000,0000,,What? Do you wanna fight?
+Dialogue: 0,0:21:42.59,0:21:46.39,Default,,0000,0000,0000,,I just want to figure \Nout the true distance...
+Dialogue: 0,0:21:46.98,0:21:52.66,Default,,0000,0000,0000,,...between us and that man who \Nseems like right in front of us.
+Dialogue: 0,0:21:53.37,0:21:57.15,Default,,0000,0000,0000,,Even very skilled soldiers would \Ntremble and freeze from fear
+Dialogue: 0,0:21:57.15,0:21:58.94,Default,,0000,0000,0000,,just by looking into his eyes.
+Dialogue: 0,0:21:59.47,0:22:02.57,Default,,0000,0000,0000,,He is truly a "Hawk-Eye" as he is called.
+Dialogue: 0,0:22:03.10,0:22:05.46,Default,,0000,0000,0000,,I've always wanted to see him.
+Dialogue: 0,0:22:05.46,0:22:09.74,Default,,0000,0000,0000,,It's every swordsman's dream \Nto cross swords with him.
+Dialogue: 0,0:22:09.74,0:22:12.52,Default,,0000,0000,0000,,Because he is assumed to be \Nthe strongest in the world.
+Dialogue: 0,0:22:12.52,0:22:15.36,Default,,0000,0000,0000,,That's the instinct of swordsmen!
+Dialogue: 0,0:22:17.43,0:22:20.15,Default,,0000,0000,0000,,So that's the Black Sword\N that everybody's talking about.
+Dialogue: 0,0:22:20.64,0:22:21.81,Default,,0000,0000,0000,,To be precise...
+Dialogue: 0,0:22:22.85,0:22:24.66,Default,,0000,0000,0000,,...it's Black Sword "Night!"
+Dialogue: 0,0:22:25.24,0:22:29.24,Default,,0000,0000,0000,,It's one of the 12 highest \Ngrade swords in the world.
+Dialogue: 0,0:22:29.65,0:22:33.45,Default,,0000,0000,0000,,And its dark blade edge has an irregular \Ntemper line and a double clove pattern.
+Dialogue: 0,0:22:34.21,0:22:37.74,Default,,0000,0000,0000,,It's a noted sword suitable \Nfor the greatest swordsman.
+Dialogue: 0,0:22:47.31,0:22:48.55,Default,,0000,0000,0000,,"Hawk-Eye!"
+Dialogue: 0,0:23:25.47,0:23:28.46,Default,,0000,0000,0000,,Mihawk and Kizaru launch \Ntheir attacks on Whitebeard.
+Dialogue: 0,0:23:28.69,0:23:31.68,Default,,0000,0000,0000,,In response, the Whitebeard commanders
+Dialogue: 0,0:23:31.68,0:23:34.11,Default,,0000,0000,0000,,fight back using their own powers.
+Dialogue: 0,0:23:34.46,0:23:36.16,Default,,0000,0000,0000,,As the unpredictable battle rages,
+Dialogue: 0,0:23:36.16,0:23:40.27,Default,,0000,0000,0000,,Admiral Akainu finally unleashes \Nhis incredible power!
+Dialogue: 0,0:23:40.27,0:23:41.76,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.76,0:23:45.15,Default,,0000,0000,0000,,"An All-Consuming Inferno!! \NAdmiral Akainu's Power!"
+Dialogue: 0,0:23:45.15,0:23:47.27,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

@@ -1,0 +1,287 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.28,0:02:46.85,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:16.37,0:00:20.74,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.74,0:00:23.00,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.00,0:00:29.96,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.09,0:00:40.51,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:44.10,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:44.10,0:00:49.65,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.65,0:00:55.78,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.78,0:01:02.58,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.58,0:01:07.04,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.04,0:01:09.34,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.30,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.43,0:01:26.85,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.85,0:01:30.40,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.40,0:01:35.99,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.99,0:01:42.12,On Top,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:42.12,0:01:48.87,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:48.87,0:01:53.42,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.42,0:01:55.67,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.67,0:02:00.01,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.01,0:02:03.06,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.68,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.68,0:02:06.39,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.39,0:02:08.10,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.10,0:02:09.73,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.73,0:02:11.40,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.40,0:02:13.07,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:13.07,0:02:14.44,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.44,0:02:15.53,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.53,0:02:19.91,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.54,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.54,0:02:28.71,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:28.71,0:02:33.09,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.09,0:02:35.42,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.42,0:02:39.76,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.76,0:02:42.72,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.84,0:02:49.79,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:46.85,0:02:46.85,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:51.13,0:02:53.43,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.89,0:02:56.32,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.97,0:02:59.31,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:59.31,0:03:02.82,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:03:03.27,0:03:07.48,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:03:07.48,0:03:11.79,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.36,0:03:16.75,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.45,0:03:21.24,Default,,0000,0000,0000,,The world has truly entered \Na Great Pirate Era!
+Dialogue: 0,0:03:29.25,0:03:30.73,Default,,0000,0000,0000,,One-Sword Style!
+Dialogue: 0,0:03:30.93,0:03:32.15,Default,,0000,0000,0000,,Soaring Dragon...
+Dialogue: 0,0:03:33.90,0:03:35.56,Default,,0000,0000,0000,,Three-Pace Hum...
+Dialogue: 0,0:03:37.40,0:03:39.11,Default,,0000,0000,0000,,...Notch Slash!
+Dialogue: 0,0:03:39.36,0:03:40.53,Default,,0000,0000,0000,,...Blaze!
+Dialogue: 0,0:03:50.58,0:03:52.12,Default,,0000,0000,0000,,I have lost.
+Dialogue: 0,0:03:55.96,0:04:01.59,Default,,0000,0000,0000,,Once, a legendary samurai\Nwielded the great sword Shusui.
+Dialogue: 0,0:04:01.59,0:04:06.93,Default,,0000,0000,0000,,I am sure this katana would be\Nhappy to have you as its master.
+Dialogue: 0,0:04:19.82,0:04:24.57,Default,,0000,0000,0000,,I'll take your sword, but I'll pretend\Nthat our duel never happened...
+Dialogue: 0,0:04:25.86,0:04:27.57,Default,,0000,0000,0000,,...samurai of the Wano Kingdom!
+Dialogue: 0,0:04:40.50,0:04:44.52,Default,,0000,0000,0000,,"Chopper Is Furious!!\NHogback's Evil Medical Practices!"
+Dialogue: 0,0:05:01.86,0:05:06.57,Default,,0000,0000,0000,,Tell me: How does it feel to be\Nsubjugated by the might of your friends?
+Dialogue: 0,0:05:07.53,0:05:11.04,Default,,0000,0000,0000,,I can't believe you tried to stuff salt\Ndown my throat with your weird powers!
+Dialogue: 0,0:05:11.83,0:05:12.88,Default,,0000,0000,0000,,They're strong!
+Dialogue: 0,0:05:14.54,0:05:18.25,Default,,0000,0000,0000,,Darn it! I never expected \NSanji to kick Robin.
+Dialogue: 0,0:05:18.79,0:05:20.74,Default,,0000,0000,0000,,He isn't Sanji anymore!
+Dialogue: 0,0:05:21.30,0:05:25.30,Default,,0000,0000,0000,,Who is that Sanji guy?\NDon't make me kill you, jerk face.
+Dialogue: 0,0:05:27.84,0:05:32.17,Default,,0000,0000,0000,,I'm afraid they don't have a single\Nmemory of your days as crewmates!
+Dialogue: 0,0:05:32.64,0:05:37.06,Default,,0000,0000,0000,,Occasionally fresh zombies retain\Nsome of the shadow's feelings,
+Dialogue: 0,0:05:37.06,0:05:40.06,Default,,0000,0000,0000,,but these shadows have\Nfully settled into their bodies.
+Dialogue: 0,0:05:40.69,0:05:43.03,Default,,0000,0000,0000,,They've completely lost their human hearts.
+Dialogue: 0,0:05:43.03,0:05:46.70,Default,,0000,0000,0000,,They've become zombies that\Nwill obey my every command!
+Dialogue: 0,0:05:48.41,0:05:52.45,Default,,0000,0000,0000,,As far as zombies are concerned,\Ntheir orders are absolute!
+Dialogue: 0,0:05:54.45,0:05:58.79,Default,,0000,0000,0000,,I'm actually happy... to see that\Nyou're rotten to the core, Hogback!
+Dialogue: 0,0:06:01.88,0:06:05.42,Default,,0000,0000,0000,,In all actuality, you have \Nsaved countless lives.
+Dialogue: 0,0:06:05.42,0:06:07.30,Default,,0000,0000,0000,,I really did respect you as a doctor.
+Dialogue: 0,0:06:09.59,0:06:11.62,Default,,0000,0000,0000,,The same goes for your zombie research.
+Dialogue: 0,0:06:12.35,0:06:15.47,Default,,0000,0000,0000,,Death can come suddenly...
+Dialogue: 0,0:06:15.93,0:06:19.04,Default,,0000,0000,0000,,I'm sure there are a lot \Nof things the deceased
+Dialogue: 0,0:06:19.48,0:06:22.07,Default,,0000,0000,0000,,and those they left behind\Nnever got a chance to say.
+Dialogue: 0,0:06:22.77,0:06:25.79,Default,,0000,0000,0000,,I'm not asking for years. If they\Ncould have just a few minutes!
+Dialogue: 0,0:06:26.44,0:06:29.84,Default,,0000,0000,0000,,If there was a way to bring back the dead...
+Dialogue: 0,0:06:30.45,0:06:34.23,Default,,0000,0000,0000,,...even if people cast stones,\Ncalling it "evil medicine"...
+Dialogue: 0,0:06:35.45,0:06:37.79,Default,,0000,0000,0000,,...it would mean the world to those it saved!
+Dialogue: 0,0:06:41.50,0:06:46.09,Default,,0000,0000,0000,,So when you said that you were\Nresearching how to "resurrect the dead,"
+Dialogue: 0,0:06:46.83,0:06:48.92,Default,,0000,0000,0000,,I thought that you truly\Nwere an amazing doctor.
+Dialogue: 0,0:06:53.72,0:06:56.93,Default,,0000,0000,0000,,Fool! Why would I go to\Nsuch lengths for others?
+Dialogue: 0,0:06:57.81,0:07:01.52,Default,,0000,0000,0000,,You said that you respected how I used\Nto save lives, but it was the same deal!
+Dialogue: 0,0:07:02.81,0:07:04.77,Default,,0000,0000,0000,,I was simply a genius!
+Dialogue: 0,0:07:05.56,0:07:07.23,Default,,0000,0000,0000,,I conducted operations for money,
+Dialogue: 0,0:07:08.07,0:07:09.98,Default,,0000,0000,0000,,but there was no stopping\Nthe unwanted flood of patients
+Dialogue: 0,0:07:09.98,0:07:13.62,Default,,0000,0000,0000,,that came from around \Nthe world for treatment!
+Dialogue: 0,0:07:13.99,0:07:15.49,Default,,0000,0000,0000,,"Save my dad!"
+Dialogue: 0,0:07:15.49,0:07:16.79,Default,,0000,0000,0000,,"Save my child!"
+Dialogue: 0,0:07:16.79,0:07:18.33,Default,,0000,0000,0000,,"Save my beloved!"
+Dialogue: 0,0:07:18.33,0:07:21.17,Default,,0000,0000,0000,,It got old!
+Dialogue: 0,0:07:21.83,0:07:23.17,Default,,0000,0000,0000,,It was a pain!
+Dialogue: 0,0:07:25.04,0:07:29.09,Default,,0000,0000,0000,,The run-of-the-mill quack\Ncouldn't save them, but I could.
+Dialogue: 0,0:07:30.17,0:07:32.63,Default,,0000,0000,0000,,Can you understand the hardships of a genius?
+Dialogue: 0,0:07:33.51,0:07:36.56,Default,,0000,0000,0000,,You're free to respect me if you want.
+Dialogue: 0,0:07:36.56,0:07:38.85,Default,,0000,0000,0000,,But your disappointment is uncalled for.
+Dialogue: 0,0:07:38.85,0:07:42.65,Default,,0000,0000,0000,,If you can't forgive me as a doctor\Nbecause I don't match your ideals,
+Dialogue: 0,0:07:43.23,0:07:45.56,Default,,0000,0000,0000,,then you never understood me\Nto begin with, stupid reindeer!
+Dialogue: 0,0:07:46.36,0:07:49.44,Default,,0000,0000,0000,,Are you going to start\Nlecturing me on medical ethics?!
+Dialogue: 0,0:07:49.57,0:07:51.49,Default,,0000,0000,0000,,I wouldn't dream of it!
+Dialogue: 0,0:07:51.95,0:07:54.66,Default,,0000,0000,0000,,I don't consider you a doctor!
+Dialogue: 0,0:07:54.87,0:07:55.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:56.16,0:07:58.33,Default,,0000,0000,0000,,The same goes for these zombies.
+Dialogue: 0,0:07:58.87,0:08:01.71,Default,,0000,0000,0000,,All you've done is reanimate the dead.
+Dialogue: 0,0:08:01.71,0:08:03.40,Default,,0000,0000,0000,,They aren't alive!
+Dialogue: 0,0:08:04.50,0:08:06.33,Default,,0000,0000,0000,,Don't take life so lightly!
+Dialogue: 0,0:08:09.63,0:08:11.88,Default,,0000,0000,0000,,You can be rather cruel.
+Dialogue: 0,0:08:11.88,0:08:15.59,Default,,0000,0000,0000,,They're moving right before your very eyes,\Nand you think they aren't alive?
+Dialogue: 0,0:08:15.59,0:08:16.93,Default,,0000,0000,0000,,Yeah, you heard me!
+Dialogue: 0,0:08:18.18,0:08:25.27,Default,,0000,0000,0000,,Dr. Chopper, the "dead" are being given\Na second shot at life. It's a miracle!
+Dialogue: 0,0:08:28.07,0:08:30.82,Default,,0000,0000,0000,,Why would you want to reject these lives?
+Dialogue: 0,0:08:31.03,0:08:32.15,Default,,0000,0000,0000,,Behold!
+Dialogue: 0,0:08:38.96,0:08:39.95,Default,,0000,0000,0000,,Don't move.
+Dialogue: 0,0:08:44.67,0:08:47.58,Default,,0000,0000,0000,,Now start licking the floor, Cindry.
+Dialogue: 0,0:08:48.84,0:08:50.92,Default,,0000,0000,0000,,Okay, Hogback-sama.
+Dialogue: 0,0:09:14.53,0:09:18.12,Default,,0000,0000,0000,,Didn't you see that room, Dr. Chopper?
+Dialogue: 0,0:09:30.85,0:09:32.63,Default,,0000,0000,0000,,That is my room.
+Dialogue: 0,0:09:33.59,0:09:37.86,Default,,0000,0000,0000,,The numerous photos were of the stage\Nactress Victoria Cindry before she died.
+Dialogue: 0,0:09:38.47,0:09:41.40,Default,,0000,0000,0000,,I had been in love with \Nher for a very long time.
+Dialogue: 0,0:09:43.10,0:09:48.27,Default,,0000,0000,0000,,I wasn't the only one. Her beauty had\Ncharmed men from across the country.
+Dialogue: 0,0:09:59.37,0:10:00.12,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:10:02.33,0:10:04.16,Default,,0000,0000,0000,,You're all set, Doctor.
+Dialogue: 0,0:10:04.45,0:10:08.45,Default,,0000,0000,0000,,S-S-Sorry! I shouldn't make a\Npatient sew a button back on.
+Dialogue: 0,0:10:11.25,0:10:12.29,Default,,0000,0000,0000,,It's all right.
+Dialogue: 0,0:10:18.47,0:10:21.85,Default,,0000,0000,0000,,Thanks to you, I'll be \Nable to go back on stage.
+Dialogue: 0,0:10:24.68,0:10:25.85,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:10:27.10,0:10:29.56,Default,,0000,0000,0000,,Father! Mother! Sorry to \Nhave kept you waiting.
+Dialogue: 0,0:10:30.10,0:10:31.73,Default,,0000,0000,0000,,Uh, excuse me...
+Dialogue: 0,0:10:35.69,0:10:37.99,Default,,0000,0000,0000,,Despite her popularity, \Nshe was down to earth.
+Dialogue: 0,0:10:37.99,0:10:39.36,Default,,0000,0000,0000,,She was close to her family...
+Dialogue: 0,0:10:44.45,0:10:48.00,Default,,0000,0000,0000,,She was kind to everyone...\NA truly wonderful woman.
+Dialogue: 0,0:10:50.83,0:10:52.88,Default,,0000,0000,0000,,But that woman...
+Dialogue: 0,0:11:12.23,0:11:14.94,Default,,0000,0000,0000,,...rejected my proposal, \Nwhen my renown as a doctor
+Dialogue: 0,0:11:14.94,0:11:16.79,Default,,0000,0000,0000,,had let me obtain anything I wanted.
+Dialogue: 0,0:11:18.57,0:11:20.74,Default,,0000,0000,0000,,She already had a fiancé.
+Dialogue: 0,0:11:22.95,0:11:29.00,Default,,0000,0000,0000,,And shortly thereafter, I caught wind\Nof some news that left me dumbfounded.
+Dialogue: 0,0:11:29.41,0:11:32.13,Default,,0000,0000,0000,,Cindry had died in an accident.
+Dialogue: 0,0:11:34.08,0:11:36.46,Default,,0000,0000,0000,,I felt drained.
+Dialogue: 0,0:11:37.09,0:11:39.42,Default,,0000,0000,0000,,I ultimately abandoned my work.
+Dialogue: 0,0:11:39.84,0:11:44.05,Default,,0000,0000,0000,,That is when he came.\NA giant man appeared before me.
+Dialogue: 0,0:11:44.51,0:11:47.40,Default,,0000,0000,0000,,It was my master, Gecko Moria!
+Dialogue: 0,0:11:48.52,0:11:52.22,Default,,0000,0000,0000,,Dr. Hogback, lend me a hand!
+Dialogue: 0,0:12:03.74,0:12:06.99,Default,,0000,0000,0000,,And I boarded this ship under the condition
+Dialogue: 0,0:12:06.99,0:12:12.86,Default,,0000,0000,0000,,that he would use his miraculous\Nability to resurrect Cindry!
+Dialogue: 0,0:12:56.75,0:12:59.25,Default,,0000,0000,0000,,I stole her body...
+Dialogue: 0,0:13:02.76,0:13:06.97,Default,,0000,0000,0000,,It was so easy to obtain the actress,\NCindry, and bend her to my will!
+Dialogue: 0,0:13:22.90,0:13:24.40,Default,,0000,0000,0000,,Cindry-chan!
+Dialogue: 0,0:13:30.83,0:13:33.04,Default,,0000,0000,0000,,I wish plates would cease to exist.
+Dialogue: 0,0:13:33.04,0:13:34.35,Default,,0000,0000,0000,,Plates?!
+Dialogue: 0,0:13:37.62,0:13:41.36,Default,,0000,0000,0000,,The personality of the woman who had\Nspurned me was of little consequence.
+Dialogue: 0,0:13:42.05,0:13:44.17,Default,,0000,0000,0000,,As long as she retained her beauty...
+Dialogue: 0,0:13:45.42,0:13:48.21,Default,,0000,0000,0000,,That is the zombie, Cindry-chan!
+Dialogue: 0,0:13:48.68,0:13:51.60,Default,,0000,0000,0000,,Of course I'm thrilled,\Nbut I'm sure she is as well!
+Dialogue: 0,0:13:52.14,0:13:56.19,Default,,0000,0000,0000,,She gets to live in this \Nworld as a human again.
+Dialogue: 0,0:14:07.40,0:14:09.74,Default,,0000,0000,0000,,How could you call her a human?
+Dialogue: 0,0:14:10.41,0:14:12.58,Default,,0000,0000,0000,,Make her stop licking the floor!
+Dialogue: 0,0:14:21.42,0:14:26.09,Default,,0000,0000,0000,,When a human's heart isn't linked\Nto her body, she is no longer human!
+Dialogue: 0,0:14:26.80,0:14:28.84,Default,,0000,0000,0000,,By using corpses that can't\Nstick up for themselves,
+Dialogue: 0,0:14:29.30,0:14:32.43,Default,,0000,0000,0000,,you're creating nothing but monsters!
+Dialogue: 0,0:14:32.43,0:14:34.60,Default,,0000,0000,0000,,For every zombie you create,\Nyou're making a person miserable!
+Dialogue: 0,0:14:35.27,0:14:38.52,Default,,0000,0000,0000,,I figured that out, which is\Nwhy I can't forgive you guys!
+Dialogue: 0,0:14:46.44,0:14:50.99,Default,,0000,0000,0000,,Don't lecture me on life when you're\Na mediocre doctor, pirate reindeer!
+Dialogue: 0,0:14:53.16,0:14:55.62,Default,,0000,0000,0000,,Cindry-chan, finish those two off!
+Dialogue: 0,0:14:56.54,0:14:57.45,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:03.13,0:15:05.09,Default,,0000,0000,0000,,I'm going to turn you guys into marios!
+Dialogue: 0,0:15:05.80,0:15:09.34,Default,,0000,0000,0000,,Rejoice, Dr. Chopper! Once you are dead,
+Dialogue: 0,0:15:09.55,0:15:13.47,Default,,0000,0000,0000,,I will make you my assistant,\Nsince you admire me so much.
+Dialogue: 0,0:15:17.14,0:15:18.60,Default,,0000,0000,0000,,Square Plate Blades!
+Dialogue: 0,0:15:22.19,0:15:24.68,Default,,0000,0000,0000,,One! Two! Three!
+Dialogue: 0,0:15:33.07,0:15:34.33,Default,,0000,0000,0000,,Stop it...!
+Dialogue: 0,0:15:35.03,0:15:35.92,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:15:43.75,0:15:44.94,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:16:15.28,0:16:17.79,Default,,0000,0000,0000,,Don't underestimate her\Njust because she's a woman!
+Dialogue: 0,0:16:17.79,0:16:20.87,Default,,0000,0000,0000,,I've enhanced her muscles for combat.
+Dialogue: 0,0:16:22.58,0:16:26.79,Default,,0000,0000,0000,,You don't have to listen to\Nthat monster! Ow, ow, ow...
+Dialogue: 0,0:16:27.04,0:16:27.88,Default,,0000,0000,0000,,I will kill you!
+Dialogue: 0,0:16:32.84,0:16:36.39,Default,,0000,0000,0000,,You poor thing! And here you're already dead.
+Dialogue: 0,0:16:36.39,0:16:39.10,Default,,0000,0000,0000,,How would the family you left behind\Nfeel if they knew about this?
+Dialogue: 0,0:16:39.77,0:16:41.56,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:16:41.73,0:16:43.64,Default,,0000,0000,0000,,If your family saw you covered in stitches
+Dialogue: 0,0:16:43.64,0:16:46.06,Default,,0000,0000,0000,,and being used as an expendable soldier,
+Dialogue: 0,0:16:46.06,0:16:47.40,Default,,0000,0000,0000,,it would tear them apart!
+Dialogue: 0,0:16:47.40,0:16:49.07,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:16:49.73,0:16:54.41,Default,,0000,0000,0000,,The heart you were born and\Nraised with is already dead,
+Dialogue: 0,0:16:54.41,0:16:56.80,Default,,0000,0000,0000,,but your body is being forced\Nto do the bidding of others.
+Dialogue: 0,0:16:57.57,0:16:59.08,Default,,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:17:02.04,0:17:04.79,Default,,0000,0000,0000,,Are you questioning your eyes? Face facts!
+Dialogue: 0,0:17:04.79,0:17:08.26,Default,,0000,0000,0000,,This is mankind's eternal dream!\NI've resurrected the dead!
+Dialogue: 0,0:17:09.29,0:17:11.01,Default,,0000,0000,0000,,The dead can come back to life!
+Dialogue: 0,0:17:14.76,0:17:16.76,Default,,0000,0000,0000,,Is the ability to move all that matters?
+Dialogue: 0,0:17:20.39,0:17:22.89,Default,,0000,0000,0000,,Humans are freer than that!
+Dialogue: 0,0:17:22.89,0:17:27.31,Default,,0000,0000,0000,,You're the one who treats them\Nlike they aren't humans!
+Dialogue: 0,0:17:44.29,0:17:45.96,Default,,0000,0000,0000,,Robin, hurry and feed her salt!
+Dialogue: 0,0:17:46.50,0:17:47.46,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:51.34,0:17:54.67,Default,,0000,0000,0000,,Dogguin! Jigoro! Help Cindry out!
+Dialogue: 0,0:17:54.67,0:17:56.38,Default,,0000,0000,0000,,Take out the pests!
+Dialogue: 0,0:18:06.64,0:18:08.35,Default,,0000,0000,0000,,I failed! Chopper!
+Dialogue: 0,0:18:09.02,0:18:10.53,Default,,0000,0000,0000,,Three-Sword Style...
+Dialogue: 0,0:18:11.48,0:18:13.28,Default,,0000,0000,0000,,...108-Pound Phoenix!
+Dialogue: 0,0:18:19.70,0:18:20.82,Default,,0000,0000,0000,,Stop it, Zoro!
+Dialogue: 0,0:18:26.70,0:18:28.04,Default,,0000,0000,0000,,Doce Fleurs!
+Dialogue: 0,0:18:30.75,0:18:33.75,Default,,0000,0000,0000,,Not... her again!
+Dialogue: 0,0:18:36.30,0:18:38.80,Default,,0000,0000,0000,,Take out... the pests!
+Dialogue: 0,0:18:42.43,0:18:43.97,Default,,0000,0000,0000,,--Jerk!\N--Huh?
+Dialogue: 0,0:18:46.93,0:18:52.86,Default,,0000,0000,0000,,Why did you attack me along\Nwith them?! Don't be a pest!
+Dialogue: 0,0:18:56.44,0:18:57.90,Default,,0000,0000,0000,,Now you're asking for it!
+Dialogue: 0,0:18:57.90,0:18:59.57,Default,,0000,0000,0000,,That's how I feel!
+Dialogue: 0,0:18:59.78,0:19:01.52,Default,,0000,0000,0000,,The pests are supposed to get taken outside!
+Dialogue: 0,0:19:01.52,0:19:05.13,Default,,0000,0000,0000,,Then get going! He issued that order to me!
+Dialogue: 0,0:19:06.62,0:19:07.87,Default,,0000,0000,0000,,It was meant for me!
+Dialogue: 0,0:19:07.87,0:19:09.63,Default,,0000,0000,0000,,I just said he issued it to me!
+Dialogue: 0,0:19:10.21,0:19:11.87,Default,,0000,0000,0000,,Jerk!
+Dialogue: 0,0:19:14.71,0:19:17.30,Default,,0000,0000,0000,,Hey! What are you two doing?
+Dialogue: 0,0:19:22.51,0:19:25.10,Default,,0000,0000,0000,,Hey, knock it off! You \Nneed to actually work--
+Dialogue: 0,0:19:25.26,0:19:26.47,Default,,0000,0000,0000,,--Robin!\N--On it!
+Dialogue: 0,0:19:33.56,0:19:35.23,Default,,0000,0000,0000,,Isn't this turning out to be fascinating?
+Dialogue: 0,0:19:38.11,0:19:40.90,Default,,0000,0000,0000,,You ordered them to "take out the pests."
+Dialogue: 0,0:19:41.57,0:19:45.58,Default,,0000,0000,0000,,They are obediently trying to\Nobey that order even as I speak.
+Dialogue: 0,0:19:45.87,0:19:49.42,Default,,0000,0000,0000,,I wonder what would happen\Nif you didn't issue a new order.
+Dialogue: 0,0:20:02.30,0:20:07.38,Default,,0000,0000,0000,,Even without their memories,\Nthose two are still like water and oil...
+Dialogue: 0,0:20:07.93,0:20:08.97,Default,,0000,0000,0000,,Unbelievable.
+Dialogue: 0,0:20:20.94,0:20:22.64,Default,,0000,0000,0000,,Isn't this a rather tall tower?
+Dialogue: 0,0:20:22.64,0:20:23.32,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:24.11,0:20:27.72,Default,,0000,0000,0000,,Why don't you order the two\Nof us to jump out the window?
+Dialogue: 0,0:20:28.12,0:20:28.79,Default,,0000,0000,0000,,Robin...?
+Dialogue: 0,0:20:30.20,0:20:32.29,Default,,0000,0000,0000,,What's gotten into you?
+Dialogue: 0,0:20:32.96,0:20:35.50,Default,,0000,0000,0000,,I'll say that as many times as you like!
+Dialogue: 0,0:20:36.71,0:20:40.96,Default,,0000,0000,0000,,Jump! Jump! I want you to\Njump out the window together!
+Dialogue: 0,0:20:45.14,0:20:46.62,Default,,0000,0000,0000,,--Sure.\N--Huh?
+Dialogue: 0,0:20:49.81,0:20:51.77,Default,,0000,0000,0000,,No, not you! Wait!
+Dialogue: 0,0:20:52.18,0:20:54.99,Default,,0000,0000,0000,,Run faster! He wants us to jump out together.
+Dialogue: 0,0:20:54.99,0:20:56.61,Default,,0000,0000,0000,,Don't tell me what to do!
+Dialogue: 0,0:21:09.99,0:21:11.42,Default,,0000,0000,0000,,We don't want to.
+Dialogue: 0,0:21:14.42,0:21:16.58,Default,,0000,0000,0000,,I won't forget this!
+Dialogue: 0,0:21:16.67,0:21:21.30,Default,,0000,0000,0000,,You tricked me! You're horrible!\NYou're the scum of all mankind!
+Dialogue: 0,0:21:22.38,0:21:27.05,Default,,0000,0000,0000,,Luffy will purify all of the\Nzombies when he defeats Moria.
+Dialogue: 0,0:21:27.05,0:21:30.46,Default,,0000,0000,0000,,You're the one I want to throttle, Hogback!
+Dialogue: 0,0:21:31.02,0:21:35.52,Default,,0000,0000,0000,,C-C-Cindry! Buy me some time!\NI'm gonna run for the hills!
+Dialogue: 0,0:21:36.31,0:21:39.52,Default,,0000,0000,0000,,Where is my answer? I'll give you\Nanother shadow if they take you out.
+Dialogue: 0,0:21:39.52,0:21:40.98,Default,,0000,0000,0000,,Don't worry about dying!
+Dialogue: 0,0:22:14.93,0:22:16.01,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:22:20.31,0:22:21.54,Default,,0000,0000,0000,,I cannot...
+Dialogue: 0,0:22:22.75,0:22:24.15,Default,,0000,0000,0000,,move.
+Dialogue: 0,0:22:24.78,0:22:26.36,Default,,0000,0000,0000,,C-Cindry!
+Dialogue: 0,0:23:00.56,0:23:02.41,Default,,0000,0000,0000,,He's here! He's here!
+Dialogue: 0,0:23:11.53,0:23:15.08,Default,,0000,0000,0000,,Well, now you get to meet him...
+Dialogue: 0,0:23:17.08,0:23:19.08,Default,,0000,0000,0000,,...Straw Hat.
+Dialogue: 0,0:23:25.30,0:23:27.54,Default,,0000,0000,0000,,He's huge! This is my shadow?
+Dialogue: 0,0:23:29.76,0:23:32.59,Default,,0000,0000,0000,,So he has finally decided to submit to me!
+Dialogue: 0,0:23:32.76,0:23:35.89,Default,,0000,0000,0000,,Tell me: Who is your master?
+Dialogue: 0,0:23:36.14,0:23:40.31,Default,,0000,0000,0000,,My master is Moria-sama.
+Dialogue: 0,0:23:40.48,0:23:41.94,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.94,0:23:44.94,Default,,0000,0000,0000,,"Oars Roars! Come Out, Straw Hat Crew!"
+Dialogue: 0,0:23:44.94,0:23:47.02,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.02,0:23:49.02,Default,,0000,0000,0000,,

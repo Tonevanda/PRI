@@ -1,0 +1,266 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.38,0:00:20.61,Default,,0000,0000,0000,,Did you know there's an awesome\Ntreasure at the end of this sea?!
+Dialogue: 0,0:00:20.61,0:00:25.18,Default,,0000,0000,0000,,And whoever gets it can be King\Nof the Pirates! Isn't that exciting?!
+Dialogue: 0,0:00:25.18,0:00:28.39,Default,,0000,0000,0000,,Unheard-of adventures are waiting!
+Dialogue: 0,0:00:30.39,0:00:38.26,Default,,0000,0000,0000,,Bon voyage! Let that shred of courage grow
+Dialogue: 0,0:00:38.26,0:00:45.90,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:00:45.90,0:00:53.68,Default,,0000,0000,0000,,The horizons everyone\Ndreamed of were separate at first
+Dialogue: 0,0:00:53.68,0:01:00.82,Default,,0000,0000,0000,,but now they can be seen\Nthrough a single telescope
+Dialogue: 0,0:01:00.82,0:01:10.16,Default,,0000,0000,0000,,A bitter compass of destiny\Nis leading your heart astray
+Dialogue: 0,0:01:10.16,0:01:13.06,Default,,0000,0000,0000,,so turn the wheel in the other direction!
+Dialogue: 0,0:01:13.06,0:01:15.13,Default,,0000,0000,0000,,Bon voyage!
+Dialogue: 0,0:01:15.13,0:01:20.37,Default,,0000,0000,0000,,Toss aside your bonds and your past
+Dialogue: 0,0:01:20.37,0:01:27.38,Default,,0000,0000,0000,,We can surely smile despite that
+Dialogue: 0,0:01:27.38,0:01:36.86,Default,,0000,0000,0000,,Tears shed trying to achieve\Nyour dreams aren't for naught
+Dialogue: 0,0:01:36.86,0:01:42.26,Default,,0000,0000,0000,,Precious in my life
+Dialogue: 0,0:01:42.26,0:01:50.04,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:01:51.54,0:01:55.31,Default,,0000,0000,0000,,Another warrior has perished...
+Dialogue: 0,0:01:55.31,0:01:58.78,Default,,0000,0000,0000,,And then there was that earthquake... Damn it!
+Dialogue: 0,0:02:02.98,0:02:05.42,Default,,0000,0000,0000,,You're the evil spirits!
+Dialogue: 0,0:02:05.42,0:02:08.85,Default,,0000,0000,0000,,--We're going to deal with you right now!\N--T-This wasn't the agreement! Stop!
+Dialogue: 0,0:02:08.85,0:02:10.79,Default,,0000,0000,0000,,--Stop!\N--Look out!
+Dialogue: 0,0:02:17.00,0:02:20.80,Default,,0000,0000,0000,,--Seto! Move aside!\N--What's the meaning of this?!
+Dialogue: 0,0:02:20.80,0:02:24.40,Default,,0000,0000,0000,,The Shandoran warriors\NI know and look up to...
+Dialogue: 0,0:02:24.40,0:02:27.54,Default,,0000,0000,0000,,...have much more pride than this!
+Dialogue: 0,0:02:27.54,0:02:29.21,Default,,0000,0000,0000,,Kid...
+Dialogue: 0,0:02:32.14,0:02:36.88,Default,,0000,0000,0000,,"Free from the Spell!\NThe Great Warrior Sheds Tears!!"
+Dialogue: 0,0:02:38.92,0:02:44.02,Default,,0000,0000,0000,,When this sun lowers in the\Nwest and sinks once again...
+Dialogue: 0,0:02:46.19,0:02:51.50,Default,,0000,0000,0000,,...your men's lives will be offered to the gods!
+Dialogue: 0,0:02:58.60,0:03:00.81,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:03:04.81,0:03:08.91,Default,,0000,0000,0000,,The earth certainly swallowed you skillfully!
+Dialogue: 0,0:03:08.91,0:03:13.79,Default,,0000,0000,0000,,Truly an act of god! The fact that\Nyou're alive is what's hardest to believe!
+Dialogue: 0,0:03:24.50,0:03:26.53,Default,,0000,0000,0000,,The entire ground?!
+Dialogue: 0,0:03:40.98,0:03:45.18,Default,,0000,0000,0000,,Prepare for the ceremony!\NTake every last sacrifice to the altar!
+Dialogue: 0,0:03:45.18,0:03:46.92,Default,,0000,0000,0000,,Hey, wait a little longer!
+Dialogue: 0,0:03:46.92,0:03:50.99,Default,,0000,0000,0000,,The commodore'll be back!\NJust two more hours! No, one! Please!
+Dialogue: 0,0:03:50.99,0:03:53.59,Default,,0000,0000,0000,,Why do we have to be burned at the stake?!
+Dialogue: 0,0:03:55.33,0:03:59.20,Default,,0000,0000,0000,,The sun is setting. The ceremony\Nshould be starting soon.
+Dialogue: 0,0:04:00.97,0:04:08.41,Default,,0000,0000,0000,,How unsightly! Is this the wreck\Nof a man who defied the gods?
+Dialogue: 0,0:04:08.41,0:04:11.48,Default,,0000,0000,0000,,What are you so afraid of?
+Dialogue: 0,0:04:11.48,0:04:12.78,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:12.78,0:04:15.58,Default,,0000,0000,0000,,You tremble before intangible fears
+Dialogue: 0,0:04:15.58,0:04:18.75,Default,,0000,0000,0000,,and give up people's lives\Nfor false consolation!
+Dialogue: 0,0:04:18.75,0:04:20.79,Default,,0000,0000,0000,,False consolation?!
+Dialogue: 0,0:04:20.79,0:04:24.46,Default,,0000,0000,0000,,Your sacrifices are nothing\Nbut pointless deaths!
+Dialogue: 0,0:04:29.43,0:04:34.27,Default,,0000,0000,0000,,We have lived this way for centuries now!
+Dialogue: 0,0:04:34.27,0:04:36.87,Default,,0000,0000,0000,,That doesn't mean it's right!
+Dialogue: 0,0:04:36.87,0:04:40.71,Default,,0000,0000,0000,,Silence, outsider!
+Dialogue: 0,0:04:42.14,0:04:45.68,Default,,0000,0000,0000,,However great your gods may be,
+Dialogue: 0,0:04:45.68,0:04:48.98,Default,,0000,0000,0000,,people's lives are even more precious!
+Dialogue: 0,0:04:51.42,0:04:53.72,Default,,0000,0000,0000,,Take the sacrifices to the altar!
+Dialogue: 0,0:04:53.72,0:04:56.99,Default,,0000,0000,0000,,Burn them at the stake and\Nsend them into the heavens!
+Dialogue: 0,0:05:02.26,0:05:06.63,Default,,0000,0000,0000,,--Commodore!\N--We're gonna be set on fire!
+Dialogue: 0,0:05:09.00,0:05:13.77,Default,,0000,0000,0000,,You can send an innocent girl to her death...
+Dialogue: 0,0:05:13.77,0:05:17.98,Default,,0000,0000,0000,,...and have no qualms about it,\Nso I doubt you'd understand!
+Dialogue: 0,0:05:17.98,0:05:21.78,Default,,0000,0000,0000,,What you're doing is less than human!
+Dialogue: 0,0:05:24.62,0:05:27.12,Default,,0000,0000,0000,,No qualms, you say?!
+Dialogue: 0,0:05:29.32,0:05:31.56,Default,,0000,0000,0000,,The girl yesterday...
+Dialogue: 0,0:05:32.99,0:05:36.83,Default,,0000,0000,0000,,...was my daughter!
+Dialogue: 0,0:05:36.83,0:05:41.73,Default,,0000,0000,0000,,You would tell your own\Ndaughter to end her life?!
+Dialogue: 0,0:05:41.73,0:05:46.77,Default,,0000,0000,0000,,It's you people who don't\Nunderstand how much power there is
+Dialogue: 0,0:05:46.77,0:05:49.84,Default,,0000,0000,0000,,in the words our priests hear from the gods!
+Dialogue: 0,0:05:49.84,0:05:52.84,Default,,0000,0000,0000,,Our village is commanded to obey!
+Dialogue: 0,0:05:52.84,0:05:56.55,Default,,0000,0000,0000,,We can't beg for our children's lives!
+Dialogue: 0,0:06:03.42,0:06:08.06,Default,,0000,0000,0000,,It's one size smaller... It must\Nbe the Kashi God's child!
+Dialogue: 0,0:06:08.06,0:06:12.10,Default,,0000,0000,0000,,The gods' blood has come\Nto pass judgment on you!
+Dialogue: 0,0:06:12.10,0:06:14.40,Default,,0000,0000,0000,,Judgment, my ass!
+Dialogue: 0,0:06:16.07,0:06:21.41,Default,,0000,0000,0000,,Sixty years ago, my own land\Nlost hundreds of thousands of lives
+Dialogue: 0,0:06:21.41,0:06:26.41,Default,,0000,0000,0000,,to the Kinetsu plague that\Nis ravaging your village now!
+Dialogue: 0,0:06:26.41,0:06:31.72,Default,,0000,0000,0000,,But, in recent years, there've been\Nabsolutely no deaths to this disease!
+Dialogue: 0,0:06:31.72,0:06:33.99,Default,,0000,0000,0000,,Do you know why?!
+Dialogue: 0,0:06:34.99,0:06:39.19,Default,,0000,0000,0000,,Because we discovered a cure for it!
+Dialogue: 0,0:06:39.19,0:06:43.39,Default,,0000,0000,0000,,What I'm holding in my right\Nhand is the bark of a Cona tree!
+Dialogue: 0,0:06:43.39,0:06:48.00,Default,,0000,0000,0000,,The Conine I can extract from it is the cure!
+Dialogue: 0,0:06:48.00,0:06:52.14,Default,,0000,0000,0000,,If I return with this, I can save the village!
+Dialogue: 0,0:06:56.14,0:07:00.31,Default,,0000,0000,0000,,Do you know how many man-hours\Nhave been spent around the world,
+Dialogue: 0,0:07:00.31,0:07:05.05,Default,,0000,0000,0000,,and how many victims there have been?!
+Dialogue: 0,0:07:05.05,0:07:10.22,Default,,0000,0000,0000,,And you people are trampling\Nall over this great advancement!
+Dialogue: 0,0:07:10.22,0:07:18.16,Default,,0000,0000,0000,,That's why I say your "ceremonies"\Nare insults to those people!
+Dialogue: 0,0:07:18.16,0:07:24.24,Default,,0000,0000,0000,,Will I die in judgment, or in an accident?!
+Dialogue: 0,0:07:24.24,0:07:29.17,Default,,0000,0000,0000,,Will your village die by curse, or by disease?!
+Dialogue: 0,0:07:29.17,0:07:34.11,Default,,0000,0000,0000,,Are you that afraid of gods?!
+Dialogue: 0,0:07:35.51,0:07:39.55,Default,,0000,0000,0000,,I do know when a man is\Nspeaking earnest words...
+Dialogue: 0,0:07:42.59,0:07:44.79,Default,,0000,0000,0000,,Answer me.
+Dialogue: 0,0:07:46.76,0:07:50.40,Default,,0000,0000,0000,,What did I just kill?!
+Dialogue: 0,0:07:52.93,0:07:55.37,Default,,0000,0000,0000,,--A snake.\N--No!
+Dialogue: 0,0:07:55.37,0:08:00.24,Default,,0000,0000,0000,,I just broke our\Ncommandments and killed a god!
+Dialogue: 0,0:08:00.24,0:08:07.98,Default,,0000,0000,0000,,But you call it a snake, and our\Ndeadly curse a curable disease!
+Dialogue: 0,0:08:11.95,0:08:17.52,Default,,0000,0000,0000,,Will you really save my beloved village?!
+Dialogue: 0,0:08:17.52,0:08:20.26,Default,,0000,0000,0000,,Can you save it?!
+Dialogue: 0,0:08:21.56,0:08:23.19,Default,,0000,0000,0000,,I can!
+Dialogue: 0,0:09:36.80,0:09:39.04,Default,,0000,0000,0000,,A-A snake!
+Dialogue: 0,0:09:39.04,0:09:40.54,Default,,0000,0000,0000,,Is this...?
+Dialogue: 0,0:09:40.54,0:09:43.24,Default,,0000,0000,0000,,Hey, Calgara! Look at this!
+Dialogue: 0,0:09:44.38,0:09:49.18,Default,,0000,0000,0000,,What a shock! I didn't know\Nthat snake had a grandchild...
+Dialogue: 0,0:09:49.18,0:09:51.12,Default,,0000,0000,0000,,"That snake"?
+Dialogue: 0,0:09:53.02,0:09:54.75,Default,,0000,0000,0000,,A snake, huh?
+Dialogue: 0,0:09:58.32,0:10:01.29,Default,,0000,0000,0000,,Those two make no sense...
+Dialogue: 0,0:10:01.29,0:10:04.60,Default,,0000,0000,0000,,They were trying to kill each\Nother until just recently...
+Dialogue: 0,0:10:04.60,0:10:07.03,Default,,0000,0000,0000,,Now, they're such good friends!
+Dialogue: 0,0:10:07.03,0:10:11.70,Default,,0000,0000,0000,,Calgara is never very friendly\Nwith any of the villagers, either.
+Dialogue: 0,0:10:11.70,0:10:14.41,Default,,0000,0000,0000,,I've never seen him smile like that before...
+Dialogue: 0,0:10:16.34,0:10:19.34,Default,,0000,0000,0000,,Just follow me.
+Dialogue: 0,0:10:19.34,0:10:21.45,Default,,0000,0000,0000,,We climb down here.
+Dialogue: 0,0:10:21.45,0:10:23.18,Default,,0000,0000,0000,,Climb down?
+Dialogue: 0,0:10:34.09,0:10:36.96,Default,,0000,0000,0000,,This ringing...
+Dialogue: 0,0:10:36.96,0:10:40.43,Default,,0000,0000,0000,,Hey, Calgara! Where is this\Nbeautiful ringing coming from?!
+Dialogue: 0,0:10:40.43,0:10:42.97,Default,,0000,0000,0000,,Follow me and you'll see.
+Dialogue: 0,0:11:28.51,0:11:30.48,Default,,0000,0000,0000,,They're here!
+Dialogue: 0,0:11:30.48,0:11:32.32,Default,,0000,0000,0000,,Lost for words?
+Dialogue: 0,0:11:32.32,0:11:37.89,Default,,0000,0000,0000,,This is Shandora, a city of gold.\NWe are its survivors!
+Dialogue: 0,0:11:37.89,0:11:40.83,Default,,0000,0000,0000,,A city of gold...
+Dialogue: 0,0:11:40.83,0:11:43.26,Default,,0000,0000,0000,,It's like I'm dreaming!
+Dialogue: 0,0:11:58.34,0:12:05.22,Default,,0000,0000,0000,,W-Whoa! It's gold everywhere!\NIt's a city of treasure!
+Dialogue: 0,0:12:05.22,0:12:08.89,Default,,0000,0000,0000,,Hey, guys! Stop!
+Dialogue: 0,0:12:08.89,0:12:10.12,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:12:10.12,0:12:15.26,Default,,0000,0000,0000,,Load your ship with all the treasure\Nyou can, aside from the gold bell!
+Dialogue: 0,0:12:16.59,0:12:21.17,Default,,0000,0000,0000,,Seto! Show them where the treasure is!
+Dialogue: 0,0:12:21.17,0:12:24.60,Default,,0000,0000,0000,,--Right!\N--Are you sure this is okay?
+Dialogue: 0,0:12:24.60,0:12:27.24,Default,,0000,0000,0000,,The villagers already agreed to it.
+Dialogue: 0,0:12:27.24,0:12:31.98,Default,,0000,0000,0000,,We owe you for saving our tribe\Nfrom that terrible disease.
+Dialogue: 0,0:12:31.98,0:12:34.15,Default,,0000,0000,0000,,This is nothing at all.
+Dialogue: 0,0:12:34.15,0:12:35.95,Default,,0000,0000,0000,,You're so generous, Great Warrior!
+Dialogue: 0,0:12:35.95,0:12:40.79,Default,,0000,0000,0000,,But haven't your people been\Nprotecting the city all this time?
+Dialogue: 0,0:12:40.79,0:12:50.09,Default,,0000,0000,0000,,Yes. We've protected the city...\Nbut not necessarily its treasure!
+Dialogue: 0,0:12:50.09,0:12:52.56,Default,,0000,0000,0000,,To be more specific...
+Dialogue: 0,0:13:00.40,0:13:02.34,Default,,0000,0000,0000,,...only this stone.
+Dialogue: 0,0:13:04.74,0:13:09.08,Default,,0000,0000,0000,,What is this? Writing?
+Dialogue: 0,0:13:09.08,0:13:13.92,Default,,0000,0000,0000,,Writings of history.\NIt's known as a "Poneglyph."
+Dialogue: 0,0:13:13.92,0:13:16.55,Default,,0000,0000,0000,,We can't read it, either.
+Dialogue: 0,0:13:16.55,0:13:20.93,Default,,0000,0000,0000,,You mean your ancestors didn't write this?
+Dialogue: 0,0:13:22.89,0:13:27.13,Default,,0000,0000,0000,,All we know for certain is\Nthat this city of Shandora
+Dialogue: 0,0:13:27.13,0:13:32.10,Default,,0000,0000,0000,,fought and fell trying to protect this stone.
+Dialogue: 0,0:13:32.10,0:13:36.57,Default,,0000,0000,0000,,We must continue to protect it\Nwith that amount of resolve.
+Dialogue: 0,0:13:36.57,0:13:39.04,Default,,0000,0000,0000,,As descendants, it is our\Nduty to protect the proof
+Dialogue: 0,0:13:39.04,0:13:42.98,Default,,0000,0000,0000,,that our ancestors fought and survived.
+Dialogue: 0,0:13:45.12,0:13:49.32,Default,,0000,0000,0000,,We revere our ancestors as if they were gods.
+Dialogue: 0,0:13:49.32,0:13:55.43,Default,,0000,0000,0000,,Still, I had no idea it was this\Ngiant, gold bell I had heard...
+Dialogue: 0,0:13:57.53,0:14:00.36,Default,,0000,0000,0000,,This bell's ringing has words to it.
+Dialogue: 0,0:14:00.36,0:14:01.87,Default,,0000,0000,0000,,Words?
+Dialogue: 0,0:14:01.87,0:14:05.80,Default,,0000,0000,0000,,So that the spirits of our ancestors\Nwho were greeted by the heavens
+Dialogue: 0,0:14:05.80,0:14:10.78,Default,,0000,0000,0000,,can return to this land at\Nany time without getting lost,
+Dialogue: 0,0:14:10.78,0:14:19.18,Default,,0000,0000,0000,,we continue to ring this bell,\Nas a way to say, "We are here!"
+Dialogue: 0,0:14:19.18,0:14:24.46,Default,,0000,0000,0000,,Its sound proclaims the\Nunquestionable glory Shandora once had,
+Dialogue: 0,0:14:24.46,0:14:27.93,Default,,0000,0000,0000,,and makes its existence\Nknown to the ends of the sea!
+Dialogue: 0,0:14:27.93,0:14:32.10,Default,,0000,0000,0000,,We will never run or hide!
+Dialogue: 0,0:14:32.10,0:14:37.34,Default,,0000,0000,0000,,That's why we call this city's\Ngrand bell the "fire of Shandora."
+Dialogue: 0,0:14:37.34,0:14:40.87,Default,,0000,0000,0000,,That explains why it has\Nsuch a majestic sound!
+Dialogue: 0,0:14:40.87,0:14:43.67,Default,,0000,0000,0000,,--Do you think so?!\N--Yes!
+Dialogue: 0,0:14:45.11,0:14:49.75,Default,,0000,0000,0000,,This fire reached out to us\Nand helped us arrive here.
+Dialogue: 0,0:14:51.48,0:14:58.16,Default,,0000,0000,0000,,I heard this bell in a storm where\Nit shouldn't have been audible...
+Dialogue: 0,0:15:02.76,0:15:06.53,Default,,0000,0000,0000,,You like this bell's sound, too?
+Dialogue: 0,0:15:06.53,0:15:11.37,Default,,0000,0000,0000,,Are you going to grow up to be like\Nthat other giant snake someday?
+Dialogue: 0,0:15:15.97,0:15:19.11,Default,,0000,0000,0000,,Probably not for a hundred more years!
+Dialogue: 0,0:15:21.28,0:15:25.15,Default,,0000,0000,0000,,Hey! Stay here as long as you like, Noland!
+Dialogue: 0,0:15:25.15,0:15:30.79,Default,,0000,0000,0000,,You're the first guests here in\Nthe 400 years since Shandora fell!
+Dialogue: 0,0:15:30.79,0:15:33.12,Default,,0000,0000,0000,,I want to treat you with lavish hospitality!
+Dialogue: 0,0:15:34.43,0:15:38.90,Default,,0000,0000,0000,,I'd love that! I do want to\Ncollect plants from the forest,
+Dialogue: 0,0:15:38.90,0:15:42.03,Default,,0000,0000,0000,,and I want to see this\Nplague all the way through.
+Dialogue: 0,0:15:42.03,0:15:45.07,Default,,0000,0000,0000,,Commodore! Commodore!
+Dialogue: 0,0:15:45.07,0:15:46.97,Default,,0000,0000,0000,,Hold on, now. What's with the clothes?
+Dialogue: 0,0:15:46.97,0:15:49.04,Default,,0000,0000,0000,,Look, look! An Eternal Pose!
+Dialogue: 0,0:15:49.04,0:15:51.94,Default,,0000,0000,0000,,And a map, Commodore! A map!
+Dialogue: 0,0:15:51.94,0:15:55.78,Default,,0000,0000,0000,,We took these from intruders.
+Dialogue: 0,0:15:55.78,0:15:59.32,Default,,0000,0000,0000,,Is that a map of this island?!
+Dialogue: 0,0:15:59.32,0:16:03.49,Default,,0000,0000,0000,,Yeah. This skull shape is definitely this island.
+Dialogue: 0,0:16:03.49,0:16:08.09,Default,,0000,0000,0000,,The name "Shandora"\Nmeans "the skull's right eye,"
+Dialogue: 0,0:16:08.09,0:16:11.33,Default,,0000,0000,0000,,which refers to this city's location.
+Dialogue: 0,0:16:13.86,0:16:18.10,Default,,0000,0000,0000,,Well, take care! Be sure she gets lots of rest!
+Dialogue: 0,0:16:18.10,0:16:21.11,Default,,0000,0000,0000,,Thank you, Doctor!
+Dialogue: 0,0:16:23.11,0:16:28.11,Default,,0000,0000,0000,,Hey! Come look, everyone!\NNoland's giving us some weird crops!
+Dialogue: 0,0:16:28.11,0:16:33.12,Default,,0000,0000,0000,,I have a greenhouse on our ship,\Nwith all kinds of plant samples.
+Dialogue: 0,0:16:33.12,0:16:36.85,Default,,0000,0000,0000,,I'll leave some seeds and sprouts\Nthat are suited for your soil.
+Dialogue: 0,0:16:36.85,0:16:38.36,Default,,0000,0000,0000,,Is that any good?
+Dialogue: 0,0:16:38.36,0:16:41.99,Default,,0000,0000,0000,,Sure is! It's also full of nutrients!
+Dialogue: 0,0:17:42.05,0:17:45.92,Default,,0000,0000,0000,,All right! Let's work hard again today!
+Dialogue: 0,0:17:45.92,0:17:51.03,Default,,0000,0000,0000,,Work hard doing what?\NHaving a campfire party?!
+Dialogue: 0,0:17:57.67,0:18:02.47,Default,,0000,0000,0000,,Why?! Why would the doctor\Nand the others do this?!
+Dialogue: 0,0:18:06.91,0:18:10.55,Default,,0000,0000,0000,,Chief! Noland and the others are coming!
+Dialogue: 0,0:18:10.55,0:18:14.29,Default,,0000,0000,0000,,Listen! Do not speak of last night!
+Dialogue: 0,0:18:14.29,0:18:17.66,Default,,0000,0000,0000,,They said they are going\Nto set sail in a few days.
+Dialogue: 0,0:18:17.66,0:18:22.13,Default,,0000,0000,0000,,Do not do anything rash!
+Dialogue: 0,0:18:22.13,0:18:26.66,Default,,0000,0000,0000,,I guess we can't understand\Neach other after all!
+Dialogue: 0,0:18:26.66,0:18:31.47,Default,,0000,0000,0000,,No matter how good his\Nmedicine is, he's still a god-killer!
+Dialogue: 0,0:18:31.47,0:18:36.64,Default,,0000,0000,0000,,Do they think they're great enough\Nto stomp all over our history?!
+Dialogue: 0,0:18:36.64,0:18:42.68,Default,,0000,0000,0000,,Endure it! Suppress your feelings,\Nand quietly wait for them to leave!
+Dialogue: 0,0:18:42.68,0:18:44.18,Default,,0000,0000,0000,,They're here!
+Dialogue: 0,0:18:47.32,0:18:50.69,Default,,0000,0000,0000,,Hey, guys! Is Calgara around?
+Dialogue: 0,0:18:59.36,0:19:03.30,Default,,0000,0000,0000,,Why is everyone acting so coldly\Nall of a sudden? Where's Calgara?
+Dialogue: 0,0:19:03.30,0:19:06.47,Default,,0000,0000,0000,,You guys are outsiders!
+Dialogue: 0,0:19:06.47,0:19:09.97,Default,,0000,0000,0000,,Calgara doesn't want to see you anymore!
+Dialogue: 0,0:19:09.97,0:19:11.68,Default,,0000,0000,0000,,Seto!
+Dialogue: 0,0:19:14.25,0:19:17.85,Default,,0000,0000,0000,,When are you gonna leave, anyway?!
+Dialogue: 0,0:19:17.85,0:19:19.95,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:19:19.95,0:19:24.56,Default,,0000,0000,0000,,They suddenly seem to hate us now...
+Dialogue: 0,0:19:24.56,0:19:28.56,Default,,0000,0000,0000,,Hey, hold on, you guys!\NYou can't just start acting like this!
+Dialogue: 0,0:19:28.56,0:19:30.43,Default,,0000,0000,0000,,Stop.
+Dialogue: 0,0:19:31.86,0:19:34.03,Default,,0000,0000,0000,,Let's continue our work.
+Dialogue: 0,0:19:35.53,0:19:38.57,Default,,0000,0000,0000,,We still have some forest to inspect.
+Dialogue: 0,0:19:41.24,0:19:45.08,Default,,0000,0000,0000,,Here you are, Calgara!\NNoland was looking for you!
+Dialogue: 0,0:19:45.08,0:19:49.21,Default,,0000,0000,0000,,Yeah. I don't want to see his face anymore.
+Dialogue: 0,0:19:49.21,0:19:53.92,Default,,0000,0000,0000,,If I do, I think I might kill him!
+Dialogue: 0,0:19:59.99,0:20:02.56,Default,,0000,0000,0000,,The bell didn't ring today...
+Dialogue: 0,0:20:02.56,0:20:08.00,Default,,0000,0000,0000,,Yeah. It's the first time this's happened\Nin the month we've been here.
+Dialogue: 0,0:20:08.00,0:20:09.47,Default,,0000,0000,0000,,Commodore...
+Dialogue: 0,0:20:09.47,0:20:12.60,Default,,0000,0000,0000,,I'll be finished exploring\Nthe forest in two days.
+Dialogue: 0,0:20:12.60,0:20:14.64,Default,,0000,0000,0000,,Y-Yes, sir...
+Dialogue: 0,0:20:14.64,0:20:19.51,Default,,0000,0000,0000,,Tell the crew we set sail again in three days,
+Dialogue: 0,0:20:19.51,0:20:23.81,Default,,0000,0000,0000,,so now's their last chance to\Nenjoy solid ground for a while.
+Dialogue: 0,0:20:23.81,0:20:28.22,Default,,0000,0000,0000,,Commodore... To be honest, I wanna\Nget off this awkward island...
+Dialogue: 0,0:20:28.22,0:20:31.86,Default,,0000,0000,0000,,Only after we've finished\Nour duties! Get some sleep.
+Dialogue: 0,0:20:34.26,0:20:36.16,Default,,0000,0000,0000,,Live here, Noland!
+Dialogue: 0,0:20:36.16,0:20:40.16,Default,,0000,0000,0000,,I know! Why don't you\Nmake Mousse your wife?!
+Dialogue: 0,0:20:40.16,0:20:41.37,Default,,0000,0000,0000,,Don't be silly.
+Dialogue: 0,0:20:41.37,0:20:45.90,Default,,0000,0000,0000,,I have a family back home, with kids\Nabout her age. I have to go back.
+Dialogue: 0,0:20:45.90,0:20:50.71,Default,,0000,0000,0000,,Calgara doesn't want to see you anymore!
+Dialogue: 0,0:20:50.71,0:20:54.51,Default,,0000,0000,0000,,When are you gonna leave, anyway?!
+Dialogue: 0,0:21:07.09,0:21:11.23,Default,,0000,0000,0000,,I know you're here, Calgara! Come out!
+Dialogue: 0,0:21:11.23,0:21:14.16,Default,,0000,0000,0000,,Don't you think this is too one-sided?!
+Dialogue: 0,0:21:14.16,0:21:18.77,Default,,0000,0000,0000,,Tell me why! I won't\Nunderstand unless you tell me!
+Dialogue: 0,0:21:18.77,0:21:23.97,Default,,0000,0000,0000,,We're going to set sail very soon!\NI don't want to part ways like this!
+Dialogue: 0,0:21:37.02,0:21:40.19,Default,,0000,0000,0000,,Don't show your face around me!
+Dialogue: 0,0:21:40.19,0:21:43.89,Default,,0000,0000,0000,,Do you want your wife to end up a widow?!
+Dialogue: 0,0:21:47.20,0:21:48.93,Default,,0000,0000,0000,,Calgara!
+Dialogue: 0,0:21:54.17,0:21:59.68,Default,,0000,0000,0000,,If you're feeling lonely, talk to me
+Dialogue: 0,0:21:59.68,0:22:04.78,Default,,0000,0000,0000,,You gaze at the heavens\Nas you wander about
+Dialogue: 0,0:22:04.78,0:22:12.92,Default,,0000,0000,0000,,Just like the moon,\Nyou keep your gaze constant
+Dialogue: 0,0:22:15.66,0:22:24.84,Default,,0000,0000,0000,,And your deep reflection wanes\Nas you slowly disappear
+Dialogue: 0,0:22:24.84,0:22:39.02,Default,,0000,0000,0000,,Stay as you are, let those words guide you
+Dialogue: 0,0:22:39.02,0:22:52.10,Default,,0000,0000,0000,,Dream, you travelers who spend\Ncountless nights drifting
+Dialogue: 0,0:22:52.10,0:22:56.53,Default,,0000,0000,0000,,Even if you may not be able to go back
+Dialogue: 0,0:22:56.53,0:23:03.44,Default,,0000,0000,0000,,you will surely start moving forward again
+Dialogue: 0,0:23:10.31,0:23:12.75,Default,,0000,0000,0000,,The bell has lost all its meaning!
+Dialogue: 0,0:23:12.75,0:23:15.49,Default,,0000,0000,0000,,I only did what satisfied me!
+Dialogue: 0,0:23:15.49,0:23:18.16,Default,,0000,0000,0000,,If these were sacrifices\Nfor your "advancements,"
+Dialogue: 0,0:23:18.16,0:23:21.12,Default,,0000,0000,0000,,we should never have accepted you!
+Dialogue: 0,0:23:21.12,0:23:24.63,Default,,0000,0000,0000,,They're right to be angry.\NWe have no reason to be forgiven!
+Dialogue: 0,0:23:24.63,0:23:26.83,Default,,0000,0000,0000,,We're returning to the Lvneel Kingdom!
+Dialogue: 0,0:23:26.83,0:23:28.17,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.17,0:23:31.54,Default,,0000,0000,0000,,"Eternal Friends! The Vowed Bell\NEchoes Across the Mighty Seas!!"
+Dialogue: 0,0:23:31.54,0:23:33.87,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.87,0:23:35.87,Default,,0000,0000,0000,,

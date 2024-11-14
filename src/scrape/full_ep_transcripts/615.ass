@@ -1,0 +1,284 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:49.39,0:02:52.69,Default,,0000,0000,0000,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:52.69,0:02:57.65,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:03:00.03,0:03:03.28,Default,,0000,0000,0000,,However, no one has ever fully explored it
+Dialogue: 0,0:03:03.28,0:03:06.41,Default,,0000,0000,0000,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:03:07.41,0:03:12.67,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:14.46,0:03:16.25,Default,,0000,0000,0000,,Now, Monkey D. Luffy,
+Dialogue: 0,0:03:16.25,0:03:19.13,Default,,0000,0000,0000,,a boy whose body turned to rubber
+Dialogue: 0,0:03:19.13,0:03:20.65,Default,,0000,0000,0000,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:20.65,0:03:22.34,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:23.05,0:03:26.51,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:31.19,0:03:33.60,Default,,0000,0000,0000,,After surviving a fierce battle,
+Dialogue: 0,0:03:33.60,0:03:36.52,Default,,0000,0000,0000,,the Straw Hats finally entered the New World,
+Dialogue: 0,0:03:36.52,0:03:38.98,Default,,0000,0000,0000,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:39.61,0:03:41.11,Default,,0000,0000,0000,,They landed on Punk Hazard;
+Dialogue: 0,0:03:41.11,0:03:43.26,Default,,0000,0000,0000,,an island with two parts, one \Nburning, the other frozen
+Dialogue: 0,0:03:43.82,0:03:47.58,Default,,0000,0000,0000,,and learned about the ruler of the \Nisland - Caesar Clown's motive.
+Dialogue: 0,0:03:47.95,0:03:49.91,Default,,0000,0000,0000,,All while trying to escape Shinokuni,
+Dialogue: 0,0:03:49.91,0:03:53.67,Default,,0000,0000,0000,,along with their pirate ally \N- the Warlord - Trafalgar Law,
+Dialogue: 0,0:03:53.79,0:03:56.88,Default,,0000,0000,0000,,Luffy and the others are on \Nthe move to kidnap Caesar,
+Dialogue: 0,0:03:56.88,0:04:00.21,Default,,0000,0000,0000,,-- save the children, and \Nescape from the island.
+Dialogue: 0,0:04:00.42,0:04:02.05,Default,,0000,0000,0000,,Give us the candy!
+Dialogue: 0,0:04:02.38,0:04:04.13,Default,,0000,0000,0000,,--No!\N--Give it to us!
+Dialogue: 0,0:04:04.26,0:04:06.40,Default,,0000,0000,0000,,No, you can't have it!
+Dialogue: 0,0:04:06.40,0:04:07.93,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:04:07.93,0:04:10.18,Default,,0000,0000,0000,,Just give us the candy already!
+Dialogue: 0,0:04:11.10,0:04:12.39,Default,,0000,0000,0000,,What is she thinking?!
+Dialogue: 0,0:04:12.56,0:04:15.85,Default,,0000,0000,0000,,No, spit them all out! \NMocha, can you hear me?!
+Dialogue: 0,0:04:15.85,0:04:17.77,Default,,0000,0000,0000,,Mocha!!
+Dialogue: 0,0:04:19.17,0:04:21.89,Default,,0000,0000,0000,,I told you what kind of drug they are!
+Dialogue: 0,0:04:24.53,0:04:25.16,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:32.41,0:04:35.62,Default,,0000,0000,0000,,Straw Hat Luffy! Why are you here?!
+Dialogue: 0,0:04:35.92,0:04:37.46,Default,,0000,0000,0000,,Shoot! Shoot!
+Dialogue: 0,0:04:41.72,0:04:42.97,Default,,0000,0000,0000,,Where's Caesar?
+Dialogue: 0,0:04:43.05,0:04:45.43,Default,,0000,0000,0000,,I don't know! I-I don't know anything...
+Dialogue: 0,0:04:49.85,0:04:51.47,Default,,0000,0000,0000,,Where's Caesar?!
+Dialogue: 0,0:04:54.69,0:04:58.83,Default,,0000,0000,0000,,"Brownbeard in Grief! Luffy \NLands a Furious Blow!"
+Dialogue: 0,0:05:01.48,0:05:05.74,Default,,0000,0000,0000,,Shinokuni, the deadly gas, is \Nflowing into the Third Laboratory
+Dialogue: 0,0:05:05.74,0:05:08.45,Default,,0000,0000,0000,,and starting to fill up B \NBuilding where the Straw Hats,
+Dialogue: 0,0:05:08.45,0:05:11.09,Default,,0000,0000,0000,,the Navy G-5, and the children are.
+Dialogue: 0,0:05:13.95,0:05:17.07,Default,,0000,0000,0000,,It's not this way! Go back, go back!
+Dialogue: 0,0:05:20.13,0:05:22.88,Default,,0000,0000,0000,,It's only gas - how is it outpacing me?!
+Dialogue: 0,0:05:22.88,0:05:24.84,Default,,0000,0000,0000,,Because you went the wrong way!
+Dialogue: 0,0:05:27.43,0:05:29.22,Default,,0000,0000,0000,,Keep still, you brats!
+Dialogue: 0,0:05:29.80,0:05:32.54,Default,,0000,0000,0000,,Sedate them already, G-5!
+Dialogue: 0,0:05:32.54,0:05:33.97,Default,,0000,0000,0000,,A few more to go, brother!
+Dialogue: 0,0:05:34.87,0:05:37.88,Default,,0000,0000,0000,,--Don't resist, children!\N--Calm down!
+Dialogue: 0,0:05:42.63,0:05:44.82,Default,,0000,0000,0000,,Hey, hurry up, racoon! We don't have time...
+Dialogue: 0,0:05:45.01,0:05:46.53,Default,,0000,0000,0000,,Don’t give up, Mocha!
+Dialogue: 0,0:05:48.32,0:05:49.53,Default,,0000,0000,0000,,You can make it!
+Dialogue: 0,0:05:51.66,0:05:53.95,Default,,0000,0000,0000,,Mo... Momonosuke!
+Dialogue: 0,0:05:55.04,0:05:56.16,Default,,0000,0000,0000,,W-W-Wait, Kin'emon-san!
+Dialogue: 0,0:05:56.16,0:05:58.08,Default,,0000,0000,0000,,If you go that way, you'll run into the gas!
+Dialogue: 0,0:06:13.58,0:06:17.29,Default,,0000,0000,0000,,I don't even see any soldiers, \Nlet alone my people!
+Dialogue: 0,0:06:22.19,0:06:25.28,Default,,0000,0000,0000,,What was that creepy room?!
+Dialogue: 0,0:06:28.97,0:06:30.05,Default,,0000,0000,0000,,What's this door?
+Dialogue: 0,0:06:33.25,0:06:34.83,Default,,0000,0000,0000,,I hear something...
+Dialogue: 0,0:06:34.83,0:06:36.08,Default,,0000,0000,0000,,...or not.
+Dialogue: 0,0:06:40.56,0:06:42.00,Default,,0000,0000,0000,,Master! Look!
+Dialogue: 0,0:06:42.56,0:06:43.94,Default,,0000,0000,0000,,That's Brownbeard!
+Dialogue: 0,0:06:43.94,0:06:46.88,Default,,0000,0000,0000,,I thought he was captured by Straw Hat.
+Dialogue: 0,0:06:46.88,0:06:50.09,Default,,0000,0000,0000,,--He looks okay.\N--Good, good.
+Dialogue: 0,0:07:11.82,0:07:14.15,Default,,0000,0000,0000,,The Video Transponder Snail is running.
+Dialogue: 0,0:07:14.15,0:07:15.22,Default,,0000,0000,0000,,That means...
+Dialogue: 0,0:07:15.70,0:07:18.50,Default,,0000,0000,0000,,Soldiers of Punk Hazard! Listen!
+Dialogue: 0,0:07:19.08,0:07:21.29,Default,,0000,0000,0000,,I know you're watching me somewhere!
+Dialogue: 0,0:07:21.29,0:07:23.75,Default,,0000,0000,0000,,You're all being fooled!
+Dialogue: 0,0:07:23.75,0:07:26.38,Default,,0000,0000,0000,,Caesar is telling you nothing but lies!
+Dialogue: 0,0:07:26.38,0:07:29.09,Default,,0000,0000,0000,,You're all gonna die if you stay here!
+Dialogue: 0,0:07:29.21,0:07:31.30,Default,,0000,0000,0000,,What is he talking about?
+Dialogue: 0,0:07:31.38,0:07:34.26,Default,,0000,0000,0000,,Has he gone crazy after being \Ncaptured by the Straw Hats?
+Dialogue: 0,0:07:34.51,0:07:38.31,Default,,0000,0000,0000,,Brownbeard is on the floor \Nbelow - R Building 1st floor.
+Dialogue: 0,0:07:38.31,0:07:42.32,Default,,0000,0000,0000,,But the Straw Hats and Navy \Nsoldiers will arrive there
+Dialogue: 0,0:07:42.32,0:07:44.56,Default,,0000,0000,0000,,soon according to your plan.
+Dialogue: 0,0:07:44.56,0:07:46.66,Default,,0000,0000,0000,,Should we tell Brownbeard to come up here?
+Dialogue: 0,0:07:47.90,0:07:50.53,Default,,0000,0000,0000,,I'll tell you the truth about Caesar!
+Dialogue: 0,0:07:50.53,0:07:53.61,Default,,0000,0000,0000,,No, I'll go down.
+Dialogue: 0,0:07:53.61,0:07:55.37,Default,,0000,0000,0000,,We're coming with you then.
+Dialogue: 0,0:08:05.92,0:08:07.29,Default,,0000,0000,0000,,Caesar!
+Dialogue: 0,0:08:07.44,0:08:11.34,Default,,0000,0000,0000,,Oh, my dear underling - Brownbeard!
+Dialogue: 0,0:08:12.80,0:08:15.64,Default,,0000,0000,0000,,I'm glad that you got away from Straw Hat!
+Dialogue: 0,0:08:16.50,0:08:18.30,Default,,0000,0000,0000,,Are you alright?
+Dialogue: 0,0:08:20.30,0:08:22.39,Default,,0000,0000,0000,,You look awful!
+Dialogue: 0,0:08:22.48,0:08:23.56,Default,,0000,0000,0000,,Don't touch me!
+Dialogue: 0,0:08:23.94,0:08:27.31,Default,,0000,0000,0000,,Oh? Why are you in such a bad mood?
+Dialogue: 0,0:08:29.53,0:08:30.69,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:32.44,0:08:34.41,Default,,0000,0000,0000,,I want my people back!
+Dialogue: 0,0:08:34.93,0:08:39.12,Default,,0000,0000,0000,,We got robbed at the center of \Nthe island but they didn't die!
+Dialogue: 0,0:08:39.33,0:08:40.91,Default,,0000,0000,0000,,I'm sure they're back already!
+Dialogue: 0,0:08:40.91,0:08:44.37,Default,,0000,0000,0000,,Whoa-whoa, he's messing with the Master.
+Dialogue: 0,0:08:44.37,0:08:46.55,Default,,0000,0000,0000,,Huh? Your people?
+Dialogue: 0,0:08:46.83,0:08:48.54,Default,,0000,0000,0000,,Oh yeah...
+Dialogue: 0,0:08:49.44,0:08:53.34,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:08:53.34,0:08:54.55,Default,,0000,0000,0000,,Clank!
+Dialogue: 0,0:08:54.88,0:08:57.18,Default,,0000,0000,0000,,M-M-Master!
+Dialogue: 0,0:08:57.39,0:08:58.68,Default,,0000,0000,0000,,Master!
+Dialogue: 0,0:08:58.92,0:09:00.43,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:09:00.43,0:09:02.68,Default,,0000,0000,0000,,Oh, you must be one of Brownbeard's.
+Dialogue: 0,0:09:02.81,0:09:07.80,Default,,0000,0000,0000,,Master! There are Navy soldiers at \Nthe main entrance and it's closed!
+Dialogue: 0,0:09:09.20,0:09:12.03,Default,,0000,0000,0000,,We can't get inside! Please guide us!
+Dialogue: 0,0:09:12.49,0:09:14.28,Default,,0000,0000,0000,,Oh no! That's serious!
+Dialogue: 0,0:09:14.28,0:09:16.58,Default,,0000,0000,0000,,Let me see what I can do! Wait there!
+Dialogue: 0,0:09:16.95,0:09:20.00,Default,,0000,0000,0000,,Th-Thank you very much, Master!
+Dialogue: 0,0:09:20.58,0:09:22.20,Default,,0000,0000,0000,,Master...
+Dialogue: 0,0:09:22.81,0:09:26.08,Default,,0000,0000,0000,,Master, how are you going to let them in?
+Dialogue: 0,0:09:31.05,0:09:32.36,Default,,0000,0000,0000,,Forget about it.
+Dialogue: 0,0:09:32.80,0:09:35.51,Default,,0000,0000,0000,,Shinokuni will be inescapable \Nout there soon enough.
+Dialogue: 0,0:09:39.68,0:09:41.58,Default,,0000,0000,0000,,I wonder what happened to them.
+Dialogue: 0,0:09:42.49,0:09:44.27,Default,,0000,0000,0000,,They don't even call me anymore.
+Dialogue: 0,0:09:45.85,0:09:49.60,Default,,0000,0000,0000,,If they're not here, they must be...
+Dialogue: 0,0:09:56.49,0:09:59.53,Default,,0000,0000,0000,,Are you worried? I think you are.
+Dialogue: 0,0:09:59.53,0:10:02.74,Default,,0000,0000,0000,,If they were out there, they're \Ndefinitely dead because of Shinokuni!
+Dialogue: 0,0:10:04.02,0:10:05.12,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:10:06.62,0:10:07.71,Default,,0000,0000,0000,,Screw you!
+Dialogue: 0,0:10:08.37,0:10:10.42,Default,,0000,0000,0000,,Hey, what're you doing, Brownbeard?!
+Dialogue: 0,0:10:20.68,0:10:21.51,Default,,0000,0000,0000,,Brownbeard?!
+Dialogue: 0,0:10:21.64,0:10:25.27,Default,,0000,0000,0000,,I can't trust your words anymore!
+Dialogue: 0,0:10:25.53,0:10:29.52,Default,,0000,0000,0000,,--What happened to him?!\N--What is he doing to the Master?!
+Dialogue: 0,0:10:29.91,0:10:31.08,Default,,0000,0000,0000,,I'll tell you guys this
+Dialogue: 0,0:10:31.08,0:10:33.67,Default,,0000,0000,0000,,because we spent the last two \Nyears together on this island.
+Dialogue: 0,0:10:34.06,0:10:35.62,Default,,0000,0000,0000,,Leave the island now!
+Dialogue: 0,0:10:36.00,0:10:41.32,Default,,0000,0000,0000,,Do you wanna know what he \Ncalled you behind your back?!
+Dialogue: 0,0:10:43.20,0:10:45.41,Default,,0000,0000,0000,,This was his special name for you!
+Dialogue: 0,0:10:46.68,0:10:48.53,Default,,0000,0000,0000,,Guinoa pags.
+Dialogue: 0,0:10:49.46,0:10:51.40,Default,,0000,0000,0000,,Guinoo pah!
+Dialogue: 0,0:10:53.50,0:10:55.55,Default,,0000,0000,0000,,Guinoa poh...
+Dialogue: 0,0:10:55.96,0:10:59.13,Default,,0000,0000,0000,,Guinoh... Guinah...
+Dialogue: 0,0:11:02.78,0:11:04.64,Default,,0000,0000,0000,,What're you trying to say, Brownbeard?!
+Dialogue: 0,0:11:05.00,0:11:08.48,Default,,0000,0000,0000,,--Speak clearly!\N--Is it some kind of spell?!
+Dialogue: 0,0:11:09.81,0:11:11.48,Default,,0000,0000,0000,,He's a funny guy!
+Dialogue: 0,0:11:12.06,0:11:13.69,Default,,0000,0000,0000,,Guinoh...
+Dialogue: 0,0:11:13.69,0:11:15.86,Default,,0000,0000,0000,,I don't know what you're saying!
+Dialogue: 0,0:11:17.36,0:11:22.53,Default,,0000,0000,0000,,They will keep following me \Nthinking I'm their savior!
+Dialogue: 0,0:11:22.82,0:11:26.74,Default,,0000,0000,0000,,They don't know that I kept them \Nalive because they're my guinea pigs!
+Dialogue: 0,0:11:27.03,0:11:29.00,Default,,0000,0000,0000,,I said "Guinea pigs"!
+Dialogue: 0,0:11:31.77,0:11:34.42,Default,,0000,0000,0000,,Why?! I got tongue-tied!
+Dialogue: 0,0:11:36.55,0:11:38.80,Default,,0000,0000,0000,,You did something, didn't you, Caesar?!
+Dialogue: 0,0:12:00.07,0:12:01.74,Default,,0000,0000,0000,,Oh, what is it this time?!
+Dialogue: 0,0:12:01.99,0:12:03.57,Default,,0000,0000,0000,,Are you putting on an act?!
+Dialogue: 0,0:12:06.25,0:12:09.04,Default,,0000,0000,0000,,Oh, are you okay? Huh?
+Dialogue: 0,0:12:09.29,0:12:11.33,Default,,0000,0000,0000,,It's a muscle relaxant.
+Dialogue: 0,0:12:11.33,0:12:12.86,Default,,0000,0000,0000,,You're losing strength around your mouth
+Dialogue: 0,0:12:12.86,0:12:14.44,Default,,0000,0000,0000,,and your whole body, aren't you?
+Dialogue: 0,0:12:20.93,0:12:24.04,Default,,0000,0000,0000,,Oh yeah, I remember now, Brownbeard.
+Dialogue: 0,0:12:24.31,0:12:26.50,Default,,0000,0000,0000,,About your former subordinates...
+Dialogue: 0,0:12:27.73,0:12:29.06,Default,,0000,0000,0000,,I let them die!
+Dialogue: 0,0:12:36.91,0:12:40.04,Default,,0000,0000,0000,,You asshole!
+Dialogue: 0,0:12:41.78,0:12:42.90,Default,,0000,0000,0000,,How dare you!
+Dialogue: 0,0:12:42.90,0:12:45.36,Default,,0000,0000,0000,,How dare you kill my people!
+Dialogue: 0,0:12:57.56,0:13:03.01,Default,,0000,0000,0000,,Oh, there is another thing \Nthat I'd like to tell you.
+Dialogue: 0,0:13:07.47,0:13:11.43,Default,,0000,0000,0000,,The chemical weapon explosion \Nthat nearly killed all
+Dialogue: 0,0:13:11.43,0:13:13.81,Default,,0000,0000,0000,,these soldiers four years ago?
+Dialogue: 0,0:13:19.40,0:13:22.07,Default,,0000,0000,0000,,I was the one who caused it!
+Dialogue: 0,0:13:35.33,0:13:38.25,Default,,0000,0000,0000,,It wasn't Vegapunk?!
+Dialogue: 0,0:13:38.25,0:13:42.67,Default,,0000,0000,0000,,This bastard did harm to everybody \Nand pretended that he saved them?!
+Dialogue: 0,0:13:57.55,0:13:59.94,Default,,0000,0000,0000,,Hey, stop! Stop it!
+Dialogue: 0,0:13:59.94,0:14:04.04,Default,,0000,0000,0000,,Help me! Brownbeard is going crazy!
+Dialogue: 0,0:14:06.73,0:14:08.27,Default,,0000,0000,0000,,Run, everybody!
+Dialogue: 0,0:14:08.27,0:14:12.37,Default,,0000,0000,0000,,Everything that's been going on this \Nisland is all staged by Caesar!
+Dialogue: 0,0:14:12.37,0:14:17.12,Default,,0000,0000,0000,,Run, guys! He's a devil disguised as a human!
+Dialogue: 0,0:14:17.25,0:14:18.82,Default,,0000,0000,0000,,Hey, Brownbeard!
+Dialogue: 0,0:14:18.82,0:14:20.33,Default,,0000,0000,0000,,How could you do that to \Na person who saved you?!
+Dialogue: 0,0:14:24.55,0:14:27.80,Default,,0000,0000,0000,,Oh no! He's really dangerous!
+Dialogue: 0,0:14:27.80,0:14:29.65,Default,,0000,0000,0000,,It's too late!
+Dialogue: 0,0:14:29.65,0:14:32.26,Default,,0000,0000,0000,,I guess Straw Hat did something to him!
+Dialogue: 0,0:14:33.32,0:14:34.31,Default,,0000,0000,0000,,Brownbeard!
+Dialogue: 0,0:14:35.80,0:14:39.52,Default,,0000,0000,0000,,Shoot! Shoot him! He's gonna attack you guys!
+Dialogue: 0,0:14:41.52,0:14:43.36,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:15:22.68,0:15:25.36,Default,,0000,0000,0000,,Now, let me finish him off.
+Dialogue: 0,0:15:26.32,0:15:27.48,Default,,0000,0000,0000,,Gastane...
+Dialogue: 0,0:16:07.86,0:16:09.09,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:09.91,0:16:12.45,Default,,0000,0000,0000,,Did we make it out of that hole?
+Dialogue: 0,0:16:12.82,0:16:13.78,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:14.72,0:16:16.70,Default,,0000,0000,0000,,You climbed that wall to the top, huh?
+Dialogue: 0,0:16:16.70,0:16:18.85,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:16:38.76,0:16:40.39,Default,,0000,0000,0000,,Now, let me finish him off.
+Dialogue: 0,0:16:40.52,0:16:42.10,Default,,0000,0000,0000,,Momo, stay back!
+Dialogue: 0,0:16:43.64,0:16:44.98,Default,,0000,0000,0000,,Gastane...
+Dialogue: 0,0:16:56.53,0:16:57.49,Default,,0000,0000,0000,,Master!
+Dialogue: 0,0:16:57.62,0:17:00.41,Default,,0000,0000,0000,,Oh, that was close!
+Dialogue: 0,0:17:00.41,0:17:01.95,Default,,0000,0000,0000,,It grazed my body!
+Dialogue: 0,0:17:03.22,0:17:04.92,Default,,0000,0000,0000,,Dammit! Who is it?!
+Dialogue: 0,0:17:31.29,0:17:32.99,Default,,0000,0000,0000,,It's Straw Hat...
+Dialogue: 0,0:17:32.99,0:17:35.82,Default,,0000,0000,0000,,...Luffy!
+Dialogue: 0,0:18:14.99,0:18:21.21,Default,,0000,0000,0000,,His kindness saved my life \Nas it did to the others.
+Dialogue: 0,0:18:21.83,0:18:25.31,Default,,0000,0000,0000,,The Master was our warm-hearted savior!
+Dialogue: 0,0:18:28.68,0:18:31.00,Default,,0000,0000,0000,,Return to 2nd floor, everyone!
+Dialogue: 0,0:18:31.32,0:18:34.47,Default,,0000,0000,0000,,The Straw Hats and the \NNavy will be here soon!
+Dialogue: 0,0:18:34.47,0:18:36.34,Default,,0000,0000,0000,,--Get ready for the experiment!\N--Yes, sir!
+Dialogue: 0,0:18:36.34,0:18:38.57,Default,,0000,0000,0000,,Broadcast it for the brokers!
+Dialogue: 0,0:18:40.09,0:18:42.47,Default,,0000,0000,0000,,--Let's go!\N--Hustle!
+Dialogue: 0,0:18:44.63,0:18:49.12,Default,,0000,0000,0000,,I assume they'll all be dead in five years.
+Dialogue: 0,0:18:51.31,0:18:54.48,Default,,0000,0000,0000,,So we need to find more kids.
+Dialogue: 0,0:18:55.78,0:18:58.39,Default,,0000,0000,0000,,Luffy! It was him!
+Dialogue: 0,0:18:58.39,0:19:00.81,Default,,0000,0000,0000,,He was the one who were talking about...
+Dialogue: 0,0:19:01.79,0:19:03.20,Default,,0000,0000,0000,,...harming those kindhearted children!
+Dialogue: 0,0:19:04.12,0:19:05.24,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:19:08.29,0:19:11.63,Default,,0000,0000,0000,,People on this island were tricked \Ninto being here, weren't they?
+Dialogue: 0,0:19:12.75,0:19:15.34,Default,,0000,0000,0000,,What is this island?!
+Dialogue: 0,0:19:24.21,0:19:25.56,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:19:25.79,0:19:30.60,Default,,0000,0000,0000,,You don't know anything so let me \Ntell you the secret of this island.
+Dialogue: 0,0:19:30.60,0:19:32.83,Default,,0000,0000,0000,,--There's no sound!\N--Hurry up!
+Dialogue: 0,0:19:33.40,0:19:35.77,Default,,0000,0000,0000,,--Checking the video!\N--Pull the elevator up!
+Dialogue: 0,0:19:40.59,0:19:45.16,Default,,0000,0000,0000,,This island is like gas or air.
+Dialogue: 0,0:19:46.26,0:19:48.36,Default,,0000,0000,0000,,An island that doesn't seem to exist.
+Dialogue: 0,0:19:48.98,0:19:50.21,Default,,0000,0000,0000,,Do you get it?
+Dialogue: 0,0:19:55.75,0:19:59.01,Default,,0000,0000,0000,,Listen, this island shouldn't even exist.
+Dialogue: 0,0:19:59.57,0:20:03.09,Default,,0000,0000,0000,,That's why it's suitable to the \Nwork of an underground community.
+Dialogue: 0,0:20:03.95,0:20:06.06,Default,,0000,0000,0000,,It's an epicenter of evil science.
+Dialogue: 0,0:20:06.88,0:20:12.81,Default,,0000,0000,0000,,We can do unlawful experiments or get \Ntest subjects illegally as we like!
+Dialogue: 0,0:20:13.44,0:20:15.89,Default,,0000,0000,0000,,We have some powerful people backing us
+Dialogue: 0,0:20:15.89,0:20:18.07,Default,,0000,0000,0000,,and they'll cover up everything.
+Dialogue: 0,0:20:18.49,0:20:20.87,Default,,0000,0000,0000,,So no one out there would know a thing.
+Dialogue: 0,0:20:24.10,0:20:27.33,Default,,0000,0000,0000,,No matter how much you cry or scream,
+Dialogue: 0,0:20:27.69,0:20:29.87,Default,,0000,0000,0000,,no one will come to the rescue.
+Dialogue: 0,0:20:30.14,0:20:34.67,Default,,0000,0000,0000,,You don't know a damn thing \Nabout this island, Straw Hat!
+Dialogue: 0,0:20:34.67,0:20:39.88,Default,,0000,0000,0000,,If you're getting involved without taking \Nit seriously, you'll end up dead!
+Dialogue: 0,0:20:40.46,0:20:42.59,Default,,0000,0000,0000,,Allying with Law is also not a good idea.
+Dialogue: 0,0:20:43.26,0:20:45.89,Default,,0000,0000,0000,,He wants to mess with SAD.
+Dialogue: 0,0:20:46.29,0:20:48.72,Default,,0000,0000,0000,,He is using you to kidnap me because I'm
+Dialogue: 0,0:20:48.72,0:20:51.38,Default,,0000,0000,0000,,the only person who can create SAD.
+Dialogue: 0,0:20:52.82,0:20:55.27,Default,,0000,0000,0000,,Let me tell you about SAD, Straw Hat.
+Dialogue: 0,0:20:55.95,0:21:02.11,Default,,0000,0000,0000,,The most dangerous Warlord - Don \NQuixote Doflamingo owns this factory
+Dialogue: 0,0:21:02.52,0:21:05.54,Default,,0000,0000,0000,,and here, SAD is processed \Ninto a fruit called "SMILE."
+Dialogue: 0,0:21:08.08,0:21:10.53,Default,,0000,0000,0000,,Do you know what SMILE is?
+Dialogue: 0,0:21:11.12,0:21:16.00,Default,,0000,0000,0000,,We successfully recreated a Devil Fruit!
+Dialogue: 0,0:21:17.04,0:21:21.24,Default,,0000,0000,0000,,SMILE is a Zoan type, man-made Devil Fruit.
+Dialogue: 0,0:21:22.87,0:21:25.68,Default,,0000,0000,0000,,Anyone who wants to become \Npowerful yearns for it.
+Dialogue: 0,0:21:28.75,0:21:34.34,Default,,0000,0000,0000,,Doflamingo is selling SMILEs \Nto big-timers in the New World.
+Dialogue: 0,0:21:36.17,0:21:38.87,Default,,0000,0000,0000,,I heard one of the Four Emperors \Nis already on the move...
+Dialogue: 0,0:21:38.87,0:21:42.84,Default,,0000,0000,0000,,...to form an army of hundreds \Nof Devil Fruit eaters with SMILE.
+Dialogue: 0,0:21:45.15,0:21:47.30,Default,,0000,0000,0000,,Doesn't it send a chill down your spine?
+Dialogue: 0,0:21:48.96,0:21:51.69,Default,,0000,0000,0000,,Do you understand what you're dealing with?
+Dialogue: 0,0:21:52.62,0:21:59.34,Default,,0000,0000,0000,,By interfering with Doflamingo's business, \Nyou'll piss so many big names off.
+Dialogue: 0,0:21:59.96,0:22:03.57,Default,,0000,0000,0000,,When they start going into action, \Nit's gonna shake up the whole world.
+Dialogue: 0,0:22:04.23,0:22:06.55,Default,,0000,0000,0000,,And that's what Law wants.
+Dialogue: 0,0:22:06.55,0:22:08.09,Default,,0000,0000,0000,,What fools!
+Dialogue: 0,0:22:08.09,0:22:11.97,Default,,0000,0000,0000,,They're out of your league!
+Dialogue: 0,0:22:13.74,0:22:16.60,Default,,0000,0000,0000,,Catch me if you can! But I'm protected!
+Dialogue: 0,0:22:16.60,0:22:19.68,Default,,0000,0000,0000,,Doflamingo! The Four Emperors!
+Dialogue: 0,0:22:19.68,0:22:23.32,Default,,0000,0000,0000,,Do you even have balls to \Npick a fight with them?
+Dialogue: 0,0:22:25.53,0:22:27.21,Default,,0000,0000,0000,,I don't think so!
+Dialogue: 0,0:22:27.21,0:22:29.03,Default,,0000,0000,0000,,If you wanna run, do it now!
+Dialogue: 0,0:22:29.64,0:22:32.54,Default,,0000,0000,0000,,Get out of my face!
+Dialogue: 0,0:22:40.64,0:22:41.75,Default,,0000,0000,0000,,A fight?
+Dialogue: 0,0:23:02.33,0:23:03.32,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:23:11.82,0:23:13.28,Default,,0000,0000,0000,,I've been...
+Dialogue: 0,0:23:14.08,0:23:16.25,Default,,0000,0000,0000,,...picking fights all along!
+Dialogue: 0,0:23:24.75,0:23:27.63,Default,,0000,0000,0000,,Undaunted by the powerful Gas Gas Fruit attacks...
+Dialogue: 0,0:23:27.63,0:23:30.84,Default,,0000,0000,0000,,...Luffy corners Caesar with his fists of rage.
+Dialogue: 0,0:23:30.84,0:23:33.07,Default,,0000,0000,0000,,But elsewhere, Smoker,
+Dialogue: 0,0:23:33.07,0:23:35.39,Default,,0000,0000,0000,,facing another powerful Haki user,
+Dialogue: 0,0:23:35.39,0:23:37.60,Default,,0000,0000,0000,,is fighting an overwhelmingly losing battle...
+Dialogue: 0,0:23:37.60,0:23:39.89,Default,,0000,0000,0000,,...and lies on the verge of death and defeat.
+Dialogue: 0,0:23:39.89,0:23:41.23,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.23,0:23:44.33,Default,,0000,0000,0000,,"A Surprising Outcome! \NWhite Chase vs. Vergo!"
+Dialogue: 0,0:23:44.33,0:23:46.49,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:46.49,0:23:48.49,Default,,0000,0000,0000,,

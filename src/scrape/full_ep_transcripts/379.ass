@@ -1,0 +1,285 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:16.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:02:35.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:16.37,0:00:20.74,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.74,0:00:23.00,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.00,0:00:29.96,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.09,0:00:40.51,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:44.10,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:44.10,0:00:49.65,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.65,0:00:55.78,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.78,0:01:02.58,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.58,0:01:07.04,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.04,0:01:09.34,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.30,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.43,0:01:26.85,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.85,0:01:30.40,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.40,0:01:35.99,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.99,0:01:42.12,On Top,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:42.12,0:01:48.87,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:48.87,0:01:53.42,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.42,0:01:55.67,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.67,0:02:00.01,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.01,0:02:03.06,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.68,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.68,0:02:06.39,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.39,0:02:08.10,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.10,0:02:09.73,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.73,0:02:11.40,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.40,0:02:13.07,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:13.07,0:02:14.44,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.44,0:02:15.53,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.53,0:02:19.91,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.54,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.54,0:02:28.71,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:28.71,0:02:33.09,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.09,0:02:35.42,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.42,0:02:39.76,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.76,0:02:42.72,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.84,0:02:49.89,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:51.13,0:02:53.93,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.93,0:02:56.40,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.97,0:02:59.31,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:59.31,0:03:02.87,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:03:03.27,0:03:07.48,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:03:07.48,0:03:11.87,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.36,0:03:16.84,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.45,0:03:21.50,Default,,0000,0000,0000,,The world has truly entered \Na Great Pirate Era!
+Dialogue: 0,0:03:21.50,0:03:22.83,Default,,0000,0000,0000,,
+Dialogue: 0,0:03:22.62,0:03:26.77,Default,,0000,0000,0000,,So you're gonna join our crew now, right?
+Dialogue: 0,0:03:27.59,0:03:31.48,Default,,0000,0000,0000,,I promised one of my comrades something.
+Dialogue: 0,0:03:32.47,0:03:39.82,Default,,0000,0000,0000,,I must tend to that first \Nor I will lose face!
+Dialogue: 0,0:03:39.82,0:03:42.60,Default,,0000,0000,0000,,Yeah. You're talking \Nabout Laboon, aren't you?
+Dialogue: 0,0:03:42.60,0:03:46.03,Default,,0000,0000,0000,,I know all about it. \NFranky and Robin told me.
+Dialogue: 0,0:03:46.27,0:03:49.61,Default,,0000,0000,0000,,Huh? Oh, that's right.
+Dialogue: 0,0:03:49.61,0:03:54.41,Default,,0000,0000,0000,,Laboon! That is the name of the whale.
+Dialogue: 0,0:03:56.41,0:03:57.70,Default,,0000,0000,0000,,He is at a certain cape--
+Dialogue: 0,0:03:57.70,0:04:03.22,Default,,0000,0000,0000,,Listen, Brook! We met Laboon\Nat Twin Cape. Honest!
+Dialogue: 0,0:04:04.29,0:04:06.29,Default,,0000,0000,0000,,J-Just a moment, please!
+Dialogue: 0,0:04:08.55,0:04:11.67,Default,,0000,0000,0000,,I'm shocked! This is so sudden.
+Dialogue: 0,0:04:11.67,0:04:15.26,Default,,0000,0000,0000,,Is it true? Did you actually meet Laboon?
+Dialogue: 0,0:04:15.26,0:04:16.31,Default,,0000,0000,0000,,Yup.
+Dialogue: 0,0:04:16.80,0:04:18.35,Default,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:04:20.18,0:04:23.70,Default,,0000,0000,0000,,He's doing well?
+Dialogue: 0,0:04:29.86,0:04:33.03,Default,,0000,0000,0000,,I have never been this happy in my life!
+Dialogue: 0,0:04:47.75,0:04:52.51,Default,,0000,0000,0000,,"Brook's Past! A Sad Farewell\Nwith His Cheerful Comrade!"
+Dialogue: 0,0:04:54.84,0:04:55.81,Default,,0000,0000,0000,,Laboon...
+Dialogue: 0,0:05:04.26,0:05:07.59,On Top,,0000,0000,0000,,"Rumbar Pirates\NMusician & Swordsman"
+Dialogue: 0,0:05:04.60,0:05:07.68,DefaultLow,,0000,0000,0000,,Hi, everyone! I hope you're doing well.
+Dialogue: 0,0:05:07.59,0:05:10.87,On Top,,0000,0000,0000,,"Brook\N(50 years ago - Age: 38)"
+Dialogue: 0,0:05:07.68,0:05:08.74,DefaultLow,,0000,0000,0000,,It's morning!
+Dialogue: 0,0:05:11.11,0:05:13.58,Default,,0000,0000,0000,,Let's start the day with a song!
+Dialogue: 0,0:05:22.70,0:05:25.91,Default,,0000,0000,0000,,Eh... This week, Power \NTune will be presenting
+Dialogue: 0,0:05:25.91,0:05:28.67,Default,,0000,0000,0000,,the famous song, "The Black\NHandkerchief of Happiness."
+Dialogue: 0,0:05:29.05,0:05:31.15,Default,,0000,0000,0000,,Everyone, feel free to join in!
+Dialogue: 0,0:05:31.68,0:05:35.05,Default,,0000,0000,0000,,♪ White handkerchief, ♪
+Dialogue: 0,0:05:35.05,0:05:36.64,Default,,0000,0000,0000,,♪ don't let him find you ♪
+Dialogue: 0,0:05:36.64,0:05:38.94,Default,,0000,0000,0000,,♪ Run for it ♪
+Dialogue: 0,0:05:39.14,0:05:42.70,Default,,0000,0000,0000,,♪ White handkerchief, ♪
+Dialogue: 0,0:05:42.70,0:05:44.12,Default,,0000,0000,0000,,♪ Don't let the octopus catch you ♪
+Dialogue: 0,0:05:44.12,0:05:45.69,Default,,0000,0000,0000,,♪ That's a stain ♪
+Dialogue: 0,0:05:45.69,0:05:48.67,Default,,0000,0000,0000,,--♪ And now a squid is coming ♪\N--S-Stop it! Not so loud in the morning!
+Dialogue: 0,0:05:48.67,0:05:51.19,Default,,0000,0000,0000,,--♪ There is another stain ♪\N--I'll get up! I'll get up, Brook!
+Dialogue: 0,0:05:51.19,0:05:54.56,Default,,0000,0000,0000,,--♪ White handkerchief ♪\N--I'm up! I'm wide awake!
+Dialogue: 0,0:05:54.56,0:05:59.54,Default,,0000,0000,0000,,♪ Covered in stains, you're\Nthe black handkerchief of happiness ♪
+Dialogue: 0,0:06:03.54,0:06:07.08,Default,,0000,0000,0000,,Hey, Brook. Play that one \Nsong--ballad version.
+Dialogue: 0,0:06:07.08,0:06:09.26,Default,,0000,0000,0000,,Roger! That's your favorite, Captain!
+Dialogue: 0,0:06:47.79,0:06:48.97,Default,,0000,0000,0000,,It's a whale!
+Dialogue: 0,0:06:49.61,0:06:51.17,Default,,0000,0000,0000,,It's the one from yesterday...
+Dialogue: 0,0:06:51.17,0:06:54.26,Default,,0000,0000,0000,,You're still here? Go look for your pod!
+Dialogue: 0,0:06:58.84,0:07:01.10,Default,,0000,0000,0000,,Isn't it adorable?
+Dialogue: 0,0:07:03.60,0:07:07.67,Default,,0000,0000,0000,,Hey, how long are you gonna follow us?\NI bet your mama's worried.
+Dialogue: 0,0:07:08.79,0:07:11.23,Default,,0000,0000,0000,,Here! Eat up, Laboon!
+Dialogue: 0,0:07:11.23,0:07:14.94,Default,,0000,0000,0000,,Oh, man! When did you name him?
+Dialogue: 0,0:07:21.11,0:07:22.37,Default,,0000,0000,0000,,We're under attack!
+Dialogue: 0,0:07:31.79,0:07:32.80,Default,,0000,0000,0000,,Are you two okay?
+Dialogue: 0,0:07:32.96,0:07:37.01,Default,,0000,0000,0000,,P-Please help us! He's severely wounded!
+Dialogue: 0,0:07:37.46,0:07:39.66,Default,,0000,0000,0000,,Captain, an injured man fell overboard!
+Dialogue: 0,0:07:40.22,0:07:42.23,Default,,0000,0000,0000,,Toss him a life preserver! \NWe'll save him later.
+Dialogue: 0,0:07:42.80,0:07:45.76,Default,,0000,0000,0000,,It's not like I can swim...\NI guess that's all I can do.
+Dialogue: 0,0:07:50.27,0:07:52.14,Default,,0000,0000,0000,,You're a lifesaver, Laboon!
+Dialogue: 0,0:07:52.14,0:07:53.91,Default,,0000,0000,0000,,Hey, we're okay!
+Dialogue: 0,0:07:54.06,0:07:55.57,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:08:06.62,0:08:11.22,Default,,0000,0000,0000,,Shhh! No, no, Laboon.\NDon't wake everyone up.
+Dialogue: 0,0:08:11.87,0:08:15.17,Default,,0000,0000,0000,,I'll sing for you when the sun rises.
+Dialogue: 0,0:08:19.09,0:08:22.14,Default,,0000,0000,0000,,All right! Everyone, sing that song!
+Dialogue: 0,0:08:42.65,0:08:44.93,Default,,0000,0000,0000,,Laboon, are you cold?
+Dialogue: 0,0:08:54.12,0:08:57.67,Default,,0000,0000,0000,,Treasure! We found treasure, Laboon!
+Dialogue: 0,0:08:57.67,0:08:59.39,Default,,0000,0000,0000,,We're gonna party today!
+Dialogue: 0,0:09:07.64,0:09:09.72,Default,,0000,0000,0000,,Sea monster sighting!
+Dialogue: 0,0:09:09.72,0:09:11.13,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:14.48,0:09:16.56,Default,,0000,0000,0000,,Protect Laboon!
+Dialogue: 0,0:09:16.56,0:09:19.14,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:24.07,0:09:27.34,Default,,0000,0000,0000,,We won't go easy on anyone\Nwho picks on Laboon!
+Dialogue: 0,0:09:27.78,0:09:30.83,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:09:45.97,0:09:46.94,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:09:48.39,0:09:50.65,Default,,0000,0000,0000,,Laboon, are you all right?
+Dialogue: 0,0:09:51.51,0:09:53.15,Default,,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:09:54.31,0:09:55.65,Default,,0000,0000,0000,,I'm so glad!
+Dialogue: 0,0:10:06.49,0:10:11.41,Default,,0000,0000,0000,,That's not an option, Laboon.\NPlease hang tight and wait here.
+Dialogue: 0,0:10:12.62,0:10:14.49,Default,,0000,0000,0000,,Be a good boy, okay?
+Dialogue: 0,0:10:16.33,0:10:19.17,Default,,0000,0000,0000,,I think like he likes you best, Brook.
+Dialogue: 0,0:10:19.17,0:10:20.09,Default,,0000,0000,0000,,No kidding!
+Dialogue: 0,0:10:21.84,0:10:24.05,Default,,0000,0000,0000,,It's because Laboon loves music!
+Dialogue: 0,0:10:24.05,0:10:27.83,Default,,0000,0000,0000,,Nope! The shape of your head\Nmakes him think you're kin.
+Dialogue: 0,0:10:29.68,0:10:30.63,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:35.01,0:10:36.09,Default,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:11:00.87,0:11:04.18,Default,,0000,0000,0000,,Could you try to reason with him?
+Dialogue: 0,0:11:11.05,0:11:13.69,Default,,0000,0000,0000,,We tried to talk to him,
+Dialogue: 0,0:11:14.97,0:11:17.22,Default,,0000,0000,0000,,but he wasn't willing to listen to us.
+Dialogue: 0,0:11:18.64,0:11:19.80,Default,,0000,0000,0000,,You understand, don't you?
+Dialogue: 0,0:11:23.69,0:11:27.57,Default,,0000,0000,0000,,We aren't strong enough to\Nprotect him from here on out.
+Dialogue: 0,0:11:34.74,0:11:36.31,Default,,0000,0000,0000,,He's still a child.
+Dialogue: 0,0:11:36.99,0:11:39.65,Default,,0000,0000,0000,,There is no way we could\Ntake him to the Grand Line.
+Dialogue: 0,0:11:51.97,0:11:53.76,Default,,0000,0000,0000,,Please hear me out.
+Dialogue: 0,0:11:54.68,0:11:58.18,Default,,0000,0000,0000,,Now, now! The music will have to wait.
+Dialogue: 0,0:11:58.18,0:12:01.68,Default,,0000,0000,0000,,It's true that we're comrades,\Nbut you're a whale and--
+Dialogue: 0,0:12:02.98,0:12:06.06,Default,,0000,0000,0000,,The Grand Line is dangerous! Honest!
+Dialogue: 0,0:12:06.06,0:12:07.73,Default,,0000,0000,0000,,Maybe you could come if you were an adult.
+Dialogue: 0,0:12:07.73,0:12:12.46,Default,,0000,0000,0000,,But there will be ferocious beasts unlike\Nanything we've seen in the West Blue!
+Dialogue: 0,0:12:12.46,0:12:14.17,Default,,0000,0000,0000,,Laboon, listen to--
+Dialogue: 0,0:12:24.71,0:12:27.10,Default,,0000,0000,0000,,Nope. He wouldn't listen to a word I said.
+Dialogue: 0,0:12:27.38,0:12:28.54,Default,,0000,0000,0000,,He wouldn't?
+Dialogue: 0,0:12:33.26,0:12:35.52,Default,,0000,0000,0000,,Maybe we should sing that song for a while.
+Dialogue: 0,0:12:36.14,0:12:38.14,Default,,0000,0000,0000,,That would have the opposite effect!
+Dialogue: 0,0:13:23.85,0:13:24.94,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:13:32.57,0:13:35.71,Default,,0000,0000,0000,,Forget it! I know it's hard,\Nbut avoid eye contact with him.
+Dialogue: 0,0:13:36.20,0:13:38.86,Default,,0000,0000,0000,,You are not allowed to sing or play your
+Dialogue: 0,0:13:38.86,0:13:40.67,Default,,0000,0000,0000,,\Ninstruments until Laboon leaves our ship.
+Dialogue: 0,0:14:12.69,0:14:14.53,Default,,0000,0000,0000,,Laboon...
+Dialogue: 0,0:14:37.88,0:14:40.65,Default,,0000,0000,0000,,The sails are about to rip, Captain!
+Dialogue: 0,0:14:40.89,0:14:42.60,Default,,0000,0000,0000,,The rudder isn't responding!
+Dialogue: 0,0:14:42.60,0:14:45.39,Default,,0000,0000,0000,,Keep the rudder steady! Pull up the sails!
+Dialogue: 0,0:14:45.39,0:14:46.54,Default,,0000,0000,0000,,We'll ride the storm!
+Dialogue: 0,0:14:46.54,0:14:49.78,Default,,0000,0000,0000,,The entrance to the Grand Line \Nawaits us on the other side!
+Dialogue: 0,0:14:55.48,0:14:59.86,Default,,0000,0000,0000,,Captain, there's light! Light dead ahead!
+Dialogue: 0,0:14:59.86,0:15:04.67,Default,,0000,0000,0000,,Look! The guiding light points\Nto the Grand Line's entrance.
+Dialogue: 0,0:15:06.12,0:15:06.88,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:15:07.66,0:15:08.63,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:15:09.08,0:15:11.37,Default,,0000,0000,0000,,Captain, it's time!
+Dialogue: 0,0:15:12.83,0:15:14.54,Default,,0000,0000,0000,,Does anyone see Laboon?
+Dialogue: 0,0:15:15.29,0:15:18.18,Default,,0000,0000,0000,,No, I haven't seen hide\Nnor hair of him for a week.
+Dialogue: 0,0:15:18.63,0:15:21.92,Default,,0000,0000,0000,,I feel bad for him, but \Nit was for his own good.
+Dialogue: 0,0:15:22.59,0:15:24.98,Default,,0000,0000,0000,,With any luck, he can return to his pod.
+Dialogue: 0,0:15:28.14,0:15:30.98,Default,,0000,0000,0000,,Men, are you mentally ready for this?
+Dialogue: 0,0:15:30.98,0:15:34.24,Default,,0000,0000,0000,,Yeah! We're ready when you are!
+Dialogue: 0,0:15:34.56,0:15:38.32,Default,,0000,0000,0000,,Let's go to the greatest ocean in the world!
+Dialogue: 0,0:15:38.32,0:15:39.91,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:13.98,0:16:16.44,Default,,0000,0000,0000,,I am Crocus, the lighthouse keeper.
+Dialogue: 0,0:16:16.44,0:16:18.95,Default,,0000,0000,0000,,Congratulations on crossing Reverse Mountain.
+Dialogue: 0,0:16:19.44,0:16:21.61,Default,,0000,0000,0000,,Welcome to the Pirates' Graveyard.
+Dialogue: 0,0:16:21.61,0:16:24.89,Default,,0000,0000,0000,,Oh, ouch! Don't jinx us, man!
+Dialogue: 0,0:16:27.20,0:16:30.29,Default,,0000,0000,0000,,I'm the captain of the \NRumbar Pirates, Yorkie.
+Dialogue: 0,0:16:30.29,0:16:34.26,Default,,0000,0000,0000,,In the West Blue, I've made a bit of a\Nreputation for myself as "Calico" Yorkie.
+Dialogue: 0,0:16:34.88,0:16:38.22,Default,,0000,0000,0000,,Sorry, Crocus-san, but our ship\Ntook a pretty bad beating...
+Dialogue: 0,0:16:38.25,0:16:40.24,Default,,0000,0000,0000,,You're welcome to stay as long as you like,
+Dialogue: 0,0:16:40.24,0:16:43.47,Default,,0000,0000,0000,,but provide my meals while you're here!
+Dialogue: 0,0:16:43.88,0:16:47.11,Default,,0000,0000,0000,,Dang! You want to sponge\Noff a bunch of pirates?
+Dialogue: 0,0:16:47.11,0:16:50.06,Default,,0000,0000,0000,,Okay, cool! Please celebrate with us.
+Dialogue: 0,0:16:50.06,0:16:53.32,Default,,0000,0000,0000,,We're going to throw a party today!
+Dialogue: 0,0:16:55.78,0:16:59.45,Default,,0000,0000,0000,,By the way, is the whale\Nthat came with you a pet?
+Dialogue: 0,0:17:02.57,0:17:05.58,Default,,0000,0000,0000,,Geh!!
+Dialogue: 0,0:17:09.24,0:17:11.49,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:17:14.91,0:17:15.88,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:17:19.21,0:17:23.05,Default,,0000,0000,0000,,You came with us? That was--
+Dialogue: 0,0:17:23.05,0:17:25.02,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:17:28.97,0:17:33.36,Default,,0000,0000,0000,,Laboon, thank you! This \Nis great! I'm so happy!
+Dialogue: 0,0:17:35.23,0:17:39.40,Default,,0000,0000,0000,,You're injured?! I can't believe\Nyou braved those stormy waters!
+Dialogue: 0,0:17:39.40,0:17:41.16,Default,,0000,0000,0000,,That was nuts, Laboon!
+Dialogue: 0,0:17:45.57,0:17:48.54,Default,,0000,0000,0000,,Hey, Brook! Let's sing that song.
+Dialogue: 0,0:17:48.54,0:17:50.62,Default,,0000,0000,0000,,Captain, you sure love that song.
+Dialogue: 0,0:17:50.62,0:17:53.42,Default,,0000,0000,0000,,You bet! It's perfect for pirates!
+Dialogue: 0,0:17:53.58,0:17:56.62,Default,,0000,0000,0000,,Laboon, you like it too, don't you?
+Dialogue: 0,0:18:01.96,0:18:06.26,Default,,0000,0000,0000,,♪ Yo-ho ho ho, yo-ho ho ho... ♪
+Dialogue: 0,0:18:06.26,0:18:10.47,Default,,0000,0000,0000,,♪ Yo-ho ho ho, yo-ho ho ho ♪
+Dialogue: 0,0:18:10.47,0:18:14.81,Default,,0000,0000,0000,,♪ Yo-ho ho ho, yo-ho ho ho... ♪
+Dialogue: 0,0:18:14.81,0:18:18.90,Default,,0000,0000,0000,,♪ Yo-ho ho ho, yo-ho ho ho ♪
+Dialogue: 0,0:18:23.40,0:18:25.53,Default,,0000,0000,0000,,♪ We're on our way... ♪
+Dialogue: 0,0:18:25.53,0:18:27.65,Default,,0000,0000,0000,,♪ ...to deliver Bink's booze ♪
+Dialogue: 0,0:18:27.65,0:18:29.82,Default,,0000,0000,0000,,♪ Sail leisurely with the sea breeze ♪
+Dialogue: 0,0:18:29.82,0:18:31.99,Default,,0000,0000,0000,,♪ Sail with the waves ♪
+Dialogue: 0,0:18:31.99,0:18:36.20,Default,,0000,0000,0000,,♪ The setting sun romps about\Non the other side of the tide ♪
+Dialogue: 0,0:18:36.20,0:18:40.37,Default,,0000,0000,0000,,--♪ A ring of birds in the sky sing ♪\N--Crocus-san, would you like to make a request?
+Dialogue: 0,0:18:40.37,0:18:42.92,On Top,,0000,0000,0000,,Brook, you can play anything, can't you?
+Dialogue: 0,0:18:40.37,0:18:42.92,Default,,0000,0000,0000,,♪ Bid farewell to the port\Nof the weaving village ♪
+Dialogue: 0,0:18:44.59,0:18:49.09,Default,,0000,0000,0000,,--♪ As we set sail, we shall sing heartily ♪\N--Pirates love to sing!
+Dialogue: 0,0:18:49.09,0:18:53.43,Default,,0000,0000,0000,,♪ Silver and gold waves \Nturn into ocean spray ♪
+Dialogue: 0,0:18:53.43,0:18:57.40,Default,,0000,0000,0000,,♪ We are off, bound for\Nthe ends of the ocean ♪
+Dialogue: 0,0:19:08.19,0:19:11.59,Default,,0000,0000,0000,,Please understand. You can't\Nrepeat what you did last time.
+Dialogue: 0,0:19:12.20,0:19:14.21,Default,,0000,0000,0000,,The Grand Line is too dangerous.
+Dialogue: 0,0:19:16.20,0:19:20.59,Default,,0000,0000,0000,,I'm afraid that you are simply\Ntoo small to take with us!
+Dialogue: 0,0:19:24.25,0:19:25.09,Default,,0000,0000,0000,,Listen to me.
+Dialogue: 0,0:19:25.59,0:19:29.44,Default,,0000,0000,0000,,We have no idea what to \Nexpect from here on out.
+Dialogue: 0,0:19:29.44,0:19:33.29,Default,,0000,0000,0000,,Now what do you think everyone would do
+Dialogue: 0,0:19:33.29,0:19:35.19,Default,,0000,0000,0000,,if harm should come your way?
+Dialogue: 0,0:19:37.47,0:19:40.37,Default,,0000,0000,0000,,We wouldn't hesitate to save you.
+Dialogue: 0,0:19:41.02,0:19:45.66,Default,,0000,0000,0000,,We'd try, even if that spelled\Nthe end of the Rumbar Pirates!
+Dialogue: 0,0:19:48.65,0:19:51.69,Default,,0000,0000,0000,,Please understand! I'm begging you.
+Dialogue: 0,0:19:52.95,0:19:56.05,Default,,0000,0000,0000,,I don't want to leave you, either.
+Dialogue: 0,0:19:57.45,0:20:00.32,Default,,0000,0000,0000,,You don't know how hard\Nit was for me last time!
+Dialogue: 0,0:20:01.75,0:20:05.14,Default,,0000,0000,0000,,But... But...!
+Dialogue: 0,0:20:11.67,0:20:13.68,Default,,0000,0000,0000,,We aren't leaving him.
+Dialogue: 0,0:20:14.76,0:20:15.77,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:20:17.14,0:20:19.68,Default,,0000,0000,0000,,Laboon! Wait for us!
+Dialogue: 0,0:20:20.27,0:20:25.45,Default,,0000,0000,0000,,We're going to travel straight--\Njust straight--across this ocean!
+Dialogue: 0,0:20:26.36,0:20:27.95,Default,,0000,0000,0000,,And you know what, Laboon?
+Dialogue: 0,0:20:28.57,0:20:34.43,Default,,0000,0000,0000,,Amazingly enough, our ship will return\Nto the other side of the Red Line.
+Dialogue: 0,0:20:34.82,0:20:39.24,Default,,0000,0000,0000,,We'll cross the wall again\Nand return to this cape.
+Dialogue: 0,0:20:39.79,0:20:41.55,Default,,0000,0000,0000,,Please wait for us!
+Dialogue: 0,0:20:42.00,0:20:44.29,Default,,0000,0000,0000,,You just have to hang tight\Nfor two or three years.
+Dialogue: 0,0:20:44.29,0:20:46.30,Default,,0000,0000,0000,,Then you'll get to see everyone again!
+Dialogue: 0,0:20:48.46,0:20:49.76,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:20:50.42,0:20:51.89,Default,,0000,0000,0000,,Isn't that right, Brook?
+Dialogue: 0,0:20:52.63,0:20:57.68,Default,,0000,0000,0000,,Yes! I swear that we will come back for you.
+Dialogue: 0,0:20:58.39,0:21:03.07,Default,,0000,0000,0000,,By then, you should be big and strong.
+Dialogue: 0,0:21:03.48,0:21:06.10,Default,,0000,0000,0000,,--Later!\N--See ya, Laboon!
+Dialogue: 0,0:21:06.10,0:21:08.28,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:21:08.28,0:21:13.64,Default,,0000,0000,0000,,Laboon, let's go on adventures\Ntogether all across the ocean!
+Dialogue: 0,0:21:14.74,0:21:17.98,Default,,0000,0000,0000,,We're buddies!
+Dialogue: 0,0:21:24.54,0:21:28.13,Default,,0000,0000,0000,,--Thank you!\N--Goodbye!\N--Laboon!
+Dialogue: 0,0:21:28.13,0:21:31.25,Default,,0000,0000,0000,,I'm so glad you understand!
+Dialogue: 0,0:21:31.25,0:21:33.56,Default,,0000,0000,0000,,Thank you, Laboon!
+Dialogue: 0,0:21:48.19,0:21:54.36,Default,,0000,0000,0000,,Laboon! We'll now go into the\NGrand Line and travel around the world.
+Dialogue: 0,0:21:55.03,0:21:56.58,Default,,0000,0000,0000,,But you wait for us here.
+Dialogue: 0,0:22:17.42,0:22:21.18,Default,,0000,0000,0000,,"Three Years Later"
+Dialogue: 0,0:22:21.71,0:22:28.35,Default,,0000,0000,0000,,"Florian Triangle"
+Dialogue: 0,0:23:25.79,0:23:27.62,Default,,0000,0000,0000,,I will deliver this. I swear it!
+Dialogue: 0,0:23:28.08,0:23:31.75,Default,,0000,0000,0000,,It holds the song that Laboon,\Nthe captain, and the rest of us loved!
+Dialogue: 0,0:23:31.75,0:23:34.96,Default,,0000,0000,0000,,I promised my crewmates\Nthat I would take it to him.
+Dialogue: 0,0:23:34.96,0:23:37.14,Default,,0000,0000,0000,,It has the choral number of a lifetime
+Dialogue: 0,0:23:35.96,0:23:37.96,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:37.46,0:23:40.02,Default,,0000,0000,0000,,performed by the Rumbar Pirates,\Nwho make crying children laugh!
+Dialogue: 0,0:23:40.02,0:23:41.63,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.63,0:23:44.93,Default,,0000,0000,0000,,"Bink's Booze! The Song that\NConnects the Past with the Present!"
+Dialogue: 0,0:23:44.93,0:23:46.98,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.35,0:23:49.35,Default,,0000,0000,0000,,

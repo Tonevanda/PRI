@@ -1,0 +1,233 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:51.80,0:01:53.71,Default,,0000,0000,0000,,Who are they?
+Dialogue: 0,0:01:55.77,0:01:57.81,Default,,0000,0000,0000,,Kicking Claw Force!
+Dialogue: 0,0:01:59.84,0:02:01.45,Default,,0000,0000,0000,,Those bruises...!
+Dialogue: 0,0:02:02.81,0:02:06.35,Default,,0000,0000,0000,,They drank the water that\Nshortens their lives... the fatal fuel...
+Dialogue: 0,0:02:06.35,0:02:09.55,Default,,0000,0000,0000,,They only have a few minutes left to live...
+Dialogue: 0,0:02:16.76,0:02:21.50,Default,,0000,0000,0000,,If you're gonna die anyway, I don't\Neven have to kill you myself, right?
+Dialogue: 0,0:02:27.47,0:02:29.54,Default,,0000,0000,0000,,You wicked fiend...!
+Dialogue: 0,0:02:33.71,0:02:37.08,Default,,0000,0000,0000,,This is the very definition of stupidity.
+Dialogue: 0,0:02:39.99,0:02:42.89,Default,,0000,0000,0000,,Howling Fangs!
+Dialogue: 0,0:02:42.89,0:02:48.96,Default,,0000,0000,0000,,So you're the type...\Nwho'd die for your country, too?
+Dialogue: 0,0:02:52.36,0:02:55.20,Default,,0000,0000,0000,,H-Hold it!
+Dialogue: 0,0:02:55.20,0:02:56.87,Default,,0000,0000,0000,,Koza-san!
+Dialogue: 0,0:02:58.10,0:03:00.27,Default,,0000,0000,0000,,The battle is over!
+Dialogue: 0,0:03:00.27,0:03:04.31,Default,,0000,0000,0000,,Everyone! Subdue your anger\Nand drop your weapon!
+Dialogue: 0,0:03:04.31,0:03:08.35,Default,,0000,0000,0000,,The Royal Army no longer\Nhas the will to fight!
+Dialogue: 0,0:03:11.12,0:03:13.52,Default,,0000,0000,0000,,Is that true...? Koza-san...?!
+Dialogue: 0,0:03:13.52,0:03:16.72,Default,,0000,0000,0000,,Yeah... the battle is now...
+Dialogue: 0,0:03:23.26,0:03:27.50,Default,,0000,0000,0000,,Koza!
+Dialogue: 0,0:03:35.01,0:03:39.34,Default,,0000,0000,0000,,"Where Vivi's Voice Gets Heard!\NThe Hero Descends!"
+Dialogue: 0,0:03:49.19,0:03:52.09,Default,,0000,0000,0000,,Koza!
+Dialogue: 0,0:03:52.09,0:03:58.00,Default,,0000,0000,0000,,We're gonna make an awesome city\Nand make this kingdom even lusher!
+Dialogue: 0,0:03:58.00,0:03:59.70,Default,,0000,0000,0000,,For sure!
+Dialogue: 0,0:04:09.84,0:04:16.85,Default,,0000,0000,0000,,D... Don't fight... Rebel... Army...
+Dialogue: 0,0:04:16.85,0:04:19.58,Default,,0000,0000,0000,,--Koza-san!\N--Koza-san!
+Dialogue: 0,0:04:22.39,0:04:23.72,Default,,0000,0000,0000,,Koza-san!
+Dialogue: 0,0:04:23.72,0:04:25.86,Default,,0000,0000,0000,,How dare you shoot Koza-san?!
+Dialogue: 0,0:04:25.86,0:04:27.83,Default,,0000,0000,0000,,Get them!
+Dialogue: 0,0:04:33.06,0:04:35.40,Default,,0000,0000,0000,,Baroque Works!
+Dialogue: 0,0:04:42.87,0:04:46.21,Default,,0000,0000,0000,,You...! Why'd you shoot Koza?!
+Dialogue: 0,0:04:53.69,0:04:58.49,Default,,0000,0000,0000,,Rebel Army... L-Listen to me...
+Dialogue: 0,0:04:59.72,0:05:03.43,Default,,0000,0000,0000,,Ahhh! What's going on?!\NA sandstorm suddenly...!
+Dialogue: 0,0:05:04.70,0:05:06.93,Default,,0000,0000,0000,,Rebel Army...!
+Dialogue: 0,0:05:11.00,0:05:15.51,Default,,0000,0000,0000,,They started shooting at us!\NThose bastards...!
+Dialogue: 0,0:05:22.05,0:05:24.52,Default,,0000,0000,0000,,What's with this dust devil?!
+Dialogue: 0,0:05:24.52,0:05:26.35,Default,,0000,0000,0000,,We can't see ahead!
+Dialogue: 0,0:05:31.16,0:05:33.73,Default,,0000,0000,0000,,Dammit! Those bastards...!
+Dialogue: 0,0:05:38.70,0:05:40.00,Default,,0000,0000,0000,,Don't shoot carelessly!
+Dialogue: 0,0:05:40.00,0:05:41.50,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:05:41.50,0:05:44.20,Default,,0000,0000,0000,,Humph! There's nothing to wonder about,
+Dialogue: 0,0:05:44.20,0:05:49.31,Default,,0000,0000,0000,,since Baroque Works members\Ninfiltrated both armies.
+Dialogue: 0,0:05:54.98,0:05:56.28,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:05:56.28,0:05:58.65,Default,,0000,0000,0000,,Hey! Hang in there!
+Dialogue: 0,0:06:05.99,0:06:08.53,Default,,0000,0000,0000,,Surrender, my ass...!
+Dialogue: 0,0:06:08.53,0:06:12.20,Default,,0000,0000,0000,,Launching a surprise attack\Nby raising the white flag...!
+Dialogue: 0,0:06:12.20,0:06:15.57,Default,,0000,0000,0000,,Is this how the Royal Army works?!
+Dialogue: 0,0:06:15.57,0:06:18.34,Default,,0000,0000,0000,,How dare they play dirty?!
+Dialogue: 0,0:06:23.37,0:06:28.15,Default,,0000,0000,0000,,Please! Stop, everyone! Don't fight!
+Dialogue: 0,0:06:28.15,0:06:31.15,Default,,0000,0000,0000,,Look! I'm here!
+Dialogue: 0,0:06:33.25,0:06:39.79,Default,,0000,0000,0000,,S... Stop... Rebel Army... This battle is...
+Dialogue: 0,0:06:54.17,0:06:55.84,Default,,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:06:57.11,0:07:00.04,Default,,0000,0000,0000,,Counterattack! Royal Army!
+Dialogue: 0,0:07:31.88,0:07:35.08,Default,,0000,0000,0000,,Stop...! Stop already...
+Dialogue: 0,0:07:37.48,0:07:43.76,Default,,0000,0000,0000,,Please... Stop... Stop...
+Dialogue: 0,0:07:45.62,0:07:49.29,Default,,0000,0000,0000,,You fought well, young lady...
+Dialogue: 0,0:07:49.29,0:07:54.07,Default,,0000,0000,0000,,But... your voice will no longer reach them...
+Dialogue: 0,0:08:08.31,0:08:10.62,Default,,0000,0000,0000,,So this is it...
+Dialogue: 0,0:08:15.25,0:08:17.02,Default,,0000,0000,0000,,Run, Vivi!
+Dialogue: 0,0:08:17.02,0:08:20.33,Default,,0000,0000,0000,,Get away from that man!
+Dialogue: 0,0:08:28.90,0:08:30.87,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:08:35.44,0:08:39.31,Default,,0000,0000,0000,,This dust devil... is your doing, isn't it?
+Dialogue: 0,0:08:41.28,0:08:42.95,Default,,0000,0000,0000,,Not yet...
+Dialogue: 0,0:08:44.32,0:08:48.85,Default,,0000,0000,0000,,If I stop the attack that's\Nscheduled to happen in 15 minutes,
+Dialogue: 0,0:08:48.85,0:08:51.29,Default,,0000,0000,0000,,I can still reduce the number of casualties!
+Dialogue: 0,0:08:56.16,0:09:02.27,Default,,0000,0000,0000,,If we do this, the rebellion will stop.\NIf we do that, the rebellion will stop.
+Dialogue: 0,0:09:02.27,0:09:05.54,Default,,0000,0000,0000,,Wake up, Princess.
+Dialogue: 0,0:09:05.54,0:09:09.87,Default,,0000,0000,0000,,I can't stand how annoying\Nyour idealistic theory is.
+Dialogue: 0,0:09:12.88,0:09:19.22,Default,,0000,0000,0000,,If you wanna talk about ideals,\Nyou have to be able to make them real.
+Dialogue: 0,0:09:19.22,0:09:22.39,Default,,0000,0000,0000,,You're not qualified to do that!
+Dialogue: 0,0:09:25.59,0:09:28.99,Default,,0000,0000,0000,,I don't care if it's annoying.
+Dialogue: 0,0:09:28.99,0:09:31.46,Default,,0000,0000,0000,,I won't give up on my ideals, either!
+Dialogue: 0,0:09:33.90,0:09:39.60,Default,,0000,0000,0000,,You could never understand!\NI'm the princess of this country.
+Dialogue: 0,0:09:39.60,0:09:42.24,Default,,0000,0000,0000,,I won't give in to someone like you!
+Dialogue: 0,0:09:46.71,0:09:50.38,Default,,0000,0000,0000,,You really have no charm...
+Dialogue: 0,0:09:50.38,0:09:54.62,Default,,0000,0000,0000,,I won't give up... I will...
+Dialogue: 0,0:09:57.29,0:10:01.19,Default,,0000,0000,0000,,I will... save this country...!
+Dialogue: 0,0:10:07.50,0:10:09.13,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:10:20.58,0:10:24.32,Default,,0000,0000,0000,,15 minutes until the Square is blown up.
+Dialogue: 0,0:10:24.32,0:10:30.05,Default,,0000,0000,0000,,More and more of the auxiliary\Nrebel forces will gather here...
+Dialogue: 0,0:10:30.05,0:10:35.89,Default,,0000,0000,0000,,One after another, all without\Nrealizing their own fate...
+Dialogue: 0,0:10:46.00,0:10:50.81,Default,,0000,0000,0000,,Had you let the Royal Army know earlier\Nabout the explosion on the Square...
+Dialogue: 0,0:10:50.81,0:10:52.68,Default,,0000,0000,0000,,...even if there had been a panic,
+Dialogue: 0,0:10:52.68,0:10:57.18,Default,,0000,0000,0000,,you could've saved thousands\Nor tens of thousands of lives...
+Dialogue: 0,0:10:58.85,0:11:03.19,Default,,0000,0000,0000,,Stop! Please stop it, Crocodile!
+Dialogue: 0,0:11:06.86,0:11:11.86,Default,,0000,0000,0000,,In the end, your optimistic\Nideas about saving everything
+Dialogue: 0,0:11:11.86,0:11:17.74,Default,,0000,0000,0000,,have resulted in the deaths of\Nall the citizens you love so much.
+Dialogue: 0,0:11:23.14,0:11:32.15,Default,,0000,0000,0000,,From start to finish, everyone\Nin this country... amused me.
+Dialogue: 0,0:11:40.53,0:11:46.46,Default,,0000,0000,0000,,You did a fine job of spying on our\Ncompany for the past two years...
+Dialogue: 0,0:11:48.10,0:11:51.80,Default,,0000,0000,0000,,It's me! Don't you recognize me?
+Dialogue: 0,0:11:51.80,0:11:56.01,Default,,0000,0000,0000,,I suppose I can't blame you.\NI did lose some weight...
+Dialogue: 0,0:11:57.74,0:12:02.85,Default,,0000,0000,0000,,But when all is said and done,\Nyou guys couldn't stop anything.
+Dialogue: 0,0:12:02.85,0:12:06.62,Default,,0000,0000,0000,,Stopping the rebellion...\NSaving the kingdom...
+Dialogue: 0,0:12:06.62,0:12:13.52,Default,,0000,0000,0000,,Your worthless ideals... only created\Nmore unnecessary victims...
+Dialogue: 0,0:12:15.79,0:12:18.03,Default,,0000,0000,0000,,Let me tell you something...
+Dialogue: 0,0:12:19.53,0:12:22.10,Default,,0000,0000,0000,,You can't save this country.
+Dialogue: 0,0:12:24.27,0:12:26.64,Default,,0000,0000,0000,,Goodbye, Princess...
+Dialogue: 0,0:13:11.15,0:13:12.68,Default,,0000,0000,0000,,It can't be...
+Dialogue: 0,0:13:14.02,0:13:17.82,Default,,0000,0000,0000,,Crocodile!!
+Dialogue: 0,0:13:21.59,0:13:23.23,Default,,0000,0000,0000,,Luffy-san!
+Dialogue: 0,0:13:26.06,0:13:27.73,Default,,0000,0000,0000,,Straw Hat...!
+Dialogue: 0,0:14:19.92,0:14:21.79,Default,,0000,0000,0000,,Just in time.
+Dialogue: 0,0:14:25.89,0:14:28.83,Default,,0000,0000,0000,,Luffy-san...! Pell...!
+Dialogue: 0,0:14:31.33,0:14:35.00,Default,,0000,0000,0000,,There isn't much time left\Nbefore the Square is blown up.
+Dialogue: 0,0:14:38.44,0:14:42.71,Default,,0000,0000,0000,,Everyone... is already down...
+Dialogue: 0,0:14:45.28,0:14:51.25,Default,,0000,0000,0000,,My voice... no longer reaches anyone...
+Dialogue: 0,0:14:51.25,0:14:55.02,Default,,0000,0000,0000,,At this rate, the country will...
+Dialogue: 0,0:14:57.22,0:14:59.19,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:15:09.93,0:15:13.14,Default,,0000,0000,0000,,Your voice is heard by us.
+Dialogue: 0,0:15:17.14,0:15:18.91,Default,,0000,0000,0000,,Yes...!
+Dialogue: 0,0:15:22.31,0:15:26.65,Default,,0000,0000,0000,,Again, I'm saying that my injuries\Nare obviously worse than yours.
+Dialogue: 0,0:15:26.65,0:15:30.99,Default,,0000,0000,0000,,You're a man, so stop whining!\NMy leg is injured! I can't stand!
+Dialogue: 0,0:15:30.99,0:15:33.12,Default,,0000,0000,0000,,Ahh, I'm fainting. This is bad.
+Dialogue: 0,0:15:33.12,0:15:34.83,Default,,0000,0000,0000,,You're lying!
+Dialogue: 0,0:15:44.30,0:15:47.51,Default,,0000,0000,0000,,Be careful... Luffy-kun.
+Dialogue: 0,0:15:47.51,0:15:51.21,Default,,0000,0000,0000,,I ate lots of meat, so I got tons of blood!
+Dialogue: 0,0:16:02.29,0:16:04.16,Default,,0000,0000,0000,,I won't...
+Dialogue: 0,0:16:04.16,0:16:05.99,Default,,0000,0000,0000,,...lose again!
+Dialogue: 0,0:16:11.43,0:16:14.73,Default,,0000,0000,0000,,How did he get out of that\Nquicksand with those injuries...?
+Dialogue: 0,0:16:21.01,0:16:23.67,Default,,0000,0000,0000,,Luffy's alive!
+Dialogue: 0,0:16:24.68,0:16:25.78,Default,,0000,0000,0000,,Tony-kun!
+Dialogue: 0,0:16:25.78,0:16:29.38,Default,,0000,0000,0000,,Wh-Wh-What?! Luffy!
+Dialogue: 0,0:16:29.38,0:16:32.08,Default,,0000,0000,0000,,Vivi's here, too!
+Dialogue: 0,0:16:32.08,0:16:36.29,Default,,0000,0000,0000,,See?! See?! I told you! I knew it!
+Dialogue: 0,0:16:36.29,0:16:37.42,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:16:37.42,0:16:40.56,Default,,0000,0000,0000,,You don't look like someone who knew!
+Dialogue: 0,0:16:42.69,0:16:44.86,Default,,0000,0000,0000,,Usopp-san! Sanji-san!
+Dialogue: 0,0:16:44.86,0:16:49.93,Default,,0000,0000,0000,,Ahhh! What the hell, Vivi-chan?!\NYou're hurt so bad!
+Dialogue: 0,0:16:49.93,0:16:52.04,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:16:52.04,0:16:54.84,Default,,0000,0000,0000,,Nami-san... Mr. Bushido...
+Dialogue: 0,0:16:56.77,0:16:59.24,Default,,0000,0000,0000,,Everyone's alive...
+Dialogue: 0,0:16:59.24,0:17:03.68,Default,,0000,0000,0000,,Who asked you to create a prop for parties?!
+Dialogue: 0,0:17:03.68,0:17:05.58,Default,,0000,0000,0000,,Hey, you're standing!
+Dialogue: 0,0:17:05.58,0:17:08.19,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:17:08.19,0:17:12.06,Default,,0000,0000,0000,,It... It did have a powerful attack, didn't it?
+Dialogue: 0,0:17:12.06,0:17:15.29,Default,,0000,0000,0000,,I'll deal with you later!
+Dialogue: 0,0:17:15.29,0:17:19.90,Default,,0000,0000,0000,,Vivi... So what's going on?\NWhat's with this dust devil?
+Dialogue: 0,0:17:19.90,0:17:21.40,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:17:22.43,0:17:27.20,Default,,0000,0000,0000,,Hey, you jerk! Why is Nami-san\Ninjured?! I'm gonna gut you!
+Dialogue: 0,0:17:27.20,0:17:29.51,Default,,0000,0000,0000,,She's just fine, isn't she...?
+Dialogue: 0,0:17:29.51,0:17:33.48,Default,,0000,0000,0000,,Ahh... Chopper, I have a favor to ask.
+Dialogue: 0,0:17:33.48,0:17:36.91,Default,,0000,0000,0000,,Will you bury my body in a wasteland?
+Dialogue: 0,0:17:36.91,0:17:39.52,Default,,0000,0000,0000,,He's already got fatal wounds!
+Dialogue: 0,0:17:52.76,0:17:58.44,Default,,0000,0000,0000,,Sorry, guys. I lost against him once...
+Dialogue: 0,0:17:59.50,0:18:01.07,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:18:03.34,0:18:05.68,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:18:05.68,0:18:09.05,Default,,0000,0000,0000,,...I won't lose again!\NI'll leave the rest to you!
+Dialogue: 0,0:18:09.05,0:18:11.15,Default,,0000,0000,0000,,Go already.
+Dialogue: 0,0:18:13.38,0:18:15.92,Default,,0000,0000,0000,,If you can't win...
+Dialogue: 0,0:18:15.92,0:18:18.76,Default,,0000,0000,0000,,...who can?!
+Dialogue: 0,0:18:24.43,0:18:27.67,Default,,0000,0000,0000,,I'm gonna put an end...
+Dialogue: 0,0:18:27.67,0:18:29.20,Default,,0000,0000,0000,,...to all this!
+Dialogue: 0,0:18:29.20,0:18:31.70,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:36.41,0:18:38.98,Default,,0000,0000,0000,,Everyone...
+Dialogue: 0,0:18:38.98,0:18:42.88,Default,,0000,0000,0000,,I still have... this many friends...
+Dialogue: 0,0:18:49.35,0:18:52.29,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:18:59.80,0:19:05.87,Default,,0000,0000,0000,,No matter how many times\Nyou try, you can't even hit me.
+Dialogue: 0,0:19:05.87,0:19:09.07,Default,,0000,0000,0000,,Looks like you wanna be skewered again.
+Dialogue: 0,0:19:45.24,0:19:47.08,Default,,0000,0000,0000,,Gum-Gum...!
+Dialogue: 0,0:19:47.08,0:19:49.51,Default,,0000,0000,0000,,Who is that?!
+Dialogue: 0,0:20:00.49,0:20:03.03,Default,,0000,0000,0000,,Could he... possibly...?!
+Dialogue: 0,0:20:03.03,0:20:06.60,Default,,0000,0000,0000,,...Buzzsaw!
+Dialogue: 0,0:20:35.66,0:20:38.00,Default,,0000,0000,0000,,He hit Crocodile...!
+Dialogue: 0,0:20:54.51,0:20:56.28,Default,,0000,0000,0000,,Well, well...
+Dialogue: 0,0:21:20.44,0:21:22.14,Default,,0000,0000,0000,,Get up.
+Dialogue: 0,0:21:23.57,0:21:28.81,Default,,0000,0000,0000,,That time, the water that dropped on\Nyour hand... the water I got in Yuba...
+Dialogue: 0,0:21:28.81,0:21:34.52,Default,,0000,0000,0000,,...taught me that you can't turn\Ninto sand once you touch water.
+Dialogue: 0,0:21:34.52,0:21:38.96,Default,,0000,0000,0000,,You take rain away because\Nyou're afraid of water, right?
+Dialogue: 0,0:21:42.96,0:21:45.46,Default,,0000,0000,0000,,Now I can beat you up.
+Dialogue: 0,0:21:47.56,0:21:49.80,Default,,0000,0000,0000,,Our fight starts now.
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.55,0:23:12.82,Default,,0000,0000,0000,,Crocodile! I'll beat you up this time!
+Dialogue: 0,0:23:12.82,0:23:14.95,Default,,0000,0000,0000,,Luffy! Don't lose against a guy like him!
+Dialogue: 0,0:23:14.95,0:23:16.82,Default,,0000,0000,0000,,Geez... You sure took your time getting here.
+Dialogue: 0,0:23:16.82,0:23:18.69,Default,,0000,0000,0000,,Okay, then! I'll leave the rest to you!
+Dialogue: 0,0:23:18.69,0:23:21.56,Default,,0000,0000,0000,,Hey! Don't run away!\NWe're gonna look for the cannoneer!
+Dialogue: 0,0:23:21.56,0:23:25.53,Default,,0000,0000,0000,,--Is he nearby?!\N--There's no time left! This is the last chance!
+Dialogue: 0,0:23:25.53,0:23:26.90,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.90,0:23:30.47,Default,,0000,0000,0000,,"Sand Gator and Water Luffy!\NThe Second Round of the Duel"
+Dialogue: 0,0:23:30.47,0:23:32.80,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.80,0:23:37.30,Default,,0000,0000,0000,,

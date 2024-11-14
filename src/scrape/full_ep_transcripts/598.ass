@@ -1,0 +1,279 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:49.21,0:02:52.69,Default,,0000,0000,0000,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:52.69,0:02:57.65,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:02:59.95,0:03:06.41,Default,,0000,0000,0000,,However, no one has ever fully explored it \Nexcept for Gold Roger, King of the Pirates.
+Dialogue: 0,0:03:07.29,0:03:12.42,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:14.29,0:03:20.34,Default,,0000,0000,0000,,Now, Monkey D. Luffy, a boy whose body \Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:20.34,0:03:22.34,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:22.93,0:03:26.72,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:29.84,0:03:31.93,Default,,0000,0000,0000,,After surviving a fierce battle,
+Dialogue: 0,0:03:31.93,0:03:37.32,Default,,0000,0000,0000,,the Straw Hats finally entered the New \NWorld, the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:37.93,0:03:42.03,Default,,0000,0000,0000,,After landing on Punk Hazard; an island with \Ntwo parts, one burning, the other frozen,
+Dialogue: 0,0:03:42.11,0:03:46.28,Default,,0000,0000,0000,,they learned about the hideous experiments \Nperformed by Caesar Clown, the Master,
+Dialogue: 0,0:03:46.48,0:03:48.86,Default,,0000,0000,0000,,and headed off to investigate \Nbut as things got going,
+Dialogue: 0,0:03:48.86,0:03:53.29,Default,,0000,0000,0000,,they came to form an alliance with the \NHeart Pirates led by Trafalgar Law.
+Dialogue: 0,0:03:53.70,0:03:57.67,Default,,0000,0000,0000,,And Luffy finally encountered Caesar!
+Dialogue: 0,0:04:04.96,0:04:06.97,Default,,0000,0000,0000,,You shouldn't underestimate me.
+Dialogue: 0,0:04:10.92,0:04:14.10,Default,,0000,0000,0000,,Who is there?!
+Dialogue: 0,0:04:17.56,0:04:19.92,Default,,0000,0000,0000,,Why are you...
+Dialogue: 0,0:04:21.23,0:04:23.28,Default,,0000,0000,0000,,...here?!
+Dialogue: 0,0:04:29.19,0:04:31.26,Default,,0000,0000,0000,,It's been years.
+Dialogue: 0,0:04:32.61,0:04:34.57,Default,,0000,0000,0000,,You've grown up.
+Dialogue: 0,0:04:35.50,0:04:36.62,Default,,0000,0000,0000,,Law.
+Dialogue: 0,0:04:47.50,0:04:51.70,Default,,0000,0000,0000,,"A Samurai Who Can Cut \NFire! Foxfire Kin'emon!"
+Dialogue: 0,0:05:06.86,0:05:11.04,Default,,0000,0000,0000,,Do you really think that he had no idea?
+Dialogue: 0,0:05:14.61,0:05:18.40,Default,,0000,0000,0000,,We don't trust Caesar, either.
+Dialogue: 0,0:05:20.78,0:05:25.72,Default,,0000,0000,0000,,That's why he was being careful \Nand sent an undercover agent.
+Dialogue: 0,0:05:25.72,0:05:27.27,Default,,0000,0000,0000,,Monet is that agent.
+Dialogue: 0,0:05:29.42,0:05:32.05,Default,,0000,0000,0000,,You're a Warlord-sama now, aren't you?
+Dialogue: 0,0:05:32.89,0:05:34.41,Default,,0000,0000,0000,,You've done so well.
+Dialogue: 0,0:05:37.80,0:05:39.44,Default,,0000,0000,0000,,When did you come here?
+Dialogue: 0,0:05:40.80,0:05:41.52,Default,,0000,0000,0000,,Vergo!
+Dialogue: 0,0:05:43.98,0:05:48.67,Default,,0000,0000,0000,,Just arrived. Luckily, I was at Dressrosa.
+Dialogue: 0,0:05:49.19,0:05:52.49,Default,,0000,0000,0000,,I got a ride in an SAD tanker \Nthat was about to leave.
+Dialogue: 0,0:05:53.36,0:05:54.82,Default,,0000,0000,0000,,It was the right move.
+Dialogue: 0,0:05:55.43,0:05:58.16,Default,,0000,0000,0000,,The right move?!
+Dialogue: 0,0:05:58.70,0:06:01.70,Default,,0000,0000,0000,,Did I cause any harm to you guys?!
+Dialogue: 0,0:06:01.70,0:06:06.26,Default,,0000,0000,0000,,No but if you did, you'd be dead by now.
+Dialogue: 0,0:06:06.56,0:06:10.64,Default,,0000,0000,0000,,You can't fool grown-ups, Law.
+Dialogue: 0,0:06:12.39,0:06:17.13,Default,,0000,0000,0000,,In that case, I should just finish you!
+Dialogue: 0,0:06:18.05,0:06:20.85,Default,,0000,0000,0000,,Oh, I forgot to mention.
+Dialogue: 0,0:06:24.21,0:06:25.91,Default,,0000,0000,0000,,You've got to say it properly.
+Dialogue: 0,0:06:40.47,0:06:42.47,Default,,0000,0000,0000,,It's Vergo-san to you.
+Dialogue: 0,0:06:47.84,0:06:52.01,OS,,0000,0000,0000,,IN FRONT OF THE LABORATORY LUFFY'S GROUP
+Dialogue: 0,0:07:03.80,0:07:05.36,Default,,0000,0000,0000,,What just happened?
+Dialogue: 0,0:07:06.05,0:07:07.80,Default,,0000,0000,0000,,I have no idea.
+Dialogue: 0,0:07:07.80,0:07:09.36,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:07:12.60,0:07:14.43,Default,,0000,0000,0000,,Tashigi-chan!
+Dialogue: 0,0:07:14.43,0:07:15.83,Default,,0000,0000,0000,,It's Vice Admiral Smoker!
+Dialogue: 0,0:07:21.90,0:07:26.09,Default,,0000,0000,0000,,I can't believe I saw him \Nget taken down twice a day.
+Dialogue: 0,0:07:26.65,0:07:30.74,Default,,0000,0000,0000,,Three of the Straw Hats got beaten, too!
+Dialogue: 0,0:07:30.74,0:07:33.24,Default,,0000,0000,0000,,Was it Conqueror's Haki?!
+Dialogue: 0,0:07:33.24,0:07:36.66,Default,,0000,0000,0000,,No way! There can't be that much \Ndifference in their strength!
+Dialogue: 0,0:07:36.66,0:07:41.06,Default,,0000,0000,0000,,Then what was it?! He beat all of \Nthem without even touching them!
+Dialogue: 0,0:07:47.88,0:07:49.88,Default,,0000,0000,0000,,That serves you right, Navy!
+Dialogue: 0,0:07:49.88,0:07:53.99,Default,,0000,0000,0000,,That was what our savior \N- Master is capable of!
+Dialogue: 0,0:07:54.14,0:07:58.43,Default,,0000,0000,0000,,Master! Master! Master! Master!
+Dialogue: 0,0:07:58.43,0:08:01.76,Default,,0000,0000,0000,,Master! Master! Master!
+Dialogue: 0,0:08:03.27,0:08:06.23,Default,,0000,0000,0000,,My strong soldiers!
+Dialogue: 0,0:08:06.23,0:08:08.84,Default,,0000,0000,0000,,Tie these five up!
+Dialogue: 0,0:08:09.36,0:08:12.14,Default,,0000,0000,0000,,Use Sea Prism Stone chains \Nfor the Devil Fruit eaters!
+Dialogue: 0,0:08:12.86,0:08:17.74,Default,,0000,0000,0000,,Leave the Navy soldiers here \Nand get inside the laboratory.
+Dialogue: 0,0:08:17.74,0:08:19.51,Default,,0000,0000,0000,,It's dangerous out here.
+Dialogue: 0,0:08:24.29,0:08:28.34,Default,,0000,0000,0000,,Something strange is raining \Ndown but don't worry.
+Dialogue: 0,0:08:28.34,0:08:31.07,Default,,0000,0000,0000,,I'll protect this place where you belong!
+Dialogue: 0,0:08:31.34,0:08:33.07,Default,,0000,0000,0000,,Yes, Master!
+Dialogue: 0,0:08:33.47,0:08:36.73,Default,,0000,0000,0000,,Looks like the Cool Brothers blew it.
+Dialogue: 0,0:08:38.52,0:08:40.42,Default,,0000,0000,0000,,But it can't be helped.
+Dialogue: 0,0:08:41.48,0:08:46.09,Default,,0000,0000,0000,,Fighting against Straw Hat and Law \Nmust've been too much for them.
+Dialogue: 0,0:08:48.59,0:08:52.13,OS,,0000,0000,0000,,THE MIDDLE LAKE - ZORO'S GROUP
+Dialogue: 0,0:09:11.95,0:09:13.03,Default,,0000,0000,0000,,Gross!
+Dialogue: 0,0:09:13.59,0:09:16.85,Default,,0000,0000,0000,,Alright, Brook. Convince them.
+Dialogue: 0,0:09:16.85,0:09:18.82,Default,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:09:18.82,0:09:22.95,Default,,0000,0000,0000,,What kind of negotiation skill is \Ngoing to work for these monsters?!
+Dialogue: 0,0:09:25.44,0:09:27.54,Default,,0000,0000,0000,,They're merging into one another!
+Dialogue: 0,0:09:28.70,0:09:32.75,Default,,0000,0000,0000,,Boy, they're merging into one \Nanother and getting bigger.
+Dialogue: 0,0:09:34.15,0:09:37.19,Default,,0000,0000,0000,,I-I-It got bigger!
+Dialogue: 0,0:09:47.64,0:09:50.98,Default,,0000,0000,0000,,Do I have a choice? It's my personal mission!
+Dialogue: 0,0:09:52.43,0:09:56.07,Default,,0000,0000,0000,,I'm Sanji, I'm a man! I've got to do it!
+Dialogue: 0,0:09:56.31,0:09:57.61,Default,,0000,0000,0000,,Sanji-san!
+Dialogue: 0,0:09:57.94,0:10:00.57,Default,,0000,0000,0000,,Do something about the Slimes behind you.
+Dialogue: 0,0:10:02.52,0:10:04.62,Default,,0000,0000,0000,,Please be careful!
+Dialogue: 0,0:10:12.91,0:10:15.67,Default,,0000,0000,0000,,What a pain in the ass! That worthless chef!
+Dialogue: 0,0:10:17.69,0:10:19.76,Default,,0000,0000,0000,,Oh, it's coming!
+Dialogue: 0,0:10:19.76,0:10:22.50,Default,,0000,0000,0000,,Don't... Don't... Don't attack me!
+Dialogue: 0,0:10:22.50,0:10:24.16,Default,,0000,0000,0000,,It's big, it's big!
+Dialogue: 0,0:10:24.16,0:10:26.02,Default,,0000,0000,0000,,Oh no, you better not do that!
+Dialogue: 0,0:10:26.02,0:10:28.31,Default,,0000,0000,0000,,Whoa, don't! Help me!
+Dialogue: 0,0:10:41.37,0:10:42.96,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:10:42.96,0:10:44.56,Default,,0000,0000,0000,,I knew you could do it, Zoro-san!
+Dialogue: 0,0:10:47.23,0:10:49.27,Default,,0000,0000,0000,,It's gas! Run!
+Dialogue: 0,0:10:47.44,0:10:51.52,Default,,0000,0000,0000,,I've had enough!
+Dialogue: 0,0:10:52.96,0:10:55.90,Default,,0000,0000,0000,,I-I-It's poison gas!
+Dialogue: 0,0:10:55.90,0:10:57.87,Default,,0000,0000,0000,,My eyes, my eyes!
+Dialogue: 0,0:10:57.87,0:11:00.91,Default,,0000,0000,0000,,Oh, I don't have eyes.
+Dialogue: 0,0:11:03.03,0:11:05.50,Default,,0000,0000,0000,,Hey, what's your problem?!
+Dialogue: 0,0:11:05.50,0:11:08.79,Default,,0000,0000,0000,,You jelly-ish body entity!
+Dialogue: 0,0:11:09.82,0:11:11.71,Default,,0000,0000,0000,,Poison gas, again!
+Dialogue: 0,0:11:11.71,0:11:15.02,Default,,0000,0000,0000,,What should we do, Zoro-san?! \NIt's poison gas!
+Dialogue: 0,0:11:15.02,0:11:17.29,Default,,0000,0000,0000,,I did the same thing before!
+Dialogue: 0,0:11:17.29,0:11:18.95,Default,,0000,0000,0000,,Learn from observation, skeleton!
+Dialogue: 0,0:11:18.95,0:11:21.17,Default,,0000,0000,0000,,I thought you were just unlucky.
+Dialogue: 0,0:11:23.03,0:11:24.95,Default,,0000,0000,0000,,We're surrounded.
+Dialogue: 0,0:11:26.40,0:11:27.54,Default,,0000,0000,0000,,This is not good.
+Dialogue: 0,0:11:41.15,0:11:42.69,Default,,0000,0000,0000,,It's cold!
+Dialogue: 0,0:11:42.69,0:11:44.76,Default,,0000,0000,0000,,Where is the samurai's torso?
+Dialogue: 0,0:11:45.30,0:11:47.78,Default,,0000,0000,0000,,Alright. Let's use it!
+Dialogue: 0,0:11:48.68,0:11:50.52,Default,,0000,0000,0000,,Observation Haki!
+Dialogue: 0,0:12:00.19,0:12:03.20,Default,,0000,0000,0000,,We have nowhere to go now!
+Dialogue: 0,0:12:03.20,0:12:05.64,Default,,0000,0000,0000,,Oh yeah, they're jellies!
+Dialogue: 0,0:12:05.64,0:12:07.32,Default,,0000,0000,0000,,Why don't you eat and digest them?
+Dialogue: 0,0:12:07.32,0:12:09.01,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:12:09.01,0:12:12.20,Default,,0000,0000,0000,,Could you stop talking to me like a bully?!
+Dialogue: 0,0:12:12.20,0:12:14.66,Default,,0000,0000,0000,,I'm like 70 years older than you!
+Dialogue: 0,0:12:15.00,0:12:17.21,Default,,0000,0000,0000,,I'm sorry, grandpa!
+Dialogue: 0,0:12:17.55,0:12:19.63,Default,,0000,0000,0000,,Who did you call "grandpa"?!
+Dialogue: 0,0:12:19.63,0:12:21.85,Default,,0000,0000,0000,,I'm still a lively skeleton...
+Dialogue: 0,0:12:24.52,0:12:25.68,Default,,0000,0000,0000,,What's the matter?!
+Dialogue: 0,0:12:25.68,0:12:28.43,Default,,0000,0000,0000,,Samurai-san?! T-T-Take it easy!
+Dialogue: 0,0:12:28.93,0:12:31.14,Default,,0000,0000,0000,,So cold!
+Dialogue: 0,0:12:31.46,0:12:32.64,Default,,0000,0000,0000,,Sorry, Nami-san.
+Dialogue: 0,0:12:35.32,0:12:38.46,Default,,0000,0000,0000,,Could this be the Slime's toxin?!
+Dialogue: 0,0:12:38.89,0:12:43.49,Default,,0000,0000,0000,,Whoa-whoa, I hope his torso \Nis not engulfed by it!
+Dialogue: 0,0:12:49.03,0:12:52.40,Default,,0000,0000,0000,,I've been using Observation \NHaki for quite a while
+Dialogue: 0,0:12:52.40,0:12:54.28,Default,,0000,0000,0000,,but maybe the torso's getting weaker.
+Dialogue: 0,0:12:54.74,0:12:58.91,Default,,0000,0000,0000,,I can't distinguish its life \Nforce from that of the fish!
+Dialogue: 0,0:12:59.80,0:13:00.59,Default,,0000,0000,0000,,A shark?
+Dialogue: 0,0:13:08.13,0:13:09.68,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:13:20.51,0:13:22.52,Default,,0000,0000,0000,,A-Are you alright?
+Dialogue: 0,0:13:22.52,0:13:25.11,Default,,0000,0000,0000,,Hey, what's the matter?! What's going on?!
+Dialogue: 0,0:13:28.15,0:13:30.74,Default,,0000,0000,0000,,Wait, you shithead! Don't mess with me!
+Dialogue: 0,0:13:40.80,0:13:42.92,Default,,0000,0000,0000,,Stop chewing on it, shark!
+Dialogue: 0,0:13:43.96,0:13:47.30,Default,,0000,0000,0000,,I-I-It doesn't hurt at all! It itches!
+Dialogue: 0,0:13:47.59,0:13:49.88,Default,,0000,0000,0000,,What's wrong with him?!
+Dialogue: 0,0:13:49.88,0:13:51.81,Default,,0000,0000,0000,,Is he bluffing?
+Dialogue: 0,0:13:53.34,0:13:55.48,Default,,0000,0000,0000,,That hurts... Not really!
+Dialogue: 0,0:13:55.71,0:13:58.27,Default,,0000,0000,0000,,Maybe something happened to Sanji-san?!
+Dialogue: 0,0:13:59.52,0:14:01.86,Default,,0000,0000,0000,,You fool, let it go!
+Dialogue: 0,0:14:10.06,0:14:11.32,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:14:11.32,0:14:14.16,Default,,0000,0000,0000,,Joue Shoot!
+Dialogue: 0,0:14:22.78,0:14:25.95,Default,,0000,0000,0000,,Alright, I got the last piece safely!
+Dialogue: 0,0:14:25.95,0:14:28.09,Default,,0000,0000,0000,,The samurai puzzle will be complete!
+Dialogue: 0,0:14:28.75,0:14:30.42,Default,,0000,0000,0000,,I gotta go back now!
+Dialogue: 0,0:14:31.84,0:14:33.54,Default,,0000,0000,0000,,It's gonna close up!
+Dialogue: 0,0:14:36.76,0:14:38.18,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:14:49.99,0:14:51.94,Default,,0000,0000,0000,,The poison got this far!
+Dialogue: 0,0:14:51.94,0:14:54.37,Default,,0000,0000,0000,,Shit! It's all around me now!
+Dialogue: 0,0:14:57.36,0:14:59.66,Default,,0000,0000,0000,,Can I do it with Nami-san's strength?
+Dialogue: 0,0:14:59.66,0:15:01.52,Default,,0000,0000,0000,,It's gonna put a strain on her body again...
+Dialogue: 0,0:15:03.47,0:15:04.88,Default,,0000,0000,0000,,This is not good!
+Dialogue: 0,0:15:05.41,0:15:07.61,Default,,0000,0000,0000,,The whole lake is turning \Nto the color of the poison!
+Dialogue: 0,0:15:07.61,0:15:09.22,Default,,0000,0000,0000,,Sanji-san, hurry up!
+Dialogue: 0,0:15:14.22,0:15:15.60,Default,,0000,0000,0000,,Blue Walk!
+Dialogue: 0,0:15:16.51,0:15:18.89,Default,,0000,0000,0000,,Don't close up! Don't \Nclose up! Don't close up!
+Dialogue: 0,0:15:18.89,0:15:20.27,Default,,0000,0000,0000,,Don't close up!
+Dialogue: 0,0:15:24.77,0:15:26.07,Default,,0000,0000,0000,,Sanji-san!
+Dialogue: 0,0:15:26.58,0:15:29.19,Default,,0000,0000,0000,,Oh, he got it!
+Dialogue: 0,0:15:33.03,0:15:34.88,Default,,0000,0000,0000,,He really did it!
+Dialogue: 0,0:15:52.67,0:15:54.18,Default,,0000,0000,0000,,What can I say?!
+Dialogue: 0,0:15:54.88,0:16:01.10,Default,,0000,0000,0000,,I have never felt so happy \Nto just have my own body!
+Dialogue: 0,0:16:05.90,0:16:09.57,OS,,0000,0000,0000,,THE SAMURAI FROM THE WANO \NKINGDOM FOXFIRE KIN'EMON
+Dialogue: 0,0:16:09.69,0:16:13.82,Default,,0000,0000,0000,,Oh, I didn't know you were so tall!
+Dialogue: 0,0:16:13.82,0:16:15.69,Default,,0000,0000,0000,,You're as tall as I am.
+Dialogue: 0,0:16:15.69,0:16:18.99,Default,,0000,0000,0000,,Oh yes! Excuse me for not \Nintroducing myself sooner!
+Dialogue: 0,0:16:19.92,0:16:22.62,Default,,0000,0000,0000,,My name is Kin'emon!
+Dialogue: 0,0:16:23.03,0:16:27.17,Default,,0000,0000,0000,,I was born in Kuri, Wano Kingdom!
+Dialogue: 0,0:16:27.43,0:16:31.50,Default,,0000,0000,0000,,Just do it already! I'm \Ngonna freeze to death!
+Dialogue: 0,0:16:31.50,0:16:33.88,Default,,0000,0000,0000,,Yes! I'm sorry!
+Dialogue: 0,0:16:34.48,0:16:35.63,Default,,0000,0000,0000,,Poof!
+Dialogue: 0,0:16:39.56,0:16:41.12,Default,,0000,0000,0000,,It's still cold.
+Dialogue: 0,0:16:41.12,0:16:44.05,Default,,0000,0000,0000,,The coat will disappear once \Nhe takes it off, right?
+Dialogue: 0,0:16:44.05,0:16:48.15,Default,,0000,0000,0000,,Funny-eyebrow man, what is \Nyour honorable name, sir?
+Dialogue: 0,0:16:50.73,0:16:52.36,Default,,0000,0000,0000,,I'm Sanji!
+Dialogue: 0,0:16:52.36,0:16:54.39,Default,,0000,0000,0000,,Cut the "sir" crap!
+Dialogue: 0,0:16:54.39,0:16:57.70,Default,,0000,0000,0000,,Now you have your whole body back \Nso you've changed your attitude!
+Dialogue: 0,0:16:58.06,0:17:00.73,Default,,0000,0000,0000,,But you were insulting me so much earlier
+Dialogue: 0,0:17:00.73,0:17:04.16,Default,,0000,0000,0000,,hiding behind the fact you were disabled!
+Dialogue: 0,0:17:04.16,0:17:06.17,Default,,0000,0000,0000,,I hope you're not forgetting what you said!
+Dialogue: 0,0:17:09.38,0:17:11.17,Default,,0000,0000,0000,,You people are pirates?!
+Dialogue: 0,0:17:12.80,0:17:14.98,Default,,0000,0000,0000,,No wonder you people are barbaric!
+Dialogue: 0,0:17:14.98,0:17:18.26,Default,,0000,0000,0000,,I don't like pirates! You make me sick!
+Dialogue: 0,0:17:20.59,0:17:22.65,Default,,0000,0000,0000,,Don't irritate me!
+Dialogue: 0,0:17:22.65,0:17:25.64,Default,,0000,0000,0000,,Why don't you just ask me to find your body?!
+Dialogue: 0,0:17:26.57,0:17:28.51,Default,,0000,0000,0000,,I don't wanna owe anything to pirates!
+Dialogue: 0,0:17:28.51,0:17:30.07,Default,,0000,0000,0000,,I wouldn't ask you even if it kills me!
+Dialogue: 0,0:17:30.57,0:17:34.48,Default,,0000,0000,0000,,Now, I'm not even capable of \Nfighting back if someone hits me
+Dialogue: 0,0:17:34.48,0:17:37.91,Default,,0000,0000,0000,,so you can carry me if you want to.
+Dialogue: 0,0:17:46.27,0:17:48.10,Default,,0000,0000,0000,,I will never forget!
+Dialogue: 0,0:17:49.44,0:17:50.63,Default,,0000,0000,0000,,Ever!
+Dialogue: 0,0:17:52.22,0:17:55.67,Default,,0000,0000,0000,,I will never forget your kindness \Nfor the rest of my life!
+Dialogue: 0,0:17:56.27,0:17:57.97,Default,,0000,0000,0000,,I appreciate everything!
+Dialogue: 0,0:17:57.97,0:18:03.98,Default,,0000,0000,0000,,And please forgive me for \Nhaving doubts about you all...
+Dialogue: 0,0:18:03.98,0:18:06.20,Default,,0000,0000,0000,,...until I got my torso back!
+Dialogue: 0,0:18:06.73,0:18:09.99,Default,,0000,0000,0000,,I'm begging you! I'm begging you!
+Dialogue: 0,0:18:09.99,0:18:11.98,Default,,0000,0000,0000,,I'm begging you!
+Dialogue: 0,0:18:12.32,0:18:13.41,Default,,0000,0000,0000,,I'm begging you...
+Dialogue: 0,0:18:13.41,0:18:16.07,Default,,0000,0000,0000,,Stop it, fool! Lift your head up!
+Dialogue: 0,0:18:16.54,0:18:19.54,Default,,0000,0000,0000,,Men shouldn't kneel on \Nthe ground that easily!
+Dialogue: 0,0:18:19.54,0:18:24.91,Default,,0000,0000,0000,,But if you, sir, weren't there, I probably...
+Dialogue: 0,0:18:26.09,0:18:30.63,Default,,0000,0000,0000,,Um, I'm sorry to interrupt \Nyou but, Sanji-san...
+Dialogue: 0,0:18:31.67,0:18:35.46,Default,,0000,0000,0000,,Looks like we're in big trouble.
+Dialogue: 0,0:18:37.26,0:18:39.30,Default,,0000,0000,0000,,Look. You see?
+Dialogue: 0,0:18:46.68,0:18:50.19,OS,,0000,0000,0000,,THE THIRD LABORATORY
+Dialogue: 0,0:19:18.97,0:19:20.28,Default,,0000,0000,0000,,The drug...
+Dialogue: 0,0:19:21.02,0:19:24.90,Default,,0000,0000,0000,,If only I could find out \Nhow he made the drug...
+Dialogue: 0,0:19:30.40,0:19:31.41,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:19:41.37,0:19:43.78,Default,,0000,0000,0000,,Great! It's a book about drugs!
+Dialogue: 0,0:19:44.35,0:19:46.03,Default,,0000,0000,0000,,Now I gotta look for sedatives.
+Dialogue: 0,0:20:07.56,0:20:10.43,Default,,0000,0000,0000,,Master, the airship is ready.
+Dialogue: 0,0:20:10.43,0:20:11.52,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:12.94,0:20:15.33,Default,,0000,0000,0000,,Then let's go pick them up.
+Dialogue: 0,0:20:15.86,0:20:18.36,Default,,0000,0000,0000,,It's about time for them to have these.
+Dialogue: 0,0:20:18.71,0:20:23.66,Default,,0000,0000,0000,,Put Straw Hat and the others in a \Ncage and carry it to my chambers.
+Dialogue: 0,0:20:23.66,0:20:25.46,Default,,0000,0000,0000,,Yes, Master!
+Dialogue: 0,0:20:30.94,0:20:33.37,Default,,0000,0000,0000,,We have nowhere to run now!
+Dialogue: 0,0:20:37.20,0:20:41.26,Default,,0000,0000,0000,,Hey, guys! Didn't I tell you \Nto do something about them?!
+Dialogue: 0,0:20:41.89,0:20:45.07,Default,,0000,0000,0000,,It can't be helped because \Nwe couldn't do anything.
+Dialogue: 0,0:20:45.07,0:20:46.80,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:47.20,0:20:49.42,Default,,0000,0000,0000,,Don't be such children, you idiots!
+Dialogue: 0,0:20:49.78,0:20:53.88,Default,,0000,0000,0000,,I can't cause any damage to Nami-san's body!
+Dialogue: 0,0:20:53.88,0:20:55.49,Default,,0000,0000,0000,,This body...
+Dialogue: 0,0:20:55.49,0:20:58.17,Default,,0000,0000,0000,,Th-This body, I have to...
+Dialogue: 0,0:21:00.02,0:21:02.76,Default,,0000,0000,0000,,You're not gonna return it, are you?
+Dialogue: 0,0:21:02.76,0:21:03.44,Default,,0000,0000,0000,,Of course not!
+Dialogue: 0,0:21:04.78,0:21:07.78,Default,,0000,0000,0000,,Why don't we burn them down?
+Dialogue: 0,0:21:07.79,0:21:08.74,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:09.33,0:21:12.24,Default,,0000,0000,0000,,People call me Foxfire Kin'emon.
+Dialogue: 0,0:21:12.71,0:21:15.35,Default,,0000,0000,0000,,I can burn and slice an enemy with my sword.
+Dialogue: 0,0:21:15.76,0:21:18.75,Default,,0000,0000,0000,,Let me burn them down and \Nclear the way to escape!
+Dialogue: 0,0:21:20.93,0:21:23.12,Default,,0000,0000,0000,,You can burn and slice an enemy?
+Dialogue: 0,0:21:23.12,0:21:25.01,Default,,0000,0000,0000,,It sounds like magic!
+Dialogue: 0,0:22:13.39,0:22:15.64,Default,,0000,0000,0000,,He cut the fire!
+Dialogue: 0,0:22:16.70,0:22:18.36,Default,,0000,0000,0000,,Now I cleared the way.
+Dialogue: 0,0:22:18.36,0:22:20.38,Default,,0000,0000,0000,,I'm coming for you, Momonosuke!
+Dialogue: 0,0:22:20.38,0:22:23.10,Default,,0000,0000,0000,,Huh?! I'm still alive!
+Dialogue: 0,0:22:23.10,0:22:27.61,Default,,0000,0000,0000,,I thought we were engulfed by \Nthe fire from the explosion!
+Dialogue: 0,0:22:27.89,0:22:32.54,Default,,0000,0000,0000,,K-K-Kin'emon-san? What just happened?
+Dialogue: 0,0:22:33.19,0:22:36.46,Default,,0000,0000,0000,,I just cut the explosion.
+Dialogue: 0,0:22:36.46,0:22:37.41,Default,,0000,0000,0000,,The explosion?!
+Dialogue: 0,0:22:37.70,0:22:40.23,Default,,0000,0000,0000,,My Foxfire Style
+Dialogue: 0,0:22:40.23,0:22:45.30,Default,,0000,0000,0000,,allows me to cut something \Nwith fire and then cut flames.
+Dialogue: 0,0:22:46.04,0:22:49.11,Default,,0000,0000,0000,,There is no flame that I can't cut!
+Dialogue: 0,0:22:50.38,0:22:54.93,Default,,0000,0000,0000,,Now I'm going to go to the \Nlaboratory to save Momonosuke!
+Dialogue: 0,0:22:56.84,0:22:57.87,Default,,0000,0000,0000,,If you'll excuse me!
+Dialogue: 0,0:23:04.60,0:23:05.87,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:23:07.53,0:23:10.70,Default,,0000,0000,0000,,I'm intrigued by a samurai's fight.
+Dialogue: 0,0:23:10.70,0:23:13.57,Default,,0000,0000,0000,,I'll go with you to rescue your son!
+Dialogue: 0,0:23:24.80,0:23:29.63,Default,,0000,0000,0000,,A mysterious man suddenly appears \Nand hurts Law with his immense power.
+Dialogue: 0,0:23:29.63,0:23:32.84,Default,,0000,0000,0000,,His identity causes quite the shock,
+Dialogue: 0,0:23:33.22,0:23:36.51,Default,,0000,0000,0000,,and the identity of the powerful \Nenemy that stands behind
+Dialogue: 0,0:23:36.51,0:23:40.06,Default,,0000,0000,0000,,Caesar and the mysterious \Nman finally comes to light!
+Dialogue: 0,0:23:40.06,0:23:41.48,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.48,0:23:44.73,Default,,0000,0000,0000,,"Shocking! The True Identity \Nof the Mystery Man Vergo!"
+Dialogue: 0,0:23:44.73,0:23:46.89,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

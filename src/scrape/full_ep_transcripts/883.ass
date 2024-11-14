@@ -1,0 +1,371 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.43,0:00:19.43,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:16.43,0:00:19.43,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,On Top,,0000,0000,0000,,{\i1}kimi no yume wa monsutaa kyuu de{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,Default,,0000,0000,0000,,{\i1}Your dream is like a monster{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,On Top,,0000,0000,0000,,{\i1}mune no ori bukkowashitewa{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,Default,,0000,0000,0000,,{\i1}Every time it breaks the cage in your heart{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,On Top,,0000,0000,0000,,{\i1}tobikomu yo "Go to Hell" to kaita paradaisu{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,Default,,0000,0000,0000,,{\i1}Jump into the paradise on \Nwhich is written "Go to Hell"{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,On Top,,0000,0000,0000,,{\i1}itsudatte Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,Default,,0000,0000,0000,,{\i1}It's always, Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,On Top,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,Default,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,On Top,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,Default,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,On Top,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,Default,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,On Top,,0000,0000,0000,,{\i1}kizu darake ni natta yume wa itsuka{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,Default,,0000,0000,0000,,{\i1}Someday, the dream that's \Ncovered in cuts and bruises{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,On Top,,0000,0000,0000,,{\i1}daiji na takaramono ni naru sa{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,Default,,0000,0000,0000,,{\i1}will become your one and only treasure{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,Default,,0000,0000,0000,,{\i1}Believing in a great dream together{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,On Top,,0000,0000,0000,,{\i1}ai ga namida to mazaru hoshi ni{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,Default,,0000,0000,0000,,{\i1}To that planet where love combines with tears{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,On Top,,0000,0000,0000,,{\i1}sotto mirai wa asa wo hakobi{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,Default,,0000,0000,0000,,{\i1}The future gently brings a morning{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,On Top,,0000,0000,0000,,{\i1}oroka de itoshii boku \Ntachi no sekai terasu yo{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,Default,,0000,0000,0000,,{\i1}It shines on our silly but dear world{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,On Top,,0000,0000,0000,,{\i1}tatakae! saikyou no teki wa jibun sa{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,Default,,0000,0000,0000,,{\i1}Fight! The most formidable enemy is yourself{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,On Top,,0000,0000,0000,,{\i1}eien ni...{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,Default,,0000,0000,0000,,{\i1}Always and forever...{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.16,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.16,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:02:00.20,0:02:02.74,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:02:00.20,0:02:02.74,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:02:02.78,0:02:05.45,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:02.78,0:02:05.45,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,Default,,0000,0000,0000,,{\i1}Believing a great dream together{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:43.00,0:02:44.93,Default,,0000,0000,0000,,{\i1}The Great Pirate Era
+Dialogue: 0,0:02:44.93,0:02:49.78,Italics,,0000,0000,0000,,is experiencing a groundswell\Nbeyond the World Government's expectation.{\i0}
+Dialogue: 0,0:02:51.46,0:02:58.76,Italics,,0000,0000,0000,,{\i1}Being at the center of the unstoppable swell\Nand drawing the most attention is...{\i0}
+Dialogue: 0,0:03:00.94,0:03:02.61,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:03.70,0:03:05.54,Default,,0000,0000,0000,,{\i1}And the Straw Hats!{\i0}
+Dialogue: 0,0:03:08.29,0:03:12.17,Default,,0000,0000,0000,,{\i1}In order to cope with the \Nturbulent Great Pirate Era,{\i0}
+Dialogue: 0,0:03:12.17,0:03:16.63,Default,,0000,0000,0000,,{\i1}50 leaders hold the World Conference\Nevery four years.{\i0}
+Dialogue: 0,0:03:17.09,0:03:20.46,Default,,0000,0000,0000,,{\i1}Known as the Reverie, it is about to start.{\i0}
+Dialogue: 0,0:03:25.35,0:03:29.64,Default,,0000,0000,0000,,{\i1}The times are changing drastically now.{\i0}
+Dialogue: 0,0:03:35.11,0:03:39.70,Default,,0000,0000,0000,,{\i1}"One Step Forward for Her Dream!\NShirahoshi Goes Out in the Sun!"{\i0}
+Dialogue: 0,0:04:04.59,0:04:06.80,Default,,0000,0000,0000,,How beautiful she is!
+Dialogue: 0,0:04:06.97,0:04:10.06,Default,,0000,0000,0000,,Fire! More than I imagined...
+Dialogue: 0,0:04:11.39,0:04:15.81,Default,,0000,0000,0000,,Should we do a feature story on her,\NPresident Morgans?!
+Dialogue: 0,0:04:18.03,0:04:19.86,Default,,0000,0000,0000,,Princess Shirahoshi!
+Dialogue: 0,0:04:19.86,0:04:21.56,Default,,0000,0000,0000,,President Morgans?
+Dialogue: 0,0:04:21.57,0:04:24.32,Default,,0000,0000,0000,,Oh, no! He's totally captivated by her!
+Dialogue: 0,0:04:24.95,0:04:27.04,Default,,0000,0000,0000,,Mermaid Princess-{\i1}sama{\i0}!
+Dialogue: 0,0:04:29.12,0:04:33.21,Default,,0000,0000,0000,,Garp, Shirahoshi is very popular-{\i1}jamon{\i0}!
+Dialogue: 0,0:04:33.37,0:04:39.84,Default,,0000,0000,0000,,Even on land, word is spreading that\NThe Fish-Man Island's Mermaid Princess...
+Dialogue: 0,0:04:39.84,0:04:43.36,Default,,0000,0000,0000,,...is as beautiful as\NPirate Empress Hancock!
+Dialogue: 0,0:04:44.74,0:04:48.39,Default,,0000,0000,0000,,She's so pretty. I'm sure she surpasses\Neveryone's expectations!
+Dialogue: 0,0:04:48.39,0:04:50.27,Default,,0000,0000,0000,,And she's huge!
+Dialogue: 0,0:04:56.44,0:04:59.36,Default,,0000,0000,0000,,L-Luffy-{\i1}sama{\i0}'s grandfather-{\i1}sama{\i0}!
+Dialogue: 0,0:05:00.10,0:05:05.03,Default,,0000,0000,0000,,Is that what they call a forest on land?!
+Dialogue: 0,0:05:05.20,0:05:06.99,Default,,0000,0000,0000,,No, that's a tree.
+Dialogue: 0,0:05:09.78,0:05:12.12,Default,,0000,0000,0000,,Hey, Garp the hero!
+Dialogue: 0,0:05:16.50,0:05:19.79,Default,,0000,0000,0000,,You know who I am, don't you?
+Dialogue: 0,0:05:20.00,0:05:22.76,Default,,0000,0000,0000,,No, you stupid brat! Get out of my way!
+Dialogue: 0,0:05:23.13,0:05:26.05,Default,,0000,0000,0000,,"Stupid brat"?! I must've heard wrong!
+Dialogue: 0,0:05:26.22,0:05:29.72,Default,,0000,0000,0000,,Yes, Stelly!\NMaybe that's not not-it!
+Dialogue: 0,0:05:30.08,0:05:31.22,Default,,0000,0000,0000,,How rude!
+Dialogue: 0,0:05:31.50,0:05:37.34,Default,,0000,0000,0000,,I'm Stelly, king of the Goa \NKingdom where you come from!
+Dialogue: 0,0:05:34.45,0:05:39.54,On Top,,0000,0000,0000,,KING STELLY OF THE GOA KINGDOM IN THE EAST BLUE\N(SABO'S ADOPTED BROTHER)
+Dialogue: 0,0:05:37.34,0:05:42.32,DefaultLow,,0000,0000,0000,,And since you're a citizen, \Nyou're one of my subjects!
+Dialogue: 0,0:05:42.32,0:05:44.07,Default,,0000,0000,0000,,Remember that!
+Dialogue: 0,0:05:44.82,0:05:49.28,Default,,0000,0000,0000,,If I'm correct, Stelly is your \Nadopted brother, right, Sabo?
+Dialogue: 0,0:05:54.37,0:05:58.89,Default,,0000,0000,0000,,{\i1}Stelly was adopted by Sabo's noble parents.{\i0}
+Dialogue: 0,0:06:01.13,0:06:05.38,Default,,0000,0000,0000,,{\i1}With that as his first foothold,\Nhe looked enviously to connect with royalty{\i0}
+Dialogue: 0,0:06:05.38,0:06:08.11,Default,,0000,0000,0000,,{\i1}and married Princess Isntoinette.{\i0}
+Dialogue: 0,0:06:09.09,0:06:13.43,Default,,0000,0000,0000,,{\i1}Later, the king and prince of the Goa Kingdom\Nmysteriously died{\i0}
+Dialogue: 0,0:06:13.76,0:06:17.68,Default,,0000,0000,0000,,{\i1}and several months ago, \NStelly became the king.{\i0}
+Dialogue: 0,0:06:19.69,0:06:21.38,Default,,0000,0000,0000,,{\i1}The Goa Kingdom...{\i0}
+Dialogue: 0,0:06:22.09,0:06:27.15,Default,,0000,0000,0000,,{\i1}The Gray Terminal in that country is\Nthe place we first met, right, Luffy?{\i0}
+Dialogue: 0,0:06:28.09,0:06:31.34,DefaultLow,,0000,0000,0000,,GOA KINGDOM
+Dialogue: 0,0:06:31.89,0:06:36.27,DefaultLow,,0000,0000,0000,,GRAY TERMINAL
+Dialogue: 0,0:06:36.58,0:06:37.72,Default,,0000,0000,0000,,At once!
+Dialogue: 0,0:06:38.21,0:06:41.79,Default,,0000,0000,0000,,Whoa! You got a lot!\NWay more than I did!
+Dialogue: 0,0:06:41.99,0:06:44.43,Default,,0000,0000,0000,,That's a lot of money!\NHow'd you get that?
+Dialogue: 0,0:06:44.92,0:06:48.63,Default,,0000,0000,0000,,I robbed some thugs near the main gate!
+Dialogue: 0,0:06:48.97,0:06:51.89,Default,,0000,0000,0000,,Damn! You won again!
+Dialogue: 0,0:06:52.43,0:06:54.42,Default,,0000,0000,0000,,It doesn't matter if you win or lose.
+Dialogue: 0,0:06:55.14,0:07:00.77,Default,,0000,0000,0000,,It's been five years since we started\Nto put money in our "pirate savings."
+Dialogue: 0,0:07:00.77,0:07:04.94,Default,,0000,0000,0000,,I wonder how much we need\Nto get a pirate ship.
+Dialogue: 0,0:07:05.29,0:07:08.48,Default,,0000,0000,0000,,I don't know.\N10 million or 100 million maybe?
+Dialogue: 0,0:07:09.05,0:07:10.36,Default,,0000,0000,0000,,Long way to go.
+Dialogue: 0,0:07:10.53,0:07:11.95,Default,,0000,0000,0000,,"A pirate ship"?!
+Dialogue: 0,0:07:12.45,0:07:16.20,Default,,0000,0000,0000,,You guys! Are you gonna become pirates?!
+Dialogue: 0,0:07:16.54,0:07:18.95,Default,,0000,0000,0000,,I'm gonna become one, too!
+Dialogue: 0,0:07:18.95,0:07:20.21,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:22.25,0:07:25.68,Default,,0000,0000,0000,,{\i1}At first, Ace and I didn't accept him,{\i0}
+Dialogue: 0,0:07:26.09,0:07:30.05,Default,,0000,0000,0000,,{\i1}but later, we got close enough to\Nexchange a cup of {\i0}sake{\i1} to become brothers.{\i0}
+Dialogue: 0,0:07:34.47,0:07:36.58,Default,,0000,0000,0000,,So from now on,
+Dialogue: 0,0:07:37.07,0:07:38.19,Default,,0000,0000,0000,,we're brothers!
+Dialogue: 0,0:07:40.64,0:07:42.50,Default,,0000,0000,0000,,Yeah!!
+Dialogue: 0,0:07:43.69,0:07:46.73,Default,,0000,0000,0000,,{\i1}Ace, Luffy and I did as we liked{\i0}
+Dialogue: 0,0:07:47.07,0:07:49.39,Default,,0000,0000,0000,,{\i1}and the old man Garp would beat us.{\i0}
+Dialogue: 0,0:07:50.07,0:07:52.12,Default,,0000,0000,0000,,{\i1}We were gonna become pirates...{\i0}
+Dialogue: 0,0:07:52.56,0:07:57.10,Default,,0000,0000,0000,,{\i1}So I forfeited my noble heritage\Nand I planned to carry on living with the two.{\i0}
+Dialogue: 0,0:07:58.87,0:08:03.18,Default,,0000,0000,0000,,{\i1}But one day, my father came\Nand forced me to come back with him.{\i0}
+Dialogue: 0,0:08:03.62,0:08:06.00,Default,,0000,0000,0000,,I'll leave the rest up to you,\Npirates.
+Dialogue: 0,0:08:06.17,0:08:09.88,Default,,0000,0000,0000,,Of course, mister.\NYou've already paid us for this.
+Dialogue: 0,0:08:10.42,0:08:15.53,Default,,0000,0000,0000,,We will take care of these two\Nso they won't bother your boy again.
+Dialogue: 0,0:08:17.39,0:08:22.15,Default,,0000,0000,0000,,Wait a minute, Bluejam!\NDad, that's enough! I understand!
+Dialogue: 0,0:08:22.89,0:08:24.91,Default,,0000,0000,0000,,What do you understand?
+Dialogue: 0,0:08:26.48,0:08:27.65,Default,,0000,0000,0000,,Don't do it, Sabo!
+Dialogue: 0,0:08:29.19,0:08:34.61,Default,,0000,0000,0000,,I'll do as you say.\NI'll live as you want so...
+Dialogue: 0,0:08:35.03,0:08:39.70,Default,,0000,0000,0000,,...please don't hurt these two!
+Dialogue: 0,0:08:40.13,0:08:41.37,Default,,0000,0000,0000,,I'm begging you.
+Dialogue: 0,0:08:42.00,0:08:44.71,Default,,0000,0000,0000,,They're very important to \Nme, they're my brothers.
+Dialogue: 0,0:08:46.09,0:08:47.29,Default,,0000,0000,0000,,Sabo...
+Dialogue: 0,0:08:48.29,0:08:51.43,Default,,0000,0000,0000,,Then go home right now.
+Dialogue: 0,0:08:51.76,0:08:55.55,Default,,0000,0000,0000,,You should stop playing pirate -\Nit's just a waste of time.
+Dialogue: 0,0:08:57.85,0:08:59.60,Default,,0000,0000,0000,,Hey! Don't go!
+Dialogue: 0,0:08:59.60,0:09:00.97,Default,,0000,0000,0000,,Be quiet!
+Dialogue: 0,0:09:01.18,0:09:05.35,Default,,0000,0000,0000,,Sabo, run!\NYou don't have to worry about us!
+Dialogue: 0,0:09:05.73,0:09:08.15,Default,,0000,0000,0000,,You said you wanna live freely with us!
+Dialogue: 0,0:09:08.48,0:09:10.73,Default,,0000,0000,0000,,Sabo, don't go!
+Dialogue: 0,0:09:11.12,0:09:13.61,Default,,0000,0000,0000,,Are you gonna put an end to your dream?!
+Dialogue: 0,0:09:14.07,0:09:15.01,Default,,0000,0000,0000,,Sabo!
+Dialogue: 0,0:09:18.70,0:09:19.70,Default,,0000,0000,0000,,Sabo!
+Dialogue: 0,0:09:20.08,0:09:22.16,Default,,0000,0000,0000,,Sabo!!
+Dialogue: 0,0:09:22.37,0:09:26.27,Default,,0000,0000,0000,,{\i1}At that time, all I could do was\Nturn my back and scream in my mind...{\i0}
+Dialogue: 0,0:09:26.96,0:09:29.71,Default,,0000,0000,0000,,{\i1}"Spread your wings and \Nfly away freely for me."{\i0}
+Dialogue: 0,0:09:30.63,0:09:33.35,Default,,0000,0000,0000,,I'm glad that you're safe,\Nyoung master.
+Dialogue: 0,0:09:33.80,0:09:38.22,Default,,0000,0000,0000,,Oh, Sabo! You're back.\NYou got bigger.
+Dialogue: 0,0:09:39.55,0:09:40.55,Default,,0000,0000,0000,,Mom.
+Dialogue: 0,0:09:40.55,0:09:43.39,Default,,0000,0000,0000,,Now Stelly,\Nsay "hi" to your older brother.
+Dialogue: 0,0:09:43.72,0:09:48.85,Default,,0000,0000,0000,,Nice to meet you, brother!\NMy name is Stelly and I'm eight.
+Dialogue: 0,0:09:50.91,0:09:51.65,Default,,0000,0000,0000,,A fire?!
+Dialogue: 0,0:09:51.82,0:09:56.11,Default,,0000,0000,0000,,Yeah. You don't know about it\Nbecause you weren't here.
+Dialogue: 0,0:09:56.11,0:09:59.11,Default,,0000,0000,0000,,But they decided it months ago.
+Dialogue: 0,0:09:59.11,0:10:02.55,Default,,0000,0000,0000,,They decided to burn down the Gray Terminal.
+Dialogue: 0,0:10:02.99,0:10:06.25,Default,,0000,0000,0000,,Then this country will be clean!
+Dialogue: 0,0:10:06.72,0:10:11.34,Default,,0000,0000,0000,,What are you talking about?!\NThat's impossible!
+Dialogue: 0,0:10:11.50,0:10:15.59,Default,,0000,0000,0000,,They're gonna burn up\N{\i1}all{\i0} the shame of this country.
+Dialogue: 0,0:10:17.30,0:10:20.22,Default,,0000,0000,0000,,What are you doing?!\NYou have to evacuate!
+Dialogue: 0,0:10:20.72,0:10:22.30,Default,,0000,0000,0000,,Ace! Luffy!
+Dialogue: 0,0:10:22.30,0:10:23.35,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:10:38.07,0:10:40.14,Default,,0000,0000,0000,,What happened to you, boy?
+Dialogue: 0,0:10:47.20,0:10:52.54,Default,,0000,0000,0000,,This town smells worse \Nthan the Gray Terminal.
+Dialogue: 0,0:10:53.49,0:10:57.21,Default,,0000,0000,0000,,It smells like rotten people!
+Dialogue: 0,0:10:59.26,0:11:04.26,Default,,0000,0000,0000,,If I stay here... I'll never be free!
+Dialogue: 0,0:11:06.39,0:11:07.68,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:11:07.73,0:11:10.56,Default,,0000,0000,0000,,...ashamed of being born a noble!
+Dialogue: 0,0:11:11.15,0:11:16.32,Default,,0000,0000,0000,,{\i1}They finally made a kid say this!\NGoa Kingdom!{\i0}
+Dialogue: 0,0:11:19.70,0:11:23.41,Default,,0000,0000,0000,,What a nice day!\NIt's perfect for setting sail!
+Dialogue: 0,0:11:24.66,0:11:26.37,Default,,0000,0000,0000,,{\i1}I set off.{\i0}
+Dialogue: 0,0:11:26.83,0:11:30.75,Default,,0000,0000,0000,,{\i1}I left my noble heritage, parents,\Nand country behind...{\i0}
+Dialogue: 0,0:11:31.54,0:11:34.92,Default,,0000,0000,0000,,{\i1}...to live as the freest pirate ever!{\i0}
+Dialogue: 0,0:11:45.64,0:11:47.10,Default,,0000,0000,0000,,How rude is that!
+Dialogue: 0,0:11:49.83,0:11:52.31,Default,,0000,0000,0000,,Saint Jalmack!\NThere is a child on the ship!
+Dialogue: 0,0:11:52.48,0:11:56.90,Default,,0000,0000,0000,,When someone flies a black flag,\Nhe's a pirate regardless of who he is-{\i1}eh{\i0}.
+Dialogue: 0,0:11:58.87,0:12:01.11,Default,,0000,0000,0000,,But most importantly...
+Dialogue: 0,0:12:02.19,0:12:06.28,Default,,0000,0000,0000,,A commoner shouldn't cross\Nthe path of my ship!!
+Dialogue: 0,0:12:32.14,0:12:34.85,Default,,0000,0000,0000,,{\i1}Ace... Luffy...{\i0}
+Dialogue: 0,0:12:36.06,0:12:38.82,Default,,0000,0000,0000,,{\i1}Help me... Somebody...{\i0}
+Dialogue: 0,0:12:51.70,0:12:56.72,Default,,0000,0000,0000,,{\i1}I met Dragon-san there\Nand it changed my destiny...{\i0}
+Dialogue: 0,0:12:58.88,0:13:02.09,Default,,0000,0000,0000,,So the damn Celestial Dragons are up there...
+Dialogue: 0,0:13:14.13,0:13:17.73,Default,,0000,0000,0000,,I'm ready. Let's do it already.
+Dialogue: 0,0:13:17.73,0:13:19.05,Default,,0000,0000,0000,,Chief of Staff.
+Dialogue: 0,0:13:19.05,0:13:20.07,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:39.25,0:13:44.17,Default,,0000,0000,0000,,They sank his ship so you must've \Nthought that Sabo guy was dead.
+Dialogue: 0,0:13:44.42,0:13:47.63,Default,,0000,0000,0000,,Yeah, I thought so at that time.
+Dialogue: 0,0:13:48.18,0:13:51.35,Default,,0000,0000,0000,,I cried a lot when Pedro died.
+Dialogue: 0,0:13:51.35,0:13:53.97,Default,,0000,0000,0000,,I know how you felt!
+Dialogue: 0,0:13:57.28,0:14:00.11,Default,,0000,0000,0000,,A-Ace... I...
+Dialogue: 0,0:14:02.52,0:14:04.85,Default,,0000,0000,0000,,I wanna become stronger!
+Dialogue: 0,0:14:05.36,0:14:10.87,Default,,0000,0000,0000,,Then I can protect anything or anyone!\NI don't have to lose anybody!
+Dialogue: 0,0:14:12.53,0:14:14.55,Default,,0000,0000,0000,,I beg you!
+Dialogue: 0,0:14:15.00,0:14:16.55,Default,,0000,0000,0000,,Ace,
+Dialogue: 0,0:14:17.29,0:14:19.33,Default,,0000,0000,0000,,please don't die!
+Dialogue: 0,0:14:19.33,0:14:20.96,Default,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:14:21.30,0:14:23.94,Default,,0000,0000,0000,,Worry about yourself first!
+Dialogue: 0,0:14:23.94,0:14:26.26,Default,,0000,0000,0000,,You're far weaker than me!
+Dialogue: 0,0:14:26.55,0:14:28.89,Default,,0000,0000,0000,,Listen carefully, Luffy!
+Dialogue: 0,0:14:30.22,0:14:31.89,Default,,0000,0000,0000,,I'll never die!
+Dialogue: 0,0:14:35.14,0:14:36.01,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:14:36.81,0:14:39.24,Default,,0000,0000,0000,,Sabo told me to take care of you, too.
+Dialogue: 0,0:14:40.27,0:14:43.65,Default,,0000,0000,0000,,I promise that I'll never die!
+Dialogue: 0,0:14:44.57,0:14:47.70,Default,,0000,0000,0000,,How can I leave a wimpy \Nbrother like you behind?
+Dialogue: 0,0:14:48.53,0:14:50.51,Default,,0000,0000,0000,,Uh-huh! Uh-huh!
+Dialogue: 0,0:14:50.82,0:14:56.92,Default,,0000,0000,0000,,I'm not smart so I don't quite know\Nwhat really killed Sabo yet.
+Dialogue: 0,0:14:57.62,0:15:01.18,Default,,0000,0000,0000,,But it must be something opposed to freedom.
+Dialogue: 0,0:15:02.25,0:15:05.11,Default,,0000,0000,0000,,Sabo died before he knew freedom.
+Dialogue: 0,0:15:05.96,0:15:08.99,Default,,0000,0000,0000,,We exchanged that same cup of {\i1}sake{\i0}\Nand we're alive!
+Dialogue: 0,0:15:10.30,0:15:12.29,Default,,0000,0000,0000,,So listen, Luffy.
+Dialogue: 0,0:15:13.05,0:15:17.36,Default,,0000,0000,0000,,We have to live without leaving any regrets.
+Dialogue: 0,0:15:17.93,0:15:18.64,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:15:20.14,0:15:24.41,Default,,0000,0000,0000,,We gotta go out to sea someday...
+Dialogue: 0,0:15:25.23,0:15:29.19,Default,,0000,0000,0000,,...and live as we like.\NFreer than anyone else.
+Dialogue: 0,0:15:29.61,0:15:30.24,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:15:32.36,0:15:36.34,Default,,0000,0000,0000,,That means we'll make enemies of many people.
+Dialogue: 0,0:15:37.16,0:15:40.77,Default,,0000,0000,0000,,Even the old man will become our enemy.\NYou gotta be willing to risk everything.
+Dialogue: 0,0:15:42.08,0:15:43.99,Default,,0000,0000,0000,,Let's go out to sea at 17!
+Dialogue: 0,0:15:44.54,0:15:48.01,Default,,0000,0000,0000,,And we will become... pirates!
+Dialogue: 0,0:15:51.13,0:15:53.18,Default,,0000,0000,0000,,Let's start with finding a crew!
+Dialogue: 0,0:15:53.18,0:15:55.26,Default,,0000,0000,0000,,I want at least 10 of them.
+Dialogue: 0,0:15:55.85,0:15:58.00,Default,,0000,0000,0000,,And the black flag!
+Dialogue: 0,0:15:58.72,0:16:02.44,Default,,0000,0000,0000,,Alright! Let's go!
+Dialogue: 0,0:16:02.85,0:16:04.40,Default,,0000,0000,0000,,I'm gonna become...
+Dialogue: 0,0:16:05.40,0:16:07.25,Default,,0000,0000,0000,,...the King of the Pirates!
+Dialogue: 0,0:16:10.32,0:16:16.37,Default,,0000,0000,0000,,So Sabo-{\i1}san{\i0} and Ace-{\i1}san{\i0} had an \Nimpact on Luffy-{\i1}san{\i0}'s sailing-out.
+Dialogue: 0,0:16:16.53,0:16:20.50,Default,,0000,0000,0000,,Isn't that nice?! He sailed out for\Na never-ending adventure!
+Dialogue: 0,0:16:20.66,0:16:24.26,Default,,0000,0000,0000,,And your brother Sabo \Nwho you thought was dead
+Dialogue: 0,0:16:24.26,0:16:26.63,Default,,0000,0000,0000,,is now the No.2 of the Revolutionary Army!
+Dialogue: 0,0:16:27.17,0:16:30.84,Default,,0000,0000,0000,,The Revolutionary Army's leader\Nis your father, Dragon.
+Dialogue: 0,0:16:31.13,0:16:34.64,Default,,0000,0000,0000,,The other brother, Portgas D. Ace
+Dialogue: 0,0:16:34.64,0:16:38.22,Default,,0000,0000,0000,,was the Whitebeard Pirates' \N2nd division commander
+Dialogue: 0,0:16:38.65,0:16:41.54,Default,,0000,0000,0000,,and the King of the Pirates \N- Gol D. Roger's son...
+Dialogue: 0,0:16:42.24,0:16:45.27,Default,,0000,0000,0000,,What kind of family is that?!\NToo many badasses!
+Dialogue: 0,0:16:45.44,0:16:49.13,Default,,0000,0000,0000,,Doesn't it make you feel strange \Nwhen you think that your sworn
+Dialogue: 0,0:16:49.13,0:16:50.94,Default,,0000,0000,0000,,brother is with your father?
+Dialogue: 0,0:16:51.11,0:16:56.45,Default,,0000,0000,0000,,Hmmm...  I don't know\Nbecause I've never met my dad before...
+Dialogue: 0,0:16:56.45,0:16:57.37,Default,,0000,0000,0000,,But,
+Dialogue: 0,0:16:57.62,0:17:01.66,Default,,0000,0000,0000,,wherever I am,\Nit feels like I'm always connected to Sabo.
+Dialogue: 0,0:17:26.44,0:17:28.52,Default,,0000,0000,0000,,The king of the Goa Kingdom?!
+Dialogue: 0,0:17:30.50,0:17:32.56,Default,,0000,0000,0000,,The king of the Goa Kingdom, huh?
+Dialogue: 0,0:17:33.32,0:17:37.82,Default,,0000,0000,0000,,It's a peaceful rural kingdom\Nbut it's home to a number of outlaws.
+Dialogue: 0,0:17:38.12,0:17:39.78,Default,,0000,0000,0000,,Garp is an exception.
+Dialogue: 0,0:17:39.83,0:17:44.29,Default,,0000,0000,0000,,The leader of the Revolutionary Army - Dragon,\Nthe Chief of Staff - Sabo,
+Dialogue: 0,0:17:44.29,0:17:46.86,Default,,0000,0000,0000,,and the pirates - "Fire Fist" and Straw Hat.
+Dialogue: 0,0:17:47.42,0:17:49.63,Default,,0000,0000,0000,,How interesting!
+Dialogue: 0,0:17:49.84,0:17:54.34,Default,,0000,0000,0000,,Now, kneel at my feet, Garp!
+Dialogue: 0,0:17:54.65,0:17:57.43,Default,,0000,0000,0000,,Get out of my way. Your face irritates me.
+Dialogue: 0,0:17:58.72,0:18:01.58,Default,,0000,0000,0000,,His rudeness leaves me speechless!
+Dialogue: 0,0:18:04.52,0:18:06.95,Default,,0000,0000,0000,,I'll cut to the chase, Garp.
+Dialogue: 0,0:18:08.02,0:18:10.57,Default,,0000,0000,0000,,Give me some pull with the World Nobles!
+Dialogue: 0,0:18:10.57,0:18:13.65,Default,,0000,0000,0000,,I wanna eventually become a Celestial Dragon.
+Dialogue: 0,0:18:13.91,0:18:15.69,Default,,0000,0000,0000,,You wanna be a scumbag like them?
+Dialogue: 0,0:18:18.11,0:18:19.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:20.25,0:18:24.24,Default,,0000,0000,0000,,{\i1}Oh, please! Did anyone hear that?!\NThat could get us the death penalty!{\i0}
+Dialogue: 0,0:18:24.58,0:18:28.12,Default,,0000,0000,0000,,Oh! I shouldn't say that. I take it back.
+Dialogue: 0,0:18:29.75,0:18:31.34,Default,,0000,0000,0000,,{\i1}He scares me!{\i0}
+Dialogue: 0,0:18:37.63,0:18:40.30,Default,,0000,0000,0000,,Are you okay-{\i1}jamon{\i0}, young man?
+Dialogue: 0,0:18:40.30,0:18:41.14,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:41.36,0:18:44.97,Default,,0000,0000,0000,,{\i1}He moved?! I thought he was a building!{\i0}
+Dialogue: 0,0:18:44.97,0:18:50.48,Default,,0000,0000,0000,,{\i1}Is he a Giant? I heard they eat humans\Nand can melt rocks with their saliva...{\i0}
+Dialogue: 0,0:18:52.98,0:18:55.69,Default,,0000,0000,0000,,{\i1}No, wait. Who are they?!{\i0}
+Dialogue: 0,0:18:56.02,0:18:56.86,Default,,0000,0000,0000,,{\i1}Fangs?!{\i0}
+Dialogue: 0,0:18:56.86,0:18:58.07,Default,,0000,0000,0000,,{\i1}Scales?!{\i0}
+Dialogue: 0,0:18:58.40,0:19:01.14,Italics,,0000,0000,0000,,{\i1}Look at the colors of their skin.
+Dialogue: 0,0:19:01.14,0:19:04.37,Italics,,0000,0000,0000,,Are they Fish-Men who are \Nhalf-human and half-fish?!{\i0}
+Dialogue: 0,0:19:04.62,0:19:09.12,Default,,0000,0000,0000,,{\i1}They're classified as fish and you'll \Nget a rare disease by touching them...{\i0}
+Dialogue: 0,0:19:09.37,0:19:12.25,Default,,0000,0000,0000,,Don't touch me!
+Dialogue: 0,0:19:17.84,0:19:20.55,Default,,0000,0000,0000,,{\i1}Bondola 2, now departing.{\i0}
+Dialogue: 0,0:19:26.64,0:19:29.23,Default,,0000,0000,0000,,All right, take care of yourself!
+Dialogue: 0,0:19:29.39,0:19:33.13,Default,,0000,0000,0000,,Luffy-{\i1}sama{\i0}'s grandfather-{\i1}sama{\i0},\Nthank you very much.
+Dialogue: 0,0:19:33.52,0:19:35.52,Default,,0000,0000,0000,,It was fun to travel with you.
+Dialogue: 0,0:20:07.53,0:20:08.84,Default,,0000,0000,0000,,It's so high...
+Dialogue: 0,0:20:09.60,0:20:11.02,Default,,0000,0000,0000,,Unbelievable...
+Dialogue: 0,0:20:15.69,0:20:18.03,Default,,0000,0000,0000,,What's the matter-{\i1}jamon{\i0}, Shirahoshi?
+Dialogue: 0,0:20:24.70,0:20:28.31,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}... It's the sun...
+Dialogue: 0,0:20:28.99,0:20:32.83,Default,,0000,0000,0000,,Brother-{\i1}sama{\i0}! The sun is shining so brightly!
+Dialogue: 0,0:20:32.83,0:20:34.04,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:20:35.04,0:20:37.91,Default,,0000,0000,0000,,The sky goes on forever!
+Dialogue: 0,0:20:38.42,0:20:43.61,Default,,0000,0000,0000,,The sea is also endless\Nand sparkling in the sun!
+Dialogue: 0,0:20:44.01,0:20:48.97,Default,,0000,0000,0000,,Yeah, it's really amazing! Mambo!
+Dialogue: 0,0:20:51.02,0:20:54.45,Default,,0000,0000,0000,,I didn't know that the \Nsurface was so dazzling!
+Dialogue: 0,0:20:55.23,0:20:57.45,Default,,0000,0000,0000,,What a beautiful world!
+Dialogue: 0,0:20:58.07,0:20:59.09,Default,,0000,0000,0000,,Mm-hm.
+Dialogue: 0,0:20:59.48,0:21:04.02,Default,,0000,0000,0000,,The Sun Tree that lights up the sea floor\Ncan't compare-{\i1}jamon{\i0}.
+Dialogue: 0,0:21:09.74,0:21:12.49,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}, I...
+Dialogue: 0,0:21:13.04,0:21:16.78,Default,,0000,0000,0000,,If possible, I want to live on land!
+Dialogue: 0,0:21:17.78,0:21:23.76,Default,,0000,0000,0000,,I want to show this world in the sun\Nto the people of our kingdom!
+Dialogue: 0,0:21:26.47,0:21:30.60,Default,,0000,0000,0000,,I'll ask them.\NThat's what the Reverie is all about-{\i1}jamon{\i0}.
+Dialogue: 0,0:21:31.49,0:21:34.50,DefaultLow,,0000,0000,0000,,KAMABAKKA KINGDOM
+Dialogue: 0,0:21:35.23,0:21:39.40,Default,,0000,0000,0000,,Since you're fighting against the \NWorld Government for the Fish-Men,
+Dialogue: 0,0:21:39.40,0:21:41.86,Default,,0000,0000,0000,,do you have mixed feelings, Koala?
+Dialogue: 0,0:21:43.11,0:21:46.55,Default,,0000,0000,0000,,About the Ryugu Kingdom \Nattending the Reverie?
+Dialogue: 0,0:21:46.99,0:21:49.49,Default,,0000,0000,0000,,No, I don't, Betty-{\i1}san{\i0}.
+Dialogue: 0,0:21:49.49,0:21:53.12,Default,,0000,0000,0000,,It's not the World Government\Nthat we really wanna bring down.
+Dialogue: 0,0:21:54.12,0:21:57.26,Default,,0000,0000,0000,,It's the Celestial Dragons who rule it.
+Dialogue: 0,0:21:58.06,0:22:02.40,DefaultLow,,0000,0000,0000,,RED LINE
+Dialogue: 0,0:22:02.88,0:22:05.30,Default,,0000,0000,0000,,It's really high! I'm scared!
+Dialogue: 0,0:22:05.30,0:22:08.72,Default,,0000,0000,0000,,It's very windy! And it's shaking!
+Dialogue: 0,0:22:16.98,0:22:18.65,Default,,0000,0000,0000,,Be quiet.
+Dialogue: 0,0:22:18.85,0:22:21.80,Default,,0000,0000,0000,,D-D-Did you just see that?!
+Dialogue: 0,0:22:21.80,0:22:23.72,Default,,0000,0000,0000,,What did you see?
+Dialogue: 0,0:22:23.72,0:22:27.84,Default,,0000,0000,0000,,There was a G-Giant in the wall,\Nstaring at us!
+Dialogue: 0,0:22:27.84,0:22:30.76,Default,,0000,0000,0000,,H-H-He had a trident!
+Dialogue: 0,0:22:30.76,0:22:32.79,Default,,0000,0000,0000,,You must be hallucinating...
+Dialogue: 0,0:22:32.79,0:22:35.13,Default,,0000,0000,0000,,Can't you see how high we're at now?
+Dialogue: 0,0:22:35.13,0:22:37.17,Default,,0000,0000,0000,,It was really there!
+Dialogue: 0,0:22:39.63,0:22:43.96,Default,,0000,0000,0000,,--Look over there! They're crows!\N--They don't usually come up this high.
+Dialogue: 0,0:22:47.76,0:22:50.65,Default,,0000,0000,0000,,Those are the birds that \Neveryone was talking about?
+Dialogue: 0,0:22:50.65,0:22:52.26,Default,,0000,0000,0000,,They're flying!
+Dialogue: 0,0:22:52.43,0:22:56.27,Default,,0000,0000,0000,,If they peck at the bubble, we're gonna fall!
+Dialogue: 0,0:22:56.66,0:22:59.06,Default,,0000,0000,0000,,Hey, guard! Pull out your gun!
+Dialogue: 0,0:22:59.39,0:23:03.02,Default,,0000,0000,0000,,Shoot down the crows!\NThey're gonna pop the bubble!
+Dialogue: 0,0:23:05.03,0:23:06.32,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:23:06.60,0:23:09.84,Default,,0000,0000,0000,,You'll be fine. King Stelly.
+Dialogue: 0,0:23:20.58,0:23:26.50,Italics,,0000,0000,0000,,{\i1}Vivi from Alabasta. Rebecca from Dressrosa.\NAnd Shirahoshi from the Fish-Man Island.{\i0}
+Dialogue: 0,0:23:26.88,0:23:29.43,Italics,,0000,0000,0000,,{\i1}The three heroines who once stood up
+Dialogue: 0,0:23:29.43,0:23:32.22,Italics,,0000,0000,0000,,to save their countries\Nfrom crises along with the Straw Hats,{\i0}
+Dialogue: 0,0:23:32.22,0:23:35.85,Italics,,0000,0000,0000,,{\i1}meet each other with memories \Nof Luffy in their mind!{\i0}
+Dialogue: 0,0:23:35.85,0:23:40.35,Default,,0000,0000,0000,,On the next episode of One Piece!\N"I Miss Him! Vivi and Rebecca's Sentiments!"
+Dialogue: 0,0:23:40.35,0:23:42.74,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.08,0:23:46.08,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.08,0:23:48.08,On Top,,0000,0000,0000,,

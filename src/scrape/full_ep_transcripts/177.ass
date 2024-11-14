@@ -1,0 +1,286 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.38,0:00:20.61,Default,,0000,0000,0000,,Did you know there's an awesome\Ntreasure at the end of this sea?!
+Dialogue: 0,0:00:20.61,0:00:25.18,Default,,0000,0000,0000,,And whoever gets it can be King\Nof the Pirates! Isn't that exciting?!
+Dialogue: 0,0:00:25.18,0:00:28.39,Default,,0000,0000,0000,,Unheard-of adventures are waiting!
+Dialogue: 0,0:00:30.39,0:00:38.26,Default,,0000,0000,0000,,Bon voyage! Let that shred of courage grow
+Dialogue: 0,0:00:38.26,0:00:45.90,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:00:45.90,0:00:53.68,Default,,0000,0000,0000,,The horizons everyone\Ndreamed of were separate at first
+Dialogue: 0,0:00:53.68,0:01:00.82,Default,,0000,0000,0000,,but now they can be seen\Nthrough a single telescope
+Dialogue: 0,0:01:00.82,0:01:10.16,Default,,0000,0000,0000,,A bitter compass of destiny\Nis leading your heart astray
+Dialogue: 0,0:01:10.16,0:01:13.06,Default,,0000,0000,0000,,so turn the wheel in the other direction!
+Dialogue: 0,0:01:13.06,0:01:15.13,Default,,0000,0000,0000,,Bon voyage!
+Dialogue: 0,0:01:15.13,0:01:20.37,Default,,0000,0000,0000,,Toss aside your bonds and your past
+Dialogue: 0,0:01:20.37,0:01:27.38,Default,,0000,0000,0000,,We can surely smile despite that
+Dialogue: 0,0:01:27.38,0:01:36.86,Default,,0000,0000,0000,,Tears shed trying to achieve\Nyour dreams aren't for naught
+Dialogue: 0,0:01:36.86,0:01:42.26,Default,,0000,0000,0000,,Precious in my life
+Dialogue: 0,0:01:42.26,0:01:50.04,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:01:50.04,0:01:54.41,On Top,,0000,0000,0000,,"Upper Yard" "Angel Island"
+Dialogue: 0,0:01:51.47,0:01:55.47,Default,,0000,0000,0000,,The survival battle in\NGod's Land, Upper Yard, continues.
+Dialogue: 0,0:01:55.47,0:01:58.84,Default,,0000,0000,0000,,Priest Ohm, who serves God Eneru.
+Dialogue: 0,0:01:58.84,0:02:01.78,Default,,0000,0000,0000,,Wyper, a Shandian warrior.
+Dialogue: 0,0:02:01.78,0:02:04.12,Default,,0000,0000,0000,,Gan Fall, the Sky Knight.
+Dialogue: 0,0:02:04.12,0:02:06.79,Default,,0000,0000,0000,,And Zoro.
+Dialogue: 0,0:02:06.79,0:02:10.79,Default,,0000,0000,0000,,Their fierce battle for survival has started.
+Dialogue: 0,0:02:16.66,0:02:20.13,Default,,0000,0000,0000,,Ahhhh... That idiot...!
+Dialogue: 0,0:02:20.13,0:02:21.87,Default,,0000,0000,0000,,Aisa!
+Dialogue: 0,0:02:23.47,0:02:27.14,Default,,0000,0000,0000,,You're idiots who can't\Neven protect yourselves.
+Dialogue: 0,0:02:27.14,0:02:30.48,Default,,0000,0000,0000,,Quit worrying about others!
+Dialogue: 0,0:02:30.48,0:02:34.35,Default,,0000,0000,0000,,At any rate, no one will survive!
+Dialogue: 0,0:02:42.19,0:02:46.79,Default,,0000,0000,0000,,"The Ordeal of Iron!\NWhite Barbed Death Match!!"
+Dialogue: 0,0:02:50.53,0:02:52.86,Default,,0000,0000,0000,,That's our Ohm-sama!
+Dialogue: 0,0:02:52.86,0:02:58.20,Default,,0000,0000,0000,,The survivors in the Upper Ruins\Nare four Divine Soldiers.
+Dialogue: 0,0:02:58.20,0:03:00.47,Default,,0000,0000,0000,,Since those two are probably still alive,
+Dialogue: 0,0:03:00.47,0:03:04.14,Default,,0000,0000,0000,,that makes four Shandians\Nand one Blue Sea person.
+Dialogue: 0,0:03:04.14,0:03:07.38,Default,,0000,0000,0000,,One giant snake and Holy...
+Dialogue: 0,0:03:09.18,0:03:11.52,Default,,0000,0000,0000,,In other words, ten people and two animals.
+Dialogue: 0,0:03:11.52,0:03:16.19,Default,,0000,0000,0000,,It'll be five survivors soon,\Njust like God prophesied.
+Dialogue: 0,0:03:16.19,0:03:18.86,Default,,0000,0000,0000,,Now, let's continue the battle, shall we?
+Dialogue: 0,0:03:18.86,0:03:21.03,Default,,0000,0000,0000,,I'll finish you off.
+Dialogue: 0,0:03:21.03,0:03:22.86,Default,,0000,0000,0000,,Ohm! You bastard!
+Dialogue: 0,0:03:22.86,0:03:25.53,Default,,0000,0000,0000,,How dare you harm Wyper?!
+Dialogue: 0,0:03:25.53,0:03:29.53,Default,,0000,0000,0000,,Oh? Even when this man is\Nbut a speck in God's eyes,
+Dialogue: 0,0:03:29.53,0:03:31.54,Default,,0000,0000,0000,,he is that important to you?
+Dialogue: 0,0:03:31.54,0:03:33.87,Default,,0000,0000,0000,,Wyper is our leader!!
+Dialogue: 0,0:03:33.87,0:03:38.21,Default,,0000,0000,0000,,We've shared the Shandians' pride!
+Dialogue: 0,0:03:38.21,0:03:41.25,Default,,0000,0000,0000,,In order to take back our\Nhomeland that was taken away!
+Dialogue: 0,0:03:41.25,0:03:47.25,Default,,0000,0000,0000,,Eneru's servant can't\Nunderstand the Shandians' bond!
+Dialogue: 0,0:03:47.25,0:03:51.92,Default,,0000,0000,0000,,Well, even if I understood it,\NI wouldn't feel sympathy or empathy.
+Dialogue: 0,0:03:51.92,0:03:53.63,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:03:54.93,0:03:57.93,Default,,0000,0000,0000,,...it's all for naught!
+Dialogue: 0,0:03:57.93,0:03:59.93,Default,,0000,0000,0000,,Die, Ohm!
+Dialogue: 0,0:04:10.54,0:04:12.58,Default,,0000,0000,0000,,Are you running away?!
+Dialogue: 0,0:04:12.58,0:04:16.41,Default,,0000,0000,0000,,It's the climax. Holy, it's time for that!
+Dialogue: 0,0:04:33.93,0:04:36.63,Default,,0000,0000,0000,,Dash, Holy!
+Dialogue: 0,0:04:54.79,0:04:56.72,Default,,0000,0000,0000,,What's he doing now?!
+Dialogue: 0,0:04:56.72,0:05:00.49,Default,,0000,0000,0000,,Dammit! What's that dog\Ndoing?! This is trouble!
+Dialogue: 0,0:05:02.26,0:05:06.60,Default,,0000,0000,0000,,This surely is... the Iron Ordeal's true form!
+Dialogue: 0,0:05:06.60,0:05:09.37,Default,,0000,0000,0000,,The white barbed death match!
+Dialogue: 0,0:05:12.60,0:05:18.94,Default,,0000,0000,0000,,Fence or no fence, I'm not running away.
+Dialogue: 0,0:05:18.94,0:05:22.48,Default,,0000,0000,0000,,You fool! It's not just so\Nyou can't run away anymore!
+Dialogue: 0,0:05:22.48,0:05:26.32,Default,,0000,0000,0000,,You're surrounded by the white barbs!
+Dialogue: 0,0:05:26.32,0:05:28.35,Default,,0000,0000,0000,,So what?!
+Dialogue: 0,0:05:29.65,0:05:31.49,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:05:37.33,0:05:41.33,Default,,0000,0000,0000,,...once you touch it, you'll get hurt!
+Dialogue: 0,0:05:41.33,0:05:45.34,Default,,0000,0000,0000,,So where do I get out when\NI'm done with you all?!
+Dialogue: 0,0:05:45.34,0:05:49.14,Default,,0000,0000,0000,,You can think about that when you're done.
+Dialogue: 0,0:05:54.71,0:05:57.55,Default,,0000,0000,0000,,Eight more people and two animals left!
+Dialogue: 0,0:05:59.05,0:06:02.65,Default,,0000,0000,0000,,I'd better do something\Nabout that giant snake first.
+Dialogue: 0,0:06:02.65,0:06:05.99,Default,,0000,0000,0000,,Nami's in it... and...
+Dialogue: 0,0:06:07.99,0:06:10.76,Default,,0000,0000,0000,,Sky Knight!!
+Dialogue: 0,0:06:10.76,0:06:13.60,Default,,0000,0000,0000,,...so's the guy who saved Chopper.
+Dialogue: 0,0:06:23.68,0:06:26.01,Default,,0000,0000,0000,,Wyper...
+Dialogue: 0,0:06:26.01,0:06:30.22,Default,,0000,0000,0000,,When we were small, you told me...
+Dialogue: 0,0:06:35.05,0:06:40.39,Default,,0000,0000,0000,,Our ancestors originally lived in the Blue Sea...
+Dialogue: 0,0:06:40.39,0:06:42.73,Default,,0000,0000,0000,,...in the sacred city, Shandora.
+Dialogue: 0,0:06:42.73,0:06:46.90,Default,,0000,0000,0000,,The Great Warrior Calgara\Nprotected our homeland.
+Dialogue: 0,0:06:46.90,0:06:50.00,Default,,0000,0000,0000,,But 400 years ago...
+Dialogue: 0,0:06:51.74,0:06:58.08,Default,,0000,0000,0000,,...Shandora was shot up to\NSkypiea by the Knock-Up Stream.
+Dialogue: 0,0:06:58.08,0:07:00.11,Default,,0000,0000,0000,,They could never go back to the Blue Sea.
+Dialogue: 0,0:07:00.11,0:07:03.72,Default,,0000,0000,0000,,It must've been very tough for them.
+Dialogue: 0,0:07:03.72,0:07:10.79,Default,,0000,0000,0000,,But Skypieans took over the land,\Ncalling it "sacred ground"!
+Dialogue: 0,0:07:12.39,0:07:15.39,Default,,0000,0000,0000,,Our ancestors were driven\Nout of their homeland.
+Dialogue: 0,0:07:15.39,0:07:17.73,Default,,0000,0000,0000,,We can't go back to our sacred city.
+Dialogue: 0,0:07:17.73,0:07:21.33,Default,,0000,0000,0000,,We aren't even allowed to touch\Nthe ground of our homeland!
+Dialogue: 0,0:07:23.07,0:07:29.07,Default,,0000,0000,0000,,For 400 long years, we, Shandians,\Nhave suffered humiliation!
+Dialogue: 0,0:07:31.74,0:07:36.45,Default,,0000,0000,0000,,That Upper Yard belongs to us!
+Dialogue: 0,0:07:36.45,0:07:41.79,Default,,0000,0000,0000,,We will take back... our homeland...
+Dialogue: 0,0:07:41.79,0:07:44.19,Default,,0000,0000,0000,,...as well as our ancestors' pride!
+Dialogue: 0,0:07:46.46,0:07:52.80,Default,,0000,0000,0000,,Once we defeat Eneru, we won't need\Nto revere a single bag of Vearth.
+Dialogue: 0,0:07:52.80,0:07:58.47,Default,,0000,0000,0000,,We're going back. To the 400-year-old\Nhomeland of the Shandians!
+Dialogue: 0,0:07:58.47,0:08:02.91,Default,,0000,0000,0000,,Those who aren't prepared,\Nstay here. I won't blame you.
+Dialogue: 0,0:08:02.91,0:08:07.45,Default,,0000,0000,0000,,C'mon, Wyper! We're always prepared!
+Dialogue: 0,0:08:07.45,0:08:12.45,Default,,0000,0000,0000,,Are you prepared to abandon\Nanyone who falls during the fight?
+Dialogue: 0,0:08:12.45,0:08:17.86,Default,,0000,0000,0000,,Those who can step over comrades\Nand keep moving, come with me!
+Dialogue: 0,0:08:20.79,0:08:25.50,Default,,0000,0000,0000,,Today... Eneru's head will be mine!
+Dialogue: 0,0:08:27.47,0:08:29.23,Default,,0000,0000,0000,,Wyper!
+Dialogue: 0,0:09:03.47,0:09:05.60,Default,,0000,0000,0000,,Wyper!!
+Dialogue: 0,0:09:09.47,0:09:12.48,Default,,0000,0000,0000,,I'm glad I found you!
+Dialogue: 0,0:09:12.48,0:09:13.68,Default,,0000,0000,0000,,Laki!
+Dialogue: 0,0:09:13.68,0:09:16.85,Default,,0000,0000,0000,,Wyper! Listen to me!
+Dialogue: 0,0:09:16.85,0:09:20.18,Default,,0000,0000,0000,,Why did you come here?!
+Dialogue: 0,0:09:20.18,0:09:23.52,Default,,0000,0000,0000,,I came here to give you Kamakiri's message!
+Dialogue: 0,0:09:24.52,0:09:28.19,Default,,0000,0000,0000,,No one can... defeat him...
+Dialogue: 0,0:09:28.19,0:09:32.16,Default,,0000,0000,0000,,Get out of here, Wyper! Don't fight!
+Dialogue: 0,0:09:40.54,0:09:44.54,Default,,0000,0000,0000,,Eneru is in the forest!
+Dialogue: 0,0:09:44.54,0:09:45.88,Default,,0000,0000,0000,,Hey, Laki!
+Dialogue: 0,0:09:45.88,0:09:50.25,Default,,0000,0000,0000,,Eneru is lightning itself, which people\Nhave feared as God since long ago.
+Dialogue: 0,0:09:51.25,0:09:54.59,Default,,0000,0000,0000,,Don't come near here! Get out of here!
+Dialogue: 0,0:09:54.59,0:09:56.25,Default,,0000,0000,0000,,There's no way we can defeat him!
+Dialogue: 0,0:09:56.25,0:09:58.09,Default,,0000,0000,0000,,Hey, stop it!
+Dialogue: 0,0:10:00.59,0:10:02.49,Default,,0000,0000,0000,,Wyper...?
+Dialogue: 0,0:10:12.60,0:10:15.21,Default,,0000,0000,0000,,You called me?
+Dialogue: 0,0:10:17.94,0:10:19.88,Default,,0000,0000,0000,,Eneru...
+Dialogue: 0,0:10:24.98,0:10:28.65,Default,,0000,0000,0000,,Stop it, Eneru! Don't!
+Dialogue: 0,0:10:28.65,0:10:32.66,Default,,0000,0000,0000,,She abandoned the battle!
+Dialogue: 0,0:10:32.66,0:10:34.29,Default,,0000,0000,0000,,Hey!!
+Dialogue: 0,0:10:35.66,0:10:37.50,Default,,0000,0000,0000,,Laki!!
+Dialogue: 0,0:10:43.00,0:10:46.00,Default,,0000,0000,0000,,Laki! Don't fight him!
+Dialogue: 0,0:10:46.00,0:10:48.01,Default,,0000,0000,0000,,Laki!
+Dialogue: 0,0:10:48.01,0:10:50.41,Default,,0000,0000,0000,,Run!!
+Dialogue: 0,0:11:01.32,0:11:06.76,Default,,0000,0000,0000,,You fool! Don't think you can survive\Nwhile you're worrying about others!
+Dialogue: 0,0:11:18.00,0:11:20.81,Default,,0000,0000,0000,,He's... invincible...!
+Dialogue: 0,0:11:23.01,0:11:29.88,Default,,0000,0000,0000,,He's lightning... which people have\Nfeared as God... since long ago...
+Dialogue: 0,0:11:35.72,0:11:38.22,Default,,0000,0000,0000,,I got you, Wyper!
+Dialogue: 0,0:11:44.06,0:11:46.03,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:11:51.57,0:11:53.44,Default,,0000,0000,0000,,Get out of here!
+Dialogue: 0,0:12:27.07,0:12:29.07,Default,,0000,0000,0000,,Eneru!!
+Dialogue: 0,0:12:29.07,0:12:31.58,Default,,0000,0000,0000,,Oh? It didn't work on him?
+Dialogue: 0,0:12:31.58,0:12:33.68,Default,,0000,0000,0000,,Then, I'll give you another shot!
+Dialogue: 0,0:12:41.12,0:12:44.12,Default,,0000,0000,0000,,You're softer than I thought.
+Dialogue: 0,0:12:44.12,0:12:47.66,Default,,0000,0000,0000,,Wyper, Shandian warrior!
+Dialogue: 0,0:12:47.66,0:12:49.79,Default,,0000,0000,0000,,Even if she's a woman, she's still a warrior.
+Dialogue: 0,0:12:49.79,0:12:54.13,Default,,0000,0000,0000,,I treat all those that challenge me equally.
+Dialogue: 0,0:12:54.13,0:12:56.77,Default,,0000,0000,0000,,Well, try your best not to die.
+Dialogue: 0,0:13:19.12,0:13:22.23,Default,,0000,0000,0000,,That's... God?!
+Dialogue: 0,0:13:44.18,0:13:46.85,Default,,0000,0000,0000,,Man, what a foolish woman,
+Dialogue: 0,0:13:46.85,0:13:50.86,Default,,0000,0000,0000,,insolently attacking God.
+Dialogue: 0,0:13:50.86,0:13:53.86,Default,,0000,0000,0000,,She received divine punishment.
+Dialogue: 0,0:13:53.86,0:13:57.53,Default,,0000,0000,0000,,Before I get out of here, I have\Nto take care of something.
+Dialogue: 0,0:13:58.53,0:14:00.20,Default,,0000,0000,0000,,You giant snake!
+Dialogue: 0,0:14:00.20,0:14:03.47,Default,,0000,0000,0000,,I have business with your stomach!
+Dialogue: 0,0:14:03.47,0:14:05.34,Default,,0000,0000,0000,,Don't stand in my way!
+Dialogue: 0,0:14:07.47,0:14:09.57,Default,,0000,0000,0000,,Holy! Shake hands!
+Dialogue: 0,0:14:13.14,0:14:15.01,Default,,0000,0000,0000,,Eisen Whip!
+Dialogue: 0,0:14:16.81,0:14:18.55,Default,,0000,0000,0000,,Axe!
+Dialogue: 0,0:14:30.86,0:14:34.67,Default,,0000,0000,0000,,Six people and two animals left!
+Dialogue: 0,0:14:57.92,0:14:59.46,Default,,0000,0000,0000,,Ow, ow...
+Dialogue: 0,0:15:01.86,0:15:06.86,Default,,0000,0000,0000,,Good. Looks like she wasn't seriously hurt.
+Dialogue: 0,0:15:10.20,0:15:12.20,Default,,0000,0000,0000,,Where on earth...?
+Dialogue: 0,0:15:12.20,0:15:14.87,Default,,0000,0000,0000,,We're in the snake's stomach.
+Dialogue: 0,0:15:14.87,0:15:17.21,Default,,0000,0000,0000,,We were swallowed!
+Dialogue: 0,0:15:17.21,0:15:22.88,Default,,0000,0000,0000,,Oh, that's right. It seems\Nto be quite a long stomach.
+Dialogue: 0,0:15:22.88,0:15:25.25,Default,,0000,0000,0000,,Hey, Aisa, are you all right?
+Dialogue: 0,0:15:25.25,0:15:28.25,Default,,0000,0000,0000,,W-Wyper, I'm sorry!
+Dialogue: 0,0:15:29.25,0:15:30.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:33.26,0:15:34.93,Default,,0000,0000,0000,,What is this place?
+Dialogue: 0,0:15:34.93,0:15:37.26,Default,,0000,0000,0000,,Inside the snake's stomach.
+Dialogue: 0,0:15:37.26,0:15:40.00,Default,,0000,0000,0000,,Pay more attention! You're so slow.
+Dialogue: 0,0:15:40.00,0:15:41.27,Default,,0000,0000,0000,,Snake's...?!
+Dialogue: 0,0:15:41.27,0:15:43.93,Default,,0000,0000,0000,,Now, let's get out of here\Nbefore its stomach melts us.
+Dialogue: 0,0:15:43.93,0:15:46.44,Default,,0000,0000,0000,,I wonder if the waver still works.
+Dialogue: 0,0:15:46.44,0:15:50.27,Default,,0000,0000,0000,,In any case, why aren't you on the ship?
+Dialogue: 0,0:15:50.27,0:15:53.61,Default,,0000,0000,0000,,We were chased and had no choice but to run.
+Dialogue: 0,0:15:53.61,0:15:57.42,Default,,0000,0000,0000,,Well, more importantly,\Nisn't that girl Shandian?
+Dialogue: 0,0:15:58.65,0:16:01.59,Default,,0000,0000,0000,,Wha...?! God!
+Dialogue: 0,0:16:01.59,0:16:03.25,Default,,0000,0000,0000,,I'll eliminate you!
+Dialogue: 0,0:16:03.25,0:16:06.39,Default,,0000,0000,0000,,Hey! Stop it!
+Dialogue: 0,0:16:17.27,0:16:20.60,Default,,0000,0000,0000,,Anyway, can't we break\Nthrough this stomach wall?
+Dialogue: 0,0:16:20.60,0:16:24.61,Default,,0000,0000,0000,,Are you nuts?! What're we gonna do\Nif irritating it makes it go wild?!
+Dialogue: 0,0:16:24.61,0:16:27.95,Default,,0000,0000,0000,,Do you wanna die?! Try to use your head more!
+Dialogue: 0,0:16:27.95,0:16:31.28,Default,,0000,0000,0000,,O-Oh, that was a joke.
+Dialogue: 0,0:16:31.28,0:16:35.65,Default,,0000,0000,0000,,Are you crazy?!\NYou're really weird, weird knight!
+Dialogue: 0,0:16:35.65,0:16:37.99,Default,,0000,0000,0000,,Geez...
+Dialogue: 0,0:16:37.99,0:16:40.99,Default,,0000,0000,0000,,If there's someone who'd\Nseriously try to irritate this snake,
+Dialogue: 0,0:16:40.99,0:16:43.56,Default,,0000,0000,0000,,I'd like to meet 'em.
+Dialogue: 0,0:16:49.00,0:16:50.97,Default,,0000,0000,0000,,This sound...
+Dialogue: 0,0:16:56.34,0:16:58.68,Default,,0000,0000,0000,,It's footsteps.
+Dialogue: 0,0:16:58.68,0:17:01.08,Default,,0000,0000,0000,,What could be in a place like this?
+Dialogue: 0,0:17:04.62,0:17:06.55,Default,,0000,0000,0000,,Who is it?!
+Dialogue: 0,0:17:23.00,0:17:25.67,Default,,0000,0000,0000,,Nami! Weird old man!
+Dialogue: 0,0:17:25.67,0:17:27.34,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:17:27.34,0:17:29.01,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:17:29.01,0:17:34.21,Default,,0000,0000,0000,,What're you doing?!\NIn a mystery cave like this?!
+Dialogue: 0,0:17:35.35,0:17:38.35,Default,,0000,0000,0000,,What are you doing in a place like this?!
+Dialogue: 0,0:17:38.35,0:17:41.72,Default,,0000,0000,0000,,I couldn't get out of this place.
+Dialogue: 0,0:17:41.72,0:17:43.39,Default,,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:17:43.39,0:17:46.39,Default,,0000,0000,0000,,To think that you were\Nswallowed by the snake too...
+Dialogue: 0,0:17:46.39,0:17:49.06,Default,,0000,0000,0000,,So the others are okay, right?!
+Dialogue: 0,0:17:49.06,0:17:51.40,Default,,0000,0000,0000,,Huh? I'm by myself.
+Dialogue: 0,0:17:51.40,0:17:53.06,Default,,0000,0000,0000,,What?! Snake?!
+Dialogue: 0,0:17:53.06,0:17:56.07,Default,,0000,0000,0000,,That's right. That's why we're here!
+Dialogue: 0,0:17:56.07,0:17:59.40,Default,,0000,0000,0000,,Oh, I see... That must've been terrible.
+Dialogue: 0,0:17:59.40,0:18:02.34,Default,,0000,0000,0000,,So, you guys were eaten by a snake, huh?
+Dialogue: 0,0:18:02.34,0:18:05.01,Default,,0000,0000,0000,,Like I said...
+Dialogue: 0,0:18:05.01,0:18:09.35,Default,,0000,0000,0000,,...so were you! We're inside\Nthe snake's stomach!
+Dialogue: 0,0:18:10.35,0:18:14.05,Default,,0000,0000,0000,,Don't pull my nose!
+Dialogue: 0,0:18:14.05,0:18:16.22,Default,,0000,0000,0000,,That was my Usopp impression!
+Dialogue: 0,0:18:18.39,0:18:21.06,Default,,0000,0000,0000,,Who is this idiot?
+Dialogue: 0,0:18:21.06,0:18:25.46,Default,,0000,0000,0000,,I'd rather not say this,\Nbut he's the captain of our ship.
+Dialogue: 0,0:18:27.40,0:18:32.40,Default,,0000,0000,0000,,Oh, you are the captain?\NIt's the end of the world.
+Dialogue: 0,0:18:32.40,0:18:35.07,Default,,0000,0000,0000,,Yeah, I guess that's how\Npeople'd normally see it.
+Dialogue: 0,0:18:35.07,0:18:39.08,Default,,0000,0000,0000,,You must be really slow, not even\Nnoticing that you were eaten.
+Dialogue: 0,0:18:39.08,0:18:43.08,Default,,0000,0000,0000,,Ahhh! Then this place is inside\Nthat giant snake's stomach?!
+Dialogue: 0,0:18:43.08,0:18:45.08,Default,,0000,0000,0000,,W-Was I eaten, too?!
+Dialogue: 0,0:18:45.08,0:18:49.59,Default,,0000,0000,0000,,That's what I've been telling you.\NYour clothes have melted too, you know!
+Dialogue: 0,0:18:51.12,0:18:53.12,Default,,0000,0000,0000,,Whoa! You're right!
+Dialogue: 0,0:18:53.12,0:18:56.79,Default,,0000,0000,0000,,Hey, then let's look for its butthole right away!
+Dialogue: 0,0:18:56.79,0:18:58.80,Default,,0000,0000,0000,,Butthole?
+Dialogue: 0,0:18:58.80,0:19:01.07,Default,,0000,0000,0000,,Just where're you planning to escape from?!
+Dialogue: 0,0:19:01.07,0:19:04.07,Default,,0000,0000,0000,,We were eaten, so why not just\Ngo "plop, plop" out of its butt?
+Dialogue: 0,0:19:04.07,0:19:06.80,Default,,0000,0000,0000,,No!! I'd rather melt!
+Dialogue: 0,0:19:08.41,0:19:09.61,Default,,0000,0000,0000,,Nami's scary.
+Dialogue: 0,0:19:09.61,0:19:12.58,Default,,0000,0000,0000,,A Blue Sea woman is brutal.
+Dialogue: 0,0:19:14.08,0:19:20.28,Default,,0000,0000,0000,,In any case, we were eaten because\Nthis snake is in a bad mood.
+Dialogue: 0,0:19:20.28,0:19:22.79,Default,,0000,0000,0000,,Before it starts going wild again,\Nwe'd better hurry up and...
+Dialogue: 0,0:19:22.79,0:19:25.12,Default,,0000,0000,0000,,In a bad mood?
+Dialogue: 0,0:19:25.12,0:19:27.79,Default,,0000,0000,0000,,That's right. It seemed like\Nit was in a very bad mood.
+Dialogue: 0,0:19:27.79,0:19:30.13,Default,,0000,0000,0000,,It was going wild all this time.
+Dialogue: 0,0:19:31.13,0:19:33.70,Default,,0000,0000,0000,,Why is it in such a bad mood?
+Dialogue: 0,0:19:36.80,0:19:39.14,Default,,0000,0000,0000,,Don't tell me...!!
+Dialogue: 0,0:19:39.14,0:19:42.14,Default,,0000,0000,0000,,Were you causing a ruckus in here all this time?
+Dialogue: 0,0:19:42.14,0:19:45.78,Default,,0000,0000,0000,,Yeah, I thought I'd break the wall to get out.
+Dialogue: 0,0:19:47.14,0:19:51.15,Default,,0000,0000,0000,,Er... So this was your doing.
+Dialogue: 0,0:19:51.15,0:19:54.18,Default,,0000,0000,0000,,Since I went a little wild, I got hungry.
+Dialogue: 0,0:19:54.18,0:19:56.82,Default,,0000,0000,0000,,Do you have something to eat?
+Dialogue: 0,0:19:59.19,0:20:00.92,Default,,0000,0000,0000,,Wh-What's the matter?
+Dialogue: 0,0:20:03.19,0:20:05.80,Default,,0000,0000,0000,,You... stupid idiot!!
+Dialogue: 0,0:20:38.26,0:20:39.96,Default,,0000,0000,0000,,Ha!
+Dialogue: 0,0:20:41.60,0:20:45.80,Default,,0000,0000,0000,,Groaning like a fool! That's just what I want!
+Dialogue: 0,0:20:49.94,0:20:52.74,Default,,0000,0000,0000,,Don't let its stomach acid melt you, Aisa!
+Dialogue: 0,0:20:56.95,0:20:59.18,Default,,0000,0000,0000,,I'll tear open its stomach now!
+Dialogue: 0,0:21:07.93,0:21:09.79,Default,,0000,0000,0000,,You son of a...!
+Dialogue: 0,0:21:22.94,0:21:25.28,Default,,0000,0000,0000,,Hang in there somehow, Nami...
+Dialogue: 0,0:21:25.28,0:21:28.18,Default,,0000,0000,0000,,...and... er... weird knight!
+Dialogue: 0,0:21:39.32,0:21:42.66,Default,,0000,0000,0000,,Until I beat this guy!
+Dialogue: 0,0:21:42.66,0:21:46.16,Default,,0000,0000,0000,,Now... it's time for the finale at last!
+Dialogue: 0,0:21:54.10,0:21:57.88,Default,,0000,0000,0000,,Racing full speed ahead as always
+Dialogue: 0,0:21:57.88,0:22:01.78,Default,,0000,0000,0000,,A to Z, we run through it
+Dialogue: 0,0:22:01.78,0:22:05.48,Default,,0000,0000,0000,,We all have worries and fall many times
+Dialogue: 0,0:22:05.48,0:22:09.39,Default,,0000,0000,0000,,But we just need to rise to the top someday
+Dialogue: 0,0:22:09.39,0:22:17.06,Default,,0000,0000,0000,,What could be beyond the sea\Nin which the morning sun rises?
+Dialogue: 0,0:22:17.06,0:22:25.67,Default,,0000,0000,0000,,Let's go little by little toward\Nthe brilliantly shining sun
+Dialogue: 0,0:22:25.67,0:22:28.41,Default,,0000,0000,0000,,I never treat you "bad"
+Dialogue: 0,0:22:28.41,0:22:30.11,Default,,0000,0000,0000,,How many times did we fall?
+Dialogue: 0,0:22:30.11,0:22:40.82,Default,,0000,0000,0000,,It's all right, we're definitely\Npointing at tomorrow now
+Dialogue: 0,0:22:40.82,0:22:43.59,Default,,0000,0000,0000,,Smile! Come back to you, friends
+Dialogue: 0,0:22:43.59,0:22:47.39,Default,,0000,0000,0000,,Come back to you, friends\NCome back to you, friends
+Dialogue: 0,0:22:47.39,0:22:49.29,Default,,0000,0000,0000,,Come back to you, friends
+Dialogue: 0,0:22:49.29,0:22:53.23,Default,,0000,0000,0000,,Come back to you, friends\NCome back to you, friends
+Dialogue: 0,0:22:53.23,0:22:56.53,Default,,0000,0000,0000,,Come back to you, friends
+Dialogue: 0,0:23:10.01,0:23:12.15,Default,,0000,0000,0000,,Okay! Let's hurry up and\Nget out from the butthole!
+Dialogue: 0,0:23:12.15,0:23:14.02,Default,,0000,0000,0000,,Like I said, I don't want to, you idiot!
+Dialogue: 0,0:23:14.02,0:23:16.05,Default,,0000,0000,0000,,--Let's plop out!\N--What're you doing?!
+Dialogue: 0,0:23:16.05,0:23:18.06,Default,,0000,0000,0000,,How sad, swordsman from the Blue Sea.
+Dialogue: 0,0:23:18.06,0:23:19.72,Default,,0000,0000,0000,,No one can survive anymore.
+Dialogue: 0,0:23:19.72,0:23:21.39,Default,,0000,0000,0000,,Pray to God with all your heart.
+Dialogue: 0,0:23:21.39,0:23:25.40,Default,,0000,0000,0000,,Fine, you creep! But I'll never pray to God!
+Dialogue: 0,0:23:25.40,0:23:27.40,Default,,0000,0000,0000,,And I'll bring you down!
+Dialogue: 0,0:23:27.40,0:23:28.73,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.73,0:23:31.40,Default,,0000,0000,0000,,"Bursting Slash! Zoro vs. Ohm!!"
+Dialogue: 0,0:23:31.40,0:23:33.74,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.74,0:23:35.74,Default,,0000,0000,0000,,

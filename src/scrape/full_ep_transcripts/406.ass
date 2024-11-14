@@ -1,0 +1,380 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:16.36,0:00:20.77,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.77,0:00:23.07,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.07,0:00:29.89,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.20,0:00:40.51,Italics,song,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:43.98,Italics,song,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,Italics,song,0000,0000,0000,,The borderline between\Nthe sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,Italics,song,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,Italics,song,0000,0000,0000,,Don't you have a good\Ntime just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.08,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.08,0:01:09.34,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.28,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.49,0:01:26.98,Italics,song,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.98,0:01:30.23,Italics,song,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,Italics,song,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:36.09,0:01:41.99,Italics,song,0000,0000,0000,,With our pulses racing,\Nlet's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,Italics,song,0000,0000,0000,,Shy hearts engrave\Nthe rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.53,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.53,0:01:55.74,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.74,0:02:00.08,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.08,0:02:02.85,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.87,Italics,song,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.87,0:02:06.62,Italics,song,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.62,0:02:08.19,Italics,song,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.19,0:02:09.85,Italics,song,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.85,0:02:11.47,Italics,song,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.47,0:02:12.98,Italics,song,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.64,Italics,song,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.64,0:02:15.71,Italics,song,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.71,0:02:19.91,Italics,song,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,Italics,song,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.65,Italics,song,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.65,0:02:29.00,Italics,song,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.19,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.19,0:02:35.54,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.54,0:02:39.51,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.80,0:02:42.67,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:48.29,0:02:53.36,Default,,0000,0000,0000,,"Feudal Era Side Story - \NBoss Luffy Appears Again"
+Dialogue: 0,0:03:02.39,0:03:05.12,Default,,0000,0000,0000,,Greetings once again!
+Dialogue: 0,0:03:05.12,0:03:08.72,Default,,0000,0000,0000,,It is the height of summer in the \Nlegendary city of Grand Jipang,
+Dialogue: 0,0:03:08.72,0:03:12.97,Default,,0000,0000,0000,,a veritable mishmash of cultures \Nfrom all places and all times.
+Dialogue: 0,0:03:13.76,0:03:18.17,Default,,0000,0000,0000,,Everyone appears to be as heated up \Nand energetic as the great sun itself,
+Dialogue: 0,0:03:18.17,0:03:19.95,Default,,0000,0000,0000,,but why might that be?
+Dialogue: 0,0:03:20.39,0:03:22.64,Default,,0000,0000,0000,,Big news! Big news!
+Dialogue: 0,0:03:22.83,0:03:24.79,Default,,0000,0000,0000,,Big news!
+Dialogue: 0,0:03:25.56,0:03:27.40,Default,,0000,0000,0000,,Great Portable Shrine Race?
+Dialogue: 0,0:03:27.40,0:03:32.53,Default,,0000,0000,0000,,Yeah! The whole town is abuzz \Nwith the news about it!
+Dialogue: 0,0:03:32.53,0:03:36.94,Default,,0000,0000,0000,,Oh? It's a big race that takes \Nplace once every 100 years?
+Dialogue: 0,0:03:37.56,0:03:40.94,Default,,0000,0000,0000,,I've heard about that! They \Nsay the prize is incredible!
+Dialogue: 0,0:03:41.51,0:03:45.42,Default,,0000,0000,0000,,Supposedly, the winners get to ask \Nthe Grand Shrine's sacred treasure
+Dialogue: 0,0:03:45.42,0:03:47.42,Default,,0000,0000,0000,,for any wish they want!
+Dialogue: 0,0:03:48.39,0:03:49.82,Default,,0000,0000,0000,,It'll grant any wish?
+Dialogue: 0,0:03:52.17,0:03:54.70,Default,,0000,0000,0000,,Here you are! Have some cold water!
+Dialogue: 0,0:03:54.70,0:03:56.69,Default,,0000,0000,0000,,Oh! Thanks!
+Dialogue: 0,0:03:59.23,0:04:00.18,Default,,0000,0000,0000,,That's good!
+Dialogue: 0,0:04:00.36,0:04:02.32,Default,,0000,0000,0000,,You sure are thoughtful! Who are you?
+Dialogue: 0,0:04:02.32,0:04:04.92,Default,,0000,0000,0000,,She's our newest hired hand.
+Dialogue: 0,0:04:04.92,0:04:07.66,Default,,0000,0000,0000,,I'm Omao. It's nice to meet you!
+Dialogue: 0,0:04:07.66,0:04:08.73,Default,,0000,0000,0000,,Seconds!
+Dialogue: 0,0:04:08.73,0:04:09.68,Default,,0000,0000,0000,,Here you are!
+Dialogue: 0,0:04:10.66,0:04:12.49,Default,,0000,0000,0000,,A heaping bowl! Awesome!
+Dialogue: 0,0:04:12.49,0:04:13.89,Default,,0000,0000,0000,,What good service!
+Dialogue: 0,0:04:15.23,0:04:17.41,Default,,0000,0000,0000,,Yum! Yum!
+Dialogue: 0,0:04:17.41,0:04:21.17,Default,,0000,0000,0000,,You don't need to give him so \Nmuch extra food, Omao-chan.
+Dialogue: 0,0:04:21.17,0:04:24.11,Default,,0000,0000,0000,,He's just going to put it on \Nhis tab without paying his bill.
+Dialogue: 0,0:04:24.11,0:04:25.24,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:26.52,0:04:28.79,Default,,0000,0000,0000,,So, what is this sacred treasure?
+Dialogue: 0,0:04:28.79,0:04:29.66,Default,,0000,0000,0000,,Oh, right...
+Dialogue: 0,0:04:29.98,0:04:35.42,Default,,0000,0000,0000,,They say that the sacred treasure has \Nthe magical power to grant any wish.
+Dialogue: 0,0:04:35.42,0:04:39.22,Default,,0000,0000,0000,,It's kept in the Grand Shrine's treasure \Nroom, which is opened once a century.
+Dialogue: 0,0:04:44.15,0:04:46.70,Default,,0000,0000,0000,,One policeman supposedly\N made it big and became a samurai
+Dialogue: 0,0:04:46.70,0:04:49.10,Default,,0000,0000,0000,,after his wish was granted,
+Dialogue: 0,0:04:49.86,0:04:53.63,Default,,0000,0000,0000,,and one cook married the \Nprettiest girl in town
+Dialogue: 0,0:04:53.63,0:04:56.17,Default,,0000,0000,0000,,and lived in complete happiness!
+Dialogue: 0,0:04:56.17,0:04:57.86,Default,,0000,0000,0000,,That sounds great!
+Dialogue: 0,0:04:57.86,0:05:00.35,Default,,0000,0000,0000,,That sounds neat!
+Dialogue: 0,0:05:00.79,0:05:03.57,Default,,0000,0000,0000,,Alright! Let's enter the \NGreat Portable Shrine Race!
+Dialogue: 0,0:05:03.70,0:05:05.03,Default,,0000,0000,0000,,Forget it!
+Dialogue: 0,0:05:05.03,0:05:08.67,Default,,0000,0000,0000,,I refuse to take part in a sweaty \Ncompetition for something so suspicious!
+Dialogue: 0,0:05:09.21,0:05:12.53,Default,,0000,0000,0000,,The winners also receive \None million Ryo-Berries.
+Dialogue: 0,0:05:12.54,0:05:15.69,Default,,0000,0000,0000,,C'mon, you guys! Let's get ready!
+Dialogue: 0,0:05:15.69,0:05:17.97,Default,,0000,0000,0000,,We're gonna win the \NGreat Portable Shrine Race!
+Dialogue: 0,0:05:17.97,0:05:19.42,Default,,0000,0000,0000,,She suddenly has life in her...
+Dialogue: 0,0:05:19.75,0:05:23.74,Default,,0000,0000,0000,,Okay, we'll need a great \Nportable shrine if we want to win!
+Dialogue: 0,0:05:27.12,0:05:30.49,Default,,0000,0000,0000,,So, where are we going, Onami?
+Dialogue: 0,0:05:30.49,0:05:32.48,Default,,0000,0000,0000,,--The lumberyard.\N--Lumberyard?!
+Dialogue: 0,0:05:33.16,0:05:37.65,Default,,0000,0000,0000,,I hear the greatest builder \Nin all of Jipang lives there!
+Dialogue: 0,0:05:39.58,0:05:41.08,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:05:44.49,0:05:46.30,Default,,0000,0000,0000,,Is there no one home?
+Dialogue: 0,0:05:50.17,0:05:52.15,Default,,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:05:52.52,0:05:54.16,Default,,0000,0000,0000,,Oh, what a nice roll of fabric!
+Dialogue: 0,0:05:54.71,0:05:56.68,Default,,0000,0000,0000,,Oh, sorry 'bout that!
+Dialogue: 0,0:06:01.85,0:06:05.25,Default,,0000,0000,0000,,Oh, you picked it up for me? Thanks, girlie!
+Dialogue: 0,0:06:07.48,0:06:09.25,Default,,0000,0000,0000,,It went flying off when I tried drying it
+Dialogue: 0,0:06:09.25,0:06:13.76,Default,,0000,0000,0000,,with my Special Franky Workshop \NSuper Drying Clockwork Mechanism!
+Dialogue: 0,0:06:14.20,0:06:15.40,Default,,0000,0000,0000,,Master Builder!
+Dialogue: 0,0:06:15.40,0:06:18.01,Default,,0000,0000,0000,,--You shouldn't go out in public...\N--...looking like that!
+Dialogue: 0,0:06:22.29,0:06:24.53,Default,,0000,0000,0000,,That was a close call...
+Dialogue: 0,0:06:24.53,0:06:25.87,Default,,0000,0000,0000,,You didn't make it in time!
+Dialogue: 0,0:06:26.29,0:06:29.00,Default,,0000,0000,0000,,Okay, girlie. Could I have that back?
+Dialogue: 0,0:06:29.28,0:06:30.13,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:30.57,0:06:31.71,Default,,0000,0000,0000,,That.
+Dialogue: 0,0:06:33.00,0:06:34.06,Default,,0000,0000,0000,,This?
+Dialogue: 0,0:06:34.06,0:06:39.01,Default,,0000,0000,0000,,It is my loincloth, after all! Super!
+Dialogue: 0,0:06:40.99,0:06:45.62,Default,,0000,0000,0000,,L-L-L...
+Dialogue: 0,0:06:45.62,0:06:48.82,Default,,0000,0000,0000,,Loincloth?!
+Dialogue: 0,0:06:54.34,0:06:57.50,Default,,0000,0000,0000,,Awesome! What's this doohickey?!
+Dialogue: 0,0:06:57.50,0:07:03.11,Default,,0000,0000,0000,,It's my Super Drying Clockwork \NMechanism Fun Fan Sunny Wind!
+Dialogue: 0,0:07:03.34,0:07:05.88,Default,,0000,0000,0000,,It's so cool!
+Dialogue: 0,0:07:05.88,0:07:07.34,Default,,0000,0000,0000,,The loincloth...
+Dialogue: 0,0:07:07.87,0:07:11.11,Default,,0000,0000,0000,,The loincloth landed right on my face...
+Dialogue: 0,0:07:11.29,0:07:15.66,Default,,0000,0000,0000,,So, what kind of super portable \Nshrine do you want me to make?
+Dialogue: 0,0:07:15.95,0:07:18.33,Default,,0000,0000,0000,,Well, one that's...
+Dialogue: 0,0:07:18.33,0:07:20.39,Default,,0000,0000,0000,,One that can win!
+Dialogue: 0,0:07:20.39,0:07:25.00,Default,,0000,0000,0000,,Yeah! One that's super cool and \Nthat can absolutely win for sure!
+Dialogue: 0,0:07:25.25,0:07:27.42,Default,,0000,0000,0000,,Yes, that's easy to say,
+Dialogue: 0,0:07:27.42,0:07:30.84,Default,,0000,0000,0000,,but the other people participating \Nin the race sound tough.
+Dialogue: 0,0:07:34.18,0:07:39.44,Default,,0000,0000,0000,,The legendary Flying Fish Riders, \Nthe fastest gang in Grand Jipang.
+Dialogue: 0,0:07:42.18,0:07:45.78,Default,,0000,0000,0000,,Rolling Express, who are speedy \Nwhen it comes to love and work.
+Dialogue: 0,0:07:46.47,0:07:48.11,Default,,0000,0000,0000,,Oh! I like you!
+Dialogue: 0,0:07:48.11,0:07:51.96,Default,,0000,0000,0000,,Marry me! Marry me! Marry me!
+Dialogue: 0,0:07:53.04,0:07:55.88,Default,,0000,0000,0000,,They're all especially quick people.
+Dialogue: 0,0:07:55.88,0:07:57.98,Default,,0000,0000,0000,,There are many other rivals, too.
+Dialogue: 0,0:07:59.35,0:08:00.71,Default,,0000,0000,0000,,Thriller Company?
+Dialogue: 0,0:08:00.99,0:08:04.26,Default,,0000,0000,0000,,Who? I've never heard of them before...
+Dialogue: 0,0:08:28.18,0:08:29.91,Default,,0000,0000,0000,,Who're you guys?
+Dialogue: 0,0:08:30.18,0:08:33.45,Default,,0000,0000,0000,,They're the ones you were just talking about.
+Dialogue: 0,0:08:34.49,0:08:38.05,Default,,0000,0000,0000,,They're Thriller Company. \NThey specialize in import wholesale.
+Dialogue: 0,0:08:38.05,0:08:42.00,Default,,0000,0000,0000,,They moved into the 13-story tower \Nbuilt over in the Foreign District.
+Dialogue: 0,0:08:42.25,0:08:46.34,Default,,0000,0000,0000,,Eh?! Does that mean you guys came \Nto ask for a portable shrine too?!
+Dialogue: 0,0:08:48.40,0:08:50.80,Default,,0000,0000,0000,,Our portable shrine has long been completed!
+Dialogue: 0,0:08:52.62,0:08:58.05,Default,,0000,0000,0000,,We're here today to warn you \Nthat it's pointless to enter the race!
+Dialogue: 0,0:08:58.38,0:09:00.17,Default,,0000,0000,0000,,What?! What do you mean?!
+Dialogue: 0,0:09:00.49,0:09:03.40,Default,,0000,0000,0000,,Yeah! There's no way to know until we try!
+Dialogue: 0,0:09:04.77,0:09:06.33,Default,,0000,0000,0000,,Nice and feisty...
+Dialogue: 0,0:09:06.98,0:09:08.11,Default,,0000,0000,0000,,Just my type!
+Dialogue: 0,0:09:08.27,0:09:11.79,Default,,0000,0000,0000,,In any case, it's in your best \Ninterest to heed our advice!
+Dialogue: 0,0:09:11.79,0:09:13.42,Default,,0000,0000,0000,,You don't want to get hurt, now do you?!
+Dialogue: 0,0:09:13.42,0:09:15.33,Default,,0000,0000,0000,,Hold on, Cindry-chan.\N Why are you in front of me?
+Dialogue: 0,0:09:16.00,0:09:18.57,Default,,0000,0000,0000,,You don't scare us!
+Dialogue: 0,0:09:19.73,0:09:23.55,Default,,0000,0000,0000,,We have Boss Luffy on our side!\N He's a policeman!
+Dialogue: 0,0:09:27.13,0:09:30.39,Default,,0000,0000,0000,,Let us leave for now!
+Dialogue: 0,0:09:30.39,0:09:34.04,Default,,0000,0000,0000,,But you'll be sorry if you \Ndare oppose Thriller Company!
+Dialogue: 0,0:09:37.84,0:09:38.91,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:09:39.38,0:09:41.59,Default,,0000,0000,0000,,Your friends left.
+Dialogue: 0,0:09:44.06,0:09:46.60,Default,,0000,0000,0000,,Th-They ditched me?!
+Dialogue: 0,0:09:46.60,0:09:50.32,Default,,0000,0000,0000,,A-All right! You've been warned!
+Dialogue: 0,0:09:50.62,0:09:52.52,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:09:52.52,0:09:53.97,Default,,0000,0000,0000,,What a weirdo!
+Dialogue: 0,0:09:55.23,0:09:57.15,Default,,0000,0000,0000,,It doesn't get any creepier than that!
+Dialogue: 0,0:09:59.09,0:10:01.94,Default,,0000,0000,0000,,It almost sounds like they'll \Ntry and mess with us...
+Dialogue: 0,0:10:01.94,0:10:03.23,Default,,0000,0000,0000,,Listen, guys!
+Dialogue: 0,0:10:04.17,0:10:06.21,Default,,0000,0000,0000,,Don't you dare lose to those creepy freaks!
+Dialogue: 0,0:10:06.69,0:10:09.62,Default,,0000,0000,0000,,I'm gonna make you guys \Na super portable shrine!
+Dialogue: 0,0:10:09.62,0:10:12.86,Default,,0000,0000,0000,,One that definitely has a chance \Nof winning! So you better win!
+Dialogue: 0,0:10:12.86,0:10:14.55,Default,,0000,0000,0000,,Of course we will!
+Dialogue: 0,0:10:14.55,0:10:16.42,Default,,0000,0000,0000,,Let's win this thing, everyone!
+Dialogue: 0,0:10:16.72,0:10:18.33,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:20.62,0:10:23.57,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:10:26.46,0:10:29.24,Default,,0000,0000,0000,,Come on! Come on! Come on!
+Dialogue: 0,0:10:30.20,0:10:31.85,Default,,0000,0000,0000,,I can't hear you!
+Dialogue: 0,0:10:31.85,0:10:33.74,Default,,0000,0000,0000,,How annoying.
+Dialogue: 0,0:10:33.74,0:10:35.68,Default,,0000,0000,0000,,What's all the noise?
+Dialogue: 0,0:10:36.81,0:10:38.19,Default,,0000,0000,0000,,Stop! Stop!
+Dialogue: 0,0:10:38.88,0:10:42.24,Default,,0000,0000,0000,,That's a lame chant! What are \Nyou, palanquin carriers?!
+Dialogue: 0,0:10:42.24,0:10:43.18,Default,,0000,0000,0000,,Right, sir!
+Dialogue: 0,0:10:43.18,0:10:45.07,Default,,0000,0000,0000,,But we couldn't think of anything else...
+Dialogue: 0,0:10:45.34,0:10:48.94,Default,,0000,0000,0000,,There's gotta be something \Nbetter that's more worthy
+Dialogue: 0,0:10:48.94,0:10:52.41,Default,,0000,0000,0000,,of the Flying Fish Riders, \Nthe fastest gang in all of Jipang!
+Dialogue: 0,0:10:53.21,0:10:56.21,Default,,0000,0000,0000,,Handsome! Handsome! Handsome! Handsome!
+Dialogue: 0,0:10:56.21,0:10:59.94,Default,,0000,0000,0000,,--That's it! Say it more!\N--Handsome! Handsome! Handsome! Handsome!
+Dialogue: 0,0:10:59.94,0:11:01.51,Default,,0000,0000,0000,,Just a bunch of idiots...
+Dialogue: 0,0:11:01.51,0:11:05.32,Default,,0000,0000,0000,,Now victory in the portable \Nshrine race is as good as ours!
+Dialogue: 0,0:11:05.32,0:11:06.39,Default,,0000,0000,0000,,And then...!
+Dialogue: 0,0:11:06.65,0:11:08.72,Default,,0000,0000,0000,,Duval-sama! You're so wonderful!
+Dialogue: 0,0:11:08.72,0:11:10.85,Default,,0000,0000,0000,,I declare my love for you!
+Dialogue: 0,0:11:12.34,0:11:16.09,Default,,0000,0000,0000,,All those who want a kiss, form a line!
+Dialogue: 0,0:11:16.94,0:11:20.42,Default,,0000,0000,0000,,Oh! You cut in line!
+Dialogue: 0,0:11:20.42,0:11:24.22,Default,,0000,0000,0000,,You know that's naughty of you!
+Dialogue: 0,0:11:27.36,0:11:29.96,Default,,0000,0000,0000,,Wh-What's going on?!
+Dialogue: 0,0:11:29.96,0:11:33.35,Default,,0000,0000,0000,,Boss! We're suddenly missing four people!
+Dialogue: 0,0:11:33.35,0:11:35.96,Default,,0000,0000,0000,,What?! Count again!
+Dialogue: 0,0:11:36.41,0:11:37.44,Default,,0000,0000,0000,,One!
+Dialogue: 0,0:11:37.44,0:11:38.29,Default,,0000,0000,0000,,Two!
+Dialogue: 0,0:11:38.49,0:11:39.46,Default,,0000,0000,0000,,Three!
+Dialogue: 0,0:11:39.46,0:11:40.48,Default,,0000,0000,0000,,Four!
+Dialogue: 0,0:11:40.48,0:11:41.54,Default,,0000,0000,0000,,Five!
+Dialogue: 0,0:11:41.54,0:11:42.57,Default,,0000,0000,0000,,Six!
+Dialogue: 0,0:11:42.57,0:11:43.67,Default,,0000,0000,0000,,Seven!
+Dialogue: 0,0:11:44.72,0:11:46.89,Default,,0000,0000,0000,,See? You're all here!
+Dialogue: 0,0:11:47.05,0:11:48.50,Default,,0000,0000,0000,,So we are!
+Dialogue: 0,0:11:52.25,0:11:53.77,Default,,0000,0000,0000,,Who're you guys?!
+Dialogue: 0,0:11:54.36,0:11:56.78,Default,,0000,0000,0000,,Just some zombies passing by.
+Dialogue: 0,0:11:57.08,0:11:58.48,Default,,0000,0000,0000,,Z-Zom...?
+Dialogue: 0,0:11:58.48,0:12:00.69,Default,,0000,0000,0000,,Wh-What did you do with our friends?!
+Dialogue: 0,0:12:03.00,0:12:05.61,Default,,0000,0000,0000,,I'm sorry for acting so tough...
+Dialogue: 0,0:12:05.61,0:12:08.85,Default,,0000,0000,0000,,I'm sorry for being loud every night...
+Dialogue: 0,0:12:09.38,0:12:11.91,Default,,0000,0000,0000,,I just wanted someone to \Npay attention to me...
+Dialogue: 0,0:12:12.62,0:12:15.84,Default,,0000,0000,0000,,Please dry me overnight and \Nthen make a broth out of me...
+Dialogue: 0,0:12:15.84,0:12:18.73,Default,,0000,0000,0000,,Why're you guys so down in the dumps?!
+Dialogue: 0,0:12:20.27,0:12:21.59,Default,,0000,0000,0000,,Because I did this!
+Dialogue: 0,0:12:21.88,0:12:24.18,Default,,0000,0000,0000,,Negative Hollow!
+Dialogue: 0,0:12:29.85,0:12:33.09,Default,,0000,0000,0000,,--Negative! Negative!\N--I'm depressed... Totally depressed...
+Dialogue: 0,0:12:33.09,0:12:35.18,Default,,0000,0000,0000,,--Negative! Negative!\N--Extremely depressed...
+Dialogue: 0,0:12:35.18,0:12:36.02,Default,,0000,0000,0000,,Boss?!
+Dialogue: 0,0:12:36.62,0:12:42.02,Default,,0000,0000,0000,,Carrying shrines or winning races \Nwon't help us make it in this world!
+Dialogue: 0,0:12:42.56,0:12:48.16,Default,,0000,0000,0000,,This junk is nothing but a pipe dream!
+Dialogue: 0,0:12:48.64,0:12:50.13,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:12:52.06,0:12:53.30,Default,,0000,0000,0000,,That's another one down!
+Dialogue: 0,0:13:18.44,0:13:20.42,Default,,0000,0000,0000,,Nothing's biting...
+Dialogue: 0,0:13:22.99,0:13:24.07,Default,,0000,0000,0000,,I got one!
+Dialogue: 0,0:13:24.07,0:13:26.17,Default,,0000,0000,0000,,Alright, you!
+Dialogue: 0,0:13:26.17,0:13:27.89,Default,,0000,0000,0000,,Whoa, it's huge!
+Dialogue: 0,0:13:32.84,0:13:35.79,Default,,0000,0000,0000,,I won't let you beat me!
+Dialogue: 0,0:13:36.08,0:13:40.33,Default,,0000,0000,0000,,Bones... on... a...
+Dialogue: 0,0:13:40.33,0:13:44.22,Default,,0000,0000,0000,,--piece... of... wood...\N--Help...
+Dialogue: 0,0:13:44.38,0:13:47.17,Default,,0000,0000,0000,,...me...
+Dialogue: 0,0:14:09.67,0:14:11.99,Default,,0000,0000,0000,,He sure eats a lot...
+Dialogue: 0,0:14:11.99,0:14:13.07,Default,,0000,0000,0000,,He sure does.
+Dialogue: 0,0:14:13.30,0:14:16.66,Default,,0000,0000,0000,,This guy doesn't know the \Nfirst thing about manners!
+Dialogue: 0,0:14:16.66,0:14:19.04,Default,,0000,0000,0000,,Geez, no one decent ever comes here!
+Dialogue: 0,0:14:19.40,0:14:21.74,Default,,0000,0000,0000,,You sure do eat a lot!
+Dialogue: 0,0:14:22.38,0:14:24.13,Default,,0000,0000,0000,,More yakitori!
+Dialogue: 0,0:14:24.13,0:14:25.75,Default,,0000,0000,0000,,Don't eat with him!
+Dialogue: 0,0:14:26.00,0:14:27.28,Default,,0000,0000,0000,,Here's the bill!
+Dialogue: 0,0:14:27.28,0:14:28.14,Default,,0000,0000,0000,,Why me?!
+Dialogue: 0,0:14:32.80,0:14:35.38,Default,,0000,0000,0000,,My, how delectable!
+Dialogue: 0,0:14:35.38,0:14:36.92,Default,,0000,0000,0000,,That was truly delic--
+Dialogue: 0,0:14:37.69,0:14:38.82,Default,,0000,0000,0000,,Oh, how rude of me.
+Dialogue: 0,0:14:38.82,0:14:40.05,Default,,0000,0000,0000,,You got that right!
+Dialogue: 0,0:14:40.05,0:14:41.16,Default,,0000,0000,0000,,Who are you, anyway?!
+Dialogue: 0,0:14:42.69,0:14:45.61,Default,,0000,0000,0000,,Oh, please excuse my late introduction.
+Dialogue: 0,0:14:45.61,0:14:47.86,Default,,0000,0000,0000,,It is a pleasure to meet you.
+Dialogue: 0,0:14:47.86,0:14:50.74,Default,,0000,0000,0000,,I am the dead and skeletonized Brook.
+Dialogue: 0,0:14:50.74,0:14:51.86,Default,,0000,0000,0000,,I was born in...
+Dialogue: 0,0:14:53.44,0:14:54.72,Default,,0000,0000,0000,,I was born in...
+Dialogue: 0,0:14:56.30,0:14:57.74,Default,,0000,0000,0000,,I forget.
+Dialogue: 0,0:14:58.92,0:15:00.20,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:00.20,0:15:02.90,Default,,0000,0000,0000,,If you're gonna introduce yourself, \Ndo it all the way to the end!
+Dialogue: 0,0:15:02.90,0:15:04.26,Default,,0000,0000,0000,,That makes me feel sick!
+Dialogue: 0,0:15:04.66,0:15:07.01,Default,,0000,0000,0000,,I only remember my name.
+Dialogue: 0,0:15:08.29,0:15:11.60,Default,,0000,0000,0000,,It's possible that some sort of shock \Ncaused you to lose your memory!
+Dialogue: 0,0:15:14.98,0:15:19.52,Default,,0000,0000,0000,,Say, is it just me, or is something \Ninside your head making a sound?
+Dialogue: 0,0:15:19.52,0:15:21.32,Default,,0000,0000,0000,,Maybe you have a screw loose?
+Dialogue: 0,0:15:21.56,0:15:23.61,Default,,0000,0000,0000,,Eh?! That's not good!
+Dialogue: 0,0:15:24.19,0:15:25.65,Default,,0000,0000,0000,,It opens up?!
+Dialogue: 0,0:15:25.65,0:15:27.26,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:15:27.26,0:15:29.92,Default,,0000,0000,0000,,Oh! I found this in there!
+Dialogue: 0,0:15:31.68,0:15:33.78,Default,,0000,0000,0000,,It's a sideways flute...
+Dialogue: 0,0:15:33.78,0:15:34.74,Default,,0000,0000,0000,,A flute?
+Dialogue: 0,0:15:34.74,0:15:35.95,Default,,0000,0000,0000,,Here we go...
+Dialogue: 0,0:15:36.76,0:15:38.70,Default,,0000,0000,0000,,How do things work in there?!
+Dialogue: 0,0:15:40.03,0:15:42.50,Default,,0000,0000,0000,,You're a funny guy!
+Dialogue: 0,0:15:53.94,0:15:55.93,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:15:56.88,0:15:59.05,Default,,0000,0000,0000,,Looks pretty good on you!
+Dialogue: 0,0:17:03.34,0:17:05.94,OS,,0000,0000,0000,,"Portable Shrine Race Participants" \N"Fang-Frog Shipping Agency"\N "Big Helmet Clan"
+Dialogue: 0,0:17:05.94,0:17:07.76,OS,,0000,0000,0000,,"Flying Fish Riders"
+Dialogue: 0,0:17:07.76,0:17:10.72,Default,,0000,0000,0000,,The Flying Fish Riders have dropped out too.
+Dialogue: 0,0:17:10.72,0:17:15.89,Default,,0000,0000,0000,,That just leaves the Rolling Express\N and Pinwheel Eatery teams!
+Dialogue: 0,0:17:15.89,0:17:20.80,Default,,0000,0000,0000,,Once they're out of the way, \Nvictory will belong to Thriller Company!
+Dialogue: 0,0:17:15.89,0:17:20.80,OS,,0000,0000,0000,,"Rolling Express"\N "Pinwheel Eatery"
+Dialogue: 0,0:17:23.36,0:17:25.05,Default,,0000,0000,0000,,The race is tomorrow.
+Dialogue: 0,0:17:25.05,0:17:28.26,Default,,0000,0000,0000,,Let's go finish our work now, Absalom.
+Dialogue: 0,0:17:30.50,0:17:32.48,Default,,0000,0000,0000,,I don't need you to tell me that.
+Dialogue: 0,0:17:35.37,0:17:37.96,Default,,0000,0000,0000,,Things are going to be fun tonight!
+Dialogue: 0,0:17:40.22,0:17:42.91,Default,,0000,0000,0000,,Oh, Cindry-chan. \NWhy do you keep getting in front?
+Dialogue: 0,0:17:55.64,0:17:57.80,Default,,0000,0000,0000,,I've brought some food, everyone!
+Dialogue: 0,0:17:58.15,0:17:59.79,Default,,0000,0000,0000,,Oh! Thanks!
+Dialogue: 0,0:17:59.79,0:18:00.77,Default,,0000,0000,0000,,Lucky!
+Dialogue: 0,0:18:11.45,0:18:15.88,OS,,0000,0000,0000,,"Express Delivery"
+Dialogue: 0,0:18:30.01,0:18:31.32,Default,,0000,0000,0000,,Who's taking our shrine?!
+Dialogue: 0,0:18:31.32,0:18:32.44,Default,,0000,0000,0000,,No idea!
+Dialogue: 0,0:18:32.44,0:18:33.38,Default,,0000,0000,0000,,Is it a thief?!
+Dialogue: 0,0:18:36.31,0:18:38.88,Default,,0000,0000,0000,,I-It's floating!
+Dialogue: 0,0:18:39.66,0:18:42.03,Default,,0000,0000,0000,,I'm stuffed! That was great!
+Dialogue: 0,0:18:43.06,0:18:46.52,Default,,0000,0000,0000,,Simply being with you \Nmakes me overeat as well!
+Dialogue: 0,0:18:46.52,0:18:48.57,Default,,0000,0000,0000,,You guys do eat too much!
+Dialogue: 0,0:18:51.96,0:18:53.54,Default,,0000,0000,0000,,Wh-What the...?
+Dialogue: 0,0:18:53.54,0:18:55.00,Default,,0000,0000,0000,,A portable shrine is flying off!
+Dialogue: 0,0:18:55.00,0:18:56.36,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:18:56.36,0:18:58.06,Default,,0000,0000,0000,,Come back, portable shrine!
+Dialogue: 0,0:18:58.65,0:18:59.84,Default,,0000,0000,0000,,Let's follow it!
+Dialogue: 0,0:18:59.84,0:19:00.94,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:02.31,0:19:04.56,Default,,0000,0000,0000,,Oh, you're wonderful! Marry me!
+Dialogue: 0,0:19:04.56,0:19:05.51,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:19:05.89,0:19:07.14,Default,,0000,0000,0000,,Rejection!
+Dialogue: 0,0:19:07.14,0:19:09.70,Default,,0000,0000,0000,,That's her 4,450th rejection!
+Dialogue: 0,0:19:10.25,0:19:13.04,Default,,0000,0000,0000,,This thing... sure is heavy...
+Dialogue: 0,0:19:13.04,0:19:14.48,Default,,0000,0000,0000,,Get back here!
+Dialogue: 0,0:19:14.72,0:19:16.91,Default,,0000,0000,0000,,Stop, you portable shrine!
+Dialogue: 0,0:19:20.62,0:19:22.21,Default,,0000,0000,0000,,Who're you guys?
+Dialogue: 0,0:19:25.97,0:19:27.04,Default,,0000,0000,0000,,They're...!
+Dialogue: 0,0:19:30.35,0:19:33.27,Default,,0000,0000,0000,,How frightening! Zombies!
+Dialogue: 0,0:19:48.12,0:19:50.12,Default,,0000,0000,0000,,Gavotte Bond en Avant!
+Dialogue: 0,0:20:08.73,0:20:10.86,Default,,0000,0000,0000,,Wow! You're awesome, Brook!
+Dialogue: 0,0:20:12.87,0:20:13.67,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:14.05,0:20:15.99,Default,,0000,0000,0000,,How did I know how to do that?
+Dialogue: 0,0:20:17.24,0:20:18.53,Default,,0000,0000,0000,,Hey, you guys!
+Dialogue: 0,0:20:18.66,0:20:20.19,Default,,0000,0000,0000,,What's all the ruckus?!
+Dialogue: 0,0:20:20.19,0:20:21.94,Default,,0000,0000,0000,,Onami! Sanji!
+Dialogue: 0,0:20:21.94,0:20:23.24,Default,,0000,0000,0000,,What the...?!
+Dialogue: 0,0:20:26.32,0:20:29.39,Default,,0000,0000,0000,,Marry me...!
+Dialogue: 0,0:20:33.84,0:20:35.67,Default,,0000,0000,0000,,This is horrible...
+Dialogue: 0,0:20:35.90,0:20:37.21,Default,,0000,0000,0000,,It's all over!
+Dialogue: 0,0:20:37.21,0:20:39.70,Default,,0000,0000,0000,,We can't enter the race like this!
+Dialogue: 0,0:20:39.70,0:20:42.03,Default,,0000,0000,0000,,Our only choice is to drop out now...
+Dialogue: 0,0:20:43.19,0:20:45.90,Default,,0000,0000,0000,,When will I finally get to marry someone?!
+Dialogue: 0,0:20:47.58,0:20:50.90,Default,,0000,0000,0000,,If this was all meant to destroy \Ntheir portable shrine before the race...
+Dialogue: 0,0:20:50.90,0:20:52.53,Default,,0000,0000,0000,,...then ours is in danger too!
+Dialogue: 0,0:20:52.72,0:20:55.51,Default,,0000,0000,0000,,No, Omao-chan is in bigger trouble!
+Dialogue: 0,0:20:56.18,0:20:57.19,Default,,0000,0000,0000,,Omao-chan?
+Dialogue: 0,0:20:57.33,0:21:00.99,Default,,0000,0000,0000,,She hasn't returned from delivering \Nmeals to the Franky Workshop,
+Dialogue: 0,0:21:00.99,0:21:03.12,Default,,0000,0000,0000,,so we were just on our \Nway to check things out!
+Dialogue: 0,0:21:05.20,0:21:07.75,Default,,0000,0000,0000,,Look out! Outta the way, outta the way!
+Dialogue: 0,0:21:11.04,0:21:12.21,Default,,0000,0000,0000,,Omao-chan!
+Dialogue: 0,0:21:14.79,0:21:18.21,Default,,0000,0000,0000,,Gum-Gum Bazooka!
+Dialogue: 0,0:21:22.03,0:21:24.40,Default,,0000,0000,0000,,Boss! Franky-san and the others are...!
+Dialogue: 0,0:21:33.96,0:21:35.43,Default,,0000,0000,0000,,Get Dr. Bluenose right away!
+Dialogue: 0,0:21:35.43,0:21:36.19,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:21:40.21,0:21:42.03,Default,,0000,0000,0000,,Hey, you alright?
+Dialogue: 0,0:21:42.51,0:21:44.37,Default,,0000,0000,0000,,My head hurts...
+Dialogue: 0,0:21:44.37,0:21:46.31,Default,,0000,0000,0000,,I'm bleary-eyed...
+Dialogue: 0,0:21:46.31,0:21:51.19,Default,,0000,0000,0000,,I don't have eyes, though, \Nas I'm nothing but bones...
+Dialogue: 0,0:21:53.26,0:21:54.87,Default,,0000,0000,0000,,I'd say you're too okay.
+Dialogue: 0,0:22:13.32,0:22:15.08,Default,,0000,0000,0000,,I remember.
+Dialogue: 0,0:22:15.08,0:22:16.67,Default,,0000,0000,0000,,Your memory is back?!
+Dialogue: 0,0:22:17.02,0:22:17.94,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:18.41,0:22:21.20,Default,,0000,0000,0000,,I remember everything now.
+Dialogue: 0,0:22:25.99,0:22:28.54,Default,,0000,0000,0000,,Wh-What's with that get-up? \NWhere are you going?
+Dialogue: 0,0:22:29.19,0:22:32.05,Default,,0000,0000,0000,,I should not be here.
+Dialogue: 0,0:22:32.39,0:22:34.08,Default,,0000,0000,0000,,This is because...
+Dialogue: 0,0:22:35.58,0:22:38.58,Default,,0000,0000,0000,,...I'm actually a member of Thriller Company.
+Dialogue: 0,0:22:38.58,0:22:40.15,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:22:40.15,0:22:40.96,Default,,0000,0000,0000,,Brook-san...
+Dialogue: 0,0:22:44.12,0:22:45.59,Default,,0000,0000,0000,,Come on, now!
+Dialogue: 0,0:22:46.19,0:22:47.68,Default,,0000,0000,0000,,That's not a very funny joke!
+Dialogue: 0,0:22:50.43,0:22:52.05,Default,,0000,0000,0000,,Thank you for everything.
+Dialogue: 0,0:22:53.97,0:22:55.14,Default,,0000,0000,0000,,Hey...!
+Dialogue: 0,0:23:11.99,0:23:15.01,OS,,0000,0000,0000,,"To Be Continued"
+Dialogue: 0,0:23:20.48,0:23:22.65,Default,,0000,0000,0000,,What's with those Thriller Company guys?
+Dialogue: 0,0:23:22.65,0:23:25.19,Default,,0000,0000,0000,,Destroying the portable shrines \Nso they can win without trying...
+Dialogue: 0,0:23:25.19,0:23:26.65,Default,,0000,0000,0000,,That's beyond cowardly!
+Dialogue: 0,0:23:26.65,0:23:28.18,Default,,0000,0000,0000,,Yeah! They won't get away with this!
+Dialogue: 0,0:23:28.18,0:23:30.80,Default,,0000,0000,0000,,We'll win this fight!
+Dialogue: 0,0:23:30.80,0:23:32.86,Default,,0000,0000,0000,,Everybody, attack!
+Dialogue: 0,0:23:32.86,0:23:34.85,Default,,0000,0000,0000,,Do it yourself!
+Dialogue: 0,0:23:34.85,0:23:36.37,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.37,0:23:39.97,Default,,0000,0000,0000,,"Feudal Era Side Story - \NDefeat Thriller Company's Trap"
+Dialogue: 0,0:23:39.97,0:23:42.16,Default,,0000,0000,0000,,I'm gonna be a detective!
+Dialogue: 0,0:23:42.16,0:23:44.16,Default,,0000,0000,0000,,

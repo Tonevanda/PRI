@@ -1,0 +1,313 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.00,0:00:20.45,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:20.45,0:00:23.00,Default,,0000,0000,0000,,once attained everything \Nthis world has to offer.
+Dialogue: 0,0:00:23.40,0:00:25.57,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:00:25.57,0:00:27.79,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:00:28.20,0:00:31.33,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:00:31.33,0:00:32.42,Default,,0000,0000,0000,,Find it!
+Dialogue: 0,0:00:32.42,0:00:34.84,Default,,0000,0000,0000,,I left everything this \Nworld has to offer there!
+Dialogue: 0,0:00:35.33,0:00:37.86,Default,,0000,0000,0000,,Now everyone is in search of romanticism!
+Dialogue: 0,0:00:37.86,0:00:40.56,Default,,0000,0000,0000,,The world has truly entered \Na Great Pirate Era!
+Dialogue: 0,0:00:40.56,0:00:40.56,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:40.56,0:00:44.56,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:00:40.56,0:00:44.56,On Top,,0000,0000,0000,,jitto dekinai tomarenai
+Dialogue: 0,0:00:44.56,0:00:48.86,DefaultLow,,0000,0000,0000,,Daybreak hasn’t come yet and I can’t wait
+Dialogue: 0,0:00:44.56,0:00:48.86,On Top,,0000,0000,0000,,yoake ga osokute jirettai
+Dialogue: 0,0:00:48.86,0:00:52.69,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:00:48.86,0:00:52.69,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:00:54.07,0:00:58.66,DefaultLow,,0000,0000,0000,,Fly the flag, Break of Romance Dawn
+Dialogue: 0,0:00:54.07,0:00:58.66,On Top,,0000,0000,0000,,hata wo ageyou Break of Romance Dawn
+Dialogue: 0,0:00:59.58,0:01:04.66,DefaultLow,,0000,0000,0000,,Make waves, jump from your sleep
+Dialogue: 0,0:00:59.58,0:01:04.66,On Top,,0000,0000,0000,,namikaze tateyou suriipu kara no janpusutaato
+Dialogue: 0,0:01:04.87,0:01:09.21,DefaultLow,,0000,0000,0000,,If you want to go to the unbelievable world
+Dialogue: 0,0:01:04.87,0:01:09.21,On Top,,0000,0000,0000,,arienai sekai wo iku nara
+Dialogue: 0,0:01:09.46,0:01:13.46,DefaultLow,,0000,0000,0000,,your toughness, that’s what it takes
+Dialogue: 0,0:01:09.46,0:01:13.46,On Top,,0000,0000,0000,,kimi no tafunesu sore ga hitsuyou
+Dialogue: 0,0:01:14.09,0:01:16.88,DefaultLow,,0000,0000,0000,,Being brazen, is it a crime?
+Dialogue: 0,0:01:14.09,0:01:16.88,On Top,,0000,0000,0000,,medachisugi sorette tsumi?
+Dialogue: 0,0:01:16.88,0:01:19.89,DefaultLow,,0000,0000,0000,,Wanted->means Winner:D
+Dialogue: 0,0:01:16.88,0:01:19.89,On Top,,0000,0000,0000,,shimeitehai->tsumari Winner
+Dialogue: 0,0:01:19.89,0:01:24.93,DefaultLow,,0000,0000,0000,,Freedom is our only rule
+Dialogue: 0,0:01:19.89,0:01:24.93,On Top,,0000,0000,0000,,jiyuu dakega ore tachi no ruuru
+Dialogue: 0,0:01:25.56,0:01:30.90,DefaultLow,,0000,0000,0000,,It's not our way to worry
+Dialogue: 0,0:01:25.56,0:01:30.90,On Top,,0000,0000,0000,,shinpai nante dokofuku kaze--
+Dialogue: 0,0:01:30.90,0:01:33.44,DefaultLow,,0000,0000,0000,,At any cost, One Piece, I’ll be the first
+Dialogue: 0,0:01:30.90,0:01:33.44,On Top,,0000,0000,0000,,ttai one piece ichibannori
+Dialogue: 0,0:01:33.44,0:01:37.53,DefaultLow,,0000,0000,0000,,My dreaming heart is huge
+Dialogue: 0,0:01:33.44,0:01:37.53,On Top,,0000,0000,0000,,yume miru kokoro wa choo dekai
+Dialogue: 0,0:01:37.53,0:01:41.83,DefaultLow,,0000,0000,0000,,It’s important not to wake up
+Dialogue: 0,0:01:37.53,0:01:41.83,On Top,,0000,0000,0000,,samenai koto ga daiji--
+Dialogue: 0,0:01:41.83,0:01:44.54,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:01:41.83,0:01:44.54,On Top,,0000,0000,0000,,tto dekinai tomarenai
+Dialogue: 0,0:01:44.54,0:01:48.75,DefaultLow,,0000,0000,0000,,Daybreak hasn’t come yet and I can’t wait
+Dialogue: 0,0:01:44.54,0:01:48.75,On Top,,0000,0000,0000,,yoake ga osokute jirettai
+Dialogue: 0,0:01:48.75,0:01:52.59,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:01:48.75,0:01:52.59,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:01:53.88,0:01:59.89,DefaultLow,,0000,0000,0000,,We...made it this far
+Dialogue: 0,0:01:53.88,0:01:59.89,On Top,,0000,0000,0000,,ore tachi wa...koko made kitaze
+Dialogue: 0,0:01:59.89,0:02:02.76,DefaultLow,,0000,0000,0000,,We go...to where the dream is
+Dialogue: 0,0:01:59.89,0:02:02.76,On Top,,0000,0000,0000,,ore tachi wa iku...yume no arika e
+Dialogue: 0,0:02:02.76,0:02:07.85,DefaultLow,,0000,0000,0000,,We won’t left anyone behind
+Dialogue: 0,0:02:02.76,0:02:07.85,On Top,,0000,0000,0000,,dare mo oitekanaize--
+Dialogue: 0,0:02:07.85,0:02:10.52,DefaultLow,,0000,0000,0000,,Keep going forward, that’s our pledge
+Dialogue: 0,0:02:07.85,0:02:10.52,On Top,,0000,0000,0000,,nshin aru nomi sore ga chikai
+Dialogue: 0,0:02:10.52,0:02:14.23,DefaultLow,,0000,0000,0000,,Since the day that the dream began
+Dialogue: 0,0:02:10.52,0:02:14.23,On Top,,0000,0000,0000,,yume ga hajimatta ano hi kara
+Dialogue: 0,0:02:14.57,0:02:18.65,DefaultLow,,0000,0000,0000,,the future that I’m \Naiming at hasn’t changed
+Dialogue: 0,0:02:14.57,0:02:18.65,On Top,,0000,0000,0000,,mezasu mirai wa onaji--
+Dialogue: 0,0:02:18.65,0:02:21.32,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:02:18.65,0:02:21.32,On Top,,0000,0000,0000,,tto dekinai tomarenai
+Dialogue: 0,0:02:21.32,0:02:25.54,DefaultLow,,0000,0000,0000,,The sun of my heart will never set
+Dialogue: 0,0:02:21.32,0:02:25.54,On Top,,0000,0000,0000,,kokoro no taiyou shizumanai
+Dialogue: 0,0:02:25.54,0:02:28.58,DefaultLow,,0000,0000,0000,,One, two, Sunshine
+Dialogue: 0,0:02:25.54,0:02:28.58,On Top,,0000,0000,0000,,ichi, ni, Sunshine
+Dialogue: 0,0:02:29.71,0:02:32.46,DefaultLow,,0000,0000,0000,,One, two, Sunshine
+Dialogue: 0,0:02:29.71,0:02:32.46,On Top,,0000,0000,0000,,ichi, ni, Sunshine
+Dialogue: 0,0:02:33.75,0:02:39.97,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:02:33.75,0:02:39.97,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:02:42.30,0:02:44.18,DefaultLow,,0000,0000,0000,,WE GO!
+Dialogue: 0,0:02:49.33,0:02:52.73,Default,,0000,0000,0000,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:52.73,0:02:57.69,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:02:59.94,0:03:07.36,Default,,0000,0000,0000,,However, no one has ever fully explored it \Nexcept for Gold Roger, King of the Pirates.
+Dialogue: 0,0:03:07.36,0:03:13.08,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:14.54,0:03:20.38,Default,,0000,0000,0000,,Now, Monkey D. Luffy, a boy whose body \Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:20.38,0:03:22.43,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:23.06,0:03:26.86,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:30.07,0:03:32.87,Default,,0000,0000,0000,,On their way to the New World,
+Dialogue: 0,0:03:32.87,0:03:37.73,Default,,0000,0000,0000,,Luffy and his crew reached the Fish-Man \NIsland located 10,000 meters below sea level,
+Dialogue: 0,0:03:37.73,0:03:42.79,Default,,0000,0000,0000,,where the New Fish-Man Pirates  who are \Nlooking to destroy the Ryugu Kingdom...
+Dialogue: 0,0:03:42.79,0:03:46.64,Default,,0000,0000,0000,,...assisted by Vander Decken, who is after \NShirahoshi, are engaging in secret maneuvers.
+Dialogue: 0,0:03:46.64,0:03:51.78,Default,,0000,0000,0000,,The Straw Hats find themselves caught up in \Nthe turmoil and involved in an all-out war.
+Dialogue: 0,0:03:51.78,0:03:57.43,Default,,0000,0000,0000,,Now, Hordy's merciless plot puts the \NFish-Man Island in unprecedented danger!
+Dialogue: 0,0:03:59.59,0:04:01.21,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:04:01.21,0:04:03.09,Default,,0000,0000,0000,,L-Look at that!
+Dialogue: 0,0:04:05.99,0:04:07.51,Default,,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:04:14.31,0:04:15.84,Default,,0000,0000,0000,,There is air!
+Dialogue: 0,0:04:39.67,0:04:48.68,B1,,0000,0000,0000,,{\fad(2000,2000)}"Coming to an End! The Final \NDecisive Battle against Hordy!"
+Dialogue: 0,0:05:07.70,0:05:10.16,Default,,0000,0000,0000,,That toughness should put \Nhis worth over 100 million.
+Dialogue: 0,0:05:12.28,0:05:13.79,Default,,0000,0000,0000,,This wound...
+Dialogue: 0,0:05:17.76,0:05:19.29,Default,,0000,0000,0000,,Luffy-sama...
+Dialogue: 0,0:05:27.50,0:05:32.46,Default,,0000,0000,0000,,I won't let you interfere \Nwith my plan, Straw Hat!
+Dialogue: 0,0:05:32.46,0:05:37.73,Default,,0000,0000,0000,,You can't lay a finger on the ship!
+Dialogue: 0,0:05:37.73,0:05:42.90,Default,,0000,0000,0000,,The Fish-Man Island is \Ndoomed to fall like this!
+Dialogue: 0,0:05:44.57,0:05:46.28,Default,,0000,0000,0000,,Second Gear!
+Dialogue: 0,0:05:46.28,0:05:47.90,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:05:47.90,0:05:50.87,Default,,0000,0000,0000,,...Jet Pistol!
+Dialogue: 0,0:06:09.42,0:06:12.35,Default,,0000,0000,0000,,You're too slow, Straw Hat!
+Dialogue: 0,0:06:18.52,0:06:20.52,Default,,0000,0000,0000,,Luffy-sama...
+Dialogue: 0,0:06:20.52,0:06:21.77,Default,,0000,0000,0000,,Luffy-sama!
+Dialogue: 0,0:06:27.24,0:06:29.28,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:06:30.07,0:06:33.58,Default,,0000,0000,0000,,...Jet Bazooka!
+Dialogue: 0,0:06:41.25,0:06:43.50,Default,,0000,0000,0000,,Armament Hardening!
+Dialogue: 0,0:06:47.46,0:06:50.13,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:06:51.18,0:06:54.23,Default,,0000,0000,0000,,...Red Hawk!
+Dialogue: 0,0:07:20.49,0:07:23.98,Default,,0000,0000,0000,,These fangs aren't fake!
+Dialogue: 0,0:07:23.98,0:07:27.50,Default,,0000,0000,0000,,I know you're in pain, Straw Hat!
+Dialogue: 0,0:07:34.73,0:07:40.02,Default,,0000,0000,0000,,Damn! He's pretty tough! Red Hawk \Nworked much better a while ago.
+Dialogue: 0,0:07:42.32,0:07:47.32,Default,,0000,0000,0000,,This is the power I was granted by heaven,
+Dialogue: 0,0:07:47.32,0:07:52.74,Default,,0000,0000,0000,,to destroy you evil lowly creatures - humans!
+Dialogue: 0,0:07:53.28,0:07:58.49,Default,,0000,0000,0000,,I bet you thought you could gain the \Nupper hand fighting where you can breathe
+Dialogue: 0,0:07:58.49,0:08:00.12,Default,,0000,0000,0000,,but it's no use.
+Dialogue: 0,0:08:00.12,0:08:04.29,Default,,0000,0000,0000,,Nobody can best this righteous power!
+Dialogue: 0,0:08:04.29,0:08:10.05,Default,,0000,0000,0000,,And nobody can stop me from getting revenge!
+Dialogue: 0,0:08:12.88,0:08:14.38,Default,,0000,0000,0000,,Hordy.
+Dialogue: 0,0:08:14.38,0:08:19.99,Default,,0000,0000,0000,,I'm sure that he is now beyond \Nhis physical capacity.
+Dialogue: 0,0:08:19.99,0:08:24.64,Default,,0000,0000,0000,,But he became a real \Nmonster due to his grudge
+Dialogue: 0,0:08:24.64,0:08:27.86,Default,,0000,0000,0000,,toward humans and the Energy Steroid.
+Dialogue: 0,0:08:28.29,0:08:29.90,Default,,0000,0000,0000,,Straw Hat.
+Dialogue: 0,0:08:30.99,0:08:33.49,Default,,0000,0000,0000,,Luffy-san is losing.
+Dialogue: 0,0:08:34.04,0:08:38.45,Default,,0000,0000,0000,,Hordy Jones... Is he invulnerable?
+Dialogue: 0,0:08:38.45,0:08:40.91,Default,,0000,0000,0000,,I repeat.
+Dialogue: 0,0:08:40.91,0:08:46.08,Default,,0000,0000,0000,,The giant ship - Noah is still \Nfalling toward the Fish-Man Island
+Dialogue: 0,0:08:46.08,0:08:51.51,Default,,0000,0000,0000,,and on the deck of the Noah, Luffy-san \Nis engaging in battle with Hordy!
+Dialogue: 0,0:08:51.51,0:08:55.34,Default,,0000,0000,0000,,--The Noah is gonna crush us!\N--Can't we do anything?!
+Dialogue: 0,0:08:55.80,0:08:58.01,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:09:00.53,0:09:04.31,Default,,0000,0000,0000,,Did you hear that? Our captain is doing fine.
+Dialogue: 0,0:09:04.31,0:09:10.74,Default,,0000,0000,0000,,Our cause was right after all. \NWe were chosen by heaven!
+Dialogue: 0,0:09:10.74,0:09:15.74,Default,,0000,0000,0000,,It's a one-in-a-million chance for \Nyour captain to win the fight!
+Dialogue: 0,0:09:18.66,0:09:20.24,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:09:20.24,0:09:24.63,Default,,0000,0000,0000,,Like I said, I believe in him.
+Dialogue: 0,0:09:24.63,0:09:28.19,Default,,0000,0000,0000,,Our captain will never lose!
+Dialogue: 0,0:09:30.92,0:09:34.63,Default,,0000,0000,0000,,Joke around while you can!
+Dialogue: 0,0:09:37.97,0:09:40.85,Default,,0000,0000,0000,,Chopper, what do you mean you're okay?
+Dialogue: 0,0:09:40.85,0:09:47.81,Default,,0000,0000,0000,,Now, I can fight like this for \N3 minutes with the Rumble Ball.
+Dialogue: 0,0:09:47.81,0:09:51.27,Default,,0000,0000,0000,,I'm not the same person that I used to be.
+Dialogue: 0,0:09:51.27,0:09:55.20,Default,,0000,0000,0000,,I won't cause you guys trouble anymore.
+Dialogue: 0,0:09:55.20,0:09:57.23,Default,,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:09:57.23,0:10:02.62,Default,,0000,0000,0000,,We can really depend on you \Nif you can control that power!
+Dialogue: 0,0:10:02.62,0:10:10.59,Default,,0000,0000,0000,,Y-Your compliment doesn't make \Nme happy at all, you bastard!
+Dialogue: 0,0:10:10.59,0:10:12.67,Default,,0000,0000,0000,,That's creepy!
+Dialogue: 0,0:10:13.71,0:10:16.55,Default,,0000,0000,0000,,You pissed me off-dosun!
+Dialogue: 0,0:10:16.55,0:10:22.50,Default,,0000,0000,0000,,No matter how big you get, I'll blow \Nyou away to the end of the sea-gogan!
+Dialogue: 0,0:10:23.67,0:10:28.56,Default,,0000,0000,0000,,I'm not gonna be blown away to anywhere.
+Dialogue: 0,0:10:28.56,0:10:31.52,Default,,0000,0000,0000,,Now, bring it on!
+Dialogue: 0,0:10:31.53,0:10:33.57,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:10:34.25,0:10:35.85,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:10:35.85,0:10:39.86,Default,,0000,0000,0000,,Talking to a friend while fighting? \NYou don't know your place!
+Dialogue: 0,0:10:39.86,0:10:44.33,Default,,0000,0000,0000,,You're just a burden to the Straw Hats!
+Dialogue: 0,0:10:44.33,0:10:48.55,Default,,0000,0000,0000,,I'm gonna take care of you already!
+Dialogue: 0,0:10:49.53,0:10:53.93,Default,,0000,0000,0000,,I told you I finished setting it up.
+Dialogue: 0,0:10:53.93,0:10:58.59,Default,,0000,0000,0000,,Now, bring it on! I'll put \Non an awesome magic show!
+Dialogue: 0,0:10:58.59,0:11:03.45,Default,,0000,0000,0000,,Much! How funny! Did you say you're \Ngonna end this with one shot?!
+Dialogue: 0,0:11:03.45,0:11:06.43,Default,,0000,0000,0000,,Maybe the Squid Spear didn't work on you
+Dialogue: 0,0:11:08.21,0:11:12.94,Default,,0000,0000,0000,,but I have another one that \Nwill cut through anything-ch!
+Dialogue: 0,0:11:15.27,0:11:18.38,Default,,0000,0000,0000,,Emit light! Light Bright Spear!
+Dialogue: 0,0:11:20.14,0:11:23.28,Default,,0000,0000,0000,,I will beat you with one shot instead-ch!
+Dialogue: 0,0:11:23.61,0:11:28.62,Default,,0000,0000,0000,,I'm gonna cut a hole through your cockpit-ch!
+Dialogue: 0,0:11:29.63,0:11:31.58,Default,,0000,0000,0000,,That looks kind of cool but...
+Dialogue: 0,0:11:32.48,0:11:37.46,Default,,0000,0000,0000,,...it's not gonna work! You're \Nless than an ordinary squid...
+Dialogue: 0,0:11:37.46,0:11:39.76,Default,,0000,0000,0000,,...before my ultimate weapon!
+Dialogue: 0,0:11:41.50,0:11:46.72,Default,,0000,0000,0000,,I can't fight with my bare \Nhands. What should I do?
+Dialogue: 0,0:11:47.49,0:11:52.02,Default,,0000,0000,0000,,I won't cut a man without the \Nfighting spirit! Go away, Froggy!
+Dialogue: 0,0:11:52.02,0:11:54.06,Default,,0000,0000,0000,,Frog?
+Dialogue: 0,0:11:54.06,0:11:57.65,Default,,0000,0000,0000,,I don't know what he is talking about.
+Dialogue: 0,0:11:59.40,0:12:03.57,Default,,0000,0000,0000,,He doesn't know that my \Ndeadly poison will kill him!
+Dialogue: 0,0:12:17.67,0:12:22.35,Default,,0000,0000,0000,,Finish this up? That's my line.
+Dialogue: 0,0:12:22.35,0:12:28.14,Default,,0000,0000,0000,,Don't think that I inflated myself just \Nbecause I got taken in by you fools!
+Dialogue: 0,0:12:28.14,0:12:34.67,Default,,0000,0000,0000,,I'm gonna roll around and squash \Nyour friends in the plaza!
+Dialogue: 0,0:12:38.99,0:12:42.39,Default,,0000,0000,0000,,Are you listening?!
+Dialogue: 0,0:12:42.39,0:12:45.25,Default,,0000,0000,0000,,Sorry, I was thinking about something else.
+Dialogue: 0,0:12:45.25,0:12:47.57,Default,,0000,0000,0000,,Thinking about something else?!
+Dialogue: 0,0:12:47.57,0:12:52.87,Default,,0000,0000,0000,,Yeah, I was thinking how should I \Ncook an unnecessarily big blowfish.
+Dialogue: 0,0:12:52.87,0:12:58.33,Default,,0000,0000,0000,,What?! Do it if you can!
+Dialogue: 0,0:12:58.33,0:13:01.43,Default,,0000,0000,0000,,Blowfish!
+Dialogue: 0,0:13:05.74,0:13:08.08,Default,,0000,0000,0000,,All right...
+Dialogue: 0,0:13:20.99,0:13:24.28,Default,,0000,0000,0000,,Luffy-sama! You are bleeding!
+Dialogue: 0,0:13:24.28,0:13:31.58,Default,,0000,0000,0000,,Can't you see it? There \Nis nothing you can do!
+Dialogue: 0,0:13:31.58,0:13:35.77,Default,,0000,0000,0000,,You will never beat me!
+Dialogue: 0,0:13:42.32,0:13:45.80,Default,,0000,0000,0000,,Weren't you listening to what I said?
+Dialogue: 0,0:13:46.58,0:13:49.89,Default,,0000,0000,0000,,I will save the Fish-Man \NIsland and Shirahoshi...
+Dialogue: 0,0:13:50.63,0:13:52.43,Default,,0000,0000,0000,,Luffy-sama...
+Dialogue: 0,0:13:52.43,0:13:54.85,Default,,0000,0000,0000,,...and keep my promise to a friend.
+Dialogue: 0,0:13:55.53,0:13:56.56,Default,,0000,0000,0000,,Straw Hat...
+Dialogue: 0,0:13:57.63,0:13:59.19,Default,,0000,0000,0000,,I'll protect...
+Dialogue: 0,0:13:59.98,0:14:01.82,Default,,0000,0000,0000,,...everything!
+Dialogue: 0,0:14:29.00,0:14:34.39,Default,,0000,0000,0000,,Seems like you humans have \Nto die in order to realize...
+Dialogue: 0,0:14:34.39,0:14:39.52,Default,,0000,0000,0000,,...how arrogant you are \Neven though you're so weak!
+Dialogue: 0,0:14:39.52,0:14:43.58,Default,,0000,0000,0000,,Then I'm gonna make you realize!
+Dialogue: 0,0:14:48.33,0:14:51.99,Default,,0000,0000,0000,,I have no time! Let's wrap this up already!
+Dialogue: 0,0:14:51.99,0:14:55.74,Default,,0000,0000,0000,,Beat me if you can!
+Dialogue: 0,0:14:58.45,0:15:02.25,Default,,0000,0000,0000,,--Yowahoshi, stay away!\N--Y-Yes!
+Dialogue: 0,0:15:02.25,0:15:06.01,Default,,0000,0000,0000,,Fish-Man Jiu-Jitsu - Water Heart!
+Dialogue: 0,0:15:07.55,0:15:10.55,Default,,0000,0000,0000,,Shark Pack!
+Dialogue: 0,0:15:19.60,0:15:21.52,Default,,0000,0000,0000,,You can't get away!
+Dialogue: 0,0:15:29.74,0:15:32.99,Default,,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:15:43.10,0:15:44.96,Default,,0000,0000,0000,,Luffy-sama...
+Dialogue: 0,0:15:45.92,0:15:47.67,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:16:00.99,0:16:03.49,Default,,0000,0000,0000,,Luffy-sama!
+Dialogue: 0,0:16:20.87,0:16:23.12,Default,,0000,0000,0000,,Third Gear!
+Dialogue: 0,0:16:27.73,0:16:30.38,Default,,0000,0000,0000,,Armament Hardening!
+Dialogue: 0,0:16:33.04,0:16:36.72,Default,,0000,0000,0000,,Drop dead already!
+Dialogue: 0,0:16:36.72,0:16:39.01,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:16:39.01,0:16:42.14,Default,,0000,0000,0000,,...Elephant Gun!
+Dialogue: 0,0:16:50.37,0:16:52.31,Default,,0000,0000,0000,,It's no use!
+Dialogue: 0,0:16:53.24,0:16:58.16,Default,,0000,0000,0000,,You puny humans could never stop me...
+Dialogue: 0,0:16:58.16,0:17:01.33,Default,,0000,0000,0000,,...from taking revenge!
+Dialogue: 0,0:17:01.33,0:17:05.12,Default,,0000,0000,0000,,I will stop the Noah!
+Dialogue: 0,0:17:25.77,0:17:29.36,Default,,0000,0000,0000,,Keep falling, Noah!
+Dialogue: 0,0:17:30.75,0:17:38.18,Default,,0000,0000,0000,,Kill all the pride-less Fish-Men!
+Dialogue: 0,0:17:53.07,0:17:55.47,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:55.47,0:18:00.64,Default,,0000,0000,0000,,...Elephant Gatling!
+Dialogue: 0,0:18:02.97,0:18:07.29,Default,,0000,0000,0000,,This is my space, skeleton man.
+Dialogue: 0,0:18:07.29,0:18:12.90,Default,,0000,0000,0000,,If you enter this circle, I'm gonna \Nbreak your bones into pieces!
+Dialogue: 0,0:18:14.02,0:18:15.74,Default,,0000,0000,0000,,What are you gonna do now?!
+Dialogue: 0,0:18:29.76,0:18:32.25,Default,,0000,0000,0000,,Okay, I'm sorry but...
+Dialogue: 0,0:18:32.25,0:18:35.84,Default,,0000,0000,0000,,...I got into the circle and cut you already.
+Dialogue: 0,0:18:36.35,0:18:39.84,Default,,0000,0000,0000,,It's going to be cold. Take care of yourself.
+Dialogue: 0,0:18:40.87,0:18:42.93,Default,,0000,0000,0000,,When did you get in?!
+Dialogue: 0,0:18:42.93,0:18:46.64,Default,,0000,0000,0000,,Song of Scratches, Blizzard Slice!
+Dialogue: 0,0:18:52.06,0:18:54.61,Default,,0000,0000,0000,,Let me read a haiku.
+Dialogue: 0,0:18:55.39,0:18:59.11,Default,,0000,0000,0000,,The blood-freezing wind from \Nthe far land of the dead...
+Dialogue: 0,0:19:00.08,0:19:03.07,Default,,0000,0000,0000,,...Please, blow up some skirts!
+Dialogue: 0,0:19:04.71,0:19:05.99,Default,,0000,0000,0000,,Drop dead!
+Dialogue: 0,0:19:11.11,0:19:12.59,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:19:12.59,0:19:15.96,Default,,0000,0000,0000,,Green Star - Humandrake!
+Dialogue: 0,0:19:17.31,0:19:23.14,Default,,0000,0000,0000,,This plant has human-shaped roots \Nwhich attack things flying over,
+Dialogue: 0,0:19:23.14,0:19:25.01,Default,,0000,0000,0000,,totally entwining them!
+Dialogue: 0,0:19:26.05,0:19:27.81,Default,,0000,0000,0000,,What is it this time?!
+Dialogue: 0,0:19:29.73,0:19:34.07,Default,,0000,0000,0000,,Green Star - Trampolia! It'll blow \Naway all approaching enemies!
+Dialogue: 0,0:19:34.07,0:19:39.24,Default,,0000,0000,0000,,And now you're up high in the air \N- there's nothing you can do!
+Dialogue: 0,0:19:39.24,0:19:41.78,Default,,0000,0000,0000,,Special Attack - Green Star!
+Dialogue: 0,0:19:49.26,0:19:53.19,Default,,0000,0000,0000,,A monster from aboveground?! \NI'll bite it off!
+Dialogue: 0,0:19:53.19,0:19:54.75,Default,,0000,0000,0000,,You better not.
+Dialogue: 0,0:19:54.75,0:19:56.79,Default,,0000,0000,0000,,The bulb on its nose
+Dialogue: 0,0:19:56.79,0:20:02.26,Default,,0000,0000,0000,,will release a powerful shockwave \N3 meters in diameter.
+Dialogue: 0,0:20:07.24,0:20:10.43,Default,,0000,0000,0000,,Impact Wolf!
+Dialogue: 0,0:20:10.43,0:20:14.06,Default,,0000,0000,0000,,Dosun! Dogan! Bogan!
+Dialogue: 0,0:20:14.06,0:20:20.03,Default,,0000,0000,0000,,Now, get blown away to the end \Nof the world-gadon-megagon!
+Dialogue: 0,0:20:20.03,0:20:22.70,Default,,0000,0000,0000,,Papara-Hammer!
+Dialogue: 0,0:20:22.70,0:20:25.91,Default,,0000,0000,0000,,Cloven Rose, Palm!
+Dialogue: 0,0:20:32.66,0:20:36.00,Default,,0000,0000,0000,,Pi... pikon.
+Dialogue: 0,0:20:36.00,0:20:38.37,Default,,0000,0000,0000,,Squid! Squid! Squid!
+Dialogue: 0,0:20:38.37,0:20:42.74,Default,,0000,0000,0000,,Chew on this - the spear that will cut \Nthrough even an undersea mountain!
+Dialogue: 0,0:20:42.74,0:20:45.06,Default,,0000,0000,0000,,Franky...
+Dialogue: 0,0:20:45.06,0:20:46.64,Default,,0000,0000,0000,,Squid! Squid! Squid!
+Dialogue: 0,0:20:46.64,0:20:49.64,Default,,0000,0000,0000,,...Radical Beam!
+Dialogue: 0,0:20:52.92,0:20:55.19,Default,,0000,0000,0000,,Dried squid!
+Dialogue: 0,0:20:55.61,0:20:57.40,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:57.40,0:21:01.57,Default,,0000,0000,0000,,L-Laser beam?!
+Dialogue: 0,0:21:01.57,0:21:04.90,Default,,0000,0000,0000,,Cool!!
+Dialogue: 0,0:21:18.79,0:21:22.17,Default,,0000,0000,0000,,Fish-Man Karate technique!
+Dialogue: 0,0:21:23.60,0:21:25.97,Default,,0000,0000,0000,,Vagabond Drill!
+Dialogue: 0,0:21:33.47,0:21:35.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:35.35,0:21:38.69,Default,,0000,0000,0000,,Water blasted through his body!
+Dialogue: 0,0:21:38.69,0:21:41.02,Default,,0000,0000,0000,,The air will leak...
+Dialogue: 0,0:21:44.81,0:21:47.45,Default,,0000,0000,0000,,How do you like it up here, Balloon Blowfish!
+Dialogue: 0,0:21:48.40,0:21:50.05,Default,,0000,0000,0000,,That human is flying!
+Dialogue: 0,0:21:50.05,0:21:53.18,Default,,0000,0000,0000,,You scared the guts out of me!
+Dialogue: 0,0:21:54.02,0:21:57.37,Default,,0000,0000,0000,,Remember, over the past 2 years...
+Dialogue: 0,0:21:57.86,0:22:00.13,Default,,0000,0000,0000,,Sanji-kun!
+Dialogue: 0,0:22:00.13,0:22:04.67,Default,,0000,0000,0000,,Why did I have to go through such hell?!
+Dialogue: 0,0:22:04.67,0:22:06.01,Default,,0000,0000,0000,,He's on fire!
+Dialogue: 0,0:22:06.01,0:22:09.05,Default,,0000,0000,0000,,I want to burn those memories!
+Dialogue: 0,0:22:09.05,0:22:11.78,Default,,0000,0000,0000,,Hell Memories!
+Dialogue: 0,0:22:15.39,0:22:19.94,Default,,0000,0000,0000,,Scared the guts out of you? \NYou saved me the trouble then.
+Dialogue: 0,0:22:20.84,0:22:22.19,Default,,0000,0000,0000,,Because when I cook blowfish,
+Dialogue: 0,0:22:22.65,0:22:24.86,Default,,0000,0000,0000,,I have to remove the toxic parts carefully.
+Dialogue: 0,0:22:26.69,0:22:28.86,Default,,0000,0000,0000,,Take these swords coated with my venom!
+Dialogue: 0,0:22:29.41,0:22:31.62,Default,,0000,0000,0000,,Cut it out, Froggy.
+Dialogue: 0,0:22:32.05,0:22:34.35,Default,,0000,0000,0000,,I'm not a frog!
+Dialogue: 0,0:22:34.35,0:22:36.93,Default,,0000,0000,0000,,I'm the best octopus eight-sword \Nstyle swordsman...
+Dialogue: 0,0:22:36.93,0:22:41.60,Default,,0000,0000,0000,,...on the Fish-Man Island! My \Nname is Hyouzou! Don't forget it!
+Dialogue: 0,0:22:41.60,0:22:43.75,Default,,0000,0000,0000,,Purgatory...
+Dialogue: 0,0:22:44.60,0:22:46.45,Default,,0000,0000,0000,,...Onigiri!
+Dialogue: 0,0:22:48.23,0:22:49.80,Default,,0000,0000,0000,,I'm so sorry.
+Dialogue: 0,0:22:50.36,0:22:54.76,Default,,0000,0000,0000,,I thought that you were a frog. \NA big frog in a small pond.
+Dialogue: 0,0:23:06.32,0:23:07.49,Default,,0000,0000,0000,,He...
+Dialogue: 0,0:23:08.10,0:23:10.36,Default,,0000,0000,0000,,He did it!
+Dialogue: 0,0:23:10.87,0:23:13.91,Default,,0000,0000,0000,,This time for sure!
+Dialogue: 0,0:23:13.91,0:23:16.99,Default,,0000,0000,0000,,He beat Hordy!
+Dialogue: 0,0:23:24.59,0:23:29.76,Default,,0000,0000,0000,,The Noah falls toward Fish-Man Island, \Nas if inheriting Hordy's grudge.
+Dialogue: 0,0:23:29.76,0:23:31.93,Default,,0000,0000,0000,,Just when the insurmountably huge mass...
+Dialogue: 0,0:23:31.93,0:23:34.80,Default,,0000,0000,0000,,...causes everyone to lose hope,
+Dialogue: 0,0:23:34.80,0:23:36.34,Default,,0000,0000,0000,,Luffy alone...
+Dialogue: 0,0:23:36.34,0:23:40.18,Default,,0000,0000,0000,,...pushes his life to the limit \Nand stands against the Noah!
+Dialogue: 0,0:23:40.18,0:23:41.70,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.70,0:23:44.82,Default,,0000,0000,0000,,"Stop, Noah! Desperate Elephant Gatling!"
+Dialogue: 0,0:23:44.86,0:23:47.09,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
