@@ -1,0 +1,331 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:53.64,0:01:56.47,Default,,0000,0000,0000,,Anyway, that sure was an interesting place.
+Dialogue: 0,0:01:56.47,0:01:59.51,Default,,0000,0000,0000,,Really? I've had enough of that ship graveyard!
+Dialogue: 0,0:01:59.51,0:02:03.11,Default,,0000,0000,0000,,Well, it's not like I wanna live there,\Nbut I wanna visit from time to time.
+Dialogue: 0,0:02:03.11,0:02:05.78,Default,,0000,0000,0000,,--Was it really that nice?\N--Hm? Rain?
+Dialogue: 0,0:02:05.78,0:02:08.99,Default,,0000,0000,0000,,--It's... not rain...\N--Hail?
+Dialogue: 0,0:02:10.46,0:02:13.46,Default,,0000,0000,0000,,No... something's fall--
+Dialogue: 0,0:02:13.46,0:02:15.43,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:24.47,0:02:28.64,Default,,0000,0000,0000,,"Caught Log! The King of Salvagers, Masira!"
+Dialogue: 0,0:02:37.85,0:02:40.79,Default,,0000,0000,0000,,Hang on!! Hold on to the ship!!
+Dialogue: 0,0:02:42.85,0:02:46.09,Default,,0000,0000,0000,,What?! What is it?! What is it?!
+Dialogue: 0,0:02:50.20,0:02:52.53,Default,,0000,0000,0000,,Dream! Yeah, this must be a dream!
+Dialogue: 0,0:02:52.53,0:02:54.30,Default,,0000,0000,0000,,Dream?! Goo--
+Dialogue: 0,0:02:57.54,0:03:02.81,Default,,0000,0000,0000,,Hey! More stuff's falling! Be careful!
+Dialogue: 0,0:03:02.81,0:03:04.48,Default,,0000,0000,0000,,Turn the rudder! The rudder!
+Dialogue: 0,0:03:04.48,0:03:06.18,Default,,0000,0000,0000,,No way that'll work in these waves!
+Dialogue: 0,0:03:06.18,0:03:08.51,Default,,0000,0000,0000,,Luffy, protect the ship!\NIt can't take this any longer!
+Dialogue: 0,0:03:08.51,0:03:10.85,Default,,0000,0000,0000,,Got it! Hm? Usopp?
+Dialogue: 0,0:03:10.85,0:03:15.52,Default,,0000,0000,0000,,Cast aside your worries.\NCalmly close your eyes...
+Dialogue: 0,0:03:15.52,0:03:21.13,Default,,0000,0000,0000,,When you open your eyes,\Na quiet morning lies before you...
+Dialogue: 0,0:03:22.86,0:03:26.20,Default,,0000,0000,0000,,--Bones!!\N--You idiot! Don't throw it this way!!
+Dialogue: 0,0:03:26.20,0:03:28.87,Default,,0000,0000,0000,,--More stuff's falling!!\N--Bones!!
+Dialogue: 0,0:03:28.87,0:03:31.74,Default,,0000,0000,0000,,You idiot! Don't throw it this way!!
+Dialogue: 0,0:03:35.54,0:03:38.71,Default,,0000,0000,0000,,Why the heck did a ship fall from the sky?!
+Dialogue: 0,0:03:38.71,0:03:40.25,Default,,0000,0000,0000,,How weird...
+Dialogue: 0,0:03:40.25,0:03:41.91,Default,,0000,0000,0000,,There's nothing in the sky.
+Dialogue: 0,0:03:41.91,0:03:45.58,Default,,0000,0000,0000,,Oh man, the Grand Line is a crazy place!
+Dialogue: 0,0:03:45.58,0:03:48.59,Default,,0000,0000,0000,,First, we see a ship graveyard\Ninside a rainbow mist,
+Dialogue: 0,0:03:48.59,0:03:51.26,Default,,0000,0000,0000,,--and then a ship falls from the sky!\N--Ahh!
+Dialogue: 0,0:03:51.26,0:03:52.92,Default,,0000,0000,0000,,What's wrong, Nami-san?
+Dialogue: 0,0:03:52.92,0:03:56.26,Default,,0000,0000,0000,,What're we gonna do?! Our Log Pose is broken!
+Dialogue: 0,0:03:56.26,0:03:57.93,Default,,0000,0000,0000,,It's stuck pointing upwards.
+Dialogue: 0,0:03:57.93,0:04:03.20,Default,,0000,0000,0000,,That's not it. It was updated by\Nan island with stronger magnetism.
+Dialogue: 0,0:04:03.20,0:04:06.20,Default,,0000,0000,0000,,--What?!\N--If the Log Pose needle is pointing upwards,
+Dialogue: 0,0:04:06.20,0:04:09.87,Default,,0000,0000,0000,,that means the log has\Nbeen caught by the sky island.
+Dialogue: 0,0:04:09.87,0:04:11.88,Default,,0000,0000,0000,,Sky island?!
+Dialogue: 0,0:04:11.88,0:04:13.24,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:04:13.24,0:04:15.58,Default,,0000,0000,0000,,A floating island?!
+Dialogue: 0,0:04:15.58,0:04:18.58,Default,,0000,0000,0000,,D-Did that ship and those\Nbones fall from there?
+Dialogue: 0,0:04:18.58,0:04:22.25,Default,,0000,0000,0000,,But I can't see anything\Nlike an island in the sky.
+Dialogue: 0,0:04:22.25,0:04:24.59,Default,,0000,0000,0000,,That's not it.
+Dialogue: 0,0:04:24.59,0:04:27.59,Default,,0000,0000,0000,,To be precise, a sea is what's floating.
+Dialogue: 0,0:04:27.59,0:04:29.29,Default,,0000,0000,0000,,A sea?!
+Dialogue: 0,0:04:31.26,0:04:32.93,Default,,0000,0000,0000,,I'm getting more and more confused.
+Dialogue: 0,0:04:32.93,0:04:36.60,Default,,0000,0000,0000,,Yaay! There's a sea with an\Nisland floating in the sky?!
+Dialogue: 0,0:04:36.60,0:04:38.27,Default,,0000,0000,0000,,Alright! Let's head there right away!
+Dialogue: 0,0:04:38.27,0:04:41.94,Default,,0000,0000,0000,,Hey, guys! Turn the rudder upwards!
+Dialogue: 0,0:04:41.94,0:04:45.28,Default,,0000,0000,0000,,Upwards rudder full!
+Dialogue: 0,0:04:46.28,0:04:49.98,Default,,0000,0000,0000,,In any case, you can't turn upwards, Captain.
+Dialogue: 0,0:04:49.98,0:04:55.65,Default,,0000,0000,0000,,To be honest, I've never seen the\Nsky island, nor do I know much about it.
+Dialogue: 0,0:04:55.65,0:04:59.66,Default,,0000,0000,0000,,Yeah! It's impossible for an\Nisland or a sea to float in the air!
+Dialogue: 0,0:04:59.66,0:05:01.93,Default,,0000,0000,0000,,So the Log Pose really must be broken.
+Dialogue: 0,0:05:01.93,0:05:03.93,Default,,0000,0000,0000,,No, Navigator.
+Dialogue: 0,0:05:03.93,0:05:12.27,Default,,0000,0000,0000,,Our concern right now should not be the\NLog Pose, it should be how we get to the sky.
+Dialogue: 0,0:05:12.27,0:05:16.61,Default,,0000,0000,0000,,No matter what weird situations\Nthis ship gets caught up in,
+Dialogue: 0,0:05:16.61,0:05:19.61,Default,,0000,0000,0000,,or how panicked we get,
+Dialogue: 0,0:05:19.61,0:05:23.98,Default,,0000,0000,0000,,we must not doubt the Log Pose.\NThis is an ironclad rule.
+Dialogue: 0,0:05:23.98,0:05:29.99,Default,,0000,0000,0000,,What we should doubt is rather\Nthe common sense in our heads.
+Dialogue: 0,0:05:29.99,0:05:33.86,Default,,0000,0000,0000,,There's definitely an\Nisland where it's pointing.
+Dialogue: 0,0:05:42.67,0:05:46.14,Default,,0000,0000,0000,,What's that woman doing,\Nopening the coffin?!
+Dialogue: 0,0:05:50.01,0:05:52.01,Default,,0000,0000,0000,,--Can you learn something from that?\N--I don't know.
+Dialogue: 0,0:05:52.01,0:05:55.05,Default,,0000,0000,0000,,You've got strange interests!
+Dialogue: 0,0:05:55.05,0:05:59.38,Default,,0000,0000,0000,,A pretty woman and the dead,\Nnow that's an interesting combination.
+Dialogue: 0,0:05:59.38,0:06:01.49,Default,,0000,0000,0000,,Hm? Where's Luffy?
+Dialogue: 0,0:06:01.49,0:06:03.32,Default,,0000,0000,0000,,--Jump, Luffy!\N--Okay!
+Dialogue: 0,0:06:03.32,0:06:05.99,Default,,0000,0000,0000,,What're they doing now?
+Dialogue: 0,0:06:05.99,0:06:08.33,Default,,0000,0000,0000,,Exploration, they said.
+Dialogue: 0,0:06:08.33,0:06:11.33,Default,,0000,0000,0000,,Oh, restoration complete!
+Dialogue: 0,0:06:11.33,0:06:14.00,Default,,0000,0000,0000,,The holes here are man-made.
+Dialogue: 0,0:06:14.00,0:06:18.00,Default,,0000,0000,0000,,I see... then this guy was\Npierced there and died, huh?
+Dialogue: 0,0:06:18.00,0:06:20.84,Default,,0000,0000,0000,,No, these are indications of medical treatment.
+Dialogue: 0,0:06:20.84,0:06:23.68,Default,,0000,0000,0000,,It's craterization, isn't it, Doctor?
+Dialogue: 0,0:06:23.68,0:06:28.71,Default,,0000,0000,0000,,Yeah, in the past, they made holes in the\Nskull in order to constrain a brain tumor.
+Dialogue: 0,0:06:28.71,0:06:31.72,Default,,0000,0000,0000,,But that's a medical\Ntechnique from very long ago.
+Dialogue: 0,0:06:31.72,0:06:36.79,Default,,0000,0000,0000,,That's right. It's been at least\N200 years since he died.
+Dialogue: 0,0:06:38.72,0:06:41.93,Default,,0000,0000,0000,,He was in his early 30s.
+Dialogue: 0,0:06:43.73,0:06:47.97,Default,,0000,0000,0000,,He fell sick while traveling\Non the sea and died.
+Dialogue: 0,0:06:51.40,0:06:55.77,Default,,0000,0000,0000,,The reason his teeth remained in good\Ncondition compared to his other bones is...
+Dialogue: 0,0:06:57.74,0:06:59.74,Default,,0000,0000,0000,,...because tar was rubbed onto them.
+Dialogue: 0,0:06:59.74,0:07:03.72,Default,,0000,0000,0000,,This custom is characteristic of\Nsome areas in the South Blue.
+Dialogue: 0,0:07:03.72,0:07:09.15,Default,,0000,0000,0000,,So considering history, that was a ship\Nfor an exploration party from the past.
+Dialogue: 0,0:07:11.06,0:07:16.39,Default,,0000,0000,0000,,Here it is. The "St. Briss" of Briss,\Na kingdom in the South Blue.
+Dialogue: 0,0:07:16.39,0:07:18.73,Default,,0000,0000,0000,,It set sail 208 years ago.
+Dialogue: 0,0:07:18.73,0:07:20.40,Default,,0000,0000,0000,,That's the same ship as the one that fell.
+Dialogue: 0,0:07:20.40,0:07:23.07,Default,,0000,0000,0000,,Come to think of it,\Nit had a symbol like that.
+Dialogue: 0,0:07:23.07,0:07:27.74,Default,,0000,0000,0000,,This ship probably wandered in\Nthe sky for at least 200 years.
+Dialogue: 0,0:07:27.74,0:07:31.41,Default,,0000,0000,0000,,You can find out all that\Njust by looking at bones?
+Dialogue: 0,0:07:31.41,0:07:34.75,Default,,0000,0000,0000,,Dead people may not speak,\Nbut they do hold information.
+Dialogue: 0,0:07:34.75,0:07:36.45,Default,,0000,0000,0000,,If the ship was for an exploration party,
+Dialogue: 0,0:07:36.45,0:07:39.78,Default,,0000,0000,0000,,it should still hold various\Nrecords and evidence.
+Dialogue: 0,0:07:39.78,0:07:42.79,Default,,0000,0000,0000,,Yeah... but the ship sank in the sea...
+Dialogue: 0,0:07:42.79,0:07:45.79,Default,,0000,0000,0000,,--What're you guys doing?!\N--Luffy! Hang in there!
+Dialogue: 0,0:07:45.79,0:07:47.79,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:07:48.79,0:07:51.20,Default,,0000,0000,0000,,Hey, everyone!
+Dialogue: 0,0:07:51.20,0:07:53.80,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:07:53.80,0:07:56.80,Default,,0000,0000,0000,,I found something incredible! Look at this!
+Dialogue: 0,0:07:56.80,0:07:58.30,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:07:59.30,0:08:02.07,Default,,0000,0000,0000,,A map of the sky island?!
+Dialogue: 0,0:08:02.07,0:08:04.41,Default,,0000,0000,0000,,--Skypiea...\N--See? See?
+Dialogue: 0,0:08:04.41,0:08:07.08,Default,,0000,0000,0000,,Does this mean that there's\Nreally an island in the sky?!
+Dialogue: 0,0:08:07.08,0:08:10.78,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:08:10.78,0:08:14.12,Default,,0000,0000,0000,,Alright! The sky island exists!\NIt's a dream island!
+Dialogue: 0,0:08:14.12,0:08:16.12,Default,,0000,0000,0000,,We can go to a dream island!
+Dialogue: 0,0:08:16.12,0:08:18.79,Default,,0000,0000,0000,,A dream island!!
+Dialogue: 0,0:08:18.79,0:08:22.79,Default,,0000,0000,0000,,Don't get so carried away!\NThis only means it might be possible.
+Dialogue: 0,0:08:22.79,0:08:26.00,Default,,0000,0000,0000,,There're tons of fake maps out there.
+Dialogue: 0,0:08:27.80,0:08:32.14,Default,,0000,0000,0000,,Er... Sorry! It exists! I'm sure it exists, but...
+Dialogue: 0,0:08:32.14,0:08:34.27,Default,,0000,0000,0000,,--Listen, Luffy! I'm telling you,\N--Uhm, Nami, please treat\Nthe ship with care.
+Dialogue: 0,0:08:34.27,0:08:36.14,Default,,0000,0000,0000,,--we don't know how to get there!\N--Uhm, Nami, please treat\Nthe ship with care.
+Dialogue: 0,0:08:36.14,0:08:38.48,Default,,0000,0000,0000,,--You're the navigator! Figure something out!\N--Uhm, Nami, please treat\Nthe ship with care.
+Dialogue: 0,0:08:38.48,0:08:41.48,Default,,0000,0000,0000,,--There are some things you can't\Njust "figure out," you know!\N--Nami-san's cute when she's angry, too.
+Dialogue: 0,0:08:41.48,0:08:43.85,Default,,0000,0000,0000,,--I don't care! We're going to the sky!!\N--Nami-san's cute when she's angry, too.
+Dialogue: 0,0:08:44.85,0:08:46.52,Default,,0000,0000,0000,,This is getting us nowhere.
+Dialogue: 0,0:08:46.52,0:08:48.85,Default,,0000,0000,0000,,In any case, we can't move\Nthe ship forward this way!
+Dialogue: 0,0:08:48.85,0:08:52.52,Default,,0000,0000,0000,,What we need now is\Ninformation, as Robin said.
+Dialogue: 0,0:08:52.52,0:08:55.53,Default,,0000,0000,0000,,If a huge ship like that really went to the sky,
+Dialogue: 0,0:08:55.53,0:08:58.86,Default,,0000,0000,0000,,then there's definitely a way\Nfor this ship to go there as well.
+Dialogue: 0,0:08:58.86,0:09:03.47,Default,,0000,0000,0000,,Let's somehow pull out whatever\Nrecords remain in that ship!
+Dialogue: 0,0:09:03.47,0:09:07.14,Default,,0000,0000,0000,,But the ship has completely sunk.
+Dialogue: 0,0:09:07.14,0:09:09.81,Default,,0000,0000,0000,,If it sank, then we'll salvage it!
+Dialogue: 0,0:09:09.81,0:09:13.31,Default,,0000,0000,0000,,--Alright!\N--As if we could!!
+Dialogue: 0,0:09:13.31,0:09:14.81,Default,,0000,0000,0000,,What's salvage?
+Dialogue: 0,0:09:14.81,0:09:17.52,Default,,0000,0000,0000,,It means to pull up a sunken ship.
+Dialogue: 0,0:09:17.52,0:09:20.82,Default,,0000,0000,0000,,But it won't work, since that ship is too big.
+Dialogue: 0,0:09:27.53,0:09:31.53,Default,,0000,0000,0000,,Well, well... You really\Nmake us do reckless things.
+Dialogue: 0,0:09:31.53,0:09:32.53,Default,,0000,0000,0000,,Er...
+Dialogue: 0,0:09:32.53,0:09:37.20,Default,,0000,0000,0000,,Nami-san! I'll be sure to find a clue to the sky!
+Dialogue: 0,0:09:37.20,0:09:38.54,Default,,0000,0000,0000,,I'm counting on you!
+Dialogue: 0,0:09:38.54,0:09:42.64,Default,,0000,0000,0000,,Worry not, there are no defects in my design.
+Dialogue: 0,0:09:46.88,0:09:51.12,Default,,0000,0000,0000,,Then, I wish you... good luck!
+Dialogue: 0,0:09:56.59,0:09:58.59,Default,,0000,0000,0000,,Oh, boy...
+Dialogue: 0,0:09:58.59,0:10:01.26,Default,,0000,0000,0000,,This is Chopper. Everyone, please respond.
+Dialogue: 0,0:10:01.26,0:10:04.26,Default,,0000,0000,0000,,This is Luffy. There're tons\Nof monsters down here, over.
+Dialogue: 0,0:10:04.26,0:10:06.60,Default,,0000,0000,0000,,Is this a giant sea snakes' nest?
+Dialogue: 0,0:10:06.60,0:10:09.27,Default,,0000,0000,0000,,This is Sanji. Whoa! They looked this way!
+Dialogue: 0,0:10:09.27,0:10:11.60,Default,,0000,0000,0000,,--Okay.\N--Okay?!
+Dialogue: 0,0:10:11.60,0:10:14.27,Default,,0000,0000,0000,,They'll survive. Don't worry!
+Dialogue: 0,0:10:14.27,0:10:17.61,Default,,0000,0000,0000,,--Chopper, hold the brake tight, okay?\N--Okay!
+Dialogue: 0,0:10:17.61,0:10:20.24,Default,,0000,0000,0000,,Phew... I'm glad I didn't go.
+Dialogue: 0,0:10:22.95,0:10:27.99,Default,,0000,0000,0000,,--Salvage, salvage!\N--Hm?
+Dialogue: 0,0:10:27.99,0:10:33.66,Default,,0000,0000,0000,,Salvage, salvage!
+Dialogue: 0,0:10:33.66,0:10:39.00,Default,,0000,0000,0000,,--Salvage, salvage!\N--What the heck is that?
+Dialogue: 0,0:10:39.00,0:10:44.40,Default,,0000,0000,0000,,Salvage, salvage!
+Dialogue: 0,0:10:44.40,0:10:50.04,Default,,0000,0000,0000,,--Salvage, salvage!\N--Company, halt!
+Dialogue: 0,0:10:50.04,0:10:53.68,Default,,0000,0000,0000,,Salvage...
+Dialogue: 0,0:10:53.68,0:10:55.68,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:10:55.68,0:10:58.38,Default,,0000,0000,0000,,Is this the area where a ship sank?!
+Dialogue: 0,0:10:58.38,0:11:01.65,Default,,0000,0000,0000,,Aye, aye, sir! Boss!
+Dialogue: 0,0:11:01.65,0:11:05.99,Default,,0000,0000,0000,,By boss... they mean me!
+Dialogue: 0,0:11:05.99,0:11:07.99,Default,,0000,0000,0000,,Prepare to salvage the ship!
+Dialogue: 0,0:11:07.99,0:11:11.23,Default,,0000,0000,0000,,The sunken ship belongs to me,\Nthe king of salvagers
+Dialogue: 0,0:11:11.23,0:11:14.37,Default,,0000,0000,0000,,and the boss of the Masira Pirates!
+Dialogue: 0,0:11:18.34,0:11:22.01,Default,,0000,0000,0000,,Oh, boy... weirdoes at a time like this...
+Dialogue: 0,0:11:22.01,0:11:26.68,Default,,0000,0000,0000,,Hey, you! What're you guys\Ndoing there?! This is my turf!
+Dialogue: 0,0:11:26.68,0:11:28.01,Default,,0000,0000,0000,,Your turf?
+Dialogue: 0,0:11:28.01,0:11:33.05,Default,,0000,0000,0000,,That's right. Every ship that sinks\Nin this territory belongs to me.
+Dialogue: 0,0:11:33.05,0:11:36.05,Default,,0000,0000,0000,,You haven't touched anything\Nthat's mine, have you, huh?!
+Dialogue: 0,0:11:36.05,0:11:39.72,Default,,0000,0000,0000,,Looks like... he's going to salvage the ship.
+Dialogue: 0,0:11:39.72,0:11:41.73,Default,,0000,0000,0000,,Yeah, that's what it sounds like.
+Dialogue: 0,0:11:41.73,0:11:44.40,Default,,0000,0000,0000,,Then what? Doesn't this work for us?
+Dialogue: 0,0:11:44.40,0:11:50.07,Default,,0000,0000,0000,,Quit mumbling! Answer my question!
+Dialogue: 0,0:11:50.07,0:11:53.07,Default,,0000,0000,0000,,Excuse me! Can I ask you a question?!
+Dialogue: 0,0:11:53.07,0:11:57.07,Default,,0000,0000,0000,,You're asking me a question?!\NThat's fine. Ask me anything!
+Dialogue: 0,0:11:57.07,0:12:00.08,Default,,0000,0000,0000,,It looks like you're going to\Nsalvage the ship. Is that right?
+Dialogue: 0,0:12:00.08,0:12:02.01,Default,,0000,0000,0000,,Looks?
+Dialogue: 0,0:12:03.68,0:12:07.39,Default,,0000,0000,0000,,Hey... Do you find me that "monkeyful"?
+Dialogue: 0,0:12:07.39,0:12:11.72,Default,,0000,0000,0000,,--Monkeyful?\N--That means "handsome." Do you think I am?
+Dialogue: 0,0:12:11.72,0:12:15.39,Default,,0000,0000,0000,,--Yeah!\N--Oh, come on, stop it!
+Dialogue: 0,0:12:15.39,0:12:18.06,Default,,0000,0000,0000,,But there isn't such a word, is there?
+Dialogue: 0,0:12:18.06,0:12:20.73,Default,,0000,0000,0000,,So, are you gonna salvage it?!
+Dialogue: 0,0:12:20.73,0:12:24.40,Default,,0000,0000,0000,,Of course! If there's a\Nsunken ship in front of me,
+Dialogue: 0,0:12:24.40,0:12:26.74,Default,,0000,0000,0000,,I'll salvage it! I'm that kind of a man!
+Dialogue: 0,0:12:26.74,0:12:30.07,Default,,0000,0000,0000,,If it's on the water, I'll sink it and\Nsalvage it! I'm that kind of a man!
+Dialogue: 0,0:12:30.07,0:12:34.08,Default,,0000,0000,0000,,There's no ship that we can't salvage!
+Dialogue: 0,0:12:34.08,0:12:37.42,Default,,0000,0000,0000,,Then... is it okay if we watch you do it?
+Dialogue: 0,0:12:37.42,0:12:42.79,Default,,0000,0000,0000,,Hm? Oh, I see, is salvaging work new to you?
+Dialogue: 0,0:12:42.79,0:12:45.46,Default,,0000,0000,0000,,Okay, go ahead and observe it!
+Dialogue: 0,0:12:45.46,0:12:49.46,Default,,0000,0000,0000,,Alright! Let's see how things\Ngo for now, everyone.
+Dialogue: 0,0:12:49.46,0:12:53.13,Default,,0000,0000,0000,,Be... Be careful!
+Dialogue: 0,0:12:53.13,0:12:55.47,Default,,0000,0000,0000,,--Boss! There's trouble!\N--What's wrong?!
+Dialogue: 0,0:12:55.47,0:12:58.80,Default,,0000,0000,0000,,The members who went into\Nthe sea to set the cradle are...!
+Dialogue: 0,0:12:58.80,0:13:00.74,Default,,0000,0000,0000,,Did they get hurt by Sea Kings?
+Dialogue: 0,0:13:00.74,0:13:04.08,Default,,0000,0000,0000,,Well... it looks like they\Nwere beaten up by someone.
+Dialogue: 0,0:13:04.08,0:13:07.08,Default,,0000,0000,0000,,What?! Are you saying there's\Nsomeone down there in the sea?
+Dialogue: 0,0:13:07.08,0:13:10.08,Default,,0000,0000,0000,,--Those idiots...!\N--This isn't good.
+Dialogue: 0,0:13:10.08,0:13:13.12,Default,,0000,0000,0000,,Then... Hey, you guys!
+Dialogue: 0,0:13:13.12,0:13:14.45,Default,,0000,0000,0000,,Ah... well...
+Dialogue: 0,0:13:14.45,0:13:17.12,Default,,0000,0000,0000,,There's someone in the sea! Be careful!
+Dialogue: 0,0:13:17.12,0:13:18.79,Default,,0000,0000,0000,,Er... O-Okay!
+Dialogue: 0,0:13:18.79,0:13:20.46,Default,,0000,0000,0000,,Good thing he's an idiot.
+Dialogue: 0,0:13:20.46,0:13:24.13,Default,,0000,0000,0000,,Guys! Hurry up and set the cradle!
+Dialogue: 0,0:13:24.13,0:13:26.46,Default,,0000,0000,0000,,Let's start salvaging!
+Dialogue: 0,0:13:26.46,0:13:28.90,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:13:59.20,0:14:02.80,Default,,0000,0000,0000,,He's waving to us... Don't let him\Nnotice the air supply, Usopp.
+Dialogue: 0,0:14:02.80,0:14:04.14,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:14:04.14,0:14:07.81,Default,,0000,0000,0000,,Hey, you guys, imagine that they're pumpkins!
+Dialogue: 0,0:14:07.81,0:14:13.81,Default,,0000,0000,0000,,Don't get nervous... just because\Npeople are watching, okay?
+Dialogue: 0,0:14:13.81,0:14:15.81,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:14:15.81,0:14:17.82,Default,,0000,0000,0000,,Drop the cradle!
+Dialogue: 0,0:14:17.82,0:14:20.42,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:14:22.19,0:14:23.85,Default,,0000,0000,0000,,Watch out for the mysterious enemy!
+Dialogue: 0,0:14:23.85,0:14:25.49,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:14:26.86,0:14:29.86,Default,,0000,0000,0000,,I wonder if they're doing this\Nout of pride or something.
+Dialogue: 0,0:14:29.86,0:14:33.20,Default,,0000,0000,0000,,They're trying to give us a show, I guess...
+Dialogue: 0,0:14:33.20,0:14:35.20,Default,,0000,0000,0000,,Get moving!
+Dialogue: 0,0:14:35.20,0:14:37.37,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:16:06.59,0:16:08.26,Default,,0000,0000,0000,,--Hey...\N--Hm?
+Dialogue: 0,0:16:08.26,0:16:09.83,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:16:40.99,0:16:43.29,Default,,0000,0000,0000,,Cradle set, confirmed!
+Dialogue: 0,0:16:44.66,0:16:46.00,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:16:46.00,0:16:47.87,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:59.01,0:17:02.95,Default,,0000,0000,0000,,What's that monkey?! What's that monkey for?!
+Dialogue: 0,0:17:02.95,0:17:05.95,Default,,0000,0000,0000,,Oh, this one?
+Dialogue: 0,0:17:05.95,0:17:07.95,Default,,0000,0000,0000,,You have a discerning eye.
+Dialogue: 0,0:17:07.95,0:17:10.96,Default,,0000,0000,0000,,You're right. This is no ordinary prow.
+Dialogue: 0,0:17:11.99,0:17:16.33,Default,,0000,0000,0000,,Launch Barco-hunter!
+Dialogue: 0,0:17:16.33,0:17:18.56,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:17:27.67,0:17:29.54,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:17:33.01,0:17:36.01,Default,,0000,0000,0000,,--Wow! Amazing!\N--It's really amazing!
+Dialogue: 0,0:17:36.01,0:17:37.55,Default,,0000,0000,0000,,What is?
+Dialogue: 0,0:17:39.35,0:17:42.02,Default,,0000,0000,0000,,40 meters to the target!
+Dialogue: 0,0:17:42.02,0:17:44.05,Default,,0000,0000,0000,,30 meters!
+Dialogue: 0,0:17:44.05,0:17:47.46,Default,,0000,0000,0000,,20... 10...!
+Dialogue: 0,0:17:49.73,0:17:53.40,Default,,0000,0000,0000,,Barco-hunter joint... completed!
+Dialogue: 0,0:17:53.40,0:17:56.73,Default,,0000,0000,0000,,Alright, then! I'll start blowing air!
+Dialogue: 0,0:17:56.73,0:17:59.94,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:17:59.94,0:18:02.41,Default,,0000,0000,0000,,What? No way...
+Dialogue: 0,0:18:06.34,0:18:10.95,Default,,0000,0000,0000,,Is he going to breathe into\Nthat and lift the ship up?!
+Dialogue: 0,0:18:10.95,0:18:13.22,Default,,0000,0000,0000,,That's crazy!
+Dialogue: 0,0:18:26.06,0:18:27.73,Default,,0000,0000,0000,,Air?!
+Dialogue: 0,0:18:34.41,0:18:37.04,Default,,0000,0000,0000,,The ship's body has risen!
+Dialogue: 0,0:18:40.08,0:18:42.41,Default,,0000,0000,0000,,Now! Pull it up!
+Dialogue: 0,0:18:42.41,0:18:45.08,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:18:45.08,0:18:48.09,Default,,0000,0000,0000,,Send more air! On the double!
+Dialogue: 0,0:18:48.09,0:18:50.85,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:18:59.13,0:19:02.07,Default,,0000,0000,0000,,Boss! The crew that's in the water...!
+Dialogue: 0,0:19:02.07,0:19:06.74,Default,,0000,0000,0000,,What's the matter?! What happened, guys?!
+Dialogue: 0,0:19:06.74,0:19:09.44,Default,,0000,0000,0000,,There's someone in the ship!
+Dialogue: 0,0:19:16.41,0:19:22.19,Default,,0000,0000,0000,,How dare they hurt my guys?!\NWho the hell are they?!
+Dialogue: 0,0:19:27.46,0:19:30.46,Default,,0000,0000,0000,,Well, we're not taking\Npictures or anything, so...
+Dialogue: 0,0:19:30.46,0:19:31.80,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:31.80,0:19:33.46,Default,,0000,0000,0000,,Oh, he posed for us to take pictures...
+Dialogue: 0,0:19:33.46,0:19:36.37,Default,,0000,0000,0000,,Boss! Help!
+Dialogue: 0,0:19:37.64,0:19:41.14,Default,,0000,0000,0000,,I'm coming! Keep on working\Non the salvaging operation!
+Dialogue: 0,0:19:41.14,0:19:43.71,Default,,0000,0000,0000,,Aye, aye, sir!
+Dialogue: 0,0:20:02.86,0:20:04.86,Default,,0000,0000,0000,,Monkey punch!
+Dialogue: 0,0:20:07.53,0:20:09.93,Default,,0000,0000,0000,,It's coming up...
+Dialogue: 0,0:20:13.54,0:20:16.87,Default,,0000,0000,0000,,See? We're fine without the barrel.
+Dialogue: 0,0:20:16.87,0:20:20.21,Default,,0000,0000,0000,,It's amazing that they pumped in this much air.
+Dialogue: 0,0:20:20.21,0:20:24.21,Default,,0000,0000,0000,,But who is trying to salvage this ship?
+Dialogue: 0,0:20:24.21,0:20:27.55,Default,,0000,0000,0000,,Something might have happened\Nto Nami-san and Robin-chan.
+Dialogue: 0,0:20:27.55,0:20:31.26,Default,,0000,0000,0000,,I've been calling them, but no response!
+Dialogue: 0,0:20:31.26,0:20:35.59,Default,,0000,0000,0000,,Who the hell are you, invading my turf?!
+Dialogue: 0,0:20:35.59,0:20:37.23,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:38.93,0:20:41.27,Default,,0000,0000,0000,,Oh, it's a monkey.
+Dialogue: 0,0:20:41.27,0:20:44.60,Default,,0000,0000,0000,,What? Am I that monkeyful?
+Dialogue: 0,0:20:44.60,0:20:46.27,Default,,0000,0000,0000,,Yeah, you're an imitation monkey.
+Dialogue: 0,0:20:46.27,0:20:48.27,Default,,0000,0000,0000,,What kind of conversation is that?
+Dialogue: 0,0:20:48.27,0:20:49.94,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:20:49.94,0:20:51.28,Default,,0000,0000,0000,,By the way, who are you?
+Dialogue: 0,0:20:51.28,0:20:53.94,Default,,0000,0000,0000,,I see... What can I say?
+Dialogue: 0,0:20:53.94,0:20:57.45,Default,,0000,0000,0000,,Do you really think so? You have a good eye!
+Dialogue: 0,0:20:57.45,0:20:59.72,Default,,0000,0000,0000,,So who the hell are you?!
+Dialogue: 0,0:21:03.55,0:21:06.26,Default,,0000,0000,0000,,Hey, underneath the ship...
+Dialogue: 0,0:21:06.26,0:21:11.30,Default,,0000,0000,0000,,Y-Yeah... there's something down there.
+Dialogue: 0,0:21:14.60,0:21:18.60,Default,,0000,0000,0000,,I see! You guys came from the East Blue, huh?!
+Dialogue: 0,0:21:18.60,0:21:23.27,Default,,0000,0000,0000,,Yeah. But really, you look just like a monkey!
+Dialogue: 0,0:21:23.27,0:21:26.24,Default,,0000,0000,0000,,Quit complimenting me!
+Dialogue: 0,0:21:46.66,0:21:50.63,Default,,0000,0000,0000,,What's this?! What is this thing?!
+Dialogue: 0,0:21:54.20,0:22:02.31,Default,,0000,0000,0000,,Ah, beyond the never-ending sky
+Dialogue: 0,0:22:02.31,0:22:12.76,Default,,0000,0000,0000,,The future that I once saw\Nis now starting to take shape
+Dialogue: 0,0:22:20.66,0:22:28.17,Default,,0000,0000,0000,,There are days where I almost lose to myself
+Dialogue: 0,0:22:28.17,0:22:36.55,Default,,0000,0000,0000,,When that happened, there was\Nsomeplace warm I could go
+Dialogue: 0,0:22:36.55,0:22:42.69,Default,,0000,0000,0000,,The friends I took pride in\Nalways, without fail,
+Dialogue: 0,0:22:42.69,0:22:53.70,Default,,0000,0000,0000,,pushed me onwards, didn't they?
+Dialogue: 0,0:22:53.70,0:23:01.97,Default,,0000,0000,0000,,Ah, the stars are pouring\Ndown underneath the sky
+Dialogue: 0,0:23:01.97,0:23:04.64,Default,,0000,0000,0000,,This unique moment...
+Dialogue: 0,0:23:10.35,0:23:12.02,Default,,0000,0000,0000,,Ahhh! It's a turtle!
+Dialogue: 0,0:23:12.02,0:23:14.35,Default,,0000,0000,0000,,This is the sea! Of course we'll see turtles!
+Dialogue: 0,0:23:14.35,0:23:15.69,Default,,0000,0000,0000,,Luffy! Zoro! Sanji!
+Dialogue: 0,0:23:15.69,0:23:17.35,Default,,0000,0000,0000,,Shut up and be quiet!
+Dialogue: 0,0:23:17.35,0:23:19.36,Default,,0000,0000,0000,,How can you be so calm?!
+Dialogue: 0,0:23:19.36,0:23:22.06,Default,,0000,0000,0000,,A galleon fell, and then a\Nweird monkey shows up!
+Dialogue: 0,0:23:22.06,0:23:24.06,Default,,0000,0000,0000,,Wh-What?! It's become pitch dark!
+Dialogue: 0,0:23:24.06,0:23:26.23,Default,,0000,0000,0000,,Wh-What's next?!
+Dialogue: 0,0:23:26.23,0:23:27.56,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.56,0:23:30.97,Default,,0000,0000,0000,,"Monsters Appear! Don't Mess\Nwith the Whitebeard Pirates!"
+Dialogue: 0,0:23:30.97,0:23:33.30,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.30,0:23:37.80,Default,,0000,0000,0000,,

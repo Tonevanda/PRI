@@ -1,0 +1,284 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.36,0:00:20.77,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.77,0:00:23.07,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.07,0:00:29.89,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.20,0:00:40.51,Italics,song,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:43.98,Italics,song,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,Italics,song,0000,0000,0000,,The borderline between\Nthe sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,Italics,song,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,Italics,song,0000,0000,0000,,Don't you have a good\Ntime just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.08,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.08,0:01:09.34,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.28,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.49,0:01:26.98,Italics,song,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.98,0:01:30.23,Italics,song,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,Italics,song,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:36.09,0:01:41.99,Italics,song,0000,0000,0000,,With our pulses racing,\Nlet's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,Italics,song,0000,0000,0000,,Shy hearts engrave\Nthe rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.53,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.53,0:01:55.74,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.74,0:02:00.08,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.08,0:02:02.85,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.87,Italics,song,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.87,0:02:06.62,Italics,song,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.62,0:02:08.19,Italics,song,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.19,0:02:09.85,Italics,song,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.85,0:02:11.47,Italics,song,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.47,0:02:12.98,Italics,song,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.64,Italics,song,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.64,0:02:15.71,Italics,song,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.71,0:02:19.91,Italics,song,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,Italics,song,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.65,Italics,song,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.65,0:02:29.00,Italics,song,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.19,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.19,0:02:35.54,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.54,0:02:39.51,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.80,0:02:42.67,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:47.84,0:02:50.94,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:50.94,0:02:56.17,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:56.17,0:02:59.17,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:59.71,0:03:04.64,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.64,0:03:07.47,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:03:07.47,0:03:11.64,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:03:11.64,0:03:16.34,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:17.41,0:03:19.17,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:19.81,0:03:22.77,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:23.14,0:03:26.27,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.27,0:03:29.77,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:35.50,0:03:38.26,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:38.26,0:03:41.66,Default,,0000,0000,0000,,Luffy has broken out of the \Ngreat prison - Impel Down
+Dialogue: 0,0:03:41.66,0:03:44.80,Default,,0000,0000,0000,,in order to rescue his brother, Ace!--
+Dialogue: 0,0:03:45.93,0:03:51.75,Default,,0000,0000,0000,,No! I know that you guys know about the \Nwar between Whitebeard and the Navy!
+Dialogue: 0,0:03:51.75,0:03:54.00,Default,,0000,0000,0000,,--What'd you say?\N--The Navy HQ?
+Dialogue: 0,0:03:54.00,0:03:56.63,Default,,0000,0000,0000,,We passed through the Gate of Justice.
+Dialogue: 0,0:03:56.63,0:04:01.03,Default,,0000,0000,0000,,That means our destination must be \Neither the Navy HQ or Enies Lobby.
+Dialogue: 0,0:04:01.03,0:04:04.66,Default,,0000,0000,0000,,The Tub Current that we're on \Nis exclusive to the Government.
+Dialogue: 0,0:04:04.66,0:04:08.01,Default,,0000,0000,0000,,It's a giant whirlpool that connects \Nthe Government's 3 major facilities
+Dialogue: 0,0:04:08.01,0:04:09.93,Default,,0000,0000,0000,,We didn't know about this!
+Dialogue: 0,0:04:09.93,0:04:12.16,Default,,0000,0000,0000,,Buggy! Buggy!
+Dialogue: 0,0:04:12.16,0:04:15.53,Default,,0000,0000,0000,,Be quiet, you flashy fools!
+Dialogue: 0,0:04:15.53,0:04:18.77,Default,,0000,0000,0000,,You guys are all full of whim and fancy!
+Dialogue: 0,0:04:18.77,0:04:22.70,Default,,0000,0000,0000,,If you guys are real men, why don't \Nyou live out a dream with me?!
+Dialogue: 0,0:04:22.70,0:04:24.83,Default,,0000,0000,0000,,Today...
+Dialogue: 0,0:04:24.83,0:04:28.66,Default,,0000,0000,0000,,I'll beat Whitebeard which means \Nthat I'll conquer the world!
+Dialogue: 0,0:04:31.95,0:04:36.63,Default,,0000,0000,0000,,--I will follow you!\N--I don't want a peaceful life!
+Dialogue: 0,0:04:38.06,0:04:39.80,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:04:40.13,0:04:44.22,Default,,0000,0000,0000,,Let's go, guys! To Navy Headquarters!
+Dialogue: 0,0:04:45.98,0:04:47.64,Default,,0000,0000,0000,,Looks like it's over.
+Dialogue: 0,0:04:49.92,0:04:51.78,Default,,0000,0000,0000,,I hope they are having fun.
+Dialogue: 0,0:04:56.83,0:05:02.13,Default,,0000,0000,0000,,"The Friends' Whereabouts! The Weatheria \NReport and the Cyborg Animals!"
+Dialogue: 0,0:06:05.38,0:06:08.34,Default,,0000,0000,0000,,I know that you are worried about Ace-san
+Dialogue: 0,0:06:08.97,0:06:12.04,Default,,0000,0000,0000,,but you need to take some rest.
+Dialogue: 0,0:06:19.31,0:06:25.40,Default,,0000,0000,0000,,The war that we are about to get involved in \Nis literally the decisive battle of our times!
+Dialogue: 0,0:06:27.40,0:06:31.37,Default,,0000,0000,0000,,Just as Impel Down is the \Ngreatest prison in the world,
+Dialogue: 0,0:06:31.37,0:06:34.95,Default,,0000,0000,0000,,the Navy Headquarters is the \Ngreatest fortress in the world!
+Dialogue: 0,0:07:03.31,0:07:09.16,Default,,0000,0000,0000,,Meanwhile, a short time ago at \Nthe small Sky Island - Weatheria,
+Dialogue: 0,0:07:09.16,0:07:13.32,Default,,0000,0000,0000,,home to scientists who study the weather.
+Dialogue: 0,0:07:38.06,0:07:41.64,Default,,0000,0000,0000,,Hey, hey, hey, young girl!
+Dialogue: 0,0:07:41.64,0:07:46.82,Default,,0000,0000,0000,,Hey, hey, hey, hey, hey, \Nhey! Hey, young girl!
+Dialogue: 0,0:07:46.82,0:07:50.19,Default,,0000,0000,0000,,Hey! Hey!
+Dialogue: 0,0:07:50.19,0:07:52.65,Default,,0000,0000,0000,,Alright! What do you want?!
+Dialogue: 0,0:07:52.65,0:07:55.24,Default,,0000,0000,0000,,H-Hey, what's this?!
+Dialogue: 0,0:07:57.16,0:08:01.66,Default,,0000,0000,0000,,Do you like the taste of my cloud \Ncandy? I've been working on it.
+Dialogue: 0,0:08:01.66,0:08:05.92,Default,,0000,0000,0000,,It was so hard to make it \Ntaste like cotton candy.
+Dialogue: 0,0:08:05.92,0:08:08.46,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:08:12.93,0:08:14.86,Default,,0000,0000,0000,,Are you trying to kill me?!
+Dialogue: 0,0:08:16.51,0:08:19.43,Default,,0000,0000,0000,,Wait a minute, young girl! Violence won't do!
+Dialogue: 0,0:08:19.43,0:08:21.43,Default,,0000,0000,0000,,Honestly!
+Dialogue: 0,0:08:24.52,0:08:27.11,Default,,0000,0000,0000,,Oh, it's sweet! It does \Ntaste like cotton candy!
+Dialogue: 0,0:08:27.11,0:08:29.02,Default,,0000,0000,0000,,That's what I thought!
+Dialogue: 0,0:08:30.28,0:08:34.11,Default,,0000,0000,0000,,Hm... So I guess that this island \Nis really full of wonder!
+Dialogue: 0,0:08:39.58,0:08:44.87,Default,,0000,0000,0000,,Oh, by the way, are you sure that we're \Nheading to the Sabaody Archipelago?!
+Dialogue: 0,0:08:44.87,0:08:49.29,Default,,0000,0000,0000,,Yes, I'm doing it for you as a special favor!
+Dialogue: 0,0:08:49.29,0:08:52.91,Default,,0000,0000,0000,,But it's been a while since I asked you.
+Dialogue: 0,0:08:52.91,0:08:54.72,Default,,0000,0000,0000,,When are we gonna get there?
+Dialogue: 0,0:08:57.59,0:08:59.35,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:08:59.97,0:09:01.14,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:01.64,0:09:03.10,Default,,0000,0000,0000,,Wasn't I clear enough?!
+Dialogue: 0,0:09:03.49,0:09:06.98,Default,,0000,0000,0000,,Weatheria travels on the wind.
+Dialogue: 0,0:09:06.98,0:09:09.82,Default,,0000,0000,0000,,If a \Ntyphoon comes, it's gonna be really fast.
+Dialogue: 0,0:09:09.82,0:09:12.15,Default,,0000,0000,0000,,How far did we get yesterday?
+Dialogue: 0,0:09:12.15,0:09:14.85,Default,,0000,0000,0000,,Probably about 200 meters.
+Dialogue: 0,0:09:18.91,0:09:24.00,Default,,0000,0000,0000,,Honestly, if this weren't a Sky \NIsland, I would've left already!
+Dialogue: 0,0:09:24.35,0:09:29.28,Default,,0000,0000,0000,,But we're still too far away from the \NSabaody if you were to go down on the ground now.
+Dialogue: 0,0:09:29.28,0:09:31.67,Default,,0000,0000,0000,,If you stay here, we'll get there someday.
+Dialogue: 0,0:09:31.67,0:09:35.76,Default,,0000,0000,0000,,Look, I don't have that much time to spare.
+Dialogue: 0,0:09:38.18,0:09:40.71,Default,,0000,0000,0000,,Then, shall we go down?
+Dialogue: 0,0:09:40.71,0:09:43.68,Default,,0000,0000,0000,,I'm running out of research funds anyway.
+Dialogue: 0,0:09:43.68,0:09:44.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:46.18,0:09:48.15,Default,,0000,0000,0000,,What do you mean "go down?"
+Dialogue: 0,0:09:48.15,0:09:49.27,Default,,0000,0000,0000,,I mean, on the ground.
+Dialogue: 0,0:09:51.32,0:09:52.69,Default,,0000,0000,0000,,Is that possible?!
+Dialogue: 0,0:09:58.78,0:10:02.33,Default,,0000,0000,0000,,You know, it takes a lot of \Nmoney to do this research.
+Dialogue: 0,0:10:02.33,0:10:07.79,Default,,0000,0000,0000,,So I go down from time to time to do some \Nbusiness with my knowledge of the weather.
+Dialogue: 0,0:10:07.79,0:10:09.88,Default,,0000,0000,0000,,What is this?!
+Dialogue: 0,0:10:28.85,0:10:30.62,Default,,0000,0000,0000,,Young girl!
+Dialogue: 0,0:10:31.15,0:10:32.90,Default,,0000,0000,0000,,It's this way!
+Dialogue: 0,0:10:33.57,0:10:34.94,Default,,0000,0000,0000,,A ship?!
+Dialogue: 0,0:10:37.44,0:10:41.24,Default,,0000,0000,0000,,Wow, this ship... floats in the sky?!
+Dialogue: 0,0:10:45.24,0:10:47.50,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:54.17,0:10:55.71,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:10:55.71,0:10:56.84,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:10.81,0:11:14.11,Default,,0000,0000,0000,,That's just the island \Nthat I was looking for!
+Dialogue: 0,0:11:21.61,0:11:23.41,Default,,0000,0000,0000,,This island is...
+Dialogue: 0,0:11:27.33,0:11:29.71,Default,,0000,0000,0000,,...terrible!
+Dialogue: 0,0:11:31.12,0:11:34.58,Default,,0000,0000,0000,,Did you say that you can save this island?!
+Dialogue: 0,0:11:34.92,0:11:36.21,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:36.21,0:11:41.13,Default,,0000,0000,0000,,It seems like you people are \Nin need of blessed rain.
+Dialogue: 0,0:11:41.56,0:11:46.05,Default,,0000,0000,0000,,I can make it rain with my \Nknowledge of the weather!
+Dialogue: 0,0:11:46.05,0:11:48.01,Default,,0000,0000,0000,,What did you just say?!
+Dialogue: 0,0:11:49.81,0:11:52.29,Default,,0000,0000,0000,,I can do this now for a special price...
+Dialogue: 0,0:11:53.31,0:11:55.94,Default,,0000,0000,0000,,...of 100 million berries!
+Dialogue: 0,0:11:55.94,0:11:57.71,Default,,0000,0000,0000,,100 million?!
+Dialogue: 0,0:11:59.74,0:12:02.90,Default,,0000,0000,0000,,I'm afraid we don't have that much money.
+Dialogue: 0,0:12:05.32,0:12:07.05,Default,,0000,0000,0000,,Is it too much?!
+Dialogue: 0,0:12:07.05,0:12:10.44,Default,,0000,0000,0000,,That's way too much! \NNo one can afford that!
+Dialogue: 0,0:12:12.54,0:12:14.17,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:12:14.17,0:12:16.59,Default,,0000,0000,0000,,--Then, 100 berries!\N--Huh?!
+Dialogue: 0,0:12:16.59,0:12:18.38,Default,,0000,0000,0000,,What a deal!
+Dialogue: 0,0:12:20.88,0:12:23.96,Default,,0000,0000,0000,,You came down too much! You \Nhave no sense for business!
+Dialogue: 0,0:12:25.01,0:12:26.22,Default,,0000,0000,0000,,Relax!
+Dialogue: 0,0:12:26.22,0:12:30.72,Default,,0000,0000,0000,,That aside, can you really do it? \NWeren't you being too optimistic?
+Dialogue: 0,0:12:30.72,0:12:34.73,Default,,0000,0000,0000,,Believe in my knowledge of \Nthe weather! Okay, ready?
+Dialogue: 0,0:12:41.86,0:12:43.82,Default,,0000,0000,0000,,Those are..
+Dialogue: 0,0:12:45.16,0:12:47.20,Default,,0000,0000,0000,,...soap bubbles!
+Dialogue: 0,0:12:47.87,0:12:49.87,Default,,0000,0000,0000,,There's something inside.
+Dialogue: 0,0:12:51.70,0:12:55.33,Default,,0000,0000,0000,,Young girl, could you generate \Nsome wind with this?!
+Dialogue: 0,0:12:57.22,0:12:59.21,Default,,0000,0000,0000,,Oh, this is...
+Dialogue: 0,0:13:00.38,0:13:02.13,Default,,0000,0000,0000,,Do you want it full power?!
+Dialogue: 0,0:13:02.13,0:13:03.59,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:30.83,0:13:34.62,Default,,0000,0000,0000,,Oh my god! I can't believe this!
+Dialogue: 0,0:13:54.35,0:13:56.85,Default,,0000,0000,0000,,--It's raining!\N--Yeah!
+Dialogue: 0,0:14:10.16,0:14:11.74,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:14:16.33,0:14:18.12,Default,,0000,0000,0000,,They're so pleased!
+Dialogue: 0,0:14:18.12,0:14:21.96,Default,,0000,0000,0000,,Yeah! Now, don't you think the \Nscience of weather is useful?
+Dialogue: 0,0:14:28.93,0:14:33.68,Default,,0000,0000,0000,,Okay. So I guess this is \Ngoodbye, right? Young girl.
+Dialogue: 0,0:14:34.22,0:14:36.92,Default,,0000,0000,0000,,I already asked the mayor
+Dialogue: 0,0:14:36.92,0:14:39.52,Default,,0000,0000,0000,,so he'll provide \Nyou with what you need for your journey.
+Dialogue: 0,0:14:39.52,0:14:41.81,Default,,0000,0000,0000,,--I'm not going!\N--What?
+Dialogue: 0,0:14:41.81,0:14:43.66,Default,,0000,0000,0000,,I'll stay with you.
+Dialogue: 0,0:14:43.66,0:14:47.65,Default,,0000,0000,0000,,I've become interested \Nin the science of weather a bit.
+Dialogue: 0,0:14:47.65,0:14:49.20,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:14:49.20,0:14:52.53,Default,,0000,0000,0000,,Can you teach me about it on our \Nway to the Sabaody Archipelago?
+Dialogue: 0,0:14:55.20,0:14:56.33,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:14:56.33,0:14:58.87,Default,,0000,0000,0000,,You sure? Thank you!
+Dialogue: 0,0:14:59.25,0:15:03.00,Default,,0000,0000,0000,,Anyone who loves the weather is welcomed!
+Dialogue: 0,0:15:06.34,0:15:09.58,Default,,0000,0000,0000,,Is this from before? This is perfect!
+Dialogue: 0,0:15:09.58,0:15:13.68,Default,,0000,0000,0000,,Let me tell you about this soap \Nbubble with the thundercloud inside.
+Dialogue: 0,0:15:16.72,0:15:19.06,Default,,0000,0000,0000,,Oh no, this is not good!
+Dialogue: 0,0:15:19.06,0:15:20.60,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:29.32,0:15:31.20,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:15:31.20,0:15:32.56,Default,,0000,0000,0000,,What're you doing?!
+Dialogue: 0,0:15:32.56,0:15:35.72,Default,,0000,0000,0000,,S-S-Science exacts a price!
+Dialogue: 0,0:15:35.72,0:15:37.11,Default,,0000,0000,0000,,Am I the price?!
+Dialogue: 0,0:15:37.11,0:15:40.00,Default,,0000,0000,0000,,Help... Help me!
+Dialogue: 0,0:15:56.85,0:15:59.39,Default,,0000,0000,0000,,Meanwhile, on the Mechanical Island -
+Dialogue: 0,0:15:59.39,0:16:02.71,Default,,0000,0000,0000,,Future Land Baldimore, the \Nbirthplace of the Genius.
+Dialogue: 0,0:16:21.84,0:16:24.57,Default,,0000,0000,0000,,It makes me super relaxed!
+Dialogue: 0,0:16:25.46,0:16:27.48,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:16:28.04,0:16:31.42,Default,,0000,0000,0000,,He was way funnier before!
+Dialogue: 0,0:16:32.38,0:16:36.89,Default,,0000,0000,0000,,Oh! What do you think we can \Ndo to turn Franky back?!
+Dialogue: 0,0:16:38.01,0:16:42.77,Default,,0000,0000,0000,,The cola hasn't arrived yet so \Nwe can't conduct an operation.
+Dialogue: 0,0:16:43.48,0:16:45.36,Default,,0000,0000,0000,,He has to take back his perversion...
+Dialogue: 0,0:16:45.36,0:16:51.07,Default,,0000,0000,0000,,I mean, wildness, in order to \Nget back to being himself again.
+Dialogue: 0,0:16:51.07,0:16:52.78,Default,,0000,0000,0000,,Wildness?
+Dialogue: 0,0:17:20.18,0:17:21.89,Default,,0000,0000,0000,,It's cold!
+Dialogue: 0,0:17:23.14,0:17:25.98,Default,,0000,0000,0000,,How did I get here?
+Dialogue: 0,0:17:27.15,0:17:29.81,Default,,0000,0000,0000,,Here is a scarf!
+Dialogue: 0,0:17:31.15,0:17:32.03,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:17:41.74,0:17:44.66,Default,,0000,0000,0000,,What is going on here?!
+Dialogue: 0,0:17:47.95,0:17:49.75,Default,,0000,0000,0000,,"Keep Out?"
+Dialogue: 0,0:17:49.75,0:17:53.50,Default,,0000,0000,0000,,"This is an enclosed forest \Nof mechanical animals?"
+Dialogue: 0,0:18:26.78,0:18:30.12,Default,,0000,0000,0000,,Mission: The surprising \Nwake-up in the jungle!
+Dialogue: 0,0:18:30.75,0:18:35.42,Default,,0000,0000,0000,,Take back your wildness \Nthrough surviving, old man!
+Dialogue: 0,0:18:35.76,0:18:37.92,Default,,0000,0000,0000,,Don't try this at home, kids!
+Dialogue: 0,0:18:37.92,0:18:41.18,Default,,0000,0000,0000,,Hey guys, you better relax!
+Dialogue: 0,0:18:41.86,0:18:45.77,Default,,0000,0000,0000,,You all seem very frustrated. \NHave you eaten breakfast?
+Dialogue: 0,0:18:45.77,0:18:50.27,Default,,0000,0000,0000,,It is not good for your mental health \Nif you don't eat it every day!
+Dialogue: 0,0:18:52.44,0:18:56.92,Default,,0000,0000,0000,,Oh I see! This is breakfast time!
+Dialogue: 0,0:18:56.92,0:18:58.79,Default,,0000,0000,0000,,What was I thinking?
+Dialogue: 0,0:19:03.58,0:19:08.41,Default,,0000,0000,0000,,Delicious! There is nothing like the \Nfirst cup of tea in the morning!
+Dialogue: 0,0:19:09.71,0:19:11.75,Default,,0000,0000,0000,,Do you guys want some?
+Dialogue: 0,0:19:17.96,0:19:20.72,Default,,0000,0000,0000,,It feels great to be alive!
+Dialogue: 0,0:19:20.72,0:19:23.05,Default,,0000,0000,0000,,It's not working!
+Dialogue: 0,0:19:51.12,0:19:53.17,Default,,0000,0000,0000,,Help us!
+Dialogue: 0,0:20:01.97,0:20:03.97,Default,,0000,0000,0000,,Good morning, boys!
+Dialogue: 0,0:20:03.97,0:20:05.43,Default,,0000,0000,0000,,Old man!
+Dialogue: 0,0:20:06.14,0:20:09.89,Default,,0000,0000,0000,,I'm not an old man! Call me Mr. Frank!
+Dialogue: 0,0:20:13.28,0:20:14.90,Default,,0000,0000,0000,,Violence is not...
+Dialogue: 0,0:20:16.74,0:20:19.48,Default,,0000,0000,0000,,I know you are at an age \Nwhen you want to be naughty...
+Dialogue: 0,0:20:20.91,0:20:22.36,Default,,0000,0000,0000,,If you let me talk...
+Dialogue: 0,0:20:22.81,0:20:24.07,Default,,0000,0000,0000,,You'll see...
+Dialogue: 0,0:20:24.07,0:20:25.82,Default,,0000,0000,0000,,Let's sort this out...
+Dialogue: 0,0:20:26.27,0:20:28.20,Default,,0000,0000,0000,,...in a gentlemanly manner!
+Dialogue: 0,0:20:28.62,0:20:33.33,Default,,0000,0000,0000,,Stop... Nothing good... comes... from war!
+Dialogue: 0,0:20:33.33,0:20:35.23,Default,,0000,0000,0000,,Mr. Frank!
+Dialogue: 0,0:20:35.23,0:20:38.17,Default,,0000,0000,0000,,Oh no, it's not working at all!
+Dialogue: 0,0:20:38.51,0:20:39.59,Default,,0000,0000,0000,,Relax...
+Dialogue: 0,0:20:40.13,0:20:42.67,Default,,0000,0000,0000,,Listen to what I say... Listen to what...
+Dialogue: 0,0:20:43.60,0:20:46.22,Default,,0000,0000,0000,,Listen to... Listen...
+Dialogue: 0,0:20:48.09,0:20:49.22,Default,,0000,0000,0000,,Lis...
+Dialogue: 0,0:20:50.45,0:20:51.93,Default,,0000,0000,0000,,To...
+Dialogue: 0,0:20:51.93,0:20:55.39,Default,,0000,0000,0000,,Listen... Lis... L...
+Dialogue: 0,0:20:57.40,0:20:58.68,Default,,0000,0000,0000,,Lis...
+Dialogue: 0,0:21:21.12,0:21:25.05,Default,,0000,0000,0000,,Super!
+Dialogue: 0,0:21:31.58,0:21:34.06,Default,,0000,0000,0000,,Who do you think I am?!
+Dialogue: 0,0:21:34.06,0:21:36.89,Default,,0000,0000,0000,,I am Franky-sama!
+Dialogue: 0,0:21:37.24,0:21:40.11,Default,,0000,0000,0000,,Yeah! You're back, old man!
+Dialogue: 0,0:21:40.88,0:21:43.32,Default,,0000,0000,0000,,Per... vert!
+Dialogue: 0,0:21:45.17,0:21:46.62,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:21:47.49,0:21:51.41,Default,,0000,0000,0000,,I got cooled down a little \Nso I'm running out of steam!
+Dialogue: 0,0:21:51.41,0:21:54.69,Default,,0000,0000,0000,,Oh, geek! I mean, god!
+Dialogue: 0,0:21:54.69,0:21:56.95,Default,,0000,0000,0000,,Um... Um...
+Dialogue: 0,0:21:56.95,0:21:58.62,Default,,0000,0000,0000,,Oh yeah! We gotta go there!
+Dialogue: 0,0:22:01.60,0:22:03.24,Default,,0000,0000,0000,,Where are we going?
+Dialogue: 0,0:22:03.24,0:22:05.50,Default,,0000,0000,0000,,The house of Dr. Vegapunk!
+Dialogue: 0,0:22:05.50,0:22:08.63,Default,,0000,0000,0000,,Maybe we can find a machine \Nto make some cola!
+Dialogue: 0,0:22:09.00,0:22:11.05,Default,,0000,0000,0000,,Dr. Vegapunk?!
+Dialogue: 0,0:22:11.90,0:22:14.00,Default,,0000,0000,0000,,He's the standout genius
+Dialogue: 0,0:22:14.00,0:22:16.90,Default,,0000,0000,0000,,of Future Land \NBaldimore known for its advanced technology!
+Dialogue: 0,0:22:16.90,0:22:21.81,Default,,0000,0000,0000,,The mechanical animals that you just \Nsaw are all cyborgs that he created!
+Dialogue: 0,0:22:23.89,0:22:29.17,Default,,0000,0000,0000,,I heard that he was a weirdo and he \Nleft the island with cyborgs running wild
+Dialogue: 0,0:22:29.17,0:22:31.66,Default,,0000,0000,0000,,but that he was also amazing!
+Dialogue: 0,0:22:38.80,0:22:41.23,Default,,0000,0000,0000,,Grandpa told me to keep away from here
+Dialogue: 0,0:22:41.23,0:22:45.09,Default,,0000,0000,0000,,because there are a lot of \Ndangerous creations inside!
+Dialogue: 0,0:22:59.64,0:23:00.81,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:23:15.08,0:23:16.99,Default,,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:23:25.55,0:23:28.52,Default,,0000,0000,0000,,Sanji is on the run from countless \Npursuers of ambiguous gender.
+Dialogue: 0,0:23:28.52,0:23:30.91,Default,,0000,0000,0000,,After running and running to escape them,
+Dialogue: 0,0:23:30.91,0:23:34.44,Default,,0000,0000,0000,,he's met by a mysterious \Nqueen, and a frilly dress.
+Dialogue: 0,0:23:34.44,0:23:35.85,Default,,0000,0000,0000,,Around that time,
+Dialogue: 0,0:23:35.85,0:23:39.89,Default,,0000,0000,0000,,a huge, round creature falls \Nto the ground behind Chopper!
+Dialogue: 0,0:23:39.89,0:23:41.28,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.28,0:23:45.36,Default,,0000,0000,0000,,"The Friends' Whereabouts! A Cheeper \Nof Giant Birds and a Pink Showdown!"
+Dialogue: 0,0:23:45.36,0:23:47.86,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

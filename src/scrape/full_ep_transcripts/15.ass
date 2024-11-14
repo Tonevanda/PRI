@@ -1,0 +1,312 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.73,0:00:03.76,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:03.76,0:00:05.66,Default,,0000,0000,0000,,Gold Roger,\Nthe King of the Pirates,
+Dialogue: 0,0:00:05.66,0:00:07.97,Default,,0000,0000,0000,,attained everything\Nthis world has to offer.
+Dialogue: 0,0:00:07.97,0:00:11.84,Default,,0000,0000,0000,,The words he uttered just before\Nhis death drove people to the seas.
+Dialogue: 0,0:00:11.84,0:00:15.67,Default,,0000,0000,0000,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:15.67,0:00:19.24,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:21.85,0:00:26.59,Default,,0000,0000,0000,,And so men head for the\NGrand Line in pursuit of their dreams!
+Dialogue: 0,0:00:26.59,0:00:30.49,Default,,0000,0000,0000,,The world has truly\Nentered a Great Pirate Era!
+Dialogue: 0,0:00:30.49,0:00:35.86,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:00:35.86,0:00:41.77,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:00:41.77,0:00:43.27,Default,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:00:47.97,0:00:53.61,Default,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:00:53.61,0:00:59.35,Default,,0000,0000,0000,,Delirious with fever,\NI take the helm
+Dialogue: 0,0:00:59.35,0:01:11.46,Default,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it's not a legend!
+Dialogue: 0,0:01:11.46,0:01:17.17,Default,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:17.17,0:01:22.47,Default,,0000,0000,0000,,simply ride aboard\Nsomeone else's biorhythm
+Dialogue: 0,0:01:22.47,0:01:26.14,Default,,0000,0000,0000,,and pretend it isn't there!
+Dialogue: 0,0:01:26.14,0:01:31.65,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:01:31.65,0:01:37.36,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:01:37.36,0:01:43.60,Default,,0000,0000,0000,,A coin in my pocket,\Nand do you wanna be my friend?
+Dialogue: 0,0:01:43.60,0:01:48.97,Default,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:01:48.97,0:01:50.04,Default,,0000,0000,0000,,We are!
+Dialogue: 0,0:01:52.64,0:01:56.47,Default,,0000,0000,0000,,How the Black Cat Pirates have fallen...
+Dialogue: 0,0:01:56.47,0:01:59.04,Default,,0000,0000,0000,,Right?!
+Dialogue: 0,0:01:59.04,0:02:01.98,Default,,0000,0000,0000,,U-Us, feeble?!
+Dialogue: 0,0:02:04.12,0:02:05.78,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:02:08.52,0:02:10.26,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:02:10.26,0:02:12.66,Default,,0000,0000,0000,,Tiger Trap!
+Dialogue: 0,0:02:13.66,0:02:15.49,Default,,0000,0000,0000,,Get up!
+Dialogue: 0,0:02:17.26,0:02:19.26,Default,,0000,0000,0000,,Nami, you jerk!
+Dialogue: 0,0:02:23.27,0:02:25.97,Default,,0000,0000,0000,,Klahadore! Stop this!
+Dialogue: 0,0:02:25.97,0:02:27.87,Default,,0000,0000,0000,,Run away, Kaya!
+Dialogue: 0,0:02:27.87,0:02:31.41,Default,,0000,0000,0000,,I devoted myself to you...
+Dialogue: 0,0:02:31.41,0:02:34.78,Default,,0000,0000,0000,,For so long!
+Dialogue: 0,0:02:34.78,0:02:41.12,Default,,0000,0000,0000,,Yes, it was all so that\NI could kill you today...
+Dialogue: 0,0:02:42.62,0:02:45.29,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:02:54.57,0:02:59.14,Default,,0000,0000,0000,,If you hate getting hit that much,\NI got a hundred more punches for you!
+Dialogue: 0,0:03:01.91,0:03:06.24,Default,,0000,0000,0000,,"Beat Kuro! Usopp the Man's\NTearful Resolve!"
+Dialogue: 0,0:03:18.99,0:03:21.89,Default,,0000,0000,0000,,--What was that?!\N--What did he do?!
+Dialogue: 0,0:03:21.89,0:03:23.09,Default,,0000,0000,0000,,It looked like his arm stretched!
+Dialogue: 0,0:03:23.09,0:03:27.67,Default,,0000,0000,0000,,--Get real!\N--He sent Captain Kuro flying!
+Dialogue: 0,0:03:45.22,0:03:47.35,Default,,0000,0000,0000,,I leave the rest to you!
+Dialogue: 0,0:03:48.69,0:03:50.69,Default,,0000,0000,0000,,I'm gonna get me some treasure!
+Dialogue: 0,0:03:55.03,0:04:00.87,Default,,0000,0000,0000,,--The Usopp Pirates have arrived!\N--The Usopp Pirates have arrived!
+Dialogue: 0,0:04:00.87,0:04:02.97,Default,,0000,0000,0000,,--You guys!\N--Stay away!
+Dialogue: 0,0:04:02.97,0:04:05.67,Default,,0000,0000,0000,,Say your prayers, butt-ler!
+Dialogue: 0,0:04:05.67,0:04:07.41,Default,,0000,0000,0000,,It's punishment time!
+Dialogue: 0,0:04:07.41,0:04:09.31,Default,,0000,0000,0000,,Lousy pirate!\NDisrupting this village's peace!
+Dialogue: 0,0:04:09.31,0:04:10.98,Default,,0000,0000,0000,,S-Stop!
+Dialogue: 0,0:04:10.98,0:04:12.21,Default,,0000,0000,0000,,--Darn you!\N--Take this!
+Dialogue: 0,0:04:12.21,0:04:16.41,Default,,0000,0000,0000,,You brats! What are you doing?!
+Dialogue: 0,0:04:16.41,0:04:18.38,Default,,0000,0000,0000,,What're those runts doing?!
+Dialogue: 0,0:04:18.38,0:04:22.65,Default,,0000,0000,0000,,Stop that, you guys... Stop!
+Dialogue: 0,0:04:25.46,0:04:28.66,Default,,0000,0000,0000,,Alright! We'll let you off with just that!
+Dialogue: 0,0:04:31.43,0:04:36.90,Default,,0000,0000,0000,,Now Captain Kuro is really mad!
+Dialogue: 0,0:04:36.90,0:04:40.21,Default,,0000,0000,0000,,Those stupid brats!
+Dialogue: 0,0:04:40.21,0:04:41.41,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:04:41.41,0:04:43.94,Default,,0000,0000,0000,,I knew it! You were fighting, Captain!
+Dialogue: 0,0:04:43.94,0:04:47.31,Default,,0000,0000,0000,,Why didn't you tell us?! That's unbare!
+Dialogue: 0,0:04:47.31,0:04:49.61,Default,,0000,0000,0000,,No! You mean "unfair"!
+Dialogue: 0,0:04:49.61,0:04:56.19,Default,,0000,0000,0000,,Who cares about that?! You guys\Njust gotta get out of here! Run!
+Dialogue: 0,0:04:56.19,0:04:59.22,Default,,0000,0000,0000,,--No!\N--We're gonna fight, too!
+Dialogue: 0,0:04:59.22,0:05:02.36,Default,,0000,0000,0000,,The Usopp Pirates will\Nbe shamed if we run!
+Dialogue: 0,0:05:16.17,0:05:19.21,Default,,0000,0000,0000,,You idiots! Get out of here, now!
+Dialogue: 0,0:05:33.09,0:05:35.09,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:05:42.20,0:05:44.50,Default,,0000,0000,0000,,That hurt a bit...
+Dialogue: 0,0:05:44.50,0:05:48.54,Default,,0000,0000,0000,,That's quite a strange\Ntechnique you have there...
+Dialogue: 0,0:05:48.54,0:05:53.85,Default,,0000,0000,0000,,I take it you have Devil Fruit powers?!
+Dialogue: 0,0:05:53.85,0:05:57.98,Default,,0000,0000,0000,,Yep! I ate the Gum-Gum Fruit!
+Dialogue: 0,0:05:57.98,0:05:59.45,Default,,0000,0000,0000,,I'm a rubber person!
+Dialogue: 0,0:05:59.45,0:06:02.22,Default,,0000,0000,0000,,--What?! A Devil Fruit?!\N--He's dangerous!
+Dialogue: 0,0:06:02.22,0:06:05.19,Default,,0000,0000,0000,,--They really do exist?!\N--I thought he seemed strange!
+Dialogue: 0,0:06:05.19,0:06:11.66,Default,,0000,0000,0000,,I see. A rubber person. So I didn't\Nhallucinate his arm-stretching...
+Dialogue: 0,0:06:12.90,0:06:14.43,Default,,0000,0000,0000,,--Jango!\N--Yeah?
+Dialogue: 0,0:06:14.43,0:06:20.97,Default,,0000,0000,0000,,I'll handle the boy.\NYou take care of Miss Kaya.
+Dialogue: 0,0:06:20.97,0:06:24.18,Default,,0000,0000,0000,,As we planned, have her write a will...
+Dialogue: 0,0:06:24.18,0:06:26.64,Default,,0000,0000,0000,,...then kill her!
+Dialogue: 0,0:06:26.64,0:06:31.92,Default,,0000,0000,0000,,And those three little ants...\NThey're an eyesore!
+Dialogue: 0,0:06:33.59,0:06:35.59,Default,,0000,0000,0000,,I'm on it.
+Dialogue: 0,0:06:39.49,0:06:44.60,Default,,0000,0000,0000,,Stop. I can't let you pass.
+Dialogue: 0,0:06:44.60,0:06:46.60,Default,,0000,0000,0000,,Butchie!
+Dialogue: 0,0:06:49.63,0:06:51.27,Default,,0000,0000,0000,,Cat...
+Dialogue: 0,0:06:51.27,0:06:53.44,Default,,0000,0000,0000,,...astrophe!
+Dialogue: 0,0:06:53.44,0:06:54.94,Default,,0000,0000,0000,,Not again!
+Dialogue: 0,0:07:28.27,0:07:32.64,Default,,0000,0000,0000,,He's on a completely\Ndifferent level than before!
+Dialogue: 0,0:07:32.64,0:07:34.51,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:07:34.51,0:07:36.98,Default,,0000,0000,0000,,Kaya!
+Dialogue: 0,0:07:46.16,0:07:49.23,Default,,0000,0000,0000,,Dammit...
+Dialogue: 0,0:07:49.23,0:07:51.53,Default,,0000,0000,0000,,I'm out of strength...
+Dialogue: 0,0:07:51.53,0:07:55.97,Default,,0000,0000,0000,,Dammit... Dammit! Dammit...
+Dialogue: 0,0:07:55.97,0:07:57.87,Default,,0000,0000,0000,,D-Damn...
+Dialogue: 0,0:07:57.87,0:08:02.37,Default,,0000,0000,0000,,Usopp Pirates!
+Dialogue: 0,0:08:03.98,0:08:05.78,Default,,0000,0000,0000,,--Y-Yes, sir?!\N--Y-Yes, sir?!
+Dialogue: 0,0:08:05.78,0:08:07.95,Default,,0000,0000,0000,,Listen to me!
+Dialogue: 0,0:08:07.95,0:08:09.48,Default,,0000,0000,0000,,We're not going to run!
+Dialogue: 0,0:08:09.48,0:08:11.15,Default,,0000,0000,0000,,Not after they did this to you!
+Dialogue: 0,0:08:11.15,0:08:14.15,Default,,0000,0000,0000,,We're going to avenge you!
+Dialogue: 0,0:08:14.15,0:08:16.22,Default,,0000,0000,0000,,Protect Kaya!
+Dialogue: 0,0:08:18.82,0:08:21.49,Default,,0000,0000,0000,,Listen closely!
+Dialogue: 0,0:08:21.49,0:08:22.86,Default,,0000,0000,0000,,I'm giving...
+Dialogue: 0,0:08:22.86,0:08:28.53,Default,,0000,0000,0000,,I'm giving you the most\Nimportant task there is now!
+Dialogue: 0,0:08:28.53,0:08:31.50,Default,,0000,0000,0000,,Take Kaya and get away from here!
+Dialogue: 0,0:08:31.50,0:08:33.40,Default,,0000,0000,0000,,Don't tell me you can't!
+Dialogue: 0,0:08:33.40,0:08:37.38,Default,,0000,0000,0000,,That was the reason we\Nformed our pirate group:
+Dialogue: 0,0:08:37.38,0:08:41.98,Default,,0000,0000,0000,,to become men who protect\Nwhat's important to us!
+Dialogue: 0,0:08:43.85,0:08:45.85,Default,,0000,0000,0000,,Usopp-san...
+Dialogue: 0,0:08:50.39,0:08:53.99,Default,,0000,0000,0000,,That's... a direct order...
+Dialogue: 0,0:08:53.99,0:08:56.66,Default,,0000,0000,0000,,--Yes, Captain!\N--Yes, Captain!
+Dialogue: 0,0:08:56.66,0:08:58.00,Default,,0000,0000,0000,,Hurry, Kaya-san!
+Dialogue: 0,0:08:58.00,0:08:59.93,Default,,0000,0000,0000,,--This way! This way!\N--This way!
+Dialogue: 0,0:08:59.93,0:09:02.23,Default,,0000,0000,0000,,He sure knows how to talk all big.
+Dialogue: 0,0:09:02.23,0:09:04.10,Default,,0000,0000,0000,,He basically just told 'em to run away...
+Dialogue: 0,0:09:04.10,0:09:06.70,Default,,0000,0000,0000,,The woods are like our backyard!
+Dialogue: 0,0:09:06.70,0:09:08.37,Default,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:09:11.01,0:09:14.15,Default,,0000,0000,0000,,--Jango!\N--I wound up gawking!
+Dialogue: 0,0:09:14.15,0:09:18.18,Default,,0000,0000,0000,,The fools! They can't\Npossibly escape me--
+Dialogue: 0,0:09:22.89,0:09:25.79,Default,,0000,0000,0000,,--Howdya like that?!\N--Damn you!
+Dialogue: 0,0:09:25.79,0:09:28.76,Default,,0000,0000,0000,,Go after them, you fool!
+Dialogue: 0,0:09:28.76,0:09:32.00,Default,,0000,0000,0000,,Y-Yeah, okay!
+Dialogue: 0,0:09:34.33,0:09:36.90,Default,,0000,0000,0000,,How pointless.
+Dialogue: 0,0:09:36.90,0:09:40.47,Default,,0000,0000,0000,,I know very well just\Nhow weak Kaya is...
+Dialogue: 0,0:09:40.47,0:09:44.41,Default,,0000,0000,0000,,She'll never escape Jango.\NIf you want to help her,
+Dialogue: 0,0:09:44.41,0:09:48.18,Default,,0000,0000,0000,,go right ahead.
+Dialogue: 0,0:09:48.18,0:09:52.92,Default,,0000,0000,0000,,If you can get past this hill alive, that is.
+Dialogue: 0,0:09:57.92,0:09:59.42,Default,,0000,0000,0000,,Butchie!
+Dialogue: 0,0:10:02.79,0:10:10.40,Default,,0000,0000,0000,,You already lost to me once!\NI told you not to get in my way!
+Dialogue: 0,0:10:10.40,0:10:12.54,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:11:21.41,0:11:23.78,Default,,0000,0000,0000,,W-What's that sound?!
+Dialogue: 0,0:11:23.78,0:11:27.11,Default,,0000,0000,0000,,Who knows? Ol' Jango is\Nprobably tearing the place up.
+Dialogue: 0,0:11:27.11,0:11:30.01,Default,,0000,0000,0000,,Why not go and see for yourself?
+Dialogue: 0,0:11:30.01,0:11:34.52,Default,,0000,0000,0000,,Though it may already be too late...
+Dialogue: 0,0:11:36.59,0:11:38.36,Default,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:11:38.36,0:11:43.79,Default,,0000,0000,0000,,Don't you even have a shred of pity?!\NYou lived with her for 3 years!
+Dialogue: 0,0:11:43.79,0:11:45.93,Default,,0000,0000,0000,,No. I already told you,
+Dialogue: 0,0:11:45.93,0:11:49.23,Default,,0000,0000,0000,,Kaya is nothing more\Nthan a pawn in my plan.
+Dialogue: 0,0:11:49.23,0:11:53.44,Default,,0000,0000,0000,,Once she's dead, then I'll\Nexpress some gratitude.
+Dialogue: 0,0:11:54.44,0:11:56.64,Default,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:11:56.64,0:11:58.68,Default,,0000,0000,0000,,What a helplessly evil guy!
+Dialogue: 0,0:11:58.68,0:12:02.18,Default,,0000,0000,0000,,I don't plan to help him, though!
+Dialogue: 0,0:12:02.18,0:12:05.42,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:12:05.42,0:12:08.89,Default,,0000,0000,0000,,Go to them!
+Dialogue: 0,0:12:08.89,0:12:12.26,Default,,0000,0000,0000,,We'll take over here!
+Dialogue: 0,0:12:12.26,0:12:14.26,Default,,0000,0000,0000,,Leave it to us!
+Dialogue: 0,0:12:49.69,0:12:53.87,Default,,0000,0000,0000,,Oh? You can still move?\NHow impressive.
+Dialogue: 0,0:12:53.87,0:12:55.37,Default,,0000,0000,0000,,Shut up...
+Dialogue: 0,0:12:55.37,0:13:00.64,Default,,0000,0000,0000,,I refuse to let you... have your way!
+Dialogue: 0,0:13:00.64,0:13:07.04,Default,,0000,0000,0000,,You went and betrayed the villagers'--\Nand Kaya's-- feelings...
+Dialogue: 0,0:13:07.04,0:13:13.18,Default,,0000,0000,0000,,I refuse to let you\Nhave your way anymore!
+Dialogue: 0,0:13:13.18,0:13:14.99,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:13:19.22,0:13:21.26,Default,,0000,0000,0000,,D-Dammit...
+Dialogue: 0,0:13:21.26,0:13:24.96,Default,,0000,0000,0000,,I... can't... move...
+Dialogue: 0,0:13:31.44,0:13:34.27,Default,,0000,0000,0000,,You really are a riot!
+Dialogue: 0,0:13:34.27,0:13:36.44,Default,,0000,0000,0000,,I betrayed them, you say?!
+Dialogue: 0,0:13:36.44,0:13:41.01,Default,,0000,0000,0000,,Cut the crap! This was\Nall part of the plan!
+Dialogue: 0,0:13:41.01,0:13:47.08,Default,,0000,0000,0000,,A kiddie pirate captain like you\Nhas no place to talk all-knowingly!
+Dialogue: 0,0:13:47.08,0:13:51.56,Default,,0000,0000,0000,,Just stay on the ground there.
+Dialogue: 0,0:13:51.56,0:13:54.79,Default,,0000,0000,0000,,Though, even if you did\Ncatch up with Jango,
+Dialogue: 0,0:13:54.79,0:13:57.70,Default,,0000,0000,0000,,you'd be no match for him anyway.
+Dialogue: 0,0:13:57.70,0:14:01.30,Default,,0000,0000,0000,,This way is probably safest for you!
+Dialogue: 0,0:14:01.30,0:14:04.44,Default,,0000,0000,0000,,Even if I am no match...
+Dialogue: 0,0:14:04.44,0:14:10.98,Default,,0000,0000,0000,,Even if I am no match for him...\NI will protect them!
+Dialogue: 0,0:14:10.98,0:14:14.41,Default,,0000,0000,0000,,I'm captain of the Usopp Pirates...
+Dialogue: 0,0:14:14.41,0:14:18.02,Default,,0000,0000,0000,,...and a brave warrior of the sea!
+Dialogue: 0,0:14:18.02,0:14:25.02,Default,,0000,0000,0000,,I won't let you lay a\Nfinger on the village!
+Dialogue: 0,0:14:28.93,0:14:31.56,Default,,0000,0000,0000,,--What's with him?\N--He's yellin' somethin'!
+Dialogue: 0,0:14:31.56,0:14:33.70,Default,,0000,0000,0000,,Check it out, he's cryin'!
+Dialogue: 0,0:14:46.44,0:14:48.48,Default,,0000,0000,0000,,What's so funny?!
+Dialogue: 0,0:14:51.08,0:14:52.65,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:14:52.65,0:14:56.19,Default,,0000,0000,0000,,Me and Usopp are gonna chase\Nthat hypno-freak! That a problem?!
+Dialogue: 0,0:14:56.19,0:14:58.12,Default,,0000,0000,0000,,Nope! Hurry!
+Dialogue: 0,0:14:58.12,0:15:00.26,Default,,0000,0000,0000,,T-Thanks...
+Dialogue: 0,0:15:00.26,0:15:04.46,Default,,0000,0000,0000,,I'd actually be much faster by myself,\Nbut they're inside some woods.
+Dialogue: 0,0:15:04.46,0:15:07.63,Default,,0000,0000,0000,,I'm gonna need your\Ndirections to catch up to him.
+Dialogue: 0,0:15:07.63,0:15:13.20,Default,,0000,0000,0000,,Hold it, you two. Who gave you\Npermission to pass this hill?
+Dialogue: 0,0:15:13.20,0:15:15.74,Default,,0000,0000,0000,,I did!
+Dialogue: 0,0:15:15.74,0:15:17.98,Default,,0000,0000,0000,,Go! Zoro! Usopp!
+Dialogue: 0,0:15:19.54,0:15:21.21,Default,,0000,0000,0000,,And another!
+Dialogue: 0,0:15:27.25,0:15:31.52,Default,,0000,0000,0000,,Gum-Gum Spear!
+Dialogue: 0,0:15:31.52,0:15:33.82,Default,,0000,0000,0000,,Darn! He disappeared again!
+Dialogue: 0,0:15:35.59,0:15:38.83,Default,,0000,0000,0000,,Oh, well! They're past the hill, at least!
+Dialogue: 0,0:15:38.83,0:15:42.77,Default,,0000,0000,0000,,Before fighting, I have\None thing to ask you.
+Dialogue: 0,0:15:42.77,0:15:48.17,Default,,0000,0000,0000,,Why is an outsider like you butting\Ninto this village's business?!
+Dialogue: 0,0:15:48.17,0:15:52.41,Default,,0000,0000,0000,,Because there's a man in this\Nvillage I don't wanna let die!
+Dialogue: 0,0:15:52.41,0:15:57.28,Default,,0000,0000,0000,,How simple. Are you okay\Nwith that being why you die?!
+Dialogue: 0,0:15:57.28,0:16:00.79,Default,,0000,0000,0000,,Yep! I'm not gonna die, though!
+Dialogue: 0,0:16:00.79,0:16:03.12,Default,,0000,0000,0000,,I'll make sure you do!
+Dialogue: 0,0:16:09.76,0:16:13.50,Default,,0000,0000,0000,,Gum-Gum Whip!
+Dialogue: 0,0:16:13.50,0:16:15.50,Default,,0000,0000,0000,,...and Pistol!
+Dialogue: 0,0:16:21.17,0:16:22.97,Default,,0000,0000,0000,,You're making me yawn!
+Dialogue: 0,0:16:22.97,0:16:24.64,Default,,0000,0000,0000,,Why, you...
+Dialogue: 0,0:16:30.82,0:16:34.62,Default,,0000,0000,0000,,Damn... He cut my mouth...
+Dialogue: 0,0:16:34.62,0:16:38.39,Default,,0000,0000,0000,,That straw hat guy's\Ninsanely strong, and yet...
+Dialogue: 0,0:16:38.39,0:16:41.99,Default,,0000,0000,0000,,T-That's Captain Kuro for ya!
+Dialogue: 0,0:16:41.99,0:16:44.86,Default,,0000,0000,0000,,--Get 'im!\N--Hurray for Captain Kuro!
+Dialogue: 0,0:16:44.86,0:16:48.03,Default,,0000,0000,0000,,--Captain Kuro!\N--You're awesome, Captain Kuro!
+Dialogue: 0,0:16:48.03,0:16:52.87,Default,,0000,0000,0000,,Don't call me that name!
+Dialogue: 0,0:16:52.87,0:16:55.94,Default,,0000,0000,0000,,Do you still not get it?!
+Dialogue: 0,0:16:55.94,0:17:03.58,Default,,0000,0000,0000,,This plan is so I can be completely\Nrid of the name "Captain Kuro"!
+Dialogue: 0,0:17:03.58,0:17:06.55,Default,,0000,0000,0000,,I'm tired...
+Dialogue: 0,0:17:06.55,0:17:12.36,Default,,0000,0000,0000,,Devising plans everyday for you\Nmen who only care about mayhem...
+Dialogue: 0,0:17:12.36,0:17:16.96,Default,,0000,0000,0000,,Being relentlessly attacked by\Ngovernment dogs and bounty hunters...
+Dialogue: 0,0:17:16.96,0:17:21.27,Default,,0000,0000,0000,,I was absolutely sick of it all!
+Dialogue: 0,0:17:25.17,0:17:27.97,Default,,0000,0000,0000,,The navy, huh?
+Dialogue: 0,0:17:27.97,0:17:32.51,Default,,0000,0000,0000,,This is the third time this week...
+Dialogue: 0,0:17:32.51,0:17:37.95,Default,,0000,0000,0000,,It can't be helped. We're doing\Nstuff that makes people chase us.
+Dialogue: 0,0:17:37.95,0:17:40.62,Default,,0000,0000,0000,,Plus you've made quite\Na name for yourself...
+Dialogue: 0,0:17:40.62,0:17:45.52,Default,,0000,0000,0000,,Yes... That name is\Nwhat draws them to us.
+Dialogue: 0,0:17:45.52,0:17:51.93,Default,,0000,0000,0000,,That's why I'm giving\Nup being Captain Kuro.
+Dialogue: 0,0:17:51.93,0:17:56.30,Default,,0000,0000,0000,,That's pretty funny. But it's no use.
+Dialogue: 0,0:17:56.30,0:18:00.24,Default,,0000,0000,0000,,I think the navy'll keep\Nfollowing you until you're dead.
+Dialogue: 0,0:18:04.04,0:18:07.78,Default,,0000,0000,0000,,I am going to die.
+Dialogue: 0,0:18:07.78,0:18:12.15,Default,,0000,0000,0000,,It would seem that\Npiracy just isn't for me...
+Dialogue: 0,0:18:12.15,0:18:15.25,Default,,0000,0000,0000,,B-But you're this ship's captain!
+Dialogue: 0,0:18:15.25,0:18:18.16,Default,,0000,0000,0000,,You can be captain!
+Dialogue: 0,0:18:18.16,0:18:22.29,Default,,0000,0000,0000,,I'm sick of this tumultuous lifestyle.
+Dialogue: 0,0:18:24.73,0:18:29.60,Default,,0000,0000,0000,,I'm... going to kill myself for all to see!
+Dialogue: 0,0:18:29.60,0:18:30.60,Default,,0000,0000,0000,,Captain Kuro!
+Dialogue: 0,0:18:30.60,0:18:32.50,Default,,0000,0000,0000,,--Captain!\N--Captain!
+Dialogue: 0,0:18:32.50,0:18:34.24,Default,,0000,0000,0000,,How many vessels?
+Dialogue: 0,0:18:34.24,0:18:35.84,Default,,0000,0000,0000,,J-Just one!
+Dialogue: 0,0:18:35.84,0:18:39.71,Default,,0000,0000,0000,,What should we do, Captain?!\NShould we blast 'em back?!
+Dialogue: 0,0:18:39.71,0:18:41.95,Default,,0000,0000,0000,,Lower a small boat.
+Dialogue: 0,0:18:41.95,0:18:44.95,Default,,0000,0000,0000,,--Huh?!\N--A boat!
+Dialogue: 0,0:18:49.99,0:18:51.99,Default,,0000,0000,0000,,Vice-Captain Jango!\NCaptain Kuro just--
+Dialogue: 0,0:18:51.99,0:18:53.32,Default,,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:18:53.32,0:18:56.83,Default,,0000,0000,0000,,"Yeah"?! It's way too reckless\Nfor him to go there by himself!
+Dialogue: 0,0:18:56.83,0:18:59.66,Default,,0000,0000,0000,,Don't tell me he's turning himself in?!
+Dialogue: 0,0:19:14.35,0:19:16.78,Default,,0000,0000,0000,,--H-Huh?!\N--The cannon fire stopped...
+Dialogue: 0,0:19:16.78,0:19:20.12,Default,,0000,0000,0000,,--What's goin' on?!\N--This is creepy...
+Dialogue: 0,0:19:22.92,0:19:24.49,Default,,0000,0000,0000,,Dock with their ship.
+Dialogue: 0,0:19:24.49,0:19:26.46,Default,,0000,0000,0000,,B-But...
+Dialogue: 0,0:19:26.46,0:19:30.09,Default,,0000,0000,0000,,--Just do as I say, damn it!\N--Y-Yes, sir!
+Dialogue: 0,0:19:30.09,0:19:35.93,Default,,0000,0000,0000,,--Hey, get ready to fight!\N--I see... So that's why...
+Dialogue: 0,0:19:35.93,0:19:37.74,Default,,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:19:37.74,0:19:40.24,Default,,0000,0000,0000,,Y-Yes?! What is it?
+Dialogue: 0,0:19:40.24,0:19:43.31,Default,,0000,0000,0000,,It was nice knowing you\Nfor this short time...
+Dialogue: 0,0:20:01.76,0:20:06.46,Default,,0000,0000,0000,,--T-The marines...\N--They've been wiped out!
+Dialogue: 0,0:20:14.04,0:20:16.21,Default,,0000,0000,0000,,Now, then...
+Dialogue: 0,0:20:19.11,0:20:22.11,Default,,0000,0000,0000,,Let's begin the plan...
+Dialogue: 0,0:20:26.28,0:20:29.15,Default,,0000,0000,0000,,Hey, now. Pull yourself together.
+Dialogue: 0,0:20:29.15,0:20:32.82,Default,,0000,0000,0000,,I was kind enough to\Nleave you alive, you know...
+Dialogue: 0,0:20:32.82,0:20:35.36,Default,,0000,0000,0000,,S-Shut up...
+Dialogue: 0,0:20:35.36,0:20:39.13,Default,,0000,0000,0000,,I-I'm not gonna beg for my life...
+Dialogue: 0,0:20:39.13,0:20:42.80,Default,,0000,0000,0000,,F-Finish me off, damn you...
+Dialogue: 0,0:20:44.90,0:20:46.87,Default,,0000,0000,0000,,That's a good look.
+Dialogue: 0,0:20:46.87,0:20:51.54,Default,,0000,0000,0000,,If you can howl that much with a\Nshattered jaw, then that's perfect!
+Dialogue: 0,0:20:53.64,0:20:59.72,Default,,0000,0000,0000,,I'm giving you, a nameless,\Nlow-ranking soldier, a treat.
+Dialogue: 0,0:20:59.72,0:21:03.15,Default,,0000,0000,0000,,Accept it gratefully...
+Dialogue: 0,0:21:03.15,0:21:07.29,Default,,0000,0000,0000,,The head of Kuro,\NMan of a Thousand Plans!
+Dialogue: 0,0:21:07.29,0:21:12.56,Default,,0000,0000,0000,,Your name is Captain Kuro.\NYour name is Captain Kuro.
+Dialogue: 0,0:21:12.56,0:21:15.60,Default,,0000,0000,0000,,This atrocity was your doing.
+Dialogue: 0,0:21:15.60,0:21:19.30,Default,,0000,0000,0000,,One, two, Jango!
+Dialogue: 0,0:21:19.30,0:21:24.74,Default,,0000,0000,0000,,My name is Captain Kuro.\NThis atrocity was my doing.
+Dialogue: 0,0:21:24.74,0:21:29.08,Default,,0000,0000,0000,,And you're the man\Nwho caught Captain Kuro.
+Dialogue: 0,0:21:29.08,0:21:32.12,Default,,0000,0000,0000,,Return to base and execute this man.
+Dialogue: 0,0:21:32.12,0:21:36.29,Default,,0000,0000,0000,,One, two, Jango!
+Dialogue: 0,0:21:36.29,0:21:39.96,Default,,0000,0000,0000,,I'm the man who caught Captain Kuro!
+Dialogue: 0,0:21:39.96,0:21:42.63,Default,,0000,0000,0000,,You're doing it again, Vice-Captain!
+Dialogue: 0,0:21:42.63,0:21:44.26,Default,,0000,0000,0000,,Perfect...
+Dialogue: 0,0:21:44.26,0:21:51.27,Default,,0000,0000,0000,,With that fake gone, Captain Kuro\Nwill disappear from the world.
+Dialogue: 0,0:21:53.30,0:22:01.25,Default,,0000,0000,0000,,And when my plan today succeeds,\Nmy goal will be fully achieved...
+Dialogue: 0,0:22:01.25,0:22:04.42,Default,,0000,0000,0000,,Money and peace of mind will be mine.
+Dialogue: 0,0:22:04.42,0:22:06.58,Default,,0000,0000,0000,,Do you understand, boy?
+Dialogue: 0,0:22:06.58,0:22:11.86,Default,,0000,0000,0000,,I cannot allow this plan\Nof three years to fail!
+Dialogue: 0,0:22:11.86,0:22:15.89,Default,,0000,0000,0000,,My plan will not be disrupted!
+Dialogue: 0,0:22:21.87,0:22:24.87,Default,,0000,0000,0000,,Seems you can do\Nmore than just stretch!
+Dialogue: 0,0:22:24.87,0:22:30.04,Default,,0000,0000,0000,,That's right! I've toughened\Nmyself up, to be a pirate!
+Dialogue: 0,0:22:32.34,0:22:33.84,Default,,0000,0000,0000,,You're "tired"?!
+Dialogue: 0,0:22:33.84,0:22:38.18,Default,,0000,0000,0000,,You're not fit to be a pirate if having\Na name on the seas scares you!
+Dialogue: 0,0:22:45.09,0:22:50.03,Default,,0000,0000,0000,,My ambition is much greater than yours!
+Dialogue: 0,0:22:55.03,0:23:09.28,Default,,0000,0000,0000,,When I was little, I had\Na vision of a treasure map
+Dialogue: 0,0:23:09.28,0:23:16.22,Default,,0000,0000,0000,,and I always searched\Nfor that miraculous place
+Dialogue: 0,0:23:16.22,0:23:23.39,Default,,0000,0000,0000,,before someone else could\Nbeat me to it
+Dialogue: 0,0:23:26.06,0:23:37.54,Default,,0000,0000,0000,,If the world is going to change
+Dialogue: 0,0:23:37.54,0:23:44.55,Default,,0000,0000,0000,,before I can even attain my dream
+Dialogue: 0,0:23:44.55,0:23:51.62,Default,,0000,0000,0000,,then take me to the time\Nwhen I knew nothing
+Dialogue: 0,0:23:51.62,0:24:05.00,Default,,0000,0000,0000,,so that my memories won't fade
+Dialogue: 0,0:24:10.47,0:24:12.51,Default,,0000,0000,0000,,Do you think Kaya-san and\Nthe others managed to get away?
+Dialogue: 0,0:24:12.51,0:24:14.85,Default,,0000,0000,0000,,Those three are with her.\NShe should be fine.
+Dialogue: 0,0:24:14.85,0:24:18.12,Default,,0000,0000,0000,,Yeah, huh? She won't get lost\Nlike someone else I know.
+Dialogue: 0,0:24:18.12,0:24:20.58,Default,,0000,0000,0000,,--Are you talking about me?!\N--Who else is there?!
+Dialogue: 0,0:24:20.58,0:24:24.02,Default,,0000,0000,0000,,What're you talking about?!\NYou used to bounty-hunt while lost!
+Dialogue: 0,0:24:24.02,0:24:25.32,Default,,0000,0000,0000,,Don't put it like that!
+Dialogue: 0,0:24:25.32,0:24:26.96,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:24:26.96,0:24:30.73,Default,,0000,0000,0000,,"Protect Kaya! The Usopp\NPirates' Great Efforts!"
+Dialogue: 0,0:24:30.73,0:24:33.40,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

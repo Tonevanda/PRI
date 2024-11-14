@@ -1,0 +1,312 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:57.81,0:02:00.55,Default,,0000,0000,0000,,Gum-Gum... Pistol!
+Dialogue: 0,0:02:14.53,0:02:18.70,Default,,0000,0000,0000,,You were skewered...\Nburied alive... and dried up...
+Dialogue: 0,0:02:20.43,0:02:25.04,Default,,0000,0000,0000,,Even you, who stood back up after all that...
+Dialogue: 0,0:02:25.04,0:02:26.87,Default,,0000,0000,0000,,...won't be able to survive this.
+Dialogue: 0,0:02:26.87,0:02:31.54,Default,,0000,0000,0000,,Game over... The poison will\Npass into your system soon.
+Dialogue: 0,0:02:31.54,0:02:34.31,Default,,0000,0000,0000,,You don't understand anything!
+Dialogue: 0,0:02:34.31,0:02:36.62,Default,,0000,0000,0000,,Hurry! Hurry!
+Dialogue: 0,0:02:37.72,0:02:40.49,Default,,0000,0000,0000,,What's going on?! The Navy helped us!
+Dialogue: 0,0:02:40.49,0:02:42.39,Default,,0000,0000,0000,,Did you find the cannoneer?!
+Dialogue: 0,0:02:42.39,0:02:45.56,Default,,0000,0000,0000,,We haven't confirmed it yet,\Nbut there's no mistake!
+Dialogue: 0,0:02:45.56,0:02:48.76,Default,,0000,0000,0000,,I must've looked at it many times,\Nbut it was my blind spot.
+Dialogue: 0,0:02:48.76,0:02:51.90,Default,,0000,0000,0000,,The cannoneer is over there without a doubt!
+Dialogue: 0,0:02:53.47,0:02:56.70,Default,,0000,0000,0000,,Nami-san! Vivi-chan!
+Dialogue: 0,0:02:56.70,0:02:59.24,Default,,0000,0000,0000,,Why are you up there?!
+Dialogue: 0,0:02:59.24,0:03:02.81,Default,,0000,0000,0000,,Hey! I looked all over for you guys!
+Dialogue: 0,0:03:02.81,0:03:04.74,Default,,0000,0000,0000,,Zoro! You too?!
+Dialogue: 0,0:03:04.74,0:03:07.18,Default,,0000,0000,0000,,What're you doing there?!
+Dialogue: 0,0:03:07.18,0:03:10.05,Default,,0000,0000,0000,,Ribbit... ribbit, ribbit, ribbit, ribbit...
+Dialogue: 0,0:03:18.66,0:03:23.29,Default,,0000,0000,0000,,"Magnificent Wings! My Name is Pell,\NGuardian Deity of the Country"
+Dialogue: 0,0:03:25.30,0:03:27.43,Default,,0000,0000,0000,,Baroque Works?!
+Dialogue: 0,0:03:28.70,0:03:32.87,Default,,0000,0000,0000,,We don't know. Where's the proof\Nthat such a company exists?
+Dialogue: 0,0:03:32.87,0:03:36.74,Default,,0000,0000,0000,,We're ordinary citizens\Nof Alabasta, Mr. Marine.
+Dialogue: 0,0:03:36.74,0:03:40.28,Default,,0000,0000,0000,,In the confusion of the rebellion,\Nare you trying to harm good citizens?
+Dialogue: 0,0:03:47.32,0:03:48.92,Default,,0000,0000,0000,,Sergeant Major Tashigi!
+Dialogue: 0,0:03:48.92,0:03:51.09,Default,,0000,0000,0000,,What're you hesitating for?!
+Dialogue: 0,0:03:52.32,0:03:55.26,Default,,0000,0000,0000,,If you wait until you have proof,\Nyou can't prevent anything!
+Dialogue: 0,0:03:55.26,0:03:57.53,Default,,0000,0000,0000,,Discern the enemy with your own eyes!
+Dialogue: 0,0:03:57.53,0:04:00.20,Default,,0000,0000,0000,,Yes ma'am! Our apologies!
+Dialogue: 0,0:04:00.20,0:04:03.87,Default,,0000,0000,0000,,At 4:30... We're running out of time...
+Dialogue: 0,0:04:06.74,0:04:08.41,Default,,0000,0000,0000,,The clock is...
+Dialogue: 0,0:04:12.21,0:04:16.11,Default,,0000,0000,0000,,Ribbit, ribbit, ribbit, ribbit...\NHey, listen, Mr. 7.
+Dialogue: 0,0:04:16.11,0:04:19.38,Default,,0000,0000,0000,,I think this is quite an important mission.
+Dialogue: 0,0:04:19.38,0:04:22.99,Default,,0000,0000,0000,,That's right, Miss Father's Day.
+Dialogue: 0,0:04:22.99,0:04:28.63,Default,,0000,0000,0000,,I think perhaps we may be given\Nan incredible status. Ribbit, ribbit.
+Dialogue: 0,0:04:30.16,0:04:35.97,Default,,0000,0000,0000,,I hope that's the plan. I hope so.\NI hope so, Miss Father's Day.
+Dialogue: 0,0:04:35.97,0:04:39.47,Default,,0000,0000,0000,,After all, our plan is to shoot\Na cannonball into the crowd
+Dialogue: 0,0:04:39.47,0:04:47.15,Default,,0000,0000,0000,,using such a big cannon! So I hope so!
+Dialogue: 0,0:04:49.98,0:04:53.59,Default,,0000,0000,0000,,Ribbit! It's almost time, Mr. 7!
+Dialogue: 0,0:04:53.59,0:04:57.32,Default,,0000,0000,0000,,Preparations to fire complete!
+Dialogue: 0,0:05:13.94,0:05:20.01,Default,,0000,0000,0000,,What is it that... you say I don't understand?
+Dialogue: 0,0:05:36.90,0:05:41.43,Default,,0000,0000,0000,,Gum-Gum... Gatling!
+Dialogue: 0,0:05:49.41,0:05:53.81,Default,,0000,0000,0000,,Don't you get it? You'll die soon,
+Dialogue: 0,0:05:53.81,0:05:57.32,Default,,0000,0000,0000,,due to the poison that entered that wound.
+Dialogue: 0,0:05:59.32,0:06:02.39,Default,,0000,0000,0000,,Your body is probably numbing by now.
+Dialogue: 0,0:06:04.79,0:06:11.53,Default,,0000,0000,0000,,Whether you win or lose, you'll be\Nburied under this sacred temple anyway.
+Dialogue: 0,0:06:11.53,0:06:14.83,Default,,0000,0000,0000,,15 seconds until the attack!
+Dialogue: 0,0:06:16.30,0:06:20.10,Default,,0000,0000,0000,,The target is the center of\Nthe Square. Ribbit, ribbit.
+Dialogue: 0,0:06:21.37,0:06:24.51,Default,,0000,0000,0000,,Ignite!
+Dialogue: 0,0:06:24.51,0:06:27.68,Default,,0000,0000,0000,,Hey, Nami! What the hell\Nare you trying to do?!
+Dialogue: 0,0:06:27.68,0:06:33.12,Default,,0000,0000,0000,,We really don't have time!\NIf we fail, we'll die! Hey!
+Dialogue: 0,0:06:33.12,0:06:38.16,Default,,0000,0000,0000,,I know that! Just stand there quietly!\NI'm calculating right now!
+Dialogue: 0,0:06:38.16,0:06:41.06,Default,,0000,0000,0000,,Quietly? I don't understand\Nthe point of this setup!
+Dialogue: 0,0:06:41.06,0:06:43.46,Default,,0000,0000,0000,,What the hell are you gonna do?!
+Dialogue: 0,0:06:43.46,0:06:45.56,Default,,0000,0000,0000,,You'll know once I do it!
+Dialogue: 0,0:06:45.56,0:06:46.90,Default,,0000,0000,0000,,Ready?!
+Dialogue: 0,0:06:46.90,0:06:51.20,Default,,0000,0000,0000,,Ribbit, ribbit, ribbit, ribbit...\NHey, listen, Mr. 7!
+Dialogue: 0,0:06:51.20,0:06:54.41,Default,,0000,0000,0000,,This is a rare occasion!\NI wanna do a countdown!
+Dialogue: 0,0:06:54.41,0:06:59.64,Default,,0000,0000,0000,,Is that your plan? That's good!\NThat's good! Sounds interesting!
+Dialogue: 0,0:06:59.64,0:07:01.98,Default,,0000,0000,0000,,The weather forecast is "typhoon"!
+Dialogue: 0,0:07:01.98,0:07:05.82,Default,,0000,0000,0000,,13 seconds until the attack!
+Dialogue: 0,0:07:07.25,0:07:10.22,Default,,0000,0000,0000,,Cyclone... Tempo!
+Dialogue: 0,0:07:10.22,0:07:15.86,Default,,0000,0000,0000,,H... Hey! Cyclone Tempo is just a\Nboomerang game for after parties.
+Dialogue: 0,0:07:15.86,0:07:18.03,Default,,0000,0000,0000,,Make for the clock tower!
+Dialogue: 0,0:07:32.14,0:07:35.15,Default,,0000,0000,0000,,What the heck...? They're coming up!
+Dialogue: 0,0:07:35.15,0:07:38.22,Default,,0000,0000,0000,,Chopper! Jump to where Sanji-kun is!
+Dialogue: 0,0:07:38.22,0:07:39.45,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:39.45,0:07:41.99,Default,,0000,0000,0000,,Don't tell me... Is she saying...
+Dialogue: 0,0:07:41.99,0:07:44.39,Default,,0000,0000,0000,,...the plan is to jump\Nall the way up like this?!
+Dialogue: 0,0:07:44.39,0:07:48.09,Default,,0000,0000,0000,,Sanji-kun! You know the rest, right?!\NWe don't have time!
+Dialogue: 0,0:07:48.09,0:07:50.30,Default,,0000,0000,0000,,I think I get the gist of it, but...
+Dialogue: 0,0:07:50.30,0:07:53.16,Default,,0000,0000,0000,,Oh, heck! I just have to do it!
+Dialogue: 0,0:07:53.16,0:07:56.47,Default,,0000,0000,0000,,Sounds like we don't have time to think!\NI'm counting on you, Tony-kun!
+Dialogue: 0,0:07:56.47,0:07:59.10,Default,,0000,0000,0000,,Okay! Hang on tight, Vivi!
+Dialogue: 0,0:08:00.87,0:08:03.14,Default,,0000,0000,0000,,I see... that's what we're doing.
+Dialogue: 0,0:08:03.14,0:08:05.28,Default,,0000,0000,0000,,Chopper! Get on my right leg!
+Dialogue: 0,0:08:05.28,0:08:07.18,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:08:07.18,0:08:09.18,Default,,0000,0000,0000,,11!
+Dialogue: 0,0:08:10.42,0:08:12.68,Default,,0000,0000,0000,,There! They're coming, Zoro!
+Dialogue: 0,0:08:12.68,0:08:14.59,Default,,0000,0000,0000,,Okay! Good job!
+Dialogue: 0,0:08:16.55,0:08:18.92,Default,,0000,0000,0000,,So all I have to do is throw them\Nto the top of that tower, right?!
+Dialogue: 0,0:08:18.92,0:08:20.33,Default,,0000,0000,0000,,10!
+Dialogue: 0,0:08:20.33,0:08:22.06,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:08:22.06,0:08:24.33,Default,,0000,0000,0000,,Okay! Leave it to me!
+Dialogue: 0,0:08:24.33,0:08:25.33,Default,,0000,0000,0000,,Swords?!
+Dialogue: 0,0:08:25.33,0:08:27.83,Default,,0000,0000,0000,,You dummy! Don't be scared!\NI'm using the back of the blade!
+Dialogue: 0,0:08:27.83,0:08:29.87,Default,,0000,0000,0000,,--Get a good foothold!\N--Ah, okay!
+Dialogue: 0,0:08:29.87,0:08:31.07,Default,,0000,0000,0000,,9!
+Dialogue: 0,0:08:31.07,0:08:33.47,Default,,0000,0000,0000,,Be careful, Vivi! There're weirdoes up there.
+Dialogue: 0,0:08:33.47,0:08:35.31,Default,,0000,0000,0000,,Yes. They're familiar faces.
+Dialogue: 0,0:08:35.31,0:08:36.61,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:08:36.61,0:08:38.78,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:08:38.78,0:08:40.35,Default,,0000,0000,0000,,Miss Wednesday!
+Dialogue: 0,0:08:40.35,0:08:45.68,Default,,0000,0000,0000,,Ribbit, ribbit, ribbit. I know that\Nshe's a traitor to our company!
+Dialogue: 0,0:08:45.68,0:08:47.49,Default,,0000,0000,0000,,They've noticed!
+Dialogue: 0,0:08:47.49,0:08:48.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:48.62,0:08:53.19,Default,,0000,0000,0000,,Wait a sec! We're in the air!\NIf they shoot at us...!
+Dialogue: 0,0:08:54.39,0:08:58.33,Default,,0000,0000,0000,,I'm certain that what you're\Nafter isn't in this country.
+Dialogue: 0,0:08:58.33,0:09:02.33,Default,,0000,0000,0000,,Isn't that right?! To achieve\Nsomeone else's goal...
+Dialogue: 0,0:09:02.33,0:09:05.00,Default,,0000,0000,0000,,What's the point in dying over that?!
+Dialogue: 0,0:09:05.00,0:09:10.17,Default,,0000,0000,0000,,If you ditch a friend or two,\Nyou can stay out of troubles.
+Dialogue: 0,0:09:10.17,0:09:13.21,Default,,0000,0000,0000,,You guys are total idiots.
+Dialogue: 0,0:09:15.45,0:09:19.65,Default,,0000,0000,0000,,That's why I said you don't understand.
+Dialogue: 0,0:09:19.65,0:09:21.25,Default,,0000,0000,0000,,Vivi...
+Dialogue: 0,0:09:24.06,0:09:26.99,Default,,0000,0000,0000,,She tells others not to die,
+Dialogue: 0,0:09:26.99,0:09:31.06,Default,,0000,0000,0000,,but she's the first to lay down\Nher own life to save others.
+Dialogue: 0,0:09:31.06,0:09:34.50,Default,,0000,0000,0000,,If we don't help her, she'll die.\NYou guys will kill her.
+Dialogue: 0,0:09:34.50,0:09:37.17,Default,,0000,0000,0000,,You're so dense.
+Dialogue: 0,0:09:37.17,0:09:41.94,Default,,0000,0000,0000,,That's why I'm telling you that\Nyou can just ditch that burden...!
+Dialogue: 0,0:09:41.94,0:09:47.48,Default,,0000,0000,0000,,We don't want her to die!\NThat's how friends are!
+Dialogue: 0,0:09:47.48,0:09:54.49,Default,,0000,0000,0000,,That's why we won't quit fighting as long\Nas she doesn't give up on her country!
+Dialogue: 0,0:09:56.42,0:09:59.59,Default,,0000,0000,0000,,Even if you guys end up dying?
+Dialogue: 0,0:09:59.59,0:10:03.33,Default,,0000,0000,0000,,If we die, we die.
+Dialogue: 0,0:10:03.33,0:10:07.53,Default,,0000,0000,0000,,Adjust! Ribbit-Ribbit Gun!\NThis is an unexpected catch!
+Dialogue: 0,0:10:07.53,0:10:10.97,Default,,0000,0000,0000,,Adjust! Yellow Gun!
+Dialogue: 0,0:10:10.97,0:10:14.21,Default,,0000,0000,0000,,This is good! This is good!\NThey're perfect prey!
+Dialogue: 0,0:10:14.21,0:10:18.08,Default,,0000,0000,0000,,You bastards! How dare you\Npoint guns at Vivi-chan?!
+Dialogue: 0,0:10:18.08,0:10:20.31,Default,,0000,0000,0000,,This is bad! They're a sniper pair!
+Dialogue: 0,0:10:20.31,0:10:22.71,Default,,0000,0000,0000,,Chopper! I'll shoot you guys up anyway!
+Dialogue: 0,0:10:22.71,0:10:25.45,Default,,0000,0000,0000,,I'll change the direction so\Nyou do something after that!
+Dialogue: 0,0:10:25.45,0:10:26.98,Default,,0000,0000,0000,,What?! Me?!
+Dialogue: 0,0:10:26.98,0:10:28.62,Default,,0000,0000,0000,,Seven seconds left!
+Dialogue: 0,0:10:28.62,0:10:31.29,Default,,0000,0000,0000,,Do something!
+Dialogue: 0,0:10:32.99,0:10:36.23,Default,,0000,0000,0000,,Ready?! I'm gonna\Nshoot you up! Chopper! Vivi!
+Dialogue: 0,0:10:36.23,0:10:38.40,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:38.40,0:10:41.23,Default,,0000,0000,0000,,--Ready...!\N--Smash!
+Dialogue: 0,0:10:41.23,0:10:42.63,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:10:42.63,0:10:46.37,Default,,0000,0000,0000,,Hey, listen. Our bullets are...
+Dialogue: 0,0:10:46.37,0:10:49.34,Default,,0000,0000,0000,,...planned to crash and explode.
+Dialogue: 0,0:10:52.61,0:10:54.28,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:10:57.98,0:11:00.85,Default,,0000,0000,0000,,That idiot! He took a direct hit...!
+Dialogue: 0,0:11:02.05,0:11:03.55,Default,,0000,0000,0000,,Ready, Vivi?!
+Dialogue: 0,0:11:03.55,0:11:06.49,Default,,0000,0000,0000,,With your all might, please, Tony-kun!
+Dialogue: 0,0:11:07.19,0:11:09.69,On Top,,0000,0000,0000,,"5 seconds until attack"
+Dialogue: 0,0:11:09.99,0:11:11.60,Default,,0000,0000,0000,,Ribbit, ribbit. It's no use...
+Dialogue: 0,0:11:11.60,0:11:12.80,Default,,0000,0000,0000,,...dodging!
+Dialogue: 0,0:11:12.80,0:11:14.93,Default,,0000,0000,0000,,Smash!
+Dialogue: 0,0:11:14.93,0:11:17.07,Default,,0000,0000,0000,,Who's that?!
+Dialogue: 0,0:11:17.07,0:11:18.57,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:18.47,0:11:21.07,On Top,,0000,0000,0000,,"4 seconds until attack"
+Dialogue: 0,0:11:24.78,0:11:26.51,Default,,0000,0000,0000,,Where's Miss Wednesday?!
+Dialogue: 0,0:11:26.51,0:11:28.98,Default,,0000,0000,0000,,What happened?!
+Dialogue: 0,0:11:30.55,0:11:34.22,Default,,0000,0000,0000,,Peacock... String...!
+Dialogue: 0,0:11:34.22,0:11:35.79,Default,,0000,0000,0000,,She's up there!
+Dialogue: 0,0:11:35.49,0:11:38.12,On Top,,0000,0000,0000,,"3 seconds until attack"
+Dialogue: 0,0:11:38.32,0:11:43.09,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:12:02.65,0:12:09.05,Default,,0000,0000,0000,,Even if you talk big,\Nyour body doesn't respond, huh?
+Dialogue: 0,0:12:09.05,0:12:12.16,Default,,0000,0000,0000,,You look pathetic, Straw Hat.
+Dialogue: 0,0:12:15.63,0:12:17.40,Default,,0000,0000,0000,,Slasher!
+Dialogue: 0,0:12:22.27,0:12:24.20,Default,,0000,0000,0000,,Ribbit, ribbit! Sorry!
+Dialogue: 0,0:12:24.20,0:12:26.00,Default,,0000,0000,0000,,You missed!
+Dialogue: 0,0:12:28.71,0:12:30.78,On Top,,0000,0000,0000,,"2 seconds until attack"
+Dialogue: 0,0:12:30.94,0:12:33.21,Default,,0000,0000,0000,,Run Back!
+Dialogue: 0,0:12:36.31,0:12:37.95,Default,,0000,0000,0000,,All right!!
+Dialogue: 0,0:12:44.46,0:12:46.86,On Top,,0000,0000,0000,,"1 second until attack"
+Dialogue: 0,0:13:00.67,0:13:03.04,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:13:03.04,0:13:05.54,Default,,0000,0000,0000,,Hey, you brats!
+Dialogue: 0,0:13:05.54,0:13:07.45,Default,,0000,0000,0000,,You came in from the\Nshortcut again, didn't you?!
+Dialogue: 0,0:13:07.45,0:13:08.55,Default,,0000,0000,0000,,Ahh! It's the gatekeeper!
+Dialogue: 0,0:13:08.55,0:13:10.38,Default,,0000,0000,0000,,--Ahhh!\N--Run!
+Dialogue: 0,0:13:10.38,0:13:14.79,Default,,0000,0000,0000,,Chaka-sama. Pell-sama.\NPlease say something to those brats.
+Dialogue: 0,0:13:14.79,0:13:16.29,Default,,0000,0000,0000,,Hm...?
+Dialogue: 0,0:13:16.29,0:13:18.26,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:13:18.26,0:13:20.89,Default,,0000,0000,0000,,Vivi-sama. Going out?
+Dialogue: 0,0:13:20.89,0:13:22.66,Default,,0000,0000,0000,,Yep! To our secret base!
+Dialogue: 0,0:13:22.66,0:13:25.10,Default,,0000,0000,0000,,Okay. Have fun.
+Dialogue: 0,0:13:27.27,0:13:29.07,Default,,0000,0000,0000,,Where did Vivi-sama go?
+Dialogue: 0,0:13:29.07,0:13:33.24,Default,,0000,0000,0000,,Hm? I can't tell you. It's a secret.
+Dialogue: 0,0:13:35.67,0:13:37.51,Default,,0000,0000,0000,,The clock tower, huh?
+Dialogue: 0,0:14:08.11,0:14:10.44,Default,,0000,0000,0000,,Was it stopped...?
+Dialogue: 0,0:14:47.11,0:14:50.21,Default,,0000,0000,0000,,Oh... You're alive...
+Dialogue: 0,0:14:50.21,0:14:52.82,Default,,0000,0000,0000,,Wh... What happened to the attack?
+Dialogue: 0,0:14:52.82,0:14:54.05,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:14:54.05,0:14:57.22,Default,,0000,0000,0000,,--What fell on me?\N--Ouch!
+Dialogue: 0,0:15:06.96,0:15:08.43,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:15:08.43,0:15:10.53,Default,,0000,0000,0000,,They say something's wrong up there.
+Dialogue: 0,0:15:10.53,0:15:13.24,Default,,0000,0000,0000,,Vivi isn't showing her face...
+Dialogue: 0,0:15:15.54,0:15:17.38,Default,,0000,0000,0000,,There's a problem! Everyone!
+Dialogue: 0,0:15:17.38,0:15:18.81,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:15:18.81,0:15:22.81,Default,,0000,0000,0000,,The cannonball has a timing device!\NIf we don't do something, it'll explode!
+Dialogue: 0,0:15:23.91,0:15:26.88,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:28.85,0:15:31.52,Default,,0000,0000,0000,,How despicable!
+Dialogue: 0,0:15:33.76,0:15:39.60,Default,,0000,0000,0000,,I'd like you to at least say I was\Nthoroughly prepared, Mr. Cobra.
+Dialogue: 0,0:15:39.60,0:15:44.20,Default,,0000,0000,0000,,Operations should be carried out\Nconsidering unforeseen circumstances.
+Dialogue: 0,0:15:45.90,0:15:49.14,Default,,0000,0000,0000,,Even if something happens to the cannoneer,
+Dialogue: 0,0:15:49.14,0:15:52.24,Default,,0000,0000,0000,,the cannonball will explode on its own.
+Dialogue: 0,0:15:52.24,0:15:56.78,Default,,0000,0000,0000,,Well, the time lag is just a few dozen seconds.
+Dialogue: 0,0:15:56.78,0:16:00.55,Default,,0000,0000,0000,,I wanted it to be shot into\Nthe center of the Square...
+Dialogue: 0,0:16:00.55,0:16:05.46,Default,,0000,0000,0000,,...but it should still do more than\Nenough damage from there.
+Dialogue: 0,0:16:11.93,0:16:18.84,Default,,0000,0000,0000,,If we do this, the rebellion will stop.\NIf we do that, the rebellion will stop.
+Dialogue: 0,0:16:20.00,0:16:24.51,Default,,0000,0000,0000,,I can't stand how annoying\Nyour idealistic theory is.
+Dialogue: 0,0:16:29.01,0:16:31.32,Default,,0000,0000,0000,,Let me tell you something...
+Dialogue: 0,0:16:36.59,0:16:39.92,Default,,0000,0000,0000,,You can't save this country.
+Dialogue: 0,0:16:42.96,0:16:47.90,Default,,0000,0000,0000,,Dammit! What the hell...! The attack\Nwas stopped, but the cannonball...
+Dialogue: 0,0:16:47.90,0:16:50.03,Default,,0000,0000,0000,,...has a timing device?!
+Dialogue: 0,0:16:50.03,0:16:53.40,Default,,0000,0000,0000,,If it has power to destroy a 5 km diameter,
+Dialogue: 0,0:16:53.40,0:16:56.37,Default,,0000,0000,0000,,the Square and the town\Nwon't survive after all!
+Dialogue: 0,0:16:58.24,0:17:00.95,Default,,0000,0000,0000,,What's gonna happen?!
+Dialogue: 0,0:17:00.95,0:17:03.15,Default,,0000,0000,0000,,Does this mean that it was\Nimpossible from the start
+Dialogue: 0,0:17:03.15,0:17:05.98,Default,,0000,0000,0000,,to stop the explosion in the Square?
+Dialogue: 0,0:17:08.09,0:17:11.12,Default,,0000,0000,0000,,He made us come this far to look for it...!
+Dialogue: 0,0:17:11.12,0:17:13.79,Default,,0000,0000,0000,,He even announced the attack...!
+Dialogue: 0,0:17:13.79,0:17:15.83,Default,,0000,0000,0000,,Just how far...
+Dialogue: 0,0:17:19.73,0:17:25.60,Default,,0000,0000,0000,,...does he have to go to make fools of us?!
+Dialogue: 0,0:17:25.60,0:17:30.17,Default,,0000,0000,0000,,Just how much does he have to mock us?!
+Dialogue: 0,0:17:32.61,0:17:36.08,Default,,0000,0000,0000,,Crocodile!!
+Dialogue: 0,0:17:46.76,0:17:48.19,Default,,0000,0000,0000,,That was...
+Dialogue: 0,0:17:48.19,0:17:50.19,Default,,0000,0000,0000,,That bird guy...
+Dialogue: 0,0:17:55.13,0:17:57.13,Default,,0000,0000,0000,,Pell!
+Dialogue: 0,0:17:57.13,0:18:02.07,Default,,0000,0000,0000,,This place brings back memories...\NThe Sand Sand Clan's secret base...
+Dialogue: 0,0:18:02.07,0:18:04.94,Default,,0000,0000,0000,,--Pell, listen! The cannonball\Nhas a timing device\N--Your unprecedented actions really gave us
+Dialogue: 0,0:18:04.94,0:18:07.95,Default,,0000,0000,0000,,--and is ready to explode at any moment!\N--Your unprecedented actions really gave us
+Dialogue: 0,0:18:07.95,0:18:11.25,Default,,0000,0000,0000,,lots of trouble all the time.
+Dialogue: 0,0:18:11.25,0:18:14.49,Default,,0000,0000,0000,,It's Vivi-sama! What on earth is she\Ndoing in the ammunition bunker?!
+Dialogue: 0,0:18:16.32,0:18:19.82,Default,,0000,0000,0000,,Hey, what happened?!\NWhat was that explosion noise?!
+Dialogue: 0,0:18:22.29,0:18:27.23,Default,,0000,0000,0000,,After we've told you so many times\Nnot to go near the ammunition bunker...
+Dialogue: 0,0:18:27.23,0:18:29.10,Default,,0000,0000,0000,,Ah, Pell!
+Dialogue: 0,0:18:29.10,0:18:30.67,Default,,0000,0000,0000,,Pell-sama!
+Dialogue: 0,0:18:31.87,0:18:35.24,Default,,0000,0000,0000,,I wanted to make fireworks,\Nbut it didn't work.
+Dialogue: 0,0:18:35.24,0:18:38.94,Default,,0000,0000,0000,,You see, it's the anniversary of the\Nday that you joined the army, so...
+Dialogue: 0,0:18:42.78,0:18:44.11,Default,,0000,0000,0000,,What're you doing to the princess?!
+Dialogue: 0,0:18:44.11,0:18:46.78,Default,,0000,0000,0000,,How many times do I have to tell you...
+Dialogue: 0,0:18:46.78,0:18:49.35,Default,,0000,0000,0000,,...not to come near this place?!
+Dialogue: 0,0:18:50.45,0:18:54.02,Default,,0000,0000,0000,,You! Do you know what you just did?!
+Dialogue: 0,0:18:54.02,0:18:56.09,Default,,0000,0000,0000,,I'm gonna fire you! How dare you...?
+Dialogue: 0,0:18:56.09,0:18:58.56,Default,,0000,0000,0000,,Wait, Igaram!
+Dialogue: 0,0:18:58.56,0:19:00.60,Default,,0000,0000,0000,,It's okay...
+Dialogue: 0,0:19:03.17,0:19:09.07,Default,,0000,0000,0000,,What if you weren't just... injured...?
+Dialogue: 0,0:19:15.11,0:19:20.15,Default,,0000,0000,0000,,More...! Higher! I said higher!
+Dialogue: 0,0:19:20.15,0:19:24.56,Default,,0000,0000,0000,,Vivi-sama! Please never tell\Nthe king about this, okay?
+Dialogue: 0,0:19:27.36,0:19:32.56,Default,,0000,0000,0000,,Because he sternly told me\Nnot to fly with you riding on me!
+Dialogue: 0,0:19:32.56,0:19:34.57,Default,,0000,0000,0000,,If you don't want to, that's fine.\NI won't forgive you about today
+Dialogue: 0,0:19:34.57,0:19:36.77,Default,,0000,0000,0000,,for the rest of my life.
+Dialogue: 0,0:19:38.20,0:19:42.14,Default,,0000,0000,0000,,You're the one who said\Nyou'd do whatever I tell you to.
+Dialogue: 0,0:19:48.41,0:19:50.18,Default,,0000,0000,0000,,--Say, Pell...\N--Yes?
+Dialogue: 0,0:19:50.18,0:19:52.82,Default,,0000,0000,0000,,Why do you train for battle every day?
+Dialogue: 0,0:19:52.82,0:19:55.92,Default,,0000,0000,0000,,Because I'm a guard. I do it\Nin order to protect this country.
+Dialogue: 0,0:19:55.92,0:19:58.32,Default,,0000,0000,0000,,I have to be strong.
+Dialogue: 0,0:19:58.32,0:20:00.06,Default,,0000,0000,0000,,Who will you be fighting?
+Dialogue: 0,0:20:00.06,0:20:02.63,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:20:02.63,0:20:06.40,Default,,0000,0000,0000,,Rather than fight, I'll protect...
+Dialogue: 0,0:20:06.40,0:20:08.47,Default,,0000,0000,0000,,They're different?
+Dialogue: 0,0:20:08.47,0:20:10.57,Default,,0000,0000,0000,,They have different purposes.
+Dialogue: 0,0:20:10.57,0:20:14.74,Default,,0000,0000,0000,,Hmm... That's strange...
+Dialogue: 0,0:20:18.81,0:20:24.01,Default,,0000,0000,0000,,I feel proud from the bottom\Nof my heart that I was able
+Dialogue: 0,0:20:24.01,0:20:26.95,Default,,0000,0000,0000,,to serve you, the Nefertari Family.
+Dialogue: 0,0:21:08.36,0:21:11.93,Default,,0000,0000,0000,,I am Alabasta's guardian deity...
+Dialogue: 0,0:21:19.67,0:21:21.41,Default,,0000,0000,0000,,Falcon!
+Dialogue: 0,0:21:46.53,0:21:50.80,Default,,0000,0000,0000,,The one who destroys\Nthe royal family's enemies!
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.51,0:23:12.58,Default,,0000,0000,0000,,Please shed no more blood!!
+Dialogue: 0,0:23:12.58,0:23:15.55,Default,,0000,0000,0000,,--Why aren't they stopping?!\N--Please stop fighting!!
+Dialogue: 0,0:23:15.55,0:23:18.92,Default,,0000,0000,0000,,Where is this brat getting\Nall that strength from...?
+Dialogue: 0,0:23:18.92,0:23:21.53,Default,,0000,0000,0000,,Who the hell do you think I am?!
+Dialogue: 0,0:23:21.53,0:23:26.03,Default,,0000,0000,0000,,I don't care who you are. I'll surpass you!
+Dialogue: 0,0:23:26.03,0:23:27.43,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.43,0:23:30.30,Default,,0000,0000,0000,,"I Will Surpass You! Rain Falls In Alabasta!"
+Dialogue: 0,0:23:30.30,0:23:32.64,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.64,0:23:37.14,Default,,0000,0000,0000,,

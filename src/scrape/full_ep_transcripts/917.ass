@@ -1,0 +1,310 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.42,0:00:15.55,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.42,0:00:15.55,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,Default,,0000,0000,0000,,{\i1}If you want to make it \Ncome true, Over The Top{\i0}
+Dialogue: 0,0:00:25.60,0:00:28.15,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:36.41,0:00:40.04,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:36.41,0:00:40.04,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa \Nichibannori shitain da{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,Default,,0000,0000,0000,,{\i1}I have to keep going because \NI want to get there first{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi \Ndouse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,Default,,0000,0000,0000,,{\i1}Worry later since it's \Nall sink or swim anyway{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,Default,,0000,0000,0000,,{\i1}When things become tough, \Nthat's when you should laugh{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.21,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.21,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:25.25,0:01:30.54,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:25.25,0:01:30.54,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,Default,,0000,0000,0000,,{\i1}It's brighter and the \Nlevel of difficulty rises{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:13.56,0:02:18.11,Default,,0000,0000,0000,,{\i1}Luffy goes down before the overwhelmingly \Npowerful Emperor of the Sea, Kaido.{\i0}
+Dialogue: 0,0:02:25.03,0:02:26.41,Default,,0000,0000,0000,,Lock him up!
+Dialogue: 0,0:02:26.57,0:02:28.16,Default,,0000,0000,0000,,Oh, y-yes, sir!
+Dialogue: 0,0:02:28.57,0:02:32.00,Default,,0000,0000,0000,,Once his spirit gets broken,\Nwe can make him fight for us!
+Dialogue: 0,0:02:33.83,0:02:35.62,Default,,0000,0000,0000,,Okiku!
+Dialogue: 0,0:02:36.00,0:02:38.01,Default,,0000,0000,0000,,You are all safe!
+Dialogue: 0,0:02:39.29,0:02:42.01,Default,,0000,0000,0000,,Anyway, the situation is...
+Dialogue: 0,0:02:42.17,0:02:43.09,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:02:43.47,0:02:45.13,Default,,0000,0000,0000,,What happened to Luffy?!
+Dialogue: 0,0:02:45.30,0:02:48.30,Default,,0000,0000,0000,,He looked like he wanted to\Npick a fight with Kaido!
+Dialogue: 0,0:02:51.10,0:02:52.97,Default,,0000,0000,0000,,Prepare yourselves and listen...
+Dialogue: 0,0:02:53.14,0:02:55.35,Default,,0000,0000,0000,,Special report! Special report!
+Dialogue: 0,0:02:55.39,0:02:59.56,Default,,0000,0000,0000,,Special report! Special report!
+Dialogue: 0,0:02:59.73,0:03:01.90,Default,,0000,0000,0000,,Oh! Luffy!
+Dialogue: 0,0:03:02.07,0:03:03.44,Default,,0000,0000,0000,,Oh, Luffy!
+Dialogue: 0,0:03:04.15,0:03:04.82,Default,,0000,0000,0000,,Lu...
+Dialogue: 0,0:03:05.07,0:03:06.78,On Top,,0000,0000,0000,,WANTED FLYER - LUFFYTARO
+Dialogue: 0,0:03:13.04,0:03:15.51,Default,,0000,0000,0000,,What are you doing, Luffy?!
+Dialogue: 0,0:03:20.92,0:03:23.51,Default,,0000,0000,0000,,Alright, stay in here!
+Dialogue: 0,0:03:28.84,0:03:30.47,Default,,0000,0000,0000,,I'll get even with you...
+Dialogue: 0,0:03:30.76,0:03:32.51,Default,,0000,0000,0000,,Kaido...
+Dialogue: 0,0:03:46.03,0:03:51.58,Default,,0000,0000,0000,,{\i1}"The Holyland in Tumult!\NEmperor of the Sea Blackbeard Cackles!"{\i0}
+Dialogue: 0,0:04:07.76,0:04:13.37,Default,,0000,0000,0000,,{\i1}This is Gloom Island in the Grand Line,\Nthe ruins of Muggy Kingdom.{\i0}
+Dialogue: 0,0:04:14.06,0:04:19.10,Default,,0000,0000,0000,,{\i1}Roronoa Zoro of the Straw Hats\Nonce trained himself here.{\i0}
+Dialogue: 0,0:04:19.48,0:04:22.23,Default,,0000,0000,0000,,Train me as a swordsman!
+Dialogue: 0,0:04:22.86,0:04:26.07,Default,,0000,0000,0000,,What are you doing?\NThat's just embarrassing.
+Dialogue: 0,0:04:26.90,0:04:28.95,Default,,0000,0000,0000,,I wanna get stronger!
+Dialogue: 0,0:04:29.24,0:04:30.56,Default,,0000,0000,0000,,I don't understand.
+Dialogue: 0,0:04:31.11,0:04:33.94,Default,,0000,0000,0000,,You still see me as an enemy.
+Dialogue: 0,0:04:33.94,0:04:36.96,Default,,0000,0000,0000,,Then why are you bowing to me \Nand asking for my guidance?
+Dialogue: 0,0:04:38.04,0:04:39.28,Default,,0000,0000,0000,,What's the purpose?
+Dialogue: 0,0:04:41.00,0:04:43.00,Default,,0000,0000,0000,,I wanna beat you!
+Dialogue: 0,0:04:49.09,0:04:53.18,Default,,0000,0000,0000,,{\i1}In the old castle near the \Nlake of this fallen country,{\i0}
+Dialogue: 0,0:04:53.22,0:04:55.64,Default,,0000,0000,0000,,{\i1}that certain man still lives.{\i0}
+Dialogue: 0,0:05:00.44,0:05:02.39,Default,,0000,0000,0000,,{\i1}He is a member of the
+Dialogue: 0,0:05:00.44,0:05:04.52,On Top,,0000,0000,0000,,A WARLORD OF THE SEA\NSTRONGEST SWORDSMAN IN THE WORLD
+Dialogue: 0,0:05:02.39,0:05:06.16,Italics,,0000,0000,0000,,Seven Warlords of the Sea and is said to \Nbe the strongest swordsman in the world.{\i0}
+Dialogue: 0,0:05:06.16,0:05:08.17,Default,,0000,0000,0000,,{\i1}His name is Dracule Mihawk.{\i0}
+Dialogue: 0,0:05:08.23,0:05:11.53,On Top,,0000,0000,0000,,DRACULE MIHAWK
+Dialogue: 0,0:05:15.37,0:05:20.30,Default,,0000,0000,0000,,{\i1}A woman crashed into his residence\Ntwo years ago.{\i0}
+Dialogue: 0,0:05:21.58,0:05:23.53,Default,,0000,0000,0000,,{\i1}A member of the Thriller Bark Pirates.{\i0}
+Dialogue: 0,0:05:25.46,0:05:30.55,On Top,,0000,0000,0000,,GHOST PRINCESS PERONA
+Dialogue: 0,0:05:26.96,0:05:30.17,Default,,0000,0000,0000,,{\i1}Ghost Princess Perona.{\i0}
+Dialogue: 0,0:05:35.59,0:05:36.85,Default,,0000,0000,0000,,It's ready!
+Dialogue: 0,0:05:44.30,0:05:45.40,Default,,0000,0000,0000,,Do you want it?
+Dialogue: 0,0:05:45.94,0:05:46.69,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:05:46.86,0:05:49.57,Default,,0000,0000,0000,,What?! You're so annoying!
+Dialogue: 0,0:05:49.90,0:05:52.82,Default,,0000,0000,0000,,--Get rid of these ghosts.\N--Hmph! No way!
+Dialogue: 0,0:05:52.99,0:05:56.83,Default,,0000,0000,0000,,I took the trouble to cook it!\NI'll eat it all myself!
+Dialogue: 0,0:06:00.08,0:06:01.96,Default,,0000,0000,0000,,Today's newspaper?
+Dialogue: 0,0:06:04.75,0:06:07.02,Default,,0000,0000,0000,,Moria-{\i1}sama{\i0}...
+Dialogue: 0,0:06:18.76,0:06:21.35,Default,,0000,0000,0000,,He's... alive...
+Dialogue: 0,0:06:24.60,0:06:29.01,Default,,0000,0000,0000,,"Gecko Moria and his zombie \Narmy made a raid"...
+Dialogue: 0,0:06:30.32,0:06:32.28,Default,,0000,0000,0000,,He's alive!
+Dialogue: 0,0:06:32.32,0:06:36.07,Default,,0000,0000,0000,,Moria-{\i1}sama{\i0} is alive! He is!
+Dialogue: 0,0:06:36.53,0:06:41.75,Default,,0000,0000,0000,,Look at this! It's so great!\NMoria-{\i1}sama{\i0} is alive!
+Dialogue: 0,0:06:43.71,0:06:45.79,Default,,0000,0000,0000,,Yeah, I read it this morning.
+Dialogue: 0,0:06:46.17,0:06:50.84,Default,,0000,0000,0000,,Why didn't you tell me, you fool?!\NIt's very important to me!
+Dialogue: 0,0:06:51.00,0:06:51.80,Default,,0000,0000,0000,,I don't care...
+Dialogue: 0,0:06:51.96,0:06:54.67,Default,,0000,0000,0000,,You should! He's my captain!
+Dialogue: 0,0:06:55.34,0:06:59.10,Default,,0000,0000,0000,,I thought he died in the \NParamount War two years ago!
+Dialogue: 0,0:06:59.22,0:07:00.77,Default,,0000,0000,0000,,I'm really glad!
+Dialogue: 0,0:07:02.14,0:07:03.73,Default,,0000,0000,0000,,If Moria-{\i1}sama{\i0} is alive,
+Dialogue: 0,0:07:03.77,0:07:08.07,Default,,0000,0000,0000,,maybe both Absalom and Hogback\Nare with him!
+Dialogue: 0,0:07:09.02,0:07:12.36,Default,,0000,0000,0000,,I wanna see him! Let's get going!
+Dialogue: 0,0:07:20.62,0:07:22.41,Default,,0000,0000,0000,,{\i1}Oh, yeah...{\i0}
+Dialogue: 0,0:07:23.12,0:07:26.31,Default,,0000,0000,0000,,{\i1}He let me stay here for quite a long time.{\i0}
+Dialogue: 0,0:07:29.33,0:07:32.84,Default,,0000,0000,0000,,{\i1}While I was facing the Straw \NHats in Thriller Bark,{\i0}
+Dialogue: 0,0:07:32.88,0:07:35.97,Default,,0000,0000,0000,,{\i1}I was suddenly sent flying here\Nby Bartholomew Kuma.{\i0}
+Dialogue: 0,0:07:36.56,0:07:38.51,Default,,0000,0000,0000,,{\i1}It's already been more than two years.{\i0}
+Dialogue: 0,0:07:39.72,0:07:44.72,Default,,0000,0000,0000,,Moria is a persistent guy.\NJust like the zombies he manipulates.
+Dialogue: 0,0:07:45.18,0:07:47.69,Default,,0000,0000,0000,,Huh? Did you speak ill of Moria-{\i1}sama{\i0}?!
+Dialogue: 0,0:07:47.81,0:07:49.27,Default,,0000,0000,0000,,You thankless jerk!
+Dialogue: 0,0:07:50.36,0:07:51.65,Default,,0000,0000,0000,,I owe him nothing.
+Dialogue: 0,0:07:51.89,0:07:53.45,Default,,0000,0000,0000,,You owe me!
+Dialogue: 0,0:07:53.90,0:07:56.78,Default,,0000,0000,0000,,How many times do you \Nthink I cooked for you?!
+Dialogue: 0,0:07:57.70,0:07:59.79,Default,,0000,0000,0000,,I cooked more than you.
+Dialogue: 0,0:07:59.79,0:08:02.24,Default,,0000,0000,0000,,I helped you with farming, too!
+Dialogue: 0,0:08:02.70,0:08:04.54,Default,,0000,0000,0000,,I let you stay here.
+Dialogue: 0,0:08:06.45,0:08:08.46,Default,,0000,0000,0000,,You're really annoying!
+Dialogue: 0,0:08:08.66,0:08:09.46,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:08:18.22,0:08:19.01,Default,,0000,0000,0000,,I'm leaving!
+Dialogue: 0,0:08:19.72,0:08:20.68,Default,,0000,0000,0000,,Do whatever you like.
+Dialogue: 0,0:08:22.56,0:08:25.10,Default,,0000,0000,0000,,There are no hard feelings so that's good.
+Dialogue: 0,0:08:30.56,0:08:32.15,Default,,0000,0000,0000,,Be careful on your way.
+Dialogue: 0,0:08:46.79,0:08:48.21,Default,,0000,0000,0000,,Too kind!
+Dialogue: 0,0:08:48.21,0:08:52.46,Default,,0000,0000,0000,,Damn you! Don't say a nice thing\Nall of a sudden!
+Dialogue: 0,0:09:00.84,0:09:03.80,Default,,0000,0000,0000,,Thank you for everything!
+Dialogue: 0,0:09:05.97,0:09:07.93,Default,,0000,0000,0000,,You're such a noisy woman.
+Dialogue: 0,0:09:08.47,0:09:09.23,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:09:10.89,0:09:14.69,Default,,0000,0000,0000,,...it's perhaps a good \Ndecision to leave here now.
+Dialogue: 0,0:09:15.11,0:09:15.94,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:19.36,0:09:22.45,Default,,0000,0000,0000,,In the Reverie that's still \Nin session at Marijoa,
+Dialogue: 0,0:09:24.20,0:09:26.55,Default,,0000,0000,0000,,a strange topic was brought up.
+Dialogue: 0,0:09:52.14,0:09:56.07,Default,,0000,0000,0000,,{\i1}Meanwhile, this is the \NPirate Island of Fullalead.{\i0}
+Dialogue: 0,0:09:56.07,0:09:59.32,Default,,0000,0000,0000,,{\i1}It's a paradise for pirates.{\i0}
+Dialogue: 0,0:11:07.85,0:11:09.72,Default,,0000,0000,0000,,Charge!
+Dialogue: 0,0:11:32.79,0:11:35.75,Default,,0000,0000,0000,,Where's Absalom?!
+Dialogue: 0,0:11:35.92,0:11:39.08,Default,,0000,0000,0000,,Where did you hide him?!
+Dialogue: 0,0:11:45.47,0:11:47.43,OS,,0000,0000,0000,,CAPTAIN OF THE THRILLER BARK PIRATES\N(A FORMER WARLORD OF THE SEA)
+Dialogue: 0,0:11:47.47,0:11:50.26,OS,,0000,0000,0000,,CAPTAIN OF THE THRILLER BARK PIRATES\N(A FORMER WARLORD OF THE SEA)\NBOUNTY: 320 MILLION BERRIES
+Dialogue: 0,0:11:50.85,0:11:55.89,On Top,,0000,0000,0000,,GECKO MORIA
+Dialogue: 0,0:12:00.98,0:12:03.11,Default,,0000,0000,0000,,Why can't I kill them?!
+Dialogue: 0,0:12:09.20,0:12:12.04,Default,,0000,0000,0000,,Where's Absalom?!
+Dialogue: 0,0:12:12.04,0:12:13.62,Default,,0000,0000,0000,,I don't know!
+Dialogue: 0,0:12:14.95,0:12:17.46,Default,,0000,0000,0000,,You underlings don't know a damn thing!
+Dialogue: 0,0:12:19.67,0:12:21.34,Default,,0000,0000,0000,,Where's Blackbeard?!
+Dialogue: 0,0:12:21.34,0:12:25.18,Default,,0000,0000,0000,,Where's Teach?! Bring him out!
+Dialogue: 0,0:12:25.55,0:12:27.04,Default,,0000,0000,0000,,Don't mess with us!
+Dialogue: 0,0:12:28.34,0:12:31.02,Default,,0000,0000,0000,,Didn't you hear what I said?!
+Dialogue: 0,0:12:31.02,0:12:33.93,Default,,0000,0000,0000,,I said, "Bring Teach out"!
+Dialogue: 0,0:12:34.51,0:12:37.64,Default,,0000,0000,0000,,{\i1}Teach! Where are you?!{\i0}
+Dialogue: 0,0:12:39.35,0:12:40.49,Default,,0000,0000,0000,,{\i1}Teach!{\i0}
+Dialogue: 0,0:12:41.36,0:12:44.24,Default,,0000,0000,0000,,{\i1}Teach! I know it's you!{\i0}
+Dialogue: 0,0:12:44.24,0:12:49.32,Default,,0000,0000,0000,,{\i1}Where did you hide Absalom?!{\i0}
+Dialogue: 0,0:13:02.00,0:13:05.42,Default,,0000,0000,0000,,Here he comes... Moria.
+Dialogue: 0,0:13:25.28,0:13:27.66,Default,,0000,0000,0000,,Where's Teach?!
+Dialogue: 0,0:13:27.95,0:13:28.74,Default,,0000,0000,0000,,Tell me!
+Dialogue: 0,0:13:29.35,0:13:30.78,Default,,0000,0000,0000,,We won't tell you!
+Dialogue: 0,0:13:31.91,0:13:33.70,Default,,0000,0000,0000,,Brick Bat!
+Dialogue: 0,0:13:43.29,0:13:44.75,Default,,0000,0000,0000,,Now...!
+Dialogue: 0,0:13:46.71,0:13:51.06,Default,,0000,0000,0000,,If you don't wanna die,\Ntell me where he is already!
+Dialogue: 0,0:14:01.68,0:14:03.14,Default,,0000,0000,0000,,Is he there?
+Dialogue: 0,0:14:03.90,0:14:07.74,Default,,0000,0000,0000,,Come out!\NI'll drag you down from there!
+Dialogue: 0,0:14:08.03,0:14:09.67,Default,,0000,0000,0000,,Blackbeard!
+Dialogue: 0,0:14:09.67,0:14:12.49,Default,,0000,0000,0000,,It's noisy-{\i1}meow{\i0}.
+Dialogue: 0,0:14:14.66,0:14:16.87,Default,,0000,0000,0000,,It's Gecko Moria, Pizarro-{\i1}sama{\i0}!
+Dialogue: 0,0:14:17.28,0:14:19.55,Default,,0000,0000,0000,,The former Warlord of the Sea!
+Dialogue: 0,0:14:19.55,0:14:22.77,Default,,0000,0000,0000,,Oh, why did you let him in?
+Dialogue: 0,0:14:22.77,0:14:26.88,Default,,0000,0000,0000,,H-He broke in! With his zombie army!
+Dialogue: 0,0:14:26.88,0:14:28.75,Default,,0000,0000,0000,,The port is fully destroyed!
+Dialogue: 0,0:14:29.13,0:14:31.55,Default,,0000,0000,0000,,What does he want?
+Dialogue: 0,0:14:29.67,0:14:31.80,OS,,0000,0000,0000,,CAPTAIN OF THE 4TH SHIP \NOF THE BLACKBEARD PIRATES
+Dialogue: 0,0:14:31.84,0:14:35.72,OS,,0000,0000,0000,,CAPTAIN OF THE 4TH SHIP OF THE BLACKBEARD PIRATES\N"CORRUPT KING" AVALO PIZARRO
+Dialogue: 0,0:14:36.30,0:14:38.31,Default,,0000,0000,0000,,He wants to see Commodore Teach!
+Dialogue: 0,0:14:38.31,0:14:43.45,Default,,0000,0000,0000,,Seems like he's looking for the invisible man, Absalom,\Nwho came here the other day!
+Dialogue: 0,0:14:48.31,0:14:49.69,Default,,0000,0000,0000,,Oh, him!
+Dialogue: 0,0:14:50.15,0:14:52.74,Default,,0000,0000,0000,,If you're not coming out,
+Dialogue: 0,0:14:52.74,0:14:55.97,Default,,0000,0000,0000,,I'm gonna break in!
+Dialogue: 0,0:14:56.55,0:14:59.22,Default,,0000,0000,0000,,Moria-{\i1}sama{\i0}!
+Dialogue: 0,0:15:00.30,0:15:03.39,Default,,0000,0000,0000,,I'm here!
+Dialogue: 0,0:15:04.08,0:15:06.21,Default,,0000,0000,0000,,Is that Absalom?!
+Dialogue: 0,0:15:06.21,0:15:09.77,Default,,0000,0000,0000,,Boss! It's me!
+Dialogue: 0,0:15:10.08,0:15:13.30,Default,,0000,0000,0000,,Thank goodness! You're alive!
+Dialogue: 0,0:15:14.24,0:15:16.94,Default,,0000,0000,0000,,I'm good as new!
+Dialogue: 0,0:15:16.94,0:15:22.35,Default,,0000,0000,0000,,After we went separate ways,\Nwe didn't hear from you at all,
+Dialogue: 0,0:15:22.35,0:15:24.95,Default,,0000,0000,0000,,so we were worried about you!
+Dialogue: 0,0:15:25.38,0:15:30.07,Default,,0000,0000,0000,,I'm sorry, Boss! This island is a paradise!
+Dialogue: 0,0:15:30.07,0:15:35.19,Default,,0000,0000,0000,,Because I was having so much fun,\NI forgot to keep in touch!
+Dialogue: 0,0:15:39.12,0:15:42.54,Default,,0000,0000,0000,,Well if that's the reason, then that's okay!
+Dialogue: 0,0:15:42.87,0:15:43.79,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:15:44.33,0:15:47.25,Default,,0000,0000,0000,,I shouldn't have done that to them.
+Dialogue: 0,0:15:48.00,0:15:50.93,Default,,0000,0000,0000,,Zombies, that's enough!
+Dialogue: 0,0:15:50.93,0:15:52.63,Default,,0000,0000,0000,,Go back to the ship!
+Dialogue: 0,0:15:58.01,0:16:03.35,Default,,0000,0000,0000,,The Blackbeard Pirates are known for\Nhunting power-users!
+Dialogue: 0,0:16:04.60,0:16:06.10,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:06.43,0:16:13.94,Default,,0000,0000,0000,,Your Clear-Clear Fruit power that\Nenables you to become invisible.
+Dialogue: 0,0:16:15.40,0:16:18.26,Default,,0000,0000,0000,,So many people desire that.
+Dialogue: 0,0:16:18.26,0:16:20.74,Default,,0000,0000,0000,,I know that, too...
+Dialogue: 0,0:16:21.41,0:16:23.33,Default,,0000,0000,0000,,...very well...
+Dialogue: 0,0:16:27.71,0:16:28.66,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:16:34.22,0:16:37.10,Default,,0000,0000,0000,,Ouch! Damn!
+Dialogue: 0,0:16:37.10,0:16:38.76,Default,,0000,0000,0000,,Who is it?!
+Dialogue: 0,0:16:39.34,0:16:41.26,Default,,0000,0000,0000,,Where are you?!
+Dialogue: 0,0:16:54.86,0:16:56.98,Default,,0000,0000,0000,,Do you know who I am?
+Dialogue: 0,0:16:58.03,0:17:01.16,Default,,0000,0000,0000,,Shiryu... of the Rain!
+Dialogue: 0,0:17:02.32,0:17:06.12,Default,,0000,0000,0000,,You worked at Impel Down\Nbut defected to Teach!
+Dialogue: 0,0:17:07.29,0:17:09.19,Default,,0000,0000,0000,,That's sort of right.
+Dialogue: 0,0:17:09.62,0:17:12.71,Default,,0000,0000,0000,,CAPTAIN OF THE 2ND SHIP \NOF THE BLACKBEARD PIRATES
+Dialogue: 0,0:17:13.17,0:17:16.92,On Top,,0000,0000,0000,,SHIRYU OF THE RAIN
+Dialogue: 0,0:17:17.13,0:17:20.07,Default,,0000,0000,0000,,Did you like my power?
+Dialogue: 0,0:17:23.26,0:17:25.47,Default,,0000,0000,0000,,You became invisible!
+Dialogue: 0,0:17:28.22,0:17:31.26,Default,,0000,0000,0000,,That power belongs to Absalom...
+Dialogue: 0,0:17:35.74,0:17:38.07,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:17:38.44,0:17:43.16,Default,,0000,0000,0000,,That's right, Gecko Moria.
+Dialogue: 0,0:17:40.15,0:17:43.70,On Top,,0000,0000,0000,,AN INVISIBLE HUMAN WHO \NATE THE CLEAR-CLEAR FRUIT
+Dialogue: 0,0:17:43.86,0:17:45.95,Default,,0000,0000,0000,,I got a useful power.
+Dialogue: 0,0:17:48.66,0:17:50.59,Default,,0000,0000,0000,,Damn...
+Dialogue: 0,0:17:50.96,0:17:54.92,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:17:58.92,0:18:03.05,Default,,0000,0000,0000,,Then, who the hell are you?!
+Dialogue: 0,0:18:11.94,0:18:13.56,Default,,0000,0000,0000,,Yip!
+Dialogue: 0,0:18:16.86,0:18:18.07,Default,,0000,0000,0000,,Devon!
+Dialogue: 0,0:18:20.32,0:18:25.70,OS,,0000,0000,0000,,CAPTAIN OF THE 6TH SHIP OF THE BLACKBEARD PIRATES\NDOG-DOG FRUIT, MYTHICAL TYPE\N"NINE-TAILED FOX" MODEL
+Dialogue: 0,0:18:27.32,0:18:30.91,On Top,,0000,0000,0000,,"CRESCENT MOON HUNTER" CATARINA DEVON
+Dialogue: 0,0:18:33.00,0:18:35.75,Default,,0000,0000,0000,,Devon-{\i1}sama{\i0}!
+Dialogue: 0,0:18:37.63,0:18:41.45,Default,,0000,0000,0000,,Don't tell me Absalom is...
+Dialogue: 0,0:18:42.05,0:18:46.07,Default,,0000,0000,0000,,He shouldn't have come here\Nso recklessly!
+Dialogue: 0,0:18:46.68,0:18:50.31,Default,,0000,0000,0000,,We still have his dead body.\NDo you wanna take it home?
+Dialogue: 0,0:18:51.22,0:18:54.48,Default,,0000,0000,0000,,You like dead bodies, don't you?
+Dialogue: 0,0:18:58.28,0:19:03.94,Default,,0000,0000,0000,,Damn you guys! I won't forgive you!
+Dialogue: 0,0:19:04.32,0:19:08.29,Default,,0000,0000,0000,,How dare you kill my friend!
+Dialogue: 0,0:19:08.29,0:19:13.43,Default,,0000,0000,0000,,I'll turn you all into corpses!
+Dialogue: 0,0:19:13.43,0:19:17.25,Default,,0000,0000,0000,,Oh, give it a try.
+Dialogue: 0,0:20:05.38,0:20:07.77,Default,,0000,0000,0000,,Gecko Moria!
+Dialogue: 0,0:20:07.77,0:20:09.72,Default,,0000,0000,0000,,That voice...
+Dialogue: 0,0:20:14.10,0:20:18.98,Default,,0000,0000,0000,,{\i1}Don't corrupt public morals \Non this Pirate Island.{\i0}
+Dialogue: 0,0:20:19.40,0:20:22.98,Default,,0000,0000,0000,,Screw you! Show yourself!
+Dialogue: 0,0:20:23.36,0:20:25.38,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:20:25.83,0:20:28.11,Default,,0000,0000,0000,,I'm relaxing now.
+Dialogue: 0,0:20:29.74,0:20:33.30,Default,,0000,0000,0000,,This is a paradise for pirates!
+Dialogue: 0,0:20:33.88,0:20:36.51,Default,,0000,0000,0000,,It's gotta be fun!
+Dialogue: 0,0:20:37.37,0:20:39.08,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:20:39.62,0:20:42.04,Default,,0000,0000,0000,,{\i1}Do you like to party?!{\i0}
+Dialogue: 0,0:20:49.47,0:20:51.39,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:20:51.39,0:20:54.56,Default,,0000,0000,0000,,come on board my ship!
+Dialogue: 0,0:20:54.85,0:20:58.43,OS,,0000,0000,0000,,AN EMPEROR OF THE SEA\NCOMMODORE OF THE BLACKBEARD PIRATES\NBOUNTY: 2 BILLION 247 MILLION 600 THOUSAND
+Dialogue: 0,0:20:58.60,0:21:02.06,On Top,,0000,0000,0000,,MARSHALL D. TEACH
+Dialogue: 0,0:21:08.07,0:21:10.11,Default,,0000,0000,0000,,{\i1}Moria!{\i0}
+Dialogue: 0,0:21:10.49,0:21:13.29,Default,,0000,0000,0000,,{\i1}You like to, don't you?!{\i0}
+Dialogue: 0,0:21:13.29,0:21:15.45,Default,,0000,0000,0000,,To party!
+Dialogue: 0,0:21:34.85,0:21:37.58,Default,,0000,0000,0000,,Did you read today's newspaper?!
+Dialogue: 0,0:21:38.86,0:21:41.26,Default,,0000,0000,0000,,It's never boring!
+Dialogue: 0,0:21:42.65,0:21:45.61,Default,,0000,0000,0000,,On the fourth day of the Reverie,
+Dialogue: 0,0:21:45.61,0:21:48.32,Default,,0000,0000,0000,,the damn captains of the \NRevolutionary Army...
+Dialogue: 0,0:21:48.65,0:21:53.79,Default,,0000,0000,0000,,...finally appeared at the Sacred Marijoa\Nto take back Kuma
+Dialogue: 0,0:21:53.79,0:21:59.47,Default,,0000,0000,0000,,and clashed with Navy Admirals -\NRyokugyu and Fujitora!
+Dialogue: 0,0:22:01.84,0:22:03.96,Default,,0000,0000,0000,,Meanwhile,
+Dialogue: 0,0:22:04.88,0:22:08.71,Default,,0000,0000,0000,,at the Land of Wano\Nwhere the monster Kaido lives...
+Dialogue: 0,0:22:09.42,0:22:11.99,Default,,0000,0000,0000,,Straw Hat who is much talked about lately
+Dialogue: 0,0:22:11.99,0:22:15.43,Default,,0000,0000,0000,,and some other hot-blooded punks gathered.
+Dialogue: 0,0:22:16.23,0:22:18.11,Default,,0000,0000,0000,,And chasing them is...
+Dialogue: 0,0:22:18.73,0:22:23.35,Default,,0000,0000,0000,,...the crazy Emperor of the Sea - Big Mom!
+Dialogue: 0,0:22:28.11,0:22:29.95,Default,,0000,0000,0000,,What do you think will happen?!
+Dialogue: 0,0:22:36.41,0:22:39.02,Default,,0000,0000,0000,,It's already begun.
+Dialogue: 0,0:22:39.79,0:22:41.79,Default,,0000,0000,0000,,In order to sit on the throne,
+Dialogue: 0,0:22:42.49,0:22:46.42,Default,,0000,0000,0000,,the tough ones are crushing each other!
+Dialogue: 0,0:23:09.65,0:23:15.61,On Top,,0000,0000,0000,,LAND OF WANO - ACT TWO
+Dialogue: 0,0:23:18.57,0:23:21.46,Italics,,0000,0000,0000,,{\i1}The turbulent Land of Wano - Act Two starts!{\i0}
+Dialogue: 0,0:23:21.46,0:23:23.92,Italics,,0000,0000,0000,,{\i1}Sangoro, who cooks at a soba \Ncart where his allies gather,{\i0}
+Dialogue: 0,0:23:23.92,0:23:25.88,Italics,,0000,0000,0000,,{\i1}and the kunoichi Onami \Nsuccessfully play their parts
+Dialogue: 0,0:23:25.88,0:23:28.39,Italics,,0000,0000,0000,,and the operation to take \Ndown Kaido gets rolling!{\i0}
+Dialogue: 0,0:23:28.67,0:23:32.78,Italics,,0000,0000,0000,,{\i1}Meanwhile, Luffy's indomitable \Nfighting spirit is raised up
+Dialogue: 0,0:23:32.78,0:23:36.02,Italics,,0000,0000,0000,,even more and he creates \Na furor along with Kid!{\i0}
+Dialogue: 0,0:23:36.03,0:23:40.61,Default,,0000,0000,0000,,On the next episode of One Piece!\N"It's On! The Special Operation to Bring Down Kaido!"
+Dialogue: 0,0:23:40.61,0:23:43.08,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.79,0:23:46.79,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.79,0:23:48.79,Default,,0000,0000,0000,,

@@ -1,0 +1,164 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.42,0:00:15.55,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.42,0:00:15.55,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,Default,,0000,0000,0000,,{\i1}If you want to make it \Ncome true, Over The Top{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:25.60,0:00:28.15,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:36.41,0:00:40.04,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:36.41,0:00:40.04,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,Default,,0000,0000,0000,,{\i1}I have to keep going because \NI want to get there first{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa \Nichibannori shitain da{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,Default,,0000,0000,0000,,{\i1}Worry later since it's \Nall sink or swim anyway{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi \Ndouse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,Default,,0000,0000,0000,,{\i1}When things become tough, \Nthat's when you should laugh{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.25,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.25,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:25.29,0:01:30.54,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:25.29,0:01:30.54,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,Default,,0000,0000,0000,,{\i1}It's brighter and the \Nlevel of difficulty rises{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:12.25,0:02:16.01,Default,,0000,0000,0000,,{\i1}In order to take down Emperor of the Sea \NKaido who reigns over the Land of Wano,{\i0}
+Dialogue: 0,0:02:16.05,0:02:18.76,Default,,0000,0000,0000,,{\i1}Luffy and the others \Ndecided to launch a raid!{\i0}
+Dialogue: 0,0:02:18.80,0:02:23.22,Default,,0000,0000,0000,,{\i1}Will they be able to avenge the late Oden\Nand open up the Land of Wano?{\i0}
+Dialogue: 0,0:02:23.26,0:02:27.33,Default,,0000,0000,0000,,{\i1}The plan is set for Onigashima\Non the night of the Fire Festival.{\i0}
+Dialogue: 0,0:02:44.80,0:02:47.02,Default,,0000,0000,0000,,Blast Breath!
+Dialogue: 0,0:03:13.42,0:03:15.19,On Top,,0000,0000,0000,,ODEN
+Dialogue: 0,0:03:41.74,0:03:44.53,Default,,0000,0000,0000,,You're okay!\NYou somehow got away!
+Dialogue: 0,0:03:44.87,0:03:45.83,Default,,0000,0000,0000,,Right, guys?!
+Dialogue: 0,0:03:46.53,0:03:47.50,Default,,0000,0000,0000,,Horselina!
+Dialogue: 0,0:03:48.95,0:03:51.14,Default,,0000,0000,0000,,Why are you here?!
+Dialogue: 0,0:03:51.46,0:03:54.61,Default,,0000,0000,0000,,Where's Tama?!\NYou took her home, right?!
+Dialogue: 0,0:03:58.59,0:04:00.59,Default,,0000,0000,0000,,Answer, Horselina!
+Dialogue: 0,0:04:01.38,0:04:05.04,Default,,0000,0000,0000,,On our way, we were spotted by Kaido-{\i1}sama{\i0}...
+Dialogue: 0,0:04:06.35,0:04:08.06,Default,,0000,0000,0000,,...and I fought...
+Dialogue: 0,0:04:09.43,0:04:12.23,Default,,0000,0000,0000,,...but I couldn't protect...
+Dialogue: 0,0:04:13.27,0:04:15.19,Default,,0000,0000,0000,,...Master-{\i1}sama{\i0}...!
+Dialogue: 0,0:04:18.69,0:04:20.13,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:04:21.15,0:04:23.53,Default,,0000,0000,0000,,I'm here!
+Dialogue: 0,0:04:30.54,0:04:32.37,Default,,0000,0000,0000,,You are...
+Dialogue: 0,0:04:33.83,0:04:34.85,Default,,0000,0000,0000,,Luffy.
+Dialogue: 0,0:04:35.62,0:04:37.75,Default,,0000,0000,0000,,The man who'll become \Nthe King of the Pirates!
+Dialogue: 0,0:04:39.63,0:04:41.46,Default,,0000,0000,0000,,Luffy...?!
+Dialogue: 0,0:04:41.71,0:04:43.89,Default,,0000,0000,0000,,Did you say Luffy?!
+Dialogue: 0,0:04:53.52,0:04:59.06,Default,,0000,0000,0000,,{\i1}"Destructive!\NOne Shot, One Kill - Thunder Bagua!"{\i0}
+Dialogue: 0,0:04:59.63,0:05:02.59,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:05:10.74,0:05:13.83,Default,,0000,0000,0000,,Elephant Gatling!
+Dialogue: 0,0:05:54.17,0:05:55.45,Default,,0000,0000,0000,,Straw Hat-{\i1}ya{\i0}!
+Dialogue: 0,0:06:31.24,0:06:33.83,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:07:50.84,0:07:54.49,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:08:31.57,0:08:35.57,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:08:38.53,0:08:42.37,Default,,0000,0000,0000,,...Elephant Gun!
+Dialogue: 0,0:08:47.46,0:08:51.13,Default,,0000,0000,0000,,Giant Stamp!
+Dialogue: 0,0:09:10.57,0:09:14.41,Default,,0000,0000,0000,,I'll send you flying, Kaido!
+Dialogue: 0,0:09:21.08,0:09:23.97,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:09:25.29,0:09:27.12,Default,,0000,0000,0000,,...Grizzly...
+Dialogue: 0,0:09:27.75,0:09:30.75,Default,,0000,0000,0000,,...Magnum!
+Dialogue: 0,0:10:01.74,0:10:03.51,Default,,0000,0000,0000,,Supreme Commander Kaido...
+Dialogue: 0,0:10:55.34,0:10:56.59,Default,,0000,0000,0000,,Straw Hat-{\i1}ya{\i0}!
+Dialogue: 0,0:10:57.46,0:10:59.88,Default,,0000,0000,0000,,That's enough! Come back!
+Dialogue: 0,0:11:00.84,0:11:02.18,Default,,0000,0000,0000,,Come to your senses!
+Dialogue: 0,0:11:10.77,0:11:14.90,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:11:58.82,0:12:01.20,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:12:32.85,0:12:34.93,Default,,0000,0000,0000,,Gear Four!
+Dialogue: 0,0:12:35.45,0:12:37.11,Default,,0000,0000,0000,,Bounce-Man!
+Dialogue: 0,0:12:49.16,0:12:50.87,Default,,0000,0000,0000,,How dare you...
+Dialogue: 0,0:12:52.50,0:12:55.83,Default,,0000,0000,0000,,...mess with my friends, you bastard!
+Dialogue: 0,0:13:07.34,0:13:10.35,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:13:11.93,0:13:14.85,Default,,0000,0000,0000,,...Kong Gun!
+Dialogue: 0,0:14:27.05,0:14:29.59,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:32.47,0:14:34.17,Default,,0000,0000,0000,,...Double Culverin!
+Dialogue: 0,0:14:41.40,0:14:43.40,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:49.66,0:14:52.45,Default,,0000,0000,0000,,...Kong Organ Gun!
+Dialogue: 0,0:17:03.00,0:17:05.58,Default,,0000,0000,0000,,Who is that guy?
+Dialogue: 0,0:18:47.77,0:18:50.06,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:56.44,0:19:01.31,Default,,0000,0000,0000,,...King Kong Gun!
+Dialogue: 0,0:19:03.87,0:19:07.41,Default,,0000,0000,0000,,Thunder Bagua!
+Dialogue: 0,0:20:21.99,0:20:24.30,Default,,0000,0000,0000,,That fool!
+Dialogue: 0,0:20:24.66,0:20:26.70,Default,,0000,0000,0000,,I should grab him and run!
+Dialogue: 0,0:20:29.98,0:20:32.08,Default,,0000,0000,0000,,I think I have enough stamina for that...
+Dialogue: 0,0:20:32.58,0:20:33.76,Default,,0000,0000,0000,,Room!
+Dialogue: 0,0:20:37.92,0:20:39.09,Default,,0000,0000,0000,,Shamble...!
+Dialogue: 0,0:20:41.34,0:20:43.66,Default,,0000,0000,0000,,I lost my energy...!
+Dialogue: 0,0:20:46.22,0:20:48.81,Default,,0000,0000,0000,,Don't do it, Trafalgar.
+Dialogue: 0,0:20:50.10,0:20:53.24,Default,,0000,0000,0000,,It's you again! Not now!
+Dialogue: 0,0:20:53.77,0:20:58.82,Default,,0000,0000,0000,,The Sea Prism Stone used across the world\Noriginated in the Land of Wano.
+Dialogue: 0,0:21:00.36,0:21:03.37,Default,,0000,0000,0000,,It's a Sea Prism Stone... nail?!
+Dialogue: 0,0:21:04.07,0:21:09.12,Default,,0000,0000,0000,,Only the Land of Wano has artisans\Nwho can refine it into something that small.
+Dialogue: 0,0:21:11.16,0:21:12.66,Default,,0000,0000,0000,,Straw Sword!
+Dialogue: 0,0:21:22.84,0:21:25.79,Default,,0000,0000,0000,,Damn! This is the worst...
+Dialogue: 0,0:21:28.88,0:21:30.06,Default,,0000,0000,0000,,Room!
+Dialogue: 0,0:21:31.43,0:21:32.77,Default,,0000,0000,0000,,Shambles!
+Dialogue: 0,0:21:35.06,0:21:37.02,Default,,0000,0000,0000,,What an annoying ability...
+Dialogue: 0,0:21:40.73,0:21:42.49,Default,,0000,0000,0000,,He can't go that far.
+Dialogue: 0,0:21:43.36,0:21:46.20,Default,,0000,0000,0000,,He must be around. Look for him!
+Dialogue: 0,0:21:46.36,0:21:47.09,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:57.75,0:22:01.17,Default,,0000,0000,0000,,I can't believe this.\NHe's still breathing.
+Dialogue: 0,0:22:02.79,0:22:04.23,Default,,0000,0000,0000,,I bet so.
+Dialogue: 0,0:22:04.67,0:22:05.34,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:22:06.04,0:22:09.81,Default,,0000,0000,0000,,I don't know whether it's out of his \Nindomitable spirit or bravado...
+Dialogue: 0,0:22:10.97,0:22:13.77,Default,,0000,0000,0000,,but he's glaring at me.
+Dialogue: 0,0:22:25.15,0:22:28.61,Default,,0000,0000,0000,,To me, he just looks unconscious...
+Dialogue: 0,0:22:48.76,0:22:52.10,Default,,0000,0000,0000,,What kind of king did you say you'd be?
+Dialogue: 0,0:22:53.06,0:22:54.61,Default,,0000,0000,0000,,You little punk!
+Dialogue: 0,0:23:18.71,0:23:24.92,Default,,0000,0000,0000,,{\i1}Taken down by Kaido, Luffy is sent to a \Nmine where hellish forced labor awaits him!{\i0}
+Dialogue: 0,0:23:25.47,0:23:28.67,Default,,0000,0000,0000,,{\i1}However, he unexpectedly \Nreunites with someone there!{\i0}
+Dialogue: 0,0:23:29.31,0:23:31.80,Italics,,0000,0000,0000,,{\i1}Are Otama and the Straw Hats alive?!
+Dialogue: 0,0:23:31.80,0:23:35.84,Italics,,0000,0000,0000,,And what will happen to the desperate Luffy?!{\i0}
+Dialogue: 0,0:23:36.10,0:23:41.02,Default,,0000,0000,0000,,On the next episode of One Piece!\N"A Living Hell! Luffy, Humiliated in the Great Mine!"
+Dialogue: 0,0:23:41.02,0:23:43.48,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.34,0:23:46.34,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.34,0:23:48.34,On Top,,0000,0000,0000,,

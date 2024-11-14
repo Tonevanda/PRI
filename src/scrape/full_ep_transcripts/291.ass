@@ -1,0 +1,448 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.51,0:00:17.47,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:17.47,0:00:19.39,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:19.39,0:00:21.27,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:00:21.27,0:00:23.24,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:00:23.24,0:00:25.00,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:00:25.00,0:00:28.76,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:00:28.76,0:00:32.38,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:34.97,0:00:39.09,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:00:39.62,0:00:42.62,Default,,0000,0000,0000,,The world has truly entered a Great Pirate Era!
+Dialogue: 0,0:00:43.52,0:00:49.11,Italics,,0000,0000,0000,,We’re going to gather up all our dreams
+Dialogue: 0,0:00:49.11,0:00:54.95,Italics,,0000,0000,0000,,and set out in search of something to find
+Dialogue: 0,0:00:54.95,0:00:56.38,Italics,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:01:01.08,0:01:06.77,Italics,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:01:06.77,0:01:11.82,Italics,,0000,0000,0000,,Delirious with fever, I take the helm
+Dialogue: 0,0:01:12.46,0:01:24.11,Italics,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it’s not a legend!
+Dialogue: 0,0:01:24.72,0:01:30.43,Italics,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:30.43,0:01:35.55,Italics,,0000,0000,0000,,simply ride aboard someone else’s biorhythm
+Dialogue: 0,0:01:35.55,0:01:37.99,Italics,,0000,0000,0000,,and pretend it isn’t there!
+Dialogue: 0,0:01:39.36,0:01:44.83,Italics,,0000,0000,0000,,We’re going to gather up all our dreams
+Dialogue: 0,0:01:44.83,0:01:50.33,Italics,,0000,0000,0000,,and set out in search of something to find
+Dialogue: 0,0:01:50.33,0:01:56.59,Italics,,0000,0000,0000,,A coin in my pocket,\Nand you wanna be my friend?
+Dialogue: 0,0:01:56.59,0:02:01.28,Italics,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:02:02.27,0:02:03.91,Italics,,0000,0000,0000,,We are!
+Dialogue: 0,0:02:07.24,0:02:12.86,Default,,0000,0000,0000,,"Boss Luffy Returns! Is it a Dream\Nor Reality? Lottery Ruckus!"
+Dialogue: 0,0:02:15.03,0:02:17.14,Default,,0000,0000,0000,,This is Grand Jipang.
+Dialogue: 0,0:02:17.67,0:02:20.92,Default,,0000,0000,0000,,It resembles a certain era of\Na certain country quite a bit,
+Dialogue: 0,0:02:20.92,0:02:22.96,Default,,0000,0000,0000,,but, well, let's not get too specific.
+Dialogue: 0,0:02:23.58,0:02:25.58,Default,,0000,0000,0000,,Although there were some troubles last year
+Dialogue: 0,0:02:25.58,0:02:28.17,Default,,0000,0000,0000,,after some rogues wandered into this country,
+Dialogue: 0,0:02:28.17,0:02:30.40,Default,,0000,0000,0000,,peace reigns over this land for the most part.
+Dialogue: 0,0:02:30.40,0:02:35.05,Default,,0000,0000,0000,,People are fully enjoying peace\Nand spending cheerful days.
+Dialogue: 0,0:02:35.43,0:02:36.01,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:02:43.85,0:02:45.56,Default,,0000,0000,0000,,Idiot! Watch where you're going!
+Dialogue: 0,0:02:46.08,0:02:48.70,Default,,0000,0000,0000,,Ouch! You're the ones who bumped into me!
+Dialogue: 0,0:02:49.85,0:02:51.34,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:02:51.34,0:02:54.93,Default,,0000,0000,0000,,Hm, yeah. Oh, shoot! I don't have time for this!
+Dialogue: 0,0:02:55.97,0:02:59.61,Default,,0000,0000,0000,,Come to think of it, Dr. Bluenose\Nhasn't shown up lately.
+Dialogue: 0,0:02:59.61,0:03:04.07,Default,,0000,0000,0000,,Yeah, I don't know what's going on,\Nbut he seems quite busy.
+Dialogue: 0,0:03:10.08,0:03:12.63,Default,,0000,0000,0000,,Hm? Who are you?
+Dialogue: 0,0:03:12.63,0:03:14.08,Default,,0000,0000,0000,,Y-You are...
+Dialogue: 0,0:03:14.08,0:03:16.73,Default,,0000,0000,0000,,Ah! You guys are from that clown group!
+Dialogue: 0,0:03:16.73,0:03:20.39,Default,,0000,0000,0000,,These guys are dangerous.\NThey're always hanging out with Straw Hat.
+Dialogue: 0,0:03:20.39,0:03:22.30,Default,,0000,0000,0000,,What about me?!
+Dialogue: 0,0:03:22.79,0:03:27.93,Default,,0000,0000,0000,,You sure are making a\Nracket out in broad daylight!
+Dialogue: 0,0:03:28.35,0:03:29.93,Default,,0000,0000,0000,,What'd you come here for?
+Dialogue: 0,0:03:30.29,0:03:32.45,Default,,0000,0000,0000,,Straw Hat! Why are you here?!
+Dialogue: 0,0:03:32.45,0:03:34.84,Default,,0000,0000,0000,,What're you saying when you're\Nthe one who came in here?
+Dialogue: 0,0:03:34.84,0:03:36.82,Default,,0000,0000,0000,,If you're here to pick a fight, I'm up for it.
+Dialogue: 0,0:03:36.82,0:03:40.24,Default,,0000,0000,0000,,Hey, let's get out of here.\NHe doesn't seem to be here anyway.
+Dialogue: 0,0:03:40.24,0:03:43.16,Default,,0000,0000,0000,,Y-Yeah. Looks like we were given a bum steer.
+Dialogue: 0,0:03:43.56,0:03:45.81,Default,,0000,0000,0000,,W-We're leaving now! Let's go!
+Dialogue: 0,0:03:45.81,0:03:46.41,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:47.70,0:03:49.46,Default,,0000,0000,0000,,What on earth was that?
+Dialogue: 0,0:03:49.46,0:03:51.85,Default,,0000,0000,0000,,Seriously, we don't get decent customers.
+Dialogue: 0,0:03:51.85,0:03:53.98,Default,,0000,0000,0000,,Sanji-kun! Scatter some salt!
+Dialogue: 0,0:03:53.98,0:03:55.03,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:55.03,0:03:57.80,Default,,0000,0000,0000,,What's the deal, Onami?\NWere there more annoying customers?
+Dialogue: 0,0:03:58.10,0:04:00.97,Default,,0000,0000,0000,,It's no use saying anything\Nto someone who's oblivious.
+Dialogue: 0,0:04:00.97,0:04:02.30,Default,,0000,0000,0000,,Boss. Where's your payment?
+Dialogue: 0,0:04:02.30,0:04:05.51,Default,,0000,0000,0000,,Oops! That's right! I have to get going!
+Dialogue: 0,0:04:05.51,0:04:07.12,Default,,0000,0000,0000,,Sorry! Put it on my tab!
+Dialogue: 0,0:04:07.12,0:04:08.67,Default,,0000,0000,0000,,Thanks! That was delicious!
+Dialogue: 0,0:04:08.67,0:04:12.69,Default,,0000,0000,0000,,Seriously... Maybe I should\Nreport this to the police soon.
+Dialogue: 0,0:04:12.69,0:04:14.27,Default,,0000,0000,0000,,On second thought,\Ndon't worry about it, Sanji-kun.
+Dialogue: 0,0:04:14.27,0:04:15.96,Default,,0000,0000,0000,,They'll keep coming back anyway.
+Dialogue: 0,0:04:15.96,0:04:19.70,Default,,0000,0000,0000,,Besides, come to think of it,\Nsalt is expensive these days.
+Dialogue: 0,0:04:19.70,0:04:20.40,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:22.97,0:04:24.82,Default,,0000,0000,0000,,Straw Hat again?
+Dialogue: 0,0:04:26.28,0:04:30.04,Default,,0000,0000,0000,,W-Well, he just happened\Nto be in that eatery, that's all.
+Dialogue: 0,0:04:30.04,0:04:32.01,Default,,0000,0000,0000,,It's not like he's gotten in our way yet.
+Dialogue: 0,0:04:32.01,0:04:34.13,Default,,0000,0000,0000,,Arrrgh! How irritating!
+Dialogue: 0,0:04:34.13,0:04:37.90,Default,,0000,0000,0000,,Ever since we came to this town,\Nour earnings have dropped considerably!
+Dialogue: 0,0:04:37.90,0:04:40.26,Default,,0000,0000,0000,,Then we should go to a different town.
+Dialogue: 0,0:04:41.30,0:04:42.90,Default,,0000,0000,0000,,--You idiot!\N--Ow!
+Dialogue: 0,0:04:42.90,0:04:46.89,Default,,0000,0000,0000,,How could I, the great Buggy,\Njust get my butt whipped and leave?!
+Dialogue: 0,0:04:46.89,0:04:50.59,Default,,0000,0000,0000,,Hey, who's saying I got my butt whipped?!\NI never did, you bastard!
+Dialogue: 0,0:04:50.59,0:04:52.22,Default,,0000,0000,0000,,I'm gonna slice you into three and eat you!
+Dialogue: 0,0:04:52.22,0:04:54.39,Default,,0000,0000,0000,,His mood is quite nasty, isn't it?
+Dialogue: 0,0:04:54.39,0:04:57.13,Default,,0000,0000,0000,,He's really getting into the habit of losing, so...
+Dialogue: 0,0:04:57.13,0:04:59.00,Default,,0000,0000,0000,,In any case, we'd better find him quickly
+Dialogue: 0,0:04:59.00,0:05:01.41,Default,,0000,0000,0000,,and shake him down, or we won't\Nbe able to welcome in the new year.
+Dialogue: 0,0:05:09.97,0:05:11.58,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:11.58,0:05:13.53,Default,,0000,0000,0000,,Orika! How's he doing?
+Dialogue: 0,0:05:13.53,0:05:15.41,Default,,0000,0000,0000,,Oh, hi, Boss!
+Dialogue: 0,0:05:15.87,0:05:17.68,Default,,0000,0000,0000,,He seems to be getting quite a bit better.
+Dialogue: 0,0:05:17.68,0:05:19.59,Default,,0000,0000,0000,,He ate some rice porridge earlier, too.
+Dialogue: 0,0:05:22.31,0:05:24.77,Default,,0000,0000,0000,,I see. That's good.
+Dialogue: 0,0:05:24.77,0:05:27.87,Default,,0000,0000,0000,,Orika, Pepper and the others\Nare worried about you.
+Dialogue: 0,0:05:27.87,0:05:29.47,Default,,0000,0000,0000,,Let's go and play with them.
+Dialogue: 0,0:05:29.85,0:05:31.32,Default,,0000,0000,0000,,Well, but...
+Dialogue: 0,0:05:31.32,0:05:34.13,Default,,0000,0000,0000,,That's fine, Rika. I'll watch pops.
+Dialogue: 0,0:05:37.85,0:05:39.36,Default,,0000,0000,0000,,What? What is it?
+Dialogue: 0,0:05:39.99,0:05:42.80,Default,,0000,0000,0000,,Yeah... Yeah... Okay.
+Dialogue: 0,0:05:42.80,0:05:44.47,Default,,0000,0000,0000,,Pops tells me to go, too.
+Dialogue: 0,0:05:44.47,0:05:45.35,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:05:45.35,0:05:47.03,Default,,0000,0000,0000,,Hold on a minute, okay?
+Dialogue: 0,0:05:49.20,0:05:52.09,Default,,0000,0000,0000,,♪ It's warm on the southern islands! ♪
+Dialogue: 0,0:05:52.09,0:05:57.03,Default,,0000,0000,0000,,♪ Pineapple-ple! Their heads\Nare nice and warm! ♪
+Dialogue: 0,0:05:57.03,0:06:00.16,Default,,0000,0000,0000,,♪ They're all idiots! ♪
+Dialogue: 0,0:06:00.16,0:06:01.40,Default,,0000,0000,0000,,Next, the second verse!
+Dialogue: 0,0:06:01.40,0:06:02.61,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:02.61,0:06:06.59,Default,,0000,0000,0000,,♪ It's cold on the northern islands! ♪
+Dialogue: 0,0:06:06.59,0:06:11.03,Default,,0000,0000,0000,,♪ Freezing, real freezing!\NTheir heads are shivering... ♪
+Dialogue: 0,0:06:13.63,0:06:14.68,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:15.78,0:06:17.07,Default,,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:06:17.07,0:06:18.44,Default,,0000,0000,0000,,Beats me.
+Dialogue: 0,0:06:18.44,0:06:21.40,Default,,0000,0000,0000,,A horse...? No, it's not a horse, is it?
+Dialogue: 0,0:06:21.76,0:06:25.15,Default,,0000,0000,0000,,I know what it is! It's called a camel!
+Dialogue: 0,0:06:28.16,0:06:30.38,Default,,0000,0000,0000,,He doesn't look very tasty.
+Dialogue: 0,0:06:30.38,0:06:32.71,Default,,0000,0000,0000,,So... what's he doing here?
+Dialogue: 0,0:06:33.56,0:06:36.71,Default,,0000,0000,0000,,What's wrong? Does it hurt somewhere?
+Dialogue: 0,0:06:38.22,0:06:40.32,Default,,0000,0000,0000,,He seems to have a slight fever.
+Dialogue: 0,0:06:40.32,0:06:42.92,Default,,0000,0000,0000,,Boss, could you carry him to my house?
+Dialogue: 0,0:06:43.42,0:06:46.99,Default,,0000,0000,0000,,I feel bad leaving him here.\NHe seems to be hungry, too.
+Dialogue: 0,0:06:46.99,0:06:51.01,Default,,0000,0000,0000,,That's no problem, but with pops, too,\Nyour place is too small for all of you.
+Dialogue: 0,0:06:51.56,0:06:52.85,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:06:54.13,0:06:57.00,Default,,0000,0000,0000,,It might be okay to just leave him by\Nthe well at the row house on the back alley.
+Dialogue: 0,0:06:57.00,0:06:59.60,Default,,0000,0000,0000,,But if he's hungry, then we should...
+Dialogue: 0,0:07:00.12,0:07:00.90,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:02.01,0:07:05.15,Default,,0000,0000,0000,,Even so, don't just bring anything to our place!
+Dialogue: 0,0:07:05.62,0:07:07.36,Default,,0000,0000,0000,,We're running a business, you know?!
+Dialogue: 0,0:07:07.36,0:07:10.96,Default,,0000,0000,0000,,Oh, come on! Your place\Nis pretty empty anyway.
+Dialogue: 0,0:07:10.96,0:07:12.03,Default,,0000,0000,0000,,That's none of your business!
+Dialogue: 0,0:07:12.03,0:07:15.83,Default,,0000,0000,0000,,Dr. Bluenose isn't around when we need him.
+Dialogue: 0,0:07:15.83,0:07:19.91,Default,,0000,0000,0000,,You can leave things to Orika.\NShe's used to taking care of the sick.
+Dialogue: 0,0:07:20.58,0:07:23.79,Default,,0000,0000,0000,,I thought a camel would be cooler than this.
+Dialogue: 0,0:07:23.79,0:07:24.63,Default,,0000,0000,0000,,Me, too.
+Dialogue: 0,0:07:27.09,0:07:29.05,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:07:29.05,0:07:31.23,Default,,0000,0000,0000,,There's trouble! There's trouble!
+Dialogue: 0,0:07:31.23,0:07:34.43,Default,,0000,0000,0000,,There's trouble, Boss!\NHm? What the hell is that?!
+Dialogue: 0,0:07:34.43,0:07:35.69,Default,,0000,0000,0000,,It's a camel.
+Dialogue: 0,0:07:35.69,0:07:37.86,Default,,0000,0000,0000,,Orika took him in and is nursing him.
+Dialogue: 0,0:07:37.86,0:07:38.94,Default,,0000,0000,0000,,Orika is?!
+Dialogue: 0,0:07:38.94,0:07:41.19,Default,,0000,0000,0000,,More importantly, what's the\Nmatter, Usopp? What's going on?
+Dialogue: 0,0:07:41.19,0:07:44.56,Default,,0000,0000,0000,,Oh, yeah! There's trouble at Orika's house!
+Dialogue: 0,0:07:44.56,0:07:46.19,Default,,0000,0000,0000,,--Come with me right away, Boss!\N--What...?
+Dialogue: 0,0:07:46.19,0:07:47.90,Default,,0000,0000,0000,,At my house...
+Dialogue: 0,0:07:48.28,0:07:50.00,Default,,0000,0000,0000,,Hey, walk briskly!
+Dialogue: 0,0:07:50.00,0:07:52.01,Default,,0000,0000,0000,,To think that you were\Nhiding in a place like this...
+Dialogue: 0,0:07:52.01,0:07:54.32,Default,,0000,0000,0000,,Did you really think that you could outrun us?
+Dialogue: 0,0:07:54.32,0:07:55.41,Default,,0000,0000,0000,,Pops!
+Dialogue: 0,0:07:55.41,0:07:57.57,Default,,0000,0000,0000,,Please stop it. He's a sick man!
+Dialogue: 0,0:07:57.57,0:08:00.31,Default,,0000,0000,0000,,Shut up! He's a guarantor of a loan.\NIf you wanna complain,
+Dialogue: 0,0:08:00.31,0:08:03.51,Default,,0000,0000,0000,,do so to the guy who skipped town,\Nforcing the deed on him!
+Dialogue: 0,0:08:03.51,0:08:07.17,Default,,0000,0000,0000,,We're just collecting the money as agreed.
+Dialogue: 0,0:08:07.17,0:08:09.71,Default,,0000,0000,0000,,Hey, don't bother with her! Let's go!
+Dialogue: 0,0:08:09.71,0:08:12.05,Default,,0000,0000,0000,,--Yes, sir!\N--Hold it!
+Dialogue: 0,0:08:12.13,0:08:14.51,Default,,0000,0000,0000,,Let go of pops!
+Dialogue: 0,0:08:22.29,0:08:26.04,Default,,0000,0000,0000,,You bastard! You think\Nyou can get away with this?
+Dialogue: 0,0:08:26.69,0:08:29.54,Default,,0000,0000,0000,,Shut up! You guys are the ones\Nwho're doing something terrible!
+Dialogue: 0,0:08:29.54,0:08:33.50,Default,,0000,0000,0000,,We've got the deed.\NCome back when you get a clue!
+Dialogue: 0,0:08:33.50,0:08:35.95,Default,,0000,0000,0000,,A deed for such a large\Namount can't be possible!
+Dialogue: 0,0:08:35.95,0:08:39.26,Default,,0000,0000,0000,,If you're still gonna take pops, I'll take you on!
+Dialogue: 0,0:08:39.26,0:08:42.55,Default,,0000,0000,0000,,You blockhead! There's this\Nthing called interest.
+Dialogue: 0,0:08:42.55,0:08:45.30,Default,,0000,0000,0000,,We're gonna make him work for\Nthe rest of his life to repay us.
+Dialogue: 0,0:08:45.30,0:08:47.77,Default,,0000,0000,0000,,This is no time for you, a policeman, to butt in.
+Dialogue: 0,0:08:47.77,0:08:49.05,Default,,0000,0000,0000,,Pops!
+Dialogue: 0,0:08:49.05,0:08:51.56,Default,,0000,0000,0000,,Stop it! Let pops go!
+Dialogue: 0,0:08:51.56,0:08:53.88,Default,,0000,0000,0000,,--Orika!\N--Wh-Who's this brat?
+Dialogue: 0,0:08:54.57,0:08:56.78,Default,,0000,0000,0000,,You had a kid?
+Dialogue: 0,0:08:58.72,0:09:01.10,Default,,0000,0000,0000,,Okay, then. We'll take you too and sell you off.
+Dialogue: 0,0:09:01.48,0:09:02.81,Default,,0000,0000,0000,,Come!
+Dialogue: 0,0:09:02.81,0:09:04.94,Default,,0000,0000,0000,,--Rika!\N--Boss!
+Dialogue: 0,0:09:04.94,0:09:07.40,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:09:07.40,0:09:10.11,Default,,0000,0000,0000,,...Billy Club!
+Dialogue: 0,0:09:11.98,0:09:13.84,Default,,0000,0000,0000,,All right, Boss!
+Dialogue: 0,0:09:14.31,0:09:16.94,Default,,0000,0000,0000,,D-Dammit! How dare you...?!
+Dialogue: 0,0:09:16.94,0:09:18.40,Default,,0000,0000,0000,,You won't get away with this!
+Dialogue: 0,0:09:18.40,0:09:20.99,Default,,0000,0000,0000,,Yaay! All right! Get out of\Nhere and don't come back!
+Dialogue: 0,0:09:20.99,0:09:22.91,Default,,0000,0000,0000,,But this isn't good.
+Dialogue: 0,0:09:22.91,0:09:25.60,Default,,0000,0000,0000,,It's hard to think that clown would\Nback down without doing anything.
+Dialogue: 0,0:09:25.60,0:09:28.50,Default,,0000,0000,0000,,Don't worry. It'll work out okay.
+Dialogue: 0,0:09:30.00,0:09:34.38,Default,,0000,0000,0000,,That sounds terrible.\NSo what happened to pops?
+Dialogue: 0,0:09:34.77,0:09:36.23,Default,,0000,0000,0000,,He's resting at home.
+Dialogue: 0,0:09:36.23,0:09:39.34,Default,,0000,0000,0000,,He's almost better, but he tries\Nto push himself and go out.
+Dialogue: 0,0:09:39.64,0:09:41.77,Default,,0000,0000,0000,,So I scolded him, saying that\Nhe should lay down and rest.
+Dialogue: 0,0:09:42.70,0:09:45.48,Default,,0000,0000,0000,,You can twist even pops\Naround your little finger, huh?
+Dialogue: 0,0:09:48.15,0:09:50.36,Default,,0000,0000,0000,,Mr. Camel got his energy back!
+Dialogue: 0,0:09:50.36,0:09:54.67,Default,,0000,0000,0000,,Oh? Good timing. I made his food\Nusing leftovers. You can have it.
+Dialogue: 0,0:09:54.67,0:09:56.44,Default,,0000,0000,0000,,Thanks, Sanji-san!
+Dialogue: 0,0:09:56.44,0:09:59.04,Default,,0000,0000,0000,,What, Sanji? Isn't my food ready yet?
+Dialogue: 0,0:09:59.04,0:10:01.18,Default,,0000,0000,0000,,You ate just a bit ago!
+Dialogue: 0,0:10:01.79,0:10:03.08,Default,,0000,0000,0000,,--Here you go!\N--Thank you!
+Dialogue: 0,0:10:03.41,0:10:06.88,Default,,0000,0000,0000,,Whoa! You're making some tasty-looking food!
+Dialogue: 0,0:10:08.75,0:10:10.06,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:10:10.06,0:10:13.17,Default,,0000,0000,0000,,These are expensive dishes\Nfor delivery, you damn jerk.
+Dialogue: 0,0:10:13.17,0:10:14.63,Default,,0000,0000,0000,,Don't touch them.
+Dialogue: 0,0:10:18.02,0:10:20.05,Default,,0000,0000,0000,,What's wrong, Mr. Camel?
+Dialogue: 0,0:10:20.05,0:10:23.07,Default,,0000,0000,0000,,Aren't you gonna eat? I'm sure you're hungry.
+Dialogue: 0,0:10:23.07,0:10:25.60,Default,,0000,0000,0000,,If you don't eat, you can't get better.
+Dialogue: 0,0:10:25.94,0:10:27.76,Default,,0000,0000,0000,,He doesn't want them? Then I'll...
+Dialogue: 0,0:10:27.76,0:10:28.64,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:30.19,0:10:31.31,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:10:35.88,0:10:37.13,Default,,0000,0000,0000,,Oh? What is it?
+Dialogue: 0,0:10:38.98,0:10:42.62,Default,,0000,0000,0000,,You bastard! I made these dishes using\Nexpensive food! They're for delivery!
+Dialogue: 0,0:10:42.62,0:10:44.24,Default,,0000,0000,0000,,Hey! You bastard!
+Dialogue: 0,0:10:45.16,0:10:46.63,Default,,0000,0000,0000,,I'm gonna slice you into three!
+Dialogue: 0,0:10:47.70,0:10:49.41,Default,,0000,0000,0000,,Just as you'd expect from Sanji!
+Dialogue: 0,0:10:49.41,0:10:52.92,Default,,0000,0000,0000,,To think that he can make\Nsuch tasty food with leftovers!
+Dialogue: 0,0:10:58.13,0:11:01.51,Default,,0000,0000,0000,,You bastard! I'm mad! I'm seriously\Ngonna slice you into three!
+Dialogue: 0,0:11:01.78,0:11:04.63,Default,,0000,0000,0000,,Wait, Sanji-san! Please don't blame Mr. Camel!
+Dialogue: 0,0:11:04.63,0:11:07.29,Default,,0000,0000,0000,,I'm sure he ate those\Nbecause they looked tastier.
+Dialogue: 0,0:11:07.29,0:11:08.80,Default,,0000,0000,0000,,Even so...
+Dialogue: 0,0:11:08.80,0:11:11.48,Default,,0000,0000,0000,,You bastard! Who do you think\Nyou are?! You're just a camel!
+Dialogue: 0,0:11:12.69,0:11:15.60,Default,,0000,0000,0000,,I'm sorry, Sanji-san, Onami-san.
+Dialogue: 0,0:11:15.60,0:11:17.61,Default,,0000,0000,0000,,It's okay. Don't worry about it.
+Dialogue: 0,0:11:17.61,0:11:20.92,Default,,0000,0000,0000,,Onami, you sure are generous today.
+Dialogue: 0,0:11:20.92,0:11:24.10,Default,,0000,0000,0000,,Normally, you'd have beaten\Nthe crap out of the person by now.
+Dialogue: 0,0:11:24.10,0:11:27.29,Default,,0000,0000,0000,,To tell you the truth, I'm thinking this\Nmight be some sort of turn of fate.
+Dialogue: 0,0:11:30.04,0:11:32.08,Default,,0000,0000,0000,,This. Take a look at this.
+Dialogue: 0,0:11:32.08,0:11:35.11,Default,,0000,0000,0000,,I bought a Year-End lottery ticket.
+Dialogue: 0,0:11:35.11,0:11:38.46,Default,,0000,0000,0000,,A lottery ticket? What does\Nthat have to do with this?
+Dialogue: 0,0:11:38.46,0:11:39.72,On Top,,0000,0000,0000,,"Camel"
+Dialogue: 0,0:11:38.88,0:11:42.50,Default,,0000,0000,0000,,Ah! Camel, 1356?
+Dialogue: 0,0:11:42.50,0:11:44.43,Default,,0000,0000,0000,,So you think it might be good luck?
+Dialogue: 0,0:11:44.75,0:11:45.60,Default,,0000,0000,0000,,You got it!
+Dialogue: 0,0:11:46.16,0:11:48.17,Default,,0000,0000,0000,,Today is the drawing day.
+Dialogue: 0,0:11:49.35,0:11:51.31,Default,,0000,0000,0000,,I asked Usopp to go there and check.
+Dialogue: 0,0:11:53.89,0:11:58.66,Default,,0000,0000,0000,,Third prize! Camel, 1356!
+Dialogue: 0,0:12:01.32,0:12:04.03,Default,,0000,0000,0000,,A million Ryo-Berry third prize?!
+Dialogue: 0,0:12:04.03,0:12:07.33,Default,,0000,0000,0000,,Yeah. I checked many times!\NThere's no mistaking it!
+Dialogue: 0,0:12:09.04,0:12:12.25,Default,,0000,0000,0000,,I-It's true...? It's like a dream!
+Dialogue: 0,0:12:12.25,0:12:15.86,Default,,0000,0000,0000,,All right! We can now welcome in\Nthe new year without any problem!
+Dialogue: 0,0:12:15.86,0:12:17.64,Default,,0000,0000,0000,,We'll be out of our desperate\Nfinancial situation!
+Dialogue: 0,0:12:17.64,0:12:19.21,Default,,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:12:19.91,0:12:22.28,Default,,0000,0000,0000,,Now my bills will all be wiped out, right?
+Dialogue: 0,0:12:22.28,0:12:24.38,Default,,0000,0000,0000,,It wasn't you who hit the lottery.
+Dialogue: 0,0:12:24.38,0:12:26.16,Default,,0000,0000,0000,,Thank you, camel!
+Dialogue: 0,0:12:26.16,0:12:29.47,Default,,0000,0000,0000,,You really were a good-luck camel!
+Dialogue: 0,0:12:31.64,0:12:36.77,Default,,0000,0000,0000,,I'll let you eat whatever you like,\Nsince this is definitely thanks to you!
+Dialogue: 0,0:12:44.61,0:12:46.78,Default,,0000,0000,0000,,Who said you could eat the lottery ticket?!
+Dialogue: 0,0:12:46.78,0:12:50.62,Default,,0000,0000,0000,,Spit it out! Spit it out!\NA million Ryo-Berries! Spit it out!
+Dialogue: 0,0:12:51.93,0:12:54.24,Default,,0000,0000,0000,,He must really like expensive stuff.
+Dialogue: 0,0:12:54.24,0:12:55.71,Default,,0000,0000,0000,,This is no time to be impressed.
+Dialogue: 0,0:12:55.71,0:12:58.82,Default,,0000,0000,0000,,Hey! Spit it out! A million Ryo-Berries!
+Dialogue: 0,0:12:58.82,0:13:01.57,Default,,0000,0000,0000,,Give it back to me at any cost!
+Dialogue: 0,0:13:01.57,0:13:02.84,Default,,0000,0000,0000,,Mr. Camel...
+Dialogue: 0,0:13:03.30,0:13:06.71,Default,,0000,0000,0000,,A good-luck camel? What a joke.
+Dialogue: 0,0:13:07.98,0:13:12.56,Default,,0000,0000,0000,,I came to check just in case...\NThey sure are connected by fate.
+Dialogue: 0,0:13:13.03,0:13:17.37,Default,,0000,0000,0000,,Seriously, I wish they wouldn't\Npull me into things like this.
+Dialogue: 0,0:13:29.36,0:13:33.58,Default,,0000,0000,0000,,I don't want you to call me out so easily.
+Dialogue: 0,0:13:34.08,0:13:35.55,Default,,0000,0000,0000,,Well, don't be like that.
+Dialogue: 0,0:13:35.55,0:13:38.97,Default,,0000,0000,0000,,In order to join hands, we have to settle things.
+Dialogue: 0,0:13:38.97,0:13:43.05,Default,,0000,0000,0000,,I've been having a hard time with that tomboy.
+Dialogue: 0,0:13:43.05,0:13:46.05,Default,,0000,0000,0000,,This is a good chance.\NYou don't have to hold back.
+Dialogue: 0,0:13:46.05,0:13:50.51,Default,,0000,0000,0000,,Then, Commissioner, it's okay\Nto flashily get rid of Straw Hat?
+Dialogue: 0,0:13:50.51,0:13:56.23,Default,,0000,0000,0000,,It shouldn't be a big deal for a\Npoliceman or two to disappear.
+Dialogue: 0,0:13:56.23,0:13:59.34,Default,,0000,0000,0000,,Fortunately, it's he who's at fault this time.
+Dialogue: 0,0:13:59.34,0:14:02.93,Default,,0000,0000,0000,,I can help you without any hesitation.
+Dialogue: 0,0:14:03.48,0:14:06.52,Default,,0000,0000,0000,,--Gulp.\N--That's reassuring.
+Dialogue: 0,0:14:07.30,0:14:13.66,Default,,0000,0000,0000,,After I get rid of him, you and I will\Ncontrol this town and do as we please.
+Dialogue: 0,0:14:13.99,0:14:16.29,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:16.29,0:14:17.25,Default,,0000,0000,0000,,Well, then...
+Dialogue: 0,0:14:17.25,0:14:19.42,On Top,,0000,0000,0000,,"Confectionery\NCarefully Produced"
+Dialogue: 0,0:14:18.24,0:14:20.42,Default,,0000,0000,0000,,These are golden-colored confectioneries.
+Dialogue: 0,0:14:22.52,0:14:24.46,Default,,0000,0000,0000,,You're bad.
+Dialogue: 0,0:14:24.46,0:14:26.34,Default,,0000,0000,0000,,Not as bad as you are.
+Dialogue: 0,0:14:35.36,0:14:36.78,Default,,0000,0000,0000,,What's the matter, Cabaji?!
+Dialogue: 0,0:14:36.78,0:14:39.23,Default,,0000,0000,0000,,Well... Seems like it was my imagination.
+Dialogue: 0,0:14:40.16,0:14:41.80,Default,,0000,0000,0000,,Don't scare me like that, you moron-ji!
+Dialogue: 0,0:14:41.80,0:14:43.46,Default,,0000,0000,0000,,I-I'm sorry.
+Dialogue: 0,0:14:46.30,0:14:47.99,Default,,0000,0000,0000,,I'm so busy! I'm so busy!
+Dialogue: 0,0:14:47.99,0:14:51.48,Default,,0000,0000,0000,,Th-There's trouble! There's trouble!
+Dialogue: 0,0:14:51.48,0:14:52.96,Default,,0000,0000,0000,,Boss! There's trouble!
+Dialogue: 0,0:14:53.47,0:14:56.86,Default,,0000,0000,0000,,I sent Boss out for delivery with that camel.
+Dialogue: 0,0:14:56.86,0:14:57.79,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:14:57.79,0:15:01.67,Default,,0000,0000,0000,,What bad timing! Orika got\Nkidnapped by the Buggy Family!
+Dialogue: 0,0:15:01.67,0:15:03.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:03.08,0:15:06.13,Default,,0000,0000,0000,,I heard that she got caught by them\Nout of the blue on her way home.
+Dialogue: 0,0:15:06.13,0:15:10.04,Default,,0000,0000,0000,,Seems like they were after Orika from the start.
+Dialogue: 0,0:15:10.04,0:15:11.66,Default,,0000,0000,0000,,Hey, Straw Hat.
+Dialogue: 0,0:15:11.66,0:15:13.68,Default,,0000,0000,0000,,Hm? Ah! You guys are...!
+Dialogue: 0,0:15:13.68,0:15:17.85,Default,,0000,0000,0000,,Is it really okay with you? That girl\Nwill be sold off to repay the loan.
+Dialogue: 0,0:15:18.73,0:15:20.27,Default,,0000,0000,0000,,What'd you say about Orika?!
+Dialogue: 0,0:15:20.27,0:15:23.51,Default,,0000,0000,0000,,She should be leaving the harbor soon.
+Dialogue: 0,0:15:23.51,0:15:26.15,Default,,0000,0000,0000,,Shouldn't you be on your way to rescue her?
+Dialogue: 0,0:15:26.73,0:15:29.19,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:15:29.55,0:15:30.99,Default,,0000,0000,0000,,Give up.
+Dialogue: 0,0:15:30.99,0:15:35.53,Default,,0000,0000,0000,,You are an important piece\Nof bait to trick Straw Hat.
+Dialogue: 0,0:15:35.53,0:15:38.45,Default,,0000,0000,0000,,This time, we're collecting\Nmoney based on a deed.
+Dialogue: 0,0:15:38.45,0:15:41.58,Default,,0000,0000,0000,,If he tries to raise his hand against\Nme in front of the commissioner,
+Dialogue: 0,0:15:41.58,0:15:44.44,Default,,0000,0000,0000,,he can immediately get fired and be exiled.
+Dialogue: 0,0:15:44.44,0:15:48.39,Default,,0000,0000,0000,,On top of that, I'll get\Nmoney from selling you off.
+Dialogue: 0,0:15:50.90,0:15:53.47,Default,,0000,0000,0000,,Just you wait, Straw Hat!
+Dialogue: 0,0:15:56.01,0:15:59.22,Default,,0000,0000,0000,,Buggy! What're you gonna\Ndo with Orika?! Let her go!
+Dialogue: 0,0:16:01.10,0:16:07.05,Default,,0000,0000,0000,,Sorry, Straw Hat. I'm taking this girl\Nas collateral for that man's loan.
+Dialogue: 0,0:16:07.05,0:16:10.68,Default,,0000,0000,0000,,There's no reason for you to butt in\Nthis time! Mind your own business!
+Dialogue: 0,0:16:10.68,0:16:12.14,Default,,0000,0000,0000,,Let's go, men!
+Dialogue: 0,0:16:12.14,0:16:14.96,Default,,0000,0000,0000,,--Yes, sir!\N--Help me, Boss!
+Dialogue: 0,0:16:16.39,0:16:18.20,Default,,0000,0000,0000,,I said...
+Dialogue: 0,0:16:18.20,0:16:20.32,Default,,0000,0000,0000,,...let her go!
+Dialogue: 0,0:16:34.52,0:16:37.05,Default,,0000,0000,0000,,You interfered with us, Straw Hat!
+Dialogue: 0,0:16:37.05,0:16:40.30,Default,,0000,0000,0000,,A policeman beating up commoners\Nover personal matters?
+Dialogue: 0,0:16:40.30,0:16:41.86,Default,,0000,0000,0000,,What's your problem?!
+Dialogue: 0,0:16:41.86,0:16:46.47,Default,,0000,0000,0000,,Hey, what do you think about\Nhis act?! Commissioner?
+Dialogue: 0,0:16:47.31,0:16:50.76,Default,,0000,0000,0000,,I'm disappointed in you, Straw Hat.
+Dialogue: 0,0:16:51.44,0:16:54.07,Default,,0000,0000,0000,,What have you done?
+Dialogue: 0,0:16:54.07,0:16:57.64,Default,,0000,0000,0000,,Ack! The commissioner?\NWhat's he doing in a place like this?!
+Dialogue: 0,0:16:57.64,0:16:58.79,Default,,0000,0000,0000,,The commissioner?
+Dialogue: 0,0:16:58.79,0:17:02.05,Default,,0000,0000,0000,,Yeah. Just like our boss, Koza-sama,
+Dialogue: 0,0:17:02.05,0:17:04.84,Default,,0000,0000,0000,,he's a town commissioner and\Nthe top person in this town.
+Dialogue: 0,0:17:04.84,0:17:06.00,Default,,0000,0000,0000,,Whoa...
+Dialogue: 0,0:17:06.00,0:17:07.34,Default,,0000,0000,0000,,To think that you'd use violence
+Dialogue: 0,0:17:07.34,0:17:10.61,Default,,0000,0000,0000,,towards commoners who\Nare not at fault like this...
+Dialogue: 0,0:17:10.61,0:17:13.92,Default,,0000,0000,0000,,As a commissioner, I cannot overlook this.
+Dialogue: 0,0:17:13.92,0:17:19.77,Default,,0000,0000,0000,,Straw Hat Luffy! I hereby strip you of\Nyour role as policeman. You're fired!
+Dialogue: 0,0:17:19.77,0:17:23.95,Default,,0000,0000,0000,,Leave this country immediately\Nand never set foot here again!
+Dialogue: 0,0:17:23.95,0:17:25.27,Default,,0000,0000,0000,,--What?!\N--Why?!
+Dialogue: 0,0:17:27.75,0:17:29.70,Default,,0000,0000,0000,,Got that, Straw Hat?!
+Dialogue: 0,0:17:29.70,0:17:32.56,Default,,0000,0000,0000,,It's your punishment for meddling\Nin our business all the time!
+Dialogue: 0,0:17:32.56,0:17:35.00,Default,,0000,0000,0000,,Thanks for all your hard work!
+Dialogue: 0,0:17:35.00,0:17:37.97,Default,,0000,0000,0000,,If you get it, then hurry up and leave!
+Dialogue: 0,0:17:39.06,0:17:40.83,Default,,0000,0000,0000,,What're you guys talking about?
+Dialogue: 0,0:17:41.41,0:17:45.29,Default,,0000,0000,0000,,Why do I have to leave here\Njust because I tried to save Orika?
+Dialogue: 0,0:17:45.29,0:17:46.66,Default,,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:17:46.66,0:17:49.89,Default,,0000,0000,0000,,You're still talking like that, you blockhead?!
+Dialogue: 0,0:17:49.89,0:17:51.52,Default,,0000,0000,0000,,It's unseemly, Straw Hat.
+Dialogue: 0,0:17:51.52,0:17:54.38,Default,,0000,0000,0000,,Are you trying to talk your way out\Nafter everything you've done?
+Dialogue: 0,0:17:54.93,0:17:59.68,Default,,0000,0000,0000,,I can immediately call the constables in\Nand have them arrest you, you know.
+Dialogue: 0,0:18:00.34,0:18:03.16,Default,,0000,0000,0000,,You're the one who should\Nbe arrested, Commissioner!
+Dialogue: 0,0:18:03.16,0:18:03.85,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:05.60,0:18:08.76,Default,,0000,0000,0000,,A town commissioner joining hands\Nwith criminals? It's quite inexcusable!
+Dialogue: 0,0:18:08.76,0:18:11.11,Default,,0000,0000,0000,,I'm removing you from your position right away!
+Dialogue: 0,0:18:11.11,0:18:13.47,Default,,0000,0000,0000,,What? Who are you?
+Dialogue: 0,0:18:13.47,0:18:17.18,Default,,0000,0000,0000,,You sure talk like a big shot.
+Dialogue: 0,0:18:17.18,0:18:20.37,Default,,0000,0000,0000,,Do you say that knowing that\NI'm the North Town Commissioner?
+Dialogue: 0,0:18:20.75,0:18:22.03,Default,,0000,0000,0000,,Oh? That's...
+Dialogue: 0,0:18:22.03,0:18:24.79,Default,,0000,0000,0000,,How insolent! Kneel down!
+Dialogue: 0,0:18:25.20,0:18:27.46,Default,,0000,0000,0000,,Who do you think this is?
+Dialogue: 0,0:18:27.46,0:18:32.21,Default,,0000,0000,0000,,She's the daughter of Shogun Cobra! Vivi-sama!
+Dialogue: 0,0:18:32.21,0:18:33.73,Default,,0000,0000,0000,,Ack!
+Dialogue: 0,0:18:33.73,0:18:37.15,Default,,0000,0000,0000,,You're being disrespectful! Kneel down!
+Dialogue: 0,0:18:43.76,0:18:45.61,Default,,0000,0000,0000,,--Vivi!\N--Vivi!
+Dialogue: 0,0:18:45.61,0:18:47.67,Default,,0000,0000,0000,,So it was really you, Vivi!
+Dialogue: 0,0:18:47.67,0:18:49.39,Default,,0000,0000,0000,,It's been a while, everyone.
+Dialogue: 0,0:18:49.39,0:18:53.27,Default,,0000,0000,0000,,B-But... what's the princess doing here?
+Dialogue: 0,0:18:53.27,0:18:56.97,Default,,0000,0000,0000,,My investigation has shown\Nthat you took a bribe
+Dialogue: 0,0:18:56.97,0:19:01.07,Default,,0000,0000,0000,,and are working with the\Nclown to trick Boss Straw Hat.
+Dialogue: 0,0:19:01.81,0:19:03.45,Default,,0000,0000,0000,,Give up peacefully.
+Dialogue: 0,0:19:03.45,0:19:05.16,Default,,0000,0000,0000,,Y-Yes, ma'am!
+Dialogue: 0,0:19:06.56,0:19:09.26,Default,,0000,0000,0000,,Don't "Yes ma'am" her, you stupid jerk!
+Dialogue: 0,0:19:09.26,0:19:11.95,Default,,0000,0000,0000,,Dammit! Now that it's come\Nto this, I'll flashily withdraw,
+Dialogue: 0,0:19:11.95,0:19:13.47,Default,,0000,0000,0000,,taking the loan collateral with me!
+Dialogue: 0,0:19:13.47,0:19:14.67,Default,,0000,0000,0000,,--Like I said...!\N--Huh?
+Dialogue: 0,0:19:14.67,0:19:17.84,Default,,0000,0000,0000,,Orika can't be collateral for the loan!
+Dialogue: 0,0:19:18.51,0:19:21.09,Default,,0000,0000,0000,,Because she isn't pops' daughter.
+Dialogue: 0,0:19:21.09,0:19:23.72,Default,,0000,0000,0000,,--Huh?\N--This way! Hurry up!
+Dialogue: 0,0:19:23.80,0:19:27.27,Default,,0000,0000,0000,,She called him pops!\NThey're clearly father and daughter!
+Dialogue: 0,0:19:28.31,0:19:31.60,Default,,0000,0000,0000,,There they are! Hey, Boss! I brought him here!
+Dialogue: 0,0:19:32.09,0:19:33.69,Default,,0000,0000,0000,,Oh, thanks!
+Dialogue: 0,0:19:35.52,0:19:37.68,Default,,0000,0000,0000,,Oh, hey, pops!
+Dialogue: 0,0:19:37.68,0:19:40.61,Default,,0000,0000,0000,,I heard you collapsed. Are you okay now?
+Dialogue: 0,0:19:40.61,0:19:42.34,Default,,0000,0000,0000,,Don't push yourself, pops!
+Dialogue: 0,0:19:42.34,0:19:45.28,Default,,0000,0000,0000,,Things just aren't the same\Nat Pinwheel without you!
+Dialogue: 0,0:19:45.28,0:19:47.70,Default,,0000,0000,0000,,--Wh-What?\N--Let's have a drink together again soon, pops!
+Dialogue: 0,0:19:48.06,0:19:51.70,Default,,0000,0000,0000,,In this town, everyone calls him "pops."
+Dialogue: 0,0:19:51.70,0:19:54.42,Default,,0000,0000,0000,,There's nothing odd about\NOrika calling him that, right?
+Dialogue: 0,0:19:56.38,0:19:59.20,Default,,0000,0000,0000,,But he was sleeping at her house!
+Dialogue: 0,0:19:59.20,0:20:04.12,Default,,0000,0000,0000,,Pops made his cold worse and\Ncollapsed the other day on the street.
+Dialogue: 0,0:20:04.12,0:20:06.53,Default,,0000,0000,0000,,And Orika happened to pass by.
+Dialogue: 0,0:20:06.53,0:20:09.14,Default,,0000,0000,0000,,She's the kind of girl who can't\Njust leave someone like that.
+Dialogue: 0,0:20:13.23,0:20:16.00,Default,,0000,0000,0000,,Then this girl has nothing to do with the loan!
+Dialogue: 0,0:20:16.00,0:20:17.95,Default,,0000,0000,0000,,I told you so!
+Dialogue: 0,0:20:17.95,0:20:19.32,Default,,0000,0000,0000,,Which means that...
+Dialogue: 0,0:20:19.77,0:20:21.82,Default,,0000,0000,0000,,You're just a kidnapper!
+Dialogue: 0,0:20:21.82,0:20:23.82,Default,,0000,0000,0000,,Shock!
+Dialogue: 0,0:20:25.99,0:20:27.66,Default,,0000,0000,0000,,Mom!
+Dialogue: 0,0:20:27.66,0:20:28.96,Default,,0000,0000,0000,,Rika!
+Dialogue: 0,0:20:30.28,0:20:32.21,Default,,0000,0000,0000,,You get it now? Then I'm\Ngonna do it this year again.
+Dialogue: 0,0:20:35.15,0:20:36.50,Default,,0000,0000,0000,,Time to get blown away, Buggy!
+Dialogue: 0,0:20:36.50,0:20:41.59,Default,,0000,0000,0000,,Gum-Gum... Bazooka!
+Dialogue: 0,0:20:41.59,0:20:46.00,Default,,0000,0000,0000,,Good job, guys!
+Dialogue: 0,0:20:50.67,0:20:54.02,Default,,0000,0000,0000,,Our lord's pet?! This camel is?!
+Dialogue: 0,0:20:54.40,0:20:59.60,Default,,0000,0000,0000,,That's right. Lashes has been lost for a while,\Nso we've all been looking for him.
+Dialogue: 0,0:20:59.60,0:21:01.99,Default,,0000,0000,0000,,The reward is a million Ryo-Berries.
+Dialogue: 0,0:21:01.99,0:21:03.44,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:03.44,0:21:06.10,Default,,0000,0000,0000,,Vivi! You don't mean...
+Dialogue: 0,0:21:06.10,0:21:08.21,Default,,0000,0000,0000,,Yes, we'll definitely pay the reward.
+Dialogue: 0,0:21:08.21,0:21:10.12,Default,,0000,0000,0000,,Ahhh! All right!
+Dialogue: 0,0:21:10.75,0:21:12.83,Default,,0000,0000,0000,,Since this is becoming a routine,\Nit's hard to tell you this,
+Dialogue: 0,0:21:12.83,0:21:14.95,Default,,0000,0000,0000,,but isn't it Orika who deserves the credit?
+Dialogue: 0,0:21:15.42,0:21:20.83,Default,,0000,0000,0000,,That's okay. Let's share it. We all\Ntook care of him, so... Right, Mom?
+Dialogue: 0,0:21:20.83,0:21:22.14,Default,,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:21:22.14,0:21:24.92,Default,,0000,0000,0000,,Geez... I love you, Orika!
+Dialogue: 0,0:21:24.92,0:21:27.76,Default,,0000,0000,0000,,Okay, then! Let's have some fun today!
+Dialogue: 0,0:21:27.76,0:21:29.79,Default,,0000,0000,0000,,We'll celebrate pops'\Ncomplete recovery as well!
+Dialogue: 0,0:21:32.86,0:21:35.10,Default,,0000,0000,0000,,Come to think of it, what're these decorations?
+Dialogue: 0,0:21:35.10,0:21:38.51,Default,,0000,0000,0000,,You don't know?! Today's called\NChristmas Eve in foreign countries,
+Dialogue: 0,0:21:38.51,0:21:40.23,Default,,0000,0000,0000,,and it's a joyous day.
+Dialogue: 0,0:21:40.23,0:21:42.70,Default,,0000,0000,0000,,It's nice to be cheery like\Nthis once in a while, right?
+Dialogue: 0,0:21:42.70,0:21:43.94,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:21:43.94,0:21:47.20,Default,,0000,0000,0000,,Say, Onami-san. Can I ask you a favor?
+Dialogue: 0,0:21:47.57,0:21:51.26,Default,,0000,0000,0000,,--What is it?\N--Orika took in someone who\Ncollapsed on the street again.
+Dialogue: 0,0:21:51.26,0:21:54.58,Default,,0000,0000,0000,,We've already brought him here and\Nhe's outside. Can we bring him inside?
+Dialogue: 0,0:21:55.16,0:21:56.37,Default,,0000,0000,0000,,Collapsed on the street?
+Dialogue: 0,0:22:02.13,0:22:04.09,Default,,0000,0000,0000,,I'm starving...
+Dialogue: 0,0:22:04.09,0:22:08.62,Default,,0000,0000,0000,,Hey, monk. If a foreign celebration is\Nokay with you, why don't you come in?
+Dialogue: 0,0:22:08.62,0:22:09.93,Default,,0000,0000,0000,,We've got lots of yummy food.
+Dialogue: 0,0:22:09.93,0:22:12.01,Default,,0000,0000,0000,,Yeah, sounds good.
+Dialogue: 0,0:22:12.01,0:22:15.53,Default,,0000,0000,0000,,All right, then! Let's really\Nwhoop it up, shall we?!
+Dialogue: 0,0:22:17.92,0:22:20.50,Default,,0000,0000,0000,,Come to think of it, where's Dr. Bluenose?
+Dialogue: 0,0:22:20.50,0:22:22.78,Default,,0000,0000,0000,,Seems like he's still busy.
+Dialogue: 0,0:22:22.78,0:22:24.98,Default,,0000,0000,0000,,Since he can understand animal languages,
+Dialogue: 0,0:22:24.98,0:22:28.03,Default,,0000,0000,0000,,Lashes' problem could've been solved\Nright away if he had been around.
+Dialogue: 0,0:22:28.03,0:22:30.20,Default,,0000,0000,0000,,Now that you mention it, you're right.
+Dialogue: 0,0:22:32.70,0:22:37.00,Default,,0000,0000,0000,,I'm telling you, today is a\Nreally busy day for reindeers!
+Dialogue: 0,0:22:44.34,0:22:45.55,Default,,0000,0000,0000,,Boss! There's trouble! There's trouble!
+Dialogue: 0,0:22:45.55,0:22:47.20,Default,,0000,0000,0000,,For some reason, there's always trouble!
+Dialogue: 0,0:22:47.20,0:22:49.43,Default,,0000,0000,0000,,Oh, eat a rice cake or something\Nand calm down, Usopp.
+Dialogue: 0,0:22:49.43,0:22:50.39,Default,,0000,0000,0000,,This is about rice cakes!
+Dialogue: 0,0:22:50.39,0:22:51.93,Default,,0000,0000,0000,,They're gonna have a\Nrice cake tossing event at the castle,
+Dialogue: 0,0:22:51.93,0:22:53.94,Default,,0000,0000,0000,,and one of them will have\Nan amazing treasure inside!
+Dialogue: 0,0:22:53.94,0:22:55.70,Default,,0000,0000,0000,,I wonder how big of an uproar it'll cause!
+Dialogue: 0,0:22:55.70,0:22:58.92,Default,,0000,0000,0000,,Oh, that. Our lord is asking us to protect it.
+Dialogue: 0,0:22:58.92,0:23:01.40,Default,,0000,0000,0000,,Oh, that'd be a lot of work. Hey, we are?!
+Dialogue: 0,0:23:01.40,0:23:02.40,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:02.40,0:23:06.07,Default,,0000,0000,0000,,"A Big Rice Cake Tossing Race\Nat the Castle! Red Nose's Plot"
+Dialogue: 0,0:23:06.07,0:23:08.67,Default,,0000,0000,0000,,I'm gonna be a policeman!!

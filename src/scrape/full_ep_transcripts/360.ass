@@ -1,0 +1,295 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.35,0:00:20.76,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.76,0:00:22.87,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:22.87,0:00:29.90,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.24,0:00:40.56,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.56,0:00:43.98,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.25,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.25,0:01:09.33,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.33,0:01:16.51,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.58,0:01:27.03,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:27.03,0:01:30.23,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.78,0:01:41.99,On Top,,0000,0000,0000,,With our pulses racing, let's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.17,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.17,0:01:55.79,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.79,0:02:00.15,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.15,0:02:02.85,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:02.85,0:02:04.52,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.52,0:02:06.23,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.23,0:02:07.89,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:07.89,0:02:09.52,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.52,0:02:11.06,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.06,0:02:12.98,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.59,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.59,0:02:15.76,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.76,0:02:20.02,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:20.02,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.58,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.58,0:02:29.00,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.11,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.11,0:02:35.49,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.49,0:02:39.90,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.90,0:02:43.01,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.86,0:02:50.02,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:51.05,0:02:53.79,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.79,0:02:56.40,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.90,0:02:59.17,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:59.17,0:03:02.87,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:03:03.32,0:03:07.36,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:03:07.36,0:03:11.83,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.38,0:03:16.84,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.42,0:03:21.46,Default,,0000,0000,0000,,The world has truly entered a Great Pirate Era!
+Dialogue: 0,0:03:23.97,0:03:30.31,Default,,0000,0000,0000,,That's right. You are the man\Nwho stole one of my dreams!
+Dialogue: 0,0:03:31.13,0:03:33.77,Default,,0000,0000,0000,,Who the hell are you...?!
+Dialogue: 0,0:03:34.23,0:03:36.20,Default,,0000,0000,0000,,I put a lot of thought into my dream!
+Dialogue: 0,0:03:36.20,0:03:39.59,Default,,0000,0000,0000,,If I ate the fruit, I'd use my abilities\Nto watch women bathe!
+Dialogue: 0,0:03:39.59,0:03:43.20,Default,,0000,0000,0000,,No! Just think of all the things I could\Nuse it for. I could... watch women bathe!
+Dialogue: 0,0:03:43.20,0:03:47.79,Default,,0000,0000,0000,,No, Just imagine how I could help others.\NI could... watch women bathe!
+Dialogue: 0,0:03:47.79,0:03:48.95,Default,,0000,0000,0000,,Phantom Hand!
+Dialogue: 0,0:03:48.95,0:03:50.08,Default,,0000,0000,0000,,Phantom Leg!
+Dialogue: 0,0:03:53.71,0:03:55.75,Default,,0000,0000,0000,,I'm not about to let go, you sick beast!
+Dialogue: 0,0:03:57.80,0:04:03.13,Default,,0000,0000,0000,,If you're a mix of a bunch of animals,\NI bet you'll make lovely mincemeat!
+Dialogue: 0,0:04:06.89,0:04:09.01,Default,,0000,0000,0000,,Extra Haché!
+Dialogue: 0,0:04:14.73,0:04:18.13,Default,,0000,0000,0000,,Your lack of experience is going\Nto make you humiliate yourself
+Dialogue: 0,0:04:18.13,0:04:20.48,Default,,0000,0000,0000,,when you underestimate others, greenhorn.
+Dialogue: 0,0:04:21.58,0:04:24.91,Default,,0000,0000,0000,,You jerk! Now I'm ticked!
+Dialogue: 0,0:04:25.50,0:04:27.12,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:04:28.13,0:04:31.75,Default,,0000,0000,0000,,Why did you jump over the rail?\NTrying to run away?
+Dialogue: 0,0:04:31.75,0:04:34.08,Default,,0000,0000,0000,,...Stamp!
+Dialogue: 0,0:04:39.88,0:04:42.51,Default,,0000,0000,0000,,That hurt, brat!
+Dialogue: 0,0:04:42.51,0:04:46.89,Default,,0000,0000,0000,,Take that! So much for me not being\Nable to touch you, Giant Shallot!
+Dialogue: 0,0:04:46.89,0:04:50.64,Default,,0000,0000,0000,,Now then, I think I might teach\Nthat Horo-Horo Chick a lesson,
+Dialogue: 0,0:04:50.64,0:04:53.35,Default,,0000,0000,0000,,since she's weaker than me!
+Dialogue: 0,0:04:54.59,0:04:56.90,Default,,0000,0000,0000,,Huh? Where did she go?
+Dialogue: 0,0:04:56.90,0:04:59.59,Default,,0000,0000,0000,,Over here, Mr. Negative Nose.
+Dialogue: 0,0:05:01.95,0:05:03.96,Default,,0000,0000,0000,,Huh? I don't see you.
+Dialogue: 0,0:05:03.96,0:05:06.16,Default,,0000,0000,0000,,Could she be outside?
+Dialogue: 0,0:05:06.16,0:05:08.95,Default,,0000,0000,0000,,No, she couldn't be out there...
+Dialogue: 0,0:05:08.95,0:05:13.95,Default,,0000,0000,0000,,We're up on a really high fl--whoa!
+Dialogue: 0,0:05:17.81,0:05:20.95,Default,,0000,0000,0000,,I just figured out how\NI'm going to take you down.
+Dialogue: 0,0:05:20.95,0:05:24.72,Default,,0000,0000,0000,,Once I knock you off,\Nthe others will be easy pickings!
+Dialogue: 0,0:05:24.72,0:05:30.85,Default,,0000,0000,0000,,Wait a sec! This is not what I was expecting!
+Dialogue: 0,0:05:33.11,0:05:37.76,Default,,0000,0000,0000,,"Save Me, Hero!! My Enemy\NIs the Immortal Princess!"
+Dialogue: 0,0:06:09.21,0:06:13.60,Default,,0000,0000,0000,,That stinking hurt! You're going\Nto regret that, Straw Hat!
+Dialogue: 0,0:06:25.25,0:06:29.32,Default,,0000,0000,0000,,Stuff it! I'll kick your butt\Nas many times as it takes.
+Dialogue: 0,0:06:29.32,0:06:30.66,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:06:30.66,0:06:32.74,Default,,0000,0000,0000,,...Stamp!
+Dialogue: 0,0:06:36.55,0:06:38.16,Default,,0000,0000,0000,,Why, you--! Get off of me!
+Dialogue: 0,0:06:38.16,0:06:41.72,Default,,0000,0000,0000,,Your wish is my command. Brick Bat!
+Dialogue: 0,0:06:44.88,0:06:46.26,Default,,0000,0000,0000,,Not again!
+Dialogue: 0,0:06:49.05,0:06:53.35,Default,,0000,0000,0000,,Gum-Gum Finger Net!
+Dialogue: 0,0:07:06.67,0:07:07.82,Default,,0000,0000,0000,,There's no end to this!
+Dialogue: 0,0:07:32.18,0:07:37.51,Default,,0000,0000,0000,,Why... are you... flying in the sky?
+Dialogue: 0,0:07:38.12,0:07:39.81,Default,,0000,0000,0000,,This doesn't make any sense!
+Dialogue: 0,0:07:39.81,0:07:42.42,Default,,0000,0000,0000,,Just a minute ago, she was running\Nlike her life depended on it.
+Dialogue: 0,0:07:42.42,0:07:44.77,Default,,0000,0000,0000,,Where'd all this confidence come from?
+Dialogue: 0,0:07:53.03,0:07:56.12,Default,,0000,0000,0000,,You merely caught me by surprise back there.
+Dialogue: 0,0:08:04.42,0:08:07.67,Default,,0000,0000,0000,,Why?! Why aren't you falling to your knees?!
+Dialogue: 0,0:08:08.13,0:08:13.38,Default,,0000,0000,0000,,I've always been negative!
+Dialogue: 0,0:08:14.80,0:08:19.22,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:20.15,0:08:25.24,Default,,0000,0000,0000,,It never occurred to me that someone\Nmight be immune to my Negative Ghosts.
+Dialogue: 0,0:08:26.75,0:08:29.02,Default,,0000,0000,0000,,I have just one thing to say to you.
+Dialogue: 0,0:08:30.94,0:08:32.46,Default,,0000,0000,0000,,There are plenty of good things in life!
+Dialogue: 0,0:08:32.46,0:08:33.53,Default,,0000,0000,0000,,Drop it!
+Dialogue: 0,0:08:35.94,0:08:38.28,Default,,0000,0000,0000,,So what if you can fly?!
+Dialogue: 0,0:08:38.79,0:08:42.04,Default,,0000,0000,0000,,I'm a sniper! I don't care if you\Ncan fly or dance or whatever!
+Dialogue: 0,0:08:42.87,0:08:44.34,Default,,0000,0000,0000,,Allow me to explain.
+Dialogue: 0,0:08:44.34,0:08:46.10,Default,,0000,0000,0000,,My new weapon, Kabuto,
+Dialogue: 0,0:08:46.10,0:08:49.30,Default,,0000,0000,0000,,has greater stability and range\Nthanks to these five prongs.
+Dialogue: 0,0:08:49.30,0:08:54.15,Default,,0000,0000,0000,,If I activate the Breath Dials I got\Nat the sky island when I shoot,
+Dialogue: 0,0:08:54.15,0:08:57.73,Default,,0000,0000,0000,,the rotation of my ammo changes,\Ncreating different effects!
+Dialogue: 0,0:08:57.73,0:09:00.22,Default,,0000,0000,0000,,It's like a super Pachinko!
+Dialogue: 0,0:09:00.91,0:09:03.27,Default,,0000,0000,0000,,Flame! Flash! Impact!
+Dialogue: 0,0:09:03.27,0:09:07.19,Default,,0000,0000,0000,,By changing the Dials, my ammo\Ncan grow even more powerful!
+Dialogue: 0,0:09:07.19,0:09:09.90,Default,,0000,0000,0000,,No one can escape this puppy!
+Dialogue: 0,0:09:12.99,0:09:14.95,Default,,0000,0000,0000,,Now say your pray--
+Dialogue: 0,0:09:14.95,0:09:17.63,Default,,0000,0000,0000,,She's gone!
+Dialogue: 0,0:09:17.63,0:09:21.03,Default,,0000,0000,0000,,Huh? Where'd she go?
+Dialogue: 0,0:09:22.47,0:09:23.91,Default,,0000,0000,0000,,I'm behind you.
+Dialogue: 0,0:09:30.45,0:09:32.75,Default,,0000,0000,0000,,Go ahead and take your best shot.
+Dialogue: 0,0:09:32.75,0:09:35.76,Default,,0000,0000,0000,,Ehhh?!
+Dialogue: 0,0:09:35.76,0:09:39.09,Default,,0000,0000,0000,,Wh-What in the world are you?!
+Dialogue: 0,0:09:42.64,0:09:43.87,Default,,0000,0000,0000,,Why, you...!
+Dialogue: 0,0:09:43.87,0:09:46.85,Default,,0000,0000,0000,,Special Attack! Swallowtail Meteor!
+Dialogue: 0,0:09:48.36,0:09:50.44,Default,,0000,0000,0000,,Gah! Sh-She reverted to her original size!
+Dialogue: 0,0:09:52.54,0:09:53.50,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:09:55.61,0:09:58.61,Default,,0000,0000,0000,,You little...! I'm gonna shoot you down!
+Dialogue: 0,0:09:58.61,0:09:59.45,Default,,0000,0000,0000,,Mantis Meteor!
+Dialogue: 0,0:10:02.66,0:10:05.66,Default,,0000,0000,0000,,What's the problem?\NDidn't you have perfect aim?
+Dialogue: 0,0:10:08.34,0:10:09.04,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:10:09.70,0:10:12.17,Default,,0000,0000,0000,,Take this! And this, dammit!
+Dialogue: 0,0:10:12.17,0:10:15.76,Default,,0000,0000,0000,,Eat this! Mantis! Swallowtail!\NDragonfly! Mayfly Meteor!
+Dialogue: 0,0:10:31.45,0:10:36.27,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:39.11,0:10:41.73,Default,,0000,0000,0000,,Y-Your hands...!
+Dialogue: 0,0:10:41.73,0:10:44.24,Default,,0000,0000,0000,,Your hands sunk into my body!
+Dialogue: 0,0:10:45.03,0:10:46.47,Default,,0000,0000,0000,,I-I've been stabbed!
+Dialogue: 0,0:10:46.47,0:10:48.90,Default,,0000,0000,0000,,Y-You stabbed me with your bare hands!
+Dialogue: 0,0:10:48.90,0:10:52.60,Default,,0000,0000,0000,,I'm finished...! I'm gonna...!
+Dialogue: 0,0:10:54.51,0:10:58.17,Default,,0000,0000,0000,,I'm dead meat! I'm gonna die from blood loss!
+Dialogue: 0,0:10:58.17,0:11:00.56,Default,,0000,0000,0000,,Stupid! Take a better look.
+Dialogue: 0,0:11:00.56,0:11:05.60,Default,,0000,0000,0000,,I haven't hurt you, but my\Nhands are inside your body.
+Dialogue: 0,0:11:13.68,0:11:15.82,Default,,0000,0000,0000,,Do you know what this means?
+Dialogue: 0,0:11:17.12,0:11:20.44,Default,,0000,0000,0000,,It's true that you're about to die.
+Dialogue: 0,0:11:25.59,0:11:32.67,Default,,0000,0000,0000,,Let me tell you why. I'm just about to\Ncrush your heart with my own two hands.
+Dialogue: 0,0:11:34.00,0:11:36.95,Default,,0000,0000,0000,,Don't! Please don't crush it!
+Dialogue: 0,0:11:36.95,0:11:39.17,Default,,0000,0000,0000,,I'll die for real!
+Dialogue: 0,0:11:39.59,0:11:41.88,Default,,0000,0000,0000,,I'm going to kill you.
+Dialogue: 0,0:11:42.70,0:11:47.51,Default,,0000,0000,0000,,Now writhe in agony as you die!
+Dialogue: 0,0:11:53.17,0:11:58.53,Default,,0000,0000,0000,,No! Please stop it! I don't wanna die!
+Dialogue: 0,0:12:07.66,0:12:09.29,Default,,0000,0000,0000,,Not that I can actually do that!
+Dialogue: 0,0:12:09.95,0:12:11.37,Default,,0000,0000,0000,,That was a bluff?!
+Dialogue: 0,0:12:12.23,0:12:14.98,Default,,0000,0000,0000,,Ouch! I hit my head!
+Dialogue: 0,0:12:14.98,0:12:17.73,Default,,0000,0000,0000,,If I had the physical ability to crush your heart,
+Dialogue: 0,0:12:17.73,0:12:21.59,Default,,0000,0000,0000,,you would have died the moment\Nmy hands pierced through your body.
+Dialogue: 0,0:12:26.02,0:12:28.30,Default,,0000,0000,0000,,Either way, that was bad for my heart!
+Dialogue: 0,0:12:31.91,0:12:34.44,Default,,0000,0000,0000,,I merely passed through...
+Dialogue: 0,0:12:34.91,0:12:36.40,Default,,0000,0000,0000,,...your body.
+Dialogue: 0,0:12:36.40,0:12:40.15,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:12:42.18,0:12:45.70,Default,,0000,0000,0000,,Even though you can clearly see me...
+Dialogue: 0,0:12:48.16,0:12:51.12,Default,,0000,0000,0000,,...my body can pass through anything.
+Dialogue: 0,0:12:55.73,0:12:58.59,Default,,0000,0000,0000,,Special Attack! Six Chamber Viper Star!
+Dialogue: 0,0:13:12.56,0:13:14.95,Default,,0000,0000,0000,,Didn't I just say I can go through anything?
+Dialogue: 0,0:13:18.42,0:13:21.22,Default,,0000,0000,0000,,Stop it! This is creepy!
+Dialogue: 0,0:13:21.22,0:13:25.07,Default,,0000,0000,0000,,In other words, your attacks can't touch me.
+Dialogue: 0,0:13:28.39,0:13:30.26,Default,,0000,0000,0000,,Why, you--! Get away from me!
+Dialogue: 0,0:13:30.26,0:13:34.41,Default,,0000,0000,0000,,Shoo, darn it! You stupid little...!
+Dialogue: 0,0:13:38.78,0:13:42.63,Default,,0000,0000,0000,,Now what are you going to do?\NNone of your attacks will work on me.
+Dialogue: 0,0:13:43.75,0:13:49.34,Default,,0000,0000,0000,,Shut up! A second ago, you bluffed\Nthat you could crush my heart!
+Dialogue: 0,0:13:49.86,0:13:53.43,Default,,0000,0000,0000,,I bet you couldn't touch me if you wanted to!
+Dialogue: 0,0:13:56.01,0:14:01.23,Default,,0000,0000,0000,,I can't attack you, but you can't\Nattack me, either! Isn't that right?
+Dialogue: 0,0:14:01.90,0:14:03.12,Default,,0000,0000,0000,,Mini-Hollow...
+Dialogue: 0,0:14:03.94,0:14:06.24,Default,,0000,0000,0000,,Wh-What are those...?
+Dialogue: 0,0:14:09.74,0:14:11.58,Default,,0000,0000,0000,,Ghost Rap.
+Dialogue: 0,0:14:23.11,0:14:24.86,Default,,0000,0000,0000,,A-A shock wave?
+Dialogue: 0,0:14:27.95,0:14:29.16,Default,,0000,0000,0000,,Get away from me!
+Dialogue: 0,0:14:29.16,0:14:31.79,Default,,0000,0000,0000,,Don't touch me! Get it off of me!\NGet it off, meanie!
+Dialogue: 0,0:14:32.64,0:14:33.85,Default,,0000,0000,0000,,Rap.
+Dialogue: 0,0:14:46.69,0:14:49.28,Default,,0000,0000,0000,,Okay...! Special Attack! Firebird Star!
+Dialogue: 0,0:14:56.58,0:14:58.01,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:14:59.35,0:15:01.00,Default,,0000,0000,0000,,It's not fair!
+Dialogue: 0,0:15:02.00,0:15:05.50,Default,,0000,0000,0000,,How come she can attack me\Nwhen I can't attack her?!
+Dialogue: 0,0:15:05.50,0:15:06.50,Default,,0000,0000,0000,,How is this even a fight?!
+Dialogue: 0,0:15:08.42,0:15:10.97,Default,,0000,0000,0000,,Whoa! Get outta my way!
+Dialogue: 0,0:15:11.67,0:15:13.93,Default,,0000,0000,0000,,I can't see where I'm going! Move it!
+Dialogue: 0,0:15:13.93,0:15:15.14,Default,,0000,0000,0000,,Move!!
+Dialogue: 0,0:15:31.47,0:15:32.32,Default,,0000,0000,0000,,Ghost Rap.
+Dialogue: 0,0:16:07.91,0:16:09.99,Default,,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:16:12.95,0:16:15.36,Default,,0000,0000,0000,,I'm done going easy on him.
+Dialogue: 0,0:16:18.66,0:16:19.96,Default,,0000,0000,0000,,Ghost Rap.
+Dialogue: 0,0:16:45.70,0:16:50.36,Default,,0000,0000,0000,,What the heck? Why am I failing so hard?
+Dialogue: 0,0:16:54.19,0:16:59.70,Default,,0000,0000,0000,,And here... I thought that\Nwoman was weaker than me!
+Dialogue: 0,0:16:59.70,0:17:02.20,Default,,0000,0000,0000,,Tada!
+Dialogue: 0,0:17:03.51,0:17:04.96,Default,,0000,0000,0000,,The bear!
+Dialogue: 0,0:17:05.34,0:17:09.84,Default,,0000,0000,0000,,Careful, there. Kumacy is\Nstronger than a real bear.
+Dialogue: 0,0:17:14.89,0:17:16.81,Default,,0000,0000,0000,,What gives?!
+Dialogue: 0,0:17:16.81,0:17:21.18,Default,,0000,0000,0000,,I was so excited when I was\Nthe only one in my entire crew...
+Dialogue: 0,0:17:21.92,0:17:24.93,Default,,0000,0000,0000,,...who stood a fighting chance\Nagainst this chick's powers!
+Dialogue: 0,0:17:26.15,0:17:30.98,Default,,0000,0000,0000,,You guys--your abilities--\Nare powerless before this chick.
+Dialogue: 0,0:17:31.37,0:17:34.03,Default,,0000,0000,0000,,I'll take her on!
+Dialogue: 0,0:17:53.10,0:17:55.69,Default,,0000,0000,0000,,This is my chance to shine!
+Dialogue: 0,0:17:55.69,0:17:58.47,Default,,0000,0000,0000,,After a declaration like that,\Nhow could I end up like this?
+Dialogue: 0,0:18:00.11,0:18:06.45,Default,,0000,0000,0000,,I'm screwed... This is the end!\NThere is no way I can beat her!
+Dialogue: 0,0:18:06.45,0:18:10.48,Default,,0000,0000,0000,,That woman's gonna kill me and then\Nshe's gonna catch Luffy and the guys.
+Dialogue: 0,0:18:10.48,0:18:12.44,Default,,0000,0000,0000,,Our crew is doomed!
+Dialogue: 0,0:18:16.39,0:18:20.87,Default,,0000,0000,0000,,The weight of saving everyone was...\Ntoo great for me to bear.
+Dialogue: 0,0:18:23.69,0:18:26.14,Default,,0000,0000,0000,,Save me!
+Dialogue: 0,0:18:33.22,0:18:37.16,Default,,0000,0000,0000,,Save me, Sogeking!
+Dialogue: 0,0:18:39.76,0:18:43.13,Default,,0000,0000,0000,,Please tell me! How would you handle this?
+Dialogue: 0,0:18:48.48,0:18:55.59,On Top,,0000,0000,0000,,I was born on the island of snipers
+Dialogue: 0,0:18:52.44,0:18:54.22,Default,,0000,0000,0000,,Kumacy!
+Dialogue: 0,0:18:54.22,0:18:54.97,Default,,0000,0000,0000,,Stomp!
+Dialogue: 0,0:18:55.59,0:18:59.04,On Top,,0000,0000,0000,,I never miss my mark
+Dialogue: 0,0:18:56.95,0:19:00.33,Default,,0000,0000,0000,,Monster! How dare you purify my Kumacy?!
+Dialogue: 0,0:18:59.04,0:19:02.38,On Top,,0000,0000,0000,,Lulu lala lu
+Dialogue: 0,0:19:01.83,0:19:03.99,Default,,0000,0000,0000,,And what's with that goofy mask?!
+Dialogue: 0,0:19:02.38,0:19:05.69,On Top,,0000,0000,0000,,Whether it's a mouse's eyeball, lock on!!
+Dialogue: 0,0:19:05.69,0:19:12.62,On Top,,0000,0000,0000,,Or even your heart, lock on!!
+Dialogue: 0,0:19:06.61,0:19:08.82,Default,,0000,0000,0000,,It is hardly goofy!
+Dialogue: 0,0:19:08.82,0:19:12.74,Default,,0000,0000,0000,,It is a pleasure to meet you.\NMy name is Sogeking.
+Dialogue: 0,0:19:12.62,0:19:19.65,On Top,,0000,0000,0000,,The man who hails from the island of snipers
+Dialogue: 0,0:19:12.74,0:19:16.57,Default,,0000,0000,0000,,You're totally goofing off!\NYou aren't a different person!
+Dialogue: 0,0:19:17.34,0:19:18.73,Default,,0000,0000,0000,,Time to flee!
+Dialogue: 0,0:19:18.73,0:19:20.34,Default,,0000,0000,0000,,You're making a run for it?!
+Dialogue: 0,0:19:19.65,0:19:23.17,On Top,,0000,0000,0000,,Lululu, lulu lala
+Dialogue: 0,0:19:21.05,0:19:25.64,Default,,0000,0000,0000,,You bet I am! I'm not sticking\Naround for this crazy fight!
+Dialogue: 0,0:19:23.17,0:19:28.82,On Top,,0000,0000,0000,,Now... run away!
+Dialogue: 0,0:19:27.00,0:19:30.27,Default,,0000,0000,0000,,I use my negative outlook and\Nbluffs to get through fights!
+Dialogue: 0,0:19:29.84,0:19:31.69,On Top,,0000,0000,0000,,Sogege, soge, soge
+Dialogue: 0,0:19:30.67,0:19:34.01,Default,,0000,0000,0000,,I never thought someone\Nwould use those against me!
+Dialogue: 0,0:19:31.69,0:19:38.11,On Top,,0000,0000,0000,,Sogeking!
+Dialogue: 0,0:19:36.15,0:19:38.11,Default,,0000,0000,0000,,Are you okay with this?
+Dialogue: 0,0:19:39.15,0:19:42.11,Default,,0000,0000,0000,,Calm yourself! Face her and fight, Usopp-kun!
+Dialogue: 0,0:19:42.11,0:19:44.58,Default,,0000,0000,0000,,Shut up! I've had it!
+Dialogue: 0,0:19:44.58,0:19:46.58,Default,,0000,0000,0000,,There is no way I can beat her!
+Dialogue: 0,0:19:46.58,0:19:50.30,Default,,0000,0000,0000,,That is not true! You are a very capable man!
+Dialogue: 0,0:19:50.30,0:19:52.08,Default,,0000,0000,0000,,Can you prove that?
+Dialogue: 0,0:19:53.36,0:19:56.46,Default,,0000,0000,0000,,--No!\N--You can't?!
+Dialogue: 0,0:19:57.14,0:19:58.24,Default,,0000,0000,0000,,Mini-Hollow!
+Dialogue: 0,0:19:59.34,0:20:04.30,Default,,0000,0000,0000,,But think carefully! There are\Nseveral oddities about that woman.
+Dialogue: 0,0:20:04.30,0:20:06.28,Default,,0000,0000,0000,,Yeah, you have a point.
+Dialogue: 0,0:20:06.28,0:20:09.18,Default,,0000,0000,0000,,Like how she suddenly got really confident!
+Dialogue: 0,0:20:09.18,0:20:13.56,Default,,0000,0000,0000,,At first, she was definitely\Nrunning away in fear of me.
+Dialogue: 0,0:20:16.26,0:20:20.78,Default,,0000,0000,0000,,If my attacks were ineffective from\Nthe start, she didn't need to flee.
+Dialogue: 0,0:20:21.23,0:20:24.66,Default,,0000,0000,0000,,She should have been able\Nto pass through walls and fly!
+Dialogue: 0,0:20:24.66,0:20:28.20,Default,,0000,0000,0000,,But all she did back then\Nwas whine while she ran.
+Dialogue: 0,0:20:28.66,0:20:31.45,Default,,0000,0000,0000,,Why was she so negative?
+Dialogue: 0,0:20:31.45,0:20:32.41,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:20:32.41,0:20:34.29,Default,,0000,0000,0000,,Rap. Rap!
+Dialogue: 0,0:20:37.92,0:20:40.96,Default,,0000,0000,0000,,The change occurred after I lost sight of her!
+Dialogue: 0,0:20:43.89,0:20:46.39,Default,,0000,0000,0000,,Something must have happened!
+Dialogue: 0,0:21:00.90,0:21:02.47,Default,,0000,0000,0000,,Remember...
+Dialogue: 0,0:21:06.38,0:21:14.55,Default,,0000,0000,0000,,What happened during the brief moment\Nthat bear stalled me and I lost sight of her...?
+Dialogue: 0,0:21:16.37,0:21:18.38,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:21:21.15,0:21:23.97,Default,,0000,0000,0000,,Well, I guess it's about time\NI handed you over to Moria-sama.
+Dialogue: 0,0:21:27.59,0:21:30.85,Default,,0000,0000,0000,,That's it! I've solved the puzzle!
+Dialogue: 0,0:21:35.16,0:21:39.60,Default,,0000,0000,0000,,Are there any hiding spots nearby?
+Dialogue: 0,0:21:45.95,0:21:48.20,Default,,0000,0000,0000,,Like a hidden room...?
+Dialogue: 0,0:21:53.22,0:21:53.62,Default,,0000,0000,0000,,A room!
+Dialogue: 0,0:21:57.85,0:22:01.25,Default,,0000,0000,0000,,Your trick...!
+Dialogue: 0,0:22:02.61,0:22:05.09,Default,,0000,0000,0000,,What is it? Are these your final words?
+Dialogue: 0,0:22:08.15,0:22:10.09,Default,,0000,0000,0000,,Wait! Where do you think you're aiming?!
+Dialogue: 0,0:22:12.87,0:22:14.06,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:22:14.06,0:22:17.68,Default,,0000,0000,0000,,--Hey, wait!\N--Special Attack! Atlas Comet!
+Dialogue: 0,0:23:00.45,0:23:02.15,Default,,0000,0000,0000,,I found it!
+Dialogue: 0,0:23:05.58,0:23:09.11,Default,,0000,0000,0000,,That is your real body.
+Dialogue: 0,0:23:25.30,0:23:28.13,Default,,0000,0000,0000,,Usopp Eye can find any opponent's weakness!
+Dialogue: 0,0:23:28.13,0:23:31.05,Default,,0000,0000,0000,,Usopp Weapon has defeated\Nmultiple formidable foes!
+Dialogue: 0,0:23:31.05,0:23:36.39,Default,,0000,0000,0000,,And Usopp Brain can devise awesome strategies\Nto pull me out of any sticky situation!
+Dialogue: 0,0:23:37.27,0:23:40.18,Default,,0000,0000,0000,,If you take me lightly, you'll get hurt.
+Dialogue: 0,0:23:40.18,0:23:41.31,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.31,0:23:44.52,Default,,0000,0000,0000,,"Perona Is Terrified!!\NUsopp and Untruthful Share the Same 'U'"
+Dialogue: 0,0:23:44.88,0:23:47.04,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

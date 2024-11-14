@@ -1,0 +1,254 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:54.96,0:02:56.21,Default,,0000,0000,0000,,{\i1}What's the matter?{\i0}
+Dialogue: 0,0:02:57.66,0:02:59.99,Default,,0000,0000,0000,,I thought I taught you how to use a sword.
+Dialogue: 0,0:03:00.68,0:03:02.26,Default,,0000,0000,0000,,I refuse!
+Dialogue: 0,0:03:03.10,0:03:04.53,Default,,0000,0000,0000,,My hands...
+Dialogue: 0,0:03:05.31,0:03:07.33,Default,,0000,0000,0000,,...are for cooking only.
+Dialogue: 0,0:03:10.10,0:03:12.04,Default,,0000,0000,0000,,Hey, what are these?
+Dialogue: 0,0:03:12.04,0:03:14.89,Default,,0000,0000,0000,,You said your hands are important to you.
+Dialogue: 0,0:03:14.89,0:03:16.34,Default,,0000,0000,0000,,That's great.
+Dialogue: 0,0:03:17.07,0:03:21.05,Default,,0000,0000,0000,,Do you know the shackle collars\Nthat the slaves to the Celestial Dragons wear?
+Dialogue: 0,0:03:22.20,0:03:26.60,Default,,0000,0000,0000,,If they try to escape from their masters,\Nthey'll explode along with their heads.
+Dialogue: 0,0:03:27.37,0:03:30.10,Default,,0000,0000,0000,,Those work the same way.
+Dialogue: 0,0:03:30.75,0:03:34.59,Default,,0000,0000,0000,,So you were working at his restaurant\Nuntil two years ago.
+Dialogue: 0,0:03:35.77,0:03:41.15,Default,,0000,0000,0000,,Well, only in the worst-case scenario\Nwhere you become uncontrollable,
+Dialogue: 0,0:03:41.15,0:03:46.56,Default,,0000,0000,0000,,I'll use it as a threat like,\N"We'll chop this guy's head off."
+Dialogue: 0,0:03:48.31,0:03:49.68,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:03:49.68,0:03:54.03,Default,,0000,0000,0000,,I can't think of any reason \Nfor you to be kind to me!
+Dialogue: 0,0:03:54.65,0:03:57.63,Default,,0000,0000,0000,,Why...? Why did you?!
+Dialogue: 0,0:03:58.90,0:04:04.72,Default,,0000,0000,0000,,Because you...\Nyou had the same dream as me.
+Dialogue: 0,0:04:04.91,0:04:09.24,Default,,0000,0000,0000,,Whoa!! Damn geezer, is \Nthis the sea restaurant?
+Dialogue: 0,0:04:09.24,0:04:11.62,Default,,0000,0000,0000,,We're gonna be busy!
+Dialogue: 0,0:04:11.62,0:04:13.73,Default,,0000,0000,0000,,We'll be fine 'cause I'm here!
+Dialogue: 0,0:04:15.00,0:04:16.31,Default,,0000,0000,0000,,Hey, little brat!
+Dialogue: 0,0:04:16.31,0:04:17.98,Default,,0000,0000,0000,,You're too slow, little brat!
+Dialogue: 0,0:04:17.98,0:04:20.40,Default,,0000,0000,0000,,Fooling around with a woman again,\Nlittle brat?!
+Dialogue: 0,0:04:20.40,0:04:21.53,Default,,0000,0000,0000,,Little brat!
+Dialogue: 0,0:04:21.93,0:04:22.99,Default,,0000,0000,0000,,Little brat!
+Dialogue: 0,0:04:23.01,0:04:25.20,Default,,0000,0000,0000,,Little brat!!
+Dialogue: 0,0:04:26.26,0:04:28.78,Default,,0000,0000,0000,,Hey, Sanji!
+Dialogue: 0,0:04:30.60,0:04:34.00,Default,,0000,0000,0000,,Don't catch cold.
+Dialogue: 0,0:04:39.63,0:04:42.72,Default,,0000,0000,0000,,Owner Zeff!!
+Dialogue: 0,0:04:43.07,0:04:48.06,Default,,0000,0000,0000,,Thank you for all the damn things you've \Ndone for me over all these years!!
+Dialogue: 0,0:04:50.49,0:04:58.42,On Top,,0000,0000,0000,,A HEARTBREAKING DUEL! \NLUFFY VS SANJI! - PART 2
+Dialogue: 0,0:04:55.33,0:04:58.59,DefaultLow,,0000,0000,0000,,{\i1}This is how it should be. This is good.{\i0}
+Dialogue: 0,0:04:58.59,0:05:01.86,DefaultLow,,0000,0000,0000,,Hey, Sanji!
+Dialogue: 0,0:05:02.17,0:05:05.49,Default,,0000,0000,0000,,Your Majesty, something \Nis charging towards us.
+Dialogue: 0,0:05:06.84,0:05:09.74,Default,,0000,0000,0000,,It's been a while!
+Dialogue: 0,0:05:09.74,0:05:14.29,Default,,0000,0000,0000,,What?! That idiot reached this far\Ninto Big Mom's territory?!
+Dialogue: 0,0:05:15.98,0:05:19.31,Default,,0000,0000,0000,,What is the big tree behind him?!\NIt's running!
+Dialogue: 0,0:05:19.31,0:05:21.23,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:21.23,0:05:23.57,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:05:23.57,0:05:26.20,Default,,0000,0000,0000,,I'm glad that we made it in time!
+Dialogue: 0,0:05:26.51,0:05:28.55,Default,,0000,0000,0000,,I thought I'd never see you again!
+Dialogue: 0,0:05:29.20,0:05:32.11,Default,,0000,0000,0000,,Why are they... here?
+Dialogue: 0,0:05:32.74,0:05:36.04,Default,,0000,0000,0000,,Is that Straw Hat Luffy?
+Dialogue: 0,0:05:36.04,0:05:39.50,Default,,0000,0000,0000,,Hey! We're here to pick you up!
+Dialogue: 0,0:05:39.50,0:05:40.73,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:05:40.73,0:05:43.23,Default,,0000,0000,0000,,Stop it, you fool!\NThe Calicoach will turn over!
+Dialogue: 0,0:05:43.59,0:05:45.05,Default,,0000,0000,0000,,Let's go, Sanji!
+Dialogue: 0,0:05:45.05,0:05:48.71,Default,,0000,0000,0000,,You said you'd be back in the note\Nbut I didn't wanna wait.
+Dialogue: 0,0:05:51.56,0:05:54.32,Default,,0000,0000,0000,,{\i1}Banquet!{\i0}
+Dialogue: 0,0:05:56.69,0:05:59.15,Default,,0000,0000,0000,,I was gonna come by myself but...
+Dialogue: 0,0:05:59.15,0:06:01.92,Default,,0000,0000,0000,,{\i1}You said your hands are important to you.{\i0}
+Dialogue: 0,0:06:02.32,0:06:06.40,Default,,0000,0000,0000,,{\i1}If you try to get off of this island,\Nyour hands will be blown off!{\i0}
+Dialogue: 0,0:06:09.88,0:06:13.26,Default,,0000,0000,0000,,If someone declines Mama's invitation...
+Dialogue: 0,0:06:14.49,0:06:17.69,Default,,0000,0000,0000,,...So Zoro and the others must've gotten\Nto the Land of Wano...
+Dialogue: 0,0:06:18.38,0:06:21.36,Default,,0000,0000,0000,,{\i1}We'll chop this guy's head off.{\i0}
+Dialogue: 0,0:06:22.75,0:06:26.38,Default,,0000,0000,0000,,...That's why Nami, Chopper, Brook and I came\Nto pick you up. And...
+Dialogue: 0,0:06:26.38,0:06:30.91,Default,,0000,0000,0000,,{\i1}You are a sacrifice, Sanji.\NI haven't changed...{\i0}
+Dialogue: 0,0:06:30.91,0:06:35.49,Default,,0000,0000,0000,,{\i1}But if you betray the honor of manhood,\NI'll chop off my own head as well!{\i0}
+Dialogue: 0,0:06:36.33,0:06:38.62,Default,,0000,0000,0000,,{\i1}Sanji, I'm hungry!{\i0}
+Dialogue: 0,0:06:38.62,0:06:41.77,Default,,0000,0000,0000,,{\i1}I don't think of you as my son even one bit!{\i0}
+Dialogue: 0,0:06:41.77,0:06:44.36,Default,,0000,0000,0000,,{\i1}That's how a parent pays the price.{\i0}
+Dialogue: 0,0:06:44.36,0:06:47.13,Default,,0000,0000,0000,,{\i1}--It's a shame that I don't want anyone to know!\N--Sanji!{\i0}
+Dialogue: 0,0:06:51.07,0:06:53.82,Default,,0000,0000,0000,,Hey, Sanji!
+Dialogue: 0,0:06:55.41,0:06:58.54,Default,,0000,0000,0000,,Don't catch cold.
+Dialogue: 0,0:07:00.25,0:07:02.52,Default,,0000,0000,0000,,...And I had no choice so...
+Dialogue: 0,0:07:06.71,0:07:09.36,Default,,0000,0000,0000,,Hey! What are you doing, Sanji-{\i1}kun{\i0}?!
+Dialogue: 0,0:07:13.35,0:07:16.58,Default,,0000,0000,0000,,Get packing, you low-class pirates!
+Dialogue: 0,0:07:19.98,0:07:23.88,Default,,0000,0000,0000,,My name is Vinsmoke Sanji.
+Dialogue: 0,0:07:24.77,0:07:26.34,Default,,0000,0000,0000,,I'm a prince
+Dialogue: 0,0:07:27.44,0:07:28.96,Default,,0000,0000,0000,,of the Germa Kingdom!
+Dialogue: 0,0:07:29.59,0:07:32.11,Default,,0000,0000,0000,,I'm sorry for keeping it a secret.
+Dialogue: 0,0:07:32.11,0:07:35.14,Default,,0000,0000,0000,,I thought that it'd make you miserable.
+Dialogue: 0,0:07:35.78,0:07:40.10,Default,,0000,0000,0000,,The difference between our standings\Ncouldn't be clearer.
+Dialogue: 0,0:07:40.12,0:07:45.31,Default,,0000,0000,0000,,If I stay here, I can spend money\Nand use soldiers and servants as I like.
+Dialogue: 0,0:07:45.96,0:07:50.25,Default,,0000,0000,0000,,Going back to that crappy ship\Nwith you and your friends...
+Dialogue: 0,0:07:50.97,0:07:56.51,Default,,0000,0000,0000,,...or staying here,\Nmarrying Big Mom's beautiful daughter.
+Dialogue: 0,0:07:56.51,0:08:01.21,Default,,0000,0000,0000,,It's pretty obvious which is a happier life.
+Dialogue: 0,0:08:01.69,0:08:04.69,Default,,0000,0000,0000,,Don't take the note seriously.
+Dialogue: 0,0:08:04.69,0:08:06.38,Default,,0000,0000,0000,,I won't go back with you!
+Dialogue: 0,0:08:07.36,0:08:11.75,Default,,0000,0000,0000,,I can't believe you've come all the way here.\NThanks for your trouble.
+Dialogue: 0,0:08:13.41,0:08:17.05,Default,,0000,0000,0000,,Get out of here... I forgot your name.
+Dialogue: 0,0:08:17.05,0:08:21.02,Default,,0000,0000,0000,,Screw it! What are you talking about?!\NI'm not convinced!
+Dialogue: 0,0:08:21.83,0:08:24.50,Default,,0000,0000,0000,,Okay, I'll help you drive them off.
+Dialogue: 0,0:08:24.50,0:08:25.75,Default,,0000,0000,0000,,Sit back!
+Dialogue: 0,0:08:28.09,0:08:29.57,Default,,0000,0000,0000,,I'll...
+Dialogue: 0,0:08:30.23,0:08:31.61,Default,,0000,0000,0000,,...send them away!
+Dialogue: 0,0:08:56.37,0:08:59.33,Default,,0000,0000,0000,,What do you mean by sending us away, Sanji?
+Dialogue: 0,0:08:59.33,0:09:00.42,Default,,0000,0000,0000,,Get packing.
+Dialogue: 0,0:09:01.03,0:09:03.14,Default,,0000,0000,0000,,There is no other meaning.
+Dialogue: 0,0:09:09.17,0:09:11.78,Default,,0000,0000,0000,,I don't know what made you come,
+Dialogue: 0,0:09:12.21,0:09:15.61,Default,,0000,0000,0000,,but I appreciate\Nthat you took the trouble.
+Dialogue: 0,0:09:16.30,0:09:21.41,Default,,0000,0000,0000,,Having said that, if you really think about me,\Nyou should've done the opposite.
+Dialogue: 0,0:09:21.97,0:09:24.94,Default,,0000,0000,0000,,Rather than being with you guys\Nwho are poor and weak,
+Dialogue: 0,0:09:24.94,0:09:28.92,Default,,0000,0000,0000,,it'd be better to be part of\Nthe rich and powerful Big Mom Pirates.
+Dialogue: 0,0:09:29.86,0:09:31.80,Default,,0000,0000,0000,,I'll be happier.
+Dialogue: 0,0:09:33.41,0:09:38.11,Default,,0000,0000,0000,,I'm not so sure about you becoming the King of the Pirates\Nto be honest.
+Dialogue: 0,0:09:39.02,0:09:42.13,Default,,0000,0000,0000,,It's only human nature \Nto jump on the bandwagon.
+Dialogue: 0,0:09:42.74,0:09:46.81,Default,,0000,0000,0000,,Stop joking, Sanji-{\i1}kun{\i0}!\NWhat are you talking about?!
+Dialogue: 0,0:09:49.46,0:09:52.78,Default,,0000,0000,0000,,Then, all this time,
+Dialogue: 0,0:09:53.46,0:09:55.74,Default,,0000,0000,0000,,you've been fooling me.
+Dialogue: 0,0:09:56.63,0:09:58.48,Default,,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:10:00.10,0:10:02.30,Default,,0000,0000,0000,,I've actually been looking down on you.
+Dialogue: 0,0:10:05.73,0:10:08.25,Default,,0000,0000,0000,,What is that glow? A flame?!
+Dialogue: 0,0:10:09.90,0:10:12.34,Default,,0000,0000,0000,,This ought to be fun to watch.
+Dialogue: 0,0:10:14.07,0:10:18.18,Default,,0000,0000,0000,,I bet you didn't see it coming\Nso it's hard to accept.
+Dialogue: 0,0:10:18.67,0:10:21.76,Default,,0000,0000,0000,,I'll prove it to you. Get ready.
+Dialogue: 0,0:10:23.74,0:10:25.89,Default,,0000,0000,0000,,Diable Jambe...
+Dialogue: 0,0:10:25.89,0:10:27.43,Default,,0000,0000,0000,,No, Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:10:35.56,0:10:38.36,Default,,0000,0000,0000,,Joue Shot!
+Dialogue: 0,0:11:07.29,0:11:09.02,Default,,0000,0000,0000,,Luffy! You're bleeding!
+Dialogue: 0,0:11:09.79,0:11:12.73,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}, did you really...
+Dialogue: 0,0:11:17.51,0:11:19.07,Default,,0000,0000,0000,,Get ready to fight.
+Dialogue: 0,0:11:19.72,0:11:22.82,Default,,0000,0000,0000,,Use your Haki or you're gonna die.
+Dialogue: 0,0:11:23.74,0:11:27.24,Default,,0000,0000,0000,,I just wanna talk to you.\NWhy do I need Haki?
+Dialogue: 0,0:11:28.41,0:11:29.66,Default,,0000,0000,0000,,I'm not gonna...
+Dialogue: 0,0:11:31.19,0:11:33.21,Default,,0000,0000,0000,,...fight you!
+Dialogue: 0,0:11:51.85,0:11:53.46,Default,,0000,0000,0000,,I'm not gonna...
+Dialogue: 0,0:11:53.46,0:11:54.98,Default,,0000,0000,0000,,...fight you!
+Dialogue: 0,0:12:02.05,0:12:03.20,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:12:04.45,0:12:05.87,Default,,0000,0000,0000,,...go away!
+Dialogue: 0,0:12:09.02,0:12:11.79,Default,,0000,0000,0000,,I'm not gonna do that either!
+Dialogue: 0,0:12:13.30,0:12:14.75,Default,,0000,0000,0000,,You've always...
+Dialogue: 0,0:12:15.19,0:12:17.95,Default,,0000,0000,0000,,...been selfish!
+Dialogue: 0,0:12:36.50,0:12:38.11,Default,,0000,0000,0000,,{\i1}Hey you, cook!{\i0}
+Dialogue: 0,0:12:38.95,0:12:41.67,Default,,0000,0000,0000,,{\i1}Join my group!{\i0}
+Dialogue: 0,0:12:41.67,0:12:44.46,Default,,0000,0000,0000,,{\i1}Be the cook on my pirate ship!{\i0}
+Dialogue: 0,0:12:53.14,0:12:55.32,Default,,0000,0000,0000,,Please stop, Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:12:56.10,0:12:59.07,Default,,0000,0000,0000,,We just came to pick you up!
+Dialogue: 0,0:12:59.07,0:13:00.59,Default,,0000,0000,0000,,Luffy has...
+Dialogue: 0,0:13:01.65,0:13:06.82,Default,,0000,0000,0000,,...fought against their top officer all night\Nto get this far!
+Dialogue: 0,0:13:06.82,0:13:08.46,Default,,0000,0000,0000,,So his body is...
+Dialogue: 0,0:13:08.46,0:13:09.64,Default,,0000,0000,0000,,Cut it out, Nami!
+Dialogue: 0,0:13:10.70,0:13:12.34,Default,,0000,0000,0000,,Stay out of this!
+Dialogue: 0,0:13:12.96,0:13:14.06,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:13:15.36,0:13:16.66,Default,,0000,0000,0000,,...a duel!
+Dialogue: 0,0:13:21.05,0:13:23.24,Default,,0000,0000,0000,,You call this a duel?!
+Dialogue: 0,0:13:29.14,0:13:30.16,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:13:59.00,0:14:02.90,Default,,0000,0000,0000,,Get out of my sight now!
+Dialogue: 0,0:14:08.97,0:14:09.82,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:14:10.10,0:14:11.39,Default,,0000,0000,0000,,Go away!
+Dialogue: 0,0:14:12.06,0:14:13.86,Default,,0000,0000,0000,,Go away!
+Dialogue: 0,0:14:15.51,0:14:19.50,Default,,0000,0000,0000,,Get the hell out of my sight!!
+Dialogue: 0,0:14:36.05,0:14:38.69,Default,,0000,0000,0000,,Stop... Please stop, Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:14:39.76,0:14:42.61,Default,,0000,0000,0000,,Get out of my face...
+Dialogue: 0,0:14:43.74,0:14:45.69,Default,,0000,0000,0000,,...now!!
+Dialogue: 0,0:15:09.07,0:15:10.47,Default,,0000,0000,0000,,I refuse!
+Dialogue: 0,0:15:28.22,0:15:32.78,Default,,0000,0000,0000,,Get out of my sight now!
+Dialogue: 0,0:15:46.90,0:15:48.21,Default,,0000,0000,0000,,I refuse!
+Dialogue: 0,0:15:52.66,0:15:53.97,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:16:06.75,0:16:11.45,Default,,0000,0000,0000,,No matter what I do, you're not gonna leave,\Nare you, you low-class pirate?
+Dialogue: 0,0:16:14.85,0:16:18.09,Default,,0000,0000,0000,,If you're not gonna go \Naway, I have no option.
+Dialogue: 0,0:16:18.09,0:16:19.79,Default,,0000,0000,0000,,I'm not gonna go easy on you anymore.
+Dialogue: 0,0:16:20.31,0:16:23.04,Default,,0000,0000,0000,,Don't regret this after you die.
+Dialogue: 0,0:16:47.92,0:16:49.27,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:16:53.13,0:16:54.45,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:17:11.15,0:17:14.22,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}... Please stop...
+Dialogue: 0,0:17:26.54,0:17:29.50,Default,,0000,0000,0000,,That's enough! Stop, Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:17:29.50,0:17:31.53,Default,,0000,0000,0000,,We'll leave!!
+Dialogue: 0,0:17:40.01,0:17:41.58,Default,,0000,0000,0000,,I won't!
+Dialogue: 0,0:17:47.29,0:17:49.17,Default,,0000,0000,0000,,{\i1}You're a good cook,{\i0}
+Dialogue: 0,0:17:49.89,0:17:51.73,Default,,0000,0000,0000,,{\i1}so let's be pirates together!{\i0}
+Dialogue: 0,0:17:56.49,0:17:59.89,Default,,0000,0000,0000,,Concasser!
+Dialogue: 0,0:18:34.69,0:18:37.34,Default,,0000,0000,0000,,Luffy! Luffy!
+Dialogue: 0,0:18:41.20,0:18:43.45,Default,,0000,0000,0000,,How strong...
+Dialogue: 0,0:18:43.45,0:18:46.14,Default,,0000,0000,0000,,After all, he's a Vinsmoke.
+Dialogue: 0,0:19:01.01,0:19:02.47,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:19:02.47,0:19:05.97,Default,,0000,0000,0000,,Luffy! Luffy! Hey! Stay with me!
+Dialogue: 0,0:19:05.97,0:19:08.00,Default,,0000,0000,0000,,Luffy! Luffy!
+Dialogue: 0,0:19:08.35,0:19:10.62,Default,,0000,0000,0000,,Luffy! Luffy!!
+Dialogue: 0,0:19:20.72,0:19:23.02,Default,,0000,0000,0000,,Hey, Sanji!
+Dialogue: 0,0:19:29.45,0:19:30.57,Default,,0000,0000,0000,,Goodbye!
+Dialogue: 0,0:19:31.21,0:19:32.02,Default,,0000,0000,0000,,Sorry -
+Dialogue: 0,0:19:33.21,0:19:35.02,Default,,0000,0000,0000,,we should never have done this!
+Dialogue: 0,0:19:35.02,0:19:38.07,Default,,0000,0000,0000,,Oh! A bitchy girl! How hot!
+Dialogue: 0,0:19:47.60,0:19:51.21,Default,,0000,0000,0000,,The superfluous ties have \Nfinally been severed.
+Dialogue: 0,0:19:53.77,0:19:55.25,Default,,0000,0000,0000,,Thanks for waiting.
+Dialogue: 0,0:19:56.32,0:19:58.34,Default,,0000,0000,0000,,--Let's go.\N--Yes, sir.
+Dialogue: 0,0:20:17.13,0:20:18.29,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:20:32.67,0:20:34.29,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:20:34.81,0:20:37.22,Default,,0000,0000,0000,,Sanji!!
+Dialogue: 0,0:20:42.99,0:20:45.97,Default,,0000,0000,0000,,"Low-class pirate"?!
+Dialogue: 0,0:20:45.97,0:20:48.97,Default,,0000,0000,0000,,I know you were just saying \Nthings that you didn't want to!
+Dialogue: 0,0:20:49.37,0:20:51.29,Default,,0000,0000,0000,,Stop lying!
+Dialogue: 0,0:20:51.29,0:20:55.65,Default,,0000,0000,0000,,Did you think\Nthat you could send me away that easily?!
+Dialogue: 0,0:20:55.67,0:20:57.79,Default,,0000,0000,0000,,Screw that!
+Dialogue: 0,0:20:57.79,0:21:01.78,Default,,0000,0000,0000,,No matter how many times you kick me,
+Dialogue: 0,0:21:02.62,0:21:04.30,Default,,0000,0000,0000,,you're the one...
+Dialogue: 0,0:21:06.47,0:21:08.63,Default,,0000,0000,0000,,...that gets hurt!!
+Dialogue: 0,0:21:18.29,0:21:22.40,Default,,0000,0000,0000,,Luffy! Why?!\NWhatever the reason is, he can't do this...
+Dialogue: 0,0:21:22.40,0:21:23.92,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:21:24.57,0:21:26.43,Default,,0000,0000,0000,,Should we stop, Sanji?
+Dialogue: 0,0:21:28.35,0:21:29.89,Default,,0000,0000,0000,,Keep going.
+Dialogue: 0,0:21:37.63,0:21:39.02,Default,,0000,0000,0000,,{\i1}Say...{\i0}
+Dialogue: 0,0:21:39.73,0:21:41.90,Default,,0000,0000,0000,,{\i1}do you know the All Blue?{\i0}
+Dialogue: 0,0:21:42.58,0:21:44.99,Default,,0000,0000,0000,,{\i1}It's a miracle sea!{\i0}
+Dialogue: 0,0:21:45.37,0:21:47.03,Default,,0000,0000,0000,,{\i1}In that sea...{\i0}
+Dialogue: 0,0:21:49.60,0:21:51.56,Default,,0000,0000,0000,,Our journey...
+Dialogue: 0,0:21:52.57,0:21:54.56,Default,,0000,0000,0000,,...isn't over yet!
+Dialogue: 0,0:21:56.56,0:21:59.61,Default,,0000,0000,0000,,I'll be here waiting!
+Dialogue: 0,0:22:00.04,0:22:05.01,Default,,0000,0000,0000,,If you don't come back, I'll be here...
+Dialogue: 0,0:22:05.03,0:22:07.13,Default,,0000,0000,0000,,...starving to death!
+Dialogue: 0,0:22:08.07,0:22:12.43,Default,,0000,0000,0000,,You're the cook of my ship!
+Dialogue: 0,0:22:12.74,0:22:16.04,Default,,0000,0000,0000,,{\i1}He was making food for rats again!{\i0}
+Dialogue: 0,0:22:17.23,0:22:22.18,Default,,0000,0000,0000,,I won't eat anything \Nother than what you cook!
+Dialogue: 0,0:22:24.94,0:22:29.22,Default,,0000,0000,0000,,Even if I get hungry or \Nspears rain down on me,
+Dialogue: 0,0:22:29.22,0:22:33.54,Default,,0000,0000,0000,,I'll stay right here and wait for you!
+Dialogue: 0,0:22:48.45,0:22:52.87,Default,,0000,0000,0000,,Be sure to come back, Sanji!
+Dialogue: 0,0:22:53.66,0:22:57.69,Default,,0000,0000,0000,,Without you, I...
+Dialogue: 0,0:22:58.29,0:23:03.12,Default,,0000,0000,0000,,I can't become the King of the Pirates!!
+Dialogue: 0,0:23:16.10,0:23:20.35,Default,,0000,0000,0000,,Hey you, cook! Join my group!
+Dialogue: 0,0:23:20.35,0:23:22.84,Default,,0000,0000,0000,,Be the cook on my pirate ship!
+Dialogue: 0,0:24:50.19,0:24:53.43,Default,,0000,0000,0000,,{\i1}I'm hoping to go someday...\Nto the Grand Line.{\i0}
+Dialogue: 0,0:24:53.43,0:24:55.41,Default,,0000,0000,0000,,Then let's go now.
+Dialogue: 0,0:24:55.41,0:24:57.32,Default,,0000,0000,0000,,It's not the right time yet.
+Dialogue: 0,0:24:58.08,0:25:01.27,Default,,0000,0000,0000,,Say... do you know the All Blue?
+Dialogue: 0,0:25:01.27,0:25:04.69,Default,,0000,0000,0000,,--No...\N--Oh, you don't?!
+Dialogue: 0,0:25:05.73,0:25:08.46,Default,,0000,0000,0000,,{\i1}It's a miracle sea!{\i0}
+Dialogue: 0,0:25:08.46,0:25:10.40,Default,,0000,0000,0000,,{\i1}In that sea...{\i0}
+Dialogue: 0,0:25:29.48,0:25:33.58,Italics,,0000,0000,0000,,{\i1}Luffy stands where he told Sanji\Nhe'd wait without moving an inch{\i0}
+Dialogue: 0,0:25:33.58,0:25:36.11,Italics,,0000,0000,0000,,{\i1}while black shadows that seem to cover the
+Dialogue: 0,0:25:36.11,0:25:38.76,Italics,,0000,0000,0000,,whole land are coming for him with a storm!{\i0}
+Dialogue: 0,0:25:38.78,0:25:45.08,Italics,,0000,0000,0000,,{\i1}Big Mom's vengeful battalion rumbles \Nthe earth rushing at Luffy!{\i0}
+Dialogue: 0,0:25:45.08,0:25:46.57,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:25:46.57,0:25:49.41,Default,,0000,0000,0000,,"A Storm of Revenge! An Enraged \NArmy Comes to Attack!"
+Dialogue: 0,0:25:49.41,0:25:52.01,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!
+Dialogue: 0,0:25:53.05,0:25:55.05,Default,,0000,0000,0000,,
+Dialogue: 0,0:25:55.05,0:25:57.05,Default,,0000,0000,0000,,

@@ -1,0 +1,357 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.37,0:00:20.74,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.74,0:00:23.00,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.00,0:00:29.96,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.09,0:00:40.51,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:44.10,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:44.10,0:00:49.65,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.65,0:00:55.78,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.78,0:01:02.58,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.58,0:01:07.04,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.04,0:01:09.34,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.30,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.43,0:01:26.85,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.85,0:01:30.40,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.40,0:01:35.99,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.99,0:01:42.12,On Top,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:42.12,0:01:48.87,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:48.87,0:01:53.42,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.42,0:01:55.67,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.67,0:02:00.01,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.01,0:02:03.06,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.68,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.68,0:02:06.39,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.39,0:02:08.10,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.10,0:02:09.73,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.73,0:02:11.40,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.40,0:02:13.07,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:13.07,0:02:14.44,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.44,0:02:15.53,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.53,0:02:19.91,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.54,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.54,0:02:28.71,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:28.71,0:02:33.09,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:32.95,0:02:34.95,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:33.09,0:02:35.42,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.42,0:02:39.76,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.76,0:02:42.72,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.15,0:02:48.98,Default,,0000,0000,0000,,On the voyage to their next destination,
+Dialogue: 0,0:02:49.32,0:02:52.02,Default,,0000,0000,0000,,Luffy and crew drop by\Nthe resort ship, Spa Island.
+Dialogue: 0,0:02:52.02,0:02:56.88,Default,,0000,0000,0000,,While enjoying their vacation,\Nthey meet the sisters Sayo and Rina.
+Dialogue: 0,0:02:57.19,0:02:59.61,Default,,0000,0000,0000,,This is the ocean raccoon dog, Nukki.
+Dialogue: 0,0:03:00.63,0:03:01.82,Default,,0000,0000,0000,,Big Sis Sayo!
+Dialogue: 0,0:03:06.00,0:03:10.44,Default,,0000,0000,0000,,You're doomed now that\NI've run into you, Straw Hat!
+Dialogue: 0,0:03:10.44,0:03:14.29,Default,,0000,0000,0000,,It's been a while, hasn't it?
+Dialogue: 0,0:03:14.29,0:03:19.48,Default,,0000,0000,0000,,Gum-Gum Bazooka!
+Dialogue: 0,0:03:21.22,0:03:22.33,Default,,0000,0000,0000,,It's about that notebook.
+Dialogue: 0,0:03:23.62,0:03:26.81,Default,,0000,0000,0000,,Foxy and his goons are after it, aren't they?
+Dialogue: 0,0:03:26.89,0:03:30.27,Default,,0000,0000,0000,,This notebook explains how to create jewels!
+Dialogue: 0,0:03:30.66,0:03:32.85,Default,,0000,0000,0000,,Everyone, please help--
+Dialogue: 0,0:03:34.29,0:03:36.56,Default,,0000,0000,0000,,Luffy and crew managed\Nto repel the Foxy Crew,
+Dialogue: 0,0:03:36.56,0:03:40.47,Default,,0000,0000,0000,,which was after the sisters' notebook.
+Dialogue: 0,0:03:40.47,0:03:44.44,Default,,0000,0000,0000,,It held the secret to their father's\Nresearch on making jewels.
+Dialogue: 0,0:03:44.44,0:03:49.39,Default,,0000,0000,0000,,But now Sayo has been taken hostage\Nby the mastermind, Doran!
+Dialogue: 0,0:03:52.96,0:03:57.36,Default,,0000,0000,0000,,"The Great Scramble for Treasure!\NCollapse! Spa Island!"
+Dialogue: 0,0:03:59.42,0:04:01.38,Default,,0000,0000,0000,,Big Sis Sayo!
+Dialogue: 0,0:04:03.44,0:04:07.04,Default,,0000,0000,0000,,Dang! This ship is loaded with traps.
+Dialogue: 0,0:04:11.20,0:04:14.13,Default,,0000,0000,0000,,Boss, hang in there!
+Dialogue: 0,0:04:16.10,0:04:18.91,Default,,0000,0000,0000,,That was pathetic, "Silver Fox" Foxy.
+Dialogue: 0,0:04:18.91,0:04:21.07,Default,,0000,0000,0000,,They won despite your trickery.
+Dialogue: 0,0:04:21.84,0:04:27.03,Default,,0000,0000,0000,,Oh, well. Now I simply have to wait for\Nthem to solve the secret of the jewels.
+Dialogue: 0,0:04:33.62,0:04:36.04,Default,,0000,0000,0000,,This just isn't enough to go by!
+Dialogue: 0,0:04:36.79,0:04:42.05,Default,,0000,0000,0000,,Didn't you search all over the ship?\NWasn't there a large "X" mark?
+Dialogue: 0,0:04:42.05,0:04:44.97,Default,,0000,0000,0000,,No... What should I do?
+Dialogue: 0,0:04:44.97,0:04:47.51,Default,,0000,0000,0000,,This notebook really is full of lies.
+Dialogue: 0,0:04:47.94,0:04:50.01,Default,,0000,0000,0000,,And now my sister is...
+Dialogue: 0,0:04:56.88,0:04:58.43,Default,,0000,0000,0000,,--Luffy!\N--Huh?
+Dialogue: 0,0:04:59.85,0:05:02.73,Default,,0000,0000,0000,,Please save... Big Sis Sayo.
+Dialogue: 0,0:05:03.12,0:05:04.08,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:05:05.05,0:05:08.32,Default,,0000,0000,0000,,Huh? You're sure? Really?
+Dialogue: 0,0:05:08.69,0:05:11.20,Default,,0000,0000,0000,,Yeah, I wanna see those jewels.
+Dialogue: 0,0:05:12.03,0:05:14.29,Default,,0000,0000,0000,,Even though this notebook could be lying?
+Dialogue: 0,0:05:14.29,0:05:16.29,Default,,0000,0000,0000,,But how are we going to save her, Luffy?
+Dialogue: 0,0:05:16.65,0:05:20.04,Default,,0000,0000,0000,,Let's see... Why don't we destroy this ship?
+Dialogue: 0,0:05:20.04,0:05:22.50,Default,,0000,0000,0000,,Whaaat?!
+Dialogue: 0,0:05:22.50,0:05:23.88,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:23.88,0:05:25.89,Default,,0000,0000,0000,,Where did that come from?!
+Dialogue: 0,0:05:26.71,0:05:28.61,Default,,0000,0000,0000,,Hey, man! Are you thinking straight?
+Dialogue: 0,0:05:28.61,0:05:29.43,Default,,0000,0000,0000,,What about Sayo?
+Dialogue: 0,0:05:29.83,0:05:31.71,Default,,0000,0000,0000,,We'll find her if we destroy the ship.
+Dialogue: 0,0:05:31.71,0:05:33.11,Default,,0000,0000,0000,,And the hint about the jewels?
+Dialogue: 0,0:05:33.11,0:05:35.68,Default,,0000,0000,0000,,It'll be easier to look for if we destroy the ship!
+Dialogue: 0,0:05:37.65,0:05:39.09,Default,,0000,0000,0000,,Let's get started.
+Dialogue: 0,0:05:39.09,0:05:39.86,Default,,0000,0000,0000,,Zoro?
+Dialogue: 0,0:05:40.12,0:05:42.45,Default,,0000,0000,0000,,There is no point worrying about something
+Dialogue: 0,0:05:42.45,0:05:45.11,Default,,0000,0000,0000,,\Nthat might not be on this ship, anyway.
+Dialogue: 0,0:05:45.83,0:05:49.28,Default,,0000,0000,0000,,I swear, you guys don't\Nhave a shred of delicacy!
+Dialogue: 0,0:05:49.48,0:05:51.95,Default,,0000,0000,0000,,Nami-san, the idea of meekly obeying
+Dialogue: 0,0:05:51.95,0:05:55.69,Default,,0000,0000,0000,,\Nthat dastardly mustache irks me to no end.
+Dialogue: 0,0:05:55.69,0:05:58.96,Default,,0000,0000,0000,,I don't care if we sink this ship.
+Dialogue: 0,0:05:58.96,0:06:00.97,Default,,0000,0000,0000,,Gah! Not you too, Robin!
+Dialogue: 0,0:06:00.97,0:06:02.09,Default,,0000,0000,0000,,Isn't someone going to stop them?
+Dialogue: 0,0:06:02.36,0:06:04.16,Default,,0000,0000,0000,,Those were the Captain's orders.
+Dialogue: 0,0:06:05.27,0:06:07.25,Default,,0000,0000,0000,,Oh, you're quick on the uptake!
+Dialogue: 0,0:06:07.25,0:06:08.24,Default,,0000,0000,0000,,Franky!
+Dialogue: 0,0:06:09.13,0:06:10.55,Default,,0000,0000,0000,,Please look after Sunny.
+Dialogue: 0,0:06:10.75,0:06:11.93,Default,,0000,0000,0000,,You've got it.
+Dialogue: 0,0:06:12.22,0:06:14.14,Default,,0000,0000,0000,,Super!
+Dialogue: 0,0:06:15.22,0:06:17.18,Default,,0000,0000,0000,,There goes the resort...
+Dialogue: 0,0:06:17.52,0:06:20.52,Default,,0000,0000,0000,,All right! Destroy this ship!
+Dialogue: 0,0:06:20.79,0:06:23.44,Default,,0000,0000,0000,,108-Pound Phoenix!
+Dialogue: 0,0:06:23.80,0:06:25.28,Default,,0000,0000,0000,,Concasser!
+Dialogue: 0,0:06:28.64,0:06:31.91,Default,,0000,0000,0000,,Gum-Gum Whip!
+Dialogue: 0,0:06:36.78,0:06:38.68,Default,,0000,0000,0000,,Tabasco Star!
+Dialogue: 0,0:06:42.68,0:06:44.42,Default,,0000,0000,0000,,Hoofprint Roseo!
+Dialogue: 0,0:06:44.63,0:06:46.73,Default,,0000,0000,0000,,Thunderbolt Tempo!
+Dialogue: 0,0:06:48.76,0:06:49.76,Default,,0000,0000,0000,,Clutch!
+Dialogue: 0,0:06:49.76,0:06:52.69,Default,,0000,0000,0000,,Three-Pace Hum... Notch Slash!
+Dialogue: 0,0:06:53.05,0:06:55.08,Default,,0000,0000,0000,,Everyone is strong!
+Dialogue: 0,0:06:55.89,0:06:59.18,Default,,0000,0000,0000,,Give Sayo back!
+Dialogue: 0,0:07:01.46,0:07:03.40,Default,,0000,0000,0000,,Outta my way! Move! Move! Move!
+Dialogue: 0,0:07:05.97,0:07:07.82,Default,,0000,0000,0000,,Like those puny bullets can hurt me.
+Dialogue: 0,0:07:08.06,0:07:09.54,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:07:09.54,0:07:10.86,Default,,0000,0000,0000,,He repelled the bullets?
+Dialogue: 0,0:07:14.55,0:07:15.83,Default,,0000,0000,0000,,Owie!
+Dialogue: 0,0:07:16.11,0:07:19.37,Default,,0000,0000,0000,,Jerks! Now I'm ticked!
+Dialogue: 0,0:07:19.37,0:07:21.96,Default,,0000,0000,0000,,Weapons Left!
+Dialogue: 0,0:07:25.34,0:07:29.88,Default,,0000,0000,0000,,Hey! Come on and give Sayo back!
+Dialogue: 0,0:07:30.41,0:07:32.80,Default,,0000,0000,0000,,Curse you!
+Dialogue: 0,0:07:51.74,0:07:53.62,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:07:53.62,0:07:56.42,Default,,0000,0000,0000,,Is that a cannon?! I thought it was a chimney!
+Dialogue: 0,0:08:26.55,0:08:28.50,Default,,0000,0000,0000,,Big Sis!
+Dialogue: 0,0:08:28.76,0:08:30.53,Default,,0000,0000,0000,,Rina!
+Dialogue: 0,0:08:30.79,0:08:33.49,Default,,0000,0000,0000,,Damn it! He's taken her hostage.
+Dialogue: 0,0:08:35.97,0:08:39.87,Default,,0000,0000,0000,,How dare you wreak havoc on my ship?!
+Dialogue: 0,0:08:42.66,0:08:47.42,Default,,0000,0000,0000,,Do you realize how much\Nit cost to build Spa Island?
+Dialogue: 0,0:09:10.57,0:09:12.15,Default,,0000,0000,0000,,Damn that rotten mustached jerk!
+Dialogue: 0,0:09:13.10,0:09:14.78,Default,,0000,0000,0000,,Sayo!
+Dialogue: 0,0:09:15.80,0:09:18.49,Default,,0000,0000,0000,,Big Sis!
+Dialogue: 0,0:09:18.84,0:09:20.77,Default,,0000,0000,0000,,Big Sis Sayo!
+Dialogue: 0,0:09:26.71,0:09:29.58,Default,,0000,0000,0000,,Next I'm gonna blow that brat sky high!
+Dialogue: 0,0:09:33.65,0:09:35.76,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:09:37.82,0:09:41.86,Default,,0000,0000,0000,,I had originally wanted you to\Nsolve the puzzle in that notebook,
+Dialogue: 0,0:09:41.86,0:09:44.90,Default,,0000,0000,0000,,but forget it! I'll be taking that notebook.
+Dialogue: 0,0:09:44.90,0:09:47.39,Default,,0000,0000,0000,,I'll give her back after you hand it over.
+Dialogue: 0,0:09:47.39,0:09:50.80,Default,,0000,0000,0000,,You can have the notebook,\Nso give Big Sis Sayo back!
+Dialogue: 0,0:09:50.80,0:09:51.61,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:09:52.97,0:09:54.44,Default,,0000,0000,0000,,Don't give it to him!
+Dialogue: 0,0:09:55.31,0:09:56.65,Default,,0000,0000,0000,,Big Sis Sayo...?
+Dialogue: 0,0:09:56.98,0:10:01.92,Default,,0000,0000,0000,,Rina, solve the secret in the notebook\Nand finish Dad's research!
+Dialogue: 0,0:10:01.92,0:10:03.66,Default,,0000,0000,0000,,No! Why should I?
+Dialogue: 0,0:10:03.66,0:10:06.02,Default,,0000,0000,0000,,Believe in Dad, Rina!
+Dialogue: 0,0:10:06.02,0:10:09.62,Default,,0000,0000,0000,,Don't give Dad's research to that jerk!
+Dialogue: 0,0:10:10.79,0:10:13.87,Default,,0000,0000,0000,,Dad was working to make his
+Dialogue: 0,0:10:13.87,0:10:18.13,Default,,0000,0000,0000,,dream come true for you, me, and everyone in the village.
+Dialogue: 0,0:10:19.60,0:10:23.97,Default,,0000,0000,0000,,Please! For my sake,\Ndon't throw away Dad's dream!
+Dialogue: 0,0:10:25.72,0:10:29.69,Default,,0000,0000,0000,,You're lying! Dad is just\Na self-absorbed researcher.
+Dialogue: 0,0:10:31.08,0:10:32.36,Default,,0000,0000,0000,,Rina...
+Dialogue: 0,0:10:32.36,0:10:36.40,Default,,0000,0000,0000,,I mean... I mean, he was\Nalways in his own world!
+Dialogue: 0,0:10:36.42,0:10:40.11,On Top,,0000,0000,0000,,"For Dad"
+Dialogue: 0,0:10:37.88,0:10:40.11,Default,,0000,0000,0000,,--It's done!\N--It's done!
+Dialogue: 0,0:10:40.82,0:10:44.23,Default,,0000,0000,0000,,Do you think Dad will like his birthday cake?
+Dialogue: 0,0:10:44.23,0:10:45.12,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:10:52.27,0:10:53.97,Default,,0000,0000,0000,,He isn't coming home!
+Dialogue: 0,0:10:53.97,0:10:56.70,Default,,0000,0000,0000,,I'm sure he must have found something again.
+Dialogue: 0,0:10:58.91,0:10:59.91,Default,,0000,0000,0000,,I'm going to bed!
+Dialogue: 0,0:10:59.91,0:11:00.74,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:28.04,0:11:31.50,On Top,,0000,0000,0000,,"For Dad"
+Dialogue: 0,0:11:28.67,0:11:31.50,Default,,0000,0000,0000,,A cake? Oh, yeah.
+Dialogue: 0,0:11:31.60,0:11:35.42,Default,,0000,0000,0000,,They must have baked a cake for me...
+Dialogue: 0,0:11:39.25,0:11:40.47,Default,,0000,0000,0000,,Dad...?
+Dialogue: 0,0:11:41.41,0:11:42.43,Default,,0000,0000,0000,,Did I wake you up?
+Dialogue: 0,0:11:43.62,0:11:44.92,Default,,0000,0000,0000,,What are these?
+Dialogue: 0,0:11:44.92,0:11:47.56,Default,,0000,0000,0000,,Cast-off Thirty Year Cicada shells.
+Dialogue: 0,0:11:47.56,0:11:49.42,Default,,0000,0000,0000,,\NI can probably use them in my research.
+Dialogue: 0,0:11:50.38,0:11:54.02,Default,,0000,0000,0000,,There was a big outbreak of them\Nfor the first time in thirty years!
+Dialogue: 0,0:11:55.06,0:11:58.60,Default,,0000,0000,0000,,Is that right? Ah! But last night...
+Dialogue: 0,0:12:00.73,0:12:04.28,Default,,0000,0000,0000,,A cake! That cake looks delicious!
+Dialogue: 0,0:12:09.36,0:12:10.41,Default,,0000,0000,0000,,But that cake...!
+Dialogue: 0,0:12:11.04,0:12:13.37,Default,,0000,0000,0000,,We made that yesterday.
+Dialogue: 0,0:12:13.65,0:12:16.38,Default,,0000,0000,0000,,It may have gone bad. It is summer and all...
+Dialogue: 0,0:12:20.79,0:12:23.32,Default,,0000,0000,0000,,Doctor... Get a doctor...
+Dialogue: 0,0:12:23.32,0:12:25.44,Default,,0000,0000,0000,,He already saw you and left!
+Dialogue: 0,0:12:26.27,0:12:31.70,Default,,0000,0000,0000,,I don't care about him!\NHe doesn't know a thing about us!
+Dialogue: 0,0:12:31.70,0:12:33.02,Default,,0000,0000,0000,,He doesn't think about us!
+Dialogue: 0,0:12:33.35,0:12:36.43,Default,,0000,0000,0000,,Hey, this isn't the time to get in a fight...
+Dialogue: 0,0:12:36.43,0:12:37.34,Default,,0000,0000,0000,,Don't butt in.
+Dialogue: 0,0:12:39.97,0:12:41.74,Default,,0000,0000,0000,,This is their problem.
+Dialogue: 0,0:12:42.69,0:12:47.25,Default,,0000,0000,0000,,Rina, you're mistaken! Listen to me! Dad...
+Dialogue: 0,0:12:48.72,0:12:51.58,Default,,0000,0000,0000,,I'm sorry about the cake.
+Dialogue: 0,0:12:52.35,0:12:53.69,Default,,0000,0000,0000,,Dad...
+Dialogue: 0,0:12:53.69,0:12:57.35,Default,,0000,0000,0000,,You were looking forward to having\Na birthday party, weren't you?
+Dialogue: 0,0:12:57.86,0:12:58.54,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:12:59.02,0:13:00.84,Default,,0000,0000,0000,,I need the materials in the
+Dialogue: 0,0:13:00.84,0:13:04.47,Default,,0000,0000,0000,,cast-off Thirty Year Cicada shells to make the jewels.
+Dialogue: 0,0:13:04.80,0:13:08.57,Default,,0000,0000,0000,,If I didn't get them now, I'd have\Nto wait another thirty years...
+Dialogue: 0,0:13:08.57,0:13:10.06,Default,,0000,0000,0000,,I had to go.
+Dialogue: 0,0:13:10.40,0:13:11.22,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:13:11.70,0:13:13.41,Default,,0000,0000,0000,,You aren't angry?
+Dialogue: 0,0:13:13.41,0:13:14.10,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:13:14.76,0:13:19.06,Default,,0000,0000,0000,,I see. But I bet Rina is mad at me.
+Dialogue: 0,0:13:20.91,0:13:25.62,Default,,0000,0000,0000,,You are just like your mother,\Nbut Rina takes after me.
+Dialogue: 0,0:13:25.62,0:13:27.52,Default,,0000,0000,0000,,She's a handful when she gets upset!
+Dialogue: 0,0:13:29.72,0:13:34.41,Default,,0000,0000,0000,,After I make some jewels,\Nlet's eat a cake that's this big!
+Dialogue: 0,0:13:34.93,0:13:35.79,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:36.00,0:13:38.23,Default,,0000,0000,0000,,Let's get one that Rina could hide in.
+Dialogue: 0,0:13:42.74,0:13:45.88,Default,,0000,0000,0000,,Nukki says that it's all true.
+Dialogue: 0,0:13:48.17,0:13:53.21,Default,,0000,0000,0000,,And he said that your father\Nleft home to protect you and Sayo
+Dialogue: 0,0:13:53.21,0:13:55.58,Default,,0000,0000,0000,,from some bad guys who\Nwere after his jewel research.
+Dialogue: 0,0:13:56.20,0:13:57.48,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:14:04.19,0:14:05.23,Default,,0000,0000,0000,,What's this...?
+Dialogue: 0,0:14:12.28,0:14:13.83,Default,,0000,0000,0000,,I can't find one...
+Dialogue: 0,0:14:13.83,0:14:16.84,Default,,0000,0000,0000,,You have to work to find a four-leaf clover.
+Dialogue: 0,0:14:17.70,0:14:20.79,Default,,0000,0000,0000,,But Big Sis found three of them!
+Dialogue: 0,0:14:20.79,0:14:23.56,Default,,0000,0000,0000,,That's because she believed with all
+Dialogue: 0,0:14:23.56,0:14:26.51,Default,,0000,0000,0000,,\Nof her heart that she would find them.
+Dialogue: 0,0:14:26.87,0:14:28.77,Default,,0000,0000,0000,,--She believed?\N--Right!
+Dialogue: 0,0:14:28.77,0:14:31.64,Default,,0000,0000,0000,,Conducting research and searching\Nfor four-leaf clovers are similar.
+Dialogue: 0,0:14:31.64,0:14:35.61,Default,,0000,0000,0000,,If you never stop believing and work hard,\Nit will pay off in the end.
+Dialogue: 0,0:14:36.52,0:14:42.31,Default,,0000,0000,0000,,Really? Then I'm going to find a five-leaf clover!
+Dialogue: 0,0:14:42.53,0:14:44.70,Default,,0000,0000,0000,,Huh? Five leaves...?
+Dialogue: 0,0:14:45.60,0:14:47.11,Default,,0000,0000,0000,,That'd be amazing!
+Dialogue: 0,0:14:49.17,0:14:50.49,Default,,0000,0000,0000,,I found one!
+Dialogue: 0,0:14:52.37,0:14:55.12,Default,,0000,0000,0000,,I found a five-leaf clover!
+Dialogue: 0,0:14:57.69,0:15:00.83,Default,,0000,0000,0000,,Th-That's... Rina!
+Dialogue: 0,0:15:01.00,0:15:04.17,Default,,0000,0000,0000,,You were right! I believed I could find one.
+Dialogue: 0,0:15:04.50,0:15:06.94,Default,,0000,0000,0000,,That's right, Rina! That's amazing!
+Dialogue: 0,0:15:08.62,0:15:10.02,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:15:10.02,0:15:13.47,Default,,0000,0000,0000,,All right, Rina! I'm gonna\Nsucceed with my research!
+Dialogue: 0,0:15:16.06,0:15:20.48,Default,,0000,0000,0000,,Yeah... I had forgotten all about that...
+Dialogue: 0,0:15:21.19,0:15:23.49,Default,,0000,0000,0000,,I used to believe he could pull it off.
+Dialogue: 0,0:15:24.27,0:15:27.69,Default,,0000,0000,0000,,This is Dad's dream! It has to come true.
+Dialogue: 0,0:15:28.34,0:15:29.19,Default,,0000,0000,0000,,Rina!
+Dialogue: 0,0:15:29.56,0:15:33.16,Default,,0000,0000,0000,,I've changed my mind! You can't\Nhave the notebook after all.
+Dialogue: 0,0:15:33.16,0:15:34.99,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:15:36.32,0:15:37.80,Default,,0000,0000,0000,,It's show time!
+Dialogue: 0,0:15:54.50,0:15:55.97,Default,,0000,0000,0000,,Don't play games with me!
+Dialogue: 0,0:15:56.34,0:15:57.74,Default,,0000,0000,0000,,Seis Fleurs!
+Dialogue: 0,0:16:00.61,0:16:03.14,Default,,0000,0000,0000,,Tabasco Star Onslaught! Star! Star!
+Dialogue: 0,0:16:07.71,0:16:08.85,Default,,0000,0000,0000,,Nami, get on.
+Dialogue: 0,0:16:08.85,0:16:09.72,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:16:13.56,0:16:14.52,Default,,0000,0000,0000,,Sayo-chan!
+Dialogue: 0,0:16:14.52,0:16:15.70,Default,,0000,0000,0000,,Hurry! Untie her.
+Dialogue: 0,0:16:16.69,0:16:17.83,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:16:18.14,0:16:19.58,Default,,0000,0000,0000,,A lock?!
+Dialogue: 0,0:16:26.37,0:16:28.56,Default,,0000,0000,0000,,Where did you come from?
+Dialogue: 0,0:16:29.59,0:16:31.59,Default,,0000,0000,0000,,Wait! What are you going to do?
+Dialogue: 0,0:16:31.59,0:16:33.51,Default,,0000,0000,0000,,Please wait!
+Dialogue: 0,0:16:35.51,0:16:37.35,Default,,0000,0000,0000,,Three-Sword Style...
+Dialogue: 0,0:16:39.95,0:16:42.60,Default,,0000,0000,0000,,...Great Buddha Slayer!
+Dialogue: 0,0:16:54.85,0:16:57.66,Default,,0000,0000,0000,,They're doing a great job.
+Dialogue: 0,0:16:59.23,0:17:01.12,Default,,0000,0000,0000,,Hey, you need to do a great job!
+Dialogue: 0,0:17:01.27,0:17:02.87,Default,,0000,0000,0000,,Curse you!
+Dialogue: 0,0:17:11.61,0:17:12.75,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:17:13.28,0:17:17.26,Default,,0000,0000,0000,,The jerk! He released all\Nof the steam in the ship!
+Dialogue: 0,0:17:23.06,0:17:24.69,Default,,0000,0000,0000,,That's better!
+Dialogue: 0,0:17:24.69,0:17:26.83,Default,,0000,0000,0000,,Now die!
+Dialogue: 0,0:17:36.55,0:17:37.94,Default,,0000,0000,0000,,Let's go, Rina!
+Dialogue: 0,0:17:37.94,0:17:38.81,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:39.66,0:17:41.24,Default,,0000,0000,0000,,Third Gear!
+Dialogue: 0,0:17:43.78,0:17:45.46,Default,,0000,0000,0000,,Bone Balloon!
+Dialogue: 0,0:17:48.82,0:17:51.75,Default,,0000,0000,0000,,Giant Axe!
+Dialogue: 0,0:18:16.64,0:18:18.36,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:18:20.15,0:18:21.62,Default,,0000,0000,0000,,What on earth is going on...?
+Dialogue: 0,0:18:23.52,0:18:26.37,Default,,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:18:30.42,0:18:31.89,Default,,0000,0000,0000,,Later!
+Dialogue: 0,0:18:49.44,0:18:51.98,Default,,0000,0000,0000,,Stupid! Don't forget about\Neveryone who has to abandon ship!
+Dialogue: 0,0:18:53.88,0:18:55.74,Default,,0000,0000,0000,,Luffy, you're amazing!
+Dialogue: 0,0:18:56.25,0:18:59.14,Default,,0000,0000,0000,,Oops! I forgot that I shrink\Nwhen I use that move.
+Dialogue: 0,0:18:59.14,0:18:59.86,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:07.56,0:19:10.37,Default,,0000,0000,0000,,Sheesh! Think ahead a little, will you?
+Dialogue: 0,0:19:24.68,0:19:26.35,Default,,0000,0000,0000,,A giant "X."
+Dialogue: 0,0:19:39.66,0:19:41.03,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:19:41.03,0:19:43.07,Default,,0000,0000,0000,,Serves the jerk right!
+Dialogue: 0,0:19:51.34,0:19:54.10,Default,,0000,0000,0000,,An "X"! And it's huge.
+Dialogue: 0,0:19:54.61,0:19:58.51,Default,,0000,0000,0000,,Yep! Dad was referring to that\Nunderwater volcano on the map.
+Dialogue: 0,0:19:58.78,0:20:03.58,Default,,0000,0000,0000,,Doran built his ship right above\Nthe treasure he was searching for.
+Dialogue: 0,0:20:03.58,0:20:08.22,Default,,0000,0000,0000,,The doof didn't realize the key\Nto the secret was right under him.
+Dialogue: 0,0:20:23.84,0:20:25.20,Default,,0000,0000,0000,,Amazing!
+Dialogue: 0,0:20:25.20,0:20:27.83,Default,,0000,0000,0000,,That's... a circular rainbow!
+Dialogue: 0,0:20:28.77,0:20:31.58,Default,,0000,0000,0000,,I've never seen a round rainbow before.
+Dialogue: 0,0:20:31.58,0:20:33.25,Default,,0000,0000,0000,,Same here.
+Dialogue: 0,0:20:35.35,0:20:38.62,Default,,0000,0000,0000,,It's a mysterious rainbow! Awesome!
+Dialogue: 0,0:20:40.15,0:20:44.34,Default,,0000,0000,0000,,W-Wait a sec! Is that the treasure?
+Dialogue: 0,0:20:44.34,0:20:45.42,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:46.02,0:20:49.90,Default,,0000,0000,0000,,Come to think of it, circular rainbows\Nare referred to as the "ocean's treasure."
+Dialogue: 0,0:20:49.90,0:20:51.26,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:51.26,0:20:52.85,Default,,0000,0000,0000,,Oh, man!
+Dialogue: 0,0:20:57.34,0:20:58.97,Default,,0000,0000,0000,,Th-That's it?
+Dialogue: 0,0:20:58.97,0:21:02.01,Default,,0000,0000,0000,,You better not tell me that this is the treasure.
+Dialogue: 0,0:21:02.01,0:21:03.54,Default,,0000,0000,0000,,Don't underestimate us!
+Dialogue: 0,0:21:03.54,0:21:05.45,Default,,0000,0000,0000,,Uh, well...
+Dialogue: 0,0:21:06.65,0:21:09.32,Default,,0000,0000,0000,,You can have all of the treasure!
+Dialogue: 0,0:21:09.32,0:21:10.91,Default,,0000,0000,0000,,Don't give us that!
+Dialogue: 0,0:21:12.02,0:21:14.65,Default,,0000,0000,0000,,Huh? That rainbow looks weird...
+Dialogue: 0,0:21:14.65,0:21:16.92,Default,,0000,0000,0000,,The order of the colors is inversed.
+Dialogue: 0,0:21:16.92,0:21:18.33,Default,,0000,0000,0000,,The order...?
+Dialogue: 0,0:21:20.13,0:21:21.36,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:21:21.36,0:21:22.76,Default,,0000,0000,0000,,Just maybe...
+Dialogue: 0,0:21:25.76,0:21:28.70,Default,,0000,0000,0000,,"-Several Days Later-"
+Dialogue: 0,0:21:35.14,0:21:36.98,Default,,0000,0000,0000,,I think that might be...
+Dialogue: 0,0:21:42.45,0:21:44.54,Default,,0000,0000,0000,,You're the monster raccoon dog\Nfrom the other day!
+Dialogue: 0,0:21:44.54,0:21:45.49,Default,,0000,0000,0000,,No, it's an ocean raccoon dog.
+Dialogue: 0,0:21:48.75,0:21:49.87,Default,,0000,0000,0000,,A letter?
+Dialogue: 0,0:21:51.93,0:21:54.66,Default,,0000,0000,0000,,It looks like Sayo-chan's guess\Nwas dead on back there!
+Dialogue: 0,0:21:55.63,0:21:58.73,Default,,0000,0000,0000,,"Dear Luffy and friends. Are you well?
+Dialogue: 0,0:21:58.73,0:22:04.11,Default,,0000,0000,0000,,My big sister and I went straight\Nhome and tested out her idea."
+Dialogue: 0,0:22:04.64,0:22:08.67,Default,,0000,0000,0000,,We followed my father's formulas\Nand made seven different medications.
+Dialogue: 0,0:22:08.67,0:22:12.91,Default,,0000,0000,0000,,When we mixed them together in\Nthe order of the circular rainbow...
+Dialogue: 0,0:22:24.66,0:22:26.95,Default,,0000,0000,0000,,It worked!
+Dialogue: 0,0:22:27.28,0:22:29.40,Default,,0000,0000,0000,,She says it created a jewel!
+Dialogue: 0,0:22:29.66,0:22:31.78,Default,,0000,0000,0000,,Yay! We did it! We did it!
+Dialogue: 0,0:22:33.12,0:22:35.03,Default,,0000,0000,0000,,Sayo... Rina...!
+Dialogue: 0,0:22:41.45,0:22:42.41,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:22:42.41,0:22:44.41,Default,,0000,0000,0000,,Cool!
+Dialogue: 0,0:22:44.94,0:22:46.75,Default,,0000,0000,0000,,That's a sign of their gratitude.
+Dialogue: 0,0:22:46.75,0:22:48.51,Default,,0000,0000,0000,,They say, "Thank you, guys."
+Dialogue: 0,0:22:48.51,0:22:50.18,Default,,0000,0000,0000,,Let me get a better look at it, Luffy.
+Dialogue: 0,0:22:50.18,0:22:51.25,Default,,0000,0000,0000,,--I wanna see it! Lemme see!\N--Huh? Let's see it.
+Dialogue: 0,0:22:51.25,0:22:52.76,Default,,0000,0000,0000,,Wait! Just a sec.
+Dialogue: 0,0:22:52.76,0:22:55.65,Default,,0000,0000,0000,,Hey, guys! This isn't a toy.
+Dialogue: 0,0:23:01.93,0:23:03.36,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:23:03.36,0:23:06.37,Default,,0000,0000,0000,,It's candy rain! Ow, ow!
+Dialogue: 0,0:23:06.37,0:23:08.70,Default,,0000,0000,0000,,It's yummy!
+Dialogue: 0,0:23:08.70,0:23:10.13,Default,,0000,0000,0000,,Oops. I dropped the jewel.
+Dialogue: 0,0:23:10.13,0:23:11.61,Default,,0000,0000,0000,,--Which one is it?!\N--Beats me.
+Dialogue: 0,0:23:11.61,0:23:13.71,Default,,0000,0000,0000,,Find it! Find it fast!
+Dialogue: 0,0:23:13.71,0:23:16.95,Default,,0000,0000,0000,,You guys had better find it!
+Dialogue: 0,0:23:16.95,0:23:18.42,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:23:26.45,0:23:28.59,Default,,0000,0000,0000,,Why are you so excited, Brook?
+Dialogue: 0,0:23:28.59,0:23:31.79,Default,,0000,0000,0000,,After learning about the great feats\Nyou've accomplished on your voyage,
+Dialogue: 0,0:23:31.79,0:23:35.31,Default,,0000,0000,0000,,I've realized I must work\Nto become a true comrade!
+Dialogue: 0,0:23:35.31,0:23:38.58,Default,,0000,0000,0000,,"A true comrade"? That's not\Nsomething you work toward.
+Dialogue: 0,0:23:38.58,0:23:39.87,Default,,0000,0000,0000,,Oh, dear!
+Dialogue: 0,0:23:39.87,0:23:41.27,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.27,0:23:44.97,Default,,0000,0000,0000,,"Brook's Great Struggle! Is the Path to\NBecoming a True Comrade Rigorous?"
+Dialogue: 0,0:23:44.97,0:23:47.04,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.37,0:23:49.37,Default,,0000,0000,0000,,

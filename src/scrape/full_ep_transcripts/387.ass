@@ -1,0 +1,361 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:46.87,0:02:49.84,Default,Na,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:51.13,0:02:53.81,Default,Na,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.81,0:02:56.40,Default,Na,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.82,0:02:59.32,Default,Na,0000,0000,0000,,The words he uttered\Njust before his death
+Dialogue: 0,0:02:59.32,0:03:02.87,Default,Na,0000,0000,0000,,drove people around\Nthe world to the seas.
+Dialogue: 0,0:03:03.18,0:03:05.20,Default,Roger,0000,0000,0000,,My treasure?
+Dialogue: 0,0:03:05.61,0:03:07.47,Default,Roger,0000,0000,0000,,If you want it, you can have it!
+Dialogue: 0,0:03:07.47,0:03:08.82,Default,Roger,0000,0000,0000,,Find it!
+Dialogue: 0,0:03:09.17,0:03:11.87,Default,Roger,0000,0000,0000,,I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.35,0:03:16.84,Default,Na,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.44,0:03:21.26,Default,Na,0000,0000,0000,,The world has truly entered\Na Great Pirate Era!
+Dialogue: 0,0:03:23.74,0:03:27.73,Default,Na,0000,0000,0000,,As Luffy and his friends continued their \Nvoyage in search of Fishman Island,
+Dialogue: 0,0:03:27.73,0:03:29.56,Default,Na,0000,0000,0000,,they made it halfway to the Grand Line.
+Dialogue: 0,0:03:32.04,0:03:32.94,Default,Robin,0000,0000,0000,,Chopper!
+Dialogue: 0,0:03:38.89,0:03:41.99,Default,Franky,0000,0000,0000,,Coup de Burst!
+Dialogue: 0,0:03:51.85,0:03:53.37,Default,Chopper,0000,0000,0000,,I can't see the top...
+Dialogue: 0,0:03:53.75,0:03:55.33,Default,Chopper,0000,0000,0000,,It's huge!
+Dialogue: 0,0:03:55.33,0:03:58.42,Default,Na,0000,0000,0000,,They finally reached the Red Line.
+Dialogue: 0,0:04:03.98,0:04:06.60,Default,Na,0000,0000,0000,,There, they met the mermaid Camie
+Dialogue: 0,0:04:07.24,0:04:10.89,Default,Na,0000,0000,0000,,and the starfish Pappug, and became friends.
+Dialogue: 0,0:04:11.18,0:04:13.10,Default,Camie,0000,0000,0000,,Thanks for saving me.
+Dialogue: 0,0:04:14.28,0:04:16.61,Default,Hachi,0000,0000,0000,,Camie, you're okay?
+Dialogue: 0,0:04:16.61,0:04:20.84,Default,Na,0000,0000,0000,,Camie asked them to save her \Nimprisoned friend, "Hatchin,"
+Dialogue: 0,0:04:20.84,0:04:25.57,Default,Na,0000,0000,0000,,so they headed toward the hideout of the \Nkidnapping gang, the Flying Fish Riders.
+Dialogue: 0,0:04:26.91,0:04:28.76,Default,Luffy,0000,0000,0000,,What? What's going on?
+Dialogue: 0,0:04:28.76,0:04:31.87,Default,Pappug,0000,0000,0000,,There they are! The Flying Fish Riders!
+Dialogue: 0,0:04:38.92,0:04:40.51,Default,Guy,0000,0000,0000,,Hey! Did you see?
+Dialogue: 0,0:04:40.51,0:04:43.51,Default,Guy,0000,0000,0000,,Yeah! There's no mistake! \NIt's the Straw Hats!
+Dialogue: 0,0:04:46.38,0:04:50.16,Default,Duval,0000,0000,0000,,I've been waiting. I've been waiting so long.
+Dialogue: 0,0:04:51.00,0:04:56.15,Default,Duval,0000,0000,0000,,That pirate ship is the \None I've been waiting for.
+Dialogue: 0,0:04:56.15,0:04:58.27,Default,Duval,0000,0000,0000,,I'll kill him.
+Dialogue: 0,0:04:58.94,0:05:02.61,Default,Duval,0000,0000,0000,,I'll kill the man who ruined my life!
+Dialogue: 0,0:05:11.20,0:05:17.00,Default,Title,0000,0000,0000,,"The Fated Reunion! Save \Nthe Imprisoned Fishman!"
+Dialogue: 0,0:05:20.62,0:05:23.14,Default,Chopper,0000,0000,0000,,The flying fish left.
+Dialogue: 0,0:05:23.14,0:05:26.16,Default,Franky,0000,0000,0000,,They were obviously taking \Nthe offensive, though.
+Dialogue: 0,0:05:26.16,0:05:28.64,Default,Robin,0000,0000,0000,,It looked like they received \Nsome kind of message.
+Dialogue: 0,0:05:29.02,0:05:31.31,Default,Robin,0000,0000,0000,,Maybe they were ordered to retreat?
+Dialogue: 0,0:05:31.31,0:05:32.60,Default,Robin,0000,0000,0000,,Though I don't know why...
+Dialogue: 0,0:05:32.60,0:05:34.65,Default,Luffy,0000,0000,0000,,I wanna ride one!
+Dialogue: 0,0:05:34.65,0:05:37.05,Default,Luffy,0000,0000,0000,,Those flying fish can fly \Nfor five whole minutes?!
+Dialogue: 0,0:05:37.05,0:05:38.35,Default,Luffy,0000,0000,0000,,That's so cool!
+Dialogue: 0,0:05:37.91,0:05:41.73,Default,Sanji,0000,0000,0000,,Anyway, those flying fish will be at \Nthe place we're heading for, right?
+Dialogue: 0,0:05:41.73,0:05:45.26,Default,Sanji,0000,0000,0000,,Then we'll need to be prepared to fight.
+Dialogue: 0,0:05:48.01,0:05:50.16,Default,Sanji,0000,0000,0000,,I never expected them to \Ncome from the sky, though...
+Dialogue: 0,0:05:50.54,0:05:52.76,Default,Usopp,0000,0000,0000,,Why don't we bring the cannons up on deck?
+Dialogue: 0,0:05:52.76,0:05:54.98,Default,Usopp,0000,0000,0000,,Then I can shoot 'em out of the sky!
+Dialogue: 0,0:05:54.98,0:05:55.75,Default,Franky,0000,0000,0000,,All right!
+Dialogue: 0,0:05:59.12,0:06:02.48,Default,Camie,0000,0000,0000,,I hope Hatchin is okay...
+Dialogue: 0,0:06:02.48,0:06:05.64,Default,Pappug,0000,0000,0000,,You're the one Macro is really after.
+Dialogue: 0,0:06:05.64,0:06:07.74,Default,Pappug,0000,0000,0000,,You should be careful yourself.
+Dialogue: 0,0:06:10.19,0:06:11.40,Default,Camie,0000,0000,0000,,You're right.
+Dialogue: 0,0:06:16.98,0:06:19.76,Default,Guy,0000,0000,0000,,Duval-sama! The three Riders have returned!
+Dialogue: 0,0:06:26.92,0:06:29.49,Default,Guy,0000,0000,0000,,Duval-sama, why did you order us back?
+Dialogue: 0,0:06:29.49,0:06:30.70,Default,Guy,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:30.70,0:06:35.01,Default,Guy,0000,0000,0000,,If you'd left it to us, we could've \Nnabbed the mermaid and the pirates!
+Dialogue: 0,0:06:35.01,0:06:36.16,Default,Duval,0000,0000,0000,,Fools!
+Dialogue: 0,0:06:43.33,0:06:44.63,Default,Duval,0000,0000,0000,,You guys...
+Dialogue: 0,0:06:43.95,0:06:44.63,Default,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:45.80,0:06:50.71,Default,Duval,0000,0000,0000,,Do you know how I have felt \Nas I waited for those pirates?
+Dialogue: 0,0:06:51.55,0:06:57.02,DefaultLow,Duval,0000,0000,0000,,I'm sure you know the story.
+Dialogue: 0,0:06:54.70,0:06:57.01,On Top,Text,0000,0000,0000,,Duval
+Dialogue: 0,0:06:58.15,0:07:01.19,Default,Duval,0000,0000,0000,,When I think about that man,
+Dialogue: 0,0:07:01.86,0:07:07.49,Default,Duval,0000,0000,0000,,the huge wound on my back throbs terribly.
+Dialogue: 0,0:07:09.19,0:07:11.36,Default,Guy,0000,0000,0000,,Uh-oh... The Head is mad!
+Dialogue: 0,0:07:11.81,0:07:21.00,Default,Duval,0000,0000,0000,,Day after day, I have continued \Nto loathe that man...
+Dialogue: 0,0:07:23.06,0:07:25.32,Default,Guy,0000,0000,0000,,Head, please calm down...
+Dialogue: 0,0:07:26.35,0:07:29.43,Default,Duval,0000,0000,0000,,Shall I kill him here today?
+Dialogue: 0,0:07:29.81,0:07:31.47,Default,Duval,0000,0000,0000,,What do you think?
+Dialogue: 0,0:07:31.85,0:07:36.26,Default,Duval,0000,0000,0000,,That is the biggest question in my life!
+Dialogue: 0,0:07:36.26,0:07:39.40,Default,Duval,0000,0000,0000,,Do you realize that?!
+Dialogue: 0,0:07:39.40,0:07:42.40,Default,Guy,0000,0000,0000,,Y-Yes! In that case, you \Nshould not let him live!
+Dialogue: 0,0:07:43.16,0:07:49.02,Default,Duval,0000,0000,0000,,That's exactly why I must be careful \Nand thorough in eliminating him.
+Dialogue: 0,0:07:49.02,0:07:51.57,Default,Duval,0000,0000,0000,,So do as I tell you!
+Dialogue: 0,0:07:51.57,0:07:53.28,Default,Guy,0000,0000,0000,,Yes, Head!
+Dialogue: 0,0:07:53.28,0:07:55.12,Default,Duval,0000,0000,0000,,Hey, Macro Pirates.
+Dialogue: 0,0:07:55.12,0:07:57.12,Default,Tansui,0000,0000,0000,,Yeah? You called?
+Dialogue: 0,0:07:57.50,0:07:59.24,Default,Gyaro,0000,0000,0000,,What is it, Duva?
+Dialogue: 0,0:07:59.48,0:08:01.18,Default,Macro,0000,0000,0000,,Gyaro, how could you call him Duva?!
+Dialogue: 0,0:08:01.18,0:08:02.92,Default,Macro,0000,0000,0000,,And Tansui, "Yeah?" isn't right!
+Dialogue: 0,0:08:02.92,0:08:04.88,Default,Macro,0000,0000,0000,,You're both being rude!
+Dialogue: 0,0:08:04.88,0:08:07.27,Default,Tansui,0000,0000,0000,,Ha, ha. "Duva" sounds funny.
+Dialogue: 0,0:08:07.27,0:08:09.14,Default,Macro,0000,0000,0000,,Oh, damn it!
+Dialogue: 0,0:08:09.14,0:08:12.07,Default,Macro,0000,0000,0000,,Hey, Master Duval! Hey, \Nhey, you called for us?
+Dialogue: 0,0:08:12.07,0:08:14.89,Default,Gyaro,0000,0000,0000,,Boss, he's too worked up.
+Dialogue: 0,0:08:15.21,0:08:17.47,Default,Macro,0000,0000,0000,,Quiet! Shut your mouth!
+Dialogue: 0,0:08:17.47,0:08:19.55,Default,Macro,0000,0000,0000,,I'm so sorry, Master.
+Dialogue: 0,0:08:19.55,0:08:23.69,Default,Macro,0000,0000,0000,,They truly are idiots. They don't \Nknow how to speak properly.
+Dialogue: 0,0:08:25.54,0:08:27.85,Default,Duval,0000,0000,0000,,That's fine, boys.
+Dialogue: 0,0:08:27.85,0:08:32.03,Default,Duval,0000,0000,0000,,To me, you're like messengers from \Nheaven who bring me happiness.
+Dialogue: 0,0:08:32.03,0:08:36.02,Default,Duval,0000,0000,0000,,I'm so grateful, I can't \Nfind the words to thank you.
+Dialogue: 0,0:08:38.58,0:08:39.45,Default,Tansui,0000,0000,0000,,S'okay.
+Dialogue: 0,0:08:39.45,0:08:42.27,Default,Macro,0000,0000,0000,,I told you to shut up, Tansui!
+Dialogue: 0,0:08:43.08,0:08:48.30,Default,Duval,0000,0000,0000,,Thanks to you boys, I'll \Nfinally... finally... meet them.
+Dialogue: 0,0:08:48.77,0:08:54.22,Default,Duval,0000,0000,0000,,I'll finally meet the Straw Hats!
+Dialogue: 0,0:08:55.23,0:08:58.68,Default,Macro,0000,0000,0000,,Straw Hats? Huh? Who are they?
+Dialogue: 0,0:08:58.68,0:09:03.43,Default,Hachi,0000,0000,0000,,The Straw Hats... So I \Ndidn't hear that wrong.
+Dialogue: 0,0:09:03.77,0:09:05.37,Default,Duval,0000,0000,0000,,The man...
+Dialogue: 0,0:09:06.76,0:09:11.69,Default,Duval,0000,0000,0000,,...I have been praying...
+Dialogue: 0,0:09:11.69,0:09:14.05,Default,Duval,0000,0000,0000,,...for a chance to kill is on that ship!
+Dialogue: 0,0:09:14.05,0:09:17.06,Default,Duval,0000,0000,0000,,I will never forgive him!
+Dialogue: 0,0:09:17.06,0:09:18.66,Default,Guy,0000,0000,0000,,Head, please calm down!
+Dialogue: 0,0:09:19.95,0:09:22.12,Default,Macro,0000,0000,0000,,That's quite a grudge you're carrying.
+Dialogue: 0,0:09:22.12,0:09:26.46,Default,Hachi,0000,0000,0000,,I never expected to hear the \NStraw Hats spoken of here...
+Dialogue: 0,0:09:27.47,0:09:29.01,Default,Hachi,0000,0000,0000,,Hey, you! Big guy!
+Dialogue: 0,0:09:29.01,0:09:32.25,Default,Macro,0000,0000,0000,,Gah! This is Duval-sama, you damn octopus!
+Dialogue: 0,0:09:32.25,0:09:35.51,Default,Hachi,0000,0000,0000,,Was Camie captured by the Straw Hats?
+Dialogue: 0,0:09:37.50,0:09:42.88,Default,Hachi,0000,0000,0000,,This is bad... Of all people, why them?
+Dialogue: 0,0:09:42.88,0:09:44.93,Default,Hachi,0000,0000,0000,,Are they coming here?
+Dialogue: 0,0:09:44.93,0:09:47.38,Default,Guy,0000,0000,0000,,That's right. They're headed here.
+Dialogue: 0,0:09:47.79,0:09:52.14,Default,Guy,0000,0000,0000,,Hey, does that mean your mermaid \Nwent to pirates for help?
+Dialogue: 0,0:09:52.14,0:09:54.99,Default,Guy,0000,0000,0000,,I don't know the details, but \Nshe didn't seem like a prisoner.
+Dialogue: 0,0:09:55.41,0:09:57.83,Default,Guy,0000,0000,0000,,Well, no matter who she brings,
+Dialogue: 0,0:09:57.83,0:10:03.04,Default,Guy,0000,0000,0000,,as long as we're here, they'll all be \Ncaptured and sold at the human shop.
+Dialogue: 0,0:10:05.62,0:10:09.88,Default,Hachi,0000,0000,0000,,As if that's possible! Those \Nguys are crazy strong!
+Dialogue: 0,0:10:09.88,0:10:13.62,Default,Hachi,0000,0000,0000,,Man, this is a problem... Nami's \Nprobably with them, too...
+Dialogue: 0,0:10:13.62,0:10:15.98,Default,Hachi,0000,0000,0000,,She's probably holding a grudge against me.
+Dialogue: 0,0:10:15.98,0:10:18.09,Default,Hachi,0000,0000,0000,,Of course she would.
+Dialogue: 0,0:10:18.09,0:10:21.52,Default,Hachi,0000,0000,0000,,I did awful things to her \Nwith Arlong and the boys.
+Dialogue: 0,0:10:22.05,0:10:25.55,Default,Hachi,0000,0000,0000,,I've gotta get out of \Nhere before they arrive,
+Dialogue: 0,0:10:25.55,0:10:28.93,Default,Hachi,0000,0000,0000,,or they're sure to pulverize me.
+Dialogue: 0,0:10:28.93,0:10:31.61,Default,Hachi,0000,0000,0000,,This is a huge problem!
+Dialogue: 0,0:10:44.28,0:10:45.38,Default,Guy,0000,0000,0000,,That's...
+Dialogue: 0,0:10:45.38,0:10:46.74,Default,Guy,0000,0000,0000,,Duval-sama!
+Dialogue: 0,0:10:46.74,0:10:48.50,Default,Guy,0000,0000,0000,,It's the Straw Hats!
+Dialogue: 0,0:10:49.29,0:10:53.21,Default,Duval,0000,0000,0000,,Finally... they're here...
+Dialogue: 0,0:10:53.55,0:10:55.84,Default,Hachi,0000,0000,0000,,Hey, Macro.
+Dialogue: 0,0:10:55.84,0:10:57.68,Default,Macro,0000,0000,0000,,Huh? What do you want?
+Dialogue: 0,0:10:57.68,0:11:00.81,Default,Hachi,0000,0000,0000,,I'll give you takoyaki, so please let me go.
+Dialogue: 0,0:11:00.81,0:11:03.97,Default,Macro,0000,0000,0000,,I'm not letting you go, idiot! You \Nthink I'm that obsessed with food?!
+Dialogue: 0,0:11:07.10,0:11:10.28,Default,Duval,0000,0000,0000,,Are you sure he's on the ship?
+Dialogue: 0,0:11:10.28,0:11:12.23,Default,Guy,0000,0000,0000,,Yes! He's definitely there!
+Dialogue: 0,0:11:13.50,0:11:17.42,Default,Macro,0000,0000,0000,,It's curtains for you \Nnow. I hope you're ready!
+Dialogue: 0,0:11:17.42,0:11:20.31,Default,Hachi,0000,0000,0000,,Hey, Gyaro, I'll give you \Ntakoyaki, so please let me go.
+Dialogue: 0,0:11:20.31,0:11:22.24,Default,Macro,0000,0000,0000,,Who do you think is gonna fall for—
+Dialogue: 0,0:11:22.90,0:11:24.62,Default,Macro,0000,0000,0000,,Hey! Just how obsessed with food are you?!
+Dialogue: 0,0:11:24.62,0:11:26.58,Default,Duval,0000,0000,0000,,All of you, get in position!
+Dialogue: 0,0:11:26.58,0:11:27.84,Default,Guy,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:11:29.69,0:11:32.86,Default,Hachi,0000,0000,0000,,Hey, Tansui, I'll give you— Huh?
+Dialogue: 0,0:11:32.86,0:11:34.67,Default,Macro,0000,0000,0000,,Shut up! You come with us!
+Dialogue: 0,0:11:38.84,0:11:41.26,Default,Luffy,0000,0000,0000,,Hey, I see something!
+Dialogue: 0,0:11:41.59,0:11:45.97,Default,Franky,0000,0000,0000,,Looks like that's the Flying \NFish Riders' hideout.
+Dialogue: 0,0:11:46.33,0:11:49.22,Default,Luffy,0000,0000,0000,,So that's where this \NHatchin guy is imprisoned?
+Dialogue: 0,0:11:50.34,0:11:51.73,Default,Nami,0000,0000,0000,,Hatchin...
+Dialogue: 0,0:11:51.73,0:11:54.39,Default,Luffy,0000,0000,0000,,Hey! Let's hurry up and save the takoyaki!
+Dialogue: 0,0:11:54.39,0:11:56.93,Default,Franky,0000,0000,0000,,We know! Just hold on!
+Dialogue: 0,0:11:59.80,0:12:03.23,Default,Sanji,0000,0000,0000,,We'll save him in a flash, Camie-chan!
+Dialogue: 0,0:12:03.23,0:12:04.85,Default,Camie,0000,0000,0000,,Thanks, Sanji-chin!
+Dialogue: 0,0:12:04.85,0:12:07.89,Default,Camie,0000,0000,0000,,Oh, but be careful, everyone!
+Dialogue: 0,0:12:08.62,0:12:14.02,Default,Camie,0000,0000,0000,,The Macro Pirates alone \Nhave captured me 30 times!
+Dialogue: 0,0:12:14.02,0:12:15.88,Default,Usopp,0000,0000,0000,,You get captured too much!
+Dialogue: 0,0:12:15.88,0:12:17.12,Default,Camie,0000,0000,0000,,Well...
+Dialogue: 0,0:12:17.12,0:12:18.80,Default,Usopp,0000,0000,0000,,And eaten too much, too!
+Dialogue: 0,0:12:25.86,0:12:28.35,Default,Franky,0000,0000,0000,,Looks like we've entered their territory.
+Dialogue: 0,0:12:28.65,0:12:32.06,Default,Usopp,0000,0000,0000,,Ugh, there's that "we shouldn't go \Nto this island" syndrome again...
+Dialogue: 0,0:12:32.06,0:12:33.88,Default,Franky,0000,0000,0000,,This isn't an island.
+Dialogue: 0,0:12:33.88,0:12:36.95,Default,,0000,0000,0000,,It's more like a living \Ncomplex built on the sea.
+Dialogue: 0,0:12:36.95,0:12:41.03,Default,Usopp,0000,0000,0000,,My "we shouldn't go to this living \Ncomplex built on the sea" syndrome!
+Dialogue: 0,0:12:41.40,0:12:44.94,Default,Zoro,0000,0000,0000,,Why would they go to the \Ntrouble to live here?
+Dialogue: 0,0:12:44.94,0:12:46.03,Default,Sanji,0000,0000,0000,,Who knows?
+Dialogue: 0,0:12:50.13,0:12:51.75,Default,Chopper,0000,0000,0000,,Sure is quiet, though.
+Dialogue: 0,0:12:53.13,0:12:55.17,Default,Usopp,0000,0000,0000,,I have a bad feeling...
+Dialogue: 0,0:12:55.17,0:12:56.71,Default,Usopp,0000,0000,0000,,Luffy! We should...
+Dialogue: 0,0:12:57.72,0:12:59.92,Default,Luffy,0000,0000,0000,,...go forward!
+Dialogue: 0,0:12:59.92,0:13:02.01,Default,Usopp,0000,0000,0000,,Hey! Come up with a plan or something!
+Dialogue: 0,0:13:05.13,0:13:12.02,Default,Camie,0000,0000,0000,,Hey! Hatchin! Are you okay?!
+Dialogue: 0,0:13:12.02,0:13:14.48,Default,Pappug,0000,0000,0000,,Get out here, Macro!
+Dialogue: 0,0:13:14.48,0:13:16.35,Default,Pappug,0000,0000,0000,,Give Hachi back!
+Dialogue: 0,0:13:23.21,0:13:26.86,Default,Hachi,0000,0000,0000,,Oh, no! It really is the Straw Hats' ship!
+Dialogue: 0,0:13:26.86,0:13:28.04,Default,Hachi,0000,0000,0000,,Damn!
+Dialogue: 0,0:13:35.20,0:13:36.93,Default,Hachi,0000,0000,0000,,Nope, I can't get out...
+Dialogue: 0,0:13:36.93,0:13:38.22,Default,Hachi,0000,0000,0000,,Then I'll have to..
+Dialogue: 0,0:13:38.22,0:13:40.83,Default,Hachi,0000,0000,0000,,Takohachi Black!
+Dialogue: 0,0:13:45.48,0:13:48.26,Default,Robin,0000,0000,0000,,There's someone in that cage.
+Dialogue: 0,0:13:48.55,0:13:50.87,Default,Franky,0000,0000,0000,,What is that black thing?
+Dialogue: 0,0:13:51.34,0:13:53.65,Default,Camie,0000,0000,0000,,What?! Let me see!
+Dialogue: 0,0:13:55.51,0:13:57.73,Default,Camie,0000,0000,0000,,Could that be Hatchin?
+Dialogue: 0,0:14:01.52,0:14:05.16,Default,Pappug,0000,0000,0000,,We've got this, Camie! There \Nare no enemies around!
+Dialogue: 0,0:14:05.16,0:14:07.51,Default,Pappug,0000,0000,0000,,It must be their snack time!
+Dialogue: 0,0:14:07.51,0:14:08.07,Default,Camie,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:08.07,0:14:10.61,Default,Usopp,0000,0000,0000,,Are you being serious?!
+Dialogue: 0,0:14:10.61,0:14:13.33,Default,Usopp,0000,0000,0000,,No matter how you look at it, that's a trap!
+Dialogue: 0,0:14:13.33,0:14:16.96,Default,Franky,0000,0000,0000,,They're all hiding nearby \Nand keeping an eye on us.
+Dialogue: 0,0:14:18.38,0:14:20.29,Default,Camie,0000,0000,0000,,What incredible insight!
+Dialogue: 0,0:14:20.29,0:14:23.02,Default,Pappug,0000,0000,0000,,I-I never thought of that!
+Dialogue: 0,0:14:23.02,0:14:24.92,Default,Franky,0000,0000,0000,,That's why you keep getting caught!
+Dialogue: 0,0:14:25.61,0:14:30.18,Default,Hachi,0000,0000,0000,,I'm right here! Camie, I'm \Nall right, so don't worry!
+Dialogue: 0,0:14:30.18,0:14:32.92,Default,Camie,0000,0000,0000,,I knew it! Hatchin!
+Dialogue: 0,0:14:40.61,0:14:42.77,Default,Camie,0000,0000,0000,,You're all black! What happened?!
+Dialogue: 0,0:14:42.77,0:14:46.69,Default,Hachi,0000,0000,0000,,Well... I had my own reasons.
+Dialogue: 0,0:14:46.69,0:14:50.14,Default,Hachi,0000,0000,0000,,More importantly, this is a \Ntrap! You have to turn back!
+Dialogue: 0,0:14:50.14,0:14:53.83,Default,Hachi,0000,0000,0000,,You know I'm strong, right? \NI'll be fine, so go!
+Dialogue: 0,0:14:56.79,0:15:00.35,Default,Zoro,0000,0000,0000,,That same voice, and that \Nunusual silhouette...
+Dialogue: 0,0:15:00.35,0:15:02.01,Default,Zoro,0000,0000,0000,,What do you think, Nami?
+Dialogue: 0,0:15:03.04,0:15:05.71,Default,Nami,0000,0000,0000,,I suspect... In fact, I'm almost sure...
+Dialogue: 0,0:15:05.71,0:15:06.80,Default,Luffy,0000,0000,0000,,Sure of what?
+Dialogue: 0,0:15:06.80,0:15:08.97,Default,Sanji,0000,0000,0000,,We could always ask him and find out.
+Dialogue: 0,0:15:09.31,0:15:11.93,Default,Sanji,0000,0000,0000,,Hey! How's Arlong doing?
+Dialogue: 0,0:15:12.95,0:15:14.97,Default,Hachi,0000,0000,0000,,Oh, Arlong-san?
+Dialogue: 0,0:15:14.97,0:15:20.59,Default,Hachi,0000,0000,0000,,Well, he and Chew and Kuroobi \Nwere all captured by the Navy!
+Dialogue: 0,0:15:20.59,0:15:22.87,Default,Hachi,0000,0000,0000,,I was the only one to break out,
+Dialogue: 0,0:15:22.87,0:15:26.97,Default,Hachi,0000,0000,0000,,and now I'm running a takoyaki shop \Nlike I always dreamed of doing.
+Dialogue: 0,0:15:31.52,0:15:32.97,Default,Luffy,0000,0000,0000,,Arlong?
+Dialogue: 0,0:15:34.34,0:15:36.24,Default,Both,0000,0000,0000,,I knew it...
+Dialogue: 0,0:15:40.42,0:15:43.04,Default,Luffy,0000,0000,0000,,It's you, octopus?!
+Dialogue: 0,0:15:44.60,0:15:46.00,Default,Hachi,0000,0000,0000,,Crap!
+Dialogue: 0,0:16:03.58,0:16:06.36,Default,Hachi,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:16:06.36,0:16:08.95,Default,Luffy,0000,0000,0000,,You're that octopus from Arlong's crew!
+Dialogue: 0,0:16:08.95,0:16:12.74,Default,Luffy,0000,0000,0000,,So you're the takoyaki maker called Hatchin?!
+Dialogue: 0,0:16:13.30,0:16:14.53,Default,Robin,0000,0000,0000,,What?
+Dialogue: 0,0:16:14.53,0:16:17.24,Default,Usopp,0000,0000,0000,,Well, some stuff happened...
+Dialogue: 0,0:16:17.84,0:16:21.18,Default,Usopp,0000,0000,0000,,Nami's hometown was controlled by a fishman
+Dialogue: 0,0:16:21.18,0:16:23.98,Default,,0000,0000,0000,,pirate gang called the Arlong Pirates.
+Dialogue: 0,0:16:23.98,0:16:27.25,Default,Usopp,0000,0000,0000,,They put Nami through all \Nkinds of terrible stuff.
+Dialogue: 0,0:16:27.82,0:16:31.17,Default,Usopp,0000,0000,0000,,That octopus used to be \Nan officer in their gang.
+Dialogue: 0,0:16:34.82,0:16:37.60,Default,Arlong,0000,0000,0000,,Nami, are you thinking of running away?
+Dialogue: 0,0:16:38.05,0:16:45.11,Default,Arlong,0000,0000,0000,,If you do that, everyone in Cocoyashi \NVillage will be killed on your account.
+Dialogue: 0,0:16:49.49,0:16:52.57,Default,Luffy,0000,0000,0000,,Which one of you is Arlong?
+Dialogue: 0,0:16:58.17,0:17:01.08,Default,Franky,0000,0000,0000,,Huh... So he's a known enemy?
+Dialogue: 0,0:17:01.08,0:17:04.36,Default,Usopp,0000,0000,0000,,Well, naturally, I took Luffy \Nand the others there to
+Dialogue: 0,0:17:04.36,0:17:06.97,Default,,0000,0000,0000,,bust some heads, and the \Nwhole gang was annihilated!
+Dialogue: 0,0:17:06.97,0:17:09.42,Default,Chopper,0000,0000,0000,,Wow! You're amazing, Usopp!
+Dialogue: 0,0:17:09.42,0:17:11.93,Default,Usopp,0000,0000,0000,,Y-Yeah, well...
+Dialogue: 0,0:17:11.93,0:17:16.23,Default,Usopp,0000,0000,0000,,I thought all of those fishmen \Nwere dragged off by the navy...
+Dialogue: 0,0:17:16.23,0:17:18.89,Default,Usopp,0000,0000,0000,,But it looks like he escaped by himself.
+Dialogue: 0,0:17:20.35,0:17:23.43,Default,Brook,0000,0000,0000,,I see. Every man has a history.
+Dialogue: 0,0:17:23.43,0:17:25.71,Default,Luffy,0000,0000,0000,,Hey, you octopus!
+Dialogue: 0,0:17:25.71,0:17:29.77,Default,Luffy,0000,0000,0000,,Now that we know it's you, \Nthere's no way we're saving you!
+Dialogue: 0,0:17:33.01,0:17:35.01,Default,Luffy,0000,0000,0000,,B-But...
+Dialogue: 0,0:17:35.73,0:17:39.29,Default,Luffy,0000,0000,0000,,I-I-Is...
+Dialogue: 0,0:17:39.95,0:17:44.75,Default,Luffy,0000,0000,0000,,Is your takoyaki really that good?!
+Dialogue: 0,0:17:44.93,0:17:47.17,Default,Sanji,0000,0000,0000,,Don't waver between your \Nreason and your appetite.
+Dialogue: 0,0:17:47.50,0:17:49.13,Default,Zoro,0000,0000,0000,,This is stupid.
+Dialogue: 0,0:17:49.13,0:17:50.53,Default,Camie,0000,0000,0000,,You mean...
+Dialogue: 0,0:17:50.53,0:17:52.55,Default,Camie,0000,0000,0000,,You know Hatchin?
+Dialogue: 0,0:17:52.55,0:17:54.63,Default,Camie,0000,0000,0000,,Were you friends with him before?
+Dialogue: 0,0:17:54.89,0:17:57.50,Default,Zoro,0000,0000,0000,,We were not friends!
+Dialogue: 0,0:18:00.01,0:18:01.89,Default,Usopp,0000,0000,0000,,Turn the ship around!
+Dialogue: 0,0:18:03.06,0:18:04.06,Default,Camie,0000,0000,0000,,Nami-chin...
+Dialogue: 0,0:18:04.95,0:18:06.88,Default,Nami,0000,0000,0000,,I'm sorry, Camie.
+Dialogue: 0,0:18:06.88,0:18:10.61,Default,Nami,0000,0000,0000,,I wasn't expecting your friend to be him.
+Dialogue: 0,0:18:10.61,0:18:11.88,Default,Camie,0000,0000,0000,,No...
+Dialogue: 0,0:18:12.62,0:18:15.36,Default,Camie,0000,0000,0000,,Then you won't help me rescue him?
+Dialogue: 0,0:18:15.83,0:18:17.22,Default,Camie,0000,0000,0000,,Hatchin!
+Dialogue: 0,0:18:17.22,0:18:21.87,Default,Hachi,0000,0000,0000,,Camie, that's fine! You should \Nleave! This is a trap!
+Dialogue: 0,0:18:21.87,0:18:23.63,Default,Camie,0000,0000,0000,,No way!
+Dialogue: 0,0:18:23.63,0:18:26.07,Default,Camie,0000,0000,0000,,I will save you!
+Dialogue: 0,0:18:26.69,0:18:30.29,Default,Camie,0000,0000,0000,,You always save us, Hachi!
+Dialogue: 0,0:18:30.56,0:18:31.54,Default,Camie,0000,0000,0000,,Pappug!
+Dialogue: 0,0:18:31.54,0:18:32.38,Default,Pappug,0000,0000,0000,,Right!
+Dialogue: 0,0:18:33.40,0:18:37.23,Default,Pappug,0000,0000,0000,,I had no idea these people were so heartless!
+Dialogue: 0,0:18:37.23,0:18:39.01,Default,Pappug,0000,0000,0000,,Stupid! Stupid!
+Dialogue: 0,0:18:39.01,0:18:40.22,Default,Zoro,0000,0000,0000,,Shut up!
+Dialogue: 0,0:18:40.70,0:18:42.70,Default,Pappug,0000,0000,0000,,Just wait, Hatchin!
+Dialogue: 0,0:18:42.70,0:18:45.29,Default,Camie,0000,0000,0000,,I'll never abandon you, Hatchin!
+Dialogue: 0,0:18:45.29,0:18:46.50,Default,Both,0000,0000,0000,,Here we go!
+Dialogue: 0,0:18:48.07,0:18:49.12,Default,Sanji,0000,0000,0000,,Camie-chan!
+Dialogue: 0,0:18:49.12,0:18:50.40,Default,Zoro,0000,0000,0000,,That idiot.
+Dialogue: 0,0:18:53.26,0:18:55.03,Default,Chopper,0000,0000,0000,,Will they be okay?
+Dialogue: 0,0:18:55.03,0:18:59.20,Default,Usopp,0000,0000,0000,,Given all that stuff they said, \Nthey must have some kind of plan.
+Dialogue: 0,0:19:00.45,0:19:03.49,Default,Macro,0000,0000,0000,,I've got you, Camie!
+Dialogue: 0,0:19:03.49,0:19:05.91,Default,Usopp,0000,0000,0000,,You guys are the definition of "all talk"!
+Dialogue: 0,0:19:07.10,0:19:09.26,Default,Macro,0000,0000,0000,,Now we're gonna be rich!
+Dialogue: 0,0:19:09.26,0:19:11.95,Default,Gyaro,0000,0000,0000,,Look what happened to Hachi after \Nhe always came to save you!
+Dialogue: 0,0:19:11.95,0:19:14.46,Default,Tansui,0000,0000,0000,,You're not gonna get away, Camie!
+Dialogue: 0,0:19:19.28,0:19:21.07,Default,Hachi,0000,0000,0000,,I told you!
+Dialogue: 0,0:19:21.07,0:19:23.33,Default,Hachi,0000,0000,0000,,Camie! Pappug!
+Dialogue: 0,0:19:23.33,0:19:24.63,Default,Sanji,0000,0000,0000,,Bastards!
+Dialogue: 0,0:19:25.26,0:19:26.72,Default,Sanji,0000,0000,0000,,Camie-chan did nothing wrong!
+Dialogue: 0,0:19:26.72,0:19:28.43,Default,Nami,0000,0000,0000,,Wait, Sanji-kun!
+Dialogue: 0,0:19:35.79,0:19:38.65,Default,Hachi,0000,0000,0000,,I'm coming to save you, Camie!
+Dialogue: 0,0:19:50.57,0:19:53.33,Default,Nami,0000,0000,0000,,It's okay. We'll set Hachi free, too.
+Dialogue: 0,0:19:53.33,0:19:54.53,Default,Usopp,0000,0000,0000,,What?
+Dialogue: 0,0:19:54.53,0:19:57.96,Default,Nami,0000,0000,0000,,Hachi's all right. He's actually harmless.
+Dialogue: 0,0:19:58.47,0:19:59.68,Default,Nami,0000,0000,0000,,Besides...
+Dialogue: 0,0:20:00.34,0:20:02.99,Default,Nami,0000,0000,0000,,This isn't what we promised Camie.
+Dialogue: 0,0:20:03.59,0:20:05.59,Default,Sanji,0000,0000,0000,,N-Nami-san...
+Dialogue: 0,0:20:05.59,0:20:08.55,Default,Sanji,0000,0000,0000,,That strong-willed attitude \Nof yours is beautiful!
+Dialogue: 0,0:20:08.55,0:20:09.80,Default,Usopp,0000,0000,0000,,Hey, Nami!
+Dialogue: 0,0:20:09.80,0:20:10.97,Default,Zoro,0000,0000,0000,,You sure?
+Dialogue: 0,0:20:10.97,0:20:12.00,Default,Nami,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:12.47,0:20:13.19,Default,Nami,0000,0000,0000,,Luffy!
+Dialogue: 0,0:20:13.91,0:20:16.72,Default,Luffy,0000,0000,0000,,If it's okay with you, we have no choice.
+Dialogue: 0,0:20:16.72,0:20:18.23,Default,Luffy,0000,0000,0000,,We'll save the octopus, too.
+Dialogue: 0,0:20:18.23,0:20:20.85,Default,Usopp,0000,0000,0000,,Hey! Your eyes are takoyaki!
+Dialogue: 0,0:20:37.46,0:20:40.47,Default,Duval,0000,0000,0000,,Are you ready,
+Dialogue: 0,0:20:42.39,0:20:44.64,Default,Duval,0000,0000,0000,,Flying Fish Riders?
+Dialogue: 0,0:20:56.32,0:20:58.11,Default,Guy,0000,0000,0000,,Of course! Anytime!
+Dialogue: 0,0:20:58.11,0:21:00.44,Default,Luffy,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:21:00.65,0:21:02.63,Default,Luffy,0000,0000,0000,,Pistol!
+Dialogue: 0,0:21:03.53,0:21:04.70,Default,Luffy,0000,0000,0000,,And one more!
+Dialogue: 0,0:21:07.81,0:21:09.61,Default,Macro,0000,0000,0000,,He has powers?!
+Dialogue: 0,0:21:10.58,0:21:11.70,Default,Hachi,0000,0000,0000,,A Straw Hat?!
+Dialogue: 0,0:21:14.75,0:21:16.21,Default,Macro,0000,0000,0000,,That bastard!
+Dialogue: 0,0:21:16.21,0:21:17.25,Default,Camie,0000,0000,0000,,Luffy-chin!
+Dialogue: 0,0:21:17.25,0:21:18.46,Default,Pappug,0000,0000,0000,,You did it!
+Dialogue: 0,0:21:18.46,0:21:21.71,Default,Luffy,0000,0000,0000,,All right! I got 'em back!
+Dialogue: 0,0:21:22.63,0:21:27.68,Default,Hachi,0000,0000,0000,,Thank you, Straw Hat! I owe you one!
+Dialogue: 0,0:21:27.68,0:21:30.97,Default,Luffy,0000,0000,0000,,Zoro! Cut the rope holding up the cage!
+Dialogue: 0,0:21:32.90,0:21:33.93,Default,Zoro,0000,0000,0000,,Got it!
+Dialogue: 0,0:21:34.15,0:21:36.81,Default,Hachi,0000,0000,0000,,Straw Hat! Be careful!
+Dialogue: 0,0:21:37.39,0:21:39.49,Default,Hachi,0000,0000,0000,,You're right in their trap!
+Dialogue: 0,0:21:39.49,0:21:43.28,Default,Hachi,0000,0000,0000,,The Flying Fish Riders have \Nyou surrounded from the air!
+Dialogue: 0,0:21:46.42,0:21:47.86,Default,Duval,0000,0000,0000,,Get them!
+Dialogue: 0,0:21:47.86,0:21:48.70,Default,All,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:54.17,0:21:55.91,Default,Camie,0000,0000,0000,,Luffy-chin!
+Dialogue: 0,0:21:55.91,0:21:58.75,Default,Luffy,0000,0000,0000,,Whether it's from the sea \Nor the sky, bring it on!
+Dialogue: 0,0:21:59.76,0:22:01.13,Default,Luffy,0000,0000,0000,,I'll go nuts on 'em!
+Dialogue: 0,0:22:03.41,0:22:05.42,Default,Luffy,0000,0000,0000,,Boys!
+Dialogue: 0,0:22:15.29,0:22:19.63,Default,Luffy,0000,0000,0000,,It's battle time!
+Dialogue: 0,0:22:20.82,0:22:23.78,Default,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:25.65,0:22:28.69,Default,Macro,0000,0000,0000,,Damn it! We'll have to move while we can!
+Dialogue: 0,0:22:28.69,0:22:30.86,Default,Macro,0000,0000,0000,,Get Camie back!
+Dialogue: 0,0:22:30.86,0:22:31.49,Default,Both,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:31.81,0:22:35.51,Default,Hachi,0000,0000,0000,,Camie! Pappug! It's dangerous, so stay back!
+Dialogue: 0,0:22:35.51,0:22:36.29,Default,Hachi,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:36.58,0:22:40.21,Default,Camie,0000,0000,0000,,Stretch! You can do it, Luffy-chin!
+Dialogue: 0,0:22:36.58,0:22:40.21,Default,Pappug,0000,0000,0000,,Go! Go!
+Dialogue: 0,0:22:40.21,0:22:42.36,Default,Luffy,0000,0000,0000,,Come on, flying fish!
+Dialogue: 0,0:22:42.36,0:22:44.00,Default,Both,0000,0000,0000,,Go! Go!
+Dialogue: 0,0:22:50.34,0:22:51.26,Default,Usopp,0000,0000,0000,,They're coming!
+Dialogue: 0,0:22:51.98,0:22:53.26,Default,All,0000,0000,0000,,Right!
+Dialogue: 0,0:23:25.57,0:23:28.25,Default,Duval,0000,0000,0000,,I found you, "Black Foot" Sanji!
+Dialogue: 0,0:23:28.25,0:23:30.22,Default,Luffy,0000,0000,0000,,Does he know you, Sanji?
+Dialogue: 0,0:23:30.22,0:23:33.30,Default,Duval,0000,0000,0000,,That man ruined my life!
+Dialogue: 0,0:23:33.30,0:23:34.97,Default,Usopp,0000,0000,0000,,He really has it in for you.
+Dialogue: 0,0:23:34.97,0:23:37.33,Default,Duval,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:23:37.33,0:23:39.85,Default,All,0000,0000,0000,,What did you do, Sanji?!
+Dialogue: 0,0:23:39.85,0:23:41.36,Default,Luffy,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.36,0:23:44.63,Default,Luffy,0000,0000,0000,,"Tragedy! The Truth Hidden \NBehind Duval's Mask!"
+Dialogue: 0,0:23:44.63,0:23:46.79,Default,Luffy,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:46.79,0:23:48.79,Default,,0000,0000,0000,,

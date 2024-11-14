@@ -1,0 +1,334 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.00,0:00:14.64,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.64,0:00:17.54,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.54,0:00:20.38,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.38,0:00:23.48,Default,,0000,0000,0000,,As long as people\Nseek the answer of freedom,
+Dialogue: 0,0:00:23.48,0:00:26.12,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:35.03,0:00:41.20,Default,,0000,0000,0000,,I only believe in the future --\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.20,0:00:46.54,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.54,0:00:52.54,Default,,0000,0000,0000,,It's too bright,\Nbut I want to gaze at it
+Dialogue: 0,0:00:52.54,0:00:56.15,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.15,0:00:59.55,Default,,0000,0000,0000,,I'm really really stuck on you
+Dialogue: 0,0:00:59.55,0:01:05.99,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:05.99,0:01:09.33,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.33,0:01:15.20,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.14,0:01:24.44,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.44,0:01:30.58,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.58,0:01:33.59,Default,,0000,0000,0000,,I don't really\Nneed everything to add up
+Dialogue: 0,0:01:33.59,0:01:36.76,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.76,0:01:40.36,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.36,0:01:45.90,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:50.07,0:02:04.12,On Top,,0000,0000,0000,,"Yuba" "Erumalu" "Nanohana" "Katorea"
+Dialogue: 0,0:01:53.04,0:01:57.24,Default,,0000,0000,0000,,Three years have passed since\Na single drop of rain fell
+Dialogue: 0,0:01:57.24,0:01:58.88,Default,,0000,0000,0000,,in the kingdom of oases.
+Dialogue: 0,0:01:58.88,0:02:03.15,Default,,0000,0000,0000,,Seeing hope beyond turmoil,\Nthe people took up weapons.
+Dialogue: 0,0:02:03.15,0:02:07.39,Default,,0000,0000,0000,,The burning land is now\Nenveloped by a sad bellowing
+Dialogue: 0,0:02:07.39,0:02:09.12,Default,,0000,0000,0000,,and a mighty swell.
+Dialogue: 0,0:02:10.69,0:02:11.86,Default,,0000,0000,0000,,To stop the fighting,
+Dialogue: 0,0:02:11.86,0:02:15.46,Default,,0000,0000,0000,,Luffy and company travel\Nto the green city of Erumalu
+Dialogue: 0,0:02:15.46,0:02:20.23,Default,,0000,0000,0000,,and then head for the Yuba oasis,\Nwhere the rebel army is.
+Dialogue: 0,0:02:23.13,0:02:27.97,Default,,0000,0000,0000,,"Rebel Warrior Koza!\NThe Dream Vowed to Vivi!"
+Dialogue: 0,0:03:07.31,0:03:10.98,Default,,0000,0000,0000,,Hey, quit it!
+Dialogue: 0,0:03:10.98,0:03:14.05,Default,,0000,0000,0000,,Look at how much\Nyou spilled! You big waster!
+Dialogue: 0,0:03:14.05,0:03:18.29,Default,,0000,0000,0000,,What's the big deal?!\NAce brought a whole bunch with him!
+Dialogue: 0,0:03:18.29,0:03:20.56,Default,,0000,0000,0000,,There's a limit to everything!
+Dialogue: 0,0:03:20.56,0:03:22.83,Default,,0000,0000,0000,,You've been guzzling away for a while now!
+Dialogue: 0,0:03:22.83,0:03:24.70,Default,,0000,0000,0000,,He's tryin' to drink, too.
+Dialogue: 0,0:03:24.70,0:03:28.83,Default,,0000,0000,0000,,This is so when Nami-san says,\N"Oh, I'm so thirsty!"
+Dialogue: 0,0:03:28.83,0:03:31.70,Default,,0000,0000,0000,,I can take it right to her!
+Dialogue: 0,0:03:31.70,0:03:35.31,Default,,0000,0000,0000,,Nami-san! Vivi-chan!\NWould you like some water?!
+Dialogue: 0,0:03:35.31,0:03:37.68,Default,,0000,0000,0000,,Don't be dumb! I'll drink it!
+Dialogue: 0,0:03:37.68,0:03:38.81,Default,,0000,0000,0000,,We're fine for now.
+Dialogue: 0,0:03:38.81,0:03:41.68,Default,,0000,0000,0000,,Gimme that!
+Dialogue: 0,0:03:41.68,0:03:44.45,Default,,0000,0000,0000,,You're gonna spill it! Quit it!
+Dialogue: 0,0:03:44.45,0:03:45.92,Default,,0000,0000,0000,,You want some, too?
+Dialogue: 0,0:03:45.92,0:03:48.25,Default,,0000,0000,0000,,Thanks. But I'm fine.
+Dialogue: 0,0:03:52.96,0:03:56.90,Default,,0000,0000,0000,,Say, Vivi. Could you tell\Nme about the rebel army?
+Dialogue: 0,0:03:56.90,0:03:59.90,Default,,0000,0000,0000,,Yes, I probably should tell\Nyou about it in advance.
+Dialogue: 0,0:04:01.80,0:04:05.30,Default,,0000,0000,0000,,It was 11 years ago...
+Dialogue: 0,0:04:06.77,0:04:11.31,Default,,0000,0000,0000,,Vivi! Grow up to be a great princess!
+Dialogue: 0,0:04:22.49,0:04:26.16,On Top,,0000,0000,0000,,"Alabasta Kingdom, 11 Years Ago"
+Dialogue: 0,0:04:43.84,0:04:46.85,Default,,0000,0000,0000,,Our village... Our village dried up!
+Dialogue: 0,0:04:46.85,0:04:49.85,Default,,0000,0000,0000,,Why didn't you help us?!
+Dialogue: 0,0:04:49.85,0:04:53.15,Default,,0000,0000,0000,,But the weather is the doing of the gods.
+Dialogue: 0,0:04:53.15,0:04:59.19,Default,,0000,0000,0000,,I may be king, but I cannot\Ncontrol the forces of nature.
+Dialogue: 0,0:04:59.19,0:05:03.19,Default,,0000,0000,0000,,But my dad said the king\Ncould do anything!
+Dialogue: 0,0:05:03.19,0:05:07.17,Default,,0000,0000,0000,,I can only do what can be done by man--
+Dialogue: 0,0:05:07.17,0:05:10.54,Default,,0000,0000,0000,,Your Majesty! This boy's\Nfather has come to the palace!
+Dialogue: 0,0:05:10.54,0:05:13.37,Default,,0000,0000,0000,,My deepest apologizes, Your Majesty!
+Dialogue: 0,0:05:13.37,0:05:17.74,Default,,0000,0000,0000,,Forgive my spoiled son!\NI take full responsibility!
+Dialogue: 0,0:05:17.74,0:05:22.18,Default,,0000,0000,0000,,I'll accept any punishment!\NI will do better! Please, I beg of you!
+Dialogue: 0,0:05:22.18,0:05:24.62,Default,,0000,0000,0000,,I can't believe what a fool you are!
+Dialogue: 0,0:05:24.62,0:05:30.29,Default,,0000,0000,0000,,You fool! You fool! You fool!
+Dialogue: 0,0:05:30.29,0:05:33.42,Default,,0000,0000,0000,,Toto, was it?
+Dialogue: 0,0:05:33.42,0:05:34.69,Default,,0000,0000,0000,,Yes, Sire!
+Dialogue: 0,0:05:34.69,0:05:37.70,Default,,0000,0000,0000,,The kingdom will temporarily\Nguarantee the livelihoods
+Dialogue: 0,0:05:37.70,0:05:40.57,Default,,0000,0000,0000,,of those villagers affected by the drought.
+Dialogue: 0,0:05:40.57,0:05:45.74,Default,,0000,0000,0000,,You may live here, in Alubarna,\Nand make plans for your future!
+Dialogue: 0,0:05:45.74,0:05:52.41,Default,,0000,0000,0000,,Oh, what thoughtfulness!\NThank you! Thank you!
+Dialogue: 0,0:05:52.41,0:05:56.68,Default,,0000,0000,0000,,Whatever! As if you'd understand\Nthe feelings of the villagers!
+Dialogue: 0,0:05:56.68,0:05:59.18,Default,,0000,0000,0000,,Wait! Koza! Get back here!
+Dialogue: 0,0:06:01.39,0:06:02.62,Default,,0000,0000,0000,,Toto.
+Dialogue: 0,0:06:02.62,0:06:04.76,Default,,0000,0000,0000,,Yes, Sire!
+Dialogue: 0,0:06:04.76,0:06:09.86,Default,,0000,0000,0000,,He's a good boy. He spoke\Nof the villagers' feelings.
+Dialogue: 0,0:06:09.86,0:06:16.20,Default,,0000,0000,0000,,He stormed in here for\Nthe sake of the villagers.
+Dialogue: 0,0:06:22.04,0:06:24.54,Default,,0000,0000,0000,,Hmph. Crybaby.
+Dialogue: 0,0:06:26.95,0:06:29.28,Default,,0000,0000,0000,,What did you say, runt?!
+Dialogue: 0,0:06:29.28,0:06:30.95,Default,,0000,0000,0000,,Runt?
+Dialogue: 0,0:06:34.32,0:06:35.95,Default,,0000,0000,0000,,Cobra-sama.
+Dialogue: 0,0:06:35.95,0:06:37.29,Default,,0000,0000,0000,,What is it, Igaram?
+Dialogue: 0,0:06:37.29,0:06:38.89,Default,,0000,0000,0000,,With all due respect,
+Dialogue: 0,0:06:38.89,0:06:43.23,Default,,0000,0000,0000,,the kingdom doesn't have enough\Nmoney to support all of them.
+Dialogue: 0,0:06:43.23,0:06:44.63,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:06:44.63,0:06:49.07,Default,,0000,0000,0000,,We can just trim down our own\Nliving expenses or whatever need be!
+Dialogue: 0,0:06:49.07,0:06:52.34,Default,,0000,0000,0000,,Understood. As you wish.
+Dialogue: 0,0:06:52.34,0:06:56.27,Default,,0000,0000,0000,,It's terrible, Your Majesty! It's Vivi-sama!
+Dialogue: 0,0:07:00.48,0:07:02.85,Default,,0000,0000,0000,,I had a fight. I lost.
+Dialogue: 0,0:07:02.85,0:07:05.28,Default,,0000,0000,0000,,--Vivi!\N--Vivi-sama!
+Dialogue: 0,0:07:05.28,0:07:08.39,Default,,0000,0000,0000,,That little punk!\NHow dare he harm a princess!
+Dialogue: 0,0:07:08.39,0:07:12.19,Default,,0000,0000,0000,,--I'll pulverize him!\N--Wait! Wait! Igaram!
+Dialogue: 0,0:07:12.19,0:07:15.43,Default,,0000,0000,0000,,My deepest apologies!
+Dialogue: 0,0:07:15.43,0:07:17.80,Default,,0000,0000,0000,,I'll die to make amends!
+Dialogue: 0,0:07:17.80,0:07:21.13,Default,,0000,0000,0000,,Enough, both of you!
+Dialogue: 0,0:07:24.47,0:07:28.17,Default,,0000,0000,0000,,Fools! It was a children's quarrel!
+Dialogue: 0,0:07:37.68,0:07:40.15,Default,,0000,0000,0000,,Welcome! Come on over!
+Dialogue: 0,0:07:40.15,0:07:42.89,Default,,0000,0000,0000,,Come on over! Low prices!
+Dialogue: 0,0:07:42.89,0:07:45.89,Default,,0000,0000,0000,,It's yummy! Here you go!
+Dialogue: 0,0:07:46.79,0:07:48.16,Default,,0000,0000,0000,,It's a showdown!
+Dialogue: 0,0:07:48.16,0:07:51.73,Default,,0000,0000,0000,,--Come on over!\N--Fight! Fight!
+Dialogue: 0,0:07:51.73,0:07:53.73,Default,,0000,0000,0000,,Don't go easy on her\N'cause she's a princess!
+Dialogue: 0,0:07:53.73,0:07:56.77,Default,,0000,0000,0000,,Teach that sassy princess a lesson!
+Dialogue: 0,0:07:56.77,0:07:59.20,Default,,0000,0000,0000,,You can do it, Vivi-chan!
+Dialogue: 0,0:07:59.20,0:08:02.81,Default,,0000,0000,0000,,Hey, you! Koza's our leader, you know!
+Dialogue: 0,0:08:06.24,0:08:10.85,Default,,0000,0000,0000,,If I win, I get to be your leader!
+Dialogue: 0,0:08:10.85,0:08:13.62,Default,,0000,0000,0000,,Like I'd ever lose to you, pipsqueak!
+Dialogue: 0,0:08:13.62,0:08:16.62,Default,,0000,0000,0000,,I've always been our leader in the village!
+Dialogue: 0,0:08:18.12,0:08:19.62,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:08:35.67,0:08:37.51,Default,,0000,0000,0000,,Listen, guys!
+Dialogue: 0,0:08:37.51,0:08:41.51,Default,,0000,0000,0000,,As of today, Vivi is the\Nvice-leader of our Sand-Sand Clan!
+Dialogue: 0,0:08:41.51,0:08:43.15,Default,,0000,0000,0000,,Anyone got a problem with that?!
+Dialogue: 0,0:08:43.15,0:08:45.32,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:08:46.78,0:08:49.09,Default,,0000,0000,0000,,Look, Igaram.
+Dialogue: 0,0:08:49.09,0:08:51.99,Default,,0000,0000,0000,,Vivi has made friends.
+Dialogue: 0,0:08:51.99,0:08:53.16,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:53.16,0:08:55.89,Default,,0000,0000,0000,,That is the most important thing to have
+Dialogue: 0,0:08:55.89,0:09:00.16,Default,,0000,0000,0000,,if she's to carry Alabasta\Non her shoulders someday.
+Dialogue: 0,0:09:08.57,0:09:11.44,Default,,0000,0000,0000,,Toto-ojisan! Ma'am! Good morning!
+Dialogue: 0,0:09:11.44,0:09:12.68,Default,,0000,0000,0000,,Where's Leader?
+Dialogue: 0,0:09:12.68,0:09:16.81,Default,,0000,0000,0000,,Oh, good morning! If you're\Nlooking for Koza, he already left!
+Dialogue: 0,0:09:16.81,0:09:18.75,Default,,0000,0000,0000,,I assume he's at the usual spot.
+Dialogue: 0,0:09:18.75,0:09:20.52,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:09:20.52,0:09:23.72,Default,,0000,0000,0000,,Oh, Vivi-chan!\NWhat will you do about lunch?
+Dialogue: 0,0:09:23.72,0:09:26.86,Default,,0000,0000,0000,,I'll eat with you! Thanks!
+Dialogue: 0,0:09:26.86,0:09:29.29,Default,,0000,0000,0000,,What a strange country this is!
+Dialogue: 0,0:09:29.29,0:09:33.87,Default,,0000,0000,0000,,The princess of a kingdom,\Nmingling with commoners like us!
+Dialogue: 0,0:09:33.87,0:09:37.00,Default,,0000,0000,0000,,It's proof of peace!
+Dialogue: 0,0:09:37.00,0:09:39.27,Default,,0000,0000,0000,,Igaram-san. Will you join us for lunch?
+Dialogue: 0,0:09:39.27,0:09:41.87,Default,,0000,0000,0000,,No, no, that's quite all right!\NI brought rice balls!
+Dialogue: 0,0:09:41.87,0:09:43.54,Default,,0000,0000,0000,,Well, I must be going!
+Dialogue: 0,0:09:52.42,0:09:55.55,Default,,0000,0000,0000,,Your Majesty! What are you doing here?!
+Dialogue: 0,0:09:55.55,0:09:57.22,Default,,0000,0000,0000,,Urgh! Sire!
+Dialogue: 0,0:09:59.09,0:10:01.43,Default,,0000,0000,0000,,You're following me again?!
+Dialogue: 0,0:10:01.43,0:10:06.43,Default,,0000,0000,0000,,B-But I'm worried about Vivi-chan...
+Dialogue: 0,0:10:07.90,0:10:11.37,Default,,0000,0000,0000,,Go home! You'll only cause me more work!
+Dialogue: 0,0:10:11.37,0:10:12.77,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:12.77,0:10:15.27,Default,,0000,0000,0000,,Don't give me, "What?!"
+Dialogue: 0,0:10:25.08,0:10:27.72,Default,,0000,0000,0000,,--Sounds like it was a nice country.\N--Yes.
+Dialogue: 0,0:10:27.72,0:10:32.12,Default,,0000,0000,0000,,--Gimme that water!\N--You wish!
+Dialogue: 0,0:10:32.12,0:10:35.13,Default,,0000,0000,0000,,But a lot happened...
+Dialogue: 0,0:10:46.37,0:10:48.51,Default,,0000,0000,0000,,Heya, girly!
+Dialogue: 0,0:10:48.51,0:10:51.34,Default,,0000,0000,0000,,Headed out? Want us to come with ya?
+Dialogue: 0,0:10:54.45,0:10:56.45,Default,,0000,0000,0000,,Attack, Sand-Sand Clan!
+Dialogue: 0,0:10:58.82,0:11:02.75,Default,,0000,0000,0000,,What's with these guys?!\NThey still haven't kicked the bucket?!
+Dialogue: 0,0:11:02.75,0:11:04.22,Default,,0000,0000,0000,,Leader! Everyone!
+Dialogue: 0,0:11:04.22,0:11:07.79,Default,,0000,0000,0000,,Run, Vivi! These guys are out to get you!
+Dialogue: 0,0:11:07.79,0:11:11.00,Default,,0000,0000,0000,,--Get going, Vivi!\N--They're gonna kill you!
+Dialogue: 0,0:11:11.00,0:11:13.33,Default,,0000,0000,0000,,But... Leader!
+Dialogue: 0,0:11:15.33,0:11:17.07,Default,,0000,0000,0000,,We ain't gonna kill ya!
+Dialogue: 0,0:11:17.07,0:11:22.77,Default,,0000,0000,0000,,We want ransom money,\Nso we're just gonna kidnap ya!
+Dialogue: 0,0:11:22.77,0:11:24.71,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:11:24.71,0:11:28.21,Default,,0000,0000,0000,,Now come here, Princess Vivi!
+Dialogue: 0,0:11:32.95,0:11:34.45,Default,,0000,0000,0000,,I won't let you have her!
+Dialogue: 0,0:11:34.45,0:11:37.26,Default,,0000,0000,0000,,Protect her to the death, Sand-Sand Clan!
+Dialogue: 0,0:11:58.68,0:12:00.78,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:12:00.78,0:12:02.35,Default,,0000,0000,0000,,What is this thing?!
+Dialogue: 0,0:12:02.35,0:12:05.12,Default,,0000,0000,0000,,Huh? What is this?
+Dialogue: 0,0:12:05.12,0:12:08.12,Default,,0000,0000,0000,,Poke, poke, pokey, poke.
+Dialogue: 0,0:12:15.33,0:12:17.23,Default,,0000,0000,0000,,It's huge!
+Dialogue: 0,0:12:17.23,0:12:19.90,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:12:31.51,0:12:35.48,Default,,0000,0000,0000,,Say. Tell me more about what happened!
+Dialogue: 0,0:12:35.48,0:12:40.95,Default,,0000,0000,0000,,Yes. Our leader, Koza,\Nwas a very strong-hearted boy...
+Dialogue: 0,0:12:40.95,0:12:46.39,Default,,0000,0000,0000,,But I was worried for that heart once...
+Dialogue: 0,0:12:46.39,0:12:47.66,Default,,0000,0000,0000,,I won't let you have her!
+Dialogue: 0,0:12:47.66,0:12:50.23,Default,,0000,0000,0000,,Protect her to the death, Sand-Sand Clan!
+Dialogue: 0,0:13:03.47,0:13:05.74,Default,,0000,0000,0000,,What pathetic excuses for bodyguards!
+Dialogue: 0,0:13:05.74,0:13:07.75,Default,,0000,0000,0000,,There are more of 'em?!
+Dialogue: 0,0:13:09.51,0:13:10.85,Default,,0000,0000,0000,,Oww! Oww!
+Dialogue: 0,0:13:10.85,0:13:12.18,Default,,0000,0000,0000,,Damn! She got away!
+Dialogue: 0,0:13:14.32,0:13:16.99,Default,,0000,0000,0000,,The ruins are that way! Catch her!
+Dialogue: 0,0:13:19.72,0:13:21.46,Default,,0000,0000,0000,,Don't let 'em go!
+Dialogue: 0,0:13:22.79,0:13:24.30,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:13:27.70,0:13:29.47,Default,,0000,0000,0000,,What on earth?!
+Dialogue: 0,0:13:36.01,0:13:40.44,Default,,0000,0000,0000,,Hey! What happened to you?!\NWhat happened here?!
+Dialogue: 0,0:13:41.31,0:13:44.85,Default,,0000,0000,0000,,Some bad guys came to get Vivi...
+Dialogue: 0,0:13:44.85,0:13:46.92,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:46.92,0:13:49.02,Default,,0000,0000,0000,,Grownups, with blades...
+Dialogue: 0,0:13:49.02,0:13:50.99,Default,,0000,0000,0000,,They just went into the ruins!
+Dialogue: 0,0:13:50.99,0:13:53.16,Default,,0000,0000,0000,,Koza went after them, too!
+Dialogue: 0,0:13:53.16,0:13:54.53,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:58.40,0:14:04.64,Default,,0000,0000,0000,,Oh, Princess! Where are you, Princess?
+Dialogue: 0,0:14:04.64,0:14:06.60,Default,,0000,0000,0000,,Where the hell are you hiding?
+Dialogue: 0,0:14:06.60,0:14:09.31,Default,,0000,0000,0000,,Find her! Find her!\NDon't let her get away!
+Dialogue: 0,0:14:09.31,0:14:12.84,Default,,0000,0000,0000,,Princess Vivi! Come on out!
+Dialogue: 0,0:14:20.95,0:14:24.56,Default,,0000,0000,0000,,Oh, there ya are!
+Dialogue: 0,0:14:24.56,0:14:27.89,Default,,0000,0000,0000,,Please, just let us catch\Nyou like a good little girl!
+Dialogue: 0,0:14:30.33,0:14:32.00,Default,,0000,0000,0000,,Not so fast!
+Dialogue: 0,0:14:33.33,0:14:35.00,Default,,0000,0000,0000,,Leader!
+Dialogue: 0,0:14:36.13,0:14:38.14,Default,,0000,0000,0000,,You alright, Vivi?!
+Dialogue: 0,0:14:39.17,0:14:41.17,Default,,0000,0000,0000,,Oww...
+Dialogue: 0,0:14:41.17,0:14:44.74,Default,,0000,0000,0000,,Don't underestimate the\NSand-Sand Clan, villain!
+Dialogue: 0,0:14:44.74,0:14:47.04,Default,,0000,0000,0000,,Leave this city at once!
+Dialogue: 0,0:14:47.04,0:14:52.75,Default,,0000,0000,0000,,Listen, boy. Shut up and\Ngive the princess here.
+Dialogue: 0,0:14:52.75,0:14:56.02,Default,,0000,0000,0000,,It's not smart to make grownups mad.
+Dialogue: 0,0:14:56.02,0:14:59.86,Default,,0000,0000,0000,,A blade! Let's run away, Leader!
+Dialogue: 0,0:14:59.86,0:15:03.33,Default,,0000,0000,0000,,--That doesn't scare me!\N--Huh?!
+Dialogue: 0,0:15:08.33,0:15:11.54,Default,,0000,0000,0000,,Protect her to the death, Sand-Sand Clan!
+Dialogue: 0,0:15:11.54,0:15:13.80,Default,,0000,0000,0000,,Leader! Don't do this!
+Dialogue: 0,0:15:13.80,0:15:16.21,Default,,0000,0000,0000,,You wanna fight, huh?
+Dialogue: 0,0:15:57.45,0:15:59.98,Default,,0000,0000,0000,,Leader!
+Dialogue: 0,0:15:59.98,0:16:04.12,Default,,0000,0000,0000,,Bastard knocked our boss out!
+Dialogue: 0,0:16:04.12,0:16:08.13,Default,,0000,0000,0000,,What the hell?! Let's give him a thrashing!
+Dialogue: 0,0:16:09.69,0:16:11.66,Default,,0000,0000,0000,,Alright! Come here!
+Dialogue: 0,0:16:11.66,0:16:13.40,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:16:15.40,0:16:17.70,Default,,0000,0000,0000,,You dimwits!
+Dialogue: 0,0:16:17.70,0:16:20.20,Default,,0000,0000,0000,,Daddy! Igaram!
+Dialogue: 0,0:16:20.20,0:16:21.71,Default,,0000,0000,0000,,Vivi-sama! Are you all right?!
+Dialogue: 0,0:16:21.71,0:16:25.94,Default,,0000,0000,0000,,Curse you! Thought you could\Nkidnap my daughter, did you?!
+Dialogue: 0,0:16:25.94,0:16:30.45,Default,,0000,0000,0000,,You lousy vagabonds!\NTake this! And this! And this!
+Dialogue: 0,0:16:30.45,0:16:33.45,Default,,0000,0000,0000,,These appear to be their friends.
+Dialogue: 0,0:16:33.45,0:16:37.89,Default,,0000,0000,0000,,Chaka! Pell! What are you doing here?
+Dialogue: 0,0:16:37.89,0:16:40.93,Default,,0000,0000,0000,,Why? That's what we'd like to ask you.
+Dialogue: 0,0:16:40.93,0:16:45.30,Default,,0000,0000,0000,,What is the king doing in a place\Nlike this, away from the palace?
+Dialogue: 0,0:16:45.30,0:16:48.20,Default,,0000,0000,0000,,You should refrain from\Nacting so recklessly.
+Dialogue: 0,0:16:49.70,0:16:51.50,Default,,0000,0000,0000,,Igaram! Koza's been hurt!
+Dialogue: 0,0:16:51.50,0:16:54.41,Default,,0000,0000,0000,,Yes! Let's get him to a doctor immediately!
+Dialogue: 0,0:16:54.41,0:16:56.84,Default,,0000,0000,0000,,The Sand-Sand Clan members\Natop the hill, as well!
+Dialogue: 0,0:16:56.84,0:16:58.61,Default,,0000,0000,0000,,Chaka! Pell! Make arrangements at once!
+Dialogue: 0,0:16:58.61,0:17:00.48,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:17:00.48,0:17:03.48,Default,,0000,0000,0000,,What brave children!
+Dialogue: 0,0:17:09.12,0:17:13.66,Default,,0000,0000,0000,,What's wrong, Vivi? Why so glum?
+Dialogue: 0,0:17:13.66,0:17:17.66,Default,,0000,0000,0000,,I was so scared...
+Dialogue: 0,0:17:17.66,0:17:20.13,Default,,0000,0000,0000,,Yeah, I was scared too.
+Dialogue: 0,0:17:20.13,0:17:23.30,Default,,0000,0000,0000,,They had blades with them and all...
+Dialogue: 0,0:17:23.30,0:17:25.80,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:25.80,0:17:31.14,Default,,0000,0000,0000,,You told them to protect\Nme to the death, Leader...
+Dialogue: 0,0:17:31.14,0:17:34.15,Default,,0000,0000,0000,,Protect her to the death, Sand-Sand Clan!
+Dialogue: 0,0:17:37.98,0:17:41.99,Default,,0000,0000,0000,,Don't talk about dying, Leader...
+Dialogue: 0,0:17:43.82,0:17:48.86,Default,,0000,0000,0000,,Oh, more than anything,\Nshe was afraid of losing her friends...
+Dialogue: 0,0:17:58.64,0:18:02.91,Default,,0000,0000,0000,,Vivi is still little, but a princess, Koza.
+Dialogue: 0,0:18:02.91,0:18:06.41,Default,,0000,0000,0000,,Your deed today was an immense one.
+Dialogue: 0,0:18:06.41,0:18:08.85,Default,,0000,0000,0000,,You have my gratitude. Thank you.
+Dialogue: 0,0:18:09.91,0:18:13.98,Default,,0000,0000,0000,,Vivi's a friend. It was only natural.
+Dialogue: 0,0:18:13.98,0:18:15.15,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:15.15,0:18:19.66,Default,,0000,0000,0000,,I can tell the next generation of\NAlabasta will be in good hands.
+Dialogue: 0,0:18:19.66,0:18:21.49,Default,,0000,0000,0000,,Do you like this country?
+Dialogue: 0,0:18:21.49,0:18:24.30,Default,,0000,0000,0000,,Yeah! I was born here!
+Dialogue: 0,0:18:24.30,0:18:26.13,Default,,0000,0000,0000,,I'm the same way!
+Dialogue: 0,0:18:28.10,0:18:29.93,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:18:32.50,0:18:34.97,Default,,0000,0000,0000,,I'm also a bit concerned.
+Dialogue: 0,0:18:34.97,0:18:37.41,Default,,0000,0000,0000,,How so?
+Dialogue: 0,0:18:37.41,0:18:42.65,Default,,0000,0000,0000,,Standing above others requires\Ndifficult decisions in no small measure.
+Dialogue: 0,0:18:42.65,0:18:46.45,Default,,0000,0000,0000,,Vivi-sama is too kindhearted for that.
+Dialogue: 0,0:18:46.45,0:18:48.12,Default,,0000,0000,0000,,Igaram.
+Dialogue: 0,0:18:48.12,0:18:50.29,Default,,0000,0000,0000,,Yes, Sire?
+Dialogue: 0,0:18:50.29,0:18:54.89,Default,,0000,0000,0000,,This is fine. Alabasta is\Nfine just as it is now.
+Dialogue: 0,0:18:59.93,0:19:03.87,Default,,0000,0000,0000,,Allow me to accompany you,\Nfor as long as I live!
+Dialogue: 0,0:19:06.10,0:19:07.34,Default,,0000,0000,0000,,Yuba?
+Dialogue: 0,0:19:07.34,0:19:11.78,Default,,0000,0000,0000,,Yeah! Your dad talked\Nto my dad about it!
+Dialogue: 0,0:19:11.78,0:19:13.64,Default,,0000,0000,0000,,Old man Toto?
+Dialogue: 0,0:19:13.64,0:19:18.52,Default,,0000,0000,0000,,He asked if he'd want to start a\Ntown at the empty oasis of Yuba!
+Dialogue: 0,0:19:20.65,0:19:24.49,Default,,0000,0000,0000,,That area's like the\Ncrossroads of Alabasta,
+Dialogue: 0,0:19:24.49,0:19:28.06,Default,,0000,0000,0000,,where all kinds of travelers\Nand merchants pass through!
+Dialogue: 0,0:19:28.06,0:19:30.86,Default,,0000,0000,0000,,Just wait until a town is built there!
+Dialogue: 0,0:19:30.86,0:19:34.37,Default,,0000,0000,0000,,So many citizens will be happy!
+Dialogue: 0,0:19:37.13,0:19:39.24,Default,,0000,0000,0000,,Awesome, huh?!
+Dialogue: 0,0:19:39.24,0:19:43.07,Default,,0000,0000,0000,,And my dad was asked\Nto be its representative!
+Dialogue: 0,0:19:43.07,0:19:44.41,Default,,0000,0000,0000,,Are you going too, Leader?
+Dialogue: 0,0:19:44.41,0:19:45.88,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:19:45.88,0:19:48.81,Default,,0000,0000,0000,,My dad says to stay here...
+Dialogue: 0,0:19:48.81,0:19:52.72,Default,,0000,0000,0000,,...and starting a city is no easy matter...
+Dialogue: 0,0:19:52.72,0:19:53.85,Default,,0000,0000,0000,,...but I'm gonna do it!
+Dialogue: 0,0:19:53.85,0:19:56.95,Default,,0000,0000,0000,,I'm gonna build a new city\Nwith my own two hands!
+Dialogue: 0,0:19:56.95,0:20:00.32,Default,,0000,0000,0000,,This country needs the city of Yuba!
+Dialogue: 0,0:20:11.00,0:20:12.90,Default,,0000,0000,0000,,We're counting on you, Toto.
+Dialogue: 0,0:20:12.90,0:20:17.98,Default,,0000,0000,0000,,Yes, Your Majesty!\NWe will build a wonderful city!
+Dialogue: 0,0:20:17.98,0:20:20.91,Default,,0000,0000,0000,,Well, Vivi-chan.\NThis is goodbye for a while.
+Dialogue: 0,0:20:20.91,0:20:24.98,Default,,0000,0000,0000,,Come visit sometime,\Nonce the city's taken shape!
+Dialogue: 0,0:20:24.98,0:20:27.42,Default,,0000,0000,0000,,Okay, Toto-ojisan!
+Dialogue: 0,0:20:27.42,0:20:29.09,Default,,0000,0000,0000,,We're gonna make an awesome city
+Dialogue: 0,0:20:29.09,0:20:31.72,Default,,0000,0000,0000,,and make this kingdom even lusher!
+Dialogue: 0,0:20:31.72,0:20:33.76,Default,,0000,0000,0000,,Time to go!
+Dialogue: 0,0:20:33.76,0:20:38.36,Default,,0000,0000,0000,,Bye, Vivi! Grow up to be a great princess!
+Dialogue: 0,0:20:39.36,0:20:40.86,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:42.73,0:20:45.20,Default,,0000,0000,0000,,Koza! Don't act so high and mighty!
+Dialogue: 0,0:20:45.20,0:20:46.57,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:20:47.74,0:20:50.77,Default,,0000,0000,0000,,Koza is right.
+Dialogue: 0,0:20:50.77,0:20:54.28,Default,,0000,0000,0000,,Yuba will surely make\Nthis country lusher.
+Dialogue: 0,0:20:57.38,0:21:01.99,Default,,0000,0000,0000,,I see. This Koza friend of\Nyours was a really nice boy.
+Dialogue: 0,0:21:01.99,0:21:04.49,Default,,0000,0000,0000,,But that has something\Nto do with the rebel army?
+Dialogue: 0,0:21:04.49,0:21:07.62,Default,,0000,0000,0000,,Yes. It does.
+Dialogue: 0,0:21:07.62,0:21:11.53,Default,,0000,0000,0000,,We're going to the city of Yuba,\Nwhere the rebel army is stationed.
+Dialogue: 0,0:21:11.53,0:21:14.03,Default,,0000,0000,0000,,And the name of the rebel army's leader...
+Dialogue: 0,0:21:14.03,0:21:15.53,Default,,0000,0000,0000,,...is Koza.
+Dialogue: 0,0:21:15.53,0:21:17.03,Default,,0000,0000,0000,,You don't mean--!
+Dialogue: 0,0:21:18.44,0:21:20.94,Default,,0000,0000,0000,,The boy I just told you about.
+Dialogue: 0,0:21:22.34,0:21:26.34,Default,,0000,0000,0000,,Nami-san! Would you\Nlike some too, Nami-san?!
+Dialogue: 0,0:21:27.81,0:21:30.81,Default,,0000,0000,0000,,This desert shrimp is yummy!
+Dialogue: 0,0:21:30.81,0:21:34.49,Default,,0000,0000,0000,,It's not a shrimp! It's a scorpion!
+Dialogue: 0,0:21:34.49,0:21:36.49,Default,,0000,0000,0000,,C-Can't eat any more!
+Dialogue: 0,0:21:38.12,0:21:40.52,Default,,0000,0000,0000,,Knock that off, you guys!
+Dialogue: 0,0:21:40.52,0:21:42.19,Default,,0000,0000,0000,,Let's go, Lashes!
+Dialogue: 0,0:21:44.93,0:21:47.46,Default,,0000,0000,0000,,What's she so mad about?
+Dialogue: 0,0:21:47.46,0:21:49.90,Default,,0000,0000,0000,,Beats me.
+Dialogue: 0,0:22:00.11,0:22:05.92,Default,,0000,0000,0000,,Like the adventurers\NI dreamed of when I was a child
+Dialogue: 0,0:22:05.92,0:22:11.02,Default,,0000,0000,0000,,I continue on to the ends of emotion
+Dialogue: 0,0:22:11.02,0:22:17.03,Default,,0000,0000,0000,,I scoop up my hands,
+Dialogue: 0,0:22:17.03,0:22:23.63,Default,,0000,0000,0000,,and the sand and time\Nthat spills from them
+Dialogue: 0,0:22:23.63,0:22:30.64,Default,,0000,0000,0000,,show me that this is\Nwhat I was born to do
+Dialogue: 0,0:22:30.64,0:22:42.72,Default,,0000,0000,0000,,Let's continue swimming\Nat a near-tumbling speed
+Dialogue: 0,0:22:42.72,0:22:53.50,Default,,0000,0000,0000,,Until we wash up someday\Non a white sandy beach
+Dialogue: 0,0:22:53.50,0:22:56.70,Default,,0000,0000,0000,,no one knows about
+Dialogue: 0,0:23:10.15,0:23:12.52,Default,,0000,0000,0000,,Ace hardly seems like\Na wanted criminal, huh?
+Dialogue: 0,0:23:12.52,0:23:16.62,Default,,0000,0000,0000,,Yet, pirates all over the world\Nfear the name "Fire Fist Ace."
+Dialogue: 0,0:23:16.62,0:23:19.56,Default,,0000,0000,0000,,What kind of pirate is this\NBlackbeard he's chasing?
+Dialogue: 0,0:23:19.56,0:23:21.96,Default,,0000,0000,0000,,I hear there's someone who beat Blackbeard.
+Dialogue: 0,0:23:21.96,0:23:26.16,Default,,0000,0000,0000,,--Yeah, a bounty hunter named Scorpion.\N--There's someone that awesome?!
+Dialogue: 0,0:23:26.16,0:23:27.60,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.60,0:23:31.03,Default,,0000,0000,0000,,"Showdown in a Heat Haze!\NAce vs. the Gallant Scorpion"
+Dialogue: 0,0:23:31.03,0:23:33.37,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.37,0:23:35.37,Default,,0000,0000,0000,,

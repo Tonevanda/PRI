@@ -1,0 +1,295 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:48.05,0:02:51.29,Default,,0000,0000,0000,,{\i1}In order to let the Sunny escape\Nfrom the Whole Cake Island,{\i0}
+Dialogue: 0,0:02:51.33,0:02:55.48,Default,,0000,0000,0000,,{\i1}Luffy stayed in the Mirroworld by himself\Nand held off Katakuri.{\i0}
+Dialogue: 0,0:02:58.40,0:03:00.78,Default,,0000,0000,0000,,{\i1}There are still some mirrors on the ship,\Naren't there?!{\i0}
+Dialogue: 0,0:03:00.84,0:03:03.78,Default,,0000,0000,0000,,--What?!\N--{\i1}Maybe in the boys' room or the bathroom?!{\i0}
+Dialogue: 0,0:03:04.76,0:03:06.70,Default,,0000,0000,0000,,Break them all! To pieces!
+Dialogue: 0,0:03:06.92,0:03:11.08,Default,,0000,0000,0000,,Are you out of your mind?!\NHow would you come back, then?!
+Dialogue: 0,0:03:13.54,0:03:16.37,Default,,0000,0000,0000,,Now, you guys, keep shooting!
+Dialogue: 0,0:03:16.37,0:03:18.42,Default,,0000,0000,0000,,We're gonna keep shooting, Joscar.
+Dialogue: 0,0:03:18.69,0:03:21.02,Default,,0000,0000,0000,,Yes, we are, Marscar.
+Dialogue: 0,0:03:21.51,0:03:24.89,Default,,0000,0000,0000,,Nami! Hurry up and break the mirrors!\NAll of them!
+Dialogue: 0,0:03:25.17,0:03:25.87,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:03:26.32,0:03:30.85,Default,,0000,0000,0000,,{\i1}An army of enemies is on its way!\NI can't stop them by myself!{\i0}
+Dialogue: 0,0:03:31.33,0:03:34.15,Default,,0000,0000,0000,,Let me focus just on this guy!
+Dialogue: 0,0:03:45.37,0:03:47.53,Default,,0000,0000,0000,,Nami-{\i1}san{\i0}! Why did you break the mirror?!
+Dialogue: 0,0:03:49.87,0:03:54.71,Default,,0000,0000,0000,,Just break them all!\NAll the mirrors on the ship!
+Dialogue: 0,0:03:55.31,0:03:56.04,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:03:56.21,0:03:58.39,Default,,0000,0000,0000,,Do you wanna get in Luffy's way?!
+Dialogue: 0,0:04:01.10,0:04:03.75,Default,,0000,0000,0000,,It's the Captain's orders! Hurry up!
+Dialogue: 0,0:04:14.14,0:04:20.36,Default,,0000,0000,0000,,{\i1}"The Threat of the Mole!\NLuffy's Silent Fight!"{\i0}
+Dialogue: 0,0:04:22.28,0:04:24.19,Default,,0000,0000,0000,,There are still some mirrors!
+Dialogue: 0,0:04:26.57,0:04:28.47,Default,,0000,0000,0000,,I found one, Joscar!
+Dialogue: 0,0:04:28.47,0:04:30.79,Default,,0000,0000,0000,,I found it, too, Marscar!
+Dialogue: 0,0:04:34.37,0:04:36.23,Default,,0000,0000,0000,,Let's do it, Joscar!
+Dialogue: 0,0:04:36.23,0:04:38.17,Default,,0000,0000,0000,,Let's do it, Marscar!
+Dialogue: 0,0:04:38.96,0:04:41.51,Default,,0000,0000,0000,,Make sure to find any kind of mirror!
+Dialogue: 0,0:04:47.93,0:04:49.18,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:05:04.86,0:05:06.45,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:06.61,0:05:08.49,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:05:13.20,0:05:14.41,Default,,0000,0000,0000,,This is the last one!
+Dialogue: 0,0:05:17.50,0:05:19.71,Default,,0000,0000,0000,,Are they alive?!
+Dialogue: 0,0:05:19.88,0:05:23.17,Default,,0000,0000,0000,,Big Bro Peros said they took care of them...
+Dialogue: 0,0:05:23.38,0:05:26.97,Default,,0000,0000,0000,,I guess the ship sank and the mirrors were \Nshattered by the water pressure, Joscar!
+Dialogue: 0,0:05:27.13,0:05:30.30,Default,,0000,0000,0000,,Yeah, I guess that's it, Marscar!
+Dialogue: 0,0:05:30.93,0:05:32.82,Default,,0000,0000,0000,,Something is not right...
+Dialogue: 0,0:05:35.43,0:05:36.32,Default,,0000,0000,0000,,{\i1}Hey!{\i0}
+Dialogue: 0,0:05:36.82,0:05:38.91,Default,,0000,0000,0000,,{\i1}Hey, Luffy!{\i0}
+Dialogue: 0,0:05:41.06,0:05:42.02,Default,,0000,0000,0000,,{\i1}Are you okay?!{\i0}
+Dialogue: 0,0:05:42.35,0:05:43.09,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:05:46.07,0:05:48.80,Default,,0000,0000,0000,,{\i1}We need to talk so get away from the enemies!{\i0}
+Dialogue: 0,0:05:49.33,0:05:50.03,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:52.45,0:05:54.41,Default,,0000,0000,0000,,Are you guys alright?!
+Dialogue: 0,0:05:54.83,0:05:57.80,Default,,0000,0000,0000,,Hey! Straw Hat is running away!
+Dialogue: 0,0:06:03.59,0:06:07.57,Default,,0000,0000,0000,,What happened?!\NThe candy guy said the Sunny sank!
+Dialogue: 0,0:06:07.57,0:06:12.47,Default,,0000,0000,0000,,{\i1}We thought it'd sink, too!\NBut Jimbei was awesome!{\i0}
+Dialogue: 0,0:06:28.61,0:06:32.37,Default,,0000,0000,0000,,Why are we heading towards the wave?!\NJimbei!
+Dialogue: 0,0:06:32.67,0:06:35.62,Default,,0000,0000,0000,,Hold on to the ship tightly!
+Dialogue: 0,0:06:39.71,0:06:44.63,Default,,0000,0000,0000,,I can't believe it! He's controlling the sloop\Nlike it's his own limb!
+Dialogue: 0,0:06:45.09,0:06:47.67,Default,,0000,0000,0000,,I've never seen such a helmsman!
+Dialogue: 0,0:06:49.53,0:06:51.23,Default,,0000,0000,0000,,{\i1}If it weren't for Jimbei,{\i0}
+Dialogue: 0,0:06:52.53,0:06:54.10,Default,,0000,0000,0000,,{\i1}we'd all have...{\i0}
+Dialogue: 0,0:06:55.76,0:06:58.19,Default,,0000,0000,0000,,{\i1}...drowned in the sea!{\i0}
+Dialogue: 0,0:06:59.62,0:07:01.76,Default,,0000,0000,0000,,{\i1}We're all fine, Luffy!{\i0}
+Dialogue: 0,0:07:02.55,0:07:05.98,Default,,0000,0000,0000,,{\i1}Luffy-{\i0}san{\i1}!\NWe broke all the mirrors on the ship!{\i0}
+Dialogue: 0,0:07:06.49,0:07:08.07,Default,,0000,0000,0000,,Okay! That's good!
+Dialogue: 0,0:07:08.07,0:07:12.63,Default,,0000,0000,0000,,{\i1}Now the enemies can't invade the ship\Nbut you can't come back, either!{\i0}
+Dialogue: 0,0:07:12.63,0:07:16.23,Default,,0000,0000,0000,,Yeah, that's okay! I'll figure something...
+Dialogue: 0,0:07:16.23,0:07:19.37,Default,,0000,0000,0000,,{\i1}No, you can't!\NYou don't even have a plan!{\i0}
+Dialogue: 0,0:07:19.59,0:07:21.08,Default,,0000,0000,0000,,{\i1}Listen carefully, Luffy!{\i0}
+Dialogue: 0,0:07:25.98,0:07:29.24,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0} is baking the cake\Nat Cacao Island now!
+Dialogue: 0,0:07:30.30,0:07:32.25,Default,,0000,0000,0000,,That's where we're heading!
+Dialogue: 0,0:07:33.12,0:07:35.80,Default,,0000,0000,0000,,We'll get there in 10 hours at the earliest!
+Dialogue: 0,0:07:36.27,0:07:37.49,Default,,0000,0000,0000,,{\i1}Around 1 AM!{\i0}
+Dialogue: 0,0:07:38.64,0:07:41.52,Default,,0000,0000,0000,,{\i1}So as soon as you kick that guy's ass,{\i0}
+Dialogue: 0,0:07:41.89,0:07:46.15,Default,,0000,0000,0000,,{\i1}look for a mirror that leads to Cacao Island!\NAnd we'll see you there!{\i0}
+Dialogue: 0,0:07:50.61,0:07:53.33,Default,,0000,0000,0000,,Damn! I can't get it off!
+Dialogue: 0,0:07:58.23,0:07:59.65,Default,,0000,0000,0000,,{\i1}Is something wrong, Luffy?{\i0}
+Dialogue: 0,0:07:59.95,0:08:01.36,Default,,0000,0000,0000,,{\i1}Are you listening?{\i0}
+Dialogue: 0,0:08:18.47,0:08:19.39,Default,,0000,0000,0000,,{\i1}Luffy!{\i0}
+Dialogue: 0,0:08:19.56,0:08:20.60,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:20.77,0:08:22.69,Default,,0000,0000,0000,,{\i1}Hey! Stay focused!{\i0}
+Dialogue: 0,0:08:54.98,0:08:56.84,Default,,0000,0000,0000,,Maybe he's in trouble!
+Dialogue: 0,0:08:57.01,0:08:58.10,Default,,0000,0000,0000,,Please respond!
+Dialogue: 0,0:08:58.42,0:08:59.61,Default,,0000,0000,0000,,{\i1}Luffy!{\i0}
+Dialogue: 0,0:09:01.18,0:09:03.02,Default,,0000,0000,0000,,{\i1}Are you okay, Luffy?!{\i0}
+Dialogue: 0,0:09:03.18,0:09:04.37,Default,,0000,0000,0000,,{\i1}Luffy-{\i0}san{\i1}!{\i0}
+Dialogue: 0,0:09:33.06,0:09:34.09,Default,,0000,0000,0000,,Willow Mochi!
+Dialogue: 0,0:10:31.31,0:10:32.40,Default,,0000,0000,0000,,{\i1}Luffy?{\i0}
+Dialogue: 0,0:10:32.90,0:10:35.08,Default,,0000,0000,0000,,{\i1}You're fine, right, Luffy-{\i0}san{\i1}?!{\i0}
+Dialogue: 0,0:10:35.88,0:10:37.78,Default,,0000,0000,0000,,What's the matter, Luffy?!
+Dialogue: 0,0:11:20.50,0:11:22.67,Default,,0000,0000,0000,,{\i1}Hurry up and get there, guys!{\i0}
+Dialogue: 0,0:11:24.21,0:11:27.56,Default,,0000,0000,0000,,{\i1}I'll probably be there soon\Nand get tired of waiting!{\i0}
+Dialogue: 0,0:11:29.41,0:11:31.21,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:11:31.75,0:11:33.42,Default,,0000,0000,0000,,{\i1}See you later, guys!{\i0}
+Dialogue: 0,0:11:33.58,0:11:35.38,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:11:36.34,0:11:39.92,Default,,0000,0000,0000,,Our pursuers will be here soon!\NLet's keep an eye out!
+Dialogue: 0,0:11:39.92,0:11:41.08,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:11:41.08,0:11:43.83,Default,,0000,0000,0000,,Let's go to the observation deck, Carrot!
+Dialogue: 0,0:11:43.83,0:11:45.95,Default,,0000,0000,0000,,Okay, Chobro!
+Dialogue: 0,0:12:15.63,0:12:18.38,Default,,0000,0000,0000,,"I'm not gonna die here"...
+Dialogue: 0,0:12:18.68,0:12:20.02,Default,,0000,0000,0000,,That's what you'll say...
+Dialogue: 0,0:12:22.76,0:12:25.17,Default,,0000,0000,0000,,Is that all you have to say before you die?
+Dialogue: 0,0:12:48.52,0:12:51.88,Default,,0000,0000,0000,,I'm not gonna die here!
+Dialogue: 0,0:13:08.12,0:13:12.00,DefaultLow,,0000,0000,0000,,SWEET CITY
+Dialogue: 0,0:13:15.02,0:13:18.65,Default,,0000,0000,0000,,Haven't we gotten any updates\Non Straw Hat and the others-{\i1}soir{\i0}?
+Dialogue: 0,0:13:19.27,0:13:23.15,Default,,0000,0000,0000,,Could it be that they made \Nit out of our territory?
+Dialogue: 0,0:13:23.32,0:13:25.20,Default,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:13:25.53,0:13:30.32,Default,,0000,0000,0000,,Once they take to sea, the surrounding \NTerritory Slugs will sense them for sure!
+Dialogue: 0,0:13:30.74,0:13:35.93,Default,,0000,0000,0000,,On top of that, Mama and our siblings\Nhave set out, too, chasing them.
+Dialogue: 0,0:13:36.87,0:13:39.35,Default,,0000,0000,0000,,They have no chance against our encirclement.
+Dialogue: 0,0:13:39.79,0:13:41.67,Default,,0000,0000,0000,,I hope so...
+Dialogue: 0,0:13:42.22,0:13:44.80,Default,,0000,0000,0000,,Believe in your family!
+Dialogue: 0,0:13:44.80,0:13:48.30,Default,,0000,0000,0000,,The Germa Kingdom is about to fall, too!
+Dialogue: 0,0:14:08.16,0:14:12.99,Default,,0000,0000,0000,,Go to ruin, Germa!\NWe'll have your scientific technology!
+Dialogue: 0,0:14:15.75,0:14:18.29,Default,,0000,0000,0000,,There's no cure for a fool!
+Dialogue: 0,0:14:20.33,0:14:24.04,Default,,0000,0000,0000,,Do you think you can burn me\Nwith such a small flame?
+Dialogue: 0,0:14:24.04,0:14:26.70,Default,,0000,0000,0000,,Act as tough as you like now!
+Dialogue: 0,0:14:26.70,0:14:27.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:30.40,0:14:34.14,Default,,0000,0000,0000,,The Germa Kingdom ends today!
+Dialogue: 0,0:14:48.20,0:14:51.90,Default,,0000,0000,0000,,No one dies because they want to.
+Dialogue: 0,0:14:53.33,0:14:54.54,Default,,0000,0000,0000,,Most deaths...
+Dialogue: 0,0:14:55.16,0:14:56.56,Default,,0000,0000,0000,,...come unwillingly.
+Dialogue: 0,0:14:57.79,0:14:59.27,Default,,0000,0000,0000,,You will...
+Dialogue: 0,0:14:59.77,0:15:01.08,Default,,0000,0000,0000,,die here soon!
+Dialogue: 0,0:15:09.26,0:15:10.69,Default,,0000,0000,0000,,He's right!
+Dialogue: 0,0:15:10.69,0:15:13.30,Default,,0000,0000,0000,,Why don't you drop dead already, Straw Hat?!
+Dialogue: 0,0:15:13.97,0:15:14.64,Default,,0000,0000,0000,,Branch!
+Dialogue: 0,0:15:14.81,0:15:16.72,Default,,0000,0000,0000,,It's Brulee!
+Dialogue: 0,0:15:16.72,0:15:20.27,Default,,0000,0000,0000,,Don't think that you can beat him\Njust with your spirit, punk!
+Dialogue: 0,0:15:20.81,0:15:25.19,Default,,0000,0000,0000,,Big Bro Katakuri isn't \Njust an unbeatable man!
+Dialogue: 0,0:15:25.54,0:15:31.87,Default,,0000,0000,0000,,He's a superhuman who's never once \Nbeen on his back since he was born!
+Dialogue: 0,0:15:31.87,0:15:33.32,Default,,0000,0000,0000,,Stop it, Brulee!
+Dialogue: 0,0:15:34.20,0:15:37.70,Default,,0000,0000,0000,,The moment he was born,\Nhe stood on his feet
+Dialogue: 0,0:15:37.75,0:15:41.01,Default,,0000,0000,0000,,and slept on a chair,\Nthe legend says!
+Dialogue: 0,0:15:41.54,0:15:47.38,Default,,0000,0000,0000,,He's never once lied down in his life!\NHe's a man who looks down on the ground!
+Dialogue: 0,0:15:48.59,0:15:50.22,Default,,0000,0000,0000,,He's always noble!
+Dialogue: 0,0:15:50.56,0:15:52.29,Default,,0000,0000,0000,,Calm and strong!
+Dialogue: 0,0:15:52.63,0:15:55.05,Default,,0000,0000,0000,,He's perfect in every way!
+Dialogue: 0,0:15:55.89,0:16:00.21,Default,,0000,0000,0000,,That's who our Big Bro Katakuri is!
+Dialogue: 0,0:16:01.77,0:16:07.40,Default,,0000,0000,0000,,He's the masterpiece of Charlotte\Nand it's presumptuous for a short-ass like you...
+Dialogue: 0,0:16:07.40,0:16:09.91,Default,,0000,0000,0000,,...to even fight him!
+Dialogue: 0,0:16:10.65,0:16:13.11,Default,,0000,0000,0000,,Shut up! Go away!
+Dialogue: 0,0:16:28.17,0:16:31.22,Default,,0000,0000,0000,,What are you trying to \Ndo to my little sister?!
+Dialogue: 0,0:16:32.76,0:16:34.39,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:16:55.18,0:16:56.37,Default,,0000,0000,0000,,Mochi Thrust!
+Dialogue: 0,0:17:07.63,0:17:08.56,Default,,0000,0000,0000,,Ouch...
+Dialogue: 0,0:17:13.09,0:17:14.82,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:17:28.90,0:17:30.77,Default,,0000,0000,0000,,I almost got crushed!
+Dialogue: 0,0:17:36.41,0:17:38.70,Default,,0000,0000,0000,,This trident is called Mole!
+Dialogue: 0,0:17:43.25,0:17:48.50,Default,,0000,0000,0000,,Your hand or your foot?\NName the body parts you can most do without.
+Dialogue: 0,0:17:49.84,0:17:51.43,Default,,0000,0000,0000,,I'll sever them for you!
+Dialogue: 0,0:17:55.84,0:17:58.55,Default,,0000,0000,0000,,Please start with his head, Big Bro!
+Dialogue: 0,0:17:58.77,0:18:00.45,Default,,0000,0000,0000,,Shut up, you fool!
+Dialogue: 0,0:18:16.74,0:18:18.82,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:19.07,0:18:22.01,Default,,0000,0000,0000,,...Giant Rifle!
+Dialogue: 0,0:18:35.92,0:18:37.76,Default,,0000,0000,0000,,I was listening!
+Dialogue: 0,0:18:38.08,0:18:39.72,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:18:40.43,0:18:43.68,Default,,0000,0000,0000,,To where you guys are trying to rendezvous!
+Dialogue: 0,0:18:44.35,0:18:46.31,Default,,0000,0000,0000,,Are you guys alright?!
+Dialogue: 0,0:18:46.73,0:18:49.73,Default,,0000,0000,0000,,Hey! Straw Hat is running away!
+Dialogue: 0,0:18:50.85,0:18:53.32,Default,,0000,0000,0000,,Seems like he was talking to someone...
+Dialogue: 0,0:18:54.07,0:18:55.94,Default,,0000,0000,0000,,I won't let him get away!
+Dialogue: 0,0:18:56.74,0:19:00.86,Default,,0000,0000,0000,,{\i1}We'll get there in 10 hours at the earliest!\NAround 1 AM!{\i0}
+Dialogue: 0,0:19:01.87,0:19:05.56,Default,,0000,0000,0000,,{\i1}Look for a mirror that leads to Cacao Island!\NAnd we'll see you there!{\i0}
+Dialogue: 0,0:19:09.25,0:19:12.84,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:19:13.36,0:19:14.19,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:19:14.67,0:19:15.88,Default,,0000,0000,0000,,{\i1}Big Bro Peros!{\i0}
+Dialogue: 0,0:19:17.76,0:19:21.42,Default,,0000,0000,0000,,Do you wanna play with a wave again, Mama?
+Dialogue: 0,0:19:21.96,0:19:24.51,Default,,0000,0000,0000,,Come on! Let's do it!
+Dialogue: 0,0:19:24.51,0:19:26.51,Default,,0000,0000,0000,,Mama, are you listening?
+Dialogue: 0,0:19:27.51,0:19:31.48,Default,,0000,0000,0000,,What?! Their ship hasn't sunk yet?!
+Dialogue: 0,0:19:31.52,0:19:33.34,Default,,0000,0000,0000,,Are you sure, Brulee?!
+Dialogue: 0,0:19:33.34,0:19:35.86,Default,,0000,0000,0000,,{\i1}Yeah, I heard their voices!{\i0}
+Dialogue: 0,0:19:36.35,0:19:40.73,Default,,0000,0000,0000,,But the candy monster made a high wave\Nand swallowed them!
+Dialogue: 0,0:19:41.20,0:19:43.87,Default,,0000,0000,0000,,How did they escape?!
+Dialogue: 0,0:19:46.44,0:19:48.32,Default,,0000,0000,0000,,I don't know how they did it!
+Dialogue: 0,0:19:48.93,0:19:54.43,Default,,0000,0000,0000,,But I'm sure they're alive and will \Nemerge at Cacao Island around midnight!
+Dialogue: 0,0:19:54.96,0:19:58.84,Default,,0000,0000,0000,,That's what they promised Straw Hat Luffy.\NIt's no mistake!
+Dialogue: 0,0:19:59.81,0:20:01.72,Default,,0000,0000,0000,,What they don't know is...
+Dialogue: 0,0:20:02.06,0:20:05.42,Default,,0000,0000,0000,,{\i1}...that it's our final destination, too!{\i0}
+Dialogue: 0,0:20:06.75,0:20:11.73,Default,,0000,0000,0000,,Mama! The cake that you crave\Nis in Chocolat Town, Cacao Island!
+Dialogue: 0,0:20:12.00,0:20:13.69,Default,,0000,0000,0000,,Can't wait, right?
+Dialogue: 0,0:20:14.19,0:20:17.16,Default,,0000,0000,0000,,{\i1}I lied to her out of desperation,{\i0}
+Dialogue: 0,0:20:17.71,0:20:22.62,Default,,0000,0000,0000,,{\i1}but if I take her there like this,\NI'd be able to cover it up!{\i0}
+Dialogue: 0,0:20:23.36,0:20:27.07,Default,,0000,0000,0000,,{\i1}Pudding is baking the cake at Cacao Island!{\i0}
+Dialogue: 0,0:20:28.28,0:20:32.76,Default,,0000,0000,0000,,{\i1}Whatever happens, everything will be settled!{\i0}
+Dialogue: 0,0:20:43.24,0:20:46.80,Default,,0000,0000,0000,,Wedding cake!
+Dialogue: 0,0:20:46.97,0:20:49.52,Default,,0000,0000,0000,,Mama, it's that way, huh?!
+Dialogue: 0,0:20:53.98,0:20:58.02,Default,,0000,0000,0000,,Wait a sec! That's Nuts Island!
+Dialogue: 0,0:20:58.40,0:21:00.90,Default,,0000,0000,0000,,Whoa-whoa, what are you doing?!
+Dialogue: 0,0:21:00.90,0:21:05.99,Default,,0000,0000,0000,,Mama! Their ship isn't heading there!\NThe cake will be delivered to Cacao Island!
+Dialogue: 0,0:21:06.28,0:21:07.78,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:21:07.95,0:21:10.81,Default,,0000,0000,0000,,--No, Mama! Stop!\N--...cake!
+Dialogue: 0,0:21:10.81,0:21:13.21,Default,,0000,0000,0000,,Don't go that way!
+Dialogue: 0,0:21:28.11,0:21:31.16,Default,,0000,0000,0000,,I'm not gonna get beaten by you!
+Dialogue: 0,0:21:31.84,0:21:32.52,Default,,0000,0000,0000,,It's no use!
+Dialogue: 0,0:21:34.89,0:21:37.56,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:21:41.53,0:21:44.24,Default,,0000,0000,0000,,...Red Hawk!
+Dialogue: 0,0:22:00.11,0:22:01.42,Default,,0000,0000,0000,,Don't push your luck!
+Dialogue: 0,0:22:19.81,0:22:21.02,Default,,0000,0000,0000,,Give up!
+Dialogue: 0,0:22:21.44,0:22:22.66,Default,,0000,0000,0000,,Straw Hat.
+Dialogue: 0,0:22:23.16,0:22:25.65,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:22:27.40,0:22:31.32,Default,,0000,0000,0000,,...Thor Elephant Gun!
+Dialogue: 0,0:22:52.76,0:22:54.72,Default,,0000,0000,0000,,I told you that I could see them!
+Dialogue: 0,0:23:10.82,0:23:13.20,Default,,0000,0000,0000,,There is no future for you!
+Dialogue: 0,0:23:24.88,0:23:27.42,Italics,,0000,0000,0000,,{\i1}Katakuri comes to finish Luffy off!{\i0}
+Dialogue: 0,0:23:27.73,0:23:28.84,Italics,,0000,0000,0000,,{\i1}Luffy is unable to do
+Dialogue: 0,0:23:28.84,0:23:31.76,Italics,,0000,0000,0000,,anything against Katakuri\Nwho launches attacks in waves with
+Dialogue: 0,0:23:31.76,0:23:33.28,Italics,,0000,0000,0000,,his deadly trident, Mole!{\i0}
+Dialogue: 0,0:23:33.51,0:23:36.22,Italics,,0000,0000,0000,,{\i1}Without seeing the light of hope for victory,
+Dialogue: 0,0:23:36.22,0:23:40.80,Italics,,0000,0000,0000,,the Mochi-Mochi Fruit's formidable \Nawakened power finally catches Luffy!{\i0}
+Dialogue: 0,0:23:41.10,0:23:42.52,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:42.52,0:23:45.77,Default,,0000,0000,0000,,"The End of the Deadly Battle?! \NKatakuri's Awakening in Anger!"
+Dialogue: 0,0:23:45.77,0:23:47.98,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.80,0:23:50.80,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.80,0:23:52.80,On Top,,0000,0000,0000,,

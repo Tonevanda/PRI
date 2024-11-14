@@ -1,0 +1,384 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.42,0:00:15.55,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.42,0:00:15.55,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,Default,,0000,0000,0000,,{\i1}If you want to make it come true, Over The Top{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:25.60,0:00:28.15,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:36.41,0:00:40.04,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:36.41,0:00:40.04,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,Default,,0000,0000,0000,,{\i1}I have to keep going because I want to get there first{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa ichibannori shitain da{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,Default,,0000,0000,0000,,{\i1}Worry later since it's all sink or swim anyway{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi douse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,Default,,0000,0000,0000,,{\i1}When things become tough, that's when you should laugh{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.37,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.37,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:25.41,0:01:30.54,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:25.41,0:01:30.54,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,Default,,0000,0000,0000,,{\i1}It's brighter and the level of difficulty rises{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:12.84,0:02:17.97,Default,,0000,0000,0000,,{\i1}After rescuing Otama,\NLuffy stole a treasure ship with a store of food{\i0}
+Dialogue: 0,0:02:18.01,0:02:20.84,Default,,0000,0000,0000,,{\i1}and took it to Okobore Town.{\i0}
+Dialogue: 0,0:02:22.20,0:02:24.37,Default,,0000,0000,0000,,It's water!
+Dialogue: 0,0:02:26.41,0:02:29.67,Default,,0000,0000,0000,,It's non-poisonous! Help yourself!
+Dialogue: 0,0:02:31.83,0:02:34.21,Default,,0000,0000,0000,,I'll make it your everyday life!
+Dialogue: 0,0:02:35.92,0:02:38.61,Default,,0000,0000,0000,,By the time we leave this country,
+Dialogue: 0,0:02:38.61,0:02:42.47,Default,,0000,0000,0000,,I'll make it a place where\Nyou can eat as much as you want!
+Dialogue: 0,0:02:42.80,0:02:48.32,Default,,0000,0000,0000,,{\i1}And Law is now taking Luffy and the others\Nto the ruins of Oden Castle.{\i0}
+Dialogue: 0,0:02:49.73,0:02:52.65,Default,,0000,0000,0000,,We'll go meet the ghosts of the Land of Wano.
+Dialogue: 0,0:02:53.56,0:02:54.73,Default,,0000,0000,0000,,Ghosts?
+Dialogue: 0,0:02:55.90,0:02:57.47,Default,,0000,0000,0000,,You'll be surprised...
+Dialogue: 0,0:02:59.19,0:03:02.36,Default,,0000,0000,0000,,Yeah, I was stunned, too...
+Dialogue: 0,0:03:03.45,0:03:05.11,Default,,0000,0000,0000,,There, you'll learn...
+Dialogue: 0,0:03:05.74,0:03:08.76,Default,,0000,0000,0000,,...an unbelievable truth!
+Dialogue: 0,0:03:09.20,0:03:11.48,OS,,0000,0000,0000,,GRAVE OF KOZUKI ODEN\NVASSAL KIN'EMON     KOZUKI MOMONOSUKE\NVASSAL KANJURO     VASSAL RAIZO
+Dialogue: 0,0:03:11.77,0:03:20.58,Default,,0000,0000,0000,,{\i1}"Mysterious Grave Markers!\NA Reunion at the Ruins of Oden Castle!"{\i0}
+Dialogue: 0,0:03:27.18,0:03:30.83,Default,,0000,0000,0000,,Hey, tell me! What do you mean by "ghosts"?!
+Dialogue: 0,0:03:30.83,0:03:31.77,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:03:31.77,0:03:34.86,Default,,0000,0000,0000,,--You'll see once you get there.\N--What?!
+Dialogue: 0,0:03:35.52,0:03:38.70,Default,,0000,0000,0000,,Tra-guy! Don't leave me hanging!
+Dialogue: 0,0:03:38.70,0:03:39.82,Default,,0000,0000,0000,,In any event,
+Dialogue: 0,0:03:40.19,0:03:44.94,Default,,0000,0000,0000,,we'll talk once we get to the top of this mountain\Nwhere the ruins of Oden Castle are.
+Dialogue: 0,0:03:44.94,0:03:47.66,Default,,0000,0000,0000,,Tsk! You're so mean!
+Dialogue: 0,0:03:57.84,0:03:59.42,Default,,0000,0000,0000,,There's someone strong.
+Dialogue: 0,0:03:59.80,0:04:00.64,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:01.22,0:04:03.30,Default,,0000,0000,0000,,Maybe it's Orochi's assassin.
+Dialogue: 0,0:04:03.30,0:04:05.05,Default,,0000,0000,0000,,Luffy, you go ahead.
+Dialogue: 0,0:04:05.97,0:04:09.26,Default,,0000,0000,0000,,I'll catch up to you after I take care of this.
+Dialogue: 0,0:04:09.26,0:04:10.22,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:04:21.82,0:04:23.95,Default,,0000,0000,0000,,You think you're hiding well?
+Dialogue: 0,0:04:26.82,0:04:29.03,Default,,0000,0000,0000,,I can really feel your thirst for blood.
+Dialogue: 0,0:04:40.00,0:04:44.15,On Top,,0000,0000,0000,,FLOWER CAPITAL
+Dialogue: 0,0:04:41.30,0:04:44.30,Default,,0000,0000,0000,,Alright, everyone, let's start the class.
+Dialogue: 0,0:04:44.30,0:04:47.66,Default,,0000,0000,0000,,Today, you'll learn the history of\Nthe Land of Wano!
+Dialogue: 0,0:04:47.66,0:04:49.19,Default,,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:04:56.19,0:04:57.35,Default,,0000,0000,0000,,Now, everyone...
+Dialogue: 0,0:04:58.86,0:05:01.68,Default,,0000,0000,0000,,What is {\i1}sakoku{\i0}?
+Dialogue: 0,0:05:02.11,0:05:02.88,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:05:03.65,0:05:07.49,Default,,0000,0000,0000,,It means closing a country's doors\Nto maintain the peace of that country!
+Dialogue: 0,0:05:07.49,0:05:10.25,Default,,0000,0000,0000,,--That's correct!\N--It's easy!
+Dialogue: 0,0:05:10.78,0:05:11.54,Default,,0000,0000,0000,,Next...
+Dialogue: 0,0:05:11.52,0:05:13.02,On Top,,0000,0000,0000,,KUROZUMI OROCHI
+Dialogue: 0,0:05:11.54,0:05:14.50,Default,,0000,0000,0000,,what is {\i1}kaikoku{\i0}?
+Dialogue: 0,0:05:14.50,0:05:15.71,Default,,0000,0000,0000,,--Me!\N--Here!
+Dialogue: 0,0:05:15.71,0:05:17.46,Default,,0000,0000,0000,,--Pick me!\N--Me, me!
+Dialogue: 0,0:05:17.46,0:05:19.63,Default,,0000,0000,0000,,--You there.\N--Yes.
+Dialogue: 0,0:05:19.63,0:05:24.84,Default,,0000,0000,0000,,It's a very bad action that will let evil people and ideas into a country!
+Dialogue: 0,0:05:26.47,0:05:30.93,Default,,0000,0000,0000,,The countries outside want various things\Nfrom the Land of Wano.
+Dialogue: 0,0:05:30.93,0:05:33.60,Default,,0000,0000,0000,,That's exactly correct!
+Dialogue: 0,0:05:34.68,0:05:36.35,Default,,0000,0000,0000,,But, a long time ago,
+Dialogue: 0,0:05:37.48,0:05:41.28,Default,,0000,0000,0000,,there were some fools who tried to do just that.
+Dialogue: 0,0:05:40.69,0:05:43.92,On Top,,0000,0000,0000,,KOZUKI ODEN
+Dialogue: 0,0:05:44.07,0:05:47.73,Default,,0000,0000,0000,,It was Oden and the Akazaya Nine!
+Dialogue: 0,0:05:48.16,0:05:51.37,Default,,0000,0000,0000,,Wait, I didn't ask for your answer!
+Dialogue: 0,0:05:51.87,0:05:53.95,Default,,0000,0000,0000,,Wiggle, wiggle, wiggle, wiggle!
+Dialogue: 0,0:05:53.95,0:05:56.75,Default,,0000,0000,0000,,There it is! Her stretchy neck!
+Dialogue: 0,0:05:57.38,0:06:00.33,Default,,0000,0000,0000,,You answered without my permission!\NWhat bad kids!
+Dialogue: 0,0:06:00.33,0:06:02.63,Default,,0000,0000,0000,,Why couldn't we answer?
+Dialogue: 0,0:06:02.63,0:06:06.53,Default,,0000,0000,0000,,Because the Akazaya Nine...
+Dialogue: 0,0:06:06.53,0:06:09.89,Default,,0000,0000,0000,,...is a name I don't even wanna hear.
+Dialogue: 0,0:06:11.14,0:06:14.83,Default,,0000,0000,0000,,But it's been two decades now.
+Dialogue: 0,0:06:18.89,0:06:24.48,Default,,0000,0000,0000,,There was a hero who took down those evil samurai.
+Dialogue: 0,0:06:26.11,0:06:29.15,Default,,0000,0000,0000,,It was the Shogun - Kurozumi Orochi!
+Dialogue: 0,0:06:29.15,0:06:30.78,Default,,0000,0000,0000,,That's correct!
+Dialogue: 0,0:06:30.78,0:06:32.66,Default,,0000,0000,0000,,Orochi Two-Sword Style!
+Dialogue: 0,0:06:32.66,0:06:36.87,Default,,0000,0000,0000,,Watch out, Akazaya Nine!\NI'll bring you down!
+Dialogue: 0,0:06:40.42,0:06:42.93,Default,,0000,0000,0000,,{\i1}What a horrible education!{\i0}
+Dialogue: 0,0:06:43.25,0:06:46.04,Default,,0000,0000,0000,,{\i1}It's all falsehoods!{\i0}
+Dialogue: 0,0:06:46.63,0:06:51.22,Default,,0000,0000,0000,,Shogun Orochi saved the Land of Wano\Nfrom the bad guys!
+Dialogue: 0,0:06:51.64,0:06:52.66,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:53.39,0:06:54.60,Default,,0000,0000,0000,,20 years ago,
+Dialogue: 0,0:06:55.64,0:06:58.48,Default,,0000,0000,0000,,all of those bad people died.
+Dialogue: 0,0:06:58.81,0:07:01.15,Default,,0000,0000,0000,,And the Land of Wano became...
+Dialogue: 0,0:07:01.56,0:07:05.40,Default,,0000,0000,0000,,...the peaceful country it is now!
+Dialogue: 0,0:07:10.32,0:07:13.62,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0} is a coward!
+Dialogue: 0,0:07:13.62,0:07:17.72,Default,,0000,0000,0000,,K-K-Kyoshiro-{\i1}dono{\i0}! What are you saying?!
+Dialogue: 0,0:07:17.72,0:07:19.62,Default,,0000,0000,0000,,You're too loud!
+Dialogue: 0,0:07:19.62,0:07:23.33,Default,,0000,0000,0000,,Shut up! Idiot!
+Dialogue: 0,0:07:26.13,0:07:27.36,Default,,0000,0000,0000,,Don't be scared!
+Dialogue: 0,0:07:27.36,0:07:31.51,Default,,0000,0000,0000,,Even if anyone hears it,\NI only spoke the truth.
+Dialogue: 0,0:07:31.70,0:07:34.07,On Top,,0000,0000,0000,,KOROZUMI CLAN'S MONEY CHANGER
+Dialogue: 0,0:07:34.41,0:07:37.54,On Top,,0000,0000,0000,,NAPPING KYOSHIRO
+Dialogue: 0,0:07:47.64,0:07:50.81,Default,,0000,0000,0000,,Booze! Bring me more booze!
+Dialogue: 0,0:07:54.32,0:07:56.49,Default,,0000,0000,0000,,{\i1}Does he have something to do with Orochi?{\i0}
+Dialogue: 0,0:07:57.03,0:07:58.66,Default,,0000,0000,0000,,{\i1}Napping Kyoshiro...{\i0}
+Dialogue: 0,0:07:59.16,0:08:02.50,Default,,0000,0000,0000,,{\i1}Maybe I can get some serious information.{\i0}
+Dialogue: 0,0:08:04.04,0:08:05.92,Default,,0000,0000,0000,,20 years ago...
+Dialogue: 0,0:08:06.29,0:08:08.52,Default,,0000,0000,0000,,in front of the burning Oden Castle,
+Dialogue: 0,0:08:08.52,0:08:12.26,Default,,0000,0000,0000,,Oden's wife uttered these words\Nbefore she passed away.
+Dialogue: 0,0:08:23.54,0:08:27.42,On Top,,0000,0000,0000,,YOU ARE THE MOON UNAWARE OF THE DAWN
+Dialogue: 0,0:08:23.69,0:08:27.07,Default,,0000,0000,0000,,"You are the moon unaware of the dawn.
+Dialogue: 0,0:08:27.61,0:08:30.65,Default,,0000,0000,0000,,May your purpose be fulfilled
+Dialogue: 0,0:08:27.84,0:08:30.65,On Top,,0000,0000,0000,,MAY YOUR PURPOSE BE FULFILLED
+Dialogue: 0,0:08:30.65,0:08:36.34,Default,,0000,0000,0000,,and cast nine shadows on the night woven of 20 years
+Dialogue: 0,0:08:31.01,0:08:32.07,On Top,,0000,0000,0000,,20 YEARS
+Dialogue: 0,0:08:32.07,0:08:33.43,On Top,,0000,0000,0000,,THE NIGHT
+Dialogue: 0,0:08:33.88,0:08:36.39,On Top,,0000,0000,0000,,NINE SHADOWS
+Dialogue: 0,0:08:36.53,0:08:40.35,Default,,0000,0000,0000,,and you shall know the brilliance of the dawn"!
+Dialogue: 0,0:08:48.75,0:08:53.87,Default,,0000,0000,0000,,She just said it out of desperation,\Nbut Orochi-{\i1}sama{\i0} interpreted in a very specific way!
+Dialogue: 0,0:09:04.27,0:09:06.02,Default,,0000,0000,0000,,How did he interpret it?
+Dialogue: 0,0:09:07.27,0:09:09.86,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}...
+Dialogue: 0,0:09:10.73,0:09:12.30,Default,,0000,0000,0000,,Go on!
+Dialogue: 0,0:09:25.37,0:09:26.79,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:09:28.96,0:09:30.85,Default,,0000,0000,0000,,How did he interpret it?!
+Dialogue: 0,0:09:32.34,0:09:35.09,Default,,0000,0000,0000,,Oh, right. Like this.
+Dialogue: 0,0:09:37.76,0:09:40.01,Default,,0000,0000,0000,,"I lay a curse on you"!
+Dialogue: 0,0:09:40.01,0:09:41.56,Default,,0000,0000,0000,,Like a ghost?!
+Dialogue: 0,0:09:41.56,0:09:46.48,Default,,0000,0000,0000,,"20 years later, on a moonlit night,\Nin order to settle this grudge,
+Dialogue: 0,0:09:48.02,0:09:51.94,Default,,0000,0000,0000,,nine samurai will appear as ghosts...
+Dialogue: 0,0:09:51.94,0:09:55.90,Default,,0000,0000,0000,,...to kill you."\NWhich means "to kill Orochi-{\i1}sama{\i0}"!
+Dialogue: 0,0:09:57.36,0:10:00.37,Default,,0000,0000,0000,,"And they'll open up the Land of Wano"!
+Dialogue: 0,0:10:01.33,0:10:04.91,Default,,0000,0000,0000,,This marks the 20th year!
+Dialogue: 0,0:10:07.41,0:10:11.38,Default,,0000,0000,0000,,That's why Shogun Orochi is in fear!
+Dialogue: 0,0:10:11.92,0:10:17.51,Default,,0000,0000,0000,,Thinking "the ghosts of the Kozuki Clan\Nmight come to kill him"!
+Dialogue: 0,0:10:19.76,0:10:22.43,Default,,0000,0000,0000,,I want to fight them!
+Dialogue: 0,0:10:34.27,0:10:36.44,Default,,0000,0000,0000,,But what can the dead do?
+Dialogue: 0,0:10:40.82,0:10:43.95,Default,,0000,0000,0000,,The samurai of the Kozuki Clan...
+Dialogue: 0,0:10:43.95,0:10:45.77,OS,,0000,0000,0000,,GRAVE OF KOZUKI ODEN\NVASSAL KIN'EMON     KOZUKI MOMONOSUKE\NVASSAL KANJURO     VASSAL RAIZO
+Dialogue: 0,0:10:44.34,0:10:48.71,Default,,0000,0000,0000,,20 years ago, we cornered them in the castle...
+Dialogue: 0,0:10:51.08,0:10:55.09,Default,,0000,0000,0000,,...and burned them all alive!
+Dialogue: 0,0:11:14.02,0:11:15.65,Default,,0000,0000,0000,,There is no castle!
+Dialogue: 0,0:11:15.65,0:11:18.07,Default,,0000,0000,0000,,--I said "ruins."\N--Oh, yeah.
+Dialogue: 0,0:11:15.67,0:11:19.84,On Top,,0000,0000,0000,,RUINS OF ODEN CASTLE -\NKURI, LAND OF WANO
+Dialogue: 0,0:11:18.07,0:11:19.99,Default,,0000,0000,0000,,It's this way. Follow me.
+Dialogue: 0,0:11:32.04,0:11:34.29,Default,,0000,0000,0000,,What? Hey, Kiku!
+Dialogue: 0,0:11:35.46,0:11:36.88,Default,,0000,0000,0000,,What's wrong with her?
+Dialogue: 0,0:11:36.88,0:11:40.63,Default,,0000,0000,0000,,Oh! Come to think of it,\NZoro hasn't returned yet, either.
+Dialogue: 0,0:11:54.98,0:11:57.44,Default,,0000,0000,0000,,I thought it was an assassin\Nbut it's a tiger!
+Dialogue: 0,0:12:04.57,0:12:06.87,Default,,0000,0000,0000,,Great! Do you wanna fight?
+Dialogue: 0,0:12:15.75,0:12:17.13,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:12:28.93,0:12:31.77,Default,,0000,0000,0000,,This place is creepy.
+Dialogue: 0,0:12:31.77,0:12:34.19,Default,,0000,0000,0000,,It's been abandoned for 20 years.
+Dialogue: 0,0:12:41.36,0:12:42.46,Default,,0000,0000,0000,,What are those?
+Dialogue: 0,0:12:47.49,0:12:49.60,Default,,0000,0000,0000,,"Kozuki Oden..."?
+Dialogue: 0,0:12:52.33,0:12:54.62,Default,,0000,0000,0000,,Look at the other graves, too.
+Dialogue: 0,0:12:56.75,0:12:57.96,Default,,0000,0000,0000,,"Kozuki..."
+Dialogue: 0,0:12:59.13,0:12:59.59,On Top,,0000,0000,0000,,MO
+Dialogue: 0,0:12:59.59,0:13:00.09,On Top,,0000,0000,0000,,MO
+Dialogue: 0,0:13:00.09,0:13:00.63,On Top,,0000,0000,0000,,NO
+Dialogue: 0,0:13:00.63,0:13:01.09,On Top,,0000,0000,0000,,SUKE
+Dialogue: 0,0:13:02.21,0:13:03.85,Default,,0000,0000,0000,,Momonosuke is...
+Dialogue: 0,0:13:05.34,0:13:08.43,Default,,0000,0000,0000,,That grave belongs to that brat you know.
+Dialogue: 0,0:13:08.43,0:13:11.18,Default,,0000,0000,0000,,What?! What are you talking about, Tra-guy?!
+Dialogue: 0,0:13:11.60,0:13:13.80,Default,,0000,0000,0000,,It's not just him.
+Dialogue: 0,0:13:18.23,0:13:19.20,Default,,0000,0000,0000,,"Raizo"?!
+Dialogue: 0,0:13:21.57,0:13:22.79,Default,,0000,0000,0000,,"Kanjuro"?!
+Dialogue: 0,0:13:24.90,0:13:26.23,Default,,0000,0000,0000,,"Kin'emon"?!
+Dialogue: 0,0:13:29.49,0:13:32.16,Default,,0000,0000,0000,,Why are their graves here?!
+Dialogue: 0,0:13:40.59,0:13:43.05,Default,,0000,0000,0000,,Wait a minute, when we were on our way\Nto the Land of Wano,
+Dialogue: 0,0:13:43.71,0:13:46.48,Default,,0000,0000,0000,,I couldn't get in touch with Kin'emon...
+Dialogue: 0,0:13:50.47,0:13:52.79,On Top,,0000,0000,0000,,KIN'EMON
+Dialogue: 0,0:13:54.27,0:13:56.05,Default,,0000,0000,0000,,D-Don't tell me...
+Dialogue: 0,0:14:02.69,0:14:04.25,Default,,0000,0000,0000,,...he's dead!
+Dialogue: 0,0:14:23.59,0:14:26.01,Default,,0000,0000,0000,,They're dead?
+Dialogue: 0,0:14:26.76,0:14:27.72,Default,,0000,0000,0000,,Momo.
+Dialogue: 0,0:14:28.34,0:14:29.34,Default,,0000,0000,0000,,Raizo.
+Dialogue: 0,0:14:29.93,0:14:31.14,Default,,0000,0000,0000,,Kanjuro.
+Dialogue: 0,0:14:31.60,0:14:32.74,Default,,0000,0000,0000,,Kin'emon.
+Dialogue: 0,0:14:33.35,0:14:34.81,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:14:37.23,0:14:39.19,Default,,0000,0000,0000,,They can't be dead!
+Dialogue: 0,0:14:39.19,0:14:40.88,On Top,,0000,0000,0000,,GRAVE OF KIN'EMON
+Dialogue: 0,0:14:39.19,0:14:41.73,Default,,0000,0000,0000,,I thought Kin'emon was waiting here...
+Dialogue: 0,0:14:41.73,0:14:44.40,Default,,0000,0000,0000,,He's been gone for quite a while.
+Dialogue: 0,0:14:44.40,0:14:45.40,Default,,0000,0000,0000,,Gone?!
+Dialogue: 0,0:14:45.78,0:14:47.86,Default,,0000,0000,0000,,Maybe he'll come out at night.
+Dialogue: 0,0:14:47.86,0:14:50.46,Default,,0000,0000,0000,,He appeared repeatedly last night, too.
+Dialogue: 0,0:14:53.24,0:14:56.20,Default,,0000,0000,0000,,That sounds like he's a ghost or something!
+Dialogue: 0,0:14:56.20,0:14:59.92,Default,,0000,0000,0000,,What's the meaning of these graves?!\NSpit it out, Tra-guy!
+Dialogue: 0,0:15:00.46,0:15:02.82,Default,,0000,0000,0000,,Is there something you don't wanna say?!
+Dialogue: 0,0:15:03.54,0:15:06.34,Default,,0000,0000,0000,,I'm not the one who should be telling you about it.
+Dialogue: 0,0:16:01.39,0:16:03.19,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0}!
+Dialogue: 0,0:16:04.61,0:16:05.11,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:06.90,0:16:08.03,Default,,0000,0000,0000,,Kin!
+Dialogue: 0,0:16:08.03,0:16:10.66,Default,,0000,0000,0000,,I'm glad that you're alive!
+Dialogue: 0,0:16:10.66,0:16:14.18,Default,,0000,0000,0000,,I'm sorry that I couldn't come to get you...
+Dialogue: 0,0:16:14.18,0:16:16.53,Default,,0000,0000,0000,,It's so great that you arrived safely.
+Dialogue: 0,0:16:16.53,0:16:21.75,Default,,0000,0000,0000,,I'm afraid I've got the runs pretty bad\Nand I thought I wouldn't be able to...
+Dialogue: 0,0:16:21.75,0:16:24.81,Default,,0000,0000,0000,,...come out from the bathroom tonight again.
+Dialogue: 0,0:16:24.81,0:16:27.87,Default,,0000,0000,0000,,But I'm starting to feel a little better.
+Dialogue: 0,0:16:25.19,0:16:31.07,On Top,,0000,0000,0000,,FOXFIRE KIN'EMON - A VASSAL OF THE KOZUKI CLAN
+Dialogue: 0,0:16:28.46,0:16:31.22,Default,,0000,0000,0000,,Well, well, well, it was painful.
+Dialogue: 0,0:16:31.22,0:16:33.35,Default,,0000,0000,0000,,He's alive, Tra-guy!
+Dialogue: 0,0:16:33.35,0:16:35.46,Default,,0000,0000,0000,,When did I say he wasn't?
+Dialogue: 0,0:16:35.46,0:16:39.89,Default,,0000,0000,0000,,--I meant he'd appear from the bathroom at night.\N--You misguided me!
+Dialogue: 0,0:16:43.31,0:16:44.60,Default,,0000,0000,0000,,Kin-{\i1}sama{\i0}!
+Dialogue: 0,0:16:44.60,0:16:45.85,Default,,0000,0000,0000,,Kiku!
+Dialogue: 0,0:16:47.31,0:16:49.84,Default,,0000,0000,0000,,You were back!
+Dialogue: 0,0:16:50.86,0:16:52.36,Default,,0000,0000,0000,,I really missed you!
+Dialogue: 0,0:16:52.36,0:16:54.24,Default,,0000,0000,0000,,And it made my body tremble!
+Dialogue: 0,0:16:54.24,0:16:55.70,Default,,0000,0000,0000,,Oh, okay...
+Dialogue: 0,0:16:55.70,0:17:01.37,Default,,0000,0000,0000,,Honestly! If you were back,\Nwhy didn't you tell me?!
+Dialogue: 0,0:17:01.70,0:17:04.50,Default,,0000,0000,0000,,I was worried about you!\NDon't be a stranger!
+Dialogue: 0,0:17:04.50,0:17:05.68,Default,,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:17:05.68,0:17:07.42,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0} is okay, too?
+Dialogue: 0,0:17:07.42,0:17:08.42,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:08.42,0:17:10.42,Default,,0000,0000,0000,,Momo's alive, too, huh?
+Dialogue: 0,0:17:10.88,0:17:13.90,Default,,0000,0000,0000,,Oh? Do Kiku and Kin know each other?
+Dialogue: 0,0:17:13.90,0:17:16.59,Default,,0000,0000,0000,,--Seems like they're very close.\N--What?
+Dialogue: 0,0:17:16.59,0:17:21.14,Default,,0000,0000,0000,,Kiku, why are you with Luffy-{\i1}dono{\i0}'s group?
+Dialogue: 0,0:17:21.14,0:17:24.44,Default,,0000,0000,0000,,What?! Don't tell me they're...
+Dialogue: 0,0:17:26.44,0:17:29.15,Default,,0000,0000,0000,,Who wants to hear the story\Nand where should I start?
+Dialogue: 0,0:17:32.65,0:17:34.34,Default,,0000,0000,0000,,You're right, Kiku!
+Dialogue: 0,0:17:34.34,0:17:38.16,Default,,0000,0000,0000,,They are our strong allies\Nto help us bring down Orochi!
+Dialogue: 0,0:17:38.16,0:17:40.95,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0} and Law-{\i1}dono{\i0}!
+Dialogue: 0,0:17:41.24,0:17:42.79,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:17:43.25,0:17:45.25,Default,,0000,0000,0000,,Hey, Luffy!
+Dialogue: 0,0:17:46.25,0:17:48.13,Default,,0000,0000,0000,,You arrived safely!
+Dialogue: 0,0:17:49.25,0:17:50.42,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0}?!
+Dialogue: 0,0:17:50.42,0:17:54.48,Default,,0000,0000,0000,,Luffy, I was just practicing my swordsmanship!
+Dialogue: 0,0:17:54.48,0:17:55.88,Default,,0000,0000,0000,,--Good!\N--Watch this!
+Dialogue: 0,0:17:59.18,0:18:01.78,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0}!\NI'm glad that you're okay!
+Dialogue: 0,0:18:01.78,0:18:04.14,Default,,0000,0000,0000,,Mm-hm. Kiku. It's been a while.
+Dialogue: 0,0:18:04.48,0:18:07.85,Default,,0000,0000,0000,,Is Dog Pops here in the Land of Wano, too, Momo?
+Dialogue: 0,0:18:07.85,0:18:09.06,Default,,0000,0000,0000,,What? Momo?!
+Dialogue: 0,0:18:09.44,0:18:12.84,Default,,0000,0000,0000,,It's rude to speak to Momonosuke-{\i1}sama{\i0}\Nwithout an honorific!
+Dialogue: 0,0:18:13.61,0:18:15.45,Default,,0000,0000,0000,,Oh, that's fine, Kiku.
+Dialogue: 0,0:18:15.45,0:18:16.86,Default,,0000,0000,0000,,What? Okay.
+Dialogue: 0,0:18:17.20,0:18:20.20,Default,,0000,0000,0000,,Of course, Dogstorm is here, too.
+Dialogue: 0,0:18:20.20,0:18:21.81,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:23.33,0:18:25.30,Default,,0000,0000,0000,,Then, it's just {\i1}them{\i0} left now.
+Dialogue: 0,0:18:26.04,0:18:29.59,Default,,0000,0000,0000,,Are we there yet? We walked a lot.
+Dialogue: 0,0:18:29.59,0:18:32.30,Default,,0000,0000,0000,,I wonder if Kin'emon and the others are there.
+Dialogue: 0,0:18:32.30,0:18:33.34,Default,,0000,0000,0000,,Me, too.
+Dialogue: 0,0:18:33.34,0:18:38.74,Default,,0000,0000,0000,,He said to look for castle ruins,\Nso this mountain's got to be it.
+Dialogue: 0,0:18:38.74,0:18:41.55,Default,,0000,0000,0000,,I'm glad that we got in touch with him!
+Dialogue: 0,0:18:45.77,0:18:47.52,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:49.60,0:18:51.70,Default,,0000,0000,0000,,Luffy, you're here!
+Dialogue: 0,0:18:52.31,0:18:53.82,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:18:53.82,0:18:56.24,Default,,0000,0000,0000,,Guys! Get over here!
+Dialogue: 0,0:18:56.24,0:18:57.60,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:18:57.60,0:18:59.95,Default,,0000,0000,0000,,I'm glad that you're okay!
+Dialogue: 0,0:19:01.66,0:19:03.49,Default,,0000,0000,0000,,Garchu!
+Dialogue: 0,0:19:04.24,0:19:07.63,Default,,0000,0000,0000,,Luffy!\NYou're dressed like a samurai! It's cool!
+Dialogue: 0,0:19:07.63,0:19:09.46,Default,,0000,0000,0000,,What took you guys so long?!
+Dialogue: 0,0:19:09.46,0:19:13.04,Default,,0000,0000,0000,,We were looking for you! Even on the sea bottom!
+Dialogue: 0,0:19:13.34,0:19:17.30,Default,,0000,0000,0000,,We found your Vivre Card\Nso we at least knew you were alive.
+Dialogue: 0,0:19:17.30,0:19:18.97,Default,,0000,0000,0000,,Onami!
+Dialogue: 0,0:19:18.97,0:19:20.10,Default,,0000,0000,0000,,Momo-{\i1}chan{\i0}!
+Dialogue: 0,0:19:20.10,0:19:22.72,Default,,0000,0000,0000,,Kin'emon-{\i1}san{\i0}, how are you now?
+Dialogue: 0,0:19:22.72,0:19:24.30,Default,,0000,0000,0000,,I'm getting by.
+Dialogue: 0,0:19:24.30,0:19:27.06,Default,,0000,0000,0000,,Momonosuke-{\i1}san{\i0}, you look good.
+Dialogue: 0,0:19:27.98,0:19:29.73,Default,,0000,0000,0000,,I thought so, you dirty brat!
+Dialogue: 0,0:19:29.73,0:19:32.98,Default,,0000,0000,0000,,So you've returned to the group, Sanji-{\i1}dono{\i0}.
+Dialogue: 0,0:19:32.98,0:19:35.30,Default,,0000,0000,0000,,Yeah, sorry to make you worry.
+Dialogue: 0,0:19:35.30,0:19:36.17,Default,,0000,0000,0000,,Kin-{\i1}san{\i0}!
+Dialogue: 0,0:19:38.90,0:19:43.03,Default,,0000,0000,0000,,Are these people Luffytaro-{\i1}san{\i0}'s friends?
+Dialogue: 0,0:19:43.03,0:19:45.72,Default,,0000,0000,0000,,What a lovely lady!
+Dialogue: 0,0:19:45.72,0:19:47.50,Default,,0000,0000,0000,,Crush, crush, crush...
+Dialogue: 0,0:19:47.50,0:19:48.49,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:48.75,0:19:51.29,Default,,0000,0000,0000,,That's enough! Get off of her!
+Dialogue: 0,0:19:51.29,0:19:52.91,Default,,0000,0000,0000,,You're rude, Bonekichi!
+Dialogue: 0,0:19:52.91,0:19:54.90,Default,,0000,0000,0000,,Leave him alone, Brook!
+Dialogue: 0,0:19:54.90,0:19:56.07,Default,,0000,0000,0000,,Right, Momo-{\i1}chan{\i0}?
+Dialogue: 0,0:19:56.38,0:19:58.76,Default,,0000,0000,0000,,--Onami...\N--Momo!
+Dialogue: 0,0:19:59.17,0:20:01.18,Default,,0000,0000,0000,,Momo!
+Dialogue: 0,0:20:01.18,0:20:04.30,Default,,0000,0000,0000,,They are all Luffy-{\i1}dono{\i0}'s friends!
+Dialogue: 0,0:20:04.68,0:20:06.98,Default,,0000,0000,0000,,The reliable people who will help us!
+Dialogue: 0,0:20:12.35,0:20:15.97,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0},\NI'm glad that he lightened up like that.
+Dialogue: 0,0:20:18.48,0:20:19.86,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:20:19.86,0:20:21.65,Default,,0000,0000,0000,,Oh, you guys.
+Dialogue: 0,0:20:22.15,0:20:23.49,Default,,0000,0000,0000,,How's Bepo doing?
+Dialogue: 0,0:20:23.49,0:20:27.03,Default,,0000,0000,0000,,He hasn't come out of the bush yet\Nbecause of the runs.
+Dialogue: 0,0:20:28.24,0:20:30.16,Default,,0000,0000,0000,,What's wrong with everyone?
+Dialogue: 0,0:20:31.91,0:20:32.83,Default,,0000,0000,0000,,Straw Hat-{\i1}ya{\i0}.
+Dialogue: 0,0:20:33.58,0:20:35.46,Default,,0000,0000,0000,,Let's have a talk inside.
+Dialogue: 0,0:20:35.46,0:20:36.42,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:36.42,0:20:39.67,Default,,0000,0000,0000,,We stole safe food from the farm.
+Dialogue: 0,0:20:39.67,0:20:42.31,Default,,0000,0000,0000,,So you're the one who did it!
+Dialogue: 0,0:20:44.59,0:20:48.10,Default,,0000,0000,0000,,This ruined castle will be our headquarters.
+Dialogue: 0,0:20:54.19,0:20:54.98,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:21:04.41,0:21:06.61,Default,,0000,0000,0000,,What a messy room!
+Dialogue: 0,0:21:06.61,0:21:08.41,Default,,0000,0000,0000,,I'm sorry, everyone...
+Dialogue: 0,0:21:19.04,0:21:21.59,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0}! Everyone!
+Dialogue: 0,0:21:21.59,0:21:24.30,Default,,0000,0000,0000,,Thank you for coming to the Land of Wano!
+Dialogue: 0,0:21:25.05,0:21:27.76,Default,,0000,0000,0000,,Once again, thank you very much!
+Dialogue: 0,0:21:27.76,0:21:30.37,Default,,0000,0000,0000,,--Don't mention it!\N--Yeah!
+Dialogue: 0,0:21:31.97,0:21:35.65,Default,,0000,0000,0000,,First, aside from Momonosuke-{\i1}sama{\i0}'s identity,
+Dialogue: 0,0:21:36.02,0:21:40.57,Default,,0000,0000,0000,,there is another thing that I haven't told you guys.
+Dialogue: 0,0:21:41.65,0:21:43.96,Default,,0000,0000,0000,,You guys have so many secrets!
+Dialogue: 0,0:21:43.96,0:21:47.53,Default,,0000,0000,0000,,Just tell us everything!\NWe're not strangers!
+Dialogue: 0,0:21:47.53,0:21:50.91,Default,,0000,0000,0000,,--He's right.\N--We're friends!
+Dialogue: 0,0:21:50.91,0:21:54.19,Default,,0000,0000,0000,,You're totally right... I'm sorry!
+Dialogue: 0,0:21:54.91,0:21:59.00,Default,,0000,0000,0000,,But you're not going to believe\Nwhat I'm about to say.
+Dialogue: 0,0:22:00.04,0:22:01.88,Default,,0000,0000,0000,,What is it? Just say it!
+Dialogue: 0,0:22:06.59,0:22:10.43,Default,,0000,0000,0000,,You know Kanjuro and Raizo.
+Dialogue: 0,0:22:10.43,0:22:13.03,Default,,0000,0000,0000,,And the three of us here.
+Dialogue: 0,0:22:13.43,0:22:15.31,Default,,0000,0000,0000,,The five of us altogether!
+Dialogue: 0,0:22:15.93,0:22:17.69,Default,,0000,0000,0000,,As a matter of fact,
+Dialogue: 0,0:22:19.40,0:22:21.55,Default,,0000,0000,0000,,we came from the past!
+Dialogue: 0,0:22:22.44,0:22:23.11,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:23.11,0:22:24.20,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:22:24.20,0:22:25.67,Default,,0000,0000,0000,,The past?
+Dialogue: 0,0:22:26.28,0:22:28.07,Default,,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:22:35.93,0:22:38.67,On Top,,0000,0000,0000,,GRAVE OF KOZUKI ODEN\NVASSAL KIN'EMON     KOZUKI MOMONOSUKE\NVASSAL KANJURO     VASSAL RAIZO
+Dialogue: 0,0:22:38.67,0:22:39.96,On Top,,0000,0000,0000,,KIN'EMON
+Dialogue: 0,0:22:39.96,0:22:41.21,On Top,,0000,0000,0000,,KANJURO
+Dialogue: 0,0:22:41.21,0:22:42.50,On Top,,0000,0000,0000,,RAIZO
+Dialogue: 0,0:22:42.50,0:22:43.73,On Top,,0000,0000,0000,,MOMONOSUKE
+Dialogue: 0,0:22:50.22,0:22:55.14,Default,,0000,0000,0000,,The thing is we came from\Nthe Land of Wano of 20 years ago...
+Dialogue: 0,0:22:56.27,0:23:00.31,Default,,0000,0000,0000,,...crossing through time\Nto the present Land of Wano!
+Dialogue: 0,0:23:03.82,0:23:04.48,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:23:06.40,0:23:09.11,Default,,0000,0000,0000,,Huuuuuuh?!
+Dialogue: 0,0:23:18.62,0:23:23.61,Italics,,0000,0000,0000,,{\i1}Momonosuke's father, Kozuki Oden, was a man who\Nmesmerized even Whitebeard!{\i0}
+Dialogue: 0,0:23:23.96,0:23:25.88,Italics,,0000,0000,0000,,{\i1}He was aggressive and daring!
+Dialogue: 0,0:23:25.88,0:23:27.40,Italics,,0000,0000,0000,,The man got out of the Land of Wano
+Dialogue: 0,0:23:27.40,0:23:31.11,Italics,,0000,0000,0000,,and saw the ends of the world along with the King of the Pirates!{\i0}
+Dialogue: 0,0:23:31.11,0:23:36.14,Default,,0000,0000,0000,,{\i1}His horrific final moments make Luffy and the others wail!{\i0}
+Dialogue: 0,0:23:36.14,0:23:40.77,Default,,0000,0000,0000,,On the next episode of One Piece!\N"A Legendary Samurai! The Man Who Roger Admired!"
+Dialogue: 0,0:23:40.77,0:23:43.13,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.25,0:23:46.25,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.25,0:23:48.25,On Top,,0000,0000,0000,,

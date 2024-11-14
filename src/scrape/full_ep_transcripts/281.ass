@@ -1,0 +1,336 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:15.55,0:00:17.51,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:17.51,0:00:19.30,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:19.30,0:00:21.31,Default,,0000,0000,0000,,attained everything this world has to offer.
+Dialogue: 0,0:00:21.31,0:00:25.02,Default,,0000,0000,0000,,The words he uttered just before\Nhis death drove people to the seas.
+Dialogue: 0,0:00:25.02,0:00:28.81,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:00:28.81,0:00:32.38,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:34.90,0:00:39.66,Default,,0000,0000,0000,,And so men head for the Grand Line\Nin pursuit of their dreams!
+Dialogue: 0,0:00:39.66,0:00:42.57,Default,,0000,0000,0000,,The world has truly\Nentered a Great Pirate Era!
+Dialogue: 0,0:00:43.51,0:00:49.12,Italics,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:00:49.12,0:00:54.94,Italics,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:00:54.94,0:00:56.44,Italics,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:01:01.07,0:01:06.69,Italics,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:01:06.69,0:01:12.46,Italics,,0000,0000,0000,,Delirious with fever,\NI take the helm
+Dialogue: 0,0:01:12.46,0:01:24.58,Italics,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it's not a legend!
+Dialogue: 0,0:01:24.58,0:01:30.21,Italics,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:30.21,0:01:35.59,Italics,,0000,0000,0000,,simply ride aboard\Nsomeone else's biorhythm
+Dialogue: 0,0:01:35.59,0:01:38.01,Italics,,0000,0000,0000,,and pretend it isn't there!
+Dialogue: 0,0:01:39.29,0:01:44.81,Italics,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:01:44.81,0:01:50.32,Italics,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:01:50.32,0:01:56.58,Italics,,0000,0000,0000,,A coin in my pocket,\Nand do you wanna be my friend?
+Dialogue: 0,0:01:56.58,0:02:01.97,Italics,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:02:01.97,0:02:03.87,Italics,,0000,0000,0000,,We are!
+Dialogue: 0,0:02:05.73,0:02:06.52,Default,Default,0000,0000,0000,,Robin!
+Dialogue: 0,0:02:07.29,0:02:08.98,Default,Default,0000,0000,0000,,We're gonna rescue you for sure!
+Dialogue: 0,0:02:12.69,0:02:14.24,Default,Default,0000,0000,0000,,The drawbridge is coming down!
+Dialogue: 0,0:02:28.81,0:02:30.39,Default,Default,0000,0000,0000,,Robin...
+Dialogue: 0,0:02:30.39,0:02:31.67,Default,Default,0000,0000,0000,,It must've been really hard.
+Dialogue: 0,0:02:38.36,0:02:40.70,Default,Default,0000,0000,0000,,But you're not alone anymore.
+Dialogue: 0,0:02:40.70,0:02:42.60,Default,Default,0000,0000,0000,,You've got us.
+Dialogue: 0,0:02:42.95,0:02:45.83,Default,Default,0000,0000,0000,,Nami would never kill Usopp!
+Dialogue: 0,0:02:45.83,0:02:47.81,Default,Default,0000,0000,0000,,We're friends!
+Dialogue: 0,0:02:48.66,0:02:50.78,Default,Default,0000,0000,0000,,Who're friends, Luffy?
+Dialogue: 0,0:02:51.29,0:02:52.67,Default,Default,0000,0000,0000,,Nami!
+Dialogue: 0,0:02:52.67,0:02:53.74,Default,Default,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:02:54.33,0:02:58.86,Default,Default,0000,0000,0000,,What're you talking about?\NYou're our friend! We came to get you!
+Dialogue: 0,0:02:58.86,0:03:00.17,Default,Default,0000,0000,0000,,You're a big problem.
+Dialogue: 0,0:03:00.17,0:03:00.95,Default,Default,0000,0000,0000,,Nami?
+Dialogue: 0,0:03:01.38,0:03:04.22,Default,Default,0000,0000,0000,,Friends? Don't make me laugh!
+Dialogue: 0,0:03:04.22,0:03:07.00,Default,Default,0000,0000,0000,,You're just a pathetic bunch of\Npeople cooperating with each other.
+Dialogue: 0,0:03:09.22,0:03:13.94,Default,Default,0000,0000,0000,,"A Bond of Friendship Woven\Nby Tears! Nami's World Map"
+Dialogue: 0,0:03:30.08,0:03:31.72,Default,Default,0000,0000,0000,,You really know how to trash a place.
+Dialogue: 0,0:03:32.37,0:03:34.83,Default,Default,0000,0000,0000,,What's wrong, Nami?
+Dialogue: 0,0:03:34.83,0:03:37.45,Default,Default,0000,0000,0000,,Nothing. I'm just here to rest a little.
+Dialogue: 0,0:03:38.96,0:03:43.84,Default,Default,0000,0000,0000,,Breaking glass and furniture\Njust to rest is a bit much.
+Dialogue: 0,0:03:46.05,0:03:49.95,Default,Default,0000,0000,0000,,You have that treasure map open,\Neven though nothing's wrong?
+Dialogue: 0,0:03:50.27,0:03:52.63,Default,Default,0000,0000,0000,,Something happened to make me mad, that's all!
+Dialogue: 0,0:03:54.99,0:03:56.85,Default,Default,0000,0000,0000,,Them, huh? Who are they?
+Dialogue: 0,0:03:57.39,0:03:58.21,Default,Default,0000,0000,0000,,You met them?!
+Dialogue: 0,0:03:58.57,0:04:01.78,Default,Default,0000,0000,0000,,Yeah. Some Captain Something-or-Other.
+Dialogue: 0,0:04:01.78,0:04:03.55,Default,Default,0000,0000,0000,,He seemed kind of liar-ish, though.
+Dialogue: 0,0:04:05.07,0:04:10.70,Default,Default,0000,0000,0000,,I hear you smiled happily when\Nyou were traveling with them.
+Dialogue: 0,0:04:10.70,0:04:14.25,Default,Default,0000,0000,0000,,Even though I haven't\Nseen you like that in years.
+Dialogue: 0,0:04:16.04,0:04:18.39,Default,Default,0000,0000,0000,,Talk to me! Who are those guys?
+Dialogue: 0,0:04:22.59,0:04:25.62,Default,Default,0000,0000,0000,,We agreed you could tell\Nme anything, remember?
+Dialogue: 0,0:04:31.39,0:04:35.85,Default,Default,0000,0000,0000,,I had planned to forget about them...
+Dialogue: 0,0:04:39.73,0:04:43.01,Default,Default,0000,0000,0000,,I thought I had erased them from my mind.
+Dialogue: 0,0:04:43.32,0:04:48.57,Default,Default,0000,0000,0000,,Who do you take your friends for?!
+Dialogue: 0,0:05:08.76,0:05:15.09,Default,Default,0000,0000,0000,,I honestly felt like always being\Nwith them, if it were possible.
+Dialogue: 0,0:05:22.02,0:05:23.27,Default,Default,0000,0000,0000,,Now I see...
+Dialogue: 0,0:05:24.94,0:05:27.20,Default,Default,0000,0000,0000,,Yeah, that'd hit you hard.
+Dialogue: 0,0:05:27.20,0:05:31.03,Default,Default,0000,0000,0000,,To think that someone\Nreally showed up for her...
+Dialogue: 0,0:05:34.62,0:05:36.20,Default,Default,0000,0000,0000,,Friends, huh?
+Dialogue: 0,0:05:38.58,0:05:45.76,Default,Default,0000,0000,0000,,The most painful word for her...
+Dialogue: 0,0:05:47.22,0:05:49.18,Default,Default,0000,0000,0000,,What's wrong, girlie?
+Dialogue: 0,0:05:54.68,0:05:58.51,Default,Default,0000,0000,0000,,Do you want me to return\Nthe village that badly?
+Dialogue: 0,0:06:00.98,0:06:04.40,Default,Default,0000,0000,0000,,Then how's this? Let's make an agreement.
+Dialogue: 0,0:06:04.40,0:06:05.82,Default,Default,0000,0000,0000,,Agreement?
+Dialogue: 0,0:06:05.82,0:06:07.03,Default,Default,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:07.03,0:06:10.03,Default,Default,0000,0000,0000,,Gather up 100 million Berries and bring it here.
+Dialogue: 0,0:06:10.03,0:06:14.01,Default,Default,0000,0000,0000,,Do so and I'll let the village\Ngo and give you freedom.
+Dialogue: 0,0:06:14.29,0:06:15.23,Default,Default,0000,0000,0000,,Honest?!
+Dialogue: 0,0:06:15.49,0:06:17.20,Default,Default,0000,0000,0000,,Honest!
+Dialogue: 0,0:06:17.20,0:06:21.63,Default,Default,0000,0000,0000,,I'd die before I'd break an\Nagreement concerning money.
+Dialogue: 0,0:06:21.63,0:06:25.20,Default,Default,0000,0000,0000,,It doesn't matter how many years\Nit takes. I'll honor our agreement.
+Dialogue: 0,0:06:30.97,0:06:33.53,Default,Default,0000,0000,0000,,I absolutely will save up 100 million Berries!
+Dialogue: 0,0:06:34.89,0:06:36.37,Default,Default,0000,0000,0000,,Arlong!
+Dialogue: 0,0:06:38.48,0:06:45.11,Default,Default,0000,0000,0000,,Oh? What's wrong, skilled surveyor\Nof ours? Why the angry look?
+Dialogue: 0,0:06:47.11,0:06:50.97,Default,Default,0000,0000,0000,,The Navy men you have under\Nyour control stole all my money!
+Dialogue: 0,0:06:51.86,0:06:56.24,Default,Default,0000,0000,0000,,What happened to dying before\Nbreaking promises about money?!
+Dialogue: 0,0:06:56.24,0:06:57.37,Default,Default,0000,0000,0000,,Why?!
+Dialogue: 0,0:06:57.37,0:06:59.70,Default,Default,0000,0000,0000,,When did I break our promise?
+Dialogue: 0,0:07:00.04,0:07:03.14,Default,Default,0000,0000,0000,,Don't play dumb! You teamed\Nup with the Navy to--!
+Dialogue: 0,0:07:05.25,0:07:08.96,Default,Default,0000,0000,0000,,When did I break our promise? Let's hear it!
+Dialogue: 0,0:07:17.18,0:07:21.02,Default,Default,0000,0000,0000,,Damn you... Damn you! Damn you!
+Dialogue: 0,0:07:23.06,0:07:28.61,Default,Default,0000,0000,0000,,I see! So your money's been stolen?\NHow unfortunate.
+Dialogue: 0,0:07:28.61,0:07:30.94,Default,Default,0000,0000,0000,,But an agreement is an agreement.
+Dialogue: 0,0:07:30.94,0:07:33.99,Default,Default,0000,0000,0000,,If you can't gather up\N100 million Berries for me to see,
+Dialogue: 0,0:07:33.99,0:07:37.95,Default,Default,0000,0000,0000,,I'm afraid I can't give you the village back.
+Dialogue: 0,0:07:39.53,0:07:40.43,Default,Default,0000,0000,0000,,Scum!
+Dialogue: 0,0:07:43.67,0:07:47.95,Default,Default,0000,0000,0000,,It's only 100 million Berries!\NJust start saving up again!
+Dialogue: 0,0:07:51.46,0:07:54.09,Default,Default,0000,0000,0000,,Or are you gonna run out on me?
+Dialogue: 0,0:07:55.89,0:08:00.67,Default,Default,0000,0000,0000,,But if you do run away, I'll kill\Neveryone in Cocoyashi Village.
+Dialogue: 0,0:08:04.52,0:08:05.81,Default,Default,0000,0000,0000,,Nami...
+Dialogue: 0,0:08:05.81,0:08:08.61,Default,Default,0000,0000,0000,,We pretended we didn't know.
+Dialogue: 0,0:08:08.61,0:08:11.69,Default,Default,0000,0000,0000,,Because our hopes would keep you\Nfrom running away from Arlong
+Dialogue: 0,0:08:11.69,0:08:15.16,Default,Default,0000,0000,0000,,if you ever decided to.
+Dialogue: 0,0:08:22.00,0:08:24.56,Default,Default,0000,0000,0000,,No more of this! Take up\Nyour weapons! Let's fight!
+Dialogue: 0,0:08:24.91,0:08:28.04,Default,Default,0000,0000,0000,,Eight years ago, we swore\Nnot to throw away our lives!
+Dialogue: 0,0:08:28.04,0:08:30.57,Default,Default,0000,0000,0000,,No matter how painful and insulting\Nit was to be ruled by them,
+Dialogue: 0,0:08:31.25,0:08:36.07,Default,Default,0000,0000,0000,,we swore to fight the patient fight\Nas long as Nami was cheerful!
+Dialogue: 0,0:08:36.07,0:08:38.75,Default,Default,0000,0000,0000,,But this is their answer!
+Dialogue: 0,0:08:39.22,0:08:43.71,Default,Default,0000,0000,0000,,Now that our village's chance for\Nfreedom is gone, we have no hope!
+Dialogue: 0,0:08:43.71,0:08:44.71,Default,Default,0000,0000,0000,,More than that,
+Dialogue: 0,0:08:45.19,0:08:49.63,Default,Default,0000,0000,0000,,we must make those fishmen pay\Nfor toying with that girl's kindness!
+Dialogue: 0,0:08:49.63,0:08:50.43,Default,Default,0000,0000,0000,,Any objections?!
+Dialogue: 0,0:08:50.69,0:08:52.58,Default,Default,0000,0000,0000,,Of course not! Let's go!
+Dialogue: 0,0:08:53.69,0:08:55.08,Default,Default,0000,0000,0000,,Wait, everyone!
+Dialogue: 0,0:08:57.41,0:08:58.63,Default,Default,0000,0000,0000,,Nami!
+Dialogue: 0,0:09:02.02,0:09:06.48,Default,Default,0000,0000,0000,,Just a little more! Just wait a\Nlittle more! I'll work hard again!
+Dialogue: 0,0:09:07.33,0:09:09.31,Default,Default,0000,0000,0000,,I'll save up the money again!
+Dialogue: 0,0:09:09.81,0:09:11.44,Default,Default,0000,0000,0000,,It'll be easy this time!
+Dialogue: 0,0:09:11.82,0:09:15.73,Default,Default,0000,0000,0000,,I'm used to it! I'll be fine!\NThere's no need to worry at all!
+Dialogue: 0,0:09:16.76,0:09:19.13,Default,Default,0000,0000,0000,,This is nothing compared to back then!
+Dialogue: 0,0:09:21.51,0:09:23.38,Default,Default,0000,0000,0000,,Please, no more dying!
+Dialogue: 0,0:09:23.89,0:09:27.58,Default,Default,0000,0000,0000,,Everyone! I'm fine! I'm just fine!
+Dialogue: 0,0:09:35.40,0:09:36.90,Default,Default,0000,0000,0000,,You can stop now...
+Dialogue: 0,0:09:36.90,0:09:38.81,Default,Default,0000,0000,0000,,Even you know there's no point now...
+Dialogue: 0,0:09:39.91,0:09:44.14,Default,Default,0000,0000,0000,,You fought very well, carrying our\Nlives on your back all this time...
+Dialogue: 0,0:09:44.58,0:09:47.79,Default,Default,0000,0000,0000,,Joining them must've been\Neven more painful for you
+Dialogue: 0,0:09:47.79,0:09:50.15,Default,Default,0000,0000,0000,,than being cut through the heart...
+Dialogue: 0,0:09:51.54,0:09:53.55,Default,Default,0000,0000,0000,,You fought very well.
+Dialogue: 0,0:09:55.26,0:09:56.76,Default,Default,0000,0000,0000,,Gen-san...
+Dialogue: 0,0:10:02.64,0:10:04.54,Default,Default,0000,0000,0000,,Leave the village now.
+Dialogue: 0,0:10:06.15,0:10:06.99,Default,Default,0000,0000,0000,,Gen-san?!
+Dialogue: 0,0:10:08.06,0:10:09.81,Default,Default,0000,0000,0000,,Do it, Nami.
+Dialogue: 0,0:10:09.81,0:10:10.84,Default,Default,0000,0000,0000,,W-What?!
+Dialogue: 0,0:10:11.65,0:10:12.77,Default,Default,0000,0000,0000,,Nacchan...
+Dialogue: 0,0:10:12.77,0:10:13.70,Default,Default,0000,0000,0000,,Nami...
+Dialogue: 0,0:10:14.94,0:10:18.04,Default,Default,0000,0000,0000,,You're crafty, and you have a dream.
+Dialogue: 0,0:10:18.39,0:10:19.82,Default,Default,0000,0000,0000,,Nojiko! Everyone!
+Dialogue: 0,0:10:21.29,0:10:22.64,Default,Default,0000,0000,0000,,I won't let you go!
+Dialogue: 0,0:10:23.95,0:10:28.18,Default,Default,0000,0000,0000,,Stop it, everyone! I don't want to\Nsee anyone else get hurt by them!
+Dialogue: 0,0:10:30.92,0:10:32.00,Default,Default,0000,0000,0000,,You'll die, you know!
+Dialogue: 0,0:10:33.04,0:10:34.27,Default,Default,0000,0000,0000,,We know.
+Dialogue: 0,0:10:41.43,0:10:44.59,Default,Default,0000,0000,0000,,It's no use! We've made up our minds!
+Dialogue: 0,0:10:48.34,0:10:49.87,Default,Default,0000,0000,0000,,Get out of our way, Nami!
+Dialogue: 0,0:10:52.39,0:10:53.86,Default,Default,0000,0000,0000,,Let's go, everyone!
+Dialogue: 0,0:10:53.86,0:10:57.11,Default,Default,0000,0000,0000,,Even if we can't win,\Nlet's show 'em what we're made of!
+Dialogue: 0,0:11:38.53,0:11:41.39,Default,Default,0000,0000,0000,,Arlong! Arlong!
+Dialogue: 0,0:11:43.70,0:11:45.72,Default,Default,0000,0000,0000,,Arlong! Arlong!
+Dialogue: 0,0:11:45.99,0:11:47.58,Default,Default,0000,0000,0000,,Arlong!
+Dialogue: 0,0:11:55.21,0:11:56.53,Default,Default,0000,0000,0000,,Luffy...
+Dialogue: 0,0:11:59.88,0:12:03.42,Default,Default,0000,0000,0000,,What do you want?!\NYou don't even know anything!
+Dialogue: 0,0:12:03.42,0:12:07.22,Default,Default,0000,0000,0000,,You don't even know what's happened\Non this island the past eight years!
+Dialogue: 0,0:12:07.22,0:12:08.83,Default,Default,0000,0000,0000,,Yeah. I don't know.
+Dialogue: 0,0:12:09.93,0:12:11.68,Default,Default,0000,0000,0000,,This has nothing to do with you!
+Dialogue: 0,0:12:12.52,0:12:15.12,Default,Default,0000,0000,0000,,I told you, leave the damn island already!
+Dialogue: 0,0:12:15.12,0:12:17.01,Default,Default,0000,0000,0000,,Yeah. You told me.
+Dialogue: 0,0:12:17.01,0:12:19.86,Default,Default,0000,0000,0000,,Leave! I don't need you!
+Dialogue: 0,0:12:19.86,0:12:23.24,Default,Default,0000,0000,0000,,Leave! Leave! Leave! Leave!
+Dialogue: 0,0:12:23.24,0:12:26.78,Default,Default,0000,0000,0000,,Leave! Leave! Leave!
+Dialogue: 0,0:12:26.78,0:12:28.53,Default,Default,0000,0000,0000,,Leave!
+Dialogue: 0,0:12:49.43,0:12:51.56,Default,Default,0000,0000,0000,,Luffy...
+Dialogue: 0,0:12:51.56,0:12:53.35,Default,Default,0000,0000,0000,,Help me...
+Dialogue: 0,0:13:08.41,0:13:10.77,Default,Default,0000,0000,0000,,Of course I will!
+Dialogue: 0,0:13:13.79,0:13:15.85,Default,Default,0000,0000,0000,,Don't touch my treasure!
+Dialogue: 0,0:13:18.15,0:13:19.31,Default,Default,0000,0000,0000,,Luffy...
+Dialogue: 0,0:13:28.02,0:13:28.79,Default,Default,0000,0000,0000,,Let's go.
+Dialogue: 0,0:13:30.47,0:13:31.54,Default,Default,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:47.82,0:13:49.25,Default,Default,0000,0000,0000,,What the...?!
+Dialogue: 0,0:13:51.95,0:13:54.05,Default,Default,0000,0000,0000,,Which one of you is Arlong?!
+Dialogue: 0,0:14:10.12,0:14:11.96,Default,Default,0000,0000,0000,,You can no longer escape.
+Dialogue: 0,0:14:13.01,0:14:16.62,Default,Default,0000,0000,0000,,This is the top floor of Arlong Park.
+Dialogue: 0,0:14:17.23,0:14:19.37,Default,Default,0000,0000,0000,,What's this room?
+Dialogue: 0,0:14:19.37,0:14:20.49,Default,Default,0000,0000,0000,,Full of papers...
+Dialogue: 0,0:14:20.98,0:14:23.02,Default,Default,0000,0000,0000,,These're not just ordinary papers.
+Dialogue: 0,0:14:23.02,0:14:26.97,Default,Default,0000,0000,0000,,This room is where I make that\Nwoman draw sea charts. It's...
+Dialogue: 0,0:14:28.69,0:14:29.93,Default,Default,0000,0000,0000,,...the survey room!
+Dialogue: 0,0:14:30.66,0:14:32.20,Default,Default,0000,0000,0000,,Nami's room...
+Dialogue: 0,0:14:32.20,0:14:36.10,Default,Default,0000,0000,0000,,These're all sea charts that Nami drew.
+Dialogue: 0,0:14:36.54,0:14:42.43,Default,Default,0000,0000,0000,,She's going to continue drawing\Nsea charts! For my ambition!
+Dialogue: 0,0:14:42.43,0:14:46.11,Default,Default,0000,0000,0000,,And once her charts give me full\Nknowledge of all the world's seas...
+Dialogue: 0,0:14:46.12,0:14:52.03,Default,Default,0000,0000,0000,,...we fishmen will be invincible,\Nand the world will become our empire!
+Dialogue: 0,0:14:52.30,0:14:57.00,Default,Default,0000,0000,0000,,Our first stepping stone is\Nthis island... and the East Blue!
+Dialogue: 0,0:14:59.79,0:15:04.39,Default,Default,0000,0000,0000,,Could you use the girl as efficiently as that?!
+Dialogue: 0,0:15:06.13,0:15:07.30,Default,Default,0000,0000,0000,,"Use"?!
+Dialogue: 0,0:15:10.05,0:15:10.77,Default,Default,0000,0000,0000,,What's that?!
+Dialogue: 0,0:15:13.84,0:15:14.89,Default,Default,0000,0000,0000,,A desk...
+Dialogue: 0,0:15:16.52,0:15:18.26,Default,Default,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:15:20.59,0:15:23.99,Default,Default,0000,0000,0000,,What in the...?! There's an\Nawful lot of stuff flying!
+Dialogue: 0,0:15:35.20,0:15:36.29,Default,Default,0000,0000,0000,,Stop that!
+Dialogue: 0,0:15:38.33,0:15:39.42,Default,Default,0000,0000,0000,,The charts!
+Dialogue: 0,0:15:41.37,0:15:42.76,Default,Default,0000,0000,0000,,M-My charts!
+Dialogue: 0,0:15:51.61,0:15:54.78,Default,Default,0000,0000,0000,,This... is a pretty intense fight!
+Dialogue: 0,0:15:54.78,0:15:57.25,Default,Default,0000,0000,0000,,Yeah! Looks like a fight to the death!
+Dialogue: 0,0:15:57.25,0:15:58.19,Default,Default,0000,0000,0000,,Definitely!
+Dialogue: 0,0:16:06.72,0:16:08.08,Default,Default,0000,0000,0000,,Thank you...
+Dialogue: 0,0:16:25.91,0:16:28.80,Default,Default,0000,0000,0000,,You've gone too far, you damn rubber man!
+Dialogue: 0,0:16:30.73,0:16:37.62,Default,Default,0000,0000,0000,,"Fishmen are great" and "sea charts" this,\N"circumstances" that...
+Dialogue: 0,0:16:37.62,0:16:40.49,Default,Default,0000,0000,0000,,I don't know much about any of that stuff...
+Dialogue: 0,0:16:40.49,0:16:44.83,Default,Default,0000,0000,0000,,But I finally figured out how to save her!
+Dialogue: 0,0:16:50.55,0:16:53.67,Default,Default,0000,0000,0000,,She can't go because this room is here!
+Dialogue: 0,0:16:53.67,0:16:58.41,Default,Default,0000,0000,0000,,If she doesn't want to be here,\Nthen I'll just destroy it all!
+Dialogue: 0,0:16:59.36,0:17:01.29,Default,Default,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:03.56,0:17:05.39,Default,Default,0000,0000,0000,,...Battle-Axe!
+Dialogue: 0,0:17:21.48,0:17:22.87,Default,Default,0000,0000,0000,,Impossible! It's gonna collapse!
+Dialogue: 0,0:17:22.87,0:17:24.49,Default,Default,0000,0000,0000,,This is dangerous! Everyone, get away!
+Dialogue: 0,0:17:25.93,0:17:27.33,Default,Default,0000,0000,0000,,Big Sis Nami! Hurry!
+Dialogue: 0,0:17:27.33,0:17:28.50,Default,Default,0000,0000,0000,,But Luffy's still inside!
+Dialogue: 0,0:17:28.50,0:17:30.70,Default,Default,0000,0000,0000,,--Big Sis!\N--Luffy! Luffy's still...!
+Dialogue: 0,0:17:35.10,0:17:37.59,Default,Default,0000,0000,0000,,Luffy!
+Dialogue: 0,0:17:46.68,0:17:47.83,Default,Default,0000,0000,0000,,Luffy...
+Dialogue: 0,0:17:49.49,0:17:51.14,Default,Default,0000,0000,0000,,Which one won?!
+Dialogue: 0,0:17:51.14,0:17:54.33,Default,Default,0000,0000,0000,,Given all this debris... Don't tell me it was--!
+Dialogue: 0,0:17:55.71,0:17:57.11,Default,Default,0000,0000,0000,,Luffy...
+Dialogue: 0,0:18:11.48,0:18:12.49,Default,Default,0000,0000,0000,,Luffy!
+Dialogue: 0,0:18:12.49,0:18:16.07,Default,Default,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:18:24.91,0:18:27.50,Default,Default,0000,0000,0000,,Is he okay?!
+Dialogue: 0,0:18:33.63,0:18:35.43,Default,Default,0000,0000,0000,,Nami!
+Dialogue: 0,0:18:43.68,0:18:46.69,Default,Default,0000,0000,0000,,You're my friend!
+Dialogue: 0,0:18:59.53,0:19:00.53,Default,Default,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:03.79,0:19:06.37,Default,Default,0000,0000,0000,,My friends helped me.
+Dialogue: 0,0:19:07.87,0:19:11.54,Default,Default,0000,0000,0000,,This time, I'll fight for one of my friends, too.
+Dialogue: 0,0:19:11.54,0:19:16.34,Default,Default,0000,0000,0000,,So, Robin, have faith in us... in Luffy!
+Dialogue: 0,0:19:16.34,0:19:18.59,Default,Default,0000,0000,0000,,He'll respond to your feelings without fail.
+Dialogue: 0,0:19:21.18,0:19:24.68,Default,Default,0000,0000,0000,,Hey, pirates! What're you\Nguys wasting time for?!
+Dialogue: 0,0:19:32.01,0:19:33.52,Default,Default,0000,0000,0000,,Huh? What's the meaning of that smile?
+Dialogue: 0,0:19:40.57,0:19:42.15,Default,Default,0000,0000,0000,,Here we go!
+Dialogue: 0,0:19:42.28,0:19:44.08,Default,Default,0000,0000,0000,,I knew it!
+Dialogue: 0,0:19:48.00,0:19:50.00,Default,Default,0000,0000,0000,,Nooo!
+Dialogue: 0,0:19:54.72,0:19:58.20,Default,,0000,0000,0000,,"Straw Hat Theater"
+Dialogue: 0,0:19:58.43,0:19:59.59,Default,,0000,0000,0000,,"Part 3"
+Dialogue: 0,0:19:59.72,0:20:02.89,Default,,0000,0000,0000,,[Obahan: Middle-aged Woman]
+Dialogue: 0,0:20:04.68,0:20:07.69,Default,,0000,0000,0000,,"If the Straw Hats were\Nall middle-aged women..."
+Dialogue: 0,0:20:07.69,0:20:10.65,Default,,0000,0000,0000,,"...who would be the strongest?!"
+Dialogue: 0,0:20:15.02,0:20:16.49,Default,,0000,0000,0000,,"Luffizaki"
+Dialogue: 0,0:20:16.94,0:20:19.32,Default,Default,0000,0000,0000,,Oh, dear! I'm out of soy sauce!
+Dialogue: 0,0:20:19.32,0:20:21.28,Default,Default,0000,0000,0000,,And here I was gonna make\Nsoy sauce meat steak,
+Dialogue: 0,0:20:21.28,0:20:23.87,Default,Default,0000,0000,0000,,meat salad and meat miso soup today...!
+Dialogue: 0,0:20:21.33,0:20:23.86,OS,,0000,0000,0000,,"Today's menu\Nsoy sauce meat steak\Nmeat salad (no veggies) \Nmeat miso soup (without soup)"
+Dialogue: 0,0:20:24.74,0:20:26.16,Default,Default,0000,0000,0000,,Pardon me, I'm coming in, okay?
+Dialogue: 0,0:20:26.16,0:20:28.96,Default,Default,0000,0000,0000,,Hey, Zoroyama-san, I'm out of soy sauce.
+Dialogue: 0,0:20:28.96,0:20:30.76,Default,Default,0000,0000,0000,,Now, be a dearie and spare\Nme some, would you? Whoa!
+Dialogue: 0,0:20:32.83,0:20:35.46,Default,Default,0000,0000,0000,,That gave me a start!\NHey, are you in the middle of training?
+Dialogue: 0,0:20:35.46,0:20:37.51,Default,Default,0000,0000,0000,,Oh, dearie me, if it isn't Luffizaki-san.
+Dialogue: 0,0:20:37.51,0:20:41.14,Default,Default,0000,0000,0000,,My, no, I'm not training.\NWe're having sashimi today...
+Dialogue: 0,0:20:41.59,0:20:43.80,Default,Default,0000,0000,0000,,...so I was just cutting some raw fish.
+Dialogue: 0,0:20:43.80,0:20:45.60,Default,Default,0000,0000,0000,,My, my, seems like you cut the whole kitchen.
+Dialogue: 0,0:20:45.60,0:20:46.81,Default,Default,0000,0000,0000,,Oh, that's right, soy sauce!
+Dialogue: 0,0:20:47.31,0:20:49.43,Default,Default,0000,0000,0000,,We're... all out, too.
+Dialogue: 0,0:20:49.43,0:20:51.05,Default,Default,0000,0000,0000,,Oh, my, your bottle's been cut in two.
+Dialogue: 0,0:20:51.07,0:20:53.07,Default,,0000,0000,0000,,"Supermarket Isoflavone"
+Dialogue: 0,0:20:53.17,0:20:54.51,Default,Default,0000,0000,0000,,Ma'am, you can't do that.
+Dialogue: 0,0:20:54.73,0:20:57.44,Default,Default,0000,0000,0000,,Oh, my word... My word...!\NThis ham is the bee's knees!
+Dialogue: 0,0:20:57.44,0:20:59.28,Default,Default,0000,0000,0000,,This one with the cheese wrapped\Nin ham is simply to die for!
+Dialogue: 0,0:20:59.28,0:21:01.24,Default,Default,0000,0000,0000,,Be a dear and get me some jam.
+Dialogue: 0,0:21:01.24,0:21:10.08,OS,,0000,0000,0000,,"Sampling"\N"Half Price"\N"Ham"
+Dialogue: 0,0:21:01.40,0:21:05.28,Default,Default,0000,0000,0000,,Ma'am, you can't bring rice\Ninto the sampling section!
+Dialogue: 0,0:21:05.28,0:21:08.29,Default,Default,0000,0000,0000,,Why?! Come now,\NLuffizaki-san does this all the time!
+Dialogue: 0,0:21:08.29,0:21:10.08,Default,Default,0000,0000,0000,,She's always causing us trouble, too!
+Dialogue: 0,0:21:10.29,0:21:13.50,Default,Default,0000,0000,0000,,Can it! Now bring me some\Nsweet jam for this ham!
+Dialogue: 0,0:21:13.50,0:21:15.63,Default,Default,0000,0000,0000,,Make it sweet and tasty!
+Dialogue: 0,0:21:16.71,0:21:18.92,Default,Default,0000,0000,0000,,It's the grabby fiend, Sanjida!
+Dialogue: 0,0:21:19.30,0:21:23.80,Default,Default,0000,0000,0000,,My, my! Just what is the problem?\NWe're all ladies here.
+Dialogue: 0,0:21:23.80,0:21:26.00,Default,Default,0000,0000,0000,,Hey, you! Let me touch your butt!
+Dialogue: 0,0:21:28.01,0:21:30.18,Default,Default,0000,0000,0000,,--Enough of that, you two!\N--Oh, no, Mellorine...
+Dialogue: 0,0:21:30.18,0:21:33.44,Default,Default,0000,0000,0000,,Oh, good! It's the middle-aged woman\Nof once-a-month justice, Namijima-san!
+Dialogue: 0,0:21:33.44,0:21:35.56,Default,Default,0000,0000,0000,,She forgets her own faults and tells off
+Dialogue: 0,0:21:35.56,0:21:38.52,Default,Default,0000,0000,0000,,the middle-aged woman pirate gang\Nonce a month for some reason!
+Dialogue: 0,0:21:40.36,0:21:42.45,Default,Default,0000,0000,0000,,Hey, hey, hey, hey...!
+Dialogue: 0,0:21:43.28,0:21:45.49,Default,Default,0000,0000,0000,,Hey, hey, Luffizaki-san!\NHave I got news for you!
+Dialogue: 0,0:21:45.49,0:21:47.37,Default,Default,0000,0000,0000,,The supermarket in front of the train\Nstation has some super bargains!
+Dialogue: 0,0:21:47.37,0:21:48.78,Default,Default,0000,0000,0000,,The meat is freakin' cheap, too!
+Dialogue: 0,0:21:48.78,0:21:50.91,Default,Default,0000,0000,0000,,Meat is?! Usokawa-san,\Nyou aren't fooling me, are you?!
+Dialogue: 0,0:21:50.91,0:21:52.45,Default,Default,0000,0000,0000,,Yeah, I was lying. I brought you the circular.
+Dialogue: 0,0:21:51.54,0:21:52.46,OS,,0000,0000,0000,,"Circular"
+Dialogue: 0,0:21:52.45,0:21:54.67,Default,Default,0000,0000,0000,,--Oh, phooey!\N--But forget that, I have terrible news!
+Dialogue: 0,0:21:54.67,0:21:58.00,Default,Default,0000,0000,0000,,Chopamori-san and Sanjida-san\Nwere caught at the supermarket.
+Dialogue: 0,0:21:58.00,0:22:01.13,Default,Default,0000,0000,0000,,--Ah, I need some tea!\N--Oh, dear! Could it be that\NNamijima-san is at it again?
+Dialogue: 0,0:22:01.63,0:22:04.55,Default,Default,0000,0000,0000,,Hey, hey, hey...!
+Dialogue: 0,0:22:04.55,0:22:07.85,Default,Default,0000,0000,0000,,Robino-san! Let us hide here!\NNamijima-san's gonna kill us!
+Dialogue: 0,0:22:08.05,0:22:10.39,Default,Default,0000,0000,0000,,Oh, my, good timing.
+Dialogue: 0,0:22:10.39,0:22:13.93,Default,Default,0000,0000,0000,,I've been warning you guys\Nabout sorting your trash.
+Dialogue: 0,0:22:13.93,0:22:17.10,Default,Default,0000,0000,0000,,Please stop insisting that\Neverything is burnable trash.
+Dialogue: 0,0:22:17.10,0:22:19.19,Default,Default,0000,0000,0000,,What's with that nonsense?!\NIt's burnable if there's enough spirit!
+Dialogue: 0,0:22:19.19,0:22:21.23,Default,Default,0000,0000,0000,,Why, good point, Luffizaki-san! She's right!
+Dialogue: 0,0:22:21.23,0:22:23.40,Default,Default,0000,0000,0000,,It's a matter of spirit... The incinerator's.
+Dialogue: 0,0:22:23.40,0:22:24.81,Default,Default,0000,0000,0000,,What silly nonsense.
+Dialogue: 0,0:22:24.95,0:22:26.82,Default,Default,0000,0000,0000,,Oh? Pickled vegetables?!
+Dialogue: 0,0:22:26.82,0:22:29.87,Default,Default,0000,0000,0000,,Your pickled vegetables are\Nthe best, Robino-san! I love them!
+Dialogue: 0,0:22:29.87,0:22:33.79,Default,Default,0000,0000,0000,,Oh, my! Then let's take a break and have\Nthis barley tea I found in the fridge!
+Dialogue: 0,0:22:35.09,0:22:35.78,Default,Default,0000,0000,0000,,Click.
+Dialogue: 0,0:22:37.12,0:22:38.42,Default,Default,0000,0000,0000,,Hello?
+Dialogue: 0,0:22:39.32,0:22:41.45,Default,Default,0000,0000,0000,,Why, yes, they're here. Sure.
+Dialogue: 0,0:22:41.99,0:22:45.17,Default,Default,0000,0000,0000,,Oh, Robino-san? Who just called?
+Dialogue: 0,0:22:45.17,0:22:46.52,Default,Default,0000,0000,0000,,Namijima-san.
+Dialogue: 0,0:22:50.89,0:22:53.64,Default,Default,0000,0000,0000,,So... mind telling me what\Nhappened to this month's rent?
+Dialogue: 0,0:22:53.64,0:22:55.56,Default,Default,0000,0000,0000,,Big landowner, Namijima-san...
+Dialogue: 0,0:22:55.56,0:22:58.90,Default,Default,0000,0000,0000,,Could you be a dearie and wait\Nuntil tomorrow's town raffle event?
+Dialogue: 0,0:22:58.90,0:23:03.40,Default,Default,0000,0000,0000,,No! I'm gonna go to your employers\Nand collect the money directly from them.
+Dialogue: 0,0:23:03.40,0:23:06.45,Default,Default,0000,0000,0000,,No, Namijima-san! Not that!
+Dialogue: 0,0:23:06.45,0:23:08.82,Default,Default,0000,0000,0000,,Tomorrow is gonna mark the end of our lives!
+Dialogue: 0,0:23:08.82,0:23:09.87,Default,Default,0000,0000,0000,,--Fine by me.\N--What?!
+Dialogue: 0,0:23:12.28,0:23:14.58,Default,Default,0000,0000,0000,,Even if they're all middle-aged women,
+Dialogue: 0,0:23:14.58,0:23:16.20,Default,Default,0000,0000,0000,,the strongest one is Namijima-san!
+Dialogue: 0,0:23:25.54,0:23:28.92,Default,Default,0000,0000,0000,,Robin has been alone all this time...\Njust like I used to be.
+Dialogue: 0,0:23:28.92,0:23:31.43,Default,Default,0000,0000,0000,,But our paths crossed and we became friends.
+Dialogue: 0,0:23:31.43,0:23:33.06,Default,Default,0000,0000,0000,,You're not alone anymore, Robin-chan.
+Dialogue: 0,0:23:33.06,0:23:35.35,Default,Default,0000,0000,0000,,He's right. You've got Luffy and all of us!
+Dialogue: 0,0:23:35.35,0:23:37.27,Default,Default,0000,0000,0000,,We're not gonna let\Nanyone sacrifice themselves.
+Dialogue: 0,0:23:37.27,0:23:38.27,Default,Default,0000,0000,0000,,Just wait, Robin!
+Dialogue: 0,0:23:38.27,0:23:40.48,Default,Default,0000,0000,0000,,We'll rescue you for sure!
+Dialogue: 0,0:23:40.48,0:23:41.98,Default,Default,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.98,0:23:45.19,Default,Default,0000,0000,0000,,"Parting Builds a Man's Character!\NSanji and Chopper"
+Dialogue: 0,0:23:45.19,0:23:47.61,Default,Default,0000,0000,0000,,I'm gonna be King of the Pirates!!

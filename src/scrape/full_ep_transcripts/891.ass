@@ -1,0 +1,339 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.43,0:00:19.43,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:16.43,0:00:19.43,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.77,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:27.31,0:00:30.23,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:32.78,0:00:35.61,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,Default,,0000,0000,0000,,{\i1}Your dream is like a monster{\i0}
+Dialogue: 0,0:00:35.78,0:00:38.24,On Top,,0000,0000,0000,,{\i1}kimi no yume wa monsutaa kyuu de{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,Default,,0000,0000,0000,,{\i1}Every time it breaks the cage in your heart{\i0}
+Dialogue: 0,0:00:38.28,0:00:41.20,On Top,,0000,0000,0000,,{\i1}mune no ori bukkowashitewa{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,Default,,0000,0000,0000,,{\i1}Jump into the paradise on \Nwhich is written "Go to Hell"{\i0}
+Dialogue: 0,0:00:41.25,0:00:45.46,On Top,,0000,0000,0000,,{\i1}tobikomu yo "Go to Hell" to kaita paradaisu{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,Default,,0000,0000,0000,,{\i1}It's always, Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:45.50,0:00:48.21,On Top,,0000,0000,0000,,{\i1}itsudatte Dangerous! Dangerous!{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,Default,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.25,0:00:48.92,On Top,,0000,0000,0000,,{\i1}"We like it!"{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,Default,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:48.96,0:00:51.00,On Top,,0000,0000,0000,,{\i1}Serious! Serious!{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,Default,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:51.05,0:00:52.09,On Top,,0000,0000,0000,,{\i1}"Oh!"{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,Default,,0000,0000,0000,,{\i1}Someday, the dream that's \Ncovered in cuts and bruises{\i0}
+Dialogue: 0,0:00:52.13,0:00:56.39,On Top,,0000,0000,0000,,{\i1}kizu darake ni natta yume wa itsuka{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,Default,,0000,0000,0000,,{\i1}will become your one and only treasure{\i0}
+Dialogue: 0,0:00:56.43,0:01:01.77,On Top,,0000,0000,0000,,{\i1}daiji na takaramono ni naru sa{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:01.81,0:01:05.44,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:05.48,0:01:08.52,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:01:08.56,0:01:11.19,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:11.23,0:01:13.53,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,Default,,0000,0000,0000,,{\i1}Believing in a great dream together{\i0}
+Dialogue: 0,0:01:13.57,0:01:16.66,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:01:16.70,0:01:19.16,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:01:19.20,0:01:22.08,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:22.12,0:01:24.50,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,Default,,0000,0000,0000,,{\i1}To that planet where love combines with tears{\i0}
+Dialogue: 0,0:01:27.04,0:01:29.96,On Top,,0000,0000,0000,,{\i1}ai ga namida to mazaru hoshi ni{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,Default,,0000,0000,0000,,{\i1}The future gently brings a morning{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.42,On Top,,0000,0000,0000,,{\i1}sotto mirai wa asa wo hakobi{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,Default,,0000,0000,0000,,{\i1}It shines on our silly but dear world{\i0}
+Dialogue: 0,0:01:35.47,0:01:47.52,On Top,,0000,0000,0000,,{\i1}oroka de itoshii boku \Ntachi no sekai terasu yo{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,Default,,0000,0000,0000,,{\i1}Fight! The most formidable enemy is yourself{\i0}
+Dialogue: 0,0:01:48.02,0:01:51.77,On Top,,0000,0000,0000,,{\i1}tatakae! saikyou no teki wa jibun sa{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,Default,,0000,0000,0000,,{\i1}Always and forever...{\i0}
+Dialogue: 0,0:01:51.82,0:01:53.36,On Top,,0000,0000,0000,,{\i1}eien ni...{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,Default,,0000,0000,0000,,{\i1}Magical excitement connects friends{\i0}
+Dialogue: 0,0:01:53.40,0:01:57.28,On Top,,0000,0000,0000,,{\i1}fushigi na koufun ga nakama wo tsunagu{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.28,Default,,0000,0000,0000,,{\i1}Living your life to the fullest{\i0}
+Dialogue: 0,0:01:57.32,0:02:00.28,On Top,,0000,0000,0000,,{\i1}kenmei ni ikiru koto{\i0}
+Dialogue: 0,0:02:00.32,0:02:02.70,Default,,0000,0000,0000,,{\i1}Shall we call it an adventure?{\i0}
+Dialogue: 0,0:02:00.32,0:02:02.70,On Top,,0000,0000,0000,,{\i1}bouken to yobou ka{\i0}
+Dialogue: 0,0:02:02.74,0:02:05.45,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:02.74,0:02:05.45,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,Default,,0000,0000,0000,,{\i1}Believing a great dream together{\i0}
+Dialogue: 0,0:02:05.50,0:02:08.25,On Top,,0000,0000,0000,,{\i1}saikou no yume shinjiau{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,Default,,0000,0000,0000,,{\i1}The bond with your rival{\i0}
+Dialogue: 0,0:02:08.29,0:02:10.96,On Top,,0000,0000,0000,,{\i1}raibaru tono kizuna{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,Default,,0000,0000,0000,,{\i1}Even failure is strangely charming{\i0}
+Dialogue: 0,0:02:11.00,0:02:13.67,On Top,,0000,0000,0000,,{\i1}shippai mo myou ni chaamingu{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,Default,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:13.71,0:02:16.34,On Top,,0000,0000,0000,,{\i1}Yes! We've got Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:19.05,0:02:21.68,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:24.68,0:02:27.18,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:29.98,0:02:32.77,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,Default,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:35.44,0:02:38.70,On Top,,0000,0000,0000,,{\i1}Yes! We're the Super Powers{\i0}
+Dialogue: 0,0:02:44.37,0:02:49.83,Default,,0000,0000,0000,,{\i1}"Climbing Up a Waterfall!\NA Great Journey Through the Land of Wano's Sea Zone!"{\i0}
+Dialogue: 0,0:02:50.17,0:02:53.42,On Top,,0000,0000,0000,,ON THE SEA IN THE NEW WORLD
+Dialogue: 0,0:02:57.86,0:03:00.45,Default,,0000,0000,0000,,{\i1}With Luffy and the others on board,{\i0}
+Dialogue: 0,0:03:00.45,0:03:04.57,Default,,0000,0000,0000,,{\i1}the Sunny is on its way to\Ntheir next destination - the Land of Wano.{\i0}
+Dialogue: 0,0:03:05.41,0:03:08.37,Default,,0000,0000,0000,,Luffy! It says the Reverie has begun!
+Dialogue: 0,0:03:08.45,0:03:13.38,Default,,0000,0000,0000,,Kings and queens from all over the world\Nare attending the conference at Mariejois!
+Dialogue: 0,0:03:13.54,0:03:14.75,Default,,0000,0000,0000,,Hmmm...
+Dialogue: 0,0:03:16.23,0:03:18.38,Default,,0000,0000,0000,,This time, all eyes are on the Ryugu Kingdom
+Dialogue: 0,0:03:18.38,0:03:22.12,Default,,0000,0000,0000,,since they're joining for the \Nfirst time in two centuries!
+Dialogue: 0,0:03:22.12,0:03:25.00,Default,,0000,0000,0000,,Neptune-{\i1}san{\i0} and the brothers are there...
+Dialogue: 0,0:03:26.68,0:03:30.14,Default,,0000,0000,0000,,And it says there was great applause \Nfor Shirahoshi at Red Port!
+Dialogue: 0,0:03:30.73,0:03:35.77,Default,,0000,0000,0000,,So she came up to the surface!\NShe became much stronger, that Yowahoshi!
+Dialogue: 0,0:03:37.25,0:03:41.84,OS,,0000,0000,0000,,STRAW HAT LUFFY - CAPTAIN OF THE STRAW HAT PIRATES\NBOUNTY: 1.5 BILLION BERRIES
+Dialogue: 0,0:03:38.11,0:03:40.90,DefaultLow,,0000,0000,0000,,It seems like your grandpa was their escort.
+Dialogue: 0,0:03:41.07,0:03:41.79,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:03:42.38,0:03:47.79,Default,,0000,0000,0000,,They took a big step towards their dream\Nto relocate the Fish-Men to the surface!
+Dialogue: 0,0:03:52.62,0:03:55.08,Default,,0000,0000,0000,,Vivi-{\i1}chan{\i0}!
+Dialogue: 0,0:03:55.26,0:03:58.56,Default,,0000,0000,0000,,You became an even more beautiful princess!
+Dialogue: 0,0:04:00.13,0:04:01.97,Default,,0000,0000,0000,,Who could it be for?
+Dialogue: 0,0:04:02.17,0:04:04.76,Default,,0000,0000,0000,,Me?! Hey, is it for me?!
+Dialogue: 0,0:04:06.46,0:04:07.30,Default,,0000,0000,0000,,How annoying!
+Dialogue: 0,0:04:11.10,0:04:12.06,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:04:12.38,0:04:13.65,Default,,0000,0000,0000,,It's Vivi!
+Dialogue: 0,0:04:13.65,0:04:16.52,Default,,0000,0000,0000,,It's been a while! I haven't \Nseen her for a long time!
+Dialogue: 0,0:04:16.52,0:04:18.94,Default,,0000,0000,0000,,She's become a graceful and regal princess!
+Dialogue: 0,0:04:19.07,0:04:22.11,Default,,0000,0000,0000,,Oh, so this is Vivi-{\i1}san{\i0}.
+Dialogue: 0,0:04:22.29,0:04:25.24,Default,,0000,0000,0000,,When I get to see her someday,\NI'd like to see her panties...
+Dialogue: 0,0:04:25.36,0:04:26.37,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:04:29.88,0:04:33.46,Default,,0000,0000,0000,,Oh, these are photos of the Mingling Plaza...
+Dialogue: 0,0:04:33.46,0:04:36.92,Default,,0000,0000,0000,,Look at all the royals\Nand bodyguards who came along.
+Dialogue: 0,0:04:37.79,0:04:40.09,Default,,0000,0000,0000,,I-If Dressrosa is participating...
+Dialogue: 0,0:04:40.61,0:04:42.63,Default,,0000,0000,0000,,There she is! Viola-{\i1}chan{\i0}!
+Dialogue: 0,0:04:48.84,0:04:50.47,Default,,0000,0000,0000,,Ugh! It's Wapol!
+Dialogue: 0,0:04:50.83,0:04:52.41,Default,,0000,0000,0000,,The acorn pops is there, too!
+Dialogue: 0,0:04:52.93,0:04:55.92,Default,,0000,0000,0000,,What? Wapol?! Did he come back?!
+Dialogue: 0,0:04:56.85,0:05:00.86,Default,,0000,0000,0000,,Rebecca! Sai! So many faces I know!
+Dialogue: 0,0:05:01.18,0:05:07.07,Default,,0000,0000,0000,,Of course. Royals across the world gather\Nat the Reverie and discuss things!
+Dialogue: 0,0:05:08.57,0:05:11.83,Default,,0000,0000,0000,,Oh, maybe at the Reverie...
+Dialogue: 0,0:05:12.65,0:05:16.59,Default,,0000,0000,0000,,At the Reverie, the princesses that I know...
+Dialogue: 0,0:05:17.32,0:05:21.05,Default,,0000,0000,0000,,...are getting excited talking about me!
+Dialogue: 0,0:05:21.36,0:05:23.21,Default,,0000,0000,0000,,Wouldn't that be special?
+Dialogue: 0,0:05:23.83,0:05:25.75,Default,,0000,0000,0000,,Hey, look at this, Chopper!
+Dialogue: 0,0:05:26.93,0:05:27.93,Default,,0000,0000,0000,,Right here!
+Dialogue: 0,0:05:31.72,0:05:33.97,Default,,0000,0000,0000,,What is it, Chobro?
+Dialogue: 0,0:05:42.22,0:05:44.78,Default,,0000,0000,0000,,Doctorine!
+Dialogue: 0,0:05:44.90,0:05:47.03,Default,,0000,0000,0000,,Oh, is she still alive?
+Dialogue: 0,0:05:47.20,0:05:48.11,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:55.12,0:05:56.62,Default,,0000,0000,0000,,Doctorine...
+Dialogue: 0,0:05:56.75,0:05:58.79,Default,,0000,0000,0000,,Hey! What are you doing, Chopper?!
+Dialogue: 0,0:05:59.20,0:06:01.88,Default,,0000,0000,0000,,--Don't cut it out!\N--What? Whoa!
+Dialogue: 0,0:06:01.96,0:06:05.97,Default,,0000,0000,0000,,--Give me back my princesses!\N--What are you doing?!
+Dialogue: 0,0:06:12.01,0:06:16.35,Default,,0000,0000,0000,,Hey! I haven't read the back side yet!\NIt's full of holes!
+Dialogue: 0,0:06:18.00,0:06:20.52,Default,,0000,0000,0000,,Oh? Is this an article about Kaido?
+Dialogue: 0,0:06:23.52,0:06:27.07,Default,,0000,0000,0000,,Big Mom... What?! It's unreadable!
+Dialogue: 0,0:06:27.07,0:06:29.45,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}! Chopper!\NGive these back to me!
+Dialogue: 0,0:06:29.61,0:06:30.99,Default,,0000,0000,0000,,Nope!
+Dialogue: 0,0:06:34.08,0:06:36.79,Default,,0000,0000,0000,,I'm happy to see everyone doing well!
+Dialogue: 0,0:06:37.06,0:06:40.04,Default,,0000,0000,0000,,Once we finish sailing around the world,\Nlet's go see them!
+Dialogue: 0,0:06:40.29,0:06:42.70,Default,,0000,0000,0000,,Yes! That's the right order!
+Dialogue: 0,0:06:42.70,0:06:48.10,Default,,0000,0000,0000,,Anyway, Luffy-{\i1}san{\i0}, the Transponder Snail\Nstill won't connect?
+Dialogue: 0,0:06:48.10,0:06:50.05,Default,,0000,0000,0000,,Oh, I forgot.
+Dialogue: 0,0:06:50.38,0:06:53.22,Default,,0000,0000,0000,,Hey! This is Luffy! Come in!
+Dialogue: 0,0:06:55.99,0:06:58.14,Default,,0000,0000,0000,,Well, no response.
+Dialogue: 0,0:06:58.35,0:07:00.06,Default,,0000,0000,0000,,That's enough. Let's push on!
+Dialogue: 0,0:07:00.35,0:07:01.35,Default,,0000,0000,0000,,Is it okay?
+Dialogue: 0,0:07:01.79,0:07:06.65,Default,,0000,0000,0000,,The plan was once we get near the Land of Wano,\Nwe'd call Kin'emon, right?
+Dialogue: 0,0:07:07.05,0:07:10.53,Default,,0000,0000,0000,,Forget it! Let's just go!\NTo the Land of Wano!
+Dialogue: 0,0:07:11.86,0:07:13.19,Default,,0000,0000,0000,,{\i1}The Land of Wano...{\i0}
+Dialogue: 0,0:07:13.86,0:07:18.96,Default,,0000,0000,0000,,{\i1}It's a mystery-filled country\Nwhere samurai swagger about,{\i0}
+Dialogue: 0,0:07:18.96,0:07:21.71,Default,,0000,0000,0000,,{\i1}that's completely isolated \Nfrom other nations.{\i0}
+Dialogue: 0,0:07:22.50,0:07:25.79,Default,,0000,0000,0000,,{\i1}On the massive moving island, Zou,{\i0}
+Dialogue: 0,0:07:25.79,0:07:28.70,Default,,0000,0000,0000,,{\i1}the Straws Hats learned the truth about\Nthe Land of Wano samurai.{\i0}
+Dialogue: 0,0:07:31.58,0:07:34.07,Default,,0000,0000,0000,,This man right here is the heir to...
+Dialogue: 0,0:07:34.07,0:07:38.58,Default,,0000,0000,0000,,...Kozuki Oden-{\i1}sama{\i0}, great {\i1}daimyo \{\i0}Nof Kuri in the Land of Wano!
+Dialogue: 0,0:07:38.98,0:07:41.48,Default,,0000,0000,0000,,His name is Kozuki Momonosuke-{\i1}sama{\i0}!
+Dialogue: 0,0:07:44.31,0:07:50.03,Default,,0000,0000,0000,,{\i1}Oden (stew) wouldn't be \N"oden" if it wasn't boiled!{\i0}
+Dialogue: 0,0:07:52.62,0:07:54.14,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0} was...
+Dialogue: 0,0:07:55.26,0:07:57.25,Default,,0000,0000,0000,,...executed!
+Dialogue: 0,0:07:59.83,0:08:05.15,Default,,0000,0000,0000,,By the shogun of the Land of Wano\Nand the pirate Kaido!
+Dialogue: 0,0:08:05.46,0:08:06.18,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:07.80,0:08:12.74,Default,,0000,0000,0000,,To save all of us retainers,
+Dialogue: 0,0:08:13.13,0:08:15.26,Default,,0000,0000,0000,,he met his fate!
+Dialogue: 0,0:08:17.15,0:08:18.56,Default,,0000,0000,0000,,By Kaido?!
+Dialogue: 0,0:08:25.81,0:08:27.44,Default,,0000,0000,0000,,And...
+Dialogue: 0,0:08:28.48,0:08:33.30,Default,,0000,0000,0000,,...Emperor of the Sea Kaido's \NBeast Pirates are...
+Dialogue: 0,0:08:34.45,0:08:36.46,Default,,0000,0000,0000,,...still in the Land of Wano!
+Dialogue: 0,0:08:40.51,0:08:46.04,Default,,0000,0000,0000,,What we have to do now is\Nto put our lives on the line and avenge our master!
+Dialogue: 0,0:08:46.45,0:08:49.24,Default,,0000,0000,0000,,We need to kill the shogun \Nwho stole the Land of Wano
+Dialogue: 0,0:08:49.24,0:08:52.09,Default,,0000,0000,0000,,and open the closed country to the world!
+Dialogue: 0,0:08:52.48,0:08:55.26,Default,,0000,0000,0000,,That's our wish!
+Dialogue: 0,0:08:56.78,0:08:59.31,Default,,0000,0000,0000,,Now, we have a favor to ask, Luffy-{\i1}dono{\i0}!
+Dialogue: 0,0:09:01.37,0:09:02.84,Default,,0000,0000,0000,,And you too, Law-{\i1}dono{\i0}!
+Dialogue: 0,0:09:03.98,0:09:06.71,Default,,0000,0000,0000,,Since we are fated to share the same purpose,
+Dialogue: 0,0:09:07.10,0:09:11.78,Default,,0000,0000,0000,,will you help us fight to kill\Nthe shogun of the Land of Wano
+Dialogue: 0,0:09:12.38,0:09:15.49,Default,,0000,0000,0000,,and Emperor Kaido?!
+Dialogue: 0,0:09:16.78,0:09:20.45,Default,,0000,0000,0000,,I want to bring down Kaido!
+Dialogue: 0,0:09:24.46,0:09:26.25,Default,,0000,0000,0000,,I'm begging you!
+Dialogue: 0,0:09:26.75,0:09:27.92,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:09:33.13,0:09:34.64,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:09:41.60,0:09:42.88,Default,,0000,0000,0000,,Let's join hands!
+Dialogue: 0,0:09:45.56,0:09:46.69,Default,,0000,0000,0000,,We're allies!
+Dialogue: 0,0:09:48.19,0:09:51.31,Default,,0000,0000,0000,,Let me have Kaido's head though!
+Dialogue: 0,0:09:54.69,0:09:58.28,Default,,0000,0000,0000,,{\i1}Now, Luffy and the others are\Nheading towards the Land of Wano.{\i0}
+Dialogue: 0,0:10:10.50,0:10:13.05,Default,,0000,0000,0000,,All right! Take the helm, Brook!
+Dialogue: 0,0:10:13.21,0:10:14.41,Default,,0000,0000,0000,,Wait, Luffy!
+Dialogue: 0,0:10:14.84,0:10:15.76,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:16.97,0:10:18.03,Default,,0000,0000,0000,,The wind...
+Dialogue: 0,0:10:39.28,0:10:43.29,Default,,0000,0000,0000,,This cold wind... and these waves \Nthat I've never seen before...
+Dialogue: 0,0:10:44.12,0:10:46.00,Default,,0000,0000,0000,,I have nothing but bad feelings about this!
+Dialogue: 0,0:10:55.13,0:10:58.67,Default,,0000,0000,0000,,So this is the sea area\Naround the Land of Wano!
+Dialogue: 0,0:11:18.61,0:11:24.16,Default,,0000,0000,0000,,The wind is getting stronger as we draw close\Nand the waves are running high!
+Dialogue: 0,0:11:24.91,0:11:29.04,Default,,0000,0000,0000,,It doesn't look like a normal wind-drift current.\NThe way it swells...
+Dialogue: 0,0:11:29.46,0:11:31.88,Default,,0000,0000,0000,,On top of the unusual flow...
+Dialogue: 0,0:11:32.54,0:11:35.00,Default,,0000,0000,0000,,Look at the bad weather over there!
+Dialogue: 0,0:11:44.55,0:11:48.43,Default,,0000,0000,0000,,We wanna avoid a storm...\NShall we wait a little more?
+Dialogue: 0,0:11:48.85,0:11:53.15,Default,,0000,0000,0000,,Hey! What are you talking about Brook?!\NLet's go now to the Land of Wano!
+Dialogue: 0,0:11:53.15,0:11:57.73,Default,,0000,0000,0000,,Luffy-{\i1}san{\i0}, why do you wanna put\Nyour crew in such obvious danger?
+Dialogue: 0,0:11:59.32,0:12:01.16,Default,,0000,0000,0000,,But, Brook...
+Dialogue: 0,0:12:02.24,0:12:05.46,Default,,0000,0000,0000,,Kin'emon actually warned me about this...
+Dialogue: 0,0:12:06.51,0:12:09.95,Default,,0000,0000,0000,,I'll explain it to you on the snail thing,
+Dialogue: 0,0:12:10.45,0:12:15.51,Default,,0000,0000,0000,,but the whole sea area around the Land of Wano\Nis always subject to bad weather.
+Dialogue: 0,0:12:15.51,0:12:18.42,Default,,0000,0000,0000,,The sea is rough\Nand the current is strong,
+Dialogue: 0,0:12:18.75,0:12:21.00,Default,,0000,0000,0000,,so it's difficult to enter the country!
+Dialogue: 0,0:12:21.55,0:12:27.34,Default,,0000,0000,0000,,What?! The weather is always bad?!\NThen we should just go?!
+Dialogue: 0,0:12:27.34,0:12:29.14,Default,,0000,0000,0000,,That's my thinking. Let's go!
+Dialogue: 0,0:12:29.50,0:12:33.31,Default,,0000,0000,0000,,Not only does it have strong samurai\Nbut it's also perilous to enter...
+Dialogue: 0,0:12:33.31,0:12:35.82,Default,,0000,0000,0000,,It's truly an isolated country!
+Dialogue: 0,0:12:37.17,0:12:42.26,Default,,0000,0000,0000,,Let me think a little bit...\NThere must be a way to get through safely...
+Dialogue: 0,0:12:51.91,0:12:54.79,Default,,0000,0000,0000,,--What's that thing?!\N--It's an octopus!
+Dialogue: 0,0:12:54.92,0:12:56.17,Default,,0000,0000,0000,,A giant one!
+Dialogue: 0,0:12:56.33,0:12:58.02,Default,,0000,0000,0000,,Why's an octopus here?!
+Dialogue: 0,0:12:58.02,0:13:01.21,Default,,0000,0000,0000,,--It's here because we're on the sea!\N--I know that, but...
+Dialogue: 0,0:13:01.21,0:13:04.30,Default,,0000,0000,0000,,When did it come on board?!
+Dialogue: 0,0:13:04.63,0:13:08.30,Default,,0000,0000,0000,,Hey! We're going farther into\Nthe waters around the Land of Wano!
+Dialogue: 0,0:13:08.47,0:13:09.68,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:09.85,0:13:14.07,Default,,0000,0000,0000,,It doesn't matter! Go on, Sunny!
+Dialogue: 0,0:13:14.48,0:13:17.59,Default,,0000,0000,0000,,To the Land of Wano!
+Dialogue: 0,0:13:41.21,0:13:42.96,Default,,0000,0000,0000,,There's no turning back!
+Dialogue: 0,0:13:45.30,0:13:46.97,Default,,0000,0000,0000,,Wait, you octopus!
+Dialogue: 0,0:14:03.73,0:14:06.32,Default,,0000,0000,0000,,Hey! Something's coming towards us!
+Dialogue: 0,0:14:15.20,0:14:17.00,Default,,0000,0000,0000,,What?! What is it?!
+Dialogue: 0,0:14:17.16,0:14:19.22,Default,,0000,0000,0000,,It looks like a giant fish!
+Dialogue: 0,0:14:19.22,0:14:21.38,Default,,0000,0000,0000,,--Is it a shark?!\N--A shark?!
+Dialogue: 0,0:14:23.13,0:14:24.63,Default,,0000,0000,0000,,Oh no! It's coming!
+Dialogue: 0,0:14:33.35,0:14:35.02,Default,,0000,0000,0000,,C-Carp...
+Dialogue: 0,0:14:35.02,0:14:36.93,Default,,0000,0000,0000,,Oh my, oh my!
+Dialogue: 0,0:14:39.48,0:14:41.31,Default,,0000,0000,0000,,It's a massive carp!
+Dialogue: 0,0:14:49.45,0:14:51.07,Default,,0000,0000,0000,,It's a school of carp?!
+Dialogue: 0,0:14:58.67,0:15:00.67,Default,,0000,0000,0000,,Why are carp in the sea?!
+Dialogue: 0,0:15:00.97,0:15:03.71,Default,,0000,0000,0000,,They're freshwater fish!\NHow can they live here?!
+Dialogue: 0,0:15:03.71,0:15:06.91,Default,,0000,0000,0000,,It doesn't matter!\NThey're monster carp anyway!
+Dialogue: 0,0:15:06.91,0:15:09.33,Default,,0000,0000,0000,,Hey, Sanji? Are they delicious?!
+Dialogue: 0,0:15:09.33,0:15:12.01,Default,,0000,0000,0000,,Forget about those monsters!
+Dialogue: 0,0:15:12.55,0:15:16.19,Default,,0000,0000,0000,,Well, alternating it in baths of \Nhot and cold water firms it up
+Dialogue: 0,0:15:16.19,0:15:18.24,Default,,0000,0000,0000,,resulting in a delicious dish called {\i1}arai{\i0}.
+Dialogue: 0,0:15:18.24,0:15:20.05,Default,,0000,0000,0000,,You can simmer it in {\i1}miso{\i0}, too.
+Dialogue: 0,0:15:20.05,0:15:22.97,Default,,0000,0000,0000,,--Hey!\N--You should just eat cultivated ones!
+Dialogue: 0,0:15:22.97,0:15:24.94,Default,,0000,0000,0000,,That's not the issue now!
+Dialogue: 0,0:15:25.11,0:15:28.57,Default,,0000,0000,0000,,Tempura and sweet-boiled ones are\Nalso good.
+Dialogue: 0,0:15:28.74,0:15:31.16,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:15:31.91,0:15:35.24,Default,,0000,0000,0000,,We'll have a banquet with this\Nonce we see Zoro and the others again!
+Dialogue: 0,0:15:35.41,0:15:39.05,Default,,0000,0000,0000,,--Don't, Luffy!\N--Carp have so many tiny bones!
+Dialogue: 0,0:15:39.05,0:15:42.33,Default,,0000,0000,0000,,Who cares?!\NThat's not important now!
+Dialogue: 0,0:15:48.92,0:15:50.81,Default,,0000,0000,0000,,Don't fight back!
+Dialogue: 0,0:15:50.81,0:15:54.72,Default,,0000,0000,0000,,Of course, it fights back!\NWhy are you like that?!
+Dialogue: 0,0:15:55.07,0:15:59.52,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}! You're responsible, too!\NBring back Luffy!
+Dialogue: 0,0:15:59.68,0:16:03.15,Default,,0000,0000,0000,,Don't worry, Nami-{\i1}san{\i0}.\NHe'll be fine.
+Dialogue: 0,0:16:03.15,0:16:04.27,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:04.73,0:16:06.52,Default,,0000,0000,0000,,Instead, let's protect our ship!
+Dialogue: 0,0:16:28.00,0:16:31.08,Default,,0000,0000,0000,,The wind is strong!\NCarrot, furl the sail!
+Dialogue: 0,0:16:31.08,0:16:33.38,Default,,0000,0000,0000,,--Okay!\N--I'll help!
+Dialogue: 0,0:16:52.40,0:16:57.37,Default,,0000,0000,0000,,Look how clear the water is!\NIt's like water in a mountain river!
+Dialogue: 0,0:16:57.37,0:17:02.16,Default,,0000,0000,0000,,I'd prefer it wasn't so clear!\NThe giant fish in the water scare me!
+Dialogue: 0,0:17:02.50,0:17:05.13,Default,,0000,0000,0000,,What? Then, is this a river?!
+Dialogue: 0,0:17:06.17,0:17:08.67,Default,,0000,0000,0000,,Where are those carp heading?!
+Dialogue: 0,0:17:10.75,0:17:13.54,Default,,0000,0000,0000,,Hang on tight!\NWe're going with the flow!
+Dialogue: 0,0:17:14.55,0:17:16.27,Default,,0000,0000,0000,,Is Luffy still around here?!
+Dialogue: 0,0:17:23.68,0:17:24.42,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:27.40,0:17:30.31,Default,,0000,0000,0000,,Whoa-whoa, what is that?!
+Dialogue: 0,0:17:31.48,0:17:35.36,Default,,0000,0000,0000,,The river's flowing to the bottom of the waterfall!\NHow's that possible?!
+Dialogue: 0,0:17:53.01,0:17:54.26,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:17:54.88,0:17:57.20,Default,,0000,0000,0000,,If this waterfall is the \Nreason that it's fresh water,
+Dialogue: 0,0:17:57.20,0:17:59.14,Default,,0000,0000,0000,,a massive water source should be up there!
+Dialogue: 0,0:17:59.97,0:18:03.35,Default,,0000,0000,0000,,Could it be that the Land \Nof Wano is up there?!
+Dialogue: 0,0:18:03.52,0:18:04.64,Default,,0000,0000,0000,,Up there...
+Dialogue: 0,0:18:04.64,0:18:09.02,Default,,0000,0000,0000,,What?! Whaaat?! How is it possible?!
+Dialogue: 0,0:18:30.29,0:18:32.63,Default,,0000,0000,0000,,Oh! Look at that!
+Dialogue: 0,0:18:32.75,0:18:36.24,Default,,0000,0000,0000,,--The carp are climbing up the waterfall!\N--Why?!
+Dialogue: 0,0:18:44.14,0:18:46.36,Default,,0000,0000,0000,,Oh, carp! Oh, carp!
+Dialogue: 0,0:18:47.29,0:18:51.23,Default,,0000,0000,0000,,A sailing ship can't do that!\NWe'll sink under the waterfall!
+Dialogue: 0,0:18:51.23,0:18:52.90,Default,,0000,0000,0000,,Of course, we will!
+Dialogue: 0,0:18:54.09,0:18:54.87,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:18:55.32,0:18:58.32,Default,,0000,0000,0000,,Wow, those carp are so strong!
+Dialogue: 0,0:18:58.49,0:19:02.95,Default,,0000,0000,0000,,--This is no time for that!\N--Luffy! She says this ship's gonna sink!
+Dialogue: 0,0:19:03.12,0:19:04.49,Default,,0000,0000,0000,,Okay, count on me!
+Dialogue: 0,0:19:04.66,0:19:05.34,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:07.20,0:19:09.25,Default,,0000,0000,0000,,Hang on tight!
+Dialogue: 0,0:19:14.92,0:19:16.88,Default,,0000,0000,0000,,You can do it, carp!
+Dialogue: 0,0:19:17.05,0:19:19.22,Default,,0000,0000,0000,,You've got to be kidding!
+Dialogue: 0,0:19:21.26,0:19:23.27,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:19:53.94,0:19:57.42,Default,,0000,0000,0000,,Look, Chobro!\NWe're climbing the waterfall!
+Dialogue: 0,0:20:06.31,0:20:08.52,Default,,0000,0000,0000,,Nooo!!
+Dialogue: 0,0:20:15.77,0:20:18.28,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:21.40,0:20:24.37,Default,,0000,0000,0000,,Up we go!
+Dialogue: 0,0:20:45.34,0:20:49.21,Default,,0000,0000,0000,,What's wrong with the sea area \Naround the Land of Wano?!
+Dialogue: 0,0:20:49.21,0:20:50.64,Default,,0000,0000,0000,,It's so chaotic!
+Dialogue: 0,0:20:50.64,0:20:53.89,Default,,0000,0000,0000,,It really is difficult to enter...
+Dialogue: 0,0:20:54.27,0:20:56.98,Default,,0000,0000,0000,,It was fun, wasn't it, Chobro?!
+Dialogue: 0,0:20:57.15,0:20:59.61,Default,,0000,0000,0000,,I thought I was gonna die!
+Dialogue: 0,0:20:59.94,0:21:02.36,Default,,0000,0000,0000,,Hey! There's the shore!
+Dialogue: 0,0:21:06.45,0:21:09.20,Default,,0000,0000,0000,,Oh! Is that the Land of Wano?!
+Dialogue: 0,0:21:09.58,0:21:14.02,Default,,0000,0000,0000,,We're finally... finally \Nhere at the Land of Wano...
+Dialogue: 0,0:21:15.29,0:21:17.99,Default,,0000,0000,0000,,Chobro, it's the Land of Wano...
+Dialogue: 0,0:21:31.10,0:21:34.60,Default,,0000,0000,0000,,Wow! Look at that massive whirl!
+Dialogue: 0,0:21:35.94,0:21:38.06,Default,,0000,0000,0000,,A whirlpool!
+Dialogue: 0,0:21:44.40,0:21:46.49,Default,,0000,0000,0000,,Luffy! Let go of those carp!
+Dialogue: 0,0:21:46.66,0:21:48.66,Default,,0000,0000,0000,,No! They're my dinner!
+Dialogue: 0,0:21:49.24,0:21:51.41,Default,,0000,0000,0000,,Enough already!
+Dialogue: 0,0:21:52.75,0:21:54.71,Default,,0000,0000,0000,,Brook! Take the helm!
+Dialogue: 0,0:21:54.87,0:21:56.46,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:22:07.18,0:22:09.64,Default,,0000,0000,0000,,It's no good! The current is too strong!
+Dialogue: 0,0:22:15.23,0:22:18.23,Default,,0000,0000,0000,,Damn! We're almost there!
+Dialogue: 0,0:22:19.86,0:22:22.07,Default,,0000,0000,0000,,We're not gonna make it this time!
+Dialogue: 0,0:22:22.19,0:22:24.78,Default,,0000,0000,0000,,Doctorine!
+Dialogue: 0,0:22:28.53,0:22:30.81,Default,,0000,0000,0000,,Oh? Where are my carp?
+Dialogue: 0,0:22:30.81,0:22:33.31,Default,,0000,0000,0000,,--That's not important now!\N--What?
+Dialogue: 0,0:22:45.30,0:22:48.59,Default,,0000,0000,0000,,Oh no! We're gonna be \Ncaught in the whirlpool!
+Dialogue: 0,0:23:20.60,0:23:25.00,Default,,0000,0000,0000,,I'll kick the Emperor of the Sea Kaido's ass\Nand open up the Land of Wano!
+Dialogue: 0,0:23:25.30,0:23:28.55,Italics,,0000,0000,0000,,{\i1}The Straw Hats finally gather \Ntogether at the Land of Wano!{\i0}
+Dialogue: 0,0:23:28.87,0:23:30.37,Italics,,0000,0000,0000,,{\i1}Formidable enemies are waiting for them
+Dialogue: 0,0:23:30.37,0:23:32.76,Italics,,0000,0000,0000,,in the country of the\Nstrong which even the Navy can't touch!{\i0}
+Dialogue: 0,0:23:32.76,0:23:35.81,Italics,,0000,0000,0000,,{\i1}An unprecedented battle begins now!{\i0}
+Dialogue: 0,0:23:35.81,0:23:37.28,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:37.28,0:23:40.21,Default,,0000,0000,0000,,"The Land of Wano!\NTo the Samurai Country where Cherry Blossoms Flutter!"
+Dialogue: 0,0:23:40.21,0:23:42.39,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:43.00,0:23:45.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:45.00,0:23:47.00,On Top,,0000,0000,0000,,

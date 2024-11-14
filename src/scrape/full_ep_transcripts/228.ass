@@ -1,0 +1,343 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.95,0:00:23.29,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:23.29,0:00:26.88,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:26.88,0:00:30.09,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:30.09,0:00:33.63,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:41.22,0:00:48.77,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:48.77,0:00:55.95,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:55.95,0:01:02.91,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:01:02.91,0:01:10.04,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:01:10.04,0:01:13.55,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:01:13.55,0:01:17.43,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:17.43,0:01:21.43,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:21.43,0:01:24.43,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:24.48,0:01:28.60,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:28.65,0:01:32.15,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:32.15,0:01:35.28,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:35.28,0:01:39.66,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:39.66,0:01:43.37,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:43.37,0:01:46.66,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:46.66,0:01:49.67,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:49.67,0:01:55.46,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:55.46,0:01:58.05,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:02:08.98,0:02:10.81,Default,,0000,0000,0000,,Ice Age...
+Dialogue: 0,0:02:19.11,0:02:21.41,Default,,0000,0000,0000,,I'm impressed that you survived as a child.
+Dialogue: 0,0:02:21.99,0:02:26.25,Default,,0000,0000,0000,,You betrayed people and ran away.\NYou gained people's favor and used them.
+Dialogue: 0,0:02:26.25,0:02:30.79,Default,,0000,0000,0000,,You've survived in the underworld\Nby being quick to switch sides.
+Dialogue: 0,0:02:30.79,0:02:34.25,Default,,0000,0000,0000,,So this is the group that you\Nchose as your next hideout, huh?
+Dialogue: 0,0:02:35.05,0:02:39.05,Default,,0000,0000,0000,,The organizations Nico Robin had\Nsomething to do with up until today
+Dialogue: 0,0:02:39.05,0:02:40.55,Default,,0000,0000,0000,,all got annihilated...
+Dialogue: 0,0:02:41.76,0:02:44.14,Default,,0000,0000,0000,,...except for her.
+Dialogue: 0,0:03:00.24,0:03:02.24,Default,,0000,0000,0000,,You've come across some good friends.
+Dialogue: 0,0:03:02.24,0:03:06.70,Default,,0000,0000,0000,,But you're still you, Nico Robin!
+Dialogue: 0,0:03:06.70,0:03:08.70,Default,,0000,0000,0000,,No...! I'm no longer...
+Dialogue: 0,0:03:10.21,0:03:10.79,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:03:12.67,0:03:14.21,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:03:14.21,0:03:15.13,Default,,0000,0000,0000,,Robin-chan!
+Dialogue: 0,0:03:23.30,0:03:32.27,B1,,0000,0000,0000,,{\fad(2000,2000)}"Duel between Rubber and Ice! Luffy vs. Aokiji"
+Dialogue: 0,0:03:49.70,0:03:52.12,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:03:52.92,0:03:57.17,Default,,0000,0000,0000,,Don't yell... She'll still live\Nif you defrost her carefully.
+Dialogue: 0,0:03:58.17,0:04:01.88,Default,,0000,0000,0000,,But her body has become fragile, so be careful.
+Dialogue: 0,0:04:01.88,0:04:03.13,Default,,0000,0000,0000,,If her body is broken, she'll die.
+Dialogue: 0,0:04:03.72,0:04:05.26,Default,,0000,0000,0000,,For example...
+Dialogue: 0,0:04:05.26,0:04:06.01,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:06.47,0:04:09.39,Default,,0000,0000,0000,,if you smash it like this...
+Dialogue: 0,0:04:11.10,0:04:12.81,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:04:12.81,0:04:14.52,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:04:16.23,0:04:19.15,Default,,0000,0000,0000,,Stop it!!
+Dialogue: 0,0:04:27.49,0:04:27.95,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:04:31.75,0:04:33.75,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:04:41.21,0:04:43.55,Default,,0000,0000,0000,,--Good job!\N--Amazing, Usopp!
+Dialogue: 0,0:04:43.55,0:04:45.80,Default,,0000,0000,0000,,What the hell...?
+Dialogue: 0,0:04:45.80,0:04:47.34,Default,,0000,0000,0000,,Usopp! Chopper!
+Dialogue: 0,0:04:47.34,0:04:51.10,Default,,0000,0000,0000,,Run to the ship! Treat Robin and save her!
+Dialogue: 0,0:04:51.10,0:04:52.98,Default,,0000,0000,0000,,G-Got it!
+Dialogue: 0,0:04:53.39,0:04:55.56,Default,,0000,0000,0000,,Hurry up...! But gently, okay?
+Dialogue: 0,0:04:55.56,0:04:58.73,Default,,0000,0000,0000,,--It's cold!\N--You idiot! Think of how cold Robin is!
+Dialogue: 0,0:05:00.07,0:05:01.40,Default,,0000,0000,0000,,Don't bother...
+Dialogue: 0,0:05:02.44,0:05:05.45,Default,,0000,0000,0000,,It'd be better for the world\Nnot to save that woman.
+Dialogue: 0,0:05:09.16,0:05:13.70,Default,,0000,0000,0000,,Not to split hairs, but a pirate group\Nis a collection of people like that.
+Dialogue: 0,0:05:14.91,0:05:18.42,Default,,0000,0000,0000,,You got that right, lady.
+Dialogue: 0,0:05:18.42,0:05:20.84,Default,,0000,0000,0000,,Get out of my way, would you?
+Dialogue: 0,0:05:20.84,0:05:21.92,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:05:22.38,0:05:24.26,Default,,0000,0000,0000,,--We can't...\N--...just let you...
+Dialogue: 0,0:05:24.26,0:05:25.92,Default,,0000,0000,0000,,Wait, you two!
+Dialogue: 0,0:05:31.93,0:05:35.39,Default,,0000,0000,0000,,Don't interfere. I wanna fight him in a duel.
+Dialogue: 0,0:05:40.56,0:05:42.52,Default,,0000,0000,0000,,Let's you and me...
+Dialogue: 0,0:05:42.52,0:05:44.15,Default,,0000,0000,0000,,...settle this fight!
+Dialogue: 0,0:05:44.94,0:05:46.95,Default,,0000,0000,0000,,That's fine...
+Dialogue: 0,0:05:46.95,0:05:51.53,Default,,0000,0000,0000,,...but since I don't have a ship to\Ntake you back in, I'll kill you, okay?
+Dialogue: 0,0:05:55.45,0:05:58.04,Default,,0000,0000,0000,,She... can't breathe, can she?
+Dialogue: 0,0:05:58.04,0:06:00.33,Default,,0000,0000,0000,,I think she's probably in a\Nstate of suspended animation.
+Dialogue: 0,0:06:00.33,0:06:02.88,Default,,0000,0000,0000,,Th-Then won't she die if we don't hurry up?
+Dialogue: 0,0:06:02.88,0:06:05.67,Default,,0000,0000,0000,,But if we warm her rapidly, her body will break.
+Dialogue: 0,0:06:05.67,0:06:07.80,Default,,0000,0000,0000,,We need to restore her body\Ntemperature from the inside.
+Dialogue: 0,0:06:09.47,0:06:11.47,Default,,0000,0000,0000,,I-Is this really gonna work?
+Dialogue: 0,0:06:12.68,0:06:14.81,Default,,0000,0000,0000,,I don't know... but this is the only way...
+Dialogue: 0,0:06:15.31,0:06:18.39,Default,,0000,0000,0000,,You can't just say you don't know!\NRobin's life depends on you!!
+Dialogue: 0,0:06:19.31,0:06:23.57,Default,,0000,0000,0000,,But I've never seen a human whose\Nentire body got frozen like this!
+Dialogue: 0,0:06:24.15,0:06:27.28,Default,,0000,0000,0000,,Sure, Aokiji said she was still alive,
+Dialogue: 0,0:06:27.28,0:06:29.11,Default,,0000,0000,0000,,but to me, it's surprising that she's still alive!
+Dialogue: 0,0:06:29.11,0:06:34.54,Default,,0000,0000,0000,,Don't whine! If you can't do anything,\Nthen no one can save her!
+Dialogue: 0,0:06:34.54,0:06:37.00,Default,,0000,0000,0000,,You're the doctor on this ship!
+Dialogue: 0,0:06:37.00,0:06:39.79,Default,,0000,0000,0000,,I know that! Just shut your mouth for a while!
+Dialogue: 0,0:06:57.98,0:06:58.77,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:07:03.06,0:07:06.82,Default,,0000,0000,0000,,Ah... What?! Why?! Just the three of you?!
+Dialogue: 0,0:07:06.82,0:07:08.61,Default,,0000,0000,0000,,We'll explain it later!
+Dialogue: 0,0:07:08.61,0:07:10.36,Default,,0000,0000,0000,,We're gonna go back right away!
+Dialogue: 0,0:07:10.36,0:07:12.49,Default,,0000,0000,0000,,Do something about our frozen arm and leg!
+Dialogue: 0,0:07:13.03,0:07:15.33,Default,,0000,0000,0000,,Ahh, okay. Let's see...
+Dialogue: 0,0:07:15.33,0:07:18.70,Default,,0000,0000,0000,,We have to melt those frozen\Nareas with water immediately.
+Dialogue: 0,0:07:18.70,0:07:20.50,Default,,0000,0000,0000,,But we're using the shower\Nroom for Robin right now.
+Dialogue: 0,0:07:20.50,0:07:22.33,Default,,0000,0000,0000,,Is she okay?!
+Dialogue: 0,0:07:23.50,0:07:25.29,Default,,0000,0000,0000,,It's too early to tell.
+Dialogue: 0,0:07:25.29,0:07:26.34,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:28.92,0:07:30.01,Default,,0000,0000,0000,,So will this do?
+Dialogue: 0,0:07:34.34,0:07:36.05,Default,,0000,0000,0000,,Once you melt the ice at low temperature,
+Dialogue: 0,0:07:36.05,0:07:39.56,Default,,0000,0000,0000,,come up to the ship while\Nrubbing the affected parts!
+Dialogue: 0,0:07:39.56,0:07:41.73,Default,,0000,0000,0000,,Nami! Help us treat Robin!
+Dialogue: 0,0:07:41.73,0:07:42.48,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:48.44,0:07:51.70,Default,,0000,0000,0000,,Why are you guys here?\NWhere's Luffy?! What about Aokiji?!
+Dialogue: 0,0:07:53.03,0:07:54.95,Default,,0000,0000,0000,,Luffy said he wanted a duel.
+Dialogue: 0,0:07:54.95,0:07:58.95,Default,,0000,0000,0000,,A duel?! And you guys left\NLuffy there by himself?!
+Dialogue: 0,0:08:00.95,0:08:02.54,Default,,0000,0000,0000,,Those were the captain's orders.
+Dialogue: 0,0:08:02.54,0:08:06.08,Default,,0000,0000,0000,,Hey! Even if it was the captain's order,\Nyou can't just do that!
+Dialogue: 0,0:08:06.08,0:08:08.67,Default,,0000,0000,0000,,Aren't you guys a little\Ntoo cold-hearted?! Luffy is...
+Dialogue: 0,0:08:08.67,0:08:10.01,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:10.01,0:08:12.63,Default,,0000,0000,0000,,It's a duel. Can't you understand?!
+Dialogue: 0,0:08:12.63,0:08:14.89,Default,,0000,0000,0000,,Stop it! This is no time for that!
+Dialogue: 0,0:08:17.26,0:08:20.27,Default,,0000,0000,0000,,We're... in a crisis right now.
+Dialogue: 0,0:08:21.68,0:08:25.06,Default,,0000,0000,0000,,Whether this decision is his\Npassing whim or whatever,
+Dialogue: 0,0:08:25.52,0:08:30.32,Default,,0000,0000,0000,,if anything should happen,\Nbe prepared to respond to that!
+Dialogue: 0,0:08:37.82,0:08:41.04,Default,,0000,0000,0000,,As I thought, you're an odd one.
+Dialogue: 0,0:09:04.60,0:09:07.31,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:09:07.31,0:09:10.77,Default,,0000,0000,0000,,...Storm!
+Dialogue: 0,0:09:20.95,0:09:23.16,Default,,0000,0000,0000,,Ice Time...
+Dialogue: 0,0:09:49.10,0:09:50.65,Default,,0000,0000,0000,,Let's you and me...
+Dialogue: 0,0:09:50.65,0:09:52.73,Default,,0000,0000,0000,,...settle this fight!
+Dialogue: 0,0:09:57.65,0:10:00.66,Default,,0000,0000,0000,,Darn... I was tricked.
+Dialogue: 0,0:10:02.03,0:10:07.37,Default,,0000,0000,0000,,Since I accepted the duel,\Nthis fight ends when I win.
+Dialogue: 0,0:10:07.37,0:10:09.21,Default,,0000,0000,0000,,Now I see...
+Dialogue: 0,0:10:09.21,0:10:13.84,Default,,0000,0000,0000,,If I mess with the others now,\NI'd be the senseless one here...
+Dialogue: 0,0:10:13.84,0:10:15.67,Default,,0000,0000,0000,,...right, Captain?
+Dialogue: 0,0:10:17.42,0:10:18.51,Default,,0000,0000,0000,,Or...
+Dialogue: 0,0:10:19.38,0:10:22.47,Default,,0000,0000,0000,,...did you seriously intend to defeat me?
+Dialogue: 0,0:10:27.60,0:10:29.65,Default,,0000,0000,0000,,Let me say this.
+Dialogue: 0,0:10:29.65,0:10:32.36,Default,,0000,0000,0000,,In the future, Nico Robin will grow...
+Dialogue: 0,0:10:33.32,0:10:36.36,Default,,0000,0000,0000,,That woman will definitely grow\Nto be too much for you to handle.
+Dialogue: 0,0:10:40.24,0:10:44.33,Default,,0000,0000,0000,,You guys will no longer be able to\Nshoulder the burden of the brutal fate
+Dialogue: 0,0:10:45.24,0:10:48.08,Default,,0000,0000,0000,,that Nico Robin was born into.
+Dialogue: 0,0:10:54.54,0:10:58.72,Default,,0000,0000,0000,,That's what it means...
+Dialogue: 0,0:10:58.72,0:11:00.84,Default,,0000,0000,0000,,...to let her on your ship...
+Dialogue: 0,0:11:02.18,0:11:04.68,Default,,0000,0000,0000,,...Monkey D. Luffy!
+Dialogue: 0,0:11:10.39,0:11:16.19,Default,,0000,0000,0000,,Breaking you right here, right now\Nand killing you would be very easy,
+Dialogue: 0,0:11:16.19,0:11:17.32,Default,,0000,0000,0000,,but we owe you one.
+Dialogue: 0,0:11:22.16,0:11:26.37,Default,,0000,0000,0000,,Now I want you to cancel our debt\Nto you for suppressing Crocodile.
+Dialogue: 0,0:11:27.91,0:11:29.75,Default,,0000,0000,0000,,Also...
+Dialogue: 0,0:11:29.75,0:11:34.58,Default,,0000,0000,0000,,Err... Well, I guess I don't have\Nto talk about that idiot Smoker.
+Dialogue: 0,0:11:34.58,0:11:35.67,Default,,0000,0000,0000,,See you around!
+Dialogue: 0,0:11:42.55,0:11:44.39,Default,,0000,0000,0000,,--There he is!\N--Luffy!
+Dialogue: 0,0:11:45.64,0:11:47.64,Default,,0000,0000,0000,,He didn't get broken into pieces!
+Dialogue: 0,0:11:47.64,0:11:48.85,Default,,0000,0000,0000,,Good, good...
+Dialogue: 0,0:11:48.85,0:11:50.68,Default,,0000,0000,0000,,We'll carry him!
+Dialogue: 0,0:11:50.68,0:11:51.94,Default,,0000,0000,0000,,Let's hurry to the ship!
+Dialogue: 0,0:11:51.94,0:11:53.48,Default,,0000,0000,0000,,Don't talk at the same time!
+Dialogue: 0,0:12:03.03,0:12:08.70,Default,,0000,0000,0000,,According to this island's log,\Ntheir next destination is... Hm?
+Dialogue: 0,0:12:09.33,0:12:13.54,Default,,0000,0000,0000,,Water Seven... The city of water, huh?
+Dialogue: 0,0:12:13.54,0:12:19.88,Default,,0000,0000,0000,,Oh, my, my... They're really\Ngetting closer to our Headquarters.
+Dialogue: 0,0:12:30.72,0:12:32.35,Default,,0000,0000,0000,,Oops, sorry about that.
+Dialogue: 0,0:12:57.83,0:12:59.96,Default,,0000,0000,0000,,Both of them...
+Dialogue: 0,0:12:59.96,0:13:02.05,Default,,0000,0000,0000,,Their hearts...
+Dialogue: 0,0:13:02.71,0:13:04.09,Default,,0000,0000,0000,,...started beating!
+Dialogue: 0,0:13:04.09,0:13:06.05,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:13:06.97,0:13:08.05,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:13:08.05,0:13:10.22,Default,,0000,0000,0000,,--Robin-chan!\N--No! You can't go in yet!
+Dialogue: 0,0:13:10.22,0:13:11.85,Default,,0000,0000,0000,,You'll make a racket, right?
+Dialogue: 0,0:13:12.43,0:13:15.27,Default,,0000,0000,0000,,Hey, Dr. Chopper. I'll make something for them.
+Dialogue: 0,0:13:15.89,0:13:20.19,Default,,0000,0000,0000,,Y-You calling me "doctor" wouldn't\Nmake me feel happy, you jerk!
+Dialogue: 0,0:13:20.73,0:13:24.61,Default,,0000,0000,0000,,Ah, when they wake up, some drinks\Nthat can warm them up would be good.
+Dialogue: 0,0:13:24.61,0:13:26.40,Default,,0000,0000,0000,,I'll carry them to the lounge later.
+Dialogue: 0,0:13:26.40,0:13:27.70,Default,,0000,0000,0000,,Aye-aye, sir!
+Dialogue: 0,0:13:28.20,0:13:30.20,Default,,0000,0000,0000,,Nami, are we gonna sail out?
+Dialogue: 0,0:13:30.20,0:13:33.12,Default,,0000,0000,0000,,No, we aren't, with our captain like that.
+Dialogue: 0,0:13:33.12,0:13:35.87,Default,,0000,0000,0000,,We've already got the log,\Nbut let's stay here for today.
+Dialogue: 0,0:13:37.37,0:13:37.79,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:13:40.92,0:13:43.38,Default,,0000,0000,0000,,What's the matter, Usopp?\NAre you feeling drained?
+Dialogue: 0,0:13:44.09,0:13:48.47,Default,,0000,0000,0000,,I wonder if strong guys like him\Nare coming after us from now on...
+Dialogue: 0,0:13:51.05,0:13:54.98,Default,,0000,0000,0000,,All I did was get flustered.
+Dialogue: 0,0:13:55.93,0:13:59.27,Default,,0000,0000,0000,,Get some sleep, you idiot. You're exhausted.
+Dialogue: 0,0:14:31.30,0:14:35.22,Default,,0000,0000,0000,,In order for Luffy and Robin to get\Nsome rest, the Going Merry anchored
+Dialogue: 0,0:14:35.22,0:14:37.89,Default,,0000,0000,0000,,off the uninhabited island for four days.
+Dialogue: 0,0:14:37.89,0:14:39.64,Default,,0000,0000,0000,,After that, we sailed out.
+Dialogue: 0,0:14:39.64,0:14:42.81,Default,,0000,0000,0000,,This is the third morning since\Nwe started our voyage again.
+Dialogue: 0,0:14:42.81,0:14:45.53,Default,,0000,0000,0000,,It’s a fine day today, partly spring...
+Dialogue: 0,0:14:46.57,0:14:48.82,Default,,0000,0000,0000,,...with occasional bouts of summer.
+Dialogue: 0,0:14:53.70,0:14:55.33,Default,,0000,0000,0000,,What a beautiful day!
+Dialogue: 0,0:14:55.83,0:14:59.33,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:15:02.54,0:15:07.13,Default,,0000,0000,0000,,I made potato paille. Mademoiselle, if you like...
+Dialogue: 0,0:15:09.26,0:15:11.26,Default,,0000,0000,0000,,Hmm, this is good!
+Dialogue: 0,0:15:11.26,0:15:13.85,Default,,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:15:13.85,0:15:16.31,Default,,0000,0000,0000,,Shut up, you jerk. You're disturbing my sleep!
+Dialogue: 0,0:15:16.77,0:15:20.06,Default,,0000,0000,0000,,Yeah, yeah, sorry about that, cactus head.
+Dialogue: 0,0:15:20.06,0:15:22.15,Default,,0000,0000,0000,,What'd you say, you dartboard jerk?!
+Dialogue: 0,0:15:22.15,0:15:24.81,Default,,0000,0000,0000,,Dar... What'd you just say, you bastard?!
+Dialogue: 0,0:15:24.81,0:15:27.11,Default,,0000,0000,0000,,Dartboard eyebrows.
+Dialogue: 0,0:15:30.65,0:15:34.45,Default,,0000,0000,0000,,Luffy! Yeah! Luffy! All right!
+Dialogue: 0,0:15:34.45,0:15:38.58,Default,,0000,0000,0000,,Luffy! Yeah! Luffy!
+Dialogue: 0,0:15:41.25,0:15:42.62,Default,,0000,0000,0000,,At last!
+Dialogue: 0,0:15:42.62,0:15:43.88,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:15:50.80,0:15:52.59,Default,,0000,0000,0000,,I'm impersonating my frozen self.
+Dialogue: 0,0:16:00.77,0:16:04.73,Default,,0000,0000,0000,,Geez... I can't believe he's doing that\Nafter he got frozen and almost died.
+Dialogue: 0,0:16:06.73,0:16:10.24,Default,,0000,0000,0000,,--Did I do a good job?\N--You did! You looked exactly like that, Luffy!
+Dialogue: 0,0:16:10.24,0:16:12.74,Default,,0000,0000,0000,,Clean that up good, okay, Luffy?!
+Dialogue: 0,0:16:12.74,0:16:15.70,Default,,0000,0000,0000,,Hm? What're you eating, Nami?
+Dialogue: 0,0:16:16.24,0:16:17.78,Default,,0000,0000,0000,,It's paille, a potato dish.
+Dialogue: 0,0:16:18.91,0:16:22.08,Default,,0000,0000,0000,,Potato, huh? I'm hungry, too. Hey, Sanji!
+Dialogue: 0,0:16:22.75,0:16:25.96,Default,,0000,0000,0000,,Just how much sleep do\Nyou need to be satisfied?!
+Dialogue: 0,0:16:25.96,0:16:29.05,Default,,0000,0000,0000,,How much sleep I get is my business!\NI'll take you on if you wanna fight!
+Dialogue: 0,0:16:29.05,0:16:31.46,Default,,0000,0000,0000,,Okay, stop right there!
+Dialogue: 0,0:16:31.46,0:16:33.80,Default,,0000,0000,0000,,Hey, Sanji-kun, our captain says\Nthat he wants to eat paille.
+Dialogue: 0,0:16:33.80,0:16:35.89,Default,,0000,0000,0000,,Okay, Nami-san!
+Dialogue: 0,0:16:35.89,0:16:37.97,Default,,0000,0000,0000,,Sanji! Potatoes! Potatoes!
+Dialogue: 0,0:16:37.97,0:16:41.64,Default,,0000,0000,0000,,Even when you're recuperating,\Nyou're the same old Luffy, aren't you?
+Dialogue: 0,0:16:48.06,0:16:50.40,Default,,0000,0000,0000,,They said this is called paille. Yummy!
+Dialogue: 0,0:16:50.40,0:16:52.78,Default,,0000,0000,0000,,What's paille?
+Dialogue: 0,0:16:52.78,0:16:56.78,Default,,0000,0000,0000,,It's the tail meat of a huge monster Paille.
+Dialogue: 0,0:16:56.78,0:17:00.12,Default,,0000,0000,0000,,I killed it. It was at least 100 meters high.
+Dialogue: 0,0:17:00.79,0:17:03.29,Default,,0000,0000,0000,,100 meters?! That's amazing, Usopp!
+Dialogue: 0,0:17:03.29,0:17:05.58,Default,,0000,0000,0000,,Hmm, a piece of cake. I did it before breakfast.
+Dialogue: 0,0:17:05.58,0:17:08.33,Default,,0000,0000,0000,,What? You got up early and killed it?
+Dialogue: 0,0:17:08.33,0:17:11.59,Default,,0000,0000,0000,,Chopper, say my name.
+Dialogue: 0,0:17:11.59,0:17:15.05,Default,,0000,0000,0000,,What? That's, of course, C-Captain...
+Dialogue: 0,0:17:15.05,0:17:19.51,Default,,0000,0000,0000,,That's right! My name is... Captain... Usopp!
+Dialogue: 0,0:17:26.77,0:17:28.44,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:17:28.44,0:17:31.78,Default,,0000,0000,0000,,Yoo-hoo! Robin-chan!
+Dialogue: 0,0:17:31.78,0:17:32.78,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:17:33.32,0:17:35.74,Default,,0000,0000,0000,,How are you feeling? Do you feel a chill?
+Dialogue: 0,0:17:36.32,0:17:40.53,Default,,0000,0000,0000,,I'm feeling a lot better.\NThank you, my excellent doctor!
+Dialogue: 0,0:17:40.99,0:17:46.29,Default,,0000,0000,0000,,Oh... Being called an excellent doctor\Nwouldn't make me feel happy, you jerk.
+Dialogue: 0,0:17:46.29,0:17:48.00,Default,,0000,0000,0000,,--He sure does look happy.\N--Yeah.
+Dialogue: 0,0:17:48.00,0:17:49.83,Default,,0000,0000,0000,,Take it easy, Robin.
+Dialogue: 0,0:17:50.54,0:17:53.38,Default,,0000,0000,0000,,You might feel uneasy when you\Nsee Luffy being as good as new
+Dialogue: 0,0:17:53.38,0:17:55.42,Default,,0000,0000,0000,,after having the same experience as you,
+Dialogue: 0,0:17:55.42,0:17:57.34,Default,,0000,0000,0000,,but you can take your time and rest, you know.
+Dialogue: 0,0:17:57.34,0:17:59.22,Default,,0000,0000,0000,,--Yay!\N--That wasn't a compliment!
+Dialogue: 0,0:17:59.84,0:18:03.43,Default,,0000,0000,0000,,Robin-chan! Shall I make\Nsomething that can warm you up?
+Dialogue: 0,0:18:03.43,0:18:04.60,Default,,0000,0000,0000,,Do you have an appetite?
+Dialogue: 0,0:18:05.56,0:18:08.52,Default,,0000,0000,0000,,Then... May I have some coffee?
+Dialogue: 0,0:18:08.52,0:18:11.36,Default,,0000,0000,0000,,Okay! It's my pleasure!
+Dialogue: 0,0:18:25.83,0:18:26.91,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:27.71,0:18:28.71,Default,,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:18:36.17,0:18:40.55,Default,,0000,0000,0000,,Anyway, this paille thing is so good\Nthat we can't stop eating, isn't it?
+Dialogue: 0,0:18:40.55,0:18:42.01,Default,,0000,0000,0000,,Yeah, it's yummy!
+Dialogue: 0,0:18:42.01,0:18:44.14,Default,,0000,0000,0000,,Hey, if we sell this thing, don't you\Nthink we can make some money?
+Dialogue: 0,0:18:44.14,0:18:45.43,Default,,0000,0000,0000,,Hey, Luffy!
+Dialogue: 0,0:18:46.14,0:18:48.56,Default,,0000,0000,0000,,A-A frog is doing the front crawl!
+Dialogue: 0,0:18:48.56,0:18:49.73,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:49.73,0:18:51.77,Default,,0000,0000,0000,,It went to your side, so take a look at it!
+Dialogue: 0,0:18:51.77,0:18:54.40,Default,,0000,0000,0000,,--Is that true?\N--A frog... Could it be that frog?
+Dialogue: 0,0:18:55.11,0:18:59.65,Default,,0000,0000,0000,,Hey, Luffy, are you taking what\Nthat stupid Admiral said seriously?
+Dialogue: 0,0:18:59.65,0:19:02.57,Default,,0000,0000,0000,,To start with, there's no way a frog\Nwould do the front cra... Hey, it is!
+Dialogue: 0,0:19:02.57,0:19:04.37,Default,,0000,0000,0000,,A-A frog is doing the front crawl!
+Dialogue: 0,0:19:04.37,0:19:07.29,Default,,0000,0000,0000,,--We'll follow it, guys!\N--Yeah!
+Dialogue: 0,0:19:07.29,0:19:11.08,Default,,0000,0000,0000,,Furl the sail! Stand by the oars!\NTurn the ship to 2 o'clock!
+Dialogue: 0,0:19:11.08,0:19:13.08,Default,,0000,0000,0000,,--Yeah!\N--Hurry up!
+Dialogue: 0,0:19:13.08,0:19:16.34,Default,,0000,0000,0000,,I don't know why, but I feel\Nlike we have to go after it!
+Dialogue: 0,0:19:17.30,0:19:20.13,Default,,0000,0000,0000,,Sorry to keep you waiting, mademoiselles.
+Dialogue: 0,0:19:21.89,0:19:22.89,Default,,0000,0000,0000,,What the...
+Dialogue: 0,0:19:22.89,0:19:24.76,Default,,0000,0000,0000,,What?! What happened?!
+Dialogue: 0,0:19:27.97,0:19:30.02,Default,,0000,0000,0000,,Seems like the ship changed course.
+Dialogue: 0,0:19:30.31,0:19:34.48,Default,,0000,0000,0000,,Hey, you guys! Why'd you change\Nthe course without asking me?!
+Dialogue: 0,0:19:34.48,0:19:36.77,Default,,0000,0000,0000,,Hey, Nami, you've got to hear this!
+Dialogue: 0,0:19:36.77,0:19:39.44,Default,,0000,0000,0000,,We found a huge frog\Nwith scars all over its body!
+Dialogue: 0,0:19:40.28,0:19:41.74,Default,,0000,0000,0000,,What the heck?
+Dialogue: 0,0:19:41.74,0:19:45.53,Default,,0000,0000,0000,,We're definitely gonna roast it whole and eat it!
+Dialogue: 0,0:19:45.53,0:19:46.53,Default,,0000,0000,0000,,You're gonna eat it?!
+Dialogue: 0,0:19:48.12,0:19:49.20,Default,,0000,0000,0000,,Hey, you're right...
+Dialogue: 0,0:19:50.54,0:19:52.54,Default,,0000,0000,0000,,Hm? Is that a lighthouse?
+Dialogue: 0,0:19:53.79,0:19:58.21,Default,,0000,0000,0000,,Why is there a lighthouse in a place\Nlike that? I wonder if someone's there...
+Dialogue: 0,0:19:58.21,0:20:00.88,Default,,0000,0000,0000,,Wh-What's the matter? Do you see an island?
+Dialogue: 0,0:20:00.88,0:20:04.93,Default,,0000,0000,0000,,No, there's a lighthouse. A Log Pose\Nwouldn't point to that sort of place.
+Dialogue: 0,0:20:04.93,0:20:07.85,Default,,0000,0000,0000,,What about the frog? Tell us\Nthe direction the frog went!
+Dialogue: 0,0:20:07.85,0:20:08.85,Default,,0000,0000,0000,,Not a chance!
+Dialogue: 0,0:20:09.43,0:20:11.68,Default,,0000,0000,0000,,The frog is headed to the lighthouse.
+Dialogue: 0,0:20:11.68,0:20:15.44,Default,,0000,0000,0000,,--What?\N--To cook frogs, first remove\Nthe slime using white wine,
+Dialogue: 0,0:20:15.44,0:20:17.52,Default,,0000,0000,0000,,and then dredge them in\Nflour and fry them crisp.
+Dialogue: 0,0:20:17.52,0:20:18.86,Default,,0000,0000,0000,,Hey, Sanji-kun!
+Dialogue: 0,0:20:19.61,0:20:23.36,Default,,0000,0000,0000,,If our captain says we're going,\Nwhat choice do we have but to go?
+Dialogue: 0,0:20:23.78,0:20:25.28,Default,,0000,0000,0000,,Robin...!
+Dialogue: 0,0:20:25.28,0:20:28.28,Default,,0000,0000,0000,,All right! Full speed ahead!
+Dialogue: 0,0:20:28.28,0:20:29.41,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:29.41,0:20:31.16,Default,,0000,0000,0000,,What's with the solidarity?!
+Dialogue: 0,0:20:31.16,0:20:35.04,Default,,0000,0000,0000,,Heave-ho! Heave-ho! Heave-ho!...
+Dialogue: 0,0:20:40.59,0:20:42.17,Default,,0000,0000,0000,,It flew!
+Dialogue: 0,0:20:42.17,0:20:45.30,Default,,0000,0000,0000,,Don't let it get away! We'll move\Nahead of it and block its course!
+Dialogue: 0,0:20:45.30,0:20:49.39,Default,,0000,0000,0000,,Heave-ho! Heave-ho! Heave-ho!
+Dialogue: 0,0:21:02.24,0:21:03.95,Default,,0000,0000,0000,,We ran ashore on something!
+Dialogue: 0,0:21:06.36,0:21:09.49,Default,,0000,0000,0000,,Ahh... Nami-san, Robin-chan, are you guys okay?
+Dialogue: 0,0:21:09.99,0:21:12.25,Default,,0000,0000,0000,,Yeah, somehow...
+Dialogue: 0,0:21:12.25,0:21:13.45,Default,,0000,0000,0000,,I'm okay.
+Dialogue: 0,0:21:14.54,0:21:17.42,Default,,0000,0000,0000,,Good... Hm?
+Dialogue: 0,0:21:17.42,0:21:20.21,Default,,0000,0000,0000,,What? What's this sound?
+Dialogue: 0,0:21:20.92,0:21:22.92,Default,,0000,0000,0000,,What? What's going on?
+Dialogue: 0,0:21:38.56,0:21:40.69,Default,,0000,0000,0000,,Is this...? Don't tell me...
+Dialogue: 0,0:21:54.50,0:21:57.12,Default,,0000,0000,0000,,Why... in a place like this...?!
+Dialogue: 0,0:22:00.75,0:22:03.50,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:22:05.09,0:22:08.22,Default,,0000,0000,0000,,Go back! Go back! Turn 180 degrees!
+Dialogue: 0,0:22:20.98,0:22:23.11,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:23.11,0:22:26.65,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:26.65,0:22:32.24,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:32.24,0:22:34.54,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:34.54,0:22:37.71,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:37.71,0:22:43.13,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:43.13,0:22:46.05,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:46.05,0:22:49.05,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:49.05,0:22:51.80,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:51.80,0:22:54.89,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:54.89,0:22:57.68,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:57.68,0:23:00.52,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:23:00.52,0:23:06.19,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:23:06.19,0:23:09.07,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:23:09.07,0:23:11.82,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:23:11.82,0:23:14.41,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:14.41,0:23:19.08,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:25.42,0:23:26.55,Default,,0000,0000,0000,,What the hell is that?!
+Dialogue: 0,0:23:26.55,0:23:28.01,Default,,0000,0000,0000,,A ship?! No, it's not!
+Dialogue: 0,0:23:28.01,0:23:28.92,Default,,0000,0000,0000,,Hey, it's coming this way!
+Dialogue: 0,0:23:28.92,0:23:30.88,Default,,0000,0000,0000,,--Amazing!\N--It's not!
+Dialogue: 0,0:23:30.88,0:23:31.93,Default,,0000,0000,0000,,We'd better get out of here now!
+Dialogue: 0,0:23:31.93,0:23:33.72,Default,,0000,0000,0000,,Hey, that frog is headed towards it!
+Dialogue: 0,0:23:33.72,0:23:37.56,Default,,0000,0000,0000,,--Is he trying to collide with it?!\N--Ahh! Wait! My meat!
+Dialogue: 0,0:23:37.56,0:23:39.93,Default,,0000,0000,0000,,That's not meat!
+Dialogue: 0,0:23:39.93,0:23:41.48,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.48,0:23:44.81,Default,,0000,0000,0000,,"The Dashing Sea Train and\Nthe City of Water, Water Seven"
+Dialogue: 0,0:23:44.81,0:23:47.78,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

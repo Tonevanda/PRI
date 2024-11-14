@@ -1,0 +1,332 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:16.36,0:00:20.77,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.77,0:00:23.07,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.07,0:00:29.89,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.20,0:00:40.51,Italics,song,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:43.98,Italics,song,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,Italics,song,0000,0000,0000,,The borderline between\Nthe sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,Italics,song,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,Italics,song,0000,0000,0000,,Don't you have a good\Ntime just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.08,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.08,0:01:09.34,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.28,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.49,0:01:26.98,Italics,song,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.98,0:01:30.23,Italics,song,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,Italics,song,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:36.09,0:01:41.99,Italics,song,0000,0000,0000,,With our pulses racing,\Nlet's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,Italics,song,0000,0000,0000,,Shy hearts engrave\Nthe rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.53,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.53,0:01:55.74,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.74,0:02:00.08,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.08,0:02:02.85,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.87,Italics,song,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.87,0:02:06.62,Italics,song,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.62,0:02:08.19,Italics,song,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.19,0:02:09.85,Italics,song,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.85,0:02:11.47,Italics,song,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.47,0:02:12.98,Italics,song,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.64,Italics,song,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.64,0:02:15.71,Italics,song,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.71,0:02:19.91,Italics,song,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,Italics,song,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.65,Italics,song,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.65,0:02:29.00,Italics,song,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.19,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.19,0:02:35.54,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.54,0:02:39.51,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.80,0:02:42.67,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:47.94,0:02:51.02,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:51.02,0:02:55.02,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:55.02,0:02:58.67,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:59.86,0:03:02.77,Default,,0000,0000,0000,,Monkey D. Luffy, \Na boy whose body turned to rubber
+Dialogue: 0,0:03:02.77,0:03:04.69,Default,,0000,0000,0000,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.69,0:03:07.57,Default,,0000,0000,0000,,also takes to the sea to become\N the next King of the Pirates.
+Dialogue: 0,0:03:07.57,0:03:11.60,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:03:11.60,0:03:16.29,Default,,0000,0000,0000,,the World Government is less and\N less able to ignore their existence.
+Dialogue: 0,0:03:17.50,0:03:19.13,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:19.90,0:03:22.76,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:23.19,0:03:26.34,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.34,0:03:29.65,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:34.84,0:03:39.20,Default,,0000,0000,0000,,After being ejected from the Sabaody \NArchipelago by Bartholomew Kuma,
+Dialogue: 0,0:03:40.00,0:03:43.39,Default,,0000,0000,0000,,Luffy was separated from \Nhis friends and arrived alone
+Dialogue: 0,0:03:43.39,0:03:46.81,Default,,0000,0000,0000,,at the female-only empire of Amazon Lily.
+Dialogue: 0,0:03:48.09,0:03:49.26,Default,,0000,0000,0000,,Big Sis!
+Dialogue: 0,0:03:49.26,0:03:51.92,Default,,0000,0000,0000,,Big Sis! What happened?!
+Dialogue: 0,0:03:52.87,0:03:54.22,Default,,0000,0000,0000,,What in the world happened?!
+Dialogue: 0,0:03:54.33,0:03:55.63,Default,,0000,0000,0000,,Oh, I, uhh...
+Dialogue: 0,0:03:56.03,0:03:58.46,Default,,0000,0000,0000,,He saw my back.
+Dialogue: 0,0:03:58.90,0:04:03.07,Default,,0000,0000,0000,,After seeing the secret hidden on the \Nback of Pirate Empress Boa Hancock,
+Dialogue: 0,0:04:03.07,0:04:06.05,Default,,0000,0000,0000,,Luffy was caught by the Kuja Pirates \Nand taken to a fighting arena.
+Dialogue: 0,0:04:07.50,0:04:08.51,Default,,0000,0000,0000,,Love-Love Beam!
+Dialogue: 0,0:04:12.99,0:04:13.85,Default,,0000,0000,0000,,Hey...!
+Dialogue: 0,0:04:14.36,0:04:17.22,Default,,0000,0000,0000,,Hey, you! What did you do to them?!
+Dialogue: 0,0:04:17.51,0:04:18.90,Default,,0000,0000,0000,,They saved my life, you know!
+Dialogue: 0,0:04:19.40,0:04:22.09,Default,,0000,0000,0000,,This is the warrior nation of Amazon Lily.
+Dialogue: 0,0:04:22.48,0:04:24.62,Default,,0000,0000,0000,,The strong are beautiful.
+Dialogue: 0,0:04:25.19,0:04:27.72,Default,,0000,0000,0000,,Fight your hardest and perish.
+Dialogue: 0,0:04:27.72,0:04:29.77,Default,,0000,0000,0000,,We will watch and see you off.
+Dialogue: 0,0:04:49.57,0:04:51.42,Default,,0000,0000,0000,,You guys are screwed up.
+Dialogue: 0,0:04:53.10,0:04:54.77,Default,,0000,0000,0000,,That woman...
+Dialogue: 0,0:04:56.95,0:04:59.19,Default,,0000,0000,0000,,She turned your comrades into stone,
+Dialogue: 0,0:04:59.19,0:05:01.95,Default,,0000,0000,0000,,so how can you all sit \Nthere and laugh like that?!
+Dialogue: 0,0:05:03.45,0:05:06.40,Default,,0000,0000,0000,,Th-The savage is yelling at us!
+Dialogue: 0,0:05:06.40,0:05:08.49,Default,,0000,0000,0000,,Unbelievable! What a vicious creature!
+Dialogue: 0,0:05:08.87,0:05:10.72,Default,,0000,0000,0000,,I feel bad about those three,
+Dialogue: 0,0:05:10.72,0:05:13.73,Default,,0000,0000,0000,,but the Snake Princess was \Nright to do what she did!
+Dialogue: 0,0:05:13.73,0:05:16.90,Default,,0000,0000,0000,,They're the ones to blame! They \Nbroke the rules of our land!
+Dialogue: 0,0:05:18.65,0:05:19.72,Default,,0000,0000,0000,,Whatever I do,
+Dialogue: 0,0:05:20.03,0:05:22.26,Default,,0000,0000,0000,,I will be forgiven.
+Dialogue: 0,0:05:22.82,0:05:23.81,Default,,0000,0000,0000,,The reason for that is,
+Dialogue: 0,0:05:25.55,0:05:26.52,Default,,0000,0000,0000,,yes...
+Dialogue: 0,0:05:26.80,0:05:29.14,Default,,0000,0000,0000,,...because I'm beautiful!
+Dialogue: 0,0:05:29.63,0:05:31.52,Default,,0000,0000,0000,,You piss me off!
+Dialogue: 0,0:05:40.39,0:05:42.27,Default,,0000,0000,0000,,These guys have powers?
+Dialogue: 0,0:05:47.47,0:05:51.79,Default,,0000,0000,0000,,"A Difficult Fight for Luffy! \NThe Snake Sisters' Haki Power!!"
+Dialogue: 0,0:05:55.42,0:05:59.11,Default,,0000,0000,0000,,Execution! Execution!
+Dialogue: 0,0:05:59.47,0:06:03.38,Default,,0000,0000,0000,,Execution! Execution!...
+Dialogue: 0,0:06:26.90,0:06:29.45,Default,,0000,0000,0000,,The younger sisters' \NSnake Pit Dance is about to start!
+Dialogue: 0,0:06:36.16,0:06:40.31,DefaultLow,,0000,0000,0000,,I can't wait to see Marigold-sama's \N"Salamander" with my own eyes!
+Dialogue: 0,0:06:38.48,0:06:42.16,OS,,0000,0000,0000,,{\fad(1000)}"Youngest Sister, Marigold Snake-Snake \NFruit, Model King Cobra"
+Dialogue: 0,0:06:42.61,0:06:45.90,DefaultLow,,0000,0000,0000,,And Sandersonia-sama's \N"Eight-Headed Serpent"!
+Dialogue: 0,0:06:45.15,0:06:48.84,OS,,0000,0000,0000,,{\fad(1000)}"Middle Sister, Sandersonia \NSnake-Snake Fruit, Model Anaconda"
+Dialogue: 0,0:07:01.89,0:07:04.00,Default,,0000,0000,0000,,How magnificent she looks!
+Dialogue: 0,0:07:04.00,0:07:06.31,Default,,0000,0000,0000,,She was a strong warrior \Nto beat the Gorgon monster,
+Dialogue: 0,0:07:06.31,0:07:07.89,Default,,0000,0000,0000,,and this is proof of it!
+Dialogue: 0,0:07:07.89,0:07:10.90,Default,,0000,0000,0000,,The cursed younger sisters are lovely too!
+Dialogue: 0,0:07:22.77,0:07:25.85,Default,,0000,0000,0000,,Cursed? What're they talking about?
+Dialogue: 0,0:07:26.38,0:07:29.16,Default,,0000,0000,0000,,They look like they've \Neaten Devil Fruits to me.
+Dialogue: 0,0:07:32.37,0:07:34.43,Default,,0000,0000,0000,,He's finished for sure now!
+Dialogue: 0,0:07:34.43,0:07:36.60,Default,,0000,0000,0000,,I can't wait anymore! Hurry and start!
+Dialogue: 0,0:07:36.80,0:07:40.56,Default,,0000,0000,0000,,Execution! Execution!
+Dialogue: 0,0:07:41.03,0:07:42.74,Default,,0000,0000,0000,,Execution!...
+Dialogue: 0,0:07:42.74,0:07:44.44,Default,,0000,0000,0000,,Perhaps I should swallow him whole...
+Dialogue: 0,0:07:45.01,0:07:46.74,Default,,0000,0000,0000,,Or squeeze him to death...
+Dialogue: 0,0:07:48.43,0:07:50.60,Default,,0000,0000,0000,,Don't tell me he's scared stiff!
+Dialogue: 0,0:07:50.60,0:07:52.72,Default,,0000,0000,0000,,Just stand there and die!
+Dialogue: 0,0:07:54.88,0:07:55.91,Default,,0000,0000,0000,,Hold on! Time out!
+Dialogue: 0,0:07:57.01,0:07:59.34,Default,,0000,0000,0000,,What? Going to beg for your life?
+Dialogue: 0,0:07:59.68,0:08:02.03,Default,,0000,0000,0000,,Apologizing now won't \Nmake your crimes go away!
+Dialogue: 0,0:08:02.39,0:08:03.79,Default,,0000,0000,0000,,No, it's not that.
+Dialogue: 0,0:08:05.24,0:08:06.92,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:08:09.37,0:08:10.39,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:08:48.89,0:08:49.87,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:08:50.15,0:08:51.48,Default,,0000,0000,0000,,You're not cracked, are you?
+Dialogue: 0,0:08:54.70,0:08:56.88,Default,,0000,0000,0000,,Wait here, you guys!
+Dialogue: 0,0:08:57.54,0:09:01.10,Default,,0000,0000,0000,,Sorry you got turned\N into stone because of me!
+Dialogue: 0,0:09:01.62,0:09:04.47,Default,,0000,0000,0000,,If Chopper were here, \Nhe could've examined you right away,
+Dialogue: 0,0:09:04.89,0:09:08.11,Default,,0000,0000,0000,,but maybe you'll go back to normal again
+Dialogue: 0,0:09:08.11,0:09:10.65,Default,,0000,0000,0000,,like when Aokiji turned \Nme and Robin into ice!
+Dialogue: 0,0:09:11.45,0:09:15.48,Default,,0000,0000,0000,,Are you sure you shouldn't be \Nmore concerned about yourself?
+Dialogue: 0,0:09:15.92,0:09:17.99,Default,,0000,0000,0000,,Shut up! I can do whatever I want!
+Dialogue: 0,0:09:18.40,0:09:19.61,Default,,0000,0000,0000,,That man...
+Dialogue: 0,0:09:20.00,0:09:22.09,Default,,0000,0000,0000,,Is he trying to save Margaret and the others?
+Dialogue: 0,0:09:22.44,0:09:23.49,Default,,0000,0000,0000,,That can't be!
+Dialogue: 0,0:09:23.49,0:09:25.01,Default,,0000,0000,0000,,He's already been sentenced to death!
+Dialogue: 0,0:09:28.05,0:09:29.27,Default,,0000,0000,0000,,Alright, then...
+Dialogue: 0,0:09:29.90,0:09:32.68,Default,,0000,0000,0000,,So I just gotta kick your asses now, right?!
+Dialogue: 0,0:09:52.51,0:09:53.78,Default,,0000,0000,0000,,What a joke!
+Dialogue: 0,0:09:58.78,0:10:01.01,Default,,0000,0000,0000,,What did he just say?!
+Dialogue: 0,0:10:01.01,0:10:03.78,Default,,0000,0000,0000,,He intends to beat the younger sisters!
+Dialogue: 0,0:10:03.78,0:10:06.87,Default,,0000,0000,0000,,Hilarious! Making people laugh \Nafter being sentenced to death!
+Dialogue: 0,0:10:06.87,0:10:08.59,Default,,0000,0000,0000,,Men really are hilarious!
+Dialogue: 0,0:10:12.75,0:10:15.42,Default,,0000,0000,0000,,Is that okay, beating you up?
+Dialogue: 0,0:10:15.86,0:10:17.93,Default,,0000,0000,0000,,Yes, that's fine!
+Dialogue: 0,0:10:19.46,0:10:22.71,Default,,0000,0000,0000,,If you haven't given up on your life yet,\N then I'll warn you in advance:
+Dialogue: 0,0:10:23.54,0:10:27.39,Default,,0000,0000,0000,,I wouldn't fall into the pit between \Nthe seats and the ring if I were you!
+Dialogue: 0,0:10:28.72,0:10:30.71,Default,,0000,0000,0000,,You can fall if you'd like,
+Dialogue: 0,0:10:30.71,0:10:32.92,Default,,0000,0000,0000,,but the bottom is filled with blades, so...
+Dialogue: 0,0:10:35.22,0:10:37.40,Default,,0000,0000,0000,,Are you ready to go now?
+Dialogue: 0,0:10:37.64,0:10:39.65,Default,,0000,0000,0000,,Yeah! All set!
+Dialogue: 0,0:10:39.76,0:10:40.49,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:10:42.83,0:10:44.42,Default,,0000,0000,0000,,Then let's begin!
+Dialogue: 0,0:10:45.23,0:10:48.58,Default,,0000,0000,0000,,Kill him, Sandersonia! Marigold!
+Dialogue: 0,0:10:48.58,0:10:50.75,Default,,0000,0000,0000,,Through combat, \Ngive him the ultimate punishment
+Dialogue: 0,0:10:50.75,0:10:55.04,Default,,0000,0000,0000,,for the great crime of sneaking onto \Nour maiden island and offending me!
+Dialogue: 0,0:10:57.58,0:10:59.04,Default,,0000,0000,0000,,I've been waiting for this!
+Dialogue: 0,0:11:23.13,0:11:24.94,Default,,0000,0000,0000,,I guess he has some skill...
+Dialogue: 0,0:11:25.12,0:11:27.95,Default,,0000,0000,0000,,Get him, Marigold-sama!
+Dialogue: 0,0:11:33.76,0:11:34.49,Default,,0000,0000,0000,,What the...?!
+Dialogue: 0,0:11:37.70,0:11:39.84,Default,,0000,0000,0000,,Poison?! That was close!
+Dialogue: 0,0:11:40.58,0:11:42.49,Default,,0000,0000,0000,,Wrong! It's powerful poison!
+Dialogue: 0,0:12:02.51,0:12:03.90,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:12:03.90,0:12:05.37,Default,,0000,0000,0000,,...Stamp!
+Dialogue: 0,0:12:07.82,0:12:08.88,Default,,0000,0000,0000,,It bounced off!
+Dialogue: 0,0:12:15.39,0:12:16.71,Default,,0000,0000,0000,,That hurts!
+Dialogue: 0,0:12:16.71,0:12:18.87,Default,,0000,0000,0000,,How...?! I'm made of rubber!
+Dialogue: 0,0:12:19.07,0:12:21.21,Default,,0000,0000,0000,,See! He really is all bark and no bite!
+Dialogue: 0,0:12:21.21,0:12:24.77,Default,,0000,0000,0000,,But it's true that men stretch! How neat!
+Dialogue: 0,0:12:28.26,0:12:31.48,Default,,0000,0000,0000,,Huh?! Am I not rubber anymore?!
+Dialogue: 0,0:12:31.87,0:12:33.22,Default,,0000,0000,0000,,No, that's not it!
+Dialogue: 0,0:12:33.22,0:12:35.21,Default,,0000,0000,0000,,Then why do impact blows hurt?!
+Dialogue: 0,0:12:35.99,0:12:38.00,Default,,0000,0000,0000,,That's not fair, Mari!
+Dialogue: 0,0:12:38.00,0:12:40.11,Default,,0000,0000,0000,,You're hogging him all to yourself!
+Dialogue: 0,0:12:40.99,0:12:43.41,Default,,0000,0000,0000,,I want to have some fun with him too!
+Dialogue: 0,0:12:49.17,0:12:52.83,Default,,0000,0000,0000,,Why does that hurt?! I'm made of rubber!
+Dialogue: 0,0:12:52.83,0:12:55.22,Default,,0000,0000,0000,,Come to think of it, that axe guy also...!
+Dialogue: 0,0:12:55.57,0:12:57.34,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:12:57.79,0:12:59.89,Default,,0000,0000,0000,,...Gatling!
+Dialogue: 0,0:13:00.39,0:13:01.50,Default,,0000,0000,0000,,Hoisa!
+Dialogue: 0,0:13:01.94,0:13:03.14,Default,,0000,0000,0000,,Wh-What the...?!
+Dialogue: 0,0:13:03.59,0:13:05.43,Default,,0000,0000,0000,,Ashigara Dokkoi Shove!
+Dialogue: 0,0:13:06.83,0:13:08.59,Default,,0000,0000,0000,,It's exactly the same!
+Dialogue: 0,0:13:08.59,0:13:11.61,Default,,0000,0000,0000,,But he didn't have powers!
+Dialogue: 0,0:13:12.32,0:13:15.36,Default,,0000,0000,0000,,Does that mean it's not a Devil Fruit power?
+Dialogue: 0,0:13:16.60,0:13:19.03,Default,,0000,0000,0000,,I take it you have powers, too.
+Dialogue: 0,0:13:19.03,0:13:21.65,Default,,0000,0000,0000,,A Paramythia type, from the looks of it?
+Dialogue: 0,0:13:21.65,0:13:23.09,Default,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:13:23.09,0:13:25.36,Default,,0000,0000,0000,,Why are you lying and saying you're cursed?!
+Dialogue: 0,0:13:25.77,0:13:28.68,Default,,0000,0000,0000,,That's a secret we can't tell anyone,
+Dialogue: 0,0:13:28.68,0:13:31.55,Default,,0000,0000,0000,,not even an opponent about to die.
+Dialogue: 0,0:13:31.55,0:13:32.16,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:13:32.60,0:13:35.01,Default,,0000,0000,0000,,But I take it you can't use Haki?
+Dialogue: 0,0:13:35.01,0:13:37.48,Default,,0000,0000,0000,,Most outsiders can't.
+Dialogue: 0,0:13:37.48,0:13:39.41,Default,,0000,0000,0000,,That's why you're weak.
+Dialogue: 0,0:13:41.22,0:13:42.38,Default,,0000,0000,0000,,Left kick...
+Dialogue: 0,0:13:46.10,0:13:47.43,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:13:47.90,0:13:49.64,Default,,0000,0000,0000,,She read what I was going to do!
+Dialogue: 0,0:13:52.79,0:13:54.31,Default,,0000,0000,0000,,Snake Slam!
+Dialogue: 0,0:13:55.43,0:13:56.23,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:59.31,0:14:01.03,Default,,0000,0000,0000,,That one didn't hurt.
+Dialogue: 0,0:14:01.03,0:14:02.36,Default,,0000,0000,0000,,Same as usual.
+Dialogue: 0,0:14:02.78,0:14:04.27,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:04.27,0:14:05.16,Default,,0000,0000,0000,,...Gatling!
+Dialogue: 0,0:14:05.16,0:14:06.91,Default,,0000,0000,0000,,Snake Dance.
+Dialogue: 0,0:14:08.70,0:14:10.39,Default,,0000,0000,0000,,What amazing moves!
+Dialogue: 0,0:14:10.83,0:14:14.46,Default,,0000,0000,0000,,With Sonia-sama's Haki, \Nthere's no attack she can't dodge!
+Dialogue: 0,0:14:17.07,0:14:19.50,Default,,0000,0000,0000,,You're very straightforward.
+Dialogue: 0,0:14:19.50,0:14:21.12,Default,,0000,0000,0000,,I can read you like a book.
+Dialogue: 0,0:14:21.36,0:14:22.56,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:14:22.56,0:14:24.38,Default,,0000,0000,0000,,She's guessing my every move!
+Dialogue: 0,0:14:25.06,0:14:27.30,Default,,0000,0000,0000,,Focusing entirely on offense \Nis nice and all, but...
+Dialogue: 0,0:14:27.72,0:14:29.09,Default,,0000,0000,0000,,Snake Stick!
+Dialogue: 0,0:14:30.79,0:14:31.64,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:14:31.91,0:14:34.26,Default,,0000,0000,0000,,Don't forget that there are two of us!
+Dialogue: 0,0:14:39.01,0:14:39.81,Default,,0000,0000,0000,,Not good!
+Dialogue: 0,0:14:59.94,0:15:01.35,Default,,0000,0000,0000,,He's falling into the pit!
+Dialogue: 0,0:15:01.65,0:15:04.85,Default,,0000,0000,0000,,Something seemed unnatural \Nabout that just now...
+Dialogue: 0,0:15:05.11,0:15:05.97,Default,,0000,0000,0000,,That man...!
+Dialogue: 0,0:15:44.10,0:15:45.74,Default,,0000,0000,0000,,Th-That was close!
+Dialogue: 0,0:15:46.37,0:15:47.90,Default,,0000,0000,0000,,So close!
+Dialogue: 0,0:15:50.72,0:15:53.05,Default,,0000,0000,0000,,He should've just kept falling!
+Dialogue: 0,0:15:53.06,0:15:54.89,Default,,0000,0000,0000,,However tenacious he is,
+Dialogue: 0,0:15:54.89,0:15:57.76,Default,,0000,0000,0000,,he still doesn't stand a chance\N against the younger sisters!
+Dialogue: 0,0:15:57.76,0:15:59.07,Default,,0000,0000,0000,,They're at the very top of the Kuja Pirates!
+Dialogue: 0,0:16:10.23,0:16:13.45,Default,,0000,0000,0000,,The Snake Princess put \Nher hair behind her ear!
+Dialogue: 0,0:16:13.45,0:16:16.24,Default,,0000,0000,0000,,Her loveliness knows no bounds!
+Dialogue: 0,0:16:17.46,0:16:20.63,Default,,0000,0000,0000,,This man is the very definition \Nof "nothing but talk."
+Dialogue: 0,0:16:21.50,0:16:22.88,Default,,0000,0000,0000,,I can't help but laugh.
+Dialogue: 0,0:16:31.99,0:16:34.06,Default,,0000,0000,0000,,Shut up, you dumbass!
+Dialogue: 0,0:16:36.96,0:16:38.74,Default,,0000,0000,0000,,Oh, my!
+Dialogue: 0,0:16:39.02,0:16:41.53,Default,,0000,0000,0000,,He spoke abusively to\N the Snake Princess again!
+Dialogue: 0,0:16:41.53,0:16:44.94,Default,,0000,0000,0000,,Unforgivable! Hurry and kill him!
+Dialogue: 0,0:16:46.07,0:16:48.07,Default,,0000,0000,0000,,Sonia! Mari!
+Dialogue: 0,0:16:48.69,0:16:51.73,Default,,0000,0000,0000,,End that man's life at once!
+Dialogue: 0,0:16:53.61,0:16:55.45,Default,,0000,0000,0000,,To ensure there are no further outbursts...
+Dialogue: 0,0:16:57.35,0:16:59.65,Default,,0000,0000,0000,,...from his filthy mouth!
+Dialogue: 0,0:17:05.92,0:17:08.35,Default,,0000,0000,0000,,I was hoping to have \Na little more fun with you,
+Dialogue: 0,0:17:08.35,0:17:11.04,Default,,0000,0000,0000,,but you heard our big sister!
+Dialogue: 0,0:17:11.04,0:17:13.09,Default,,0000,0000,0000,,It looks like playtime is over now.
+Dialogue: 0,0:17:13.56,0:17:17.60,Default,,0000,0000,0000,,Let's give the criminal despair and death!
+Dialogue: 0,0:17:24.74,0:17:25.65,Default,,0000,0000,0000,,Margaret!
+Dialogue: 0,0:17:31.05,0:17:34.07,Default,,0000,0000,0000,,Hey! What're you doing?! Don't touch them!
+Dialogue: 0,0:17:37.35,0:17:38.98,Default,,0000,0000,0000,,What if she breaks?!
+Dialogue: 0,0:17:39.29,0:17:41.07,Default,,0000,0000,0000,,She saved my life, you know!
+Dialogue: 0,0:17:44.43,0:17:45.51,Default,,0000,0000,0000,,We are going to break her.
+Dialogue: 0,0:17:47.06,0:17:49.00,Default,,0000,0000,0000,,You said she saved your life.
+Dialogue: 0,0:17:49.00,0:17:50.60,Default,,0000,0000,0000,,Then that's all the more reason to.
+Dialogue: 0,0:17:50.60,0:17:52.59,Default,,0000,0000,0000,,I feel bad for her,
+Dialogue: 0,0:17:52.59,0:17:55.42,Default,,0000,0000,0000,,but this is your punishment.
+Dialogue: 0,0:17:55.42,0:17:56.69,Default,,0000,0000,0000,,Don't be stupid!
+Dialogue: 0,0:17:56.69,0:17:58.59,Default,,0000,0000,0000,,This duel is between me and you!
+Dialogue: 0,0:17:59.44,0:18:01.05,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:18:02.52,0:18:03.39,Default,,0000,0000,0000,,Above.
+Dialogue: 0,0:18:06.65,0:18:07.72,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:18:16.78,0:18:18.86,Default,,0000,0000,0000,,Damn! Let go!
+Dialogue: 0,0:18:20.71,0:18:23.89,Default,,0000,0000,0000,,You're the only one who \Nthinks this is a duel.
+Dialogue: 0,0:18:23.89,0:18:25.71,Default,,0000,0000,0000,,This is a public execution!
+Dialogue: 0,0:18:25.85,0:18:27.76,Default,,0000,0000,0000,,Just sit there and watch!
+Dialogue: 0,0:18:27.76,0:18:31.22,Default,,0000,0000,0000,,The emotional trauma you gave our \Nsister goes much further than this!
+Dialogue: 0,0:18:31.78,0:18:35.80,Default,,0000,0000,0000,,Everyone here looks up to the Snake Princess!
+Dialogue: 0,0:18:36.29,0:18:39.71,Default,,0000,0000,0000,,She's strong, noble, and the most \Nbeautiful woman in the world!
+Dialogue: 0,0:18:40.05,0:18:42.86,Default,,0000,0000,0000,,The Pirate Empress, Boa Hancock!
+Dialogue: 0,0:18:51.61,0:18:53.06,Default,,0000,0000,0000,,Hey! Stop it!
+Dialogue: 0,0:18:53.06,0:18:55.82,Default,,0000,0000,0000,,She looked up to you guys, you know!
+Dialogue: 0,0:18:57.28,0:18:59.57,Default,,0000,0000,0000,,Everyone in this land does.
+Dialogue: 0,0:18:59.57,0:19:01.78,Default,,0000,0000,0000,,So I think this is what she would want!
+Dialogue: 0,0:19:01.78,0:19:03.37,Default,,0000,0000,0000,,The hell it is!
+Dialogue: 0,0:19:03.37,0:19:04.99,Default,,0000,0000,0000,,What are you, stupid?!
+Dialogue: 0,0:19:04.99,0:19:07.58,Default,,0000,0000,0000,,Oh, my. What crude language.
+Dialogue: 0,0:19:09.76,0:19:13.13,Default,,0000,0000,0000,,After her, we'll break the other two as well.
+Dialogue: 0,0:19:14.38,0:19:17.05,Default,,0000,0000,0000,,Nice and slowly, too.
+Dialogue: 0,0:19:18.11,0:19:21.68,Default,,0000,0000,0000,,That'd make it more painful \Nfor you too, right?
+Dialogue: 0,0:19:27.88,0:19:29.20,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:19:29.46,0:19:30.52,Default,,0000,0000,0000,,Three...
+Dialogue: 0,0:19:30.87,0:19:31.86,Default,,0000,0000,0000,,Hey! Stop!
+Dialogue: 0,0:19:34.13,0:19:35.28,Default,,0000,0000,0000,,Two...
+Dialogue: 0,0:19:35.28,0:19:37.93,Default,,0000,0000,0000,,Stop it! Do you hear me?!
+Dialogue: 0,0:19:40.32,0:19:41.35,Default,,0000,0000,0000,,It's no use.
+Dialogue: 0,0:19:42.41,0:19:43.20,Default,,0000,0000,0000,,One...
+Dialogue: 0,0:19:44.17,0:19:45.11,Default,,0000,0000,0000,,Margaret!
+Dialogue: 0,0:19:53.38,0:19:57.58,Default,,0000,0000,0000,,I said stop!
+Dialogue: 0,0:21:16.99,0:21:19.17,Default,,0000,0000,0000,,The warriors are fainting!
+Dialogue: 0,0:21:38.76,0:21:41.15,Default,,0000,0000,0000,,Could this be...?!
+Dialogue: 0,0:21:49.64,0:21:50.96,Default,,0000,0000,0000,,What a relief!
+Dialogue: 0,0:21:51.24,0:21:53.15,Default,,0000,0000,0000,,She isn't hurt anywhere!
+Dialogue: 0,0:21:54.22,0:21:57.50,Default,,0000,0000,0000,,Oh, I guess you guys are sensible after all!
+Dialogue: 0,0:22:03.52,0:22:06.45,Default,,0000,0000,0000,,That was the Conqueror's Spirit just now...!
+Dialogue: 0,0:22:06.45,0:22:07.58,Default,,0000,0000,0000,,This can't be real!
+Dialogue: 0,0:22:07.58,0:22:10.62,Default,,0000,0000,0000,,Only one out of a million \Npeople can master that Haki!
+Dialogue: 0,0:22:10.62,0:22:11.93,Default,,0000,0000,0000,,Only a chosen few can use it!
+Dialogue: 0,0:22:13.51,0:22:17.89,Default,,0000,0000,0000,,I've never seen any person who \Ncan use it other than our big sister!
+Dialogue: 0,0:22:18.51,0:22:23.30,Default,,0000,0000,0000,,This boy has the "qualities of a conqueror" \Nto stand above others!
+Dialogue: 0,0:22:30.10,0:22:32.84,Default,,0000,0000,0000,,He has the Conqueror's Spirit, just as I do?!
+Dialogue: 0,0:22:33.67,0:22:34.94,Default,,0000,0000,0000,,How can this be?!
+Dialogue: 0,0:22:35.30,0:22:38.64,Default,,0000,0000,0000,,Is he no mere boy after all?!
+Dialogue: 0,0:22:41.46,0:22:44.33,Default,,0000,0000,0000,,Just who is that guy?!
+Dialogue: 0,0:22:45.33,0:22:47.41,Default,,0000,0000,0000,,What's everyone blabbing about?
+Dialogue: 0,0:22:47.41,0:22:48.72,Default,,0000,0000,0000,,What's the big deal?
+Dialogue: 0,0:22:49.43,0:22:52.03,Default,,0000,0000,0000,,He doesn't realize he used Haki?!
+Dialogue: 0,0:22:52.80,0:22:55.19,Default,,0000,0000,0000,,I guess he hasn't figured \Nout how to control it.
+Dialogue: 0,0:22:58.05,0:22:59.36,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:22:59.76,0:23:02.06,Default,,0000,0000,0000,,You showed me you're strong!
+Dialogue: 0,0:23:08.00,0:23:11.02,Default,,0000,0000,0000,,Now let's get on with the duel!
+Dialogue: 0,0:23:20.50,0:23:22.50,Default,,0000,0000,0000,,Luffy activates Second Gear,
+Dialogue: 0,0:23:22.77,0:23:26.75,Default,,0000,0000,0000,,and the sisters respond by unleashing \Ntheir true Snake-Snake powers.
+Dialogue: 0,0:23:27.03,0:23:30.18,Default,,0000,0000,0000,,Sandersonia's hair turns into giant serpents
+Dialogue: 0,0:23:30.18,0:23:32.74,Default,,0000,0000,0000,,while Marigold cloaks her body in flames,
+Dialogue: 0,0:23:32.74,0:23:35.23,Default,,0000,0000,0000,,and the sisters continue their attack.
+Dialogue: 0,0:23:35.23,0:23:36.67,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.67,0:23:39.80,Default,,0000,0000,0000,,"All-Out Special Power Battle!! \NGum-Gum vs. Snake-Snake"
+Dialogue: 0,0:23:39.80,0:23:41.95,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

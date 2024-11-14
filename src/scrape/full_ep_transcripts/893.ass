@@ -1,0 +1,313 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.42,0:00:15.55,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.42,0:00:15.55,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,Default,,0000,0000,0000,,{\i1}If you want to make it \Ncome true, Over The Top{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:25.60,0:00:28.15,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:36.41,0:00:40.04,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:36.41,0:00:40.04,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,Default,,0000,0000,0000,,{\i1}I have to keep going because \NI want to get there first{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa \Nichibannori shitain da{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,Default,,0000,0000,0000,,{\i1}Worry later since it's \Nall sink or swim anyway{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi \Ndouse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,Default,,0000,0000,0000,,{\i1}When things become tough, \Nthat's when you should laugh{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.25,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.25,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:25.29,0:01:30.54,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:25.29,0:01:30.54,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,Default,,0000,0000,0000,,{\i1}It's brighter and the \Nlevel of difficulty rises{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:19.86,0:02:23.45,Default,,0000,0000,0000,,{\i1}Listen, guys. You're in the Land of Wano.{\i0}
+Dialogue: 0,0:02:23.95,0:02:25.95,Default,,0000,0000,0000,,The Shogun's name is...
+Dialogue: 0,0:02:26.00,0:02:28.62,Default,,0000,0000,0000,,...Kurozumi Orochi!
+Dialogue: 0,0:02:30.21,0:02:34.75,Default,,0000,0000,0000,,{\i1}Until all of our allies get here\Nand we're ready to fight,{\i0}
+Dialogue: 0,0:02:35.21,0:02:38.13,Default,,0000,0000,0000,,{\i1}we can't let them know who we are!{\i0}
+Dialogue: 0,0:02:39.05,0:02:42.55,Default,,0000,0000,0000,,{\i1}So pretend that you're citizens for now{\i0}
+Dialogue: 0,0:02:42.85,0:02:46.02,Default,,0000,0000,0000,,{\i1}and quietly and peacefully,{\i0}
+Dialogue: 0,0:02:46.06,0:02:49.81,Default,,0000,0000,0000,,{\i1}play your roles!{\i0}
+Dialogue: 0,0:02:50.44,0:02:52.69,Default,,0000,0000,0000,,{\i1}I'm sorry, Kin'emon.{\i0}
+Dialogue: 0,0:03:02.20,0:03:04.55,Default,,0000,0000,0000,,Where did they go?
+Dialogue: 0,0:03:22.55,0:03:23.47,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:27.26,0:03:30.85,Default,,0000,0000,0000,,Hey, you! Don't break our ship!
+Dialogue: 0,0:03:32.44,0:03:34.06,Default,,0000,0000,0000,,It's a giant dog!
+Dialogue: 0,0:03:37.02,0:03:39.70,Default,,0000,0000,0000,,Is it a dog or boar?
+Dialogue: 0,0:04:06.45,0:04:09.20,On Top,,0000,0000,0000,,A BABOON
+Dialogue: 0,0:04:14.98,0:04:17.36,Default,,0000,0000,0000,,A sword-using animal?
+Dialogue: 0,0:04:17.40,0:04:19.92,Default,,0000,0000,0000,,So I guess this is the Land of Wano!
+Dialogue: 0,0:04:25.16,0:04:30.54,Default,,0000,0000,0000,,{\i1}"Otama Appears!\NLuffy vs. Kaido's Army!"{\i0}
+Dialogue: 0,0:04:48.85,0:04:53.60,Default,,0000,0000,0000,,I don't know what kind of wild animals you are\Nbut the first thing I see here is a fight?
+Dialogue: 0,0:05:21.46,0:05:26.59,Default,,0000,0000,0000,,Hey, guys! You can fight all you want\Nbut don't crash into the ship!
+Dialogue: 0,0:05:32.26,0:05:33.60,Default,,0000,0000,0000,,Oh yeah...
+Dialogue: 0,0:05:39.02,0:05:41.44,Default,,0000,0000,0000,,What was I doing?
+Dialogue: 0,0:05:45.07,0:05:47.03,Default,,0000,0000,0000,,I think...
+Dialogue: 0,0:06:01.59,0:06:03.71,Default,,0000,0000,0000,,Oh yeah! I remember!
+Dialogue: 0,0:06:09.93,0:06:13.93,Default,,0000,0000,0000,,When we climbed up the waterfall,\Nwe saw land...
+Dialogue: 0,0:06:13.97,0:06:17.56,Default,,0000,0000,0000,,But we were drawn into a whirlpool\Nbefore getting there...
+Dialogue: 0,0:06:18.06,0:06:19.56,Default,,0000,0000,0000,,What's this?!
+Dialogue: 0,0:06:19.73,0:06:22.40,Default,,0000,0000,0000,,Hey, the tide is running in reverse!
+Dialogue: 0,0:06:22.56,0:06:26.61,Default,,0000,0000,0000,,I can't believe this!\NAfter we climbed up the waterfall,
+Dialogue: 0,0:06:26.74,0:06:29.74,Default,,0000,0000,0000,,we're drawn into a whirlpool!
+Dialogue: 0,0:06:31.41,0:06:32.99,Default,,0000,0000,0000,,Hang tough, Sunny!
+Dialogue: 0,0:06:35.62,0:06:37.62,Default,,0000,0000,0000,,Nami-{\i1}san{\i0}, hold onto me!
+Dialogue: 0,0:06:37.79,0:06:39.67,Default,,0000,0000,0000,,Thank you, Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:06:39.83,0:06:42.33,Default,,0000,0000,0000,,You're most welcome, Nami-{\i1}san{\i0}!
+Dialogue: 0,0:06:42.46,0:06:43.38,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:06:43.54,0:06:45.05,Default,,0000,0000,0000,,Yeah, hold onto me!
+Dialogue: 0,0:06:45.36,0:06:47.72,Default,,0000,0000,0000,,Okay, I'm gonna jump to land!
+Dialogue: 0,0:06:49.76,0:06:52.30,Default,,0000,0000,0000,,--Ready?!\N--Wait, Sanji!
+Dialogue: 0,0:06:54.22,0:06:57.02,Default,,0000,0000,0000,,Take me with you!
+Dialogue: 0,0:06:57.18,0:06:58.60,Default,,0000,0000,0000,,Chobro!
+Dialogue: 0,0:06:58.77,0:07:00.14,Default,,0000,0000,0000,,I can't! Too heavy!
+Dialogue: 0,0:07:00.39,0:07:03.56,Default,,0000,0000,0000,,No! Don't leave me behind!
+Dialogue: 0,0:07:04.24,0:07:06.03,Default,,0000,0000,0000,,I'm sorry but you need to let go.
+Dialogue: 0,0:07:07.53,0:07:09.78,Default,,0000,0000,0000,,How could you...?!
+Dialogue: 0,0:07:10.11,0:07:12.99,Default,,0000,0000,0000,,Just kidding. Hold on tightly!
+Dialogue: 0,0:07:13.16,0:07:14.53,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:07:16.79,0:07:19.54,Default,,0000,0000,0000,,Now, allow me to join.
+Dialogue: 0,0:07:20.71,0:07:22.33,Default,,0000,0000,0000,,I love you all!
+Dialogue: 0,0:07:22.37,0:07:24.17,Default,,0000,0000,0000,,Squeeze!
+Dialogue: 0,0:07:24.46,0:07:26.75,Default,,0000,0000,0000,,I feel some hard bones!
+Dialogue: 0,0:07:26.92,0:07:29.59,Default,,0000,0000,0000,,Hey! Bones... Bones are gross!
+Dialogue: 0,0:07:29.76,0:07:32.51,Default,,0000,0000,0000,,That's disgusting! Don't squeeze me!
+Dialogue: 0,0:07:32.55,0:07:35.01,Default,,0000,0000,0000,,I thought you could run on the water!
+Dialogue: 0,0:07:35.30,0:07:39.98,Default,,0000,0000,0000,,You're terrible!\NI can't run on such a stormy sea!
+Dialogue: 0,0:07:40.44,0:07:42.15,Default,,0000,0000,0000,,Baron Corpse!
+Dialogue: 0,0:07:42.15,0:07:46.52,Default,,0000,0000,0000,,Now, Sanji-{\i1}san{\i0}! Let's jump in a snap!\NJust like a bone!
+Dialogue: 0,0:07:46.52,0:07:47.19,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:47.52,0:07:49.74,Default,,0000,0000,0000,,Use my belly, Sanji!
+Dialogue: 0,0:07:52.28,0:07:53.41,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:57.79,0:07:59.08,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:07:59.24,0:08:01.75,Default,,0000,0000,0000,,Yeah! I'll come right after you!
+Dialogue: 0,0:08:04.96,0:08:07.13,Default,,0000,0000,0000,,Okay, I'm gonna take off!
+Dialogue: 0,0:08:07.17,0:08:10.34,Default,,0000,0000,0000,,Sunny! I promise I'll find you later!
+Dialogue: 0,0:08:16.26,0:08:18.76,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:08:21.73,0:08:23.56,Default,,0000,0000,0000,,The octopus?!
+Dialogue: 0,0:08:24.19,0:08:27.86,Default,,0000,0000,0000,,What do you still want from me?!
+Dialogue: 0,0:08:28.27,0:08:32.19,Default,,0000,0000,0000,,You damn octopus!
+Dialogue: 0,0:08:47.08,0:08:50.21,Default,,0000,0000,0000,,Then, I was here when I woke up.
+Dialogue: 0,0:08:50.88,0:08:53.90,Default,,0000,0000,0000,,So am I above the waterfall?\NOr did I fall?
+Dialogue: 0,0:08:54.38,0:08:56.84,Default,,0000,0000,0000,,Am I in the Land of Wano?
+Dialogue: 0,0:09:04.10,0:09:06.52,Default,,0000,0000,0000,,Oh? The Vivre Card is gone!
+Dialogue: 0,0:09:08.06,0:09:11.23,Default,,0000,0000,0000,,I lost it! Is it in the sea?!
+Dialogue: 0,0:09:11.73,0:09:14.19,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:09:17.36,0:09:19.45,Default,,0000,0000,0000,,Oh, what the hell! Forget it.
+Dialogue: 0,0:09:19.83,0:09:21.20,Default,,0000,0000,0000,,Magistrate-{\i1}sama{\i0}!
+Dialogue: 0,0:09:21.37,0:09:24.66,Default,,0000,0000,0000,,You committed a high crime! Zorojuro!
+Dialogue: 0,0:09:35.34,0:09:39.01,Default,,0000,0000,0000,,--You damn slasher!\N--You're not gonna admit your guilt?!
+Dialogue: 0,0:09:59.16,0:10:01.53,Default,,0000,0000,0000,,--Three swords?!\N--What?!
+Dialogue: 0,0:10:11.75,0:10:14.38,Default,,0000,0000,0000,,Come on! Don't be daunted! Attack!
+Dialogue: 0,0:10:20.43,0:10:21.60,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:10:21.76,0:10:23.99,Default,,0000,0000,0000,,Dragon Twister!
+Dialogue: 0,0:11:00.72,0:11:03.87,Default,,0000,0000,0000,,If nothing else, the weather is pretty nice\Nin this country.
+Dialogue: 0,0:11:04.47,0:11:06.43,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:11:06.56,0:11:11.02,Default,,0000,0000,0000,,Let me go!\NI didn't say anything like that!
+Dialogue: 0,0:11:11.06,0:11:13.73,Default,,0000,0000,0000,,Give me back my rice, too!
+Dialogue: 0,0:11:14.06,0:11:16.36,Default,,0000,0000,0000,,No, I'm sure you said it!
+Dialogue: 0,0:11:16.98,0:11:22.11,Default,,0000,0000,0000,,When the Kozuki Clan comes back,\Nthey'll teach you a lesson!
+Dialogue: 0,0:11:22.36,0:11:23.74,Default,,0000,0000,0000,,You traitor...
+Dialogue: 0,0:11:24.37,0:11:28.33,Default,,0000,0000,0000,,You're an ally of that evil \Nfamily, the Kozuki Clan!
+Dialogue: 0,0:11:28.54,0:11:30.10,Default,,0000,0000,0000,,It's a serious crime!
+Dialogue: 0,0:11:30.10,0:11:32.82,Default,,0000,0000,0000,,We'll either sell you to a brothel\Nor send you to prison.
+Dialogue: 0,0:11:32.82,0:11:34.13,Default,,0000,0000,0000,,There'll be no mercy!
+Dialogue: 0,0:11:34.59,0:11:37.63,Default,,0000,0000,0000,,--But...\N--Could you shut up for a minute?
+Dialogue: 0,0:11:38.01,0:11:40.01,Default,,0000,0000,0000,,We're on duty now!
+Dialogue: 0,0:11:42.63,0:11:44.64,Default,,0000,0000,0000,,Look! There's a ship on the beach!
+Dialogue: 0,0:11:44.76,0:11:46.47,Default,,0000,0000,0000,,Just one survivor?
+Dialogue: 0,0:11:46.64,0:11:49.77,Default,,0000,0000,0000,,The baboon's having trouble \Nwith the lion-dog!
+Dialogue: 0,0:11:49.77,0:11:52.23,Default,,0000,0000,0000,,I thought he was a more \Ndependable guard than that.
+Dialogue: 0,0:11:53.85,0:11:55.40,Default,,0000,0000,0000,,{\i1}Oh! Komachiyo?!{\i0}
+Dialogue: 0,0:11:58.86,0:12:01.36,Default,,0000,0000,0000,,Guys, that's enough...
+Dialogue: 0,0:12:01.53,0:12:05.66,Default,,0000,0000,0000,,Boss! It was there, just as the report said!\NThe trespassing ship!
+Dialogue: 0,0:12:05.87,0:12:07.45,Default,,0000,0000,0000,,{\i1}Do you see its crew?{\i0}
+Dialogue: 0,0:12:07.62,0:12:08.79,Default,,0000,0000,0000,,We saw one.
+Dialogue: 0,0:12:09.17,0:12:10.11,Default,,0000,0000,0000,,One, huh?
+Dialogue: 0,0:12:10.58,0:12:15.88,Default,,0000,0000,0000,,{\i1}We'll knock him out and take him with us!\NHe'll at least become our laborer!{\i0}
+Dialogue: 0,0:12:21.05,0:12:23.55,Default,,0000,0000,0000,,Good boy. Sleep well!
+Dialogue: 0,0:12:25.05,0:12:29.37,Default,,0000,0000,0000,,When you wake up,\Nwe'll treat you well... as our slave!
+Dialogue: 0,0:12:53.33,0:12:55.83,Default,,0000,0000,0000,,Good boy. Sleep well!
+Dialogue: 0,0:12:57.33,0:13:01.64,Default,,0000,0000,0000,,When you wake up,\Nwe'll treat you well... as our slave!
+Dialogue: 0,0:13:09.97,0:13:11.28,Default,,0000,0000,0000,,He dodged?!
+Dialogue: 0,0:13:30.20,0:13:31.24,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:13:36.71,0:13:38.42,Default,,0000,0000,0000,,Who's attacking me suddenly?!
+Dialogue: 0,0:13:38.58,0:13:39.86,Default,,0000,0000,0000,,Bastard!
+Dialogue: 0,0:13:44.92,0:13:46.10,Default,,0000,0000,0000,,I can't hit him!
+Dialogue: 0,0:13:47.43,0:13:49.05,Default,,0000,0000,0000,,{\i1}Hey, what's going on?{\i0}
+Dialogue: 0,0:13:49.64,0:13:51.25,Default,,0000,0000,0000,,Well, it's nothing...
+Dialogue: 0,0:14:08.07,0:14:10.29,Default,,0000,0000,0000,,This beach is so noisy.
+Dialogue: 0,0:14:17.12,0:14:18.42,Default,,0000,0000,0000,,Dammit...
+Dialogue: 0,0:14:19.04,0:14:23.59,Default,,0000,0000,0000,,Hey, baboon!\NDon't just stand there and watch!
+Dialogue: 0,0:14:23.92,0:14:27.26,Default,,0000,0000,0000,,Forget the dog now! Catch that guy!
+Dialogue: 0,0:14:32.63,0:14:35.85,Default,,0000,0000,0000,,No, I give you permission! Kill him!
+Dialogue: 0,0:15:07.55,0:15:08.84,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:15:45.29,0:15:46.25,Default,,0000,0000,0000,,Good!
+Dialogue: 0,0:15:46.38,0:15:49.35,Default,,0000,0000,0000,,Don't fight so much, guys!
+Dialogue: 0,0:15:52.40,0:15:55.24,Default,,0000,0000,0000,,Why are you getting intimidated?!
+Dialogue: 0,0:15:55.24,0:15:57.81,Default,,0000,0000,0000,,There's just one pirate!
+Dialogue: 0,0:16:11.74,0:16:15.70,Default,,0000,0000,0000,,Look what you did, you squirt!
+Dialogue: 0,0:16:16.45,0:16:18.70,Default,,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:16:19.54,0:16:21.83,Default,,0000,0000,0000,,Damn brat, stop!
+Dialogue: 0,0:16:21.83,0:16:23.62,Default,,0000,0000,0000,,F-Forgive me!
+Dialogue: 0,0:16:38.10,0:16:39.52,Default,,0000,0000,0000,,I surrender!
+Dialogue: 0,0:16:39.77,0:16:41.48,Default,,0000,0000,0000,,I surrender!
+Dialogue: 0,0:16:42.81,0:16:44.23,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:16:45.15,0:16:49.66,Default,,0000,0000,0000,,I said I surrender! I surrender!
+Dialogue: 0,0:16:50.09,0:16:53.17,On Top,,0000,0000,0000,,OTAMA
+Dialogue: 0,0:16:54.28,0:16:56.66,Default,,0000,0000,0000,,I'm not gonna do anything to you!
+Dialogue: 0,0:16:56.82,0:16:59.62,Default,,0000,0000,0000,,Y-You mean it?
+Dialogue: 0,0:17:00.16,0:17:01.12,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:01.66,0:17:03.46,Default,,0000,0000,0000,,U-Um...
+Dialogue: 0,0:17:04.21,0:17:08.75,Default,,0000,0000,0000,,I'm sorry but while you're here,\Nmay I have some of your time?
+Dialogue: 0,0:17:08.75,0:17:10.47,Default,,0000,0000,0000,,Th-This is my chance!
+Dialogue: 0,0:17:11.34,0:17:13.76,Default,,0000,0000,0000,,Chance? What do you mean?
+Dialogue: 0,0:17:13.92,0:17:17.14,Default,,0000,0000,0000,,--All right. Let's do it.\N--Huh? What are you gonna do?
+Dialogue: 0,0:17:17.30,0:17:20.39,Default,,0000,0000,0000,,Kibi Dango!
+Dialogue: 0,0:17:23.60,0:17:25.39,Default,,0000,0000,0000,,Here it is!
+Dialogue: 0,0:17:25.56,0:17:28.31,Default,,0000,0000,0000,,What?! Your cheek came off!
+Dialogue: 0,0:17:34.90,0:17:36.53,Default,,0000,0000,0000,,You can eat this!
+Dialogue: 0,0:17:46.17,0:17:48.82,Default,,0000,0000,0000,,The slasher cut Magistrate-{\i1}sama{\i0}?!
+Dialogue: 0,0:17:48.82,0:17:51.62,Default,,0000,0000,0000,,Yeah, he hasn't been caught yet!
+Dialogue: 0,0:17:51.61,0:17:53.09,Default,,0000,0000,0000,,How scary!
+Dialogue: 0,0:17:53.63,0:17:54.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:55.67,0:17:57.66,Default,,0000,0000,0000,,Three-Sword Style?!
+Dialogue: 0,0:17:58.05,0:18:01.06,Default,,0000,0000,0000,,Yeah, it says so on the \Nwanted poster right there!
+Dialogue: 0,0:18:01.06,0:18:02.66,Default,,0000,0000,0000,,That's serious!
+Dialogue: 0,0:18:03.18,0:18:06.90,Default,,0000,0000,0000,,Not only Magistrate-{\i1}sama \{\i0}Nbut he also sliced up
+Dialogue: 0,0:18:06.90,0:18:09.89,Default,,0000,0000,0000,,all the samurai there with a massive twister!
+Dialogue: 0,0:18:09.89,0:18:13.90,Default,,0000,0000,0000,,But Three-Sword Style \Ntakes three swords, right?
+Dialogue: 0,0:18:13.94,0:18:17.04,Default,,0000,0000,0000,,One in the right hand\Nand another one in the left hand.
+Dialogue: 0,0:18:17.70,0:18:20.24,Default,,0000,0000,0000,,How does he hold the third one?
+Dialogue: 0,0:18:20.41,0:18:22.49,Default,,0000,0000,0000,,Well, of course...
+Dialogue: 0,0:18:22.49,0:18:24.58,Default,,0000,0000,0000,,Like this!
+Dialogue: 0,0:18:24.70,0:18:29.08,Default,,0000,0000,0000,,--No way!\N--You're so funny, Franosuke!
+Dialogue: 0,0:18:29.79,0:18:31.43,Default,,0000,0000,0000,,Thanks, thanks!
+Dialogue: 0,0:18:32.63,0:18:35.21,Default,,0000,0000,0000,,Hey! Hey! Hey! Hey! Hey! Hey!
+Dialogue: 0,0:18:35.46,0:18:39.93,Default,,0000,0000,0000,,Enough fooling around!\NIt's gonna get dark, you idiots!
+Dialogue: 0,0:18:40.84,0:18:42.81,Default,,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:18:43.31,0:18:46.85,Default,,0000,0000,0000,,{\i1}What did he do?! Dammit, Zoro!{\i0}
+Dialogue: 0,0:18:47.48,0:18:51.81,Default,,0000,0000,0000,,Okay, hurry up! By performing in front of customers,\Nyou can improve yourself!
+Dialogue: 0,0:18:52.56,0:18:54.47,Default,,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:57.57,0:18:59.64,Default,,0000,0000,0000,,Oh? What is it?
+Dialogue: 0,0:18:59.64,0:19:01.49,Default,,0000,0000,0000,,I'll go and look.
+Dialogue: 0,0:19:05.66,0:19:06.83,Default,,0000,0000,0000,,Z-Zoro!
+Dialogue: 0,0:19:06.85,0:19:09.39,On Top,,0000,0000,0000,,ZOROJURO - A SERIOUS CRIMINAL\NMURDERING THE MAGISTRATE
+Dialogue: 0,0:19:09.83,0:19:14.04,Default,,0000,0000,0000,,You can't take your eyes off of the poster?\NIs that someone you know?
+Dialogue: 0,0:19:14.21,0:19:17.92,Default,,0000,0000,0000,,--N-No.\N--Oh, okay. Then, let's go!
+Dialogue: 0,0:19:17.92,0:19:18.79,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:19:20.55,0:19:23.23,Default,,0000,0000,0000,,It has nothing to do with us.
+Dialogue: 0,0:19:23.76,0:19:26.69,Default,,0000,0000,0000,,{\i1}Zoro... What did you do?!{\i0}
+Dialogue: 0,0:19:29.64,0:19:31.90,Default,,0000,0000,0000,,Hm? A placard?!
+Dialogue: 0,0:19:33.52,0:19:35.82,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:19:36.15,0:19:39.03,Default,,0000,0000,0000,,Man, he went on a rampage this time!
+Dialogue: 0,0:19:39.19,0:19:39.98,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:40.86,0:19:44.38,Default,,0000,0000,0000,,Seems like you know that person!
+Dialogue: 0,0:19:45.08,0:19:45.93,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:48.75,0:19:54.75,Default,,0000,0000,0000,,No way, Officer-{\i1}sama{\i0}!\NPlease catch that ruffian as soon as possible!
+Dialogue: 0,0:19:54.88,0:19:57.46,Default,,0000,0000,0000,,Otherwise, I can't help being scared!
+Dialogue: 0,0:19:57.50,0:20:00.59,Default,,0000,0000,0000,,I have ten kids\Nand the oldest is still seven!
+Dialogue: 0,0:20:00.84,0:20:06.68,Default,,0000,0000,0000,,When I think that they might get hurt,\NI can't even let them walk outside!
+Dialogue: 0,0:20:07.06,0:20:10.30,Default,,0000,0000,0000,,I'm begging you! Officer-{\i1}sama{\i0}!
+Dialogue: 0,0:20:12.77,0:20:15.48,Default,,0000,0000,0000,,Okay! Count on me, brother!
+Dialogue: 0,0:20:15.48,0:20:19.32,Default,,0000,0000,0000,,I'm gonna catch him at any cost!
+Dialogue: 0,0:20:19.78,0:20:22.25,Default,,0000,0000,0000,,Hey! Get outta my way!
+Dialogue: 0,0:20:24.49,0:20:27.15,Default,,0000,0000,0000,,{\i1}Damn it all, Zoro!{\i0}
+Dialogue: 0,0:20:27.66,0:20:29.45,Default,,0000,0000,0000,,Catch him no matter what!
+Dialogue: 0,0:20:29.45,0:20:30.42,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:35.75,0:20:38.34,Default,,0000,0000,0000,,Gee, they need to keep it down...
+Dialogue: 0,0:20:41.88,0:20:42.82,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:44.72,0:20:47.34,Default,,0000,0000,0000,,They've already got my face up.
+Dialogue: 0,0:20:51.35,0:20:53.06,Default,,0000,0000,0000,,You can eat this!
+Dialogue: 0,0:21:02.65,0:21:04.74,Default,,0000,0000,0000,,W-What are you doing?
+Dialogue: 0,0:21:19.09,0:21:20.07,Default,,0000,0000,0000,,Shake hands!
+Dialogue: 0,0:21:25.34,0:21:28.40,Default,,0000,0000,0000,,What?! That beast is tamed!
+Dialogue: 0,0:21:28.97,0:21:30.68,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:21:31.03,0:21:36.60,Default,,0000,0000,0000,,I finally befriended the savage wild baboon\Nof the mountain!
+Dialogue: 0,0:21:36.60,0:21:37.69,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:21:37.69,0:21:39.77,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:21:39.94,0:21:44.28,Default,,0000,0000,0000,,You're a power-user!\NThat's a very handy power!
+Dialogue: 0,0:21:49.28,0:21:52.35,Default,,0000,0000,0000,,Okay, okay. You're our friend now!
+Dialogue: 0,0:21:55.41,0:21:56.37,Default,,0000,0000,0000,,Good boy.
+Dialogue: 0,0:21:56.54,0:21:58.42,Default,,0000,0000,0000,,Is that your dog?
+Dialogue: 0,0:21:59.25,0:22:02.46,Default,,0000,0000,0000,,Yes, he is! His name is Komachiyo!
+Dialogue: 0,0:22:03.88,0:22:06.05,Default,,0000,0000,0000,,Oh, Komachiyo!
+Dialogue: 0,0:22:06.05,0:22:09.07,Default,,0000,0000,0000,,Good to see you! I'm Luffy!
+Dialogue: 0,0:22:13.18,0:22:15.81,Default,,0000,0000,0000,,And my name is Otama.
+Dialogue: 0,0:22:16.73,0:22:19.98,Default,,0000,0000,0000,,Okay, Otama! Good to see you, too!
+Dialogue: 0,0:22:20.11,0:22:22.44,Default,,0000,0000,0000,,--Nice to meet you!\N--Now...
+Dialogue: 0,0:22:22.61,0:22:26.65,Default,,0000,0000,0000,,I need to know if this is \Nthe Land of Wano or not.
+Dialogue: 0,0:22:27.03,0:22:28.72,Default,,0000,0000,0000,,This country?
+Dialogue: 0,0:22:30.32,0:22:33.19,Default,,0000,0000,0000,,Yes, this is the Land of Wano!
+Dialogue: 0,0:22:33.78,0:22:37.52,Default,,0000,0000,0000,,You're in a region called Kuri\Nin the Land of Wano!
+Dialogue: 0,0:22:37.87,0:22:39.12,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:22:39.29,0:22:42.25,Default,,0000,0000,0000,,I see! This is the Land of Wano!
+Dialogue: 0,0:22:43.05,0:22:46.23,Default,,0000,0000,0000,,As I thought, I've arrived \Nat the Land of Wano!
+Dialogue: 0,0:22:46.97,0:22:49.30,Default,,0000,0000,0000,,Wait for me, Kaido!
+Dialogue: 0,0:22:49.30,0:22:51.01,Default,,0000,0000,0000,,Wait, did you call me "Big Bro"?!
+Dialogue: 0,0:22:51.35,0:22:54.35,Default,,0000,0000,0000,,Hey! When did I become your big brother?!
+Dialogue: 0,0:22:55.64,0:22:57.81,Default,,0000,0000,0000,,A big brother is a big brother!
+Dialogue: 0,0:22:58.10,0:23:01.23,Default,,0000,0000,0000,,What do you mean by that?\NWell, whatever.
+Dialogue: 0,0:23:01.40,0:23:03.85,Default,,0000,0000,0000,,Okay, Big Bro!
+Dialogue: 0,0:23:20.29,0:23:22.68,Italics,,0000,0000,0000,,{\i1}Transcending time and space, the bond between
+Dialogue: 0,0:23:22.68,0:23:24.68,Italics,,0000,0000,0000,,Ace and Luffy is reconnected \Nin the Land of Wano!{\i0}
+Dialogue: 0,0:23:24.68,0:23:28.47,Italics,,0000,0000,0000,,{\i1}What did Ace promise Otama \Nafter he saved her village?
+Dialogue: 0,0:23:28.47,0:23:31.18,Italics,,0000,0000,0000,,Another legend of Ace is revealed!{\i0}
+Dialogue: 0,0:23:31.18,0:23:33.64,Italics,,0000,0000,0000,,{\i1}And with the appearance \Nof a rookie with a bounty
+Dialogue: 0,0:23:33.64,0:23:35.68,Italics,,0000,0000,0000,,of over 100 million, \Nanother crisis closes in!{\i0}
+Dialogue: 0,0:23:35.68,0:23:36.93,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.93,0:23:40.27,Default,,0000,0000,0000,,"He'll Come! The Legend of \NAce in the Land of Wano!"
+Dialogue: 0,0:23:40.27,0:23:42.61,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:43.21,0:23:45.21,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:45.21,0:23:47.21,On Top,,0000,0000,0000,,

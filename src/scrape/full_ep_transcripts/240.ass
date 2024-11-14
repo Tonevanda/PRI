@@ -1,0 +1,383 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:19.54,0:00:23.46,Default,,0000,0000,0000,,Well... you wanted to see me...\Nright, pirate lad?
+Dialogue: 0,0:00:23.46,0:00:25.92,Default,,0000,0000,0000,,I came to hear the truth!
+Dialogue: 0,0:00:27.33,0:00:30.59,Default,,0000,0000,0000,,Last night, I saw Nico Robin with my own eyes.
+Dialogue: 0,0:00:32.38,0:00:35.89,Default,,0000,0000,0000,,And... she is one of you.
+Dialogue: 0,0:00:35.89,0:00:37.39,Default,,0000,0000,0000,,That's the truth.
+Dialogue: 0,0:00:37.39,0:00:40.72,Default,,0000,0000,0000,,Was it really Robin?!
+Dialogue: 0,0:00:40.72,0:00:42.18,Default,,0000,0000,0000,,Don't say a word.
+Dialogue: 0,0:00:43.64,0:00:46.85,Default,,0000,0000,0000,,Your words no longer mean anything.
+Dialogue: 0,0:00:47.81,0:00:49.90,Default,,0000,0000,0000,,I called you in here...
+Dialogue: 0,0:00:49.90,0:00:52.11,Default,,0000,0000,0000,,...because I have a favor to ask.
+Dialogue: 0,0:00:52.11,0:00:56.07,Default,,0000,0000,0000,,Let me see Nico Robin again now!
+Dialogue: 0,0:00:56.86,0:00:58.78,Default,,0000,0000,0000,,Extra! Extra!
+Dialogue: 0,0:00:58.78,0:01:04.71,Default,,0000,0000,0000,,The culprits for Mr. Iceberg's\Nattack were the Straw Hat pirates!
+Dialogue: 0,0:01:04.71,0:01:09.88,Default,,0000,0000,0000,,We, Water-Water Newspaper, will buy\Nany information on their sightings!
+Dialogue: 0,0:01:20.51,0:01:25.60,Default,,0000,0000,0000,,I'll say it again. Let me see Nico Robin.
+Dialogue: 0,0:01:26.89,0:01:29.23,Default,,0000,0000,0000,,That's not possible.
+Dialogue: 0,0:01:29.86,0:01:31.69,Default,,0000,0000,0000,,We don't know where she is.
+Dialogue: 0,0:01:39.20,0:01:40.16,Default,,0000,0000,0000,,Gunfire!
+Dialogue: 0,0:01:41.33,0:01:42.45,Default,,0000,0000,0000,,It came from the bedroom!
+Dialogue: 0,0:01:47.12,0:01:49.33,Default,,0000,0000,0000,,Iceberg-san!
+Dialogue: 0,0:01:55.46,0:01:58.01,Default,,0000,0000,0000,,Y-You're okay...
+Dialogue: 0,0:01:58.63,0:02:00.14,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:02:00.80,0:02:04.64,Default,,0000,0000,0000,,I bet on a silly hope that I might\Nbe able to get closer to the truth.
+Dialogue: 0,0:02:05.47,0:02:09.10,Default,,0000,0000,0000,,Capture... all the Straw Hats!
+Dialogue: 0,0:02:09.10,0:02:10.86,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:02:14.36,0:02:15.90,Default,,0000,0000,0000,,Hey, Luffy...
+Dialogue: 0,0:02:16.44,0:02:19.49,Default,,0000,0000,0000,,Were you able to talk to\NIceberg-san by any chance?
+Dialogue: 0,0:02:19.49,0:02:22.70,Default,,0000,0000,0000,,Yeah. He said he really saw Robin.
+Dialogue: 0,0:02:22.70,0:02:26.50,Default,,0000,0000,0000,,Can't be...! Why would Robin\Ndo something like that?
+Dialogue: 0,0:02:28.83,0:02:30.83,Default,,0000,0000,0000,,I refuse to believe it!
+Dialogue: 0,0:02:35.75,0:02:40.13,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:02:40.13,0:02:43.64,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:02:43.64,0:02:46.97,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:02:46.97,0:02:50.64,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:02:57.90,0:03:05.62,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:03:05.62,0:03:12.92,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:03:12.92,0:03:19.88,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:03:19.88,0:03:27.01,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:03:27.01,0:03:30.43,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:03:30.43,0:03:34.36,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:03:34.36,0:03:38.36,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:03:38.36,0:03:41.45,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:03:41.45,0:03:45.57,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:03:45.57,0:03:49.12,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:03:49.12,0:03:52.16,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:03:52.16,0:03:56.42,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:03:56.42,0:04:00.34,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:04:00.34,0:04:03.63,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:04:03.63,0:04:06.60,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:04:06.60,0:04:12.35,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:04:12.35,0:04:15.02,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:04:22.03,0:04:31.08,B1,,0000,0000,0000,,{\fad(2000,2000)}"Eternal Farewell? Nico Robin,\Nthe Woman Who Draws Darkness"
+Dialogue: 0,0:04:33.33,0:04:37.58,Default,,0000,0000,0000,,We're here! We're here!\NGrandma Kokoro! Hurry! Hurry!
+Dialogue: 0,0:04:37.58,0:04:39.59,Default,,0000,0000,0000,,Don't get carried away.
+Dialogue: 0,0:04:42.84,0:04:46.68,Default,,0000,0000,0000,,Water Seven... It's been a while...
+Dialogue: 0,0:04:46.68,0:04:48.64,Default,,0000,0000,0000,,Grandma! Hurry! Hurry!
+Dialogue: 0,0:04:48.64,0:04:49.97,Default,,0000,0000,0000,,Okay, okay.
+Dialogue: 0,0:04:51.14,0:04:55.14,Default,,0000,0000,0000,,Wearing a mask is prohibited today\Nwhen you get on board the sea train.
+Dialogue: 0,0:04:55.85,0:04:58.11,Default,,0000,0000,0000,,Please show me your ticket and your face.
+Dialogue: 0,0:04:58.11,0:05:00.07,Default,,0000,0000,0000,,This is my own face! My own face!
+Dialogue: 0,0:05:01.19,0:05:02.19,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:02.69,0:05:04.19,Default,,0000,0000,0000,,Hey, you...
+Dialogue: 0,0:05:04.19,0:05:07.07,Default,,0000,0000,0000,,Oh! Kokoro-san! Hello!
+Dialogue: 0,0:05:07.07,0:05:09.78,Default,,0000,0000,0000,,What's all the fuss about?
+Dialogue: 0,0:05:09.78,0:05:13.16,Default,,0000,0000,0000,,Yes... We're after the\NStraw Hats who're the culprits
+Dialogue: 0,0:05:13.16,0:05:15.04,Default,,0000,0000,0000,,in Iceberg-san's attempted assassination.
+Dialogue: 0,0:05:15.50,0:05:18.96,Default,,0000,0000,0000,,Iceberg's assassination? Hm?
+Dialogue: 0,0:05:18.96,0:05:21.00,Default,,0000,0000,0000,,What's the matter? Ah...
+Dialogue: 0,0:05:21.75,0:05:23.92,Default,,0000,0000,0000,,These people...
+Dialogue: 0,0:05:24.51,0:05:29.22,Default,,0000,0000,0000,,N... Nooo!!
+Dialogue: 0,0:05:29.22,0:05:32.31,Default,,0000,0000,0000,,I'm falling! I'm falling!
+Dialogue: 0,0:05:32.31,0:05:34.98,Default,,0000,0000,0000,,I'm falling!
+Dialogue: 0,0:05:47.28,0:05:49.16,Default,,0000,0000,0000,,All right! We've landed!
+Dialogue: 0,0:05:49.16,0:05:51.74,Default,,0000,0000,0000,,Boy, I'm exhausted.
+Dialogue: 0,0:05:53.12,0:05:55.66,Default,,0000,0000,0000,,Don't "We've landed" me! I thought I'd die!
+Dialogue: 0,0:05:55.66,0:05:57.92,Default,,0000,0000,0000,,What else could we have done?!
+Dialogue: 0,0:05:57.92,0:06:00.33,Default,,0000,0000,0000,,It was you who said that\Nwe couldn't use the elevator
+Dialogue: 0,0:06:00.33,0:06:02.13,Default,,0000,0000,0000,,because we didn't want them to find us!
+Dialogue: 0,0:06:02.13,0:06:04.51,Default,,0000,0000,0000,,Even so, you didn't have to jump off!
+Dialogue: 0,0:06:04.51,0:06:06.92,Default,,0000,0000,0000,,We're not that shipwright with a square nose!
+Dialogue: 0,0:06:06.92,0:06:09.55,Default,,0000,0000,0000,,I... I'm sorry.
+Dialogue: 0,0:06:09.55,0:06:12.43,Default,,0000,0000,0000,,Well, fine. At least it did get us down.
+Dialogue: 0,0:06:12.43,0:06:13.76,Default,,0000,0000,0000,,If it was okay, then don't hit me!
+Dialogue: 0,0:06:17.23,0:06:20.40,Default,,0000,0000,0000,,But... this may be kinda bad.
+Dialogue: 0,0:06:21.02,0:06:23.44,Default,,0000,0000,0000,,Bad? What's bad?
+Dialogue: 0,0:06:24.02,0:06:26.90,Default,,0000,0000,0000,,This island's geography and the weather.
+Dialogue: 0,0:06:26.90,0:06:30.24,Default,,0000,0000,0000,,With this much wind blowing,\Nif the atmospheric pressure drops,
+Dialogue: 0,0:06:30.24,0:06:32.28,Default,,0000,0000,0000,,a typhoon might come through here tonight.
+Dialogue: 0,0:06:32.99,0:06:35.41,Default,,0000,0000,0000,,This town is called the City of Water.
+Dialogue: 0,0:06:35.41,0:06:38.79,Default,,0000,0000,0000,,In other words, it can be a weak point\Nthat could easily lead to flood damage.
+Dialogue: 0,0:06:39.42,0:06:40.92,Default,,0000,0000,0000,,So? What about it?
+Dialogue: 0,0:06:41.46,0:06:45.13,Default,,0000,0000,0000,,Well... It bothers me a little,\Nso I'll check into it later.
+Dialogue: 0,0:06:45.13,0:06:47.80,Default,,0000,0000,0000,,Anyway, let's go back to the inn.
+Dialogue: 0,0:07:08.65,0:07:10.32,Default,,0000,0000,0000,,Oh, welcome.
+Dialogue: 0,0:07:10.32,0:07:13.41,Default,,0000,0000,0000,,Yow! How's it going, Blueno?!
+Dialogue: 0,0:07:13.41,0:07:17.12,Default,,0000,0000,0000,,Is it going super?!
+Dialogue: 0,0:07:19.33,0:07:21.12,Default,,0000,0000,0000,,I think we're doing good.
+Dialogue: 0,0:07:21.12,0:07:25.29,Default,,0000,0000,0000,,What do you mean, "I think"?!\NYou sure are an indecisive guy!
+Dialogue: 0,0:07:25.29,0:07:28.05,Default,,0000,0000,0000,,Give me the usual! Fill them up!
+Dialogue: 0,0:07:28.76,0:07:30.67,Default,,0000,0000,0000,,You got money?
+Dialogue: 0,0:07:30.67,0:07:33.30,Default,,0000,0000,0000,,Just refill them! Cola!
+Dialogue: 0,0:07:33.30,0:07:35.97,Default,,0000,0000,0000,,To think that you run a bar\Nwith such a stingy notion
+Dialogue: 0,0:07:35.97,0:07:38.89,Default,,0000,0000,0000,,that you take money from your customers...!
+Dialogue: 0,0:07:38.89,0:07:40.64,Default,,0000,0000,0000,,We've got money.
+Dialogue: 0,0:07:40.64,0:07:42.85,Default,,0000,0000,0000,,We've got a million Berries\Nleft over from shopping.
+Dialogue: 0,0:07:42.85,0:07:44.06,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:44.52,0:07:46.65,Default,,0000,0000,0000,,We've got that much money from yesterday?!
+Dialogue: 0,0:07:46.65,0:07:49.15,Default,,0000,0000,0000,,How shameful! How uncool!
+Dialogue: 0,0:07:49.15,0:07:51.40,Default,,0000,0000,0000,,To think that I didn't spend it all yesterday...!
+Dialogue: 0,0:07:51.86,0:07:53.45,Default,,0000,0000,0000,,Now, give it to me!
+Dialogue: 0,0:07:54.07,0:07:57.20,Default,,0000,0000,0000,,Yow! You guys! You're lucky!
+Dialogue: 0,0:07:57.20,0:08:00.83,Default,,0000,0000,0000,,All your alcohol is on me!
+Dialogue: 0,0:08:00.83,0:08:03.75,Default,,0000,0000,0000,,Drink as much as you like!
+Dialogue: 0,0:08:03.75,0:08:07.67,Default,,0000,0000,0000,,Whoa! That's our Franky! You're generous!
+Dialogue: 0,0:08:07.67,0:08:11.88,Default,,0000,0000,0000,,You're the man! The face of the\NWater Seven underworld! Thanks!
+Dialogue: 0,0:08:12.55,0:08:14.13,Default,,0000,0000,0000,,Whoa! Awesome!
+Dialogue: 0,0:08:14.13,0:08:15.84,Default,,0000,0000,0000,,Hey, there's more on the floor over there!
+Dialogue: 0,0:08:15.84,0:08:18.06,Default,,0000,0000,0000,,Hey, Blueno! Where's my cola?!
+Dialogue: 0,0:08:18.06,0:08:20.47,Default,,0000,0000,0000,,Hurry up, already!
+Dialogue: 0,0:08:20.47,0:08:23.35,Default,,0000,0000,0000,,Looks like you're doing well, Franky.
+Dialogue: 0,0:08:23.35,0:08:25.10,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:08:26.10,0:08:28.94,Default,,0000,0000,0000,,Old hag Kokoro! That was you?!
+Dialogue: 0,0:08:29.65,0:08:32.53,Default,,0000,0000,0000,,I thought it was a statue of a monster!
+Dialogue: 0,0:08:35.20,0:08:39.03,Default,,0000,0000,0000,,Hey, is it okay to get a\Nrefill for my juice, Franky?!
+Dialogue: 0,0:08:39.03,0:08:42.96,Default,,0000,0000,0000,,This is a bar. It's not a place for kids!
+Dialogue: 0,0:08:42.96,0:08:44.67,Default,,0000,0000,0000,,You're doing well, right?
+Dialogue: 0,0:08:44.67,0:08:47.92,Default,,0000,0000,0000,,Huh?! Okay, then. Suit yourself.
+Dialogue: 0,0:08:47.92,0:08:50.42,Default,,0000,0000,0000,,All right! Juice!
+Dialogue: 0,0:08:50.42,0:08:54.55,Default,,0000,0000,0000,,Well, I'm doing well, but I'm\Nfeeling gloomy. I feel terrible.
+Dialogue: 0,0:08:54.55,0:08:59.01,Default,,0000,0000,0000,,I'm feeling terrible this week,\Nthanks to that damn pirate!
+Dialogue: 0,0:08:59.01,0:09:00.89,Default,,0000,0000,0000,,Here's the refilled cola! Thanks for waiting!
+Dialogue: 0,0:09:00.89,0:09:02.43,Default,,0000,0000,0000,,Yeah, took you long enough!
+Dialogue: 0,0:09:02.89,0:09:06.14,Default,,0000,0000,0000,,Fuel! Fuel!
+Dialogue: 0,0:09:08.81,0:09:12.78,Default,,0000,0000,0000,,Here it comes! Here it comes! Oh, yeah!
+Dialogue: 0,0:09:23.91,0:09:26.67,Default,,0000,0000,0000,,Super!
+Dialogue: 0,0:09:28.08,0:09:33.01,Default,,0000,0000,0000,,I've revived! That jerk! Next time\NI see him, I'll beat him up!
+Dialogue: 0,0:09:33.01,0:09:35.17,Default,,0000,0000,0000,,By the way, old hag, why are you here?
+Dialogue: 0,0:09:35.63,0:09:37.80,Default,,0000,0000,0000,,Aqua Laguna is coming.
+Dialogue: 0,0:09:37.80,0:09:42.60,Default,,0000,0000,0000,,Oh? Is that right? No wonder the wind is strong.
+Dialogue: 0,0:09:42.60,0:09:45.43,Default,,0000,0000,0000,,Are you done getting your house ready?
+Dialogue: 0,0:09:45.43,0:09:47.81,Default,,0000,0000,0000,,Well, my house is gone.
+Dialogue: 0,0:09:47.81,0:09:51.40,Default,,0000,0000,0000,,I've got nothing that could sink,\Nso I have no worries.
+Dialogue: 0,0:09:56.45,0:10:01.07,Default,,0000,0000,0000,,I was going to have a drink with Iceberg,\Nbut I heard he got shot.
+Dialogue: 0,0:10:01.07,0:10:02.95,Default,,0000,0000,0000,,Yeah, sounds like it.
+Dialogue: 0,0:10:02.95,0:10:04.62,Default,,0000,0000,0000,,They say it was the pirates' doing.
+Dialogue: 0,0:10:04.62,0:10:07.29,Default,,0000,0000,0000,,Galley-La and the townspeople\Nare furious right now.
+Dialogue: 0,0:10:07.29,0:10:10.96,Default,,0000,0000,0000,,Pirates' doing?
+Dialogue: 0,0:10:10.96,0:10:13.30,Default,,0000,0000,0000,,Do you seriously think that's the case?
+Dialogue: 0,0:10:13.80,0:10:15.71,Default,,0000,0000,0000,,You sound like you know something.
+Dialogue: 0,0:10:15.71,0:10:17.97,Default,,0000,0000,0000,,Don't say whatever comes to mind, old hag.
+Dialogue: 0,0:10:17.97,0:10:22.80,Default,,0000,0000,0000,,Iceberg has been getting nagged all this\Ntime by the World Government, right?
+Dialogue: 0,0:10:22.80,0:10:26.85,Default,,0000,0000,0000,,Huh? Then, what? Are you saying\Nthat official, Corgy, did it?
+Dialogue: 0,0:10:27.98,0:10:31.02,Default,,0000,0000,0000,,That tubby isn't an assassin type!
+Dialogue: 0,0:10:31.02,0:10:36.19,Default,,0000,0000,0000,,No... Shadowy incidents are the work of CP9.
+Dialogue: 0,0:10:36.19,0:10:37.99,Default,,0000,0000,0000,,Do you know about it, Blueno?
+Dialogue: 0,0:10:38.61,0:10:40.03,Default,,0000,0000,0000,,Just heard some rumors.
+Dialogue: 0,0:10:40.03,0:10:46.45,Default,,0000,0000,0000,,Geez... Common folk sure do like to believe\Nrumors of things like nonexistent organizations.
+Dialogue: 0,0:10:46.45,0:10:48.66,Default,,0000,0000,0000,,How foolish... It does exist.
+Dialogue: 0,0:10:48.66,0:10:55.17,Default,,0000,0000,0000,,But they never show themselves, since their\Nunit works secretly in the shadows.
+Dialogue: 0,0:11:00.51,0:11:04.10,Default,,0000,0000,0000,,Where's that confidence coming from?\NDo you know something?
+Dialogue: 0,0:11:05.43,0:11:08.64,Default,,0000,0000,0000,,I heard about it over there.
+Dialogue: 0,0:11:08.64,0:11:12.35,Default,,0000,0000,0000,,Hey, that's just a rumor, then!\NDon't mess with--
+Dialogue: 0,0:11:12.35,0:11:15.94,Default,,0000,0000,0000,,It always being a rumor is the scary part.
+Dialogue: 0,0:11:16.65,0:11:19.86,Default,,0000,0000,0000,,They eliminate people without anyone noticing.
+Dialogue: 0,0:11:19.86,0:11:23.66,Default,,0000,0000,0000,,If you meddle with them, you're dead meat.
+Dialogue: 0,0:11:29.79,0:11:34.46,Default,,0000,0000,0000,,Thanks. The job we had\Nto do yesterday went well.
+Dialogue: 0,0:11:34.46,0:11:37.46,Default,,0000,0000,0000,,Well done, Nico Robin...
+Dialogue: 0,0:11:41.13,0:11:42.93,Default,,0000,0000,0000,,That was a piece of cake.
+Dialogue: 0,0:11:42.93,0:11:47.89,Default,,0000,0000,0000,,Although naturally you're now\Nbeing pursued by the whole town.
+Dialogue: 0,0:11:48.39,0:11:49.73,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:49.73,0:11:52.35,Default,,0000,0000,0000,,But that's just temporary.
+Dialogue: 0,0:11:52.89,0:11:56.06,Default,,0000,0000,0000,,What's important is... tonight.
+Dialogue: 0,0:11:57.02,0:11:59.65,Default,,0000,0000,0000,,We'll infiltrate Iceberg's\Nresidence one more time.
+Dialogue: 0,0:11:59.65,0:12:04.95,Default,,0000,0000,0000,,If worst comes to worst, it's okay\Nto eliminate all the evidence.
+Dialogue: 0,0:12:05.53,0:12:09.08,Default,,0000,0000,0000,,Among the disciples of this\NTom guy who originally had it,
+Dialogue: 0,0:12:09.08,0:12:12.83,Default,,0000,0000,0000,,Iceberg is the only one currently alive.
+Dialogue: 0,0:12:12.83,0:12:15.75,Default,,0000,0000,0000,,No matter how much he plays innocent,
+Dialogue: 0,0:12:15.75,0:12:19.59,Default,,0000,0000,0000,,in the name of CP9, we'll take\Nit away tonight for sure.
+Dialogue: 0,0:12:20.51,0:12:24.22,Default,,0000,0000,0000,,Bear in mind that this is a mission for justice.
+Dialogue: 0,0:12:42.11,0:12:47.95,Default,,0000,0000,0000,,Following the Aqua Laguna warning\Nissued for the entire island,
+Dialogue: 0,0:12:47.95,0:12:50.95,Default,,0000,0000,0000,,all the shipbuilding factory docks\Non the shipbuilding island
+Dialogue: 0,0:12:50.95,0:12:53.12,Default,,0000,0000,0000,,will be opened as evacuation centers.
+Dialogue: 0,0:12:54.08,0:12:58.34,Default,,0000,0000,0000,,Large crowds are expected,\Nso please evacuate ahead of time.
+Dialogue: 0,0:12:59.42,0:13:04.01,Default,,0000,0000,0000,,In addition, since Dock #1 is\Ncurrently in a dangerous state...
+Dialogue: 0,0:13:04.42,0:13:06.51,Default,,0000,0000,0000,,Okay, I'll put the iron board on.
+Dialogue: 0,0:13:08.30,0:13:10.01,Default,,0000,0000,0000,,You guys have everything you need?
+Dialogue: 0,0:13:10.64,0:13:13.93,Default,,0000,0000,0000,,Yes, we do. Let's evacuate to the shipyard.
+Dialogue: 0,0:13:13.93,0:13:15.52,Default,,0000,0000,0000,,Daddy, hurry up!
+Dialogue: 0,0:13:15.52,0:13:16.06,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:13:16.77,0:13:19.98,Default,,0000,0000,0000,,Well, hold on a bit. I'd better\Nfill the gap good with hempen.
+Dialogue: 0,0:13:20.61,0:13:24.19,Default,,0000,0000,0000,,If the inside of our house gets flooded,\Neverything will be ruined.
+Dialogue: 0,0:13:24.90,0:13:27.28,Default,,0000,0000,0000,,Hey, tie that side, too!
+Dialogue: 0,0:13:27.28,0:13:32.49,Default,,0000,0000,0000,,Hey, the wind is starting to get strong!\NGet ready for waves soon!
+Dialogue: 0,0:13:32.49,0:13:36.67,Default,,0000,0000,0000,,Guys! If we're taking our time,\Nassassin pirates will show up too this time!
+Dialogue: 0,0:13:36.67,0:13:37.67,Default,,0000,0000,0000,,That's scary!
+Dialogue: 0,0:13:38.58,0:13:40.04,Default,,0000,0000,0000,,Where did he disappear to?!
+Dialogue: 0,0:13:40.04,0:13:41.59,Default,,0000,0000,0000,,I'm pretty sure he came this way.
+Dialogue: 0,0:13:41.59,0:13:43.59,Default,,0000,0000,0000,,He should still be around!
+Dialogue: 0,0:13:43.59,0:13:45.30,Default,,0000,0000,0000,,Okay, you guys go search over there.
+Dialogue: 0,0:13:45.80,0:13:46.51,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:13:53.14,0:13:55.35,Default,,0000,0000,0000,,What the hell is going on?
+Dialogue: 0,0:13:55.35,0:13:58.65,Default,,0000,0000,0000,,Why am I being chased after? I don't get it!
+Dialogue: 0,0:14:07.45,0:14:09.49,Default,,0000,0000,0000,,So this is the reason they've\Nbeen chasing after me!
+Dialogue: 0,0:14:10.20,0:14:12.20,Default,,0000,0000,0000,,Assassination culprits?
+Dialogue: 0,0:14:12.20,0:14:15.12,Default,,0000,0000,0000,,This bites. I can't even go\Nback to the inn like this.
+Dialogue: 0,0:14:15.87,0:14:17.75,Default,,0000,0000,0000,,Ah... Who is it over there?!
+Dialogue: 0,0:14:18.37,0:14:19.96,Default,,0000,0000,0000,,This way! I found a suspicious guy here!
+Dialogue: 0,0:14:22.13,0:14:23.50,Default,,0000,0000,0000,,Are you sure, landlord?
+Dialogue: 0,0:14:23.50,0:14:28.30,Default,,0000,0000,0000,,Yes. Those pirates have been\Nstaying at this inn since last night.
+Dialogue: 0,0:14:28.30,0:14:29.93,Default,,0000,0000,0000,,They were there until just a bit ago.
+Dialogue: 0,0:14:30.43,0:14:31.55,Default,,0000,0000,0000,,They were here?!
+Dialogue: 0,0:14:31.55,0:14:34.97,Default,,0000,0000,0000,,Yes. Since they've still got a\Nlot of luggage in their room,
+Dialogue: 0,0:14:35.60,0:14:37.52,Default,,0000,0000,0000,,they might come back.
+Dialogue: 0,0:14:38.64,0:14:40.60,Default,,0000,0000,0000,,Okay, then! You guys, stay here.
+Dialogue: 0,0:14:41.44,0:14:43.98,Default,,0000,0000,0000,,The rest of you, let's go\Nsearch this area together!
+Dialogue: 0,0:14:43.98,0:14:47.07,Default,,0000,0000,0000,,Listen, make sure you leave\Nno stone unturned to find them!
+Dialogue: 0,0:14:47.07,0:14:48.28,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:58.91,0:15:01.04,Default,,0000,0000,0000,,Hey, there's no one here!
+Dialogue: 0,0:15:02.58,0:15:05.05,Default,,0000,0000,0000,,Is this really their ship?
+Dialogue: 0,0:15:05.05,0:15:07.71,Default,,0000,0000,0000,,There's no mistake about it! Look!
+Dialogue: 0,0:15:07.71,0:15:09.80,Default,,0000,0000,0000,,That's the Straw Hats' pirate flag.
+Dialogue: 0,0:15:09.80,0:15:12.51,Default,,0000,0000,0000,,I bet they've already abandoned it.
+Dialogue: 0,0:15:13.51,0:15:14.68,Default,,0000,0000,0000,,This ship is all beat up.
+Dialogue: 0,0:15:19.27,0:15:21.10,Default,,0000,0000,0000,,How was it? Did you find them?
+Dialogue: 0,0:15:21.10,0:15:22.23,Default,,0000,0000,0000,,No, they aren't here!
+Dialogue: 0,0:15:22.23,0:15:26.48,Default,,0000,0000,0000,,There isn't much stuff left inside the ship.\NThis ship definitely is abandoned.
+Dialogue: 0,0:15:26.48,0:15:28.36,Default,,0000,0000,0000,,Let's go look someplace else.
+Dialogue: 0,0:15:40.04,0:15:42.83,Default,,0000,0000,0000,,Who were they?
+Dialogue: 0,0:15:45.71,0:15:49.67,Default,,0000,0000,0000,,Is something happening in town?
+Dialogue: 0,0:15:49.67,0:15:52.30,Default,,0000,0000,0000,,--Did you find them?\N--No.
+Dialogue: 0,0:15:52.30,0:15:54.43,Default,,0000,0000,0000,,Dammit! Where are they?!
+Dialogue: 0,0:15:59.43,0:16:01.81,Default,,0000,0000,0000,,Hey, Luffy.
+Dialogue: 0,0:16:01.81,0:16:03.31,Default,,0000,0000,0000,,Hm? What is it, Nami?
+Dialogue: 0,0:16:03.31,0:16:05.31,Default,,0000,0000,0000,,Do you think everyone's okay?
+Dialogue: 0,0:16:05.31,0:16:07.61,Default,,0000,0000,0000,,Craftsmen are everywhere in town.
+Dialogue: 0,0:16:07.61,0:16:11.78,Default,,0000,0000,0000,,I think Chopper and Sanji-kun are okay,\Nsince their faces are still unknown, but...
+Dialogue: 0,0:16:12.53,0:16:13.66,Default,,0000,0000,0000,,At any rate, let's hurry!
+Dialogue: 0,0:16:14.16,0:16:14.78,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:18.87,0:16:21.87,Default,,0000,0000,0000,,The sea train is still in service...
+Dialogue: 0,0:16:22.37,0:16:24.62,Default,,0000,0000,0000,,Looks like the afternoon train has already left,
+Dialogue: 0,0:16:24.62,0:16:28.13,Default,,0000,0000,0000,,but there's another one that\Ndeparts at night in this bad weather?
+Dialogue: 0,0:16:28.13,0:16:33.76,Default,,0000,0000,0000,,11 PM, leaving for Enies Lobby...\NThe sea train is pretty impressive.
+Dialogue: 0,0:16:33.76,0:16:35.64,Default,,0000,0000,0000,,Hey! Any information on the pirates?!
+Dialogue: 0,0:16:35.64,0:16:37.26,Default,,0000,0000,0000,,No. We've got nothing.
+Dialogue: 0,0:16:37.26,0:16:40.52,Default,,0000,0000,0000,,If we capture even one of those three\Nwhose faces are known and squeeze him,
+Dialogue: 0,0:16:40.52,0:16:42.14,Default,,0000,0000,0000,,the rest of the gang will be identified.
+Dialogue: 0,0:16:42.14,0:16:44.44,Default,,0000,0000,0000,,Hurry up! Before the waves get high!
+Dialogue: 0,0:16:45.73,0:16:49.07,Default,,0000,0000,0000,,I wonder if Robin got on the sea train.
+Dialogue: 0,0:16:49.07,0:16:52.65,Default,,0000,0000,0000,,If she did, things can't get any worse.
+Dialogue: 0,0:16:53.45,0:16:57.20,Default,,0000,0000,0000,,When Water Seven is\Nalready too big to handle...
+Dialogue: 0,0:16:57.20,0:17:00.70,Default,,0000,0000,0000,,I wonder if... I did something\Nto upset her at the bookstore.
+Dialogue: 0,0:17:00.70,0:17:02.66,Default,,0000,0000,0000,,You dummy... There's no way that's the case.
+Dialogue: 0,0:17:03.20,0:17:03.91,Default,,0000,0000,0000,,Oh, hey, excuse me.
+Dialogue: 0,0:17:04.62,0:17:06.58,Default,,0000,0000,0000,,Have you seen a pretty woman like her?
+Dialogue: 0,0:17:06.58,0:17:09.92,Default,,0000,0000,0000,,Oh, that... The pretty woman who's 20\Nyears older than in that picture, right?
+Dialogue: 0,0:17:09.92,0:17:13.97,Default,,0000,0000,0000,,If I had, I would've told either the paper\Ncompany or Galley-La immediately.
+Dialogue: 0,0:17:13.97,0:17:18.34,Default,,0000,0000,0000,,But to think she's an assassin...\NWhat a surprise, huh?
+Dialogue: 0,0:17:18.34,0:17:22.81,Default,,0000,0000,0000,,Well, it's fine if you wanna look for\Nthe culprits, but you should evacuate soon.
+Dialogue: 0,0:17:22.81,0:17:24.85,Default,,0000,0000,0000,,Or you'll be swallowed by Aqua Laguna.
+Dialogue: 0,0:17:26.02,0:17:27.35,Default,,0000,0000,0000,,Well then, see ya.
+Dialogue: 0,0:17:33.15,0:17:35.36,Default,,0000,0000,0000,,Things are going wrong for all of us, too...
+Dialogue: 0,0:17:35.36,0:17:37.95,Default,,0000,0000,0000,,I wonder if Luffy and the others are okay.
+Dialogue: 0,0:17:38.36,0:17:42.41,Default,,0000,0000,0000,,Luffy's fine. The one I'm\Nworried about is Nami-san.
+Dialogue: 0,0:17:43.87,0:17:47.42,Default,,0000,0000,0000,,At any rate, the town is becoming quite empty.
+Dialogue: 0,0:17:48.08,0:17:53.09,Default,,0000,0000,0000,,The wind is gradually getting stronger, too.\NPeople have started evacuating.
+Dialogue: 0,0:17:54.09,0:17:56.05,Default,,0000,0000,0000,,Dammit...
+Dialogue: 0,0:17:56.05,0:18:00.26,Default,,0000,0000,0000,,Hey, Robin-chan! Where'd you go?!
+Dialogue: 0,0:18:01.89,0:18:05.35,Default,,0000,0000,0000,,This scent... Could it be...?
+Dialogue: 0,0:18:07.31,0:18:08.48,Default,,0000,0000,0000,,Chopper, what's the matter?!
+Dialogue: 0,0:18:09.31,0:18:10.44,Default,,0000,0000,0000,,Hey, Chopper?!
+Dialogue: 0,0:18:12.36,0:18:14.61,Default,,0000,0000,0000,,Hey! Wait!
+Dialogue: 0,0:18:15.82,0:18:16.82,Default,,0000,0000,0000,,It's close!
+Dialogue: 0,0:18:17.32,0:18:19.70,Default,,0000,0000,0000,,Hey! I said wait! What's the matter?!
+Dialogue: 0,0:18:21.78,0:18:22.66,Default,,0000,0000,0000,,She's here.
+Dialogue: 0,0:18:24.66,0:18:26.87,Default,,0000,0000,0000,,Hey, Chopper! Chopper!
+Dialogue: 0,0:18:28.12,0:18:31.75,Default,,0000,0000,0000,,Whoa! Oops!
+Dialogue: 0,0:18:33.75,0:18:35.34,Default,,0000,0000,0000,,H-Hey, are you okay?!
+Dialogue: 0,0:18:36.63,0:18:38.22,Default,,0000,0000,0000,,Chopper! Are you okay?!
+Dialogue: 0,0:18:39.05,0:18:40.18,Default,,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:18:40.64,0:18:44.14,Default,,0000,0000,0000,,Geez, don't be reckless!\NWhat on earth is going on...
+Dialogue: 0,0:18:44.64,0:18:47.98,Default,,0000,0000,0000,,Starting to run so sudden... ly...
+Dialogue: 0,0:18:49.06,0:18:51.69,Default,,0000,0000,0000,,I knew she'd be here.
+Dialogue: 0,0:18:54.32,0:18:56.07,Default,,0000,0000,0000,,--Robin!\N--Robin-chan!
+Dialogue: 0,0:18:56.99,0:19:00.78,Default,,0000,0000,0000,,Wh-Where have you been?!\NWe looked all over for you!
+Dialogue: 0,0:19:00.78,0:19:04.53,Default,,0000,0000,0000,,Everyone's worried about you!\NNow, let's go back to the inn together.
+Dialogue: 0,0:19:04.53,0:19:08.04,Default,,0000,0000,0000,,Well, a lot has happened while you've\Nbeen gone. I'll explain in detail.
+Dialogue: 0,0:19:08.66,0:19:10.75,Default,,0000,0000,0000,,But this distance is annoying.
+Dialogue: 0,0:19:10.75,0:19:13.75,Default,,0000,0000,0000,,Hold on! I'll be right over there!
+Dialogue: 0,0:19:15.00,0:19:17.67,Default,,0000,0000,0000,,No, that's okay. Stay there.
+Dialogue: 0,0:19:18.67,0:19:19.38,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:20.09,0:19:24.35,Default,,0000,0000,0000,,I won't... return to you guys.
+Dialogue: 0,0:19:25.31,0:19:28.77,Default,,0000,0000,0000,,We're parting ways here... in this town...
+Dialogue: 0,0:19:29.39,0:19:33.10,Default,,0000,0000,0000,,Wh-What're you saying, Robin-chan?
+Dialogue: 0,0:19:33.10,0:19:36.90,Default,,0000,0000,0000,,Oh, I get it. You're thinking about the\Nnewspaper, right? Don't worry about it!
+Dialogue: 0,0:19:37.86,0:19:40.20,Default,,0000,0000,0000,,None of us believe it,
+Dialogue: 0,0:19:40.20,0:19:43.82,Default,,0000,0000,0000,,and being falsely accused of a\Ncrime often happens to pirates!
+Dialogue: 0,0:19:43.82,0:19:44.78,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:19:45.28,0:19:49.45,Default,,0000,0000,0000,,I'm sorry for pinning an\Nunreasonable crime on you guys.
+Dialogue: 0,0:19:49.45,0:19:53.37,Default,,0000,0000,0000,,But the article is telling the truth.
+Dialogue: 0,0:19:53.37,0:19:58.00,Default,,0000,0000,0000,,It really was me who infiltrated\Nthe mayor's residence last night.
+Dialogue: 0,0:19:58.00,0:19:58.84,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:59.46,0:20:00.84,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:20:00.84,0:20:04.80,Default,,0000,0000,0000,,I carry a darkness within me\Nthat you guys don't know about.
+Dialogue: 0,0:20:05.51,0:20:08.93,Default,,0000,0000,0000,,This darkness will destroy you someday.
+Dialogue: 0,0:20:10.10,0:20:14.40,Default,,0000,0000,0000,,The organizations Nico Robin had\Nsomething to do with up until today
+Dialogue: 0,0:20:14.40,0:20:18.94,Default,,0000,0000,0000,,all got annihilated... except for her.
+Dialogue: 0,0:20:19.82,0:20:25.66,Default,,0000,0000,0000,,As a matter of fact, I'm pinning this\Ncrime on you and planning to run away.
+Dialogue: 0,0:20:26.20,0:20:27.95,Default,,0000,0000,0000,,The situation will get worse.
+Dialogue: 0,0:20:28.41,0:20:30.37,Default,,0000,0000,0000,,What do you mean?! Why are you--
+Dialogue: 0,0:20:30.37,0:20:35.25,Default,,0000,0000,0000,,Why I'm doing it... It's something\Nyou don't need to know.
+Dialogue: 0,0:20:36.58,0:20:40.92,Default,,0000,0000,0000,,Robin-chan! I don't get what you're saying!\NWhat happened to you?!
+Dialogue: 0,0:20:40.92,0:20:43.63,Default,,0000,0000,0000,,Robin! Let's go back together!
+Dialogue: 0,0:20:45.64,0:20:49.60,Default,,0000,0000,0000,,Although I only spent a short\Ntime with you, after today...
+Dialogue: 0,0:20:50.27,0:20:53.31,Default,,0000,0000,0000,,...I'll never see you again.
+Dialogue: 0,0:20:54.02,0:20:58.27,Default,,0000,0000,0000,,Thank you for being nice to a person like me.
+Dialogue: 0,0:20:59.57,0:21:01.23,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:21:24.13,0:21:25.84,Default,,0000,0000,0000,,Wait...
+Dialogue: 0,0:21:26.51,0:21:28.93,Default,,0000,0000,0000,,Hey... wait...
+Dialogue: 0,0:21:30.01,0:21:30.93,Default,,0000,0000,0000,,I can't...
+Dialogue: 0,0:21:32.43,0:21:35.10,Default,,0000,0000,0000,,...accept this.
+Dialogue: 0,0:21:35.69,0:21:37.15,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:21:37.90,0:21:39.77,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:21:42.32,0:21:44.65,Default,,0000,0000,0000,,Stop joking!
+Dialogue: 0,0:21:44.65,0:21:46.40,Default,,0000,0000,0000,,Wait! Robin-chan!
+Dialogue: 0,0:21:46.40,0:21:47.36,Default,,0000,0000,0000,,Robin-chan!
+Dialogue: 0,0:21:48.11,0:21:50.74,Default,,0000,0000,0000,,Wait! Robin-chan! Robin-chan!
+Dialogue: 0,0:22:05.17,0:22:07.84,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:22:20.69,0:22:23.11,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:23.11,0:22:26.65,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:26.65,0:22:32.24,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:32.24,0:22:34.54,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:34.54,0:22:37.71,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:37.71,0:22:43.13,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:43.13,0:22:46.05,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:46.05,0:22:49.01,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:49.01,0:22:51.80,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:51.80,0:22:54.89,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:54.89,0:22:57.68,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:57.68,0:23:00.52,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:23:00.52,0:23:06.19,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:23:06.19,0:23:09.03,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:23:09.03,0:23:11.82,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:23:11.82,0:23:14.41,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:14.41,0:23:19.04,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:25.13,0:23:29.30,Default,,0000,0000,0000,,Isn't it time to settle\Nwhether Robin is friend or foe?
+Dialogue: 0,0:23:29.30,0:23:29.97,Default,,0000,0000,0000,,Hold on a sec!
+Dialogue: 0,0:23:29.97,0:23:33.76,Default,,0000,0000,0000,,She's suddenly changed because\Nof the masked man she was with!
+Dialogue: 0,0:23:33.76,0:23:36.60,Default,,0000,0000,0000,,That's right! That man is\Nmaking her do bad things!
+Dialogue: 0,0:23:36.60,0:23:38.60,Default,,0000,0000,0000,,That would be fortune.
+Dialogue: 0,0:23:38.60,0:23:42.10,Default,,0000,0000,0000,,If this guy is Robin's real friend,\Nthen that would be misfortune.
+Dialogue: 0,0:23:42.10,0:23:43.48,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:43.48,0:23:46.73,Default,,0000,0000,0000,,"Capture Robin!\NThe Determination of the Straw Hats"
+Dialogue: 0,0:23:46.73,0:23:49.19,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

@@ -1,0 +1,271 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Italics - Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:40.43,0:00:45.44,Italics - Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:40.43,0:00:45.44,Italics,,0000,0000,0000,,Every time I look up to the sky after the rain
+Dialogue: 0,0:00:45.52,0:00:51.19,Italics - Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:45.52,0:00:51.19,Italics,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:51.23,0:00:58.91,Italics,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:51.23,0:00:58.91,Italics - Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:59.03,0:01:01.70,Italics,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:59.03,0:01:01.70,Italics - Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:01:01.83,0:01:07.25,Italics,,0000,0000,0000,,The word "thank you" has faded into the wind now
+Dialogue: 0,0:01:01.83,0:01:07.25,Italics - Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:01:07.33,0:01:12.42,Italics,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:01:07.33,0:01:12.42,Italics - Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:01:12.55,0:01:18.09,Italics,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:12.55,0:01:18.09,Italics - Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:01:18.14,0:01:23.43,Italics,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:18.14,0:01:23.43,Italics - Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:23.68,0:01:25.85,Italics,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:23.68,0:01:25.85,Italics - Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:25.94,0:01:29.15,Italics,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:25.94,0:01:29.15,Italics - Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:29.27,0:01:34.49,Italics,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:29.27,0:01:34.49,Italics - Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:34.53,0:01:39.95,Italics,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:34.53,0:01:39.95,Italics - Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:40.07,0:01:45.41,Italics,,0000,0000,0000,,Because I don't want to lose something precious
+Dialogue: 0,0:01:40.07,0:01:45.41,Italics - Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:45.54,0:01:50.84,Italics,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:45.54,0:01:50.84,Italics - Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:50.88,0:01:56.01,Italics,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:50.88,0:01:56.01,Italics - Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:56.17,0:02:01.30,Italics,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:56.17,0:02:01.30,Italics - Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:02:01.43,0:02:06.10,Italics,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:02:01.43,0:02:06.10,Italics - Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:02:09.56,0:02:11.73,Italics,,0000,0000,0000,,So let's go
+Dialogue: 0,0:02:09.56,0:02:11.73,Italics - Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:02:11.81,0:02:15.03,Italics,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:11.81,0:02:15.03,Italics - Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:02:15.15,0:02:20.16,Italics,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:15.15,0:02:20.16,Italics - Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:20.32,0:02:25.87,Italics,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:20.32,0:02:25.87,Italics - Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:26.04,0:02:31.42,Italics,,0000,0000,0000,,Because I don't want to lose something precious
+Dialogue: 0,0:02:26.04,0:02:31.42,Italics - Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:31.50,0:02:39.72,Italics,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:31.50,0:02:39.72,Italics - Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:47.88,0:02:50.70,Default,,0000,0000,0000,,The time is the \NGreat Pirate Era.
+Dialogue: 0,0:02:50.70,0:02:55.02,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:55.02,0:02:58.24,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:59.65,0:03:04.55,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.55,0:03:07.34,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:03:07.34,0:03:11.39,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:03:11.39,0:03:16.30,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:17.33,0:03:19.01,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:19.84,0:03:22.76,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:22.76,0:03:26.22,Default,,0000,0000,0000,,The crew, on its way \Nto the New World,
+Dialogue: 0,0:03:26.22,0:03:29.76,Default,,0000,0000,0000,,will speed along the \NGrand Line again today!
+Dialogue: 0,0:03:33.69,0:03:35.86,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:35.86,0:03:39.01,Default,,0000,0000,0000,,Luffy is rushing to Navy HQ to rescue his brother, Ace,
+Dialogue: 0,0:03:39.01,0:03:40.57,Default,,0000,0000,0000,,who is waiting to be executed.
+Dialogue: 0,0:03:41.53,0:03:42.53,Default,,0000,0000,0000,,Ace.
+Dialogue: 0,0:03:43.20,0:03:45.57,Default,,0000,0000,0000,,The execution is in 3 hours.
+Dialogue: 0,0:03:46.03,0:03:52.17,Default,,0000,0000,0000,,All forces of the Navy are expecting an attack by the Whitebeard Pirates at Marineford.
+Dialogue: 0,0:03:54.00,0:03:58.09,Default,,0000,0000,0000,,Ace, tell them the name of your father.
+Dialogue: 0,0:04:00.50,0:04:02.26,Default,,0000,0000,0000,,My father is Whitebeard.
+Dialogue: 0,0:04:02.26,0:04:03.38,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:04:05.37,0:04:10.31,Default,,0000,0000,0000,,Your mother's name is Portgaz D. Rouge.
+Dialogue: 0,0:04:10.96,0:04:14.25,Default,,0000,0000,0000,,A year and 3 months after the father's death,
+Dialogue: 0,0:04:14.25,0:04:19.36,Default,,0000,0000,0000,,the child was born with the blood of the world's most heinous man in his veins.
+Dialogue: 0,0:04:22.33,0:04:24.07,Default,,0000,0000,0000,,That was you!
+Dialogue: 0,0:04:26.37,0:04:29.03,Default,,0000,0000,0000,,Your father is...
+Dialogue: 0,0:04:29.03,0:04:30.79,Default,,0000,0000,0000,,...the King of the Pirates -
+Dialogue: 0,0:04:31.52,0:04:33.21,Default,,0000,0000,0000,,Gold Roger!
+Dialogue: 0,0:04:38.50,0:04:40.42,Default,,0000,0000,0000,,Does it continue?
+Dialogue: 0,0:04:42.70,0:04:43.47,Default,,0000,0000,0000,,Still?
+Dialogue: 0,0:04:46.14,0:04:48.54,Default,,0000,0000,0000,,The bloodline of the King of the Pirates?!
+Dialogue: 0,0:04:50.60,0:04:56.01,Default,,0000,0000,0000,,"A Vast Fleet Appears! Here Come the Whitebeard Pirates!"
+Dialogue: 0,0:05:10.49,0:05:13.04,Default,,0000,0000,0000,,I can't believe that the arch villain had a kid!
+Dialogue: 0,0:05:14.66,0:05:17.92,Default,,0000,0000,0000,,The legend of Gold Roger continues!
+Dialogue: 0,0:05:19.74,0:05:21.71,Default,,0000,0000,0000,,I'm so relieved that they got him!
+Dialogue: 0,0:05:21.71,0:05:24.63,Default,,0000,0000,0000,,If he's a son of the King of the Pirates, he must be atrocious!
+Dialogue: 0,0:05:25.92,0:05:30.64,Default,,0000,0000,0000,,If I'd caught him and put him up for auction, I would have made a fortune!
+Dialogue: 0,0:05:33.48,0:05:36.19,Default,,0000,0000,0000,,This execution is turning into quite a show!
+Dialogue: 0,0:05:37.06,0:05:40.44,Default,,0000,0000,0000,,So the strength of "Fire Fist" is in his blood.
+Dialogue: 0,0:05:40.44,0:05:42.61,Default,,0000,0000,0000,,Then, he has the One Piece, too?
+Dialogue: 0,0:05:43.26,0:05:45.39,Default,,0000,0000,0000,,"Fire Fist" is as good as dead anyway.
+Dialogue: 0,0:05:47.40,0:05:50.53,Default,,0000,0000,0000,,He will be wiped off the face of the earth soon.
+Dialogue: 0,0:06:04.92,0:06:07.09,On Top,,0000,0000,0000,,{\fad(920,100)}"Navy"
+Dialogue: 0,0:06:19.10,0:06:22.77,Default,,0000,0000,0000,,He is not the biological brother of Luffy, then?
+Dialogue: 0,0:06:31.55,0:06:32.83,Default,,0000,0000,0000,,Roger's...
+Dialogue: 0,0:06:33.55,0:06:34.95,Default,,0000,0000,0000,,...Son?
+Dialogue: 0,0:06:40.87,0:06:45.17,Default,,0000,0000,0000,,His biological son alive! This must be a miracle!
+Dialogue: 0,0:06:45.17,0:06:50.23,Default,,0000,0000,0000,,All people connected to Roger should have been executed at that time!
+Dialogue: 0,0:06:51.73,0:06:56.80,Default,,0000,0000,0000,,Since his brother is Luffy-san, I thought that his father was Dragon, too!
+Dialogue: 0,0:06:56.80,0:07:02.60,Default,,0000,0000,0000,,I thought so, too! What's the deal here? They're not biological brothers?
+Dialogue: 0,0:07:34.85,0:07:36.22,Default,,0000,0000,0000,,Garp.
+Dialogue: 0,0:07:40.98,0:07:42.00,Default,,0000,0000,0000,,Garp.
+Dialogue: 0,0:07:43.71,0:07:46.11,Default,,0000,0000,0000,,Can you believe this, Garp?
+Dialogue: 0,0:07:46.11,0:07:49.78,Default,,0000,0000,0000,,I'm expecting a baby.
+Dialogue: 0,0:07:52.77,0:07:56.91,Default,,0000,0000,0000,,Unfortunately, I won't be around by the time of the child's birth.
+Dialogue: 0,0:07:59.65,0:08:03.83,Default,,0000,0000,0000,,Why're you telling that to me a Navy officer, Roger?
+Dialogue: 0,0:08:04.27,0:08:09.71,Default,,0000,0000,0000,,The mother of the child--a woman related to you will be executed for sure!
+Dialogue: 0,0:08:15.38,0:08:17.51,Default,,0000,0000,0000,,That's why I'm telling you.
+Dialogue: 0,0:08:22.01,0:08:26.69,Default,,0000,0000,0000,,The Government will definitely dig up my whereabouts for the last year
+Dialogue: 0,0:08:26.69,0:08:29.40,Default,,0000,0000,0000,,and find and kill her.
+Dialogue: 0,0:08:32.88,0:08:37.00,Default,,0000,0000,0000,,But they can't blame a child whose not born.
+Dialogue: 0,0:08:37.91,0:08:39.24,Default,,0000,0000,0000,,Garp!
+Dialogue: 0,0:08:39.82,0:08:43.87,Default,,0000,0000,0000,,We've tried to kill each other dozens of times.
+Dialogue: 0,0:08:44.63,0:08:49.34,Default,,0000,0000,0000,,That's why I can trust you as I trust my friends.
+Dialogue: 0,0:09:00.31,0:09:02.22,Default,,0000,0000,0000,,You must protect my baby.
+Dialogue: 0,0:09:05.66,0:09:07.31,Default,,0000,0000,0000,,Stop being so selfish!
+Dialogue: 0,0:09:08.73,0:09:11.98,Default,,0000,0000,0000,,No, I'm sure that you'll do it!
+Dialogue: 0,0:09:18.95,0:09:23.95,Default,,0000,0000,0000,,Look after my child!
+Dialogue: 0,0:10:00.21,0:10:03.08,Default,,0000,0000,0000,,You sure that it's this island?
+Dialogue: 0,0:10:03.08,0:10:08.58,Default,,0000,0000,0000,,People saw Roger acting like he wasn't a pirate here.
+Dialogue: 0,0:10:08.58,0:10:10.75,Default,,0000,0000,0000,,As if he were a father.
+Dialogue: 0,0:10:10.75,0:10:16.05,Default,,0000,0000,0000,,Roger's era has ended. We have to cut the bloodline.
+Dialogue: 0,0:10:16.69,0:10:22.14,Default,,0000,0000,0000,,Find all the babies who are due within 10 months of his going to jail.
+Dialogue: 0,0:10:29.36,0:10:30.85,Default,,0000,0000,0000,,All pregnant women, too.
+Dialogue: 0,0:10:34.61,0:10:37.44,Default,,0000,0000,0000,,Kill all mothers who are suspicious.
+Dialogue: 0,0:11:26.91,0:11:28.95,Default,,0000,0000,0000,,5 were born in this month.
+Dialogue: 0,0:11:39.13,0:11:40.88,Default,,0000,0000,0000,,Ones who are due next month are...
+Dialogue: 0,0:11:50.59,0:11:51.85,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:11:59.05,0:12:02.67,Default,,0000,0000,0000,,Look into the ones with husbands, too. They could be fake.
+Dialogue: 0,0:12:06.36,0:12:08.37,Default,,0000,0000,0000,,She'll come back when she is cleared.
+Dialogue: 0,0:12:16.73,0:12:20.00,Default,,0000,0000,0000,,No. Not yet.
+Dialogue: 0,0:12:24.50,0:12:26.55,Default,,0000,0000,0000,,You can't come out yet.
+Dialogue: 0,0:12:31.74,0:12:33.35,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:12:35.49,0:12:36.77,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:12:40.66,0:12:41.86,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:12:45.35,0:12:46.62,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:12:47.76,0:12:50.45,Default,,0000,0000,0000,,Not yet. Not yet.
+Dialogue: 0,0:12:51.77,0:12:52.86,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:12:58.04,0:12:59.59,Default,,0000,0000,0000,,There're no more pregnant women.
+Dialogue: 0,0:13:00.10,0:13:04.37,Default,,0000,0000,0000,,It's been 10 months since Roger went to jail. I think he has not child.
+Dialogue: 0,0:13:04.37,0:13:08.01,Default,,0000,0000,0000,,So Roger's time is really over, huh?
+Dialogue: 0,0:13:19.36,0:13:20.33,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:13:28.20,0:13:31.03,Default,,0000,0000,0000,,You're Portgaz D. Rouge, aren't you?
+Dialogue: 0,0:13:44.05,0:13:46.31,Default,,0000,0000,0000,,If it's a girl--Ann.
+Dialogue: 0,0:13:47.91,0:13:51.47,Default,,0000,0000,0000,,If it's a boy--Ace.
+Dialogue: 0,0:13:52.26,0:13:55.16,Default,,0000,0000,0000,,Those are the names that he picked.
+Dialogue: 0,0:13:57.89,0:14:01.24,Default,,0000,0000,0000,,So his name is Gol D. Ace.
+Dialogue: 0,0:14:11.27,0:14:13.96,Default,,0000,0000,0000,,Our son.
+Dialogue: 0,0:14:23.10,0:14:24.16,Default,,0000,0000,0000,,Ace.
+Dialogue: 0,0:14:32.70,0:14:35.97,Default,,0000,0000,0000,,--Rouge!\N--Rouge! Stay with us!
+Dialogue: 0,0:14:46.95,0:14:48.99,Default,,0000,0000,0000,,You must raise him, Dadan!
+Dialogue: 0,0:14:50.56,0:14:51.78,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:14:54.19,0:14:55.90,Default,,0000,0000,0000,,Whose baby is this?
+Dialogue: 0,0:15:15.33,0:15:16.68,Default,,0000,0000,0000,,Dadan?!
+Dialogue: 0,0:15:16.68,0:15:20.10,Default,,0000,0000,0000,,Yes. You're gonna live with them from today.
+Dialogue: 0,0:15:20.10,0:15:22.07,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:15:22.07,0:15:25.82,Default,,0000,0000,0000,,You gotta live with them! Be nice to them!
+Dialogue: 0,0:15:31.88,0:15:34.62,Default,,0000,0000,0000,,Because Luffy and I unfortunately have the blood of...
+Dialogue: 0,0:15:34.62,0:15:37.41,Default,,0000,0000,0000,,...the world's most infamous criminals in our veins anyway.
+Dialogue: 0,0:15:38.01,0:15:41.29,Default,,0000,0000,0000,,I took over the name "Portgaz" from my mother to whom I owe so much
+Dialogue: 0,0:15:41.76,0:15:45.67,Default,,0000,0000,0000,,but I never wanted to have my good-for-nothing father's blood.
+Dialogue: 0,0:15:47.59,0:15:48.96,Default,,0000,0000,0000,,Old man...
+Dialogue: 0,0:15:49.58,0:15:51.55,Default,,0000,0000,0000,,My only father is...
+Dialogue: 0,0:15:54.38,0:15:57.10,Default,,0000,0000,0000,,Whitebeard!
+Dialogue: 0,0:16:00.65,0:16:01.90,Default,,0000,0000,0000,,Garp.
+Dialogue: 0,0:16:03.09,0:16:04.98,Default,,0000,0000,0000,,It was 2 years ago.
+Dialogue: 0,0:16:04.98,0:16:09.93,Default,,0000,0000,0000,,You took over your mother's name and rose up in the world of the sea...
+Dialogue: 0,0:16:09.93,0:16:14.99,Default,,0000,0000,0000,,...as the captain of the Spade Pirates with your exquisite speed and power.
+Dialogue: 0,0:16:15.45,0:16:18.05,Default,,0000,0000,0000,,And that's when we noticed...
+Dialogue: 0,0:16:18.66,0:16:21.99,Default,,0000,0000,0000,,...that Roger's blood still flowed!
+Dialogue: 0,0:16:28.88,0:16:33.30,Default,,0000,0000,0000,,But Whitebeard also noticed that at the same time.
+Dialogue: 0,0:16:34.00,0:16:37.56,Default,,0000,0000,0000,,And to make you the next King of the Pirates,
+Dialogue: 0,0:16:37.56,0:16:41.60,Default,,0000,0000,0000,,he let the son of his old rival onto his ship.
+Dialogue: 0,0:16:43.52,0:16:44.60,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:16:45.34,0:16:48.61,Default,,0000,0000,0000,,I got on the ship to make my dad the next King!
+Dialogue: 0,0:16:48.61,0:16:51.11,Default,,0000,0000,0000,,No one believes that except you.
+Dialogue: 0,0:16:52.00,0:16:55.33,Default,,0000,0000,0000,,In fact, it made it harder for us to catch you.
+Dialogue: 0,0:16:55.33,0:16:58.52,Default,,0000,0000,0000,,You were protected by Whitebeard.
+Dialogue: 0,0:16:59.33,0:17:05.52,Default,,0000,0000,0000,,If we let you go free, we know you'll use \Nyour abilities to become the next King.
+Dialogue: 0,0:17:05.52,0:17:10.25,Default,,0000,0000,0000,,That's why it means a great deal to execute you here today.
+Dialogue: 0,0:17:13.65,0:17:18.07,Default,,0000,0000,0000,,Even if it means risking an all-out war with Whitebeard!
+Dialogue: 0,0:17:27.07,0:17:29.81,Default,,0000,0000,0000,,Fleet Admiral Sengoku! I have report!
+Dialogue: 0,0:17:29.81,0:17:33.49,Default,,0000,0000,0000,,The Gate of Justice is opening without any order.
+Dialogue: 0,0:17:33.90,0:17:36.34,Default,,0000,0000,0000,,And we can't make contact with the control room!
+Dialogue: 0,0:17:36.34,0:17:37.86,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:47.29,0:17:51.46,Default,,0000,0000,0000,,--It'd be nice if it opened with a hit!\N--Oh, like "knock knock"...
+Dialogue: 0,0:17:51.46,0:17:53.63,Default,,0000,0000,0000,,You think that's all it'd take?!
+Dialogue: 0,0:18:06.64,0:18:09.15,Default,,0000,0000,0000,,It's opening!
+Dialogue: 0,0:18:09.15,0:18:10.90,Default,,0000,0000,0000,,What is going on?
+Dialogue: 0,0:18:10.90,0:18:14.50,Default,,0000,0000,0000,,The Gate of Justice opens on its own!
+Dialogue: 0,0:18:14.50,0:18:18.52,Default,,0000,0000,0000,,The Navy guy told us that they weren't gonna open the gate!
+Dialogue: 0,0:18:20.70,0:18:25.33,Default,,0000,0000,0000,,The control room must be in Marineford. Who is doing this?
+Dialogue: 0,0:18:28.75,0:18:33.17,Default,,0000,0000,0000,,There we go! A little more!
+Dialogue: 0,0:18:33.17,0:18:35.88,Default,,0000,0000,0000,,I know it because...
+Dialogue: 0,0:18:35.88,0:18:41.80,Default,,0000,0000,0000,,...out of joy, my blade bones are dancing the lambada!
+Dialogue: 0,0:18:42.76,0:18:46.87,Default,,0000,0000,0000,,There! There! There we go, there we go, there we go!
+Dialogue: 0,0:18:46.87,0:18:49.73,Default,,0000,0000,0000,,Ca-Captain Buggy, don't tell me...
+Dialogue: 0,0:18:51.39,0:18:52.77,Default,,0000,0000,0000,,There we go!
+Dialogue: 0,0:18:52.77,0:18:54.83,Default,,0000,0000,0000,,Don't tell me that you're opening it!
+Dialogue: 0,0:18:54.83,0:18:57.33,Default,,0000,0000,0000,,Are you a messenger of God?!
+Dialogue: 0,0:18:57.33,0:18:59.03,Default,,0000,0000,0000,,Is it true, Buggy?!
+Dialogue: 0,0:18:59.03,0:19:02.45,Default,,0000,0000,0000,,No, it's not! What kind of role play is this?!
+Dialogue: 0,0:19:02.45,0:19:06.09,Default,,0000,0000,0000,,But seriously. Who is opening it?
+Dialogue: 0,0:19:07.44,0:19:11.79,Default,,0000,0000,0000,,Well, maybe God really wants me to become the King of the Pirates!
+Dialogue: 0,0:19:19.55,0:19:20.80,Default,,0000,0000,0000,,Who cares! In any case...
+Dialogue: 0,0:19:21.32,0:19:22.46,Default,,0000,0000,0000,,...let's go!
+Dialogue: 0,0:19:39.57,0:19:40.53,Default,,0000,0000,0000,,It's quiet.
+Dialogue: 0,0:19:41.78,0:19:44.38,Default,,0000,0000,0000,,But it's almost unnatural.
+Dialogue: 0,0:19:56.14,0:19:57.80,Default,,0000,0000,0000,,Alright, let's do it!
+Dialogue: 0,0:20:08.49,0:20:10.33,Default,,0000,0000,0000,,There they come!
+Dialogue: 0,0:20:10.33,0:20:12.64,Default,,0000,0000,0000,,Everyone, battle stations!
+Dialogue: 0,0:20:20.61,0:20:23.61,Default,,0000,0000,0000,,They appeared so suddenly! Where did they get in?
+Dialogue: 0,0:20:37.70,0:20:40.50,Default,,0000,0000,0000,,It's the vast fleet of pirate ships!
+Dialogue: 0,0:20:40.50,0:20:43.55,Default,,0000,0000,0000,,Where's Whitebeard? Look for him!
+Dialogue: 0,0:20:44.22,0:20:45.47,Default,,0000,0000,0000,,Bohemian Knight Doma!
+Dialogue: 0,0:20:46.00,0:20:47.30,Default,,0000,0000,0000,,"Thunder Lord" McGuy!
+Dialogue: 0,0:20:48.11,0:20:49.64,Default,,0000,0000,0000,,DeCalvan Brothers!
+Dialogue: 0,0:20:50.34,0:20:51.89,Default,,0000,0000,0000,,Whirl Spider Squad!
+Dialogue: 0,0:20:52.56,0:20:57.06,Default,,0000,0000,0000,,They're all big-time captains who are well known in the New World!
+Dialogue: 0,0:20:58.36,0:21:03.22,Default,,0000,0000,0000,,43 ships in total! We can't find Whitebeard or the commanders!
+Dialogue: 0,0:21:03.22,0:21:06.66,Default,,0000,0000,0000,,But they're all allies of Whitebeard!
+Dialogue: 0,0:21:07.18,0:21:09.28,Default,,0000,0000,0000,,Ace-chan, can you see us?
+Dialogue: 0,0:21:09.28,0:21:11.62,Default,,0000,0000,0000,,We're here for you, Ace!
+Dialogue: 0,0:21:15.46,0:21:17.83,Default,,0000,0000,0000,,Don't panic! So pathetic!
+Dialogue: 0,0:21:20.26,0:21:22.17,Default,,0000,0000,0000,,I didn't expect them to come!
+Dialogue: 0,0:21:22.17,0:21:24.65,Default,,0000,0000,0000,,--Shall we attack?\N--Not yet.
+Dialogue: 0,0:21:24.65,0:21:27.30,Default,,0000,0000,0000,,Whitebeard should be somewhere near, too.
+Dialogue: 0,0:21:27.30,0:21:30.94,Default,,0000,0000,0000,,And he must be up to something so keep an eye on the sea!
+Dialogue: 0,0:21:32.74,0:21:33.89,Default,,0000,0000,0000,,This is fun!
+Dialogue: 0,0:21:33.89,0:21:37.94,Default,,0000,0000,0000,,I'm getting excited! Just come on, Whitebeard!
+Dialogue: 0,0:21:56.48,0:21:57.75,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:22:03.98,0:22:05.19,Default,,0000,0000,0000,,Where is he?
+Dialogue: 0,0:22:06.82,0:22:10.72,Default,,0000,0000,0000,,I think he'll appear from where we least expect.
+Dialogue: 0,0:22:10.72,0:22:12.47,Default,,0000,0000,0000,,Maybe we got the wrong lineup.
+Dialogue: 0,0:22:23.24,0:22:26.53,Default,,0000,0000,0000,,--I see a shadow in the bay!\N--No way!
+Dialogue: 0,0:22:36.02,0:22:39.48,Default,,0000,0000,0000,,I get it now! They got all their ships...
+Dialogue: 0,0:22:40.11,0:22:43.17,Default,,0000,0000,0000,,...coated and approached from underwater!
+Dialogue: 0,0:22:59.29,0:23:02.11,Default,,0000,0000,0000,,Here comes Moby Dick!
+Dialogue: 0,0:23:25.21,0:23:28.41,Default,,0000,0000,0000,,The Moby Dick emerges right in the middle of Marineford.
+Dialogue: 0,0:23:28.41,0:23:32.76,Default,,0000,0000,0000,,On its deck, Whitebeard and his 14 commanders are ready for battle.
+Dialogue: 0,0:23:32.76,0:23:35.68,Default,,0000,0000,0000,,The Whitebeard Pirates head straight for Ace.
+Dialogue: 0,0:23:35.68,0:23:40.56,Default,,0000,0000,0000,,There is an unbroken bond between them an Ace, a family bond!
+Dialogue: 0,0:23:40.56,0:23:42.02,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:42.02,0:23:45.19,Default,,0000,0000,0000,,"The Beginning of the War! Ace and Whitebeard's Past!"
+Dialogue: 0,0:23:45.19,0:23:47.33,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

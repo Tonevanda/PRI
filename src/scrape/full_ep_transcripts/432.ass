@@ -1,0 +1,328 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.36,0:00:20.77,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.77,0:00:23.07,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.07,0:00:29.89,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.20,0:00:40.51,Italics,song,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:43.98,Italics,song,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,Italics,song,0000,0000,0000,,The borderline between\Nthe sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,Italics,song,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,Italics,song,0000,0000,0000,,Don't you have a good\Ntime just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.08,Italics,song,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.08,0:01:09.34,Italics,song,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.28,Italics,song,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.49,0:01:26.98,Italics,song,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.98,0:01:30.23,Italics,song,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,Italics,song,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:36.09,0:01:41.99,Italics,song,0000,0000,0000,,With our pulses racing,\Nlet's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,Italics,song,0000,0000,0000,,Shy hearts engrave\Nthe rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.53,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.53,0:01:55.74,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.74,0:02:00.08,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.08,0:02:02.85,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.87,Italics,song,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.87,0:02:06.62,Italics,song,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.62,0:02:08.19,Italics,song,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.19,0:02:09.85,Italics,song,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.85,0:02:11.47,Italics,song,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.47,0:02:12.98,Italics,song,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.64,Italics,song,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.64,0:02:15.71,Italics,song,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.71,0:02:19.91,Italics,song,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,Italics,song,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.65,Italics,song,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.65,0:02:29.00,Italics,song,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.19,Italics,song,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.19,0:02:35.54,Italics,song,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.54,0:02:39.51,Italics,song,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.80,0:02:42.67,Italics,song,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:47.89,0:02:50.99,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:50.99,0:02:52.61,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:52.61,0:02:58.28,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:59.76,0:03:04.57,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.57,0:03:07.52,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:03:07.52,0:03:11.60,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:03:11.60,0:03:16.30,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:17.34,0:03:19.13,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:19.86,0:03:22.76,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:23.19,0:03:26.32,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.32,0:03:29.76,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:34.56,0:03:37.65,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:37.65,0:03:42.40,Default,,0000,0000,0000,,Luffy has snuck into Impel Down \Nto rescue his brother, Ace,
+Dialogue: 0,0:03:42.40,0:03:44.03,Default,,0000,0000,0000,,who has been captured by the Navy.
+Dialogue: 0,0:03:44.62,0:03:50.20,Default,,0000,0000,0000,,He ran into Buggy and a former \NBaroque Works agent - Mr. 3,
+Dialogue: 0,0:03:50.20,0:03:52.43,Default,,0000,0000,0000,,and together, they have reached level 3!
+Dialogue: 0,0:03:52.43,0:03:56.21,Default,,0000,0000,0000,,This is level 3 - the Starvation Hell!
+Dialogue: 0,0:03:56.21,0:04:00.16,Default,,0000,0000,0000,,We have to get away from here while \Nwe still have sweat to spare.
+Dialogue: 0,0:04:00.16,0:04:02.17,Default,,0000,0000,0000,,Let's go to level 4 in hurry!
+Dialogue: 0,0:04:02.17,0:04:03.26,Default,,0000,0000,0000,,Seriously?!
+Dialogue: 0,0:04:03.26,0:04:06.01,Default,,0000,0000,0000,,Soup spaghetti!
+Dialogue: 0,0:04:06.01,0:04:07.47,Default,,0000,0000,0000,,The Sphinx is awake!
+Dialogue: 0,0:04:07.47,0:04:11.77,Default,,0000,0000,0000,,Deep-fried noodle!
+Dialogue: 0,0:04:11.77,0:04:13.19,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:04:13.19,0:04:16.11,Default,,0000,0000,0000,,...Gatling!
+Dialogue: 0,0:04:16.81,0:04:21.24,Default,,0000,0000,0000,,Meanwhile, Hancock who helped \NLuffy to sneak into the prison...
+Dialogue: 0,0:04:21.24,0:04:25.36,Default,,0000,0000,0000,,...is about to reach the floor \Nwhere Ace is being held.
+Dialogue: 0,0:04:25.36,0:04:29.16,Default,,0000,0000,0000,,Un, deux, come on!
+Dialogue: 0,0:04:29.16,0:04:33.44,Default,,0000,0000,0000,,--Un, deux, faint!\N--Who's singing?
+Dialogue: 0,0:04:33.44,0:04:36.88,Default,,0000,0000,0000,,Un, deux, come on!
+Dialogue: 0,0:04:36.88,0:04:40.72,Default,,0000,0000,0000,,Un, deux, faint!
+Dialogue: 0,0:04:40.72,0:04:44.50,Default,,0000,0000,0000,,Un, deux, come on!
+Dialogue: 0,0:04:48.36,0:04:53.22,Default,,0000,0000,0000,,"The Unleashed Swan! A \Nreunion with Bon Clay!"
+Dialogue: 0,0:04:55.89,0:04:58.75,Default,,0000,0000,0000,,Oh Come My Way!
+Dialogue: 0,0:04:58.75,0:05:02.57,Default,,0000,0000,0000,,Oh, oh! Oh Come My Way!
+Dialogue: 0,0:05:02.57,0:05:06.02,Default,,0000,0000,0000,,Yeah, yeah! Oh Come My Way!
+Dialogue: 0,0:05:07.03,0:05:12.91,Default,,0000,0000,0000,,I can barely stand in this Starvation \NHell but that guy's singing so happily.
+Dialogue: 0,0:05:12.91,0:05:16.46,Default,,0000,0000,0000,,If he's a prisoner, he sure is something!
+Dialogue: 0,0:05:17.21,0:05:20.00,Default,,0000,0000,0000,,Spin, spin! Oh Come My Way!
+Dialogue: 0,0:05:20.00,0:05:22.67,Default,,0000,0000,0000,,It sounds familiar! This must be...
+Dialogue: 0,0:05:23.59,0:05:27.34,Default,,0000,0000,0000,,Hey, partner! I think this guy can help us!
+Dialogue: 0,0:05:27.80,0:05:30.55,Default,,0000,0000,0000,,H-Hey! W-Wait a minute!
+Dialogue: 0,0:05:31.97,0:05:35.48,Default,,0000,0000,0000,,Yeah, yeah! Oh Come My Way!
+Dialogue: 0,0:05:35.48,0:05:38.60,Default,,0000,0000,0000,,Spin, spin! Oh Come My Way!
+Dialogue: 0,0:05:39.16,0:05:41.44,Default,,0000,0000,0000,,You guys are doing great!
+Dialogue: 0,0:05:41.44,0:05:45.74,Default,,0000,0000,0000,,I spin and spin like I'm caught \Nup in the tide of the times!
+Dialogue: 0,0:05:45.74,0:05:46.95,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:05:47.95,0:05:50.78,Default,,0000,0000,0000,,Wait! Listen to me! That's...
+Dialogue: 0,0:05:54.80,0:05:57.96,Default,,0000,0000,0000,,Guys! You can't be that tired!
+Dialogue: 0,0:05:58.36,0:06:00.92,Default,,0000,0000,0000,,It's not that hot!
+Dialogue: 0,0:06:01.26,0:06:05.67,Default,,0000,0000,0000,,I can make more people suffocate!
+Dialogue: 0,0:06:10.26,0:06:13.76,Default,,0000,0000,0000,,Oh! What's up, Mr. 3!
+Dialogue: 0,0:06:16.48,0:06:19.18,Default,,0000,0000,0000,,Just as I thought. It's you...
+Dialogue: 0,0:06:24.44,0:06:27.32,Default,,0000,0000,0000,,What?! Mr. 3?!
+Dialogue: 0,0:06:27.32,0:06:31.37,Default,,0000,0000,0000,,Hey, wait a minute! Why're you here?!
+Dialogue: 0,0:06:31.37,0:06:35.41,Default,,0000,0000,0000,,You're behind bars, so you've been caught?!
+Dialogue: 0,0:06:39.31,0:06:42.58,Default,,0000,0000,0000,,No, no. It's me who has been caught!
+Dialogue: 0,0:06:42.58,0:06:46.84,Default,,0000,0000,0000,,I was so surprised I had to do a double take \Nwith an "Oh Come My Way" Kenpo called...
+Dialogue: 0,0:06:46.84,0:06:50.88,Default,,0000,0000,0000,,...Looking Back on that Autumn Night's Dream!
+Dialogue: 0,0:06:50.88,0:06:55.10,Default,,0000,0000,0000,,Hey! What kind of animal is this?!
+Dialogue: 0,0:06:55.10,0:06:58.10,Default,,0000,0000,0000,,Let's be sure to not let him out.
+Dialogue: 0,0:06:58.37,0:07:04.11,Default,,0000,0000,0000,,What're you saying?! Let me out!
+Dialogue: 0,0:07:08.69,0:07:10.68,Default,,0000,0000,0000,,How much hotter can it get?!
+Dialogue: 0,0:07:10.68,0:07:16.03,Default,,0000,0000,0000,,But if I keep going down these stairs, \NI think I can get to where Ace is!
+Dialogue: 0,0:07:24.92,0:07:26.75,Default,,0000,0000,0000,,He headed down?!
+Dialogue: 0,0:07:28.28,0:07:33.12,Default,,0000,0000,0000,,Is that true?! You're not \Nfooling with me, are you?!
+Dialogue: 0,0:07:33.12,0:07:35.26,Default,,0000,0000,0000,,--No!\N--Certainly not!
+Dialogue: 0,0:07:35.64,0:07:39.85,Default,,0000,0000,0000,,Okay! Thank you for letting me out, Mr. 3!
+Dialogue: 0,0:07:40.38,0:07:42.48,Default,,0000,0000,0000,,I owe you!
+Dialogue: 0,0:07:42.48,0:07:44.77,Default,,0000,0000,0000,,--Ah?\N--Alright then...
+Dialogue: 0,0:07:45.31,0:07:47.80,Default,,0000,0000,0000,,I'm on my way, my friend!
+Dialogue: 0,0:07:47.80,0:07:51.40,Default,,0000,0000,0000,,Oh Come My Way! It's the way to hell!
+Dialogue: 0,0:07:52.97,0:07:55.39,Default,,0000,0000,0000,,This is the best for all of us.
+Dialogue: 0,0:07:55.39,0:07:57.20,Default,,0000,0000,0000,,Yeah, for sure...
+Dialogue: 0,0:07:58.73,0:08:03.21,Default,,0000,0000,0000,,How did he slip through our tight security?!
+Dialogue: 0,0:08:03.21,0:08:06.02,Default,,0000,0000,0000,,There's just one invader.
+Dialogue: 0,0:08:06.02,0:08:09.53,Default,,0000,0000,0000,,But if we let him rescue Ace,
+Dialogue: 0,0:08:09.53,0:08:14.43,Default,,0000,0000,0000,,not only Impel Down but the World \NGovernment will be humiliated!
+Dialogue: 0,0:08:14.79,0:08:16.47,Default,,0000,0000,0000,,We're gonna get into that prison
+Dialogue: 0,0:08:17.49,0:08:22.48,Default,,0000,0000,0000,,and in the name of Navy Headquarters, \Nwe must catch Straw Hat Luffy!
+Dialogue: 0,0:08:26.17,0:08:27.76,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:08:30.01,0:08:31.76,Default,,0000,0000,0000,,W-Who are you?!
+Dialogue: 0,0:08:35.99,0:08:38.78,Default,,0000,0000,0000,,I'm Sadie-chan who loves torturing people!
+Dialogue: 0,0:08:39.26,0:08:42.89,Default,,0000,0000,0000,,After being breached by an \Nintruder, taking Navy help
+Dialogue: 0,0:08:42.89,0:08:46.88,Default,,0000,0000,0000,,would only further \Ndisgrace Impel Down's name!
+Dialogue: 0,0:08:52.61,0:08:55.63,Default,,0000,0000,0000,,She can't be serious using \N"chan" to refer to herself...
+Dialogue: 0,0:08:55.63,0:08:56.84,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:58.33,0:08:59.89,Default,,0000,0000,0000,,You better call me "Sadie-chan!"
+Dialogue: 0,0:09:07.94,0:09:10.98,Default,,0000,0000,0000,,I can't resist those screams!
+Dialogue: 0,0:09:11.82,0:09:12.82,Default,,0000,0000,0000,,You bitch!
+Dialogue: 0,0:09:12.82,0:09:16.61,Default,,0000,0000,0000,,Hold it! Are you saying that \Nyou don't need our help?
+Dialogue: 0,0:09:16.61,0:09:20.37,Default,,0000,0000,0000,,Yes. This prison is a labyrinthine hell.
+Dialogue: 0,0:09:20.37,0:09:23.83,Default,,0000,0000,0000,,If you don't know it well, you can't help us!
+Dialogue: 0,0:09:24.62,0:09:29.21,Default,,0000,0000,0000,,We'd appreciate your help if \Nyou just guard the outside.
+Dialogue: 0,0:09:29.63,0:09:35.59,Default,,0000,0000,0000,,We'll raise this drawbridge which is \Nthe only entrance to the prison...
+Dialogue: 0,0:09:35.59,0:09:37.93,Default,,0000,0000,0000,,...and seal off Impel Down completely!
+Dialogue: 0,0:09:38.24,0:09:42.10,Default,,0000,0000,0000,,Don't worry. There is no way out...
+Dialogue: 0,0:09:42.97,0:09:45.10,Default,,0000,0000,0000,,...of this underwater prison!
+Dialogue: 0,0:09:46.98,0:09:49.48,Default,,0000,0000,0000,,Alright then, we'll guard the outside.
+Dialogue: 0,0:09:50.28,0:09:52.40,Default,,0000,0000,0000,,You're a good boy.
+Dialogue: 0,0:09:55.69,0:09:57.02,Default,,0000,0000,0000,,A koala?
+Dialogue: 0,0:09:58.53,0:10:00.66,Default,,0000,0000,0000,,You're kidding me!
+Dialogue: 0,0:10:00.66,0:10:01.70,Default,,0000,0000,0000,,A koala.
+Dialogue: 0,0:10:03.62,0:10:04.75,Default,,0000,0000,0000,,A koala?
+Dialogue: 0,0:10:04.75,0:10:05.79,Default,,0000,0000,0000,,A koala.
+Dialogue: 0,0:10:19.26,0:10:21.85,Default,,0000,0000,0000,,We're completely sealed off!
+Dialogue: 0,0:10:32.44,0:10:34.20,Default,,0000,0000,0000,,A koala?
+Dialogue: 0,0:10:45.90,0:10:47.76,Default,,0000,0000,0000,,Hannyabal?!
+Dialogue: 0,0:10:48.04,0:10:50.67,Default,,0000,0000,0000,,Magellan's here, too. What's going on?
+Dialogue: 0,0:11:02.48,0:11:05.48,Default,,0000,0000,0000,,You have a special visitor, Ace!
+Dialogue: 0,0:11:07.01,0:11:09.48,Default,,0000,0000,0000,,Guess who's here!
+Dialogue: 0,0:11:09.48,0:11:13.98,Default,,0000,0000,0000,,Jimbei! Even you have never met her before,
+Dialogue: 0,0:11:13.98,0:11:16.44,Default,,0000,0000,0000,,so there's no way that \NAce can guess who it is.
+Dialogue: 0,0:11:17.01,0:11:22.61,Default,,0000,0000,0000,,She's well-known but never shows herself! \NShe leads the Kuja - the tribe of warriors!
+Dialogue: 0,0:11:22.86,0:11:25.30,Default,,0000,0000,0000,,She's a Warlord of the Sea!
+Dialogue: 0,0:11:25.80,0:11:29.67,Default,,0000,0000,0000,,Strong, noble, and the most \Nbeautiful woman in the world!
+Dialogue: 0,0:11:29.67,0:11:31.96,Default,,0000,0000,0000,,She is the Pirate Empress Boa Hancock!
+Dialogue: 0,0:11:35.46,0:11:39.93,Default,,0000,0000,0000,,Yeah, yeah, Hancock! Hancock-sama!
+Dialogue: 0,0:11:39.93,0:11:44.97,Default,,0000,0000,0000,,Yo, goddess! When I become \Nwarden, will you marry me?!
+Dialogue: 0,0:11:44.97,0:11:46.61,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:11:47.56,0:11:50.03,Default,,0000,0000,0000,,Ouch! I really wanna become the warden!
+Dialogue: 0,0:11:50.03,0:11:53.12,Default,,0000,0000,0000,,I mean, it really hurts \Nto be hit by the warden!
+Dialogue: 0,0:11:53.12,0:11:55.44,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:11:55.44,0:12:00.49,Default,,0000,0000,0000,,Wow! Is she it?! She is so beautiful!
+Dialogue: 0,0:12:00.49,0:12:04.36,Default,,0000,0000,0000,,So she's the Snake Princess \Nof the Kuja? Hey, turn around!
+Dialogue: 0,0:12:04.74,0:12:06.48,Default,,0000,0000,0000,,Hancock-chan!
+Dialogue: 0,0:12:06.48,0:12:09.59,Default,,0000,0000,0000,,Look how sexy she is!
+Dialogue: 0,0:12:09.59,0:12:12.24,Default,,0000,0000,0000,,Young lady! Come to our cell!
+Dialogue: 0,0:12:12.24,0:12:15.33,Default,,0000,0000,0000,,We will love you tenderly!
+Dialogue: 0,0:12:15.33,0:12:20.60,Default,,0000,0000,0000,,What a good smell! I wanna \Nvisit the Maiden Island!
+Dialogue: 0,0:12:20.60,0:12:24.55,Default,,0000,0000,0000,,There's only women and \Neverybody's naked there, right?
+Dialogue: 0,0:12:35.37,0:12:37.52,Default,,0000,0000,0000,,What do you want from me?
+Dialogue: 0,0:12:38.21,0:12:41.65,Default,,0000,0000,0000,,Nothing. I just wanted to take a look at you.
+Dialogue: 0,0:12:42.28,0:12:46.49,Default,,0000,0000,0000,,Because you will become the cause \Nof the war that I will take part in.
+Dialogue: 0,0:12:47.13,0:12:48.87,Default,,0000,0000,0000,,So I'm worth a look, then?
+Dialogue: 0,0:12:52.72,0:12:56.64,Default,,0000,0000,0000,,Boa Hancock! Are you ignoring us?!
+Dialogue: 0,0:12:56.64,0:12:58.48,Default,,0000,0000,0000,,Come here!
+Dialogue: 0,0:13:00.38,0:13:05.84,Default,,0000,0000,0000,,You've always been an empress with a strong \Nwill who never obeyed any summonses,
+Dialogue: 0,0:13:05.84,0:13:08.35,Default,,0000,0000,0000,,but you're taking part in this war?
+Dialogue: 0,0:13:08.72,0:13:11.95,Default,,0000,0000,0000,,Suddenly, you value your \Ntitle of Warlord of the Sea?!
+Dialogue: 0,0:13:13.54,0:13:16.69,Default,,0000,0000,0000,,So you're Jimbei. Don't snarl at me.
+Dialogue: 0,0:13:16.69,0:13:19.42,Default,,0000,0000,0000,,Yo, yo, young lady! Young lady!
+Dialogue: 0,0:13:19.42,0:13:22.60,Default,,0000,0000,0000,,They're talking! Shut your mouths!
+Dialogue: 0,0:13:22.60,0:13:26.34,Default,,0000,0000,0000,,Shut up, Magellan! Go have a shit as always!
+Dialogue: 0,0:13:26.34,0:13:28.15,Default,,0000,0000,0000,,Yeah, he's right!
+Dialogue: 0,0:13:28.15,0:13:29.67,Default,,0000,0000,0000,,Hey, Snake Princess!
+Dialogue: 0,0:13:29.67,0:13:32.71,Default,,0000,0000,0000,,I bet the girls on the Maiden \NIsland are hungry for us guys!
+Dialogue: 0,0:13:32.71,0:13:35.91,Default,,0000,0000,0000,,Hey you! Give me your post as warden!
+Dialogue: 0,0:13:35.91,0:13:36.87,Default,,0000,0000,0000,,Vice Warden!
+Dialogue: 0,0:13:37.16,0:13:41.56,Default,,0000,0000,0000,,Hey girl! I said "get your \Nass over to our cell!"
+Dialogue: 0,0:13:41.56,0:13:42.99,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:13:42.99,0:13:44.62,Default,,0000,0000,0000,,She turned!
+Dialogue: 0,0:13:44.62,0:13:47.10,Default,,0000,0000,0000,,You keep taunting me with \Nthose coarse voices...
+Dialogue: 0,0:13:47.91,0:13:50.14,Default,,0000,0000,0000,,I'm scared!
+Dialogue: 0,0:13:50.14,0:13:53.48,Default,,0000,0000,0000,,Oh, god! I can't resist!
+Dialogue: 0,0:13:53.48,0:13:58.00,Default,,0000,0000,0000,,How cute she is! Let us have her, Shit Man!
+Dialogue: 0,0:13:58.00,0:14:02.40,Default,,0000,0000,0000,,This is the vilest place in \Nthe world! It makes me sick!
+Dialogue: 0,0:14:02.81,0:14:08.00,Default,,0000,0000,0000,,The prisoners call you "Shit Man." \NHow can you stand it, Warden?
+Dialogue: 0,0:14:08.00,0:14:11.37,Default,,0000,0000,0000,,They must've crushed any \Npride you take in your job...
+Dialogue: 0,0:14:11.37,0:14:13.94,Default,,0000,0000,0000,,Wow! She's irresistible!
+Dialogue: 0,0:14:13.94,0:14:15.62,Default,,0000,0000,0000,,Shame on you, Shit Man!
+Dialogue: 0,0:14:17.50,0:14:18.83,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:14:18.83,0:14:21.71,Default,,0000,0000,0000,,Let me have her, Shit Man!
+Dialogue: 0,0:14:21.94,0:14:24.64,Default,,0000,0000,0000,,Shit Man! Let me have Hancock!
+Dialogue: 0,0:14:25.32,0:14:30.05,Default,,0000,0000,0000,,I'm infuriated at their rudeness!
+Dialogue: 0,0:14:51.41,0:14:53.66,Default,,0000,0000,0000,,Wow! Warden, w-w-wait!
+Dialogue: 0,0:14:53.66,0:14:57.00,Default,,0000,0000,0000,,That's gonna harm us, too! No!
+Dialogue: 0,0:15:09.30,0:15:11.21,Default,,0000,0000,0000,,You've gotten carried away!
+Dialogue: 0,0:15:11.21,0:15:13.28,Default,,0000,0000,0000,,Ugh! Oh man!
+Dialogue: 0,0:15:15.19,0:15:18.57,Default,,0000,0000,0000,,I have to show you...
+Dialogue: 0,0:15:27.98,0:15:31.53,Default,,0000,0000,0000,,...who is boss in this prison!
+Dialogue: 0,0:15:49.92,0:15:51.55,Default,,0000,0000,0000,,Oh man!
+Dialogue: 0,0:15:55.10,0:15:57.26,Default,,0000,0000,0000,,His Hydra appears!
+Dialogue: 0,0:16:09.53,0:16:12.95,Default,,0000,0000,0000,,--What're you doing?!\N--Stop, Magellan!
+Dialogue: 0,0:16:12.95,0:16:17.66,Default,,0000,0000,0000,,You fool! We were just joking! Don't!
+Dialogue: 0,0:16:39.58,0:16:43.06,Default,,0000,0000,0000,,You bastard! You can't do this to me!
+Dialogue: 0,0:16:45.73,0:16:48.94,Default,,0000,0000,0000,,Oh no! You're gonna die!
+Dialogue: 0,0:16:49.60,0:16:53.07,Default,,0000,0000,0000,,I need... I need an antidote! Shit!
+Dialogue: 0,0:16:59.00,0:17:03.25,Default,,0000,0000,0000,,I have the authority and the ability...
+Dialogue: 0,0:17:03.25,0:17:06.63,Default,,0000,0000,0000,,...to execute any of you at \Nmy whim! Don't forget it!
+Dialogue: 0,0:17:18.36,0:17:22.56,Default,,0000,0000,0000,,All right, Hancock-dono. \NYou can talk freely now.
+Dialogue: 0,0:17:22.56,0:17:24.31,Default,,0000,0000,0000,,I'm done.
+Dialogue: 0,0:17:24.68,0:17:26.90,Default,,0000,0000,0000,,Hey! Is what you just told me true?!
+Dialogue: 0,0:17:27.27,0:17:29.48,Default,,0000,0000,0000,,Why would I lie to you?
+Dialogue: 0,0:17:30.08,0:17:31.11,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:17:31.69,0:17:34.61,Default,,0000,0000,0000,,He was worried that you might get mad.
+Dialogue: 0,0:17:36.26,0:17:37.79,Default,,0000,0000,0000,,Are you done already?
+Dialogue: 0,0:17:38.49,0:17:40.62,Default,,0000,0000,0000,,What were they talking about?
+Dialogue: 0,0:17:40.62,0:17:44.50,Default,,0000,0000,0000,,I dunno. I was trying really \Nhard to get away from you.
+Dialogue: 0,0:17:46.04,0:17:47.71,Default,,0000,0000,0000,,Ace-san.
+Dialogue: 0,0:17:48.51,0:17:51.17,Default,,0000,0000,0000,,What did she just tell you?
+Dialogue: 0,0:17:54.82,0:17:58.18,Default,,0000,0000,0000,,She said that my brother's here!
+Dialogue: 0,0:17:58.18,0:18:02.66,Default,,0000,0000,0000,,What?! The one with a straw hat \Nthat you always talk about?!
+Dialogue: 0,0:18:02.66,0:18:04.14,Default,,0000,0000,0000,,That's insane!
+Dialogue: 0,0:18:13.38,0:18:17.86,Default,,0000,0000,0000,,Ah? I didn't notice but I'm \Nclimbing now! I wanna go down!
+Dialogue: 0,0:18:17.86,0:18:21.74,Default,,0000,0000,0000,,But I guess If I keep going, it's \Ngonna go downwards at some point!
+Dialogue: 0,0:18:22.21,0:18:24.20,Default,,0000,0000,0000,,I'm hungry!
+Dialogue: 0,0:18:24.20,0:18:26.91,Default,,0000,0000,0000,,We got an image! He's \Nabout to enter district C!
+Dialogue: 0,0:18:29.21,0:18:30.74,Default,,0000,0000,0000,,Alright, I see him!
+Dialogue: 0,0:18:42.76,0:18:45.01,Default,,0000,0000,0000,,Sea Prism Stone nets, again!
+Dialogue: 0,0:18:51.52,0:18:53.52,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:19:00.73,0:19:03.12,Default,,0000,0000,0000,,Oh no! The lion!
+Dialogue: 0,0:19:03.12,0:19:05.24,Default,,0000,0000,0000,,Damnit!
+Dialogue: 0,0:19:08.58,0:19:11.13,Default,,0000,0000,0000,,Wait a minute, you lion!
+Dialogue: 0,0:19:22.68,0:19:24.97,Default,,0000,0000,0000,,I'm here to help you!
+Dialogue: 0,0:19:27.20,0:19:28.72,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:19:36.06,0:19:37.90,Default,,0000,0000,0000,,I fooled you!
+Dialogue: 0,0:19:39.57,0:19:42.53,Default,,0000,0000,0000,,Swan Arabesque!
+Dialogue: 0,0:19:50.97,0:19:53.25,Default,,0000,0000,0000,,--Swan, swan!\N--Oh?
+Dialogue: 0,0:19:56.52,0:19:59.78,Default,,0000,0000,0000,,Spin, spin! I'm spinning!
+Dialogue: 0,0:20:00.72,0:20:04.39,Default,,0000,0000,0000,,He's not Zoro but he sounds familiar...
+Dialogue: 0,0:20:06.14,0:20:10.31,Default,,0000,0000,0000,,It's been a long time! \NStraw-chan, it's me!
+Dialogue: 0,0:20:17.48,0:20:20.82,Default,,0000,0000,0000,,So how was my secret talent?!
+Dialogue: 0,0:20:20.82,0:20:22.61,Default,,0000,0000,0000,,Cool!
+Dialogue: 0,0:20:22.61,0:20:24.53,Default,,0000,0000,0000,,Gimme a break!
+Dialogue: 0,0:20:24.53,0:20:28.12,Default,,0000,0000,0000,,--Running now wouldn't be like Bon Clay...\N--Huh?!
+Dialogue: 0,0:20:28.12,0:20:31.96,Default,,0000,0000,0000,,If we abandon pals who would risk \Ntheir lives to pick up their pal,
+Dialogue: 0,0:20:31.96,0:20:34.87,Default,,0000,0000,0000,,will we... be able to \Nenjoy our food tomorrow?!
+Dialogue: 0,0:20:35.26,0:20:37.88,Default,,0000,0000,0000,,Miss Hina! The sheep ship \Nis heading to the east!
+Dialogue: 0,0:20:37.88,0:20:38.75,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:38.75,0:20:40.53,Default,,0000,0000,0000,,You were tricked, weren't you!
+Dialogue: 0,0:20:40.53,0:20:44.34,Default,,0000,0000,0000,,We’re experts at disguising \Nourselves! And...
+Dialogue: 0,0:20:46.63,0:20:48.85,Default,,0000,0000,0000,,we’re the Straw Hats’ friends...!
+Dialogue: 0,0:20:50.85,0:20:53.23,Default,,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:20:53.23,0:20:59.27,Default,,0000,0000,0000,,We'll never forget you!
+Dialogue: 0,0:21:00.78,0:21:03.07,Default,,0000,0000,0000,,Bon-chan!
+Dialogue: 0,0:21:03.07,0:21:07.99,Default,,0000,0000,0000,,I'm so disappointed that you're not \NZoro but at least you're alive!
+Dialogue: 0,0:21:08.41,0:21:10.33,Default,,0000,0000,0000,,It's our chance! Get Straw Hat!
+Dialogue: 0,0:21:10.33,0:21:11.74,Default,,0000,0000,0000,,Go away!
+Dialogue: 0,0:21:14.62,0:21:20.13,Default,,0000,0000,0000,,You assholes! What do you think \Nyou're doing to my friend?!
+Dialogue: 0,0:21:24.05,0:21:26.63,Default,,0000,0000,0000,,Yeah, Sphinx! Fight back!
+Dialogue: 0,0:21:33.01,0:21:36.94,Default,,0000,0000,0000,,Okay! He's not gonna attack us \Nafter getting busted up like this!
+Dialogue: 0,0:21:36.94,0:21:40.73,Default,,0000,0000,0000,,You gotta get rough to teach \Na wild animal a lesson!
+Dialogue: 0,0:21:43.31,0:21:45.40,Default,,0000,0000,0000,,Fried noodle bun...
+Dialogue: 0,0:21:45.40,0:21:49.99,Default,,0000,0000,0000,,Hey, Bon-chan! I thought \Nthat you were dead...
+Dialogue: 0,0:21:49.99,0:21:52.85,Default,,0000,0000,0000,,...after sacrificing yourself for us!
+Dialogue: 0,0:21:54.54,0:21:59.85,Default,,0000,0000,0000,,Gimme a break! Queers never die!
+Dialogue: 0,0:21:59.85,0:22:01.48,Default,,0000,0000,0000,,Oh, is that right?!
+Dialogue: 0,0:22:07.38,0:22:10.37,Default,,0000,0000,0000,,Let's see how Mr. 2 Bon Clay's power works!
+Dialogue: 0,0:22:10.93,0:22:13.05,Default,,0000,0000,0000,,He ate the Clone-Clone Fruit
+Dialogue: 0,0:22:13.05,0:22:18.02,Default,,0000,0000,0000,,and he can turn into anyone whose face \Nhas been touched by his right hand.
+Dialogue: 0,0:22:18.02,0:22:22.81,Default,,0000,0000,0000,,He turned into Zoro because \Nhe touched him before.
+Dialogue: 0,0:22:26.11,0:22:28.64,Default,,0000,0000,0000,,Here's another escapee!
+Dialogue: 0,0:22:28.64,0:22:32.37,Default,,0000,0000,0000,,He keeps gaining friends as \Nhe descends deeper and deeper!
+Dialogue: 0,0:22:35.74,0:22:39.87,Default,,0000,0000,0000,,Blugoris! Don't let them get away!
+Dialogue: 0,0:22:48.14,0:22:52.72,Default,,0000,0000,0000,,By the way, Straw-chan, I heard \Nthat you wanna get to level 5!
+Dialogue: 0,0:22:52.97,0:22:55.64,Default,,0000,0000,0000,,Yes, indeed! Can you show me the way?
+Dialogue: 0,0:22:56.13,0:22:58.32,Default,,0000,0000,0000,,Alright, I'll go with you!
+Dialogue: 0,0:22:58.32,0:23:02.80,Default,,0000,0000,0000,,Actually, there's someone \Nthat I wanna see on level 5!
+Dialogue: 0,0:23:02.80,0:23:04.15,Default,,0000,0000,0000,,You sure?!
+Dialogue: 0,0:23:04.63,0:23:06.32,Default,,0000,0000,0000,,Okay then, let's do it together!
+Dialogue: 0,0:23:06.69,0:23:08.04,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:23:08.61,0:23:10.28,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:23:10.64,0:23:11.99,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:20.34,0:23:23.50,Default,,0000,0000,0000,,Luffy teams up with Mr. 2 Bon Clay again,
+Dialogue: 0,0:23:23.50,0:23:26.88,Default,,0000,0000,0000,,and they blast through level 3, taking \Nout armies of Blugoris along the way.
+Dialogue: 0,0:23:26.88,0:23:28.88,Default,,0000,0000,0000,,At last, they're close to level 4!
+Dialogue: 0,0:23:28.88,0:23:32.84,Default,,0000,0000,0000,,But before they get there, an \Nimmensely powerful demon guard,
+Dialogue: 0,0:23:32.84,0:23:35.22,Default,,0000,0000,0000,,Minotaurus, stands before them.
+Dialogue: 0,0:23:35.22,0:23:36.60,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.60,0:23:40.27,Default,,0000,0000,0000,,"Warden Magellan's Strategy! \NStraw Hat Entrapment Completed!"
+Dialogue: 0,0:23:40.27,0:23:42.40,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

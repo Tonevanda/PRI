@@ -1,0 +1,376 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.51,0:00:17.47,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:17.47,0:00:19.39,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:19.39,0:00:21.27,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:00:21.27,0:00:23.24,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:00:23.24,0:00:25.00,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:00:25.00,0:00:28.76,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:00:28.76,0:00:32.38,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:34.97,0:00:39.09,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:00:39.62,0:00:42.62,Default,,0000,0000,0000,,The world has truly entered a Great Pirate Era!
+Dialogue: 0,0:00:43.52,0:00:49.11,Italics,,0000,0000,0000,,We’re going to gather up all our dreams
+Dialogue: 0,0:00:49.11,0:00:54.95,Italics,,0000,0000,0000,,and set out in search of something to find
+Dialogue: 0,0:00:54.95,0:00:56.38,Italics,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:01:01.08,0:01:06.77,Italics,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:01:06.77,0:01:11.82,Italics,,0000,0000,0000,,Delirious with fever, I take the helm
+Dialogue: 0,0:01:12.46,0:01:24.11,Italics,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it’s not a legend!
+Dialogue: 0,0:01:24.72,0:01:30.43,Italics,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:30.43,0:01:35.55,Italics,,0000,0000,0000,,simply ride aboard someone else’s biorhythm
+Dialogue: 0,0:01:35.55,0:01:37.99,Italics,,0000,0000,0000,,and pretend it isn’t there!
+Dialogue: 0,0:01:39.36,0:01:44.83,Italics,,0000,0000,0000,,We’re going to gather up all our dreams
+Dialogue: 0,0:01:44.83,0:01:50.33,Italics,,0000,0000,0000,,and set out in search of something to find
+Dialogue: 0,0:01:50.33,0:01:56.59,Italics,,0000,0000,0000,,A coin in my pocket,\Nand you wanna be my friend?
+Dialogue: 0,0:01:56.59,0:02:01.28,Italics,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:02:02.27,0:02:03.91,Italics,,0000,0000,0000,,We are!
+Dialogue: 0,0:02:06.83,0:02:09.93,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:11.13,0:02:13.80,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:13.80,0:02:16.40,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:16.85,0:02:19.28,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:19.28,0:02:22.87,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:02:23.24,0:02:27.42,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:02:27.42,0:02:31.83,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:02:32.33,0:02:36.84,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:02:37.43,0:02:41.48,Default,,0000,0000,0000,,The world has truly entered a Great Pirate Era!
+Dialogue: 0,0:03:03.52,0:03:05.16,Default,,0000,0000,0000,,Don't be ridiculous!
+Dialogue: 0,0:03:05.16,0:03:08.12,Default,,0000,0000,0000,,You think you can buy a real sword\Nfor that paltry amount of money?!
+Dialogue: 0,0:03:08.12,0:03:09.47,Default,,0000,0000,0000,,Oh, well...
+Dialogue: 0,0:03:09.47,0:03:11.14,Default,,0000,0000,0000,,If you're not gonna buy anything, scram!
+Dialogue: 0,0:03:11.14,0:03:12.56,Default,,0000,0000,0000,,Geez...
+Dialogue: 0,0:03:16.99,0:03:18.75,Default,,0000,0000,0000,,At any rate...
+Dialogue: 0,0:03:32.44,0:03:34.52,Default,,0000,0000,0000,,If I remember right, they're...
+Dialogue: 0,0:03:34.52,0:03:36.27,Default,,0000,0000,0000,,Please go on ahead!
+Dialogue: 0,0:03:37.36,0:03:39.00,Default,,0000,0000,0000,,Well, really...
+Dialogue: 0,0:03:39.00,0:03:42.25,Default,,0000,0000,0000,,We're sorry that we tried to extort you!
+Dialogue: 0,0:03:42.25,0:03:45.53,Default,,0000,0000,0000,,Well, don't worry about it!\NThanks for showing me the way! Later!
+Dialogue: 0,0:03:47.54,0:03:49.54,Default,,0000,0000,0000,,...the brats who showed me the way that time.
+Dialogue: 0,0:03:50.08,0:03:51.29,Default,,0000,0000,0000,,Zoro-san! Zoro-san!
+Dialogue: 0,0:03:51.62,0:03:53.50,Default,,0000,0000,0000,,Please be our big brother!
+Dialogue: 0,0:03:53.50,0:03:55.05,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:00.33,0:04:04.54,Default,,0000,0000,0000,,"Mothers Are Strong!\NZoro's Hectic Household Chores!"
+Dialogue: 0,0:04:06.36,0:04:09.08,Default,,0000,0000,0000,,--I refuse.\N--What?! Really?!
+Dialogue: 0,0:04:09.08,0:04:13.19,Default,,0000,0000,0000,,Why do I have to become a\Nbig brother to brats like you?
+Dialogue: 0,0:04:13.90,0:04:15.64,Default,,0000,0000,0000,,Now, now, don't be like that.
+Dialogue: 0,0:04:15.64,0:04:19.85,Default,,0000,0000,0000,,Having seen you beat marines,\Nwe've taken quite a liking to you!
+Dialogue: 0,0:04:19.85,0:04:22.78,Default,,0000,0000,0000,,Oh, I'm Michael. Glad to see you again.
+Dialogue: 0,0:04:22.78,0:04:23.95,Default,,0000,0000,0000,,I'm Hoichael.
+Dialogue: 0,0:04:24.53,0:04:27.95,Default,,0000,0000,0000,,Around the backstreets,\Nwe brothers are a bit famous for...
+Dialogue: 0,0:04:28.91,0:04:31.75,Default,,0000,0000,0000,,You should hear people out!
+Dialogue: 0,0:04:32.50,0:04:34.75,Default,,0000,0000,0000,,Bro, we'll take you wherever you wanna go.
+Dialogue: 0,0:04:34.75,0:04:36.80,Default,,0000,0000,0000,,Wanna go buy some meat?\NHow about vegetables?
+Dialogue: 0,0:04:36.80,0:04:39.07,Default,,0000,0000,0000,,--I refuse.\N--You refuse? Refuse what?
+Dialogue: 0,0:04:39.07,0:04:41.38,Default,,0000,0000,0000,,Both becoming your big brother\Nand having you show me the way.
+Dialogue: 0,0:04:41.38,0:04:43.02,Default,,0000,0000,0000,,Get lost already.
+Dialogue: 0,0:04:43.02,0:04:45.34,Default,,0000,0000,0000,,Oh, yeah, that's right!\NBro, you're looking to buy a sword, right?
+Dialogue: 0,0:04:45.34,0:04:49.31,Default,,0000,0000,0000,,The sword shop owner turned me down earlier,\Nsince I don't have much money.
+Dialogue: 0,0:04:49.62,0:04:53.99,Default,,0000,0000,0000,,Then you should go to a secondhand store.\NI bet you'll find quite a bargain!
+Dialogue: 0,0:04:53.99,0:04:56.98,Default,,0000,0000,0000,,Yep! We'll show our big brother\Nthe way to the secondhand store!
+Dialogue: 0,0:04:58.61,0:04:59.94,Default,,0000,0000,0000,,I guess it couldn't hurt.
+Dialogue: 0,0:05:00.33,0:05:03.73,Default,,0000,0000,0000,,But let me just point out that I'm not\Nagreeing to become your big brother.
+Dialogue: 0,0:05:03.73,0:05:05.21,Default,,0000,0000,0000,,Yes, sir, Bro!
+Dialogue: 0,0:05:05.99,0:05:08.32,Default,,0000,0000,0000,,Now, make way, make way!
+Dialogue: 0,0:05:08.32,0:05:10.50,Default,,0000,0000,0000,,Pirate Hunter Zoro-sama coming through!
+Dialogue: 0,0:05:10.50,0:05:11.16,Default,,0000,0000,0000,,Cut that out!
+Dialogue: 0,0:05:31.19,0:05:34.02,Default,,0000,0000,0000,,They're skipping school\Nand wandering about again.
+Dialogue: 0,0:05:34.02,0:05:36.84,Default,,0000,0000,0000,,They're gonna grow up to be\Ngood-for-nothings. What ungrateful kids...
+Dialogue: 0,0:05:36.84,0:05:39.83,Default,,0000,0000,0000,,Well, at their home,\Nit's rather the mother that's...
+Dialogue: 0,0:05:39.83,0:05:42.36,Default,,0000,0000,0000,,I feel sorry for those kids.
+Dialogue: 0,0:05:52.35,0:05:53.99,Default,,0000,0000,0000,,So no luck here, either.
+Dialogue: 0,0:05:54.82,0:05:56.29,Default,,0000,0000,0000,,Hey, what're you looking at?!
+Dialogue: 0,0:05:56.29,0:05:58.00,Default,,0000,0000,0000,,That's rude to Big Bro Zoro!
+Dialogue: 0,0:06:01.96,0:06:04.28,Default,,0000,0000,0000,,Hey, isn't that swordsman who's with them
+Dialogue: 0,0:06:04.28,0:06:07.67,Default,,0000,0000,0000,,one of the pirates who saved Iceberg-san?
+Dialogue: 0,0:06:07.67,0:06:10.13,Default,,0000,0000,0000,,What the heck? I thought he was a hero.
+Dialogue: 0,0:06:10.13,0:06:12.30,Default,,0000,0000,0000,,So he's just a punk? I misjudged him.
+Dialogue: 0,0:06:13.49,0:06:15.77,Default,,0000,0000,0000,,You guys have got quite a reputation.
+Dialogue: 0,0:06:15.77,0:06:18.67,Default,,0000,0000,0000,,The townspeople are clueless.
+Dialogue: 0,0:06:18.67,0:06:20.94,Default,,0000,0000,0000,,They can say whatever they\Nwant about us. We don't care.
+Dialogue: 0,0:06:20.94,0:06:22.57,Default,,0000,0000,0000,,Oh, yeah? Good for you, then.
+Dialogue: 0,0:06:22.57,0:06:23.97,Default,,0000,0000,0000,,Well then, take care.
+Dialogue: 0,0:06:23.97,0:06:25.23,Default,,0000,0000,0000,,Wh-What do you mean?
+Dialogue: 0,0:06:25.23,0:06:27.40,Default,,0000,0000,0000,,Are you abandoning your dear little brothers?!
+Dialogue: 0,0:06:27.40,0:06:29.83,Default,,0000,0000,0000,,Like I said, I don't remember\Nbecoming your big brother!
+Dialogue: 0,0:06:29.83,0:06:31.60,Default,,0000,0000,0000,,Oh? Did you say something?
+Dialogue: 0,0:06:31.60,0:06:33.49,Default,,0000,0000,0000,,We can't hear anything.
+Dialogue: 0,0:06:33.49,0:06:37.25,Default,,0000,0000,0000,,Whoa! What the hell is that?!
+Dialogue: 0,0:06:37.25,0:06:38.93,Default,,0000,0000,0000,,What is it?! What is it?!
+Dialogue: 0,0:06:50.89,0:06:52.37,Default,,0000,0000,0000,,All right, I shook them off.
+Dialogue: 0,0:06:52.37,0:06:53.47,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:06:53.47,0:06:55.10,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:04.00,0:07:04.78,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:07:12.97,0:07:13.86,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:07:16.36,0:07:17.20,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:07:18.50,0:07:21.21,Default,,0000,0000,0000,,Bro! Bro! Bro!
+Dialogue: 0,0:07:21.21,0:07:22.65,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:07:33.48,0:07:36.21,Default,,0000,0000,0000,,We know this town like the back of our hands.
+Dialogue: 0,0:07:36.21,0:07:38.35,Default,,0000,0000,0000,,There's no way you can get away from us.
+Dialogue: 0,0:07:39.03,0:07:43.40,Default,,0000,0000,0000,,Shut up! Stop mocking me, you brats!
+Dialogue: 0,0:07:44.33,0:07:46.05,Default,,0000,0000,0000,,That's harsh, Bro!
+Dialogue: 0,0:07:46.05,0:07:48.11,Default,,0000,0000,0000,,Don't call me "Bro"!
+Dialogue: 0,0:07:53.23,0:07:54.50,Default,,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:07:54.50,0:07:56.70,Default,,0000,0000,0000,,Just what do you think\Nyou're doing, hitting my kids?
+Dialogue: 0,0:07:56.70,0:07:59.20,Default,,0000,0000,0000,,"My kids"? Then...
+Dialogue: 0,0:08:01.45,0:08:05.67,Default,,0000,0000,0000,,What strength! What's with this woman?!
+Dialogue: 0,0:08:08.79,0:08:10.95,Default,,0000,0000,0000,,Oh? Not bad, lad.
+Dialogue: 0,0:08:10.95,0:08:15.81,Default,,0000,0000,0000,,Then... Special Attack! Bam-Bam Tornado!
+Dialogue: 0,0:08:18.81,0:08:21.57,Default,,0000,0000,0000,,Stop it, Mom! He didn't do anything wrong!
+Dialogue: 0,0:08:21.57,0:08:22.98,Default,,0000,0000,0000,,It was all our fault!
+Dialogue: 0,0:08:24.58,0:08:28.19,Default,,0000,0000,0000,,You guys were misbehaving again?! You idiots!
+Dialogue: 0,0:08:28.69,0:08:29.40,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:08:35.24,0:08:36.74,Default,,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:08:36.74,0:08:40.18,Default,,0000,0000,0000,,But I guess it's okay, right,\Nsince you became their big brother?
+Dialogue: 0,0:08:40.18,0:08:41.70,Default,,0000,0000,0000,,No, I didn't.
+Dialogue: 0,0:08:42.62,0:08:44.69,Default,,0000,0000,0000,,You guys, come out and say hello.
+Dialogue: 0,0:08:44.69,0:08:45.87,Default,,0000,0000,0000,,I'm Yoko.
+Dialogue: 0,0:08:45.87,0:08:47.13,Default,,0000,0000,0000,,I'm Yuuya.
+Dialogue: 0,0:08:48.01,0:08:50.27,Default,,0000,0000,0000,,--I'm Shou.\N--I'm Ayako.
+Dialogue: 0,0:08:50.27,0:08:51.59,Default,,0000,0000,0000,,I'm Akihiro.
+Dialogue: 0,0:08:51.59,0:08:53.79,Default,,0000,0000,0000,,Guys, this is Big Bro Zoro!
+Dialogue: 0,0:08:53.79,0:08:55.79,Default,,0000,0000,0000,,He's our new oldest brother!
+Dialogue: 0,0:08:55.79,0:08:59.18,Default,,0000,0000,0000,,Oldest brother...? Don't tell me you\Nwant me to be your big brother for real?
+Dialogue: 0,0:09:00.16,0:09:02.46,Default,,0000,0000,0000,,Come with us. We're behind\Nwith our household chores,
+Dialogue: 0,0:09:02.46,0:09:05.14,Default,,0000,0000,0000,,since we've had to spend a lot of time\Nrepairing our house after Aqua Laguna.
+Dialogue: 0,0:09:05.14,0:09:06.74,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:06.74,0:09:08.87,Default,,0000,0000,0000,,Bro! Bro!
+Dialogue: 0,0:09:08.87,0:09:13.08,Default,,0000,0000,0000,,Hey, wait! I didn't agree to this!\NLet go of me! Hey!
+Dialogue: 0,0:09:13.08,0:09:14.72,Default,,0000,0000,0000,,Now, let's go home, kids!
+Dialogue: 0,0:09:14.72,0:09:16.45,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:28.95,0:09:30.29,Default,,0000,0000,0000,,By the way, what's that?
+Dialogue: 0,0:09:30.66,0:09:34.14,Default,,0000,0000,0000,,When Mom is out working,\Nwe go pick up scrap wood at the harbor
+Dialogue: 0,0:09:34.14,0:09:35.98,Default,,0000,0000,0000,,while we're babysitting our siblings,
+Dialogue: 0,0:09:35.98,0:09:38.86,Default,,0000,0000,0000,,and once we get enough wood,\Nwe go sell it to Galley-La on the weekend.
+Dialogue: 0,0:09:38.86,0:09:41.02,Default,,0000,0000,0000,,We can make quite a bit of\Nallowance money that way.
+Dialogue: 0,0:09:42.33,0:09:44.49,Default,,0000,0000,0000,,Well then, say goodbye to your mom for me.
+Dialogue: 0,0:09:44.49,0:09:45.99,Default,,0000,0000,0000,,Are you really leaving?
+Dialogue: 0,0:09:45.99,0:09:48.55,Default,,0000,0000,0000,,Sorry, but this has nothing to do with me, so...
+Dialogue: 0,0:09:48.55,0:09:49.06,Default,,0000,0000,0000,,Watch out!
+Dialogue: 0,0:09:54.52,0:09:56.15,Default,,0000,0000,0000,,--Geez...\N--Nice babysitting!
+Dialogue: 0,0:09:58.00,0:09:58.99,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:10:04.83,0:10:06.90,Default,,0000,0000,0000,,Not bad at all.
+Dialogue: 0,0:10:06.90,0:10:09.00,Default,,0000,0000,0000,,Just as I thought, you're good with babies!
+Dialogue: 0,0:10:11.38,0:10:13.46,Default,,0000,0000,0000,,Whoa! He wet himself!
+Dialogue: 0,0:10:15.03,0:10:16.36,Default,,0000,0000,0000,,Give him to me.
+Dialogue: 0,0:10:17.25,0:10:18.43,Default,,0000,0000,0000,,Go change his diaper.
+Dialogue: 0,0:10:18.43,0:10:18.97,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:18.97,0:10:22.10,Default,,0000,0000,0000,,H-Hey! What're you doing?!\NWhat are you, a perv?!
+Dialogue: 0,0:10:22.10,0:10:24.68,Default,,0000,0000,0000,,We're gonna wash it. Wear this until it's dried.
+Dialogue: 0,0:10:26.64,0:10:29.06,Default,,0000,0000,0000,,Wh-What the hell is this?!
+Dialogue: 0,0:10:29.93,0:10:31.34,Default,,0000,0000,0000,,Take care of him, okay?
+Dialogue: 0,0:10:31.34,0:10:34.49,Default,,0000,0000,0000,,Okay, kids! Let's work hard\Nand clean up the house!
+Dialogue: 0,0:10:34.49,0:10:35.89,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:41.88,0:10:44.41,Default,,0000,0000,0000,,Hey, Hoichael. Sorry, but I...
+Dialogue: 0,0:10:50.54,0:10:52.26,Default,,0000,0000,0000,,Hey, hey... Hey!
+Dialogue: 0,0:10:52.26,0:10:53.26,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:10:55.85,0:10:58.26,Default,,0000,0000,0000,,Hey, Michael! Do something about these...
+Dialogue: 0,0:11:01.02,0:11:01.97,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:11:16.96,0:11:19.54,Default,,0000,0000,0000,,Hey! Where do I put these...
+Dialogue: 0,0:11:23.60,0:11:26.34,Default,,0000,0000,0000,,You're quite a natural at this. Keep it up.
+Dialogue: 0,0:11:36.84,0:11:39.97,Default,,0000,0000,0000,,Okay, be good, you guys.
+Dialogue: 0,0:11:43.53,0:11:47.47,Default,,0000,0000,0000,,Hey, lady. I'm going back now.\NGive me my shirt back.
+Dialogue: 0,0:11:48.14,0:11:49.63,Default,,0000,0000,0000,,What're you talking about?
+Dialogue: 0,0:11:49.63,0:11:52.65,Default,,0000,0000,0000,,Do you even have a place to\Ngo back to besides this house?
+Dialogue: 0,0:11:52.65,0:11:54.64,Default,,0000,0000,0000,,Yeah. My friends are waiting for me.
+Dialogue: 0,0:11:54.64,0:11:58.11,Default,,0000,0000,0000,,How stupid! Friends or family--\Nwhich one's more important?
+Dialogue: 0,0:11:58.11,0:12:02.19,Default,,0000,0000,0000,,I'm not your family. I don't\Nremember you giving birth to me,
+Dialogue: 0,0:12:02.19,0:12:03.70,Default,,0000,0000,0000,,and we're not blood-related, either.
+Dialogue: 0,0:12:03.70,0:12:06.80,Default,,0000,0000,0000,,Shut up! The hell with blood relationships!
+Dialogue: 0,0:12:06.80,0:12:08.83,Default,,0000,0000,0000,,Are blood relationships that important?!
+Dialogue: 0,0:12:13.81,0:12:16.13,Default,,0000,0000,0000,,We're gonna settle this today for sure.
+Dialogue: 0,0:12:16.61,0:12:17.71,Default,,0000,0000,0000,,Get lost.
+Dialogue: 0,0:12:17.71,0:12:22.29,Default,,0000,0000,0000,,I came here yesterday and the day before,\Nbut you didn't pay us back, you bitch!
+Dialogue: 0,0:12:22.29,0:12:23.94,Default,,0000,0000,0000,,Hm? Who are you?
+Dialogue: 0,0:12:23.94,0:12:26.98,Default,,0000,0000,0000,,I feel like I've seen you somewhere before.\NAnother new family member?
+Dialogue: 0,0:12:26.98,0:12:29.40,Default,,0000,0000,0000,,--That's right.\N--No.\N--Which is it?!
+Dialogue: 0,0:12:29.40,0:12:30.88,Default,,0000,0000,0000,,I guess it doesn't matter.
+Dialogue: 0,0:12:30.88,0:12:33.27,Default,,0000,0000,0000,,Anyway, it's not like you're\NPaulie from Galley-La.
+Dialogue: 0,0:12:33.27,0:12:36.07,Default,,0000,0000,0000,,Quit dragging your feet\Nand pay us back, you old hag!
+Dialogue: 0,0:12:36.07,0:12:38.36,Default,,0000,0000,0000,,Like I told you before, I already\Npaid back what I borrowed!
+Dialogue: 0,0:12:38.36,0:12:42.09,Default,,0000,0000,0000,,You fool. Debts come with interest.
+Dialogue: 0,0:12:42.09,0:12:43.56,Default,,0000,0000,0000,,That interest also accrued more interest,
+Dialogue: 0,0:12:43.56,0:12:46.95,Default,,0000,0000,0000,,so it's now several dozen times more\Nthan the amount you borrowed!
+Dialogue: 0,0:12:46.95,0:12:50.74,Default,,0000,0000,0000,,That's none of my concern.\NWhy don't you pay it yourself?!
+Dialogue: 0,0:12:50.74,0:12:53.72,Default,,0000,0000,0000,,What'd you say, you damn old hag?!
+Dialogue: 0,0:12:54.95,0:12:57.52,Default,,0000,0000,0000,,I'm not telling you to suffer all by yourself.
+Dialogue: 0,0:12:57.52,0:13:00.71,Default,,0000,0000,0000,,If you work those brats hard,\Nyou can earn money easily.
+Dialogue: 0,0:13:01.21,0:13:03.67,Default,,0000,0000,0000,,They're not your real family anyway, right?
+Dialogue: 0,0:13:03.67,0:13:05.88,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:13:06.74,0:13:08.02,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:13:08.93,0:13:09.93,Default,,0000,0000,0000,,Come to think of it...
+Dialogue: 0,0:13:11.47,0:13:13.60,Default,,0000,0000,0000,,...they don't look alike at all.
+Dialogue: 0,0:13:18.06,0:13:20.73,Default,,0000,0000,0000,,That hurt! What're you doing, you old hag?!
+Dialogue: 0,0:13:21.16,0:13:24.63,Default,,0000,0000,0000,,Just say that one more time,\Nand I'll blow your head off!
+Dialogue: 0,0:13:24.63,0:13:25.49,Default,,0000,0000,0000,,Get her!
+Dialogue: 0,0:13:32.82,0:13:35.97,Default,,0000,0000,0000,,Well... I'll let you off the hook for today.
+Dialogue: 0,0:13:35.97,0:13:37.21,Default,,0000,0000,0000,,Guys, let's go!
+Dialogue: 0,0:13:38.16,0:13:39.86,Default,,0000,0000,0000,,You won't get away with this!
+Dialogue: 0,0:13:41.92,0:13:44.13,Default,,0000,0000,0000,,--Cool!\N--Just as we'd expect from you, bro!
+Dialogue: 0,0:13:44.13,0:13:46.06,Default,,0000,0000,0000,,Good boy. Mom's proud of you.
+Dialogue: 0,0:13:46.06,0:13:47.75,Default,,0000,0000,0000,,--"Good boy"...?\N--Okay, kids!
+Dialogue: 0,0:13:47.75,0:13:49.61,Default,,0000,0000,0000,,Let's go shopping for dinner, shall we?!
+Dialogue: 0,0:13:49.61,0:13:50.58,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:50.58,0:13:52.66,Default,,0000,0000,0000,,Well then, I'll get going now.
+Dialogue: 0,0:13:55.42,0:13:58.10,Default,,0000,0000,0000,,Hurry up. You're coming, too.
+Dialogue: 0,0:14:05.36,0:14:07.19,Default,,0000,0000,0000,,You got a job for me?
+Dialogue: 0,0:14:33.39,0:14:36.06,Default,,0000,0000,0000,,Pops, knock the price down a bit more!
+Dialogue: 0,0:14:36.06,0:14:39.06,Default,,0000,0000,0000,,Who do you think you're dealing with?!\NDon't take us lightly!
+Dialogue: 0,0:14:39.06,0:14:40.65,Default,,0000,0000,0000,,Knock it off.
+Dialogue: 0,0:14:40.65,0:14:43.82,Default,,0000,0000,0000,,Dammit! However you look at it,\Nthis doesn't make sense.
+Dialogue: 0,0:14:43.82,0:14:45.77,Default,,0000,0000,0000,,Why do I have to do things like this?!
+Dialogue: 0,0:14:45.77,0:14:47.98,Default,,0000,0000,0000,,If they see me like this...
+Dialogue: 0,0:14:51.57,0:14:52.78,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:14:53.38,0:14:55.79,Default,,0000,0000,0000,,Of all people, it had to be that damn cook...!
+Dialogue: 0,0:14:57.12,0:15:00.50,Default,,0000,0000,0000,,So that alley over there is a shortcut? Thanks.
+Dialogue: 0,0:15:04.36,0:15:05.09,Default,,0000,0000,0000,,Seriously...
+Dialogue: 0,0:15:11.73,0:15:13.18,Default,,0000,0000,0000,,Now that I've come this far...
+Dialogue: 0,0:15:26.74,0:15:29.53,Default,,0000,0000,0000,,Seriously... I'm exhausted.
+Dialogue: 0,0:15:30.06,0:15:31.36,Default,,0000,0000,0000,,Seems like you're having a rough time.
+Dialogue: 0,0:15:31.36,0:15:35.49,Default,,0000,0000,0000,,Yeah, tell me about it.\NHow could this be happening to...
+Dialogue: 0,0:15:36.01,0:15:37.73,Default,,0000,0000,0000,,It's you?!
+Dialogue: 0,0:15:39.73,0:15:41.41,Default,,0000,0000,0000,,--Dammit!\N--Robin!
+Dialogue: 0,0:15:41.41,0:15:44.12,Default,,0000,0000,0000,,Huh? Where did she go?
+Dialogue: 0,0:15:45.23,0:15:46.83,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:15:50.17,0:15:53.72,Default,,0000,0000,0000,,Don't worry. I won't tell anyone.
+Dialogue: 0,0:15:54.36,0:15:57.20,Default,,0000,0000,0000,,Oh, and... that look suits you.
+Dialogue: 0,0:16:07.72,0:16:10.17,Default,,0000,0000,0000,,I've had enough! I'm going back!
+Dialogue: 0,0:16:10.17,0:16:12.52,Default,,0000,0000,0000,,Oh? You're going home ahead of us?
+Dialogue: 0,0:16:12.52,0:16:15.77,Default,,0000,0000,0000,,Then I'll give you the key to the house.\NClean the restroom or something.
+Dialogue: 0,0:16:15.77,0:16:19.91,Default,,0000,0000,0000,,No! I'm not going back to your house!\NI'm going back to my friends!
+Dialogue: 0,0:16:19.91,0:16:21.75,Default,,0000,0000,0000,,Don't speak nonsense!
+Dialogue: 0,0:16:21.75,0:16:23.58,Default,,0000,0000,0000,,You're the one who's speaking nonsense!
+Dialogue: 0,0:16:23.58,0:16:26.73,Default,,0000,0000,0000,,Don't speak like that to your mother!
+Dialogue: 0,0:16:26.73,0:16:28.01,Default,,0000,0000,0000,,You're not my mother!
+Dialogue: 0,0:16:28.01,0:16:30.10,Default,,0000,0000,0000,,Shut up, you Broccoli Head!
+Dialogue: 0,0:16:30.10,0:16:32.14,Default,,0000,0000,0000,,It's not Broccoli Head! It's Moss Head!
+Dialogue: 0,0:16:32.14,0:16:33.83,Default,,0000,0000,0000,,Ah, Moss Head...
+Dialogue: 0,0:16:33.83,0:16:35.28,Default,,0000,0000,0000,,I see, Moss Head.
+Dialogue: 0,0:16:35.28,0:16:36.64,Default,,0000,0000,0000,,Yep, yep.
+Dialogue: 0,0:16:36.64,0:16:40.09,Default,,0000,0000,0000,,Right? Hey, no! That's not what I meant!
+Dialogue: 0,0:16:40.09,0:16:41.45,Default,,0000,0000,0000,,Well then, bye.
+Dialogue: 0,0:16:46.98,0:16:48.86,Default,,0000,0000,0000,,What am I gonna do with my oldest son?
+Dialogue: 0,0:16:48.86,0:16:51.54,Default,,0000,0000,0000,,Michael, Hoichael. Go get him later.
+Dialogue: 0,0:16:51.54,0:16:52.49,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:52.49,0:16:53.82,Default,,0000,0000,0000,,Well then, let's go home.
+Dialogue: 0,0:16:53.82,0:16:55.18,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:58.16,0:17:00.09,Default,,0000,0000,0000,,Sorry about earlier.
+Dialogue: 0,0:17:00.09,0:17:05.72,Default,,0000,0000,0000,,Looks like your bodyguard is gone,\Nso I'd like to continue our discussion.
+Dialogue: 0,0:17:05.72,0:17:07.83,Default,,0000,0000,0000,,Could you come with me for a bit?
+Dialogue: 0,0:17:07.83,0:17:12.35,Default,,0000,0000,0000,,Hoichael, go get Bro.\NI bet they'll take us to that place.
+Dialogue: 0,0:17:12.35,0:17:13.21,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:39.16,0:17:43.23,Default,,0000,0000,0000,,I'm not your family. I don't\Nremember you giving birth to me,
+Dialogue: 0,0:17:43.23,0:17:45.09,Default,,0000,0000,0000,,and we're not blood-related, either.
+Dialogue: 0,0:17:45.09,0:17:47.91,Default,,0000,0000,0000,,Shut up! The hell with blood relationships!
+Dialogue: 0,0:17:47.91,0:17:50.66,Default,,0000,0000,0000,,Are blood relationships that important?!
+Dialogue: 0,0:17:51.86,0:17:53.88,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:17:54.28,0:17:56.59,Default,,0000,0000,0000,,Bro, there's trouble!
+Dialogue: 0,0:17:56.59,0:17:59.55,Default,,0000,0000,0000,,The debt collector took our mom away!
+Dialogue: 0,0:17:59.55,0:18:03.52,Default,,0000,0000,0000,,Sorry, but it has nothing to do with me.\NAnd that lady can take care of herself.
+Dialogue: 0,0:18:03.52,0:18:06.32,Default,,0000,0000,0000,,But this time, he brought a bunch of his buddies
+Dialogue: 0,0:18:06.32,0:18:09.55,Default,,0000,0000,0000,,and took Michael and my siblings away, too!
+Dialogue: 0,0:18:09.55,0:18:10.61,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:22.12,0:18:25.96,Default,,0000,0000,0000,,You sure got cocky with me before.
+Dialogue: 0,0:18:25.96,0:18:29.28,Default,,0000,0000,0000,,As thanks for that, I brought\Nsome scary guys with me.
+Dialogue: 0,0:18:29.29,0:18:31.54,Default,,0000,0000,0000,,Don't be scared out of your wits!
+Dialogue: 0,0:18:31.54,0:18:33.17,Default,,0000,0000,0000,,Sir! Please come here!
+Dialogue: 0,0:18:43.77,0:18:46.46,Default,,0000,0000,0000,,This is the captain of the\NBig Helmet Pirate Gang, Mikazuki-san.
+Dialogue: 0,0:18:46.46,0:18:50.15,Default,,0000,0000,0000,,He's got a 36-million-Berry bounty on his head.
+Dialogue: 0,0:18:50.53,0:18:52.73,Default,,0000,0000,0000,,Kids, stay back. Don't do anything, got that?
+Dialogue: 0,0:18:52.73,0:18:54.32,Default,,0000,0000,0000,,Ahem.
+Dialogue: 0,0:18:54.32,0:18:57.71,Default,,0000,0000,0000,,Mikazuki-san has a vicious past.\NHe tried to walk out of Dock #1
+Dialogue: 0,0:18:57.71,0:19:01.16,Default,,0000,0000,0000,,at Galley-La without paying\Nfor the repair of his ship...
+Dialogue: 0,0:19:01.16,0:19:04.05,Default,,0000,0000,0000,,...although he was regrettably\Ndefeated by Galley-La's foremen.
+Dialogue: 0,0:19:04.05,0:19:06.22,Default,,0000,0000,0000,,Hence, in order to earn money for the repairs,
+Dialogue: 0,0:19:06.22,0:19:08.75,Default,,0000,0000,0000,,he's been earnestly working\Npart-time at our company and...
+Dialogue: 0,0:19:09.46,0:19:12.43,Default,,0000,0000,0000,,Well, you guys, think hard...
+Dialogue: 0,0:19:12.43,0:19:14.96,Default,,0000,0000,0000,,...about which is better--hurrying up\Nand paying so you can survive,
+Dialogue: 0,0:19:14.96,0:19:18.34,Default,,0000,0000,0000,,or defying me and becoming prey for my sword.
+Dialogue: 0,0:19:19.79,0:19:22.85,Default,,0000,0000,0000,,I'll give you five seconds to think it over.
+Dialogue: 0,0:19:24.36,0:19:26.78,Default,,0000,0000,0000,,Oh? You wanna fight with me,\Nthe great Mikazuki-sama?
+Dialogue: 0,0:19:26.78,0:19:32.27,Default,,0000,0000,0000,,What a fool. As mentioned already,\Nmy bounty is 36 million Berries, and...
+Dialogue: 0,0:19:32.27,0:19:34.23,Default,,0000,0000,0000,,Bang-Bang Tornado!
+Dialogue: 0,0:19:34.23,0:19:35.86,Default,,0000,0000,0000,,Go, Mom!
+Dialogue: 0,0:19:37.44,0:19:40.15,Default,,0000,0000,0000,,An attack like that won't work on me!
+Dialogue: 0,0:19:42.27,0:19:43.56,Default,,0000,0000,0000,,Do you know where they took them to?
+Dialogue: 0,0:19:43.56,0:19:47.62,Default,,0000,0000,0000,,They always take people to the\Nsame place. We've seen it before.
+Dialogue: 0,0:19:47.62,0:19:48.62,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:19:53.82,0:19:56.59,Default,,0000,0000,0000,,Don't take a man with a\N36-million bounty lightly!
+Dialogue: 0,0:20:01.01,0:20:04.92,Default,,0000,0000,0000,,I told you kids to stay back!\NDon't do anything dangerous!
+Dialogue: 0,0:20:04.92,0:20:07.79,Default,,0000,0000,0000,,What're you saying, Mom?! We're a family!
+Dialogue: 0,0:20:07.79,0:20:09.35,Default,,0000,0000,0000,,What's a family for if we\Ndon't help each other?!
+Dialogue: 0,0:20:10.51,0:20:13.56,Default,,0000,0000,0000,,What a sassy thing to say, you stupid son.
+Dialogue: 0,0:20:13.97,0:20:15.48,Default,,0000,0000,0000,,Bro! Over there!
+Dialogue: 0,0:20:19.98,0:20:22.65,Default,,0000,0000,0000,,Guys, teach them a lesson\Nthey won't soon forget.
+Dialogue: 0,0:20:38.85,0:20:41.34,Default,,0000,0000,0000,,Mom!
+Dialogue: 0,0:20:46.05,0:20:47.51,Default,,0000,0000,0000,,Bro!
+Dialogue: 0,0:20:47.51,0:20:48.35,Default,,0000,0000,0000,,You small fry...
+Dialogue: 0,0:20:49.77,0:20:51.70,Default,,0000,0000,0000,,Seventy-two Pound Phoenix!
+Dialogue: 0,0:20:51.70,0:20:52.64,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:20:58.39,0:20:59.53,Default,,0000,0000,0000,,D-Dammit!
+Dialogue: 0,0:21:04.32,0:21:06.70,Default,,0000,0000,0000,,--Incredible!\N--Just as we'd expect from you, bro!
+Dialogue: 0,0:21:06.70,0:21:08.28,Default,,0000,0000,0000,,Yeah! Amazing!
+Dialogue: 0,0:21:08.28,0:21:11.56,Default,,0000,0000,0000,,All right! Good job! That's my oldest son!
+Dialogue: 0,0:21:11.56,0:21:15.05,Default,,0000,0000,0000,,You're still saying that? Hey, lady. Listen to me.
+Dialogue: 0,0:21:15.05,0:21:16.70,Default,,0000,0000,0000,,Now, to start with, I...
+Dialogue: 0,0:21:16.70,0:21:20.38,Default,,0000,0000,0000,,Are your friends as good as our family?
+Dialogue: 0,0:21:21.47,0:21:23.97,Default,,0000,0000,0000,,Yeah, they're like that.
+Dialogue: 0,0:21:23.97,0:21:26.43,Default,,0000,0000,0000,,Then why didn't you tell me sooner?!
+Dialogue: 0,0:21:26.43,0:21:28.01,Default,,0000,0000,0000,,I told you a bunch of times!
+Dialogue: 0,0:21:36.06,0:21:38.50,Default,,0000,0000,0000,,You're a member of our precious family,
+Dialogue: 0,0:21:38.50,0:21:41.57,Default,,0000,0000,0000,,but, well, if you're gonna run away\Nfrom home for a bit, I won't stop you.
+Dialogue: 0,0:21:42.13,0:21:43.53,Default,,0000,0000,0000,,"Run away from home"?
+Dialogue: 0,0:21:43.96,0:21:45.24,Default,,0000,0000,0000,,Take care of yourself.
+Dialogue: 0,0:21:45.58,0:21:47.90,Default,,0000,0000,0000,,Bro, congrats on running away from home!
+Dialogue: 0,0:21:47.90,0:21:50.62,Default,,0000,0000,0000,,You should go now before\NMom changes her mind.
+Dialogue: 0,0:21:50.62,0:21:52.66,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:21:52.66,0:21:54.04,Default,,0000,0000,0000,,Well then, bye.
+Dialogue: 0,0:21:55.25,0:21:57.57,Default,,0000,0000,0000,,Bye-bye, bro!
+Dialogue: 0,0:21:57.57,0:21:59.32,Default,,0000,0000,0000,,--Take care!\N--Bro!
+Dialogue: 0,0:21:59.32,0:22:03.21,Default,,0000,0000,0000,,--Thank you!\N--See you again!
+Dialogue: 0,0:22:03.93,0:22:05.13,Default,,0000,0000,0000,,Wait a sec!
+Dialogue: 0,0:22:05.96,0:22:07.09,Default,,0000,0000,0000,,I can't wait!
+Dialogue: 0,0:22:12.80,0:22:14.98,Default,,0000,0000,0000,,I've come this far. I should be fine now.
+Dialogue: 0,0:22:14.98,0:22:16.35,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:22:17.12,0:22:18.56,Default,,0000,0000,0000,,That woman!
+Dialogue: 0,0:22:20.39,0:22:21.78,Default,,0000,0000,0000,,He never learns, does he...?
+Dialogue: 0,0:22:21.78,0:22:22.94,Default,,0000,0000,0000,,He can't run from us.
+Dialogue: 0,0:22:22.94,0:22:26.63,Default,,0000,0000,0000,,Geez, he forgot to change his shirt.
+Dialogue: 0,0:22:26.63,0:22:28.03,Default,,0000,0000,0000,,What am I gonna do with my oldest son?
+Dialogue: 0,0:22:28.71,0:22:30.24,Default,,0000,0000,0000,,Seriously...!
+Dialogue: 0,0:22:30.24,0:22:32.99,Default,,0000,0000,0000,,Wait! I said, wait!
+Dialogue: 0,0:22:32.99,0:22:36.95,Default,,0000,0000,0000,,Give me a break!
+Dialogue: 0,0:22:45.41,0:22:47.84,Default,,0000,0000,0000,,H-Hey, don't pull me, Chimney!
+Dialogue: 0,0:22:47.84,0:22:49.68,Default,,0000,0000,0000,,Grandma told me about this place.
+Dialogue: 0,0:22:50.81,0:22:51.55,Default,,0000,0000,0000,,A stall, huh?
+Dialogue: 0,0:22:51.55,0:22:53.47,Default,,0000,0000,0000,,Oh, hey, pops! How're you doing?!
+Dialogue: 0,0:22:54.18,0:22:55.47,Default,,0000,0000,0000,,A petty stall like this wouldn't...
+Dialogue: 0,0:22:55.47,0:22:59.64,Default,,0000,0000,0000,,Hm? Looks like the cook here\Nis better than I expected.
+Dialogue: 0,0:22:59.64,0:23:00.81,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:00.81,0:23:04.40,Default,,0000,0000,0000,,"Sanji's Shock! Mysterious Old Man\Nand His Super Yummy Cooking!"
+Dialogue: 0,0:23:04.83,0:23:07.09,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

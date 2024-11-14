@@ -1,0 +1,334 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:16.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:02:35.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:03:11.91,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:16.37,0:00:20.74,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.74,0:00:23.00,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:23.00,0:00:29.96,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.09,0:00:40.51,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.51,0:00:44.10,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:44.10,0:00:49.65,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.65,0:00:55.78,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.78,0:01:02.58,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.58,0:01:07.04,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.04,0:01:09.34,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.34,0:01:16.30,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.43,0:01:26.85,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:26.85,0:01:30.40,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.40,0:01:35.99,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.99,0:01:42.12,On Top,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:42.12,0:01:48.87,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:48.87,0:01:53.42,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.42,0:01:55.67,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.67,0:02:00.01,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.01,0:02:03.06,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:03.06,0:02:04.68,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.68,0:02:06.39,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.39,0:02:08.10,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:08.10,0:02:09.73,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.73,0:02:11.40,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.40,0:02:13.07,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:13.07,0:02:14.44,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.44,0:02:15.53,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.53,0:02:19.91,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:19.91,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.54,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.54,0:02:28.71,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:28.71,0:02:33.09,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.09,0:02:35.42,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.42,0:02:39.76,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.76,0:02:42.72,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.84,0:02:49.89,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:51.13,0:02:53.93,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.93,0:02:56.40,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.97,0:02:59.31,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:59.31,0:03:02.87,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:03:03.27,0:03:07.48,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:03:07.48,0:03:11.87,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.36,0:03:16.84,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.45,0:03:21.50,Default,,0000,0000,0000,,The world has truly entered \Na Great Pirate Era!
+Dialogue: 0,0:03:21.50,0:03:22.83,Default,,0000,0000,0000,,
+Dialogue: 0,0:03:23.21,0:03:26.81,Default,,0000,0000,0000,,Laboon, I swear that we will come back!
+Dialogue: 0,0:03:28.17,0:03:29.45,Default,,0000,0000,0000,,Please be here waiting for us!
+Dialogue: 0,0:03:43.77,0:03:51.79,Default,,0000,0000,0000,,Laboon, if you have been waiting\Nthere for the past fifty years,
+Dialogue: 0,0:03:52.65,0:03:56.87,Default,,0000,0000,0000,,could you give me just another year or two?
+Dialogue: 0,0:04:01.46,0:04:03.79,Default,,0000,0000,0000,,I take pride in being a pirate!
+Dialogue: 0,0:04:04.83,0:04:06.92,Default,,0000,0000,0000,,If you are facing the wall,
+Dialogue: 0,0:04:07.51,0:04:10.72,Default,,0000,0000,0000,,I want to greet you from the \Nfront, just like I promised!
+Dialogue: 0,0:04:15.05,0:04:19.43,Default,,0000,0000,0000,,"A New Crewmate!\NThe Musician, Humming Brook!"
+Dialogue: 0,0:04:21.13,0:04:23.98,Default,,0000,0000,0000,,Hey, skeleton!
+Dialogue: 0,0:04:23.98,0:04:25.81,Default,,0000,0000,0000,,Are you done singing?
+Dialogue: 0,0:04:25.81,0:04:28.23,Default,,0000,0000,0000,,Sing another song! Just one more!
+Dialogue: 0,0:04:32.99,0:04:38.33,Default,,0000,0000,0000,,My crewmates and I poured\Nour lives into this song.
+Dialogue: 0,0:04:38.83,0:04:41.68,Default,,0000,0000,0000,,It is the Rumbar Pirates'\N"Great Choral Number."
+Dialogue: 0,0:04:42.50,0:04:46.76,Default,,0000,0000,0000,,I listened to this countless\Ntimes while wandering
+Dialogue: 0,0:04:47.67,0:04:49.56,Default,,0000,0000,0000,,the dark, dark foggy seas\Nby myself for 50 years.
+Dialogue: 0,0:04:50.21,0:04:52.77,Default,,0000,0000,0000,,--Ha! Hi-ho! Hi-hi!\N--Heehaw! Heehaw!
+Dialogue: 0,0:04:57.43,0:05:01.60,Default,,0000,0000,0000,,When I was all alone on that large ship,
+Dialogue: 0,0:05:02.27,0:05:05.80,Default,,0000,0000,0000,,this song was the only thing\Nthat helped me feel alive.
+Dialogue: 0,0:05:10.57,0:05:15.94,Default,,0000,0000,0000,,But now that I bear new\Ndetermination in my heart,
+Dialogue: 0,0:05:16.24,0:05:19.42,Default,,0000,0000,0000,,today I shall seal this Tone Dial.
+Dialogue: 0,0:05:30.97,0:05:33.14,Default,,0000,0000,0000,,It's sealed!
+Dialogue: 0,0:05:35.05,0:05:37.76,Default,,0000,0000,0000,,Your head really is a storage unit?!
+Dialogue: 0,0:05:40.80,0:05:44.00,Default,,0000,0000,0000,,I learned that Laboon is \Nhappily waiting for me!
+Dialogue: 0,0:05:44.56,0:05:46.18,Default,,0000,0000,0000,,I have my shadow back!
+Dialogue: 0,0:05:46.18,0:05:48.23,Default,,0000,0000,0000,,I'm out of the Devil's Sea!
+Dialogue: 0,0:05:49.73,0:05:53.20,Default,,0000,0000,0000,,The voices we recorded on this dial no
+Dialogue: 0,0:05:53.20,0:05:56.81,Default,,0000,0000,0000,,\Nlonger exist to help me recall the past.
+Dialogue: 0,0:05:57.61,0:06:00.71,Default,,0000,0000,0000,,I am supposed to take this song to Laboon!
+Dialogue: 0,0:06:01.62,0:06:03.61,Default,,0000,0000,0000,,Every single day was filled with pain.
+Dialogue: 0,0:06:04.66,0:06:08.93,Default,,0000,0000,0000,,To be honest, I couldn't see a ray of light.
+Dialogue: 0,0:06:11.96,0:06:14.22,Default,,0000,0000,0000,,But you know, Luffy-san...
+Dialogue: 0,0:06:18.93,0:06:20.69,Default,,0000,0000,0000,,I-I...
+Dialogue: 0,0:06:25.14,0:06:30.98,Default,,0000,0000,0000,,I'm glad to be alive!
+Dialogue: 0,0:06:35.20,0:06:39.92,Default,,0000,0000,0000,,I am truly glad to be alive!
+Dialogue: 0,0:06:40.82,0:06:42.46,Default,,0000,0000,0000,,Of course you are!
+Dialogue: 0,0:06:43.62,0:06:46.51,Default,,0000,0000,0000,,And it's all because of today!
+Dialogue: 0,0:06:54.50,0:06:55.41,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:06:56.87,0:06:59.48,Default,,0000,0000,0000,,May I join your crew?
+Dialogue: 0,0:06:59.48,0:07:00.68,Default,,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:07:00.68,0:07:03.11,Default,,0000,0000,0000,,What?! That was quick!
+Dialogue: 0,0:07:03.11,0:07:04.94,Default,,0000,0000,0000,,He joined!
+Dialogue: 0,0:07:04.94,0:07:06.53,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:07:08.19,0:07:09.90,Default,,0000,0000,0000,,But we're glad to have you!
+Dialogue: 0,0:07:09.90,0:07:12.32,Default,,0000,0000,0000,,Hurray for the musician!
+Dialogue: 0,0:07:12.65,0:07:15.91,Default,,0000,0000,0000,,The musician died and now\Nhe's nothing but bones!
+Dialogue: 0,0:07:16.23,0:07:18.91,Default,,0000,0000,0000,,I've been wanting a musician!
+Dialogue: 0,0:07:19.44,0:07:22.46,Default,,0000,0000,0000,,The musician is extremely light!
+Dialogue: 0,0:07:22.82,0:07:25.87,Default,,0000,0000,0000,,And that is one of your charms!
+Dialogue: 0,0:07:25.87,0:07:26.99,Default,,0000,0000,0000,,It's one of your charms!
+Dialogue: 0,0:07:26.99,0:07:29.51,Default,,0000,0000,0000,,Yep! I'm as light as bones!
+Dialogue: 0,0:07:32.25,0:07:34.21,Default,,0000,0000,0000,,--I'm as light as bones! I'm as light as bones!\N--He's hilarious!
+Dialogue: 0,0:07:34.21,0:07:36.18,Default,,0000,0000,0000,,--I'm as light as bones! I'm as light as bones!\N--I get it already!
+Dialogue: 0,0:07:36.71,0:07:38.96,Default,,0000,0000,0000,,Our ship is going to grow even livelier.
+Dialogue: 0,0:07:40.05,0:07:43.55,Default,,0000,0000,0000,,Why do we always attract such a quirky crowd?
+Dialogue: 0,0:07:43.55,0:07:47.01,Default,,0000,0000,0000,,I'm not sure what happened,\Nbut you guys seem happy, Namizo.
+Dialogue: 0,0:07:47.01,0:07:48.61,Default,,0000,0000,0000,,Yep! Thank you.
+Dialogue: 0,0:07:48.77,0:07:50.31,Default,,0000,0000,0000,,We don't know what the deal is, but...
+Dialogue: 0,0:07:50.31,0:07:51.74,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:07:51.85,0:07:52.95,Default,,0000,0000,0000,,We're totally lost, but...
+Dialogue: 0,0:07:53.11,0:07:54.70,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:07:56.73,0:07:58.36,Default,,0000,0000,0000,,45 degree angle!
+Dialogue: 0,0:08:00.11,0:08:01.43,Default,,0000,0000,0000,,What the heck?
+Dialogue: 0,0:08:17.21,0:08:18.71,Default,,0000,0000,0000,,Laboon...
+Dialogue: 0,0:08:26.14,0:08:29.49,Default,,0000,0000,0000,,I will not pull back.
+Dialogue: 0,0:08:30.18,0:08:33.24,Default,,0000,0000,0000,,We have always looked\Nstraight ahead in our voyage.
+Dialogue: 0,0:08:33.81,0:08:38.07,Default,,0000,0000,0000,,That was the path that\Nwould take us back to you.
+Dialogue: 0,0:08:38.82,0:08:42.71,Default,,0000,0000,0000,,As I travel around the world,\Nyou're waiting at the goal!
+Dialogue: 0,0:08:43.24,0:08:44.37,Default,,0000,0000,0000,,Isn't that right?
+Dialogue: 0,0:08:45.01,0:08:46.98,Default,,0000,0000,0000,,That is why I will not pull back.
+Dialogue: 0,0:08:47.53,0:08:49.09,Default,,0000,0000,0000,,I swear that I will go to you.
+Dialogue: 0,0:08:49.74,0:08:51.09,Default,,0000,0000,0000,,Please wait for me!
+Dialogue: 0,0:08:54.37,0:08:55.90,Default,,0000,0000,0000,,Wait just a little longer...
+Dialogue: 0,0:09:08.64,0:09:09.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:15.52,0:09:17.52,Default,,0000,0000,0000,,What's the matter, Laboon?
+Dialogue: 0,0:09:34.12,0:09:37.34,Default,,0000,0000,0000,,You're in an unusually good mood today.
+Dialogue: 0,0:09:53.93,0:09:55.32,Default,,0000,0000,0000,,Let me introduce myself anew!
+Dialogue: 0,0:09:56.27,0:09:59.28,Default,,0000,0000,0000,,A wanted poster? You're a wanted man?
+Dialogue: 0,0:09:59.81,0:10:01.48,Default,,0000,0000,0000,,I apologize for the late introduction.
+Dialogue: 0,0:10:01.48,0:10:05.79,Default,,0000,0000,0000,,I am the dead and skeletonized Brook.
+Dialogue: 0,0:10:06.07,0:10:08.00,Default,,0000,0000,0000,,I have a bounty.
+Dialogue: 0,0:10:08.86,0:10:11.07,Default,,0000,0000,0000,,I am known as the Humming Brook.
+Dialogue: 0,0:10:11.07,0:10:13.83,Default,,0000,0000,0000,,My bounty is for 33 million Berries.
+Dialogue: 0,0:10:13.83,0:10:18.45,Default,,0000,0000,0000,,A long time ago, I was the leader of\Na certain kingdom's assault convoy.
+Dialogue: 0,0:10:18.45,0:10:23.00,Default,,0000,0000,0000,,After that, I was the acting\Ncaptain of the Rumbar Pirates.
+Dialogue: 0,0:10:23.00,0:10:25.39,Default,,0000,0000,0000,,I am a musician and a swordsman!
+Dialogue: 0,0:10:26.59,0:10:32.61,Default,,0000,0000,0000,,As of today, my life is in the hands\Nof Captain Straw Hat Luffy!
+Dialogue: 0,0:10:32.76,0:10:39.24,Default,,0000,0000,0000,,I will work myself to the bone\Nto avoid tripping everyone up.
+Dialogue: 0,0:10:43.82,0:10:48.00,Default,,0000,0000,0000,,All right! Let's have another drink!
+Dialogue: 0,0:11:08.88,0:11:11.40,Default,,0000,0000,0000,,"Two Days Later"
+Dialogue: 0,0:11:17.14,0:11:22.11,Default,,0000,0000,0000,,This is wonderful! Thank you,\NFranky-san and Usopp-san!
+Dialogue: 0,0:11:22.52,0:11:26.02,Default,,0000,0000,0000,,It's cool, really! Don't \Nthink anything of it.
+Dialogue: 0,0:11:26.02,0:11:28.19,Default,,0000,0000,0000,,My design won!
+Dialogue: 0,0:11:28.19,0:11:29.96,Default,,0000,0000,0000,,I picked the flowers.
+Dialogue: 0,0:11:30.74,0:11:33.90,Default,,0000,0000,0000,,Thank you so much, Chopper-san.
+Dialogue: 0,0:11:34.70,0:11:38.09,Default,,0000,0000,0000,,Stupid! That doesn't make me\Nthe least bit happy, silly!
+Dialogue: 0,0:11:40.46,0:11:42.74,Default,,0000,0000,0000,,This is a truly wonderful grave.
+Dialogue: 0,0:11:43.29,0:11:48.09,Default,,0000,0000,0000,,I couldn't possibly put all of those\Nbones on that cute Lion-chan.
+Dialogue: 0,0:11:48.09,0:11:51.23,Default,,0000,0000,0000,,From now on, call her the Thousand Sunny.
+Dialogue: 0,0:11:51.93,0:11:55.26,Default,,0000,0000,0000,,Strangely enough, the island on Thriller Bark
+Dialogue: 0,0:11:55.26,0:11:58.23,Default,,0000,0000,0000,,came from the West Blue,\Nwhich is where we were from.
+Dialogue: 0,0:11:59.43,0:12:04.35,Default,,0000,0000,0000,,Perhaps they will find some rest\Nif they sleep on familiar soil.
+Dialogue: 0,0:12:07.15,0:12:09.44,Default,,0000,0000,0000,,Well, Brook, we're gonna head on back.
+Dialogue: 0,0:12:09.44,0:12:10.88,Default,,0000,0000,0000,,--See ya!\N--Later!
+Dialogue: 0,0:12:11.36,0:12:12.28,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:13:30.02,0:13:32.19,Default,,0000,0000,0000,,Oh, you startled me.
+Dialogue: 0,0:13:32.19,0:13:34.40,Default,,0000,0000,0000,,Are you sure you should be up?
+Dialogue: 0,0:13:34.40,0:13:36.25,Default,,0000,0000,0000,,Yeah. I overslept a bit.
+Dialogue: 0,0:13:37.24,0:13:38.36,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:13:38.36,0:13:41.33,Default,,0000,0000,0000,,My dead sword, Yubashiri.
+Dialogue: 0,0:13:41.33,0:13:43.17,Default,,0000,0000,0000,,Please let me lay it to rest here.
+Dialogue: 0,0:13:52.84,0:13:55.43,Default,,0000,0000,0000,,Luffy will become the King of the Pirates!
+Dialogue: 0,0:14:00.76,0:14:01.87,Default,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:14:02.97,0:14:06.58,Default,,0000,0000,0000,,N-No, it's nothing...
+Dialogue: 0,0:14:08.52,0:14:11.88,Default,,0000,0000,0000,,Oh, yes! I've joined your crew.
+Dialogue: 0,0:14:12.57,0:14:16.05,Default,,0000,0000,0000,,That right? Your luck really does bite.
+Dialogue: 0,0:14:18.57,0:14:20.83,Default,,0000,0000,0000,,Our crew is a handful.
+Dialogue: 0,0:14:22.58,0:14:25.71,Default,,0000,0000,0000,,So it would seem! I'll work myself to death!
+Dialogue: 0,0:14:25.71,0:14:27.72,Default,,0000,0000,0000,,Ah, but I'm already dead.
+Dialogue: 0,0:14:51.90,0:14:54.74,Default,,0000,0000,0000,,All right! Now that Zoro \Nis up, let's hit the seas!
+Dialogue: 0,0:14:55.11,0:14:57.78,Default,,0000,0000,0000,,Time to head out for our next adventure!
+Dialogue: 0,0:14:57.78,0:14:59.55,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:00.82,0:15:03.49,Default,,0000,0000,0000,,Huh? Zoro, did you remove\Nyour bandages again?!
+Dialogue: 0,0:15:03.49,0:15:05.73,Default,,0000,0000,0000,,Yeah, they hampered my movement.
+Dialogue: 0,0:15:06.37,0:15:09.22,Default,,0000,0000,0000,,They were meant to keep\Nyou from moving! Wait!
+Dialogue: 0,0:15:09.79,0:15:12.43,Default,,0000,0000,0000,,You seem awfully anxious to go.\NAre you really setting sail?
+Dialogue: 0,0:15:12.96,0:15:15.31,Default,,0000,0000,0000,,You guys can have Brook's ship.
+Dialogue: 0,0:15:15.85,0:15:17.62,Default,,0000,0000,0000,,\NI fixed the rudder and sails.
+Dialogue: 0,0:15:17.62,0:15:18.84,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:18.84,0:15:20.85,Default,,0000,0000,0000,,You guys have been such\Na big help in so many ways!
+Dialogue: 0,0:15:21.55,0:15:25.51,Default,,0000,0000,0000,,I owe you so much!\NI couldn't begin to thank you.
+Dialogue: 0,0:15:25.51,0:15:27.39,Default,,0000,0000,0000,,I'd love to marry you.
+Dialogue: 0,0:15:27.39,0:15:29.48,Default,,0000,0000,0000,,You're a great catch, but unfortunately,
+Dialogue: 0,0:15:29.48,0:15:31.95,Default,,0000,0000,0000,,I'm just too cool. It wouldn't work out.
+Dialogue: 0,0:15:32.23,0:15:34.27,Default,,0000,0000,0000,,I hate to see you guys go!
+Dialogue: 0,0:15:34.27,0:15:36.16,Default,,0000,0000,0000,,Let's party for another two or three days.
+Dialogue: 0,0:15:36.48,0:15:38.69,Default,,0000,0000,0000,,Nope! Our next stop is Fishman Island.
+Dialogue: 0,0:15:38.69,0:15:40.78,Default,,0000,0000,0000,,I'm dying to get there!
+Dialogue: 0,0:15:40.78,0:15:43.41,Default,,0000,0000,0000,,I bet it's full of fascinating people!
+Dialogue: 0,0:15:43.41,0:15:47.45,Default,,0000,0000,0000,,I'll get to frolic with beautiful mermaids!
+Dialogue: 0,0:15:49.37,0:15:53.83,Default,,0000,0000,0000,,Would it be all right if I asked the\Nmermaids to show me their panties?
+Dialogue: 0,0:15:53.83,0:15:56.26,Default,,0000,0000,0000,,Hey, man! Don't be stupid!
+Dialogue: 0,0:15:57.55,0:16:00.50,Default,,0000,0000,0000,,Mermaids don't wear panties.
+Dialogue: 0,0:16:02.51,0:16:04.64,Default,,0000,0000,0000,,Mermaids are stinking gorgeous!
+Dialogue: 0,0:16:04.64,0:16:08.07,Default,,0000,0000,0000,,The Pirate Empress Hancock\Nis nothing compared to them!
+Dialogue: 0,0:16:09.18,0:16:13.10,Default,,0000,0000,0000,,Mermaid! Mermaid!
+Dialogue: 0,0:16:13.10,0:16:14.78,Default,,0000,0000,0000,,--Mermaid! Hurray!\N--Doesn't their lower half look like a fish tail?
+Dialogue: 0,0:16:15.06,0:16:17.44,Default,,0000,0000,0000,,--Mermaids! Love them!\N--How come you know so much about them?
+Dialogue: 0,0:16:17.44,0:16:21.22,Default,,0000,0000,0000,,--Mermaid! Mermaid! Oh, baby!\N--Oh, we passed through on\Nour way here three years ago.
+Dialogue: 0,0:16:21.22,0:16:22.96,Default,,0000,0000,0000,,--Mermaid! They're wonderful!\N--Fishman Island was incredible!
+Dialogue: 0,0:16:23.53,0:16:27.03,Default,,0000,0000,0000,,Lola, you went to the New World?
+Dialogue: 0,0:16:27.03,0:16:30.70,Default,,0000,0000,0000,,I didn't go there. That's where I was born.
+Dialogue: 0,0:16:30.70,0:16:32.97,Default,,0000,0000,0000,,My mama is a pirate.
+Dialogue: 0,0:16:32.97,0:16:34.59,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:16:35.96,0:16:38.71,Default,,0000,0000,0000,,This is my mama's Vivre Card.\NYou may have a piece.
+Dialogue: 0,0:16:39.61,0:16:40.77,Default,,0000,0000,0000,,It's paper?
+Dialogue: 0,0:16:40.77,0:16:46.94,Default,,0000,0000,0000,,Wow, you're lucky! Captain Lola's\Nmama is an amazing pirate!
+Dialogue: 0,0:16:47.22,0:16:50.65,Default,,0000,0000,0000,,Take good care of that!\NI'm sure it will come in handy later.
+Dialogue: 0,0:16:51.22,0:16:53.14,Default,,0000,0000,0000,,What is a Vivre Card?
+Dialogue: 0,0:16:53.14,0:16:54.60,Default,,0000,0000,0000,,Huh? You don't know?
+Dialogue: 0,0:16:54.60,0:16:58.86,Default,,0000,0000,0000,,Captain Lola, Vivre Cards are\Nonly available in the New World!
+Dialogue: 0,0:16:58.86,0:16:59.91,Default,,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:17:00.61,0:17:02.78,Default,,0000,0000,0000,,This isn't your typical sheet of paper.
+Dialogue: 0,0:17:02.78,0:17:04.89,Default,,0000,0000,0000,,Water and fire can't hurt it.
+Dialogue: 0,0:17:05.53,0:17:08.41,Default,,0000,0000,0000,,If you take your nail clippings to a shop,
+Dialogue: 0,0:17:08.41,0:17:12.29,Default,,0000,0000,0000,,they will make a special sheet\Nof paper that mixes them in.
+Dialogue: 0,0:17:12.29,0:17:15.72,Default,,0000,0000,0000,,It is known as the\N"Paper of Life," the Vivre Card!
+Dialogue: 0,0:17:16.25,0:17:20.06,Default,,0000,0000,0000,,You can tear off a piece and give it\Nto family and friends who are leaving.
+Dialogue: 0,0:17:21.80,0:17:22.64,Default,,0000,0000,0000,,And then?
+Dialogue: 0,0:17:23.05,0:17:26.88,Default,,0000,0000,0000,,Just watch. This is the Vivre Card\Nthat my mama gave to me.
+Dialogue: 0,0:17:28.80,0:17:30.68,Default,,0000,0000,0000,,Ah, it moved!
+Dialogue: 0,0:17:30.68,0:17:34.35,Default,,0000,0000,0000,,No matter where in the world you are,\Nthe pieces will pull toward each other.
+Dialogue: 0,0:17:34.35,0:17:38.19,Default,,0000,0000,0000,,So I always know which\Ndirection my mama is in!
+Dialogue: 0,0:17:38.19,0:17:39.74,Default,,0000,0000,0000,,Of course, it doesn't\Nindicate how far away she is.
+Dialogue: 0,0:17:40.11,0:17:45.29,Default,,0000,0000,0000,,Wow, that's amazing! Is the New World\Nfilled with things like that?
+Dialogue: 0,0:17:45.57,0:17:50.20,Default,,0000,0000,0000,,Isn't it handy? I'll sign \Nmy mama's Vivre Card,
+Dialogue: 0,0:17:50.20,0:17:54.29,Default,,0000,0000,0000,,so if you ever run into trouble,\Nuse this to get to her.
+Dialogue: 0,0:17:54.29,0:17:57.20,Default,,0000,0000,0000,,When you see her, let her\Nknow that I'm doing well.
+Dialogue: 0,0:17:57.62,0:17:58.93,Default,,0000,0000,0000,,Thank you, Lola!
+Dialogue: 0,0:17:59.38,0:18:01.64,Default,,0000,0000,0000,,I might have one of those.
+Dialogue: 0,0:18:02.29,0:18:04.34,Default,,0000,0000,0000,,That thought just occurred to me as well.
+Dialogue: 0,0:18:04.71,0:18:08.44,Default,,0000,0000,0000,,Isn't this identical to the white\Npaper that Ace gave to you?
+Dialogue: 0,0:18:11.39,0:18:14.69,Default,,0000,0000,0000,,That scrap of paper will bring you\Nand me together again sometime.
+Dialogue: 0,0:18:19.15,0:18:21.37,Default,,0000,0000,0000,,So that's what he meant...
+Dialogue: 0,0:18:22.15,0:18:23.44,Default,,0000,0000,0000,,This is it! Huh?
+Dialogue: 0,0:18:24.51,0:18:26.79,Default,,0000,0000,0000,,It's kinda burnt. And it's smaller now.
+Dialogue: 0,0:18:27.86,0:18:29.29,Default,,0000,0000,0000,,Let me see that right quick!
+Dialogue: 0,0:18:34.65,0:18:37.00,Default,,0000,0000,0000,,This is definitely a Vivre Card.
+Dialogue: 0,0:18:37.75,0:18:43.25,Default,,0000,0000,0000,,I hadn't told you this yet, but it\Nalso reveals the owner's vitality.
+Dialogue: 0,0:18:43.74,0:18:46.23,Default,,0000,0000,0000,,Isn't this person dear to you?
+Dialogue: 0,0:18:46.73,0:18:48.94,Default,,0000,0000,0000,,Yeah! He's my big brother.
+Dialogue: 0,0:18:53.42,0:18:54.73,Default,,0000,0000,0000,,Lola...?
+Dialogue: 0,0:18:58.52,0:19:02.16,Default,,0000,0000,0000,,I hate to say this, but his life...
+Dialogue: 0,0:19:03.47,0:19:04.79,Default,,0000,0000,0000,,is burning out.
+Dialogue: 0,0:19:05.10,0:19:05.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:32.09,0:19:35.76,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:35.76,0:19:39.11,Default,,0000,0000,0000,,--Take care!\N--Hey!
+Dialogue: 0,0:19:39.11,0:19:42.57,Default,,0000,0000,0000,,Goodbye, guys!
+Dialogue: 0,0:19:42.57,0:19:46.40,Default,,0000,0000,0000,,I will never forget what you've done for us!
+Dialogue: 0,0:19:46.40,0:19:49.32,Default,,0000,0000,0000,,The sun! Thank you for\Nbringing the sun back to us!
+Dialogue: 0,0:19:52.70,0:19:56.20,Default,,0000,0000,0000,,Everyone, careful not to get wiped out!
+Dialogue: 0,0:19:57.41,0:19:59.38,Default,,0000,0000,0000,,Don't jinx them, jerk!
+Dialogue: 0,0:19:59.62,0:20:03.64,Default,,0000,0000,0000,,Lola, thank you for the \NVivre Card! Take care!
+Dialogue: 0,0:20:03.92,0:20:08.31,Default,,0000,0000,0000,,Say hi to Mama if you see her!\NLet's meet again, Namizo!
+Dialogue: 0,0:20:13.80,0:20:16.04,Default,,0000,0000,0000,,We're off!
+Dialogue: 0,0:20:34.11,0:20:35.49,Default,,0000,0000,0000,,They're gone, aren't they?
+Dialogue: 0,0:20:35.99,0:20:37.42,Default,,0000,0000,0000,,They sure are.
+Dialogue: 0,0:20:39.33,0:20:43.12,Default,,0000,0000,0000,,The fog is rolling back in.\NWe'll set sail tomorrow!
+Dialogue: 0,0:20:46.51,0:20:51.35,Default,,0000,0000,0000,,No one knows what happens in the\NFlorian Triangle's mysterious waters.
+Dialogue: 0,0:20:52.21,0:20:56.67,Default,,0000,0000,0000,,Every year, over 100 ships \Ndisappear in the fog.
+Dialogue: 0,0:20:57.37,0:21:03.31,Default,,0000,0000,0000,,That is an old mystery that began before\Nthe giant pirate ship, Thriller Bark,
+Dialogue: 0,0:21:03.31,0:21:07.29,Default,,0000,0000,0000,,began to lurk in the shadows\Nof that sea ten years ago.
+Dialogue: 0,0:21:14.74,0:21:17.61,Default,,0000,0000,0000,,It just so happens that, once again today,
+Dialogue: 0,0:21:18.16,0:21:20.03,Default,,0000,0000,0000,,the dense, white fog is covering the
+Dialogue: 0,0:21:20.03,0:21:22.70,Default,,0000,0000,0000,,\Neerie face of the sea with its white vale.
+Dialogue: 0,0:21:29.00,0:21:29.93,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:21:31.67,0:21:33.13,Default,,0000,0000,0000,,Are you really sure?
+Dialogue: 0,0:21:34.01,0:21:36.35,Default,,0000,0000,0000,,Oh, you mean about Ace's paper?
+Dialogue: 0,0:21:37.18,0:21:38.73,Default,,0000,0000,0000,,It's okay. Don't worry about it.
+Dialogue: 0,0:21:40.94,0:21:44.82,Default,,0000,0000,0000,,Luffy-san, I don't mind. \NWe can take a detour.
+Dialogue: 0,0:21:45.80,0:21:50.31,Default,,0000,0000,0000,,By now, time is of little\Nconsequence to me and Laboon.
+Dialogue: 0,0:21:50.31,0:21:52.78,Default,,0000,0000,0000,,"Live" and "Reunite." Those are my mottos!
+Dialogue: 0,0:21:52.78,0:21:56.86,Default,,0000,0000,0000,,Luffy, everyone is cool with taking a detour.
+Dialogue: 0,0:21:56.86,0:21:58.70,Default,,0000,0000,0000,,It's cool! It's cool!
+Dialogue: 0,0:21:58.70,0:22:02.37,Default,,0000,0000,0000,,Yeah! Let's go see your whale of a brother!
+Dialogue: 0,0:22:02.37,0:22:04.33,Default,,0000,0000,0000,,No, it's okay. Honest!
+Dialogue: 0,0:22:04.33,0:22:09.14,Default,,0000,0000,0000,,If he is in trouble, I doubt he'd want me\Nto worry every time this happens.
+Dialogue: 0,0:22:09.48,0:22:12.72,Default,,0000,0000,0000,,Ace hates it when people see him look weak.
+Dialogue: 0,0:22:14.46,0:22:16.77,Default,,0000,0000,0000,,Even if we went, he'd just yell at me.
+Dialogue: 0,0:22:17.55,0:22:20.14,Default,,0000,0000,0000,,When we meet, we will be enemy pirates.
+Dialogue: 0,0:22:20.14,0:22:22.78,Default,,0000,0000,0000,,Ace has adventures of his own.
+Dialogue: 0,0:22:24.14,0:22:28.39,Default,,0000,0000,0000,,That Vivre Card shrinks when\Nits owner is in a weakened state.
+Dialogue: 0,0:22:28.39,0:22:31.58,Default,,0000,0000,0000,,When he gets better,\Nit returns to its original size.
+Dialogue: 0,0:22:31.58,0:22:34.11,Default,,0000,0000,0000,,Yep! We won't meet until then.
+Dialogue: 0,0:22:34.11,0:22:37.37,Default,,0000,0000,0000,,That's why Ace gave this paper to me, right?
+Dialogue: 0,0:22:42.74,0:22:45.24,Default,,0000,0000,0000,,Come to think of it, Zoro,\Nyou still haven't done this,
+Dialogue: 0,0:22:45.24,0:22:46.80,Default,,0000,0000,0000,,since you were asleep the whole time!
+Dialogue: 0,0:22:47.87,0:22:50.46,Default,,0000,0000,0000,,So, I'll take it from the top.
+Dialogue: 0,0:22:50.46,0:22:54.55,Default,,0000,0000,0000,,Let's drink to our new crewmate,\Nthe musician, Brook!
+Dialogue: 0,0:22:55.30,0:22:58.06,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:22:58.55,0:23:00.97,Default,,0000,0000,0000,,Thank you for having me!
+Dialogue: 0,0:23:00.97,0:23:02.93,Default,,0000,0000,0000,,Okay! Pull up the sails!
+Dialogue: 0,0:23:02.93,0:23:05.47,Default,,0000,0000,0000,,Let's fly with a Coup de Burst!
+Dialogue: 0,0:23:05.47,0:23:06.78,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:07.81,0:23:10.45,Default,,0000,0000,0000,,Coup de Burst!
+Dialogue: 0,0:23:12.44,0:23:15.66,Default,,0000,0000,0000,,What is this?!
+Dialogue: 0,0:23:25.45,0:23:28.91,Default,,0000,0000,0000,,Blue waters and a shining sun! This is bliss!
+Dialogue: 0,0:23:28.91,0:23:31.10,Default,,0000,0000,0000,,There are a bunch of neat things here.
+Dialogue: 0,0:23:33.42,0:23:34.96,Default,,0000,0000,0000,,You're... Split-Head!
+Dialogue: 0,0:23:34.96,0:23:36.67,Default,,0000,0000,0000,,Who are you calling "Split-Head"?!
+Dialogue: 0,0:23:35.96,0:23:37.96,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:36.67,0:23:40.77,Default,,0000,0000,0000,,I'll put an end to your wisecracks\Nwith my new technique!
+Dialogue: 0,0:23:40.77,0:23:41.97,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.97,0:23:45.26,Default,,0000,0000,0000,,"The Slow-Slow Menace!\N'Silver Fox' Foxy Returns!"
+Dialogue: 0,0:23:45.26,0:23:47.14,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.68,0:23:49.68,Default,,0000,0000,0000,,

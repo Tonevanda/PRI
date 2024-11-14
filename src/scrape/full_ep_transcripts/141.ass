@@ -1,0 +1,403 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.69,0:00:11.29,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.29,0:00:14.13,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:14.13,0:00:17.30,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.30,0:00:21.30,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.30,0:00:25.97,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.48,0:00:35.98,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.98,0:00:40.49,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.49,0:00:45.66,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.66,0:00:54.00,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:54.00,0:01:04.11,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:04.11,0:01:13.62,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.62,0:01:18.62,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.62,0:01:26.30,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.30,0:01:31.97,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.97,0:01:36.47,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.47,0:01:41.65,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.65,0:01:48.85,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:51.99,0:01:55.66,Default,,0000,0000,0000,,Pumpkin Pirates, charge!
+Dialogue: 0,0:02:00.26,0:02:02.27,Default,,0000,0000,0000,,The treasure we're after is on that island!
+Dialogue: 0,0:02:02.27,0:02:05.67,Default,,0000,0000,0000,,Whoever makes land first gets a reward!
+Dialogue: 0,0:02:09.61,0:02:11.44,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:02:13.85,0:02:17.62,Default,,0000,0000,0000,,Wait for me! I'm coming, too!
+Dialogue: 0,0:02:17.62,0:02:19.32,Default,,0000,0000,0000,,You can't.
+Dialogue: 0,0:02:21.62,0:02:25.22,Default,,0000,0000,0000,,After all, you're a grown-up, aren't you?
+Dialogue: 0,0:02:33.63,0:02:35.30,Default,,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:02:35.30,0:02:39.64,Default,,0000,0000,0000,,Rapa Nui! Isoka! Rongo! Akibi! Pukau!
+Dialogue: 0,0:02:39.64,0:02:46.61,Default,,0000,0000,0000,,Don't leave me here!\NDon't leave me all by myself!
+Dialogue: 0,0:02:51.32,0:02:52.32,Default,,0000,0000,0000,,I was dreaming...
+Dialogue: 0,0:02:52.32,0:02:55.65,Default,,0000,0000,0000,,You're concerned about your friends, huh?
+Dialogue: 0,0:02:55.65,0:02:58.76,Default,,0000,0000,0000,,You were calling out\Ntheir names in your sleep.
+Dialogue: 0,0:03:00.69,0:03:02.93,Default,,0000,0000,0000,,What was it all for, exactly?
+Dialogue: 0,0:03:02.93,0:03:07.27,Default,,0000,0000,0000,,These last 50 years that I dedicated\Nto researching the Rainbow Mist?
+Dialogue: 0,0:03:07.27,0:03:10.60,Default,,0000,0000,0000,,Seeing Rapa Nui and the others\Nthe way they were back then,
+Dialogue: 0,0:03:10.60,0:03:14.27,Default,,0000,0000,0000,,it makes me think that I, at least,\Nhave wasted all that time.
+Dialogue: 0,0:03:14.27,0:03:18.61,Default,,0000,0000,0000,,It wasn't wasted, right? You did get\Nto see all your old friends again.
+Dialogue: 0,0:03:18.61,0:03:20.81,Default,,0000,0000,0000,,I'm not so sure...
+Dialogue: 0,0:03:23.61,0:03:26.28,Default,,0000,0000,0000,,Is the ship moving?
+Dialogue: 0,0:03:26.28,0:03:28.45,Default,,0000,0000,0000,,It shouldn't be...
+Dialogue: 0,0:03:31.96,0:03:36.49,Default,,0000,0000,0000,,"Thoughts of Home!\NThe Pirate Graveyard of No Escape!"
+Dialogue: 0,0:03:37.86,0:03:39.96,Default,,0000,0000,0000,,Forward!
+Dialogue: 0,0:03:39.96,0:03:41.97,Default,,0000,0000,0000,,Full speed ahead!
+Dialogue: 0,0:03:41.97,0:03:45.57,Default,,0000,0000,0000,,Hey, Luffy, are you sure\Nwe're moving forward?
+Dialogue: 0,0:03:45.57,0:03:47.97,Default,,0000,0000,0000,,Yeah! Straight ahead!
+Dialogue: 0,0:03:48.97,0:03:51.31,Default,,0000,0000,0000,,Where on earth are you headed?
+Dialogue: 0,0:03:51.31,0:03:53.58,Default,,0000,0000,0000,,Where? We're going out of the mist!
+Dialogue: 0,0:03:53.58,0:03:55.98,Default,,0000,0000,0000,,Don't be ridiculous.
+Dialogue: 0,0:03:55.98,0:03:59.65,Default,,0000,0000,0000,,Once you wander into Ape's Concert,\Nyou never get out of it again.
+Dialogue: 0,0:03:59.65,0:04:02.22,Default,,0000,0000,0000,,It's a fiendish region of the sea.
+Dialogue: 0,0:04:02.22,0:04:06.92,Default,,0000,0000,0000,,Hey, didn't we see that\Nship a little while ago?
+Dialogue: 0,0:04:06.92,0:04:08.09,Default,,0000,0000,0000,,Don't let it bother you.
+Dialogue: 0,0:04:08.09,0:04:10.26,Default,,0000,0000,0000,,There are ships that look\Nalike everywhere you go.
+Dialogue: 0,0:04:10.26,0:04:15.60,Default,,0000,0000,0000,,No, this ship ran aground in the\Nvery first place we dropped anchor.
+Dialogue: 0,0:04:15.60,0:04:18.27,Default,,0000,0000,0000,,I remember seeing the goddess on the bow.
+Dialogue: 0,0:04:18.27,0:04:23.61,Default,,0000,0000,0000,,D-Does that mean we've come\Nback to where we started from?
+Dialogue: 0,0:04:23.61,0:04:27.28,Default,,0000,0000,0000,,This is why I asked if you\Nwere sure we're going forward!
+Dialogue: 0,0:04:27.28,0:04:29.61,Default,,0000,0000,0000,,I've been watching!\NWe've been going straight.
+Dialogue: 0,0:04:29.61,0:04:32.95,Default,,0000,0000,0000,,You can't see our way\Nstraight in this mist, can you?
+Dialogue: 0,0:04:32.95,0:04:34.82,Default,,0000,0000,0000,,It can't be...
+Dialogue: 0,0:04:36.29,0:04:38.46,Default,,0000,0000,0000,,Seis Fleurs!
+Dialogue: 0,0:04:53.97,0:04:55.64,Default,,0000,0000,0000,,Hey, what was that for?!
+Dialogue: 0,0:04:55.64,0:04:58.34,Default,,0000,0000,0000,,We shot forward, but it came\Nflying in from behind us!
+Dialogue: 0,0:04:58.34,0:04:59.64,Default,,0000,0000,0000,,Sure enough.
+Dialogue: 0,0:04:59.64,0:05:02.25,Default,,0000,0000,0000,,Space is being distorted.
+Dialogue: 0,0:05:02.25,0:05:03.92,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:05:03.92,0:05:06.25,Default,,0000,0000,0000,,I remembered something\Nwritten in the book.
+Dialogue: 0,0:05:06.25,0:05:11.26,Default,,0000,0000,0000,,The inside of the\NRainbow Mist is like a maze.
+Dialogue: 0,0:05:11.26,0:05:13.86,Default,,0000,0000,0000,,--Gum-Gum...\N--H-Hey, don't do anything crazy!
+Dialogue: 0,0:05:13.86,0:05:17.26,Default,,0000,0000,0000,,...Rocket!!
+Dialogue: 0,0:05:17.26,0:05:18.60,Default,,0000,0000,0000,,Too late.
+Dialogue: 0,0:05:18.60,0:05:22.93,Default,,0000,0000,0000,,He won't necessarily return\Nto the same location.
+Dialogue: 0,0:05:22.93,0:05:24.97,Default,,0000,0000,0000,,That idiot!
+Dialogue: 0,0:05:31.61,0:05:34.61,Default,,0000,0000,0000,,I get it. This is a strange mist,\Nwhere no matter how far you go,
+Dialogue: 0,0:05:34.61,0:05:36.78,Default,,0000,0000,0000,,you end up where you started.
+Dialogue: 0,0:05:36.78,0:05:39.28,Default,,0000,0000,0000,,Oh, it's a "strange mist."
+Dialogue: 0,0:05:39.28,0:05:41.85,Default,,0000,0000,0000,,Are you sure you understand?
+Dialogue: 0,0:05:41.85,0:05:44.79,Default,,0000,0000,0000,,The part about not being able\Nto get out of here, at least.
+Dialogue: 0,0:05:46.29,0:05:48.96,Default,,0000,0000,0000,,We don't have to get out. It's fun in here!
+Dialogue: 0,0:05:48.96,0:05:49.96,Default,,0000,0000,0000,,Yes, we do!
+Dialogue: 0,0:05:49.96,0:05:52.33,Default,,0000,0000,0000,,Let's join up with Rapa Nui and the others.
+Dialogue: 0,0:05:53.63,0:05:54.63,Default,,0000,0000,0000,,With those kids?
+Dialogue: 0,0:05:54.63,0:05:56.97,Default,,0000,0000,0000,,The best way to get ourselves\Nout of Ape's Concert
+Dialogue: 0,0:05:56.97,0:06:00.57,Default,,0000,0000,0000,,is to consult the ones\Nwhose territory it is, right?
+Dialogue: 0,0:06:00.57,0:06:04.58,Default,,0000,0000,0000,,Yeah, but where are they?
+Dialogue: 0,0:06:04.58,0:06:07.65,Default,,0000,0000,0000,,Let's ask that boy over there.
+Dialogue: 0,0:06:10.92,0:06:12.25,Default,,0000,0000,0000,,How did she find me?!
+Dialogue: 0,0:06:12.25,0:06:14.25,Default,,0000,0000,0000,,It's no use hiding.
+Dialogue: 0,0:06:15.25,0:06:17.26,Default,,0000,0000,0000,,Un Fleur.
+Dialogue: 0,0:06:18.26,0:06:20.49,Default,,0000,0000,0000,,Would you take us?
+Dialogue: 0,0:06:20.49,0:06:23.33,Default,,0000,0000,0000,,To wherever your boss is?
+Dialogue: 0,0:06:28.27,0:06:30.27,Default,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:06:31.27,0:06:34.27,Default,,0000,0000,0000,,Henzo came back,\Nand he's an old man, you say?
+Dialogue: 0,0:06:34.27,0:06:36.61,Default,,0000,0000,0000,,What sort of joke is that?
+Dialogue: 0,0:06:36.61,0:06:38.94,Default,,0000,0000,0000,,It's no joke.
+Dialogue: 0,0:06:38.94,0:06:44.08,Default,,0000,0000,0000,,He fell into the sea, in order to save us,\Nand we haven't seen him since.
+Dialogue: 0,0:06:46.05,0:06:48.69,Default,,0000,0000,0000,,I promise, I'll come after you later!
+Dialogue: 0,0:06:48.69,0:06:51.96,Default,,0000,0000,0000,,Go on! Keep going! Don't worry about me!
+Dialogue: 0,0:06:51.96,0:06:54.86,Default,,0000,0000,0000,,He's still alive, in the outside world.
+Dialogue: 0,0:06:54.86,0:06:58.30,Default,,0000,0000,0000,,Henzo said that he's been\Nlooking for a way to bring us back,
+Dialogue: 0,0:06:58.30,0:07:04.20,Default,,0000,0000,0000,,all this time, in Luluka, and that\N50 years had passed, just like that!
+Dialogue: 0,0:07:04.20,0:07:07.24,Default,,0000,0000,0000,,50 years? That's absurd.
+Dialogue: 0,0:07:07.24,0:07:10.24,Default,,0000,0000,0000,,Are you sure that old man\Nisn't playing a trick on you?
+Dialogue: 0,0:07:10.24,0:07:13.21,Default,,0000,0000,0000,,Why would he play a trick on us?
+Dialogue: 0,0:07:13.21,0:07:15.25,Default,,0000,0000,0000,,I wouldn't know why.
+Dialogue: 0,0:07:15.25,0:07:18.25,Default,,0000,0000,0000,,But if what Henzo said is true,
+Dialogue: 0,0:07:18.25,0:07:21.12,Default,,0000,0000,0000,,I wonder what's happened\Nto the town of Luluka.
+Dialogue: 0,0:07:22.59,0:07:25.26,Default,,0000,0000,0000,,Dad... Mom...
+Dialogue: 0,0:07:25.26,0:07:27.59,Default,,0000,0000,0000,,There's no use in worrying about it.
+Dialogue: 0,0:07:27.59,0:07:31.60,Default,,0000,0000,0000,,You'll know if it's true or not once\Nyou go back and see for yourself.
+Dialogue: 0,0:07:31.60,0:07:33.60,Default,,0000,0000,0000,,You know of a way to get back?
+Dialogue: 0,0:07:33.60,0:07:40.27,Default,,0000,0000,0000,,Of course I do. I'm the raiding captain\Nof the Wetton Pirates, Ian-sama!
+Dialogue: 0,0:07:40.27,0:07:42.84,Default,,0000,0000,0000,,Tell us the way to get back\Nto the town of Luluka!
+Dialogue: 0,0:07:42.84,0:07:47.95,Default,,0000,0000,0000,,Sure! Just bring the key!\NIf you let me out of here,
+Dialogue: 0,0:07:47.95,0:07:51.62,Default,,0000,0000,0000,,then I'll take charge of you,\Nand return you to your homes.
+Dialogue: 0,0:07:51.62,0:07:53.62,Default,,0000,0000,0000,,Oh, okay...
+Dialogue: 0,0:07:53.62,0:07:55.55,Default,,0000,0000,0000,,Rongo! Akibi!
+Dialogue: 0,0:07:55.55,0:07:57.62,Default,,0000,0000,0000,,Don't let him fool you.
+Dialogue: 0,0:07:57.62,0:08:00.89,Default,,0000,0000,0000,,Ian just wants to get out of there.
+Dialogue: 0,0:08:00.89,0:08:05.26,Default,,0000,0000,0000,,Saying that he knows a way to\Nthe outside world is just a ruse.
+Dialogue: 0,0:08:05.26,0:08:07.47,Default,,0000,0000,0000,,Huh? A ruse?
+Dialogue: 0,0:08:08.90,0:08:10.80,Default,,0000,0000,0000,,You sure are a tough one, Isoka-chan.
+Dialogue: 0,0:08:10.80,0:08:15.91,Default,,0000,0000,0000,,I haven't forgotten all those\Ntimes you mistreated us.
+Dialogue: 0,0:08:17.58,0:08:20.24,Default,,0000,0000,0000,,Listen up, you tenderfoots!
+Dialogue: 0,0:08:20.24,0:08:23.58,Default,,0000,0000,0000,,Being on the seas means always\Nbeing side by side with danger!
+Dialogue: 0,0:08:23.58,0:08:26.25,Default,,0000,0000,0000,,If you want to survive, then follow the orders
+Dialogue: 0,0:08:26.25,0:08:30.19,Default,,0000,0000,0000,,of the Wetton Pirates'\Nraiding captain, Ian-sama!
+Dialogue: 0,0:08:32.26,0:08:35.36,Default,,0000,0000,0000,,It's amazing! That ship over\Nthere is full of jewels, too!
+Dialogue: 0,0:08:35.36,0:08:38.60,Default,,0000,0000,0000,,All right, take it to the captain's quarters.
+Dialogue: 0,0:08:38.60,0:08:40.60,Default,,0000,0000,0000,,They also had all this food!
+Dialogue: 0,0:08:40.60,0:08:43.60,Default,,0000,0000,0000,,All right, take that to\Nthe captain's quarters, too.
+Dialogue: 0,0:08:43.60,0:08:46.47,Default,,0000,0000,0000,,Sea serpent!
+Dialogue: 0,0:08:50.27,0:08:52.51,Default,,0000,0000,0000,,Help!
+Dialogue: 0,0:08:53.61,0:08:56.35,Default,,0000,0000,0000,,--Help!\N--Don't run away, face it!
+Dialogue: 0,0:08:57.18,0:08:59.95,Default,,0000,0000,0000,,R-Rongo!
+Dialogue: 0,0:08:59.95,0:09:01.72,Default,,0000,0000,0000,,Rapa Nui!
+Dialogue: 0,0:09:08.23,0:09:10.06,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:09:12.33,0:09:14.00,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:09:24.91,0:09:26.91,Default,,0000,0000,0000,,What are you looking at me like that for?!
+Dialogue: 0,0:09:26.91,0:09:31.25,Default,,0000,0000,0000,,Looking at your gloomy faces\Nis making the food taste bad!
+Dialogue: 0,0:09:31.25,0:09:34.59,Default,,0000,0000,0000,,Remember, it's only because I\Nhappened to be aboard this ship
+Dialogue: 0,0:09:34.59,0:09:38.59,Default,,0000,0000,0000,,that you've managed to stay alive up to now!
+Dialogue: 0,0:09:38.59,0:09:40.26,Default,,0000,0000,0000,,You might at least say thank you,
+Dialogue: 0,0:09:40.26,0:09:43.43,Default,,0000,0000,0000,,but I don't recall ever getting\Nlooks as critical as this!
+Dialogue: 0,0:09:47.93,0:09:50.00,Default,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:09:54.94,0:09:57.61,Default,,0000,0000,0000,,He was drawn here by the\Nsmell of the food, was he?!
+Dialogue: 0,0:09:57.61,0:10:00.28,Default,,0000,0000,0000,,Guys, get outside!
+Dialogue: 0,0:10:00.28,0:10:04.62,Default,,0000,0000,0000,,Whoa, wait! This is my ship! Defend the ship!
+Dialogue: 0,0:10:04.62,0:10:07.62,Default,,0000,0000,0000,,Your boat is more important\Nthan everyone's lives?!
+Dialogue: 0,0:10:07.62,0:10:10.86,Default,,0000,0000,0000,,We don't need a leader like that!
+Dialogue: 0,0:10:26.97,0:10:29.97,Default,,0000,0000,0000,,Damn it! My ship...!
+Dialogue: 0,0:10:29.97,0:10:32.31,Default,,0000,0000,0000,,We're better off without that ship.
+Dialogue: 0,0:10:32.31,0:10:35.65,Default,,0000,0000,0000,,Our true departure is just getting started.
+Dialogue: 0,0:10:39.32,0:10:43.32,Default,,0000,0000,0000,,We're all fed up with you,\Nalways shooting your mouth off,
+Dialogue: 0,0:10:43.32,0:10:45.32,Default,,0000,0000,0000,,and only thinking about yourself!
+Dialogue: 0,0:10:45.32,0:10:47.33,Default,,0000,0000,0000,,I guess you must hate me.
+Dialogue: 0,0:10:47.33,0:10:51.73,Default,,0000,0000,0000,,But what if I really do know a way out of here?
+Dialogue: 0,0:10:51.73,0:10:53.33,Default,,0000,0000,0000,,Another transparent lie!
+Dialogue: 0,0:10:53.33,0:10:56.67,Default,,0000,0000,0000,,Go ahead and test me, to see if I'm lying.
+Dialogue: 0,0:10:56.67,0:11:00.00,Default,,0000,0000,0000,,You're concerned about the town\Nof Luluka, too, aren't you?
+Dialogue: 0,0:11:00.00,0:11:03.61,Default,,0000,0000,0000,,Once we get all of the dormant\Ntreasures of Ape's Concert together,
+Dialogue: 0,0:11:03.61,0:11:06.94,Default,,0000,0000,0000,,we can live without doing\Nanything until the day we die!
+Dialogue: 0,0:11:06.94,0:11:10.95,Default,,0000,0000,0000,,We don't have to live as pirates\Nhere in this hazy mist.
+Dialogue: 0,0:11:10.95,0:11:14.62,Default,,0000,0000,0000,,Well? Come with me,\Nback to the outside world.
+Dialogue: 0,0:11:14.62,0:11:21.06,Default,,0000,0000,0000,,Our only leader is Rapa Nui.\NNone of us are going to follow you.
+Dialogue: 0,0:11:21.06,0:11:23.96,Default,,0000,0000,0000,,My, my, there's no making headway with you.
+Dialogue: 0,0:11:23.96,0:11:27.50,Default,,0000,0000,0000,,Well, take your time and\Nthink it over, Isoka-chan.
+Dialogue: 0,0:11:30.64,0:11:31.97,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:11:31.97,0:11:33.64,Default,,0000,0000,0000,,There's a ship coming!
+Dialogue: 0,0:11:33.64,0:11:36.97,Default,,0000,0000,0000,,All hands, prepare for combat!\NFortify our defenses!
+Dialogue: 0,0:11:36.97,0:11:40.51,Default,,0000,0000,0000,,How did they know where we are?
+Dialogue: 0,0:11:42.98,0:11:44.58,Default,,0000,0000,0000,,Is that...?!
+Dialogue: 0,0:11:45.65,0:11:47.25,Default,,0000,0000,0000,,Pukau!
+Dialogue: 0,0:11:49.65,0:11:54.33,Default,,0000,0000,0000,,That ship is huge!
+Dialogue: 0,0:11:54.33,0:11:55.99,Default,,0000,0000,0000,,That's a wrecked warship, right?
+Dialogue: 0,0:11:55.99,0:11:59.36,Default,,0000,0000,0000,,Yeah. Right now, though, it's our hideout.
+Dialogue: 0,0:12:00.60,0:12:01.93,Default,,0000,0000,0000,,You cowards!
+Dialogue: 0,0:12:01.93,0:12:03.94,Default,,0000,0000,0000,,How dare you hold Pukau?!
+Dialogue: 0,0:12:03.94,0:12:06.27,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:12:06.27,0:12:09.07,Default,,0000,0000,0000,,No more talk!
+Dialogue: 0,0:12:10.61,0:12:13.04,Default,,0000,0000,0000,,Release Pukau!
+Dialogue: 0,0:12:30.29,0:12:32.96,Default,,0000,0000,0000,,Mayor! It's the Talielisin!
+Dialogue: 0,0:12:32.96,0:12:36.63,Default,,0000,0000,0000,,Oh, my dear old ship.
+Dialogue: 0,0:12:37.64,0:12:41.97,Default,,0000,0000,0000,,But Grandpa, why is this ship\Ncoming back home now?
+Dialogue: 0,0:12:41.97,0:12:44.64,Default,,0000,0000,0000,,--Yow!\N--I told you to call me "Mayor"!
+Dialogue: 0,0:12:44.64,0:12:47.38,Default,,0000,0000,0000,,--Yes, sir.\N--Look there.
+Dialogue: 0,0:12:47.38,0:12:51.32,Default,,0000,0000,0000,,50 years ago, my ship\Ndisappeared inside that mist.
+Dialogue: 0,0:12:51.32,0:12:53.99,Default,,0000,0000,0000,,And, since the ship has returned,
+Dialogue: 0,0:12:53.99,0:12:58.32,Default,,0000,0000,0000,,it means that the doorway to\NApe's Concert has been opened.
+Dialogue: 0,0:12:58.32,0:13:00.26,Default,,0000,0000,0000,,In other words, it's now or never,
+Dialogue: 0,0:13:00.26,0:13:02.93,Default,,0000,0000,0000,,if we want to get the\Ntreasure inside there, right?
+Dialogue: 0,0:13:02.93,0:13:06.53,Default,,0000,0000,0000,,That's right. But how do you know that?
+Dialogue: 0,0:13:06.53,0:13:10.27,Default,,0000,0000,0000,,Well, your grandson there told me so.
+Dialogue: 0,0:13:10.27,0:13:11.94,Default,,0000,0000,0000,,You bonehead!
+Dialogue: 0,0:13:11.94,0:13:14.94,Default,,0000,0000,0000,,And after everything I said\Nabout the treasure being a secret!
+Dialogue: 0,0:13:14.94,0:13:17.94,Default,,0000,0000,0000,,I'm sorry, Grandp-- I mean, Mayor.
+Dialogue: 0,0:13:17.94,0:13:21.61,Default,,0000,0000,0000,,It sure must be trouble, having\Ndimwitted family members, huh?
+Dialogue: 0,0:13:21.61,0:13:23.28,Default,,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:13:23.28,0:13:27.55,Default,,0000,0000,0000,,Ain't that the truth? And why are\Nyou acting sympathetic toward me?!
+Dialogue: 0,0:13:27.55,0:13:31.62,Default,,0000,0000,0000,,For whatever reasons, now that you\Nknow the secret of Ape's Concert,
+Dialogue: 0,0:13:31.62,0:13:33.62,Default,,0000,0000,0000,,I can't afford you leaving.
+Dialogue: 0,0:13:34.56,0:13:36.89,Default,,0000,0000,0000,,You're going to silence us, is that it?
+Dialogue: 0,0:13:36.89,0:13:40.30,Default,,0000,0000,0000,,No, you're going to pay the\N"I found out the secret" tax
+Dialogue: 0,0:13:40.30,0:13:43.87,Default,,0000,0000,0000,,of ten million Berries.
+Dialogue: 0,0:13:43.87,0:13:45.64,Default,,0000,0000,0000,,Is this a joke?!
+Dialogue: 0,0:13:45.64,0:13:47.97,Default,,0000,0000,0000,,More to the point, that's too much!
+Dialogue: 0,0:13:47.97,0:13:50.34,Default,,0000,0000,0000,,More to the point, what kind of tax is that?!
+Dialogue: 0,0:13:50.34,0:13:52.98,Default,,0000,0000,0000,,Are you saying you can't pay the tax?
+Dialogue: 0,0:13:52.98,0:13:54.81,Default,,0000,0000,0000,,Tax collection squad!
+Dialogue: 0,0:14:00.59,0:14:03.92,Default,,0000,0000,0000,,You called, Mayor Wetton?
+Dialogue: 0,0:14:03.92,0:14:05.02,Default,,0000,0000,0000,,Oh, Daddy!
+Dialogue: 0,0:14:05.02,0:14:07.26,Default,,0000,0000,0000,,Daddy?
+Dialogue: 0,0:14:07.26,0:14:11.50,Default,,0000,0000,0000,,Take them to Rainbow Tower,\Nand condemn them to hard labor.
+Dialogue: 0,0:14:11.50,0:14:13.93,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:14:13.93,0:14:16.60,Default,,0000,0000,0000,,That is Rainbow Tower.
+Dialogue: 0,0:14:16.60,0:14:20.61,Default,,0000,0000,0000,,You are going to keep working\Nat that tower until you die.
+Dialogue: 0,0:14:20.61,0:14:23.27,Default,,0000,0000,0000,,Hellish, heavy labor, from morning until night.
+Dialogue: 0,0:14:23.27,0:14:26.18,Default,,0000,0000,0000,,You'll be off to the next world in no time.
+Dialogue: 0,0:14:27.28,0:14:30.32,Default,,0000,0000,0000,,Go on, Flip, take them away.
+Dialogue: 0,0:14:30.32,0:14:34.39,Default,,0000,0000,0000,,Oh, the Rainbow Mist has\Nappeared, hasn't it, Father?!
+Dialogue: 0,0:14:34.39,0:14:38.72,Default,,0000,0000,0000,,Now is our chance to get the\Ntreasure from Ape's Concert!
+Dialogue: 0,0:14:38.72,0:14:41.29,Default,,0000,0000,0000,,He just said everything.
+Dialogue: 0,0:14:41.29,0:14:43.63,Default,,0000,0000,0000,,Secrets aren't worth a damn to them, are they?
+Dialogue: 0,0:14:43.63,0:14:45.96,Default,,0000,0000,0000,,All three generations are patently stupid.
+Dialogue: 0,0:14:45.96,0:14:48.63,Default,,0000,0000,0000,,You bonehead! Fine!
+Dialogue: 0,0:14:48.63,0:14:51.64,Default,,0000,0000,0000,,Call in Henzo, and have him\Ninvestigate the Rainbow Mist!
+Dialogue: 0,0:14:51.64,0:14:54.97,Default,,0000,0000,0000,,--Right! Bring me the transponder snail, at once!\N--Father, you're still pretty strong, huh?
+Dialogue: 0,0:14:54.97,0:14:56.31,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:57.31,0:14:59.34,Default,,0000,0000,0000,,Hey, calm down a minute!
+Dialogue: 0,0:14:59.34,0:15:01.91,Default,,0000,0000,0000,,Shut up! You took Pukau hostage,
+Dialogue: 0,0:15:01.91,0:15:05.58,Default,,0000,0000,0000,,and forced him to tell you\Nwhere our base is, didn't you?!
+Dialogue: 0,0:15:05.58,0:15:07.89,Default,,0000,0000,0000,,That would be disgraceful.
+Dialogue: 0,0:15:09.89,0:15:13.26,Default,,0000,0000,0000,,Rapa Nui, I'm not a hostage!
+Dialogue: 0,0:15:13.26,0:15:16.93,Default,,0000,0000,0000,,They just asked me to lead\Nthem here, so I brought them!
+Dialogue: 0,0:15:16.93,0:15:20.26,Default,,0000,0000,0000,,They threatened you, to make you say that!
+Dialogue: 0,0:15:20.26,0:15:23.60,Default,,0000,0000,0000,,It's the truth! These people\Naren't bad, I tell you!
+Dialogue: 0,0:15:23.60,0:15:27.94,Default,,0000,0000,0000,,Look, he doesn't get mad, even when I do this!
+Dialogue: 0,0:15:27.94,0:15:31.61,Default,,0000,0000,0000,,It's not true! This is all a strategy,\Nto get us to let our guards down!
+Dialogue: 0,0:15:31.61,0:15:33.38,Default,,0000,0000,0000,,You misunderstand.
+Dialogue: 0,0:15:33.38,0:15:37.62,Default,,0000,0000,0000,,We just want to know how\Nto get out of Ape's Concert.
+Dialogue: 0,0:15:37.62,0:15:40.28,Default,,0000,0000,0000,,And once you find out?
+Dialogue: 0,0:15:40.28,0:15:42.95,Default,,0000,0000,0000,,You're planning to take all the\Ntreasures out of these shipwrecks,
+Dialogue: 0,0:15:42.95,0:15:44.29,Default,,0000,0000,0000,,and run off with them!
+Dialogue: 0,0:15:44.29,0:15:48.53,Default,,0000,0000,0000,,Believe me, Rapa Nui, these guys,\Nat least, wouldn't do that.
+Dialogue: 0,0:15:48.53,0:15:51.30,Default,,0000,0000,0000,,How can I believe the words of a grown-up?!
+Dialogue: 0,0:15:51.30,0:15:53.63,Default,,0000,0000,0000,,Of course they're out to get the treasure!
+Dialogue: 0,0:15:53.63,0:15:55.30,Default,,0000,0000,0000,,This is going nowhere.
+Dialogue: 0,0:15:55.30,0:15:56.90,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:15:56.90,0:16:00.24,Default,,0000,0000,0000,,Look! Usopp's specially made lunch is ready!
+Dialogue: 0,0:16:00.24,0:16:02.57,Default,,0000,0000,0000,,Yahoo! Food!
+Dialogue: 0,0:16:02.57,0:16:04.58,Default,,0000,0000,0000,,You guys want some, too?
+Dialogue: 0,0:16:04.58,0:16:06.58,Default,,0000,0000,0000,,Can we?
+Dialogue: 0,0:16:06.58,0:16:08.91,Default,,0000,0000,0000,,I can't vouch for the taste, though.
+Dialogue: 0,0:16:08.91,0:16:11.25,Default,,0000,0000,0000,,Who asked you?
+Dialogue: 0,0:16:11.25,0:16:13.92,Default,,0000,0000,0000,,Yum! Did you really make this?
+Dialogue: 0,0:16:13.92,0:16:18.26,Default,,0000,0000,0000,,There's nothing I can't do. Hey, Luffy!\NDon't eat those all yourself!
+Dialogue: 0,0:16:18.26,0:16:20.59,Default,,0000,0000,0000,,They're not as good as Sanji's,\Nbut they are just regular yummy.
+Dialogue: 0,0:16:20.59,0:16:24.46,Default,,0000,0000,0000,,--Oh, thanks. I lived alone for a long time and all.\N--There are some children over there\Nwho look like they'd like some.
+Dialogue: 0,0:16:25.60,0:16:27.60,Default,,0000,0000,0000,,Hey, come on down, guys!
+Dialogue: 0,0:16:27.60,0:16:29.27,Default,,0000,0000,0000,,These are delicious!
+Dialogue: 0,0:16:29.27,0:16:31.94,Default,,0000,0000,0000,,--Oh, can we really?\N--All right!
+Dialogue: 0,0:16:32.97,0:16:35.27,Default,,0000,0000,0000,,Don't let them sucker you in with food!
+Dialogue: 0,0:16:35.27,0:16:39.61,Default,,0000,0000,0000,,Have you forgotten your\Npride as Pumpkin Pirates?!
+Dialogue: 0,0:16:39.61,0:16:41.61,Default,,0000,0000,0000,,Rapa Nui!
+Dialogue: 0,0:16:41.61,0:16:44.95,Default,,0000,0000,0000,,Pride won't fill your belly.
+Dialogue: 0,0:16:44.95,0:16:48.35,Default,,0000,0000,0000,,Huh? You guys came from the East Blue?
+Dialogue: 0,0:16:49.62,0:16:50.96,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:50.96,0:16:53.96,Default,,0000,0000,0000,,Which means, you must have\Ngone past Reverse Mountain, huh?
+Dialogue: 0,0:16:53.96,0:16:56.29,Default,,0000,0000,0000,,You've got guts!
+Dialogue: 0,0:16:56.29,0:17:00.23,Default,,0000,0000,0000,,Yes, we've gone through\Nmany adventures up to now.
+Dialogue: 0,0:17:00.23,0:17:03.23,Default,,0000,0000,0000,,We've dueled with giants, and sea\Nserpents that swallow whole islands,
+Dialogue: 0,0:17:03.23,0:17:06.34,Default,,0000,0000,0000,,and even saved a country\Nfrom a secret society.
+Dialogue: 0,0:17:06.34,0:17:08.57,Default,,0000,0000,0000,,--Wow, really?\N--Incredible!
+Dialogue: 0,0:17:08.57,0:17:11.24,Default,,0000,0000,0000,,The only reason we got\Nthrough those predicaments
+Dialogue: 0,0:17:11.24,0:17:14.91,Default,,0000,0000,0000,,is because we had my wisdom and bravery!
+Dialogue: 0,0:17:14.91,0:17:19.78,Default,,0000,0000,0000,,Out of reverence for that,\Neveryone calls me "Captain--"
+Dialogue: 0,0:17:20.92,0:17:22.25,Default,,0000,0000,0000,,What was that for?!
+Dialogue: 0,0:17:22.25,0:17:25.29,Default,,0000,0000,0000,,Stop sputtering when others are eating.
+Dialogue: 0,0:17:32.93,0:17:36.03,Default,,0000,0000,0000,,Rapa Nui, forgive me!
+Dialogue: 0,0:17:36.03,0:17:40.27,Default,,0000,0000,0000,,Forgive my shameful self! I spent\N50 years researching a way
+Dialogue: 0,0:17:40.27,0:17:44.04,Default,,0000,0000,0000,,to save you from the Rainbow Mist,
+Dialogue: 0,0:17:44.04,0:17:47.28,Default,,0000,0000,0000,,I've finally managed to get\Nmyself inside the mist,
+Dialogue: 0,0:17:47.28,0:17:50.62,Default,,0000,0000,0000,,but thanks to my carelessness,\Nwe can't get out.
+Dialogue: 0,0:17:50.62,0:17:52.95,Default,,0000,0000,0000,,I'm a failure as a pirate professor!
+Dialogue: 0,0:17:52.95,0:17:55.62,Default,,0000,0000,0000,,But I will endure my shame to ask you,
+Dialogue: 0,0:17:55.62,0:18:00.56,Default,,0000,0000,0000,,if you know a way, please tell me!\NHow do we get out of this mist?
+Dialogue: 0,0:18:00.56,0:18:05.90,Default,,0000,0000,0000,,And then, we can leave here,\Ntogether, and go back to our home.
+Dialogue: 0,0:18:05.90,0:18:08.47,Default,,0000,0000,0000,,There is no way out.
+Dialogue: 0,0:18:08.47,0:18:12.57,Default,,0000,0000,0000,,And even if I did know of one,\NI wouldn't tell you.
+Dialogue: 0,0:18:12.57,0:18:16.67,Default,,0000,0000,0000,,I still don't trust you guys, after all.
+Dialogue: 0,0:18:18.24,0:18:20.24,Default,,0000,0000,0000,,And you call yourselves friends?
+Dialogue: 0,0:18:20.24,0:18:21.91,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:21.91,0:18:25.92,Default,,0000,0000,0000,,Never mind us, Pops here\Nis your friend, isn't he?
+Dialogue: 0,0:18:25.92,0:18:29.59,Default,,0000,0000,0000,,Tell me, if you can't trust\Nyour friends, who can you trust?
+Dialogue: 0,0:18:29.59,0:18:31.92,Default,,0000,0000,0000,,You keep out of this!
+Dialogue: 0,0:18:31.92,0:18:36.93,Default,,0000,0000,0000,,You expect me to just believe that\N50 years have suddenly gone by?
+Dialogue: 0,0:18:36.93,0:18:38.93,Default,,0000,0000,0000,,Believe it!
+Dialogue: 0,0:18:38.93,0:18:42.93,Default,,0000,0000,0000,,No matter how much time has\Npassed, or how different he looks,
+Dialogue: 0,0:18:42.93,0:18:45.94,Default,,0000,0000,0000,,if he's one of your friends, who fell\Nin under the same banner as you,
+Dialogue: 0,0:18:45.94,0:18:47.27,Default,,0000,0000,0000,,you should know each other!
+Dialogue: 0,0:18:47.27,0:18:51.71,Default,,0000,0000,0000,,The color of your flag may fade,\Nbut friendship is forever, you know!
+Dialogue: 0,0:18:56.61,0:18:58.28,Default,,0000,0000,0000,,Oh, that's me.
+Dialogue: 0,0:18:58.28,0:19:01.89,Default,,0000,0000,0000,,Okay, okay, I'm coming. Huh?
+Dialogue: 0,0:19:01.89,0:19:03.22,Default,,0000,0000,0000,,Yes, hello?
+Dialogue: 0,0:19:03.22,0:19:05.22,Default,,0000,0000,0000,,What good does it do for you to answer?!
+Dialogue: 0,0:19:05.22,0:19:07.56,Default,,0000,0000,0000,,Well, well, Professor Henzo?
+Dialogue: 0,0:19:07.56,0:19:09.89,Default,,0000,0000,0000,,Huh? Who are you?
+Dialogue: 0,0:19:09.89,0:19:13.23,Default,,0000,0000,0000,,Huh? Who is this?
+Dialogue: 0,0:19:13.23,0:19:16.20,Default,,0000,0000,0000,,--Luffy, is that you?\N--Where are you?
+Dialogue: 0,0:19:16.20,0:19:18.90,Default,,0000,0000,0000,,You guys just took the ship on your own,
+Dialogue: 0,0:19:18.90,0:19:21.57,Default,,0000,0000,0000,,and put the rest of us in a big fix!
+Dialogue: 0,0:19:21.57,0:19:23.57,Default,,0000,0000,0000,,Huh? Is that you, Nami?
+Dialogue: 0,0:19:23.57,0:19:25.58,Default,,0000,0000,0000,,You're connected to Nami and the others?
+Dialogue: 0,0:19:25.58,0:19:30.25,Default,,0000,0000,0000,,--Nami?\N--Hold on, if we can talk to her...
+Dialogue: 0,0:19:30.25,0:19:32.25,Default,,0000,0000,0000,,Are we connecting to the outside world?!
+Dialogue: 0,0:19:32.25,0:19:34.25,Default,,0000,0000,0000,,Flip?! Flip, are you there?!
+Dialogue: 0,0:19:34.25,0:19:36.59,Default,,0000,0000,0000,,Yes, this is Flip!
+Dialogue: 0,0:19:36.59,0:19:38.59,Default,,0000,0000,0000,,Professor Henzo, where are you?
+Dialogue: 0,0:19:38.59,0:19:41.19,Default,,0000,0000,0000,,I'm inside the Rainbow Mist.
+Dialogue: 0,0:19:41.19,0:19:42.96,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:42.96,0:19:44.26,Default,,0000,0000,0000,,The Rainbow...
+Dialogue: 0,0:19:44.26,0:19:45.53,Default,,0000,0000,0000,,...Mist?
+Dialogue: 0,0:19:45.53,0:19:48.60,Default,,0000,0000,0000,,Currently, we are unable to get out.
+Dialogue: 0,0:19:48.60,0:19:50.87,Default,,0000,0000,0000,,I'm sorry, but could you come rescue us?
+Dialogue: 0,0:19:50.87,0:19:52.70,Default,,0000,0000,0000,,Someone's coming for us?!
+Dialogue: 0,0:19:52.70,0:19:55.61,Default,,0000,0000,0000,,We can go back to Luluka, right?!
+Dialogue: 0,0:19:55.61,0:19:57.28,Default,,0000,0000,0000,,Isn't that great, Rapa Nui?
+Dialogue: 0,0:19:57.28,0:20:01.95,Default,,0000,0000,0000,,There's no time. Tell Wetton to\Nequip the safety search gear
+Dialogue: 0,0:20:01.95,0:20:05.95,Default,,0000,0000,0000,,that I invented, and to come inside the mist.
+Dialogue: 0,0:20:05.95,0:20:07.62,Default,,0000,0000,0000,,Also--
+Dialogue: 0,0:20:07.62,0:20:08.95,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:20:08.95,0:20:11.96,Default,,0000,0000,0000,,That name you just said, Wetton,
+Dialogue: 0,0:20:11.96,0:20:15.29,Default,,0000,0000,0000,,is the same man who burned\Ndown the town of Luluka, isn't it?!
+Dialogue: 0,0:20:15.29,0:20:21.03,Default,,0000,0000,0000,,Wait! I had to team up with that man,\Nin order to save all of you!
+Dialogue: 0,0:20:21.03,0:20:25.64,Default,,0000,0000,0000,,Now it's all clear. You are not\Nthe Henzo that we know!
+Dialogue: 0,0:20:25.64,0:20:28.64,Default,,0000,0000,0000,,If you were one of the Pumpkin Pirates,
+Dialogue: 0,0:20:28.64,0:20:32.31,Default,,0000,0000,0000,,there's no way you'd become\None of Wetton's pawns!
+Dialogue: 0,0:20:32.31,0:20:34.31,Default,,0000,0000,0000,,Rapa Nui...
+Dialogue: 0,0:20:34.31,0:20:36.98,Default,,0000,0000,0000,,Don't call me by that name!
+Dialogue: 0,0:20:36.98,0:20:38.55,Default,,0000,0000,0000,,You traitor!
+Dialogue: 0,0:20:38.55,0:20:41.65,Default,,0000,0000,0000,,Hello? Hello?
+Dialogue: 0,0:20:41.65,0:20:45.89,Default,,0000,0000,0000,,My, my, so they really are\Ninside that mist, are they?
+Dialogue: 0,0:20:45.89,0:20:46.99,Default,,0000,0000,0000,,What do we do?
+Dialogue: 0,0:20:46.99,0:20:50.36,Default,,0000,0000,0000,,Isn't it obvious? We go inside the mist.
+Dialogue: 0,0:20:50.36,0:20:52.36,Default,,0000,0000,0000,,Just a minute!
+Dialogue: 0,0:20:54.00,0:20:55.33,Default,,0000,0000,0000,,I told you,
+Dialogue: 0,0:20:55.33,0:20:58.67,Default,,0000,0000,0000,,you aren't allowed to go into\NApe's Concert without my permission.
+Dialogue: 0,0:20:58.67,0:21:02.21,Default,,0000,0000,0000,,You keep acting on your own, and...
+Dialogue: 0,0:21:02.21,0:21:05.61,Default,,0000,0000,0000,,Say, where is that safety gear\Nthat he mentioned earlier?
+Dialogue: 0,0:21:05.61,0:21:07.95,Default,,0000,0000,0000,,--Oh, in here.\N--Thank you!
+Dialogue: 0,0:21:07.95,0:21:10.21,Default,,0000,0000,0000,,--No, don't mention it.\N--What are you giving it to them for?!
+Dialogue: 0,0:21:10.21,0:21:11.62,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:21:11.62,0:21:14.95,Default,,0000,0000,0000,,You fools! Seize them, at once!
+Dialogue: 0,0:21:14.95,0:21:16.45,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:17.96,0:21:21.33,Default,,0000,0000,0000,,And here, I was about to make\Na wisecrack about eloping.
+Dialogue: 0,0:21:28.63,0:21:30.00,Default,,0000,0000,0000,,Go, Nami!
+Dialogue: 0,0:21:30.00,0:21:35.27,Default,,0000,0000,0000,,Yeah! Leave Luffy and the others,\Nand the treasure, to me!
+Dialogue: 0,0:21:41.31,0:21:42.88,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:21:47.65,0:21:49.55,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:54.49,0:22:02.60,Default,,0000,0000,0000,,Ah, beyond the never-ending sky
+Dialogue: 0,0:22:02.60,0:22:13.04,Default,,0000,0000,0000,,The future that I once saw\Nis now starting to take shape
+Dialogue: 0,0:22:20.95,0:22:28.46,Default,,0000,0000,0000,,There are days where I almost lose to myself
+Dialogue: 0,0:22:28.46,0:22:36.83,Default,,0000,0000,0000,,When that happened, there was\Nsomeplace warm I could go
+Dialogue: 0,0:22:36.83,0:22:42.97,Default,,0000,0000,0000,,The friends I took pride in\Nalways, without fail,
+Dialogue: 0,0:22:42.97,0:22:53.99,Default,,0000,0000,0000,,pushed me onwards, didn't they?
+Dialogue: 0,0:22:53.99,0:23:02.26,Default,,0000,0000,0000,,Ah, the stars are pouring\Ndown underneath the sky
+Dialogue: 0,0:23:02.26,0:23:04.93,Default,,0000,0000,0000,,This unique moment...
+Dialogue: 0,0:23:10.60,0:23:12.27,Default,,0000,0000,0000,,Hey, guys!
+Dialogue: 0,0:23:12.27,0:23:13.94,Default,,0000,0000,0000,,Oh, it's you, Nami.
+Dialogue: 0,0:23:13.94,0:23:15.61,Default,,0000,0000,0000,,What do you mean, "oh, it's you"?!
+Dialogue: 0,0:23:15.61,0:23:18.61,Default,,0000,0000,0000,,And after I came all the way\Nhere just to rescue you!
+Dialogue: 0,0:23:18.61,0:23:19.94,Default,,0000,0000,0000,,So, where's Luffy?
+Dialogue: 0,0:23:19.94,0:23:21.61,Default,,0000,0000,0000,,He's not here.
+Dialogue: 0,0:23:21.61,0:23:24.35,Default,,0000,0000,0000,,He's disappeared beyond the mist.
+Dialogue: 0,0:23:24.35,0:23:26.28,Default,,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:23:26.28,0:23:27.59,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.59,0:23:30.96,Default,,0000,0000,0000,,"An Inevitable Melee!\NWetton's Schemes and the Rainbow Tower"
+Dialogue: 0,0:23:30.96,0:23:33.29,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.29,0:23:37.80,Default,,0000,0000,0000,,

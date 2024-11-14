@@ -1,0 +1,344 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.00,0:00:14.64,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.64,0:00:17.54,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.54,0:00:20.38,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.38,0:00:23.48,Default,,0000,0000,0000,,As long as people\Nseek the answer of freedom,
+Dialogue: 0,0:00:23.48,0:00:26.12,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:35.03,0:00:41.20,Default,,0000,0000,0000,,I only believe in the future --\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.20,0:00:46.54,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.54,0:00:52.54,Default,,0000,0000,0000,,It's too bright,\Nbut I want to gaze at it
+Dialogue: 0,0:00:52.54,0:00:56.15,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.15,0:00:59.55,Default,,0000,0000,0000,,I'm really really stuck on you
+Dialogue: 0,0:00:59.55,0:01:05.99,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:05.99,0:01:09.33,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.33,0:01:15.20,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.14,0:01:24.44,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.44,0:01:30.58,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.58,0:01:33.59,Default,,0000,0000,0000,,I don't really\Nneed everything to add up
+Dialogue: 0,0:01:33.59,0:01:36.76,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.76,0:01:40.36,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.36,0:01:45.90,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:50.07,0:01:59.41,On Top,,0000,0000,0000,,"Rainbase"                 "Alubarna"\N      "Yuba" "Erumalu" "Nanohana" "Katorea"\N"Spiders Café"
+Dialogue: 0,0:01:52.50,0:01:56.04,Default,,0000,0000,0000,,Three years have passed\Nsince a single drop of rain fell
+Dialogue: 0,0:01:56.04,0:01:57.91,Default,,0000,0000,0000,,in the kingdom of oases.
+Dialogue: 0,0:01:57.91,0:02:02.21,Default,,0000,0000,0000,,Seeing hope beyond turmoil,\Nthe people take up weapons.
+Dialogue: 0,0:02:02.21,0:02:04.08,Default,,0000,0000,0000,,Fanning the flames\Nof rebellion is Crocodile.
+Dialogue: 0,0:02:04.08,0:02:05.65,Default,,0000,0000,0000,,To stop his scheme,
+Dialogue: 0,0:02:05.65,0:02:08.82,Default,,0000,0000,0000,,Luffy and company stormed\Nthe enemy hideout in Rainbase,
+Dialogue: 0,0:02:08.82,0:02:11.26,Default,,0000,0000,0000,,but they wound up captured instead.
+Dialogue: 0,0:02:11.26,0:02:13.89,Default,,0000,0000,0000,,What is the operation Crocodile speaks of?
+Dialogue: 0,0:02:13.89,0:02:19.10,Default,,0000,0000,0000,,Will Vivi's wish be swallowed\Nup by the burning land?
+Dialogue: 0,0:02:19.10,0:02:23.10,Default,,0000,0000,0000,,It just turned noon.\NThe operation is beginning.
+Dialogue: 0,0:02:27.01,0:02:31.61,Default,,0000,0000,0000,,"Operation Utopia Commences!\NThe Swell of Rebellion Stirs"
+Dialogue: 0,0:02:36.18,0:02:39.08,Default,,0000,0000,0000,,Don't hold suspicion, Koza.
+Dialogue: 0,0:02:40.95,0:02:46.36,Default,,0000,0000,0000,,You know His Majesty's\Ncharacter very well.
+Dialogue: 0,0:02:46.36,0:02:49.86,Default,,0000,0000,0000,,All you old people say that.
+Dialogue: 0,0:02:49.86,0:02:55.33,Default,,0000,0000,0000,,I didn't follow you here to\NYuba for the king's sake.
+Dialogue: 0,0:02:58.64,0:03:00.94,Default,,0000,0000,0000,,The rebel army is over\N100,000 strong now!
+Dialogue: 0,0:03:00.94,0:03:03.88,Default,,0000,0000,0000,,Yeah, I heard.
+Dialogue: 0,0:03:03.88,0:03:06.31,Default,,0000,0000,0000,,Apparently there've been casualties, too...
+Dialogue: 0,0:03:12.15,0:03:15.35,Default,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:03:15.35,0:03:22.59,Default,,0000,0000,0000,,Just a little rain will clear him\Nof these strange suspicions. Yes.
+Dialogue: 0,0:03:22.59,0:03:24.30,Default,,0000,0000,0000,,What on earth?!
+Dialogue: 0,0:03:24.30,0:03:27.60,Default,,0000,0000,0000,,--The canal's been destroyed!\N--Who would do this?!
+Dialogue: 0,0:03:27.60,0:03:30.60,Default,,0000,0000,0000,,Now we can't bring water to this town!
+Dialogue: 0,0:03:33.31,0:03:37.08,Default,,0000,0000,0000,,It hasn't rained for over a year now!
+Dialogue: 0,0:03:37.08,0:03:40.98,Default,,0000,0000,0000,,Erumalu is done for!
+Dialogue: 0,0:03:40.98,0:03:44.85,Default,,0000,0000,0000,,Don't hold suspicion, Koza...
+Dialogue: 0,0:03:49.12,0:03:52.82,Default,,0000,0000,0000,,I don't want to suspect you,\Nbut people are dying of thirst!
+Dialogue: 0,0:03:52.82,0:03:55.93,Default,,0000,0000,0000,,You may not be using it,\Nbut you do have it!
+Dialogue: 0,0:03:55.93,0:04:02.30,Default,,0000,0000,0000,,No. Wait for natural rain.\NDance Powder summons misfortune.
+Dialogue: 0,0:04:02.30,0:04:04.87,Default,,0000,0000,0000,,Just a little bit should be alright!
+Dialogue: 0,0:04:04.87,0:04:08.01,Default,,0000,0000,0000,,The rebellion might even stop\Nif there's at least some rain!
+Dialogue: 0,0:04:08.01,0:04:10.98,Default,,0000,0000,0000,,It would only result in a greater calamity.
+Dialogue: 0,0:04:10.98,0:04:15.91,Default,,0000,0000,0000,,It is not as easy to use as you think, Koza.
+Dialogue: 0,0:04:15.91,0:04:21.25,Default,,0000,0000,0000,,I can't stand to watch\Ntowns dry up anymore!
+Dialogue: 0,0:04:25.56,0:04:30.33,Default,,0000,0000,0000,,You haven't changed a bit\Nsince the old days.
+Dialogue: 0,0:04:30.33,0:04:35.57,Default,,0000,0000,0000,,I have changed. I can fight.
+Dialogue: 0,0:04:35.57,0:04:39.60,Default,,0000,0000,0000,,I'm going to...
+Dialogue: 0,0:04:39.60,0:04:44.64,Default,,0000,0000,0000,,I'm going to come here to take your rain!
+Dialogue: 0,0:04:50.68,0:04:53.72,Default,,0000,0000,0000,,Where is this country headed?
+Dialogue: 0,0:04:56.35,0:04:59.56,Default,,0000,0000,0000,,Where are we headed?
+Dialogue: 0,0:05:02.23,0:05:05.03,Default,,0000,0000,0000,,Where does the answer lie?
+Dialogue: 0,0:05:10.34,0:05:13.71,Default,,0000,0000,0000,,I have bad news, Koza!
+Dialogue: 0,0:05:13.47,0:05:17.41,On Top,,0000,0000,0000,,"Alubarna Palace"
+Dialogue: 0,0:05:13.71,0:05:17.54,Default,,0000,0000,0000,,T-Terrible news,\NChaka-sama! It's His Majesty!
+Dialogue: 0,0:05:17.54,0:05:20.75,Default,,0000,0000,0000,,What?! What are you saying?!
+Dialogue: 0,0:05:20.75,0:05:22.68,Default,,0000,0000,0000,,He vanished!
+Dialogue: 0,0:05:22.68,0:05:25.72,Default,,0000,0000,0000,,That's absurd!\NHave you searched everywhere?!
+Dialogue: 0,0:05:25.72,0:05:29.89,Default,,0000,0000,0000,,Yes! Not only the palace, but the\Ngarden and storehouses as well!
+Dialogue: 0,0:05:29.89,0:05:32.02,Default,,0000,0000,0000,,Could he have left\Nin the middle of the night?
+Dialogue: 0,0:05:32.02,0:05:34.56,Default,,0000,0000,0000,,Out of the question!\NThe king's security was top-notch,
+Dialogue: 0,0:05:34.56,0:05:36.93,Default,,0000,0000,0000,,and he couldn't have escaped our eyes!
+Dialogue: 0,0:05:36.93,0:05:39.26,Default,,0000,0000,0000,,Then... Then, why?
+Dialogue: 0,0:05:39.26,0:05:43.23,Default,,0000,0000,0000,,Why would the king hide himself\Njust before going to battle?!
+Dialogue: 0,0:05:43.23,0:05:46.34,Default,,0000,0000,0000,,Search! Outside the palace and the towns!
+Dialogue: 0,0:05:46.34,0:05:47.94,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:51.34,0:05:54.25,Default,,0000,0000,0000,,Pell excels in finding people,\Nbut as luck would have it,
+Dialogue: 0,0:05:54.25,0:05:58.15,Default,,0000,0000,0000,,he's busy conducting\Nreconnaissance in Rainbase...
+Dialogue: 0,0:05:58.15,0:06:00.75,Default,,0000,0000,0000,,What has happened to His Majesty?
+Dialogue: 0,0:06:00.75,0:06:04.12,Default,,0000,0000,0000,,I can't afford to act recklessly...
+Dialogue: 0,0:06:04.12,0:06:06.42,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:24.18,0:06:29.88,Default,,0000,0000,0000,,Just what are you planning\Nto do to Alabasta?!
+Dialogue: 0,0:06:29.88,0:06:34.92,Default,,0000,0000,0000,,Would you like to know the type of\Npeople I look down on most of all?
+Dialogue: 0,0:06:34.92,0:06:39.92,Default,,0000,0000,0000,,Hypocrites who treasure the\Nso-called "happiness of the people."
+Dialogue: 0,0:06:39.92,0:06:44.66,Default,,0000,0000,0000,,You intend to kill my father?!\NAs if you could ever do that!
+Dialogue: 0,0:06:44.66,0:06:50.24,Default,,0000,0000,0000,,There's no need to shout.\NI have no such intention.
+Dialogue: 0,0:06:50.24,0:06:52.27,Default,,0000,0000,0000,,He's not even worth killing.
+Dialogue: 0,0:06:52.27,0:06:57.31,Default,,0000,0000,0000,,I'm going to let Cobra taste\Nhumiliation far crueler than death.
+Dialogue: 0,0:06:59.08,0:07:01.45,Default,,0000,0000,0000,,Crueler than death?
+Dialogue: 0,0:07:04.55,0:07:08.39,Default,,0000,0000,0000,,That's no way for a princess\Nof a kingdom to look.
+Dialogue: 0,0:07:08.39,0:07:13.56,Default,,0000,0000,0000,,I'll ask one more time!\NJust what is Operation Utopia?! Tell me!
+Dialogue: 0,0:07:13.56,0:07:16.90,Default,,0000,0000,0000,,Now, now. Do you realize where\Nyou stand in this situation?
+Dialogue: 0,0:07:16.90,0:07:19.60,Default,,0000,0000,0000,,Answer the question!
+Dialogue: 0,0:07:19.60,0:07:22.13,Default,,0000,0000,0000,,You're a valiant princess.
+Dialogue: 0,0:07:22.13,0:07:26.40,Default,,0000,0000,0000,,But very well.\NThe operation has already begun.
+Dialogue: 0,0:07:26.40,0:07:32.21,Default,,0000,0000,0000,,I'll tell you about my plan\Nto end this country...
+Dialogue: 0,0:07:32.21,0:07:34.81,Default,,0000,0000,0000,,About Operation Utopia...
+Dialogue: 0,0:07:34.81,0:07:37.58,Default,,0000,0000,0000,,Terrible news,\NChaka-sama! It's His Majesty!
+Dialogue: 0,0:07:37.58,0:07:39.25,Default,,0000,0000,0000,,What is it?! Did you find him?!
+Dialogue: 0,0:07:39.25,0:07:42.82,Default,,0000,0000,0000,,Yes, sir! He's apparently in Nanohana!\NThe information is certain!
+Dialogue: 0,0:07:42.82,0:07:44.52,Default,,0000,0000,0000,,I see! That's a relief!
+Dialogue: 0,0:07:44.52,0:07:48.66,Default,,0000,0000,0000,,But... But, unbelievably enough...
+Dialogue: 0,0:07:48.66,0:07:51.30,Default,,0000,0000,0000,,C-Come again?!
+Dialogue: 0,0:07:54.50,0:07:55.60,Default,,0000,0000,0000,,--Koza!\N--Koza-san!
+Dialogue: 0,0:07:55.60,0:07:57.64,Default,,0000,0000,0000,,--Wait!\N--We're coming too!
+Dialogue: 0,0:07:57.64,0:07:59.77,Default,,0000,0000,0000,,Why suddenly now?!
+Dialogue: 0,0:08:02.04,0:08:04.84,Default,,0000,0000,0000,,Has he fallen as far as he can?!
+Dialogue: 0,0:08:04.84,0:08:07.05,Default,,0000,0000,0000,,Don't hold suspicion, Koza.
+Dialogue: 0,0:08:07.05,0:08:09.88,Default,,0000,0000,0000,,Why would he do something\Nthis nonsensical?!
+Dialogue: 0,0:08:14.95,0:08:19.39,On Top,,0000,0000,0000,,"Nanohana"
+Dialogue: 0,0:08:15.25,0:08:17.62,Default,,0000,0000,0000,,Y-Your Majesty?
+Dialogue: 0,0:08:17.62,0:08:19.49,Default,,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:08:19.49,0:08:24.06,Default,,0000,0000,0000,,Just as you heard.\NI am honestly apologizing.
+Dialogue: 0,0:08:24.06,0:08:31.60,Default,,0000,0000,0000,,It was I, Cobra, the king of Alabasta,\Nwho stole this country's rain!
+Dialogue: 0,0:08:31.60,0:08:34.61,Default,,0000,0000,0000,,Cobra-sama...\NHow can you joke like that?
+Dialogue: 0,0:08:34.61,0:08:35.61,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:08:35.61,0:08:37.28,Default,,0000,0000,0000,,It is no joke.
+Dialogue: 0,0:08:37.28,0:08:42.98,Default,,0000,0000,0000,,I used Dance Powder to keep the rain\Nin the capital city of Alubarna.
+Dialogue: 0,0:08:42.98,0:08:48.52,Default,,0000,0000,0000,,As li'l ol' king-- no, I mean, as a\Nrespected king, I cannot go thirsty.
+Dialogue: 0,0:08:48.52,0:08:51.52,Default,,0000,0000,0000,,T-That may be so,
+Dialogue: 0,0:08:51.52,0:08:55.99,Default,,0000,0000,0000,,but many have died due to lack\Nof food and water as a result!
+Dialogue: 0,0:08:55.99,0:08:56.93,Default,,0000,0000,0000,,Why would you allow--?!
+Dialogue: 0,0:08:56.93,0:09:01.73,Default,,0000,0000,0000,,I am aware of that, of course.\NAnd that many oases have dried up.
+Dialogue: 0,0:09:01.73,0:09:07.24,Default,,0000,0000,0000,,But some sacrifices are unavoidable\Nif we are to protect the country.
+Dialogue: 0,0:09:07.24,0:09:08.57,Default,,0000,0000,0000,,This is crazy!
+Dialogue: 0,0:09:08.57,0:09:11.84,Default,,0000,0000,0000,,You knew how miserable things were,\Nyet you only helped yourself?!
+Dialogue: 0,0:09:11.84,0:09:15.91,Default,,0000,0000,0000,,That's far too selfish even for you, King!
+Dialogue: 0,0:09:17.22,0:09:22.39,Default,,0000,0000,0000,,Is a mere cretin like you trying\Nto talk back to me, the king?
+Dialogue: 0,0:09:22.39,0:09:28.19,Default,,0000,0000,0000,,I've come to Nanohana to\Napologize for what I've done.
+Dialogue: 0,0:09:28.19,0:09:30.66,Default,,0000,0000,0000,,What more do you want?
+Dialogue: 0,0:09:30.66,0:09:33.77,Default,,0000,0000,0000,,My brother died in Yuba, you know...
+Dialogue: 0,0:09:35.97,0:09:40.07,Default,,0000,0000,0000,,I have come all the way to\Nthis city for one other reason.
+Dialogue: 0,0:09:40.07,0:09:45.58,Default,,0000,0000,0000,,As you know, Dance Powder is\Noutlawed by the World Government.
+Dialogue: 0,0:09:45.58,0:09:47.85,Default,,0000,0000,0000,,If word of its use is leaked outside,
+Dialogue: 0,0:09:47.85,0:09:51.52,Default,,0000,0000,0000,,Navy Headquarters will take\Naction and destroy said country.
+Dialogue: 0,0:09:51.52,0:09:53.38,Default,,0000,0000,0000,,This must be avoided.
+Dialogue: 0,0:09:53.38,0:09:58.39,Default,,0000,0000,0000,,However, you may remember that\Nlarge amounts of Dance Powder
+Dialogue: 0,0:09:58.39,0:10:01.39,Default,,0000,0000,0000,,were found being smuggled\Ninto this town two years ago.
+Dialogue: 0,0:10:01.39,0:10:07.13,Default,,0000,0000,0000,,It is necessary to eliminate all\Ntraces of that incident. Understand?
+Dialogue: 0,0:10:08.20,0:10:09.53,Default,,0000,0000,0000,,You don't mean...
+Dialogue: 0,0:10:09.53,0:10:14.24,Default,,0000,0000,0000,,That's right! If we are to be rid\Nof that terrible incident forever,
+Dialogue: 0,0:10:14.24,0:10:17.28,Default,,0000,0000,0000,,we must be rid of this city and all of you!
+Dialogue: 0,0:10:18.48,0:10:20.55,Default,,0000,0000,0000,,--W-What?!\N--That's insane!
+Dialogue: 0,0:10:20.55,0:10:23.45,Default,,0000,0000,0000,,We have to die just 'cause you ordered it?!
+Dialogue: 0,0:10:23.45,0:10:26.02,Default,,0000,0000,0000,,Hey! King!
+Dialogue: 0,0:10:26.02,0:10:28.32,Default,,0000,0000,0000,,So it was all your fault!
+Dialogue: 0,0:10:28.32,0:10:29.69,Default,,0000,0000,0000,,It's...
+Dialogue: 0,0:10:29.69,0:10:36.29,Default,,0000,0000,0000,,It's because you steal the rain that\Nall the towns are drying up, jerk!
+Dialogue: 0,0:10:47.64,0:10:49.54,Default,,0000,0000,0000,,I'm gonna avenge everyone...
+Dialogue: 0,0:10:49.54,0:10:50.68,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:10:50.68,0:10:53.18,Default,,0000,0000,0000,,King...
+Dialogue: 0,0:10:55.68,0:10:59.62,Default,,0000,0000,0000,,Men! Burn Nanohana to the ground!
+Dialogue: 0,0:10:59.62,0:11:01.32,Default,,0000,0000,0000,,Yes, Sire!
+Dialogue: 0,0:11:04.46,0:11:06.92,Default,,0000,0000,0000,,--Koza!\N--Koza-san!
+Dialogue: 0,0:11:14.40,0:11:17.70,Default,,0000,0000,0000,,Koza. It's been a while.
+Dialogue: 0,0:11:17.70,0:11:21.94,Default,,0000,0000,0000,,What the hell do you think you're doing?!
+Dialogue: 0,0:11:36.75,0:11:40.19,Default,,0000,0000,0000,,What the hell do you think you're doing?!
+Dialogue: 0,0:11:40.19,0:11:42.36,Default,,0000,0000,0000,,--King!\N--Stop!
+Dialogue: 0,0:11:42.36,0:11:45.70,Default,,0000,0000,0000,,I came to apologize, as you can see.
+Dialogue: 0,0:11:45.70,0:11:47.63,Default,,0000,0000,0000,,Quit screwing around! Shut up!
+Dialogue: 0,0:11:47.63,0:11:51.70,Default,,0000,0000,0000,,Do you realize what you're saying?!\NThis is an incredible insult!
+Dialogue: 0,0:11:51.70,0:11:55.27,Default,,0000,0000,0000,,I am the one who's been\Nusing Dance Powder to--
+Dialogue: 0,0:11:55.27,0:11:57.31,Default,,0000,0000,0000,,I said shut up!
+Dialogue: 0,0:11:57.31,0:11:59.74,Default,,0000,0000,0000,,--Why are you so angry?\N--Koza...
+Dialogue: 0,0:11:59.74,0:12:01.65,Default,,0000,0000,0000,,--Surely even you can appreciate...\N--Sire...
+Dialogue: 0,0:12:01.65,0:12:03.65,Default,,0000,0000,0000,,Shut up! Shut up! Shut up!
+Dialogue: 0,0:12:03.65,0:12:07.08,Default,,0000,0000,0000,,--...that I...\N--You asshole!
+Dialogue: 0,0:12:07.08,0:12:11.92,Default,,0000,0000,0000,,Do you know how the people felt\Nas they died in the dried-up towns?!
+Dialogue: 0,0:12:11.92,0:12:14.73,Default,,0000,0000,0000,,They didn't have hatred or anger for you!
+Dialogue: 0,0:12:14.73,0:12:16.26,Default,,0000,0000,0000,,"It isn't the king's fault!"
+Dialogue: 0,0:12:16.26,0:12:17.90,Default,,0000,0000,0000,,"He's a great person!"
+Dialogue: 0,0:12:17.90,0:12:21.60,Default,,0000,0000,0000,,Even as they died, they all\Nsaid that, with faith in you!
+Dialogue: 0,0:12:21.60,0:12:25.47,Default,,0000,0000,0000,,But what happens to them now,
+Dialogue: 0,0:12:25.47,0:12:28.41,Default,,0000,0000,0000,,unless you at least lie\Nand say you're innocent?!
+Dialogue: 0,0:12:38.08,0:12:40.92,Default,,0000,0000,0000,,Cobra...
+Dialogue: 0,0:12:43.29,0:12:44.82,Default,,0000,0000,0000,,--Koza-san!\N--Leader!
+Dialogue: 0,0:12:44.82,0:12:46.36,Default,,0000,0000,0000,,Koza!
+Dialogue: 0,0:12:48.69,0:12:52.93,Default,,0000,0000,0000,,Well, I guess it's time!
+Dialogue: 0,0:12:52.93,0:13:01.07,Default,,0000,0000,0000,,Didn't we fight because\Nthe kingdom-- no, everyone--
+Dialogue: 0,0:13:01.07,0:13:05.28,Default,,0000,0000,0000,,wanted to know that answer?!
+Dialogue: 0,0:13:10.88,0:13:12.92,Default,,0000,0000,0000,,At the very least...
+Dialogue: 0,0:13:15.85,0:13:18.16,Default,,0000,0000,0000,,...that's why I fought...
+Dialogue: 0,0:13:24.90,0:13:27.00,Default,,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:13:38.81,0:13:40.24,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:13:40.24,0:13:44.52,Default,,0000,0000,0000,,A giant ship is about to crash! Run!
+Dialogue: 0,0:13:48.52,0:13:51.12,Default,,0000,0000,0000,,What is that ship?!
+Dialogue: 0,0:14:03.83,0:14:06.40,Default,,0000,0000,0000,,Mommy!
+Dialogue: 0,0:14:08.31,0:14:10.44,Default,,0000,0000,0000,,I-It's toppling over!
+Dialogue: 0,0:14:17.72,0:14:22.62,Default,,0000,0000,0000,,For a final operation,\Nthat sure lacked exertion.
+Dialogue: 0,0:14:22.62,0:14:25.82,Default,,0000,0000,0000,,Have we ever had any\Nexerting work before this?
+Dialogue: 0,0:14:29.59,0:14:33.80,Default,,0000,0000,0000,,We did it! Now light the\Nfires and let's retreat!
+Dialogue: 0,0:14:33.80,0:14:36.00,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:36.00,0:14:39.20,Default,,0000,0000,0000,,I just can't feel relaxed without this on!
+Dialogue: 0,0:14:41.24,0:14:44.38,Default,,0000,0000,0000,,Koza! Say something! Koza! Hey!
+Dialogue: 0,0:14:46.14,0:14:48.75,Default,,0000,0000,0000,,--The royal army disappeared!\N--What?!
+Dialogue: 0,0:14:50.68,0:14:54.12,Default,,0000,0000,0000,,How deux you like my kingliness?!
+Dialogue: 0,0:14:54.12,0:14:57.59,Default,,0000,0000,0000,,That was great, Mr. 2, Bon Clay-sama!
+Dialogue: 0,0:14:59.96,0:15:01.13,Default,,0000,0000,0000,,Put out the fires!
+Dialogue: 0,0:15:01.13,0:15:03.46,Default,,0000,0000,0000,,The damn royal army lit fires and ran off!
+Dialogue: 0,0:15:03.46,0:15:06.36,Default,,0000,0000,0000,,--Hurry!\N--Put out the fires!
+Dialogue: 0,0:15:06.36,0:15:11.20,Default,,0000,0000,0000,,Now to meet up with Mr. 2 outside town.
+Dialogue: 0,0:15:11.20,0:15:13.50,Default,,0000,0000,0000,,Alubarna's the finale.
+Dialogue: 0,0:15:14.81,0:15:18.04,Default,,0000,0000,0000,,I look forward to it.
+Dialogue: 0,0:15:18.04,0:15:21.31,Default,,0000,0000,0000,,Vague! My favorite word is "vague"!
+Dialogue: 0,0:15:21.31,0:15:25.12,Default,,0000,0000,0000,,Now whether or not the king\Nwill stay king is vague!
+Dialogue: 0,0:15:25.12,0:15:26.98,Default,,0000,0000,0000,,The operation's a success!
+Dialogue: 0,0:15:26.98,0:15:28.35,Default,,0000,0000,0000,,Where's Bunchi?!
+Dialogue: 0,0:15:28.35,0:15:32.26,Default,,0000,0000,0000,,He's west of town, Mr. 2, Bon Clay-sama!
+Dialogue: 0,0:15:32.26,0:15:37.40,Default,,0000,0000,0000,,Huh? The king turned\Ninto a weird ballerina...
+Dialogue: 0,0:15:37.40,0:15:39.06,Default,,0000,0000,0000,,It's no use! It won't go out!
+Dialogue: 0,0:15:39.06,0:15:42.07,Default,,0000,0000,0000,,Damn the king!
+Dialogue: 0,0:15:42.07,0:15:45.00,Default,,0000,0000,0000,,He was a fake!
+Dialogue: 0,0:15:45.00,0:15:47.27,Default,,0000,0000,0000,,This is bad! Everyone's being tricked!
+Dialogue: 0,0:15:47.27,0:15:49.17,Default,,0000,0000,0000,,I have to tell 'em!
+Dialogue: 0,0:15:50.27,0:15:55.28,Default,,0000,0000,0000,,What a naughty little boy.\NWhat do you think he's discovered?
+Dialogue: 0,0:15:55.28,0:15:59.95,Default,,0000,0000,0000,,That damn imbecile\Nmade a careless slip-up.
+Dialogue: 0,0:15:59.95,0:16:01.22,Default,,0000,0000,0000,,Who're you?!
+Dialogue: 0,0:16:01.22,0:16:05.49,Default,,0000,0000,0000,,I take it there's no use in\Nasking you to stay quiet.
+Dialogue: 0,0:16:05.49,0:16:06.86,Default,,0000,0000,0000,,Water! We need more water!
+Dialogue: 0,0:16:06.86,0:16:09.56,Default,,0000,0000,0000,,Wait! That's for my shop!\NCan you pay for it?!
+Dialogue: 0,0:16:09.56,0:16:12.06,Default,,0000,0000,0000,,Not now, you idiot! The town is on fire!
+Dialogue: 0,0:16:12.06,0:16:14.77,Default,,0000,0000,0000,,--Put out the fires!\N--Water!
+Dialogue: 0,0:16:14.77,0:16:17.77,Default,,0000,0000,0000,,It's no use! We can't\Nkeep up with the fire!
+Dialogue: 0,0:16:17.77,0:16:19.90,Default,,0000,0000,0000,,We should probably run for it!
+Dialogue: 0,0:16:19.90,0:16:24.98,Default,,0000,0000,0000,,Hang in there, Koza!\NYou're not the type to die like this!
+Dialogue: 0,0:16:30.15,0:16:32.52,Default,,0000,0000,0000,,Hey! Take Koza!
+Dialogue: 0,0:16:32.52,0:16:34.85,Default,,0000,0000,0000,,Little boy! Say something!
+Dialogue: 0,0:16:34.85,0:16:38.99,Default,,0000,0000,0000,,This is terrible! Not even children are safe!
+Dialogue: 0,0:16:38.99,0:16:40.66,Default,,0000,0000,0000,,I-It's not...
+Dialogue: 0,0:16:40.66,0:16:43.79,Default,,0000,0000,0000,,What's that?! I'll stop\Nthe bleeding! Don't talk!
+Dialogue: 0,0:16:43.79,0:16:46.63,Default,,0000,0000,0000,,It's not what you think!\NEveryone's being tricked!
+Dialogue: 0,0:16:46.63,0:16:49.50,Default,,0000,0000,0000,,Hang in there, little boy!
+Dialogue: 0,0:16:49.50,0:16:50.97,Default,,0000,0000,0000,,Koza!
+Dialogue: 0,0:16:52.60,0:16:56.84,Default,,0000,0000,0000,,Let's... end this country.
+Dialogue: 0,0:16:58.68,0:17:05.05,Default,,0000,0000,0000,,Contact all of our branches!\NThis will be our final battle!
+Dialogue: 0,0:17:05.05,0:17:09.55,Default,,0000,0000,0000,,O-Okay, but we don't\Nhave nearly enough weapons!
+Dialogue: 0,0:17:09.55,0:17:11.89,Default,,0000,0000,0000,,No, we do now.
+Dialogue: 0,0:17:11.89,0:17:17.29,Default,,0000,0000,0000,,Know that ship that just crashed?\NIt was an armory ship.
+Dialogue: 0,0:17:17.29,0:17:20.76,Default,,0000,0000,0000,,--Seriously?!\N--Yeah! It was full of weapons!
+Dialogue: 0,0:17:20.76,0:17:24.74,Default,,0000,0000,0000,,It's almost like divine guidance.
+Dialogue: 0,0:17:27.00,0:17:32.74,Default,,0000,0000,0000,,Oh, really? A little pipsqueak\Nsaw me? So sorry! So, so sorry!
+Dialogue: 0,0:17:32.74,0:17:37.25,Default,,0000,0000,0000,,Sheesh. Now Mr. 4's team\Njust needs to do its thing...
+Dialogue: 0,0:17:37.25,0:17:40.52,Default,,0000,0000,0000,,Fatty and Old Hag know\Nhow to get things done!
+Dialogue: 0,0:17:40.52,0:17:44.99,Default,,0000,0000,0000,,Kidnapping the king\Nwill be nothing to them!
+Dialogue: 0,0:17:46.12,0:17:48.59,Default,,0000,0000,0000,,Hear me, rebel army!
+Dialogue: 0,0:17:48.59,0:17:51.73,Default,,0000,0000,0000,,The Alabasta of old is long dead!
+Dialogue: 0,0:17:51.73,0:17:56.73,Default,,0000,0000,0000,,This is the final battle!\NWe're going to capture Alubarna!
+Dialogue: 0,0:17:56.73,0:18:01.21,Default,,0000,0000,0000,,We're going to launch an all-out assault!
+Dialogue: 0,0:18:01.21,0:18:02.71,Default,,0000,0000,0000,,The king must pay!
+Dialogue: 0,0:18:02.71,0:18:05.68,Default,,0000,0000,0000,,We'll build a new country!
+Dialogue: 0,0:18:08.18,0:18:10.35,On Top,,0000,0000,0000,,"Meanwhile, at Alubarna Palace"
+Dialogue: 0,0:18:08.68,0:18:10.61,Default,,0000,0000,0000,,Nonsense!
+Dialogue: 0,0:18:10.61,0:18:14.79,Default,,0000,0000,0000,,Cobra-sama would never do\Nsuch a thing! It must be a mistake!
+Dialogue: 0,0:18:14.79,0:18:18.56,Default,,0000,0000,0000,,But the time between his disappearance\Nand his arrival fit perfectly!
+Dialogue: 0,0:18:18.56,0:18:22.76,Default,,0000,0000,0000,,Excuses no longer hold any water!
+Dialogue: 0,0:18:22.76,0:18:25.66,Default,,0000,0000,0000,,News of the Nanohana incident\Nhave spread throughout Alabasta,
+Dialogue: 0,0:18:25.66,0:18:27.43,Default,,0000,0000,0000,,and rebel soldiers\Neverywhere have responded!
+Dialogue: 0,0:18:27.43,0:18:30.43,Default,,0000,0000,0000,,Not only that, the citizens\Nwho had faith in His Majesty
+Dialogue: 0,0:18:30.43,0:18:32.97,Default,,0000,0000,0000,,have begun taking up weapons\Nout of hatred for him!
+Dialogue: 0,0:18:32.97,0:18:34.77,Default,,0000,0000,0000,,Their numbers are unknown!
+Dialogue: 0,0:18:34.77,0:18:37.78,Default,,0000,0000,0000,,The entire country is infuriated\Nand heading for Alubarna!
+Dialogue: 0,0:18:37.78,0:18:40.84,Default,,0000,0000,0000,,There's no stopping things now!
+Dialogue: 0,0:18:45.08,0:18:50.85,Default,,0000,0000,0000,,Please, make your decision!\NWe will obey you!
+Dialogue: 0,0:18:53.09,0:18:54.73,Default,,0000,0000,0000,,How can this be?!
+Dialogue: 0,0:18:54.73,0:18:58.66,Default,,0000,0000,0000,,Even the king's words from\Nyesterday are blurred now!
+Dialogue: 0,0:18:58.66,0:19:01.70,Default,,0000,0000,0000,,In what do I put my trust?!
+Dialogue: 0,0:19:03.03,0:19:07.47,Default,,0000,0000,0000,,Very well! We need only\Nfulfill our given duties!
+Dialogue: 0,0:19:07.47,0:19:10.87,Default,,0000,0000,0000,,We are the royal guards\Nof the Alabasta Kingdom!
+Dialogue: 0,0:19:10.87,0:19:15.85,Default,,0000,0000,0000,,No kingdom should crumble\Nin the absence of its king!
+Dialogue: 0,0:19:15.85,0:19:19.55,Default,,0000,0000,0000,,Protect the truth you see before you!\NProtect this kingdom!
+Dialogue: 0,0:19:19.55,0:19:22.09,Default,,0000,0000,0000,,Counter the rebel army!
+Dialogue: 0,0:19:25.06,0:19:29.76,On Top,,0000,0000,0000,,"Rainbase"
+Dialogue: 0,0:19:33.83,0:19:36.17,Default,,0000,0000,0000,,What a horrifying plan...
+Dialogue: 0,0:19:38.97,0:19:41.51,Default,,0000,0000,0000,,Well? Do you like it?
+Dialogue: 0,0:19:41.51,0:19:46.51,Default,,0000,0000,0000,,The operation you once\Nparticipated in has now blossomed.
+Dialogue: 0,0:19:46.51,0:19:51.28,Default,,0000,0000,0000,,If you listen closely, you could\Nprobably hear the howls of Alabasta.
+Dialogue: 0,0:19:51.28,0:19:54.79,Default,,0000,0000,0000,,And they all think the same thing.
+Dialogue: 0,0:19:54.79,0:19:57.86,Default,,0000,0000,0000,,"Protect Alabasta."
+Dialogue: 0,0:19:57.86,0:20:02.26,Default,,0000,0000,0000,,"Protect Alabasta. Protect Alabasta."
+Dialogue: 0,0:20:02.26,0:20:04.50,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:20:04.50,0:20:06.86,Default,,0000,0000,0000,,How can you be so cruel?!
+Dialogue: 0,0:20:08.63,0:20:10.93,Default,,0000,0000,0000,,Isn't it just heartrending?
+Dialogue: 0,0:20:10.93,0:20:15.87,Default,,0000,0000,0000,,Love for the kingdom will be\Nwhat destroys the kingdom.
+Dialogue: 0,0:20:34.22,0:20:39.33,Default,,0000,0000,0000,,Is he stupid? Did he not hear what I said?
+Dialogue: 0,0:20:39.33,0:20:45.04,Default,,0000,0000,0000,,He's definitely stupid.\NBut that's also why he's our captain.
+Dialogue: 0,0:20:45.04,0:20:52.61,Default,,0000,0000,0000,,Crocodile! I will kick your ass...
+Dialogue: 0,0:20:54.24,0:20:59.05,Default,,0000,0000,0000,,So many moves I've made\Nto make it this far...
+Dialogue: 0,0:20:59.05,0:21:01.32,Default,,0000,0000,0000,,The sabotage to instigate the citizens.
+Dialogue: 0,0:21:01.32,0:21:04.86,Default,,0000,0000,0000,,Directing the royal army's misconduct.
+Dialogue: 0,0:21:04.86,0:21:10.29,Default,,0000,0000,0000,,Have you any idea why I'd go to\Nsuch lengths to attain this country?
+Dialogue: 0,0:21:10.29,0:21:13.20,Default,,0000,0000,0000,,As if I'd understand anything\Ninside your rotten head!
+Dialogue: 0,0:21:13.20,0:21:17.20,Default,,0000,0000,0000,,You really are a bad-mouthed princess.
+Dialogue: 0,0:21:21.24,0:21:22.54,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:21:22.54,0:21:26.61,Default,,0000,0000,0000,,Now, now. What are you\Ntrying to do, Miss Wednesday?
+Dialogue: 0,0:21:26.61,0:21:28.35,Default,,0000,0000,0000,,Stop you!
+Dialogue: 0,0:21:28.35,0:21:31.28,Default,,0000,0000,0000,,I'm going to stop you! There's still time!
+Dialogue: 0,0:21:31.28,0:21:34.62,Default,,0000,0000,0000,,If I can just get to Alubarna east of here...
+Dialogue: 0,0:21:34.62,0:21:40.62,Default,,0000,0000,0000,,If I can get there before the rebel army,\NI may be able to stop them!
+Dialogue: 0,0:21:43.39,0:21:49.77,Default,,0000,0000,0000,,I absolutely refuse to let you have your way!
+Dialogue: 0,0:21:49.77,0:21:51.40,Default,,0000,0000,0000,,Vivi!
+Dialogue: 0,0:22:05.58,0:22:09.85,Default,,0000,0000,0000,,I always wanted to talk about it
+Dialogue: 0,0:22:09.85,0:22:16.79,Default,,0000,0000,0000,,I couldn't even say half of it
+Dialogue: 0,0:22:16.79,0:22:27.10,Default,,0000,0000,0000,,I'm by your side, I glitter\Nevery time we share a dream
+Dialogue: 0,0:22:27.10,0:22:40.65,Default,,0000,0000,0000,,The smile you gently gave me\Nwas a very happy and kind one
+Dialogue: 0,0:22:40.65,0:22:43.02,Default,,0000,0000,0000,,Glory glory you're my shine
+Dialogue: 0,0:22:43.02,0:22:51.56,Default,,0000,0000,0000,,Because you're here, even\Nthese tears turn to courage
+Dialogue: 0,0:22:51.56,0:22:57.10,Default,,0000,0000,0000,,I want to be strong,\NI want to share with you
+Dialogue: 0,0:22:57.10,0:23:02.97,Default,,0000,0000,0000,,I'm sure I'll make it there
+Dialogue: 0,0:23:10.71,0:23:12.62,Default,,0000,0000,0000,,What is that insanely huge alligator?!
+Dialogue: 0,0:23:12.62,0:23:16.15,Default,,0000,0000,0000,,Wow! There's an alligator\Ngrowing from that banana!
+Dialogue: 0,0:23:16.15,0:23:16.99,Default,,0000,0000,0000,,Don't be stupid!
+Dialogue: 0,0:23:16.99,0:23:19.06,Default,,0000,0000,0000,,The alligator swallowed the key to our cell!
+Dialogue: 0,0:23:19.06,0:23:20.79,Default,,0000,0000,0000,,What?! What a troublesome gator!
+Dialogue: 0,0:23:20.79,0:23:23.19,Default,,0000,0000,0000,,What is that eyebrow freak\Ndoing at a time like this?!
+Dialogue: 0,0:23:23.19,0:23:26.83,Default,,0000,0000,0000,,Hang in there a little longer,\Neveryone! I will bring back help!
+Dialogue: 0,0:23:26.83,0:23:28.17,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.17,0:23:30.73,Default,,0000,0000,0000,,"The Terrifying Bananagators and Mr. Prince"
+Dialogue: 0,0:23:30.73,0:23:33.07,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.07,0:23:35.07,Default,,0000,0000,0000,,

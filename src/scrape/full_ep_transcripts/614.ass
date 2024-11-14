@@ -1,0 +1,329 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:49.39,0:02:52.69,Default,,0000,0000,0000,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:52.69,0:02:57.65,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:03:00.03,0:03:03.28,Default,,0000,0000,0000,,However, no one has ever fully explored it
+Dialogue: 0,0:03:03.28,0:03:06.41,Default,,0000,0000,0000,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:03:07.41,0:03:12.67,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:14.46,0:03:16.25,Default,,0000,0000,0000,,Now, Monkey D. Luffy,
+Dialogue: 0,0:03:16.25,0:03:19.13,Default,,0000,0000,0000,,a boy whose body turned to rubber
+Dialogue: 0,0:03:19.13,0:03:20.65,Default,,0000,0000,0000,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:20.65,0:03:22.34,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:23.05,0:03:26.51,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:29.81,0:03:32.33,Default,,0000,0000,0000,,After surviving a fierce battle,
+Dialogue: 0,0:03:32.33,0:03:34.99,Default,,0000,0000,0000,,the Straw Hats finally entered the New World,
+Dialogue: 0,0:03:34.99,0:03:37.15,Default,,0000,0000,0000,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:37.86,0:03:39.28,Default,,0000,0000,0000,,They landed on Punk Hazard;
+Dialogue: 0,0:03:39.28,0:03:41.75,Default,,0000,0000,0000,,an island with two parts, one \Nburning, the other frozen
+Dialogue: 0,0:03:41.75,0:03:46.16,Default,,0000,0000,0000,,and learned about the ruler of the \Nisland - Caesar Clown's motive.
+Dialogue: 0,0:03:48.62,0:03:50.58,Default,,0000,0000,0000,,Now, get off, children!
+Dialogue: 0,0:03:51.12,0:03:53.04,Default,,0000,0000,0000,,This is your home!
+Dialogue: 0,0:03:53.83,0:03:56.63,Default,,0000,0000,0000,,Don't ever go out on your own!
+Dialogue: 0,0:03:56.63,0:03:58.62,Default,,0000,0000,0000,,My head hurts!
+Dialogue: 0,0:03:58.62,0:04:00.99,Default,,0000,0000,0000,,Master, give me the candy now!
+Dialogue: 0,0:04:00.99,0:04:03.13,Default,,0000,0000,0000,,Of course, you can have it soon.
+Dialogue: 0,0:04:03.51,0:04:06.11,Default,,0000,0000,0000,,Relax and enjoy the candies in the room!
+Dialogue: 0,0:04:06.55,0:04:09.39,Default,,0000,0000,0000,,They are very, very delicious!
+Dialogue: 0,0:04:10.02,0:04:13.39,Default,,0000,0000,0000,,All while trying to escape Shinokuni,
+Dialogue: 0,0:04:13.39,0:04:17.11,Default,,0000,0000,0000,,along with their pirate ally \N- the Warlord - Trafalgar Law,
+Dialogue: 0,0:04:17.31,0:04:20.28,Default,,0000,0000,0000,,Luffy and the others are on \Nthe move to kidnap Caesar,
+Dialogue: 0,0:04:20.28,0:04:23.97,Default,,0000,0000,0000,,-- save the children, and \Nescape from the island.
+Dialogue: 0,0:04:45.76,0:04:50.06,Default,,0000,0000,0000,,"To Save Her Friends! Mocha \NRuns at the Risk of Her Life!"
+Dialogue: 0,0:04:52.43,0:04:54.14,Default,,0000,0000,0000,,Mocha!
+Dialogue: 0,0:04:54.14,0:04:56.10,Default,,0000,0000,0000,,Give us the candy!
+Dialogue: 0,0:04:58.94,0:05:01.28,Default,,0000,0000,0000,,--Sis!\N--Hurry up!
+Dialogue: 0,0:05:01.40,0:05:02.28,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:05:04.49,0:05:06.91,Default,,0000,0000,0000,,Get off of me! What are you doing?!
+Dialogue: 0,0:05:07.24,0:05:09.24,Default,,0000,0000,0000,,Calm down! It's a sedative.
+Dialogue: 0,0:05:13.08,0:05:15.29,Default,,0000,0000,0000,,Huh? Where am I?
+Dialogue: 0,0:05:15.29,0:05:16.71,Default,,0000,0000,0000,,It's nothing!
+Dialogue: 0,0:05:17.06,0:05:19.07,Default,,0000,0000,0000,,Oh no! Go after the children!
+Dialogue: 0,0:05:19.07,0:05:19.79,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:05:19.79,0:05:21.59,Default,,0000,0000,0000,,Give us the candy!
+Dialogue: 0,0:05:23.01,0:05:23.96,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:24.92,0:05:26.47,Default,,0000,0000,0000,,Milky Ball!
+Dialogue: 0,0:05:28.22,0:05:29.35,Default,,0000,0000,0000,,Again!
+Dialogue: 0,0:05:29.43,0:05:31.41,Default,,0000,0000,0000,,This is getting nowhere!
+Dialogue: 0,0:05:31.41,0:05:33.18,Default,,0000,0000,0000,,How far does Mocha have to run?!
+Dialogue: 0,0:05:33.18,0:05:34.64,Default,,0000,0000,0000,,Candy!
+Dialogue: 0,0:05:36.44,0:05:37.35,Default,,0000,0000,0000,,Sis!
+Dialogue: 0,0:05:38.94,0:05:40.65,Default,,0000,0000,0000,,Candy...
+Dialogue: 0,0:05:40.89,0:05:43.03,Default,,0000,0000,0000,,Candy!
+Dialogue: 0,0:05:46.68,0:05:48.28,Default,,0000,0000,0000,,Are you alright, Mocha?!
+Dialogue: 0,0:05:48.28,0:05:49.74,Default,,0000,0000,0000,,Chopper-chan!
+Dialogue: 0,0:05:49.97,0:05:51.83,Default,,0000,0000,0000,,Go ahead while we hold them!
+Dialogue: 0,0:05:52.04,0:05:53.20,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:05:53.99,0:05:56.25,Default,,0000,0000,0000,,Wait, Mocha!
+Dialogue: 0,0:05:56.50,0:05:58.58,Default,,0000,0000,0000,,Let's hold the kids here!
+Dialogue: 0,0:05:58.71,0:06:01.00,Default,,0000,0000,0000,,We won't let them go after Mocha!
+Dialogue: 0,0:06:02.38,0:06:05.88,Default,,0000,0000,0000,,Please, Mocha! Hang on, somehow!
+Dialogue: 0,0:06:12.93,0:06:16.48,DefaultLow,,0000,0000,0000,,THE BISCUIT ROOM
+Dialogue: 0,0:06:25.11,0:06:27.04,Default,,0000,0000,0000,,Wh-Where am I?
+Dialogue: 0,0:06:30.45,0:06:32.96,Default,,0000,0000,0000,,Wh-Wh-Wh-What're you... what're you doing?!
+Dialogue: 0,0:06:32.96,0:06:35.71,Default,,0000,0000,0000,,This is embarrassing! No! Put me down!
+Dialogue: 0,0:06:36.12,0:06:38.79,Default,,0000,0000,0000,,Shut up! This is no time \Nfor that kind of crap!
+Dialogue: 0,0:06:39.21,0:06:40.13,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:06:42.42,0:06:45.02,Default,,0000,0000,0000,,The deadly gas is flowing \Ninto the Biscuit Room?!
+Dialogue: 0,0:06:45.81,0:06:51.14,Default,,0000,0000,0000,,Oh no! It'll fill up B Building in no time!
+Dialogue: 0,0:06:51.14,0:06:53.06,Default,,0000,0000,0000,,Now you know. So shut up!
+Dialogue: 0,0:06:53.06,0:06:54.47,Default,,0000,0000,0000,,You're causing me a lot of trouble!
+Dialogue: 0,0:06:55.39,0:06:56.43,Default,,0000,0000,0000,,What do you want?!
+Dialogue: 0,0:06:56.52,0:06:58.02,Default,,0000,0000,0000,,The exit is not that way!
+Dialogue: 0,0:06:58.06,0:06:59.89,Default,,0000,0000,0000,,What?! You should've told me sooner!
+Dialogue: 0,0:07:00.19,0:07:02.87,Default,,0000,0000,0000,,Put me down before we \Ncatch up with my people!
+Dialogue: 0,0:07:02.87,0:07:04.54,Default,,0000,0000,0000,,Why do you have so much pride?!
+Dialogue: 0,0:07:04.54,0:07:06.61,Default,,0000,0000,0000,,I can just throw you away if you want!
+Dialogue: 0,0:07:07.32,0:07:08.24,Default,,0000,0000,0000,,What now?!
+Dialogue: 0,0:07:08.24,0:07:11.50,Default,,0000,0000,0000,,Is this the legendary sword - Shusui?!
+Dialogue: 0,0:07:11.50,0:07:14.66,Default,,0000,0000,0000,,Don't touch it! Shut up and \Njust hold on, you sword geek!
+Dialogue: 0,0:07:35.10,0:07:36.10,Default,,0000,0000,0000,,Where should I go?
+Dialogue: 0,0:07:36.43,0:07:41.56,Default,,0000,0000,0000,,I don't know which way I should go anymore!
+Dialogue: 0,0:07:43.48,0:07:44.86,Default,,0000,0000,0000,,Candy!
+Dialogue: 0,0:07:45.81,0:07:48.11,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:49.36,0:07:50.11,Default,,0000,0000,0000,,Mocha?!
+Dialogue: 0,0:07:50.11,0:07:52.28,Default,,0000,0000,0000,,Give us the candy!
+Dialogue: 0,0:07:52.86,0:07:53.66,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:53.66,0:07:55.49,Default,,0000,0000,0000,,Candy! Candy!
+Dialogue: 0,0:07:55.82,0:07:58.20,Default,,0000,0000,0000,,Konbu! Biyo! Stop! Please listen to me!
+Dialogue: 0,0:07:58.20,0:07:59.45,Default,,0000,0000,0000,,Candy!
+Dialogue: 0,0:07:59.45,0:08:01.85,Default,,0000,0000,0000,,Give me the candy!
+Dialogue: 0,0:08:03.43,0:08:04.99,Default,,0000,0000,0000,,--Mocha!\N--Oh no!
+Dialogue: 0,0:08:04.99,0:08:06.92,Default,,0000,0000,0000,,Some children took a detour!
+Dialogue: 0,0:08:07.52,0:08:09.88,Default,,0000,0000,0000,,Everybody, stop!
+Dialogue: 0,0:08:09.88,0:08:13.65,Default,,0000,0000,0000,,Oh no! If they get the candies, \Nwe have to start all over again!
+Dialogue: 0,0:08:13.65,0:08:16.05,Default,,0000,0000,0000,,We have to separate Mocha from the kids!
+Dialogue: 0,0:08:16.10,0:08:18.35,Default,,0000,0000,0000,,--Mil Fleurs...\N--Outta my way!
+Dialogue: 0,0:08:20.02,0:08:21.35,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:08:21.48,0:08:22.52,Default,,0000,0000,0000,,Milky Ball!
+Dialogue: 0,0:08:22.72,0:08:24.14,Default,,0000,0000,0000,,Gigantesco Mano!
+Dialogue: 0,0:08:27.82,0:08:29.57,Default,,0000,0000,0000,,Give us the candy!
+Dialogue: 0,0:08:30.01,0:08:31.94,Default,,0000,0000,0000,,--No!\N--Give it to us!
+Dialogue: 0,0:08:31.94,0:08:33.91,Default,,0000,0000,0000,,No, you can't have it!
+Dialogue: 0,0:08:33.91,0:08:35.68,Default,,0000,0000,0000,,It's not fair! You can't have it all!
+Dialogue: 0,0:08:35.68,0:08:37.98,Default,,0000,0000,0000,,If you eat it, you can't go home!
+Dialogue: 0,0:08:37.98,0:08:41.04,Default,,0000,0000,0000,,Don't you wanna see your father and mother?!
+Dialogue: 0,0:08:41.04,0:08:42.68,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:42.68,0:08:45.33,Default,,0000,0000,0000,,Just give us the candy already!
+Dialogue: 0,0:08:46.00,0:08:48.64,Default,,0000,0000,0000,,I want to go home!!
+Dialogue: 0,0:08:49.34,0:08:53.26,Default,,0000,0000,0000,,I want to go home with \Neverybody! Safe and healthy!
+Dialogue: 0,0:09:49.40,0:09:51.90,Default,,0000,0000,0000,,She ate them all!
+Dialogue: 0,0:09:51.90,0:09:52.78,Default,,0000,0000,0000,,Mocha!
+Dialogue: 0,0:09:52.78,0:09:54.11,Default,,0000,0000,0000,,What is she thinking?!
+Dialogue: 0,0:09:54.43,0:09:57.15,Default,,0000,0000,0000,,--Give them back to us!\N--Screw you!
+Dialogue: 0,0:09:57.15,0:09:59.58,Default,,0000,0000,0000,,How dare you eat them all, you jerk!
+Dialogue: 0,0:10:14.34,0:10:18.96,Default,,0000,0000,0000,,Mocha!!
+Dialogue: 0,0:10:20.72,0:10:23.89,Default,,0000,0000,0000,,No, spit them all out! \NMocha, can you hear me?!
+Dialogue: 0,0:10:24.21,0:10:26.10,Default,,0000,0000,0000,,Mocha!!
+Dialogue: 0,0:10:28.77,0:10:31.48,Default,,0000,0000,0000,,I told you what kind of drug they are!
+Dialogue: 0,0:10:33.07,0:10:34.02,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:35.28,0:10:38.61,Default,,0000,0000,0000,,Why shouldn't we eat the candy?
+Dialogue: 0,0:10:43.62,0:10:45.07,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:10:45.72,0:10:49.39,Default,,0000,0000,0000,,...that candy is a deadly poison!
+Dialogue: 0,0:10:50.12,0:10:51.67,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:54.17,0:10:55.46,Default,,0000,0000,0000,,Chopper-chan.
+Dialogue: 0,0:10:57.05,0:10:58.67,Default,,0000,0000,0000,,They're all...
+Dialogue: 0,0:11:00.97,0:11:02.82,Default,,0000,0000,0000,,...my friends!
+Dialogue: 0,0:11:09.48,0:11:10.68,Default,,0000,0000,0000,,It's a promise!
+Dialogue: 0,0:11:10.94,0:11:13.19,Default,,0000,0000,0000,,--I promise!\N--I promise!
+Dialogue: 0,0:11:13.31,0:11:14.65,Default,,0000,0000,0000,,I promise!
+Dialogue: 0,0:11:14.65,0:11:16.62,Default,,0000,0000,0000,,--I promise!\N--I promise!
+Dialogue: 0,0:11:16.62,0:11:18.07,Default,,0000,0000,0000,,I promise!
+Dialogue: 0,0:11:18.32,0:11:20.57,Default,,0000,0000,0000,,Don't do it!
+Dialogue: 0,0:11:21.45,0:11:22.78,Default,,0000,0000,0000,,I promise!
+Dialogue: 0,0:11:30.79,0:11:33.60,Default,,0000,0000,0000,,When we grow up,
+Dialogue: 0,0:11:35.53,0:11:38.34,Default,,0000,0000,0000,,let's set out to the sea!
+Dialogue: 0,0:11:38.56,0:11:39.99,Default,,0000,0000,0000,,To the sea?!
+Dialogue: 0,0:11:40.38,0:11:41.84,Default,,0000,0000,0000,,To fish?
+Dialogue: 0,0:11:41.84,0:11:45.05,Default,,0000,0000,0000,,No, fool! To go on an adventure!
+Dialogue: 0,0:11:45.05,0:11:47.98,Default,,0000,0000,0000,,We'll look for an island made \Nof gold and that sort of thing.
+Dialogue: 0,0:11:47.98,0:11:49.81,Default,,0000,0000,0000,,Sounds like fun!
+Dialogue: 0,0:11:50.06,0:11:55.27,Default,,0000,0000,0000,,When we get well and go home, \Nwe'll all be separated, right?
+Dialogue: 0,0:11:55.52,0:11:56.83,Default,,0000,0000,0000,,But if we all set out to
+Dialogue: 0,0:11:56.83,0:11:58.92,Default,,0000,0000,0000,,the sea when we grow up, we \Ncan see each other again!
+Dialogue: 0,0:11:58.92,0:12:03.82,Default,,0000,0000,0000,,Oh, that'll be great! We've \Nbecome such good friends now!
+Dialogue: 0,0:12:07.13,0:12:09.16,Default,,0000,0000,0000,,When do we set out to the sea?
+Dialogue: 0,0:12:12.33,0:12:14.29,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:12:15.50,0:12:17.42,Default,,0000,0000,0000,,When we turn 20 years old!
+Dialogue: 0,0:12:17.62,0:12:19.38,Default,,0000,0000,0000,,That'll take forever.
+Dialogue: 0,0:12:19.87,0:12:22.53,Default,,0000,0000,0000,,That makes it more exciting to wait for!
+Dialogue: 0,0:12:23.05,0:12:24.26,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:12:24.26,0:12:27.01,Default,,0000,0000,0000,,Okay, let's make a promise!
+Dialogue: 0,0:12:28.76,0:12:30.03,Default,,0000,0000,0000,,I promise!
+Dialogue: 0,0:12:39.28,0:12:41.95,Default,,0000,0000,0000,,So, the Master is a bad person?!
+Dialogue: 0,0:12:41.95,0:12:44.61,Default,,0000,0000,0000,,Yes, he's a very bad person.
+Dialogue: 0,0:12:44.61,0:12:46.87,Default,,0000,0000,0000,,But he's always very nice to us!
+Dialogue: 0,0:12:47.24,0:12:50.79,Default,,0000,0000,0000,,And he gives us the sweet candy everyday!
+Dialogue: 0,0:12:51.74,0:12:52.91,Default,,0000,0000,0000,,That's his trick.
+Dialogue: 0,0:12:53.04,0:12:55.71,Default,,0000,0000,0000,,What?! No way! But...
+Dialogue: 0,0:12:57.08,0:13:00.25,Default,,0000,0000,0000,,You children are his test subjects!
+Dialogue: 0,0:13:00.38,0:13:02.21,Default,,0000,0000,0000,,T-Test subjects?!
+Dialogue: 0,0:13:02.30,0:13:04.53,Default,,0000,0000,0000,,Open up, Mocha!
+Dialogue: 0,0:13:04.53,0:13:07.26,Default,,0000,0000,0000,,We're gonna go to the Biscuit Room!
+Dialogue: 0,0:13:07.39,0:13:08.76,Default,,0000,0000,0000,,Candy!
+Dialogue: 0,0:13:10.33,0:13:13.93,Default,,0000,0000,0000,,You kids were never sick from the beginning.
+Dialogue: 0,0:13:13.93,0:13:15.17,Default,,0000,0000,0000,,Th-That can't be...
+Dialogue: 0,0:13:15.17,0:13:17.44,Default,,0000,0000,0000,,Your giant body is proof.
+Dialogue: 0,0:13:18.21,0:13:21.33,Default,,0000,0000,0000,,I've heard turning people \Ninto giants has been
+Dialogue: 0,0:13:21.33,0:13:24.76,Default,,0000,0000,0000,,a project underway for hundreds \Nof years all over the world.
+Dialogue: 0,0:13:25.28,0:13:28.75,Default,,0000,0000,0000,,Which means they've kept \Nfailing at it for hundreds
+Dialogue: 0,0:13:28.75,0:13:31.20,Default,,0000,0000,0000,,of years and no one has succeeded yet.
+Dialogue: 0,0:13:31.76,0:13:34.41,Default,,0000,0000,0000,,You may not want to hear this but...
+Dialogue: 0,0:13:37.55,0:13:39.02,Default,,0000,0000,0000,,This experiment...
+Dialogue: 0,0:13:40.81,0:13:41.96,Default,,0000,0000,0000,,…is doomed to failure, too!
+Dialogue: 0,0:13:44.22,0:13:46.10,Default,,0000,0000,0000,,Caesar knows that.
+Dialogue: 0,0:13:46.60,0:13:50.29,Default,,0000,0000,0000,,I suppose he's just collecting \Ndata for his next experiment.
+Dialogue: 0,0:13:52.04,0:13:55.23,Default,,0000,0000,0000,,Then, what's gonna happen to us?
+Dialogue: 0,0:14:00.61,0:14:01.89,Default,,0000,0000,0000,,You're all gonna die.
+Dialogue: 0,0:14:02.65,0:14:04.57,Default,,0000,0000,0000,,None of you will make it home.
+Dialogue: 0,0:14:05.77,0:14:08.32,Default,,0000,0000,0000,,That sweet candy is a deadly poison.
+Dialogue: 0,0:14:08.32,0:14:11.70,Default,,0000,0000,0000,,It'll destroy your body before you know it.
+Dialogue: 0,0:14:11.70,0:14:14.76,Default,,0000,0000,0000,,But as soon as you eat one, \Nyou'll crave another one.
+Dialogue: 0,0:14:15.06,0:14:18.75,Default,,0000,0000,0000,,The more you eat, the harder it is \Nfor you to get away from Caesar!
+Dialogue: 0,0:14:19.29,0:14:21.78,Default,,0000,0000,0000,,You see how scary it is \Nwhen you look at those kids
+Dialogue: 0,0:14:21.78,0:14:23.55,Default,,0000,0000,0000,,on the other side of the door, don't you?
+Dialogue: 0,0:14:31.52,0:14:34.35,Default,,0000,0000,0000,,I sedated you already.
+Dialogue: 0,0:14:35.04,0:14:38.58,Default,,0000,0000,0000,,But, from side-effects of the \Ncandy and the experiment,
+Dialogue: 0,0:14:39.46,0:14:41.03,Default,,0000,0000,0000,,before you can even become an adult,
+Dialogue: 0,0:14:42.61,0:14:44.11,Default,,0000,0000,0000,,you'll probably die.
+Dialogue: 0,0:14:48.70,0:14:50.95,Default,,0000,0000,0000,,Mocha!!
+Dialogue: 0,0:15:09.58,0:15:13.35,Default,,0000,0000,0000,,We can't even become adults?
+Dialogue: 0,0:15:14.23,0:15:18.35,Default,,0000,0000,0000,,We can't see our fathers and mothers again?
+Dialogue: 0,0:15:23.13,0:15:25.48,Default,,0000,0000,0000,,No, if you kids don't escape now.
+Dialogue: 0,0:15:29.19,0:15:32.94,Default,,0000,0000,0000,,We never even thought about that.
+Dialogue: 0,0:15:34.83,0:15:38.88,Default,,0000,0000,0000,,We asked you to help us \Nbecause we wanted to go home!
+Dialogue: 0,0:15:38.88,0:15:40.91,Default,,0000,0000,0000,,We were afraid to be told to stay here
+Dialogue: 0,0:15:40.91,0:15:43.96,Default,,0000,0000,0000,,for another year without knowing \Nwhat kind of disease we have!
+Dialogue: 0,0:15:49.62,0:15:50.71,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:02.12,0:16:02.98,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:05.90,0:16:09.67,Default,,0000,0000,0000,,We never thought that we were gonna die.
+Dialogue: 0,0:16:10.90,0:16:13.70,Default,,0000,0000,0000,,We thought we could grow up!
+Dialogue: 0,0:16:13.70,0:16:15.82,Default,,0000,0000,0000,,That's not what we've been told!
+Dialogue: 0,0:16:16.90,0:16:19.20,Default,,0000,0000,0000,,We ate the candy because they gave it to us!
+Dialogue: 0,0:16:19.20,0:16:21.33,Default,,0000,0000,0000,,We never thought we were gonna die from it!
+Dialogue: 0,0:16:21.33,0:16:25.07,Default,,0000,0000,0000,,I know! It's not your fault at all!
+Dialogue: 0,0:16:25.07,0:16:28.84,Default,,0000,0000,0000,,That's why we can't forgive Caesar!
+Dialogue: 0,0:16:29.21,0:16:30.71,Default,,0000,0000,0000,,We're not gonna forgive him!
+Dialogue: 0,0:16:37.19,0:16:38.31,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:16:46.64,0:16:51.38,Default,,0000,0000,0000,,That we didn't find you sooner!
+Dialogue: 0,0:16:53.71,0:16:55.41,Default,,0000,0000,0000,,Chopper-chan?
+Dialogue: 0,0:16:59.54,0:17:01.83,Default,,0000,0000,0000,,Chopper-chan, we...
+Dialogue: 0,0:17:03.08,0:17:05.17,Default,,0000,0000,0000,,...don't wanna die!
+Dialogue: 0,0:17:05.25,0:17:08.21,Default,,0000,0000,0000,,You're not gonna die! \NWe're gonna save you all!
+Dialogue: 0,0:17:10.90,0:17:16.18,Default,,0000,0000,0000,,Caesar is actually a powerful, \Nhorrible, evil man.
+Dialogue: 0,0:17:16.56,0:17:18.30,Default,,0000,0000,0000,,But... But...
+Dialogue: 0,0:17:19.34,0:17:22.43,Default,,0000,0000,0000,,Our captain is stronger than him!
+Dialogue: 0,0:17:23.06,0:17:26.27,Default,,0000,0000,0000,,He's gonna become the \Nking of the sea someday!
+Dialogue: 0,0:17:26.71,0:17:30.50,Default,,0000,0000,0000,,Luffy will kick Caesar's butt for sure!
+Dialogue: 0,0:17:36.78,0:17:39.00,Default,,0000,0000,0000,,So listen carefully.
+Dialogue: 0,0:17:39.37,0:17:41.42,Default,,0000,0000,0000,,Your name is Mocha, isn't it?
+Dialogue: 0,0:17:41.91,0:17:45.96,Default,,0000,0000,0000,,We can't let other children \Nhave any more candy!
+Dialogue: 0,0:17:46.22,0:17:47.38,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:17:48.26,0:17:52.47,Default,,0000,0000,0000,,I'll try my best to sedate them all here!
+Dialogue: 0,0:17:52.89,0:17:54.01,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:17:54.23,0:17:58.76,Default,,0000,0000,0000,,So, Mocha, can you guard the \Ncandies in the Biscuit Room?
+Dialogue: 0,0:18:02.04,0:18:02.89,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:18:03.42,0:18:07.39,Default,,0000,0000,0000,,I see! Then I won't let \Nanybody eat the candy!
+Dialogue: 0,0:18:07.39,0:18:09.43,Default,,0000,0000,0000,,I wanna go home with everybody!
+Dialogue: 0,0:18:09.78,0:18:10.48,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:18:19.28,0:18:21.41,Default,,0000,0000,0000,,Mocha!
+Dialogue: 0,0:18:23.54,0:18:25.67,Default,,0000,0000,0000,,Mocha spewed up blood!
+Dialogue: 0,0:18:25.67,0:18:28.00,Default,,0000,0000,0000,,Why? Those were just the sweet candies.
+Dialogue: 0,0:18:37.76,0:18:40.26,Default,,0000,0000,0000,,What happened to Mocha?
+Dialogue: 0,0:18:40.76,0:18:44.06,Default,,0000,0000,0000,,Hey, she doesn't look well.
+Dialogue: 0,0:18:44.59,0:18:46.73,Default,,0000,0000,0000,,--I can't believe it...\N--The children have stopped!
+Dialogue: 0,0:18:49.86,0:18:51.92,Default,,0000,0000,0000,,That's what happens when you're greedy.
+Dialogue: 0,0:18:55.04,0:18:57.28,Default,,0000,0000,0000,,Mocha!
+Dialogue: 0,0:18:59.98,0:19:02.12,Default,,0000,0000,0000,,Mocha! Stay with me!
+Dialogue: 0,0:19:05.49,0:19:06.25,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:19:06.69,0:19:09.96,Default,,0000,0000,0000,,This is what the candy really does to you!
+Dialogue: 0,0:19:10.25,0:19:13.09,Default,,0000,0000,0000,,Mocha tried to save you all by...
+Dialogue: 0,0:19:13.67,0:19:16.71,Default,,0000,0000,0000,,...sacrificing herself!
+Dialogue: 0,0:19:16.87,0:19:20.47,Default,,0000,0000,0000,,Chopper! If you wanna sedate \Nthem, now is the chance!
+Dialogue: 0,0:19:20.84,0:19:22.89,Default,,0000,0000,0000,,But I have to treat her first!
+Dialogue: 0,0:19:23.14,0:19:24.18,Default,,0000,0000,0000,,We have no time!
+Dialogue: 0,0:19:28.64,0:19:31.05,Default,,0000,0000,0000,,The children are standing still!
+Dialogue: 0,0:19:32.57,0:19:34.48,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:19:35.40,0:19:39.40,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:39.78,0:19:43.20,Default,,0000,0000,0000,,Don't use violence, guys!
+Dialogue: 0,0:19:43.20,0:19:45.16,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:45.38,0:19:47.66,Default,,0000,0000,0000,,Fight numbers with numbers!
+Dialogue: 0,0:19:47.66,0:19:49.87,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:49.87,0:19:52.00,Default,,0000,0000,0000,,Bring them under control!
+Dialogue: 0,0:19:52.96,0:19:54.79,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:19:55.05,0:19:56.89,Default,,0000,0000,0000,,--Sanji-kun?!\N--The Navy?!
+Dialogue: 0,0:19:57.27,0:19:58.21,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:19:58.21,0:20:01.51,Default,,0000,0000,0000,,Brother! Is aiming for the \Nballs considered violence?
+Dialogue: 0,0:20:03.47,0:20:05.72,Default,,0000,0000,0000,,--It's a close call, but yes, it is.\N--Alright!
+Dialogue: 0,0:20:05.89,0:20:08.78,Default,,0000,0000,0000,,--Medical team, step forward!\N--Yes, sir!
+Dialogue: 0,0:20:08.78,0:20:11.89,Default,,0000,0000,0000,,Chopper, use them! They know how \Nto give injections at least!
+Dialogue: 0,0:20:13.31,0:20:14.15,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:14.15,0:20:16.94,Default,,0000,0000,0000,,Alright, let's calm the kids down!
+Dialogue: 0,0:20:17.08,0:20:18.28,Default,,0000,0000,0000,,Thank you, guys!
+Dialogue: 0,0:20:18.51,0:20:20.32,Default,,0000,0000,0000,,1, 2, 3!
+Dialogue: 0,0:20:20.32,0:20:21.99,Default,,0000,0000,0000,,Advance!
+Dialogue: 0,0:20:22.29,0:20:25.53,Default,,0000,0000,0000,,If I'm correct, there is an \Nexamination room around here!
+Dialogue: 0,0:20:25.53,0:20:27.73,Default,,0000,0000,0000,,Carry her there!
+Dialogue: 0,0:20:27.73,0:20:30.41,Default,,0000,0000,0000,,We have no time! Do you know that, racoon?!
+Dialogue: 0,0:20:30.41,0:20:31.56,Default,,0000,0000,0000,,Yes, I do!
+Dialogue: 0,0:20:31.56,0:20:33.46,Default,,0000,0000,0000,,Enough of the chitchat! Let's just go!
+Dialogue: 0,0:20:36.88,0:20:38.09,Default,,0000,0000,0000,,Mocha.--
+Dialogue: 0,0:20:49.82,0:20:52.64,Default,,0000,0000,0000,,Damn! It's my fault!
+Dialogue: 0,0:20:58.27,0:20:59.78,Default,,0000,0000,0000,,Chopper-chan...
+Dialogue: 0,0:21:00.81,0:21:04.07,Default,,0000,0000,0000,,Mocha, are you okay? Are you in pain?
+Dialogue: 0,0:21:04.82,0:21:08.32,Default,,0000,0000,0000,,Chopper-chan, I...
+Dialogue: 0,0:21:11.66,0:21:14.87,Default,,0000,0000,0000,,I didn't give them the candies.
+Dialogue: 0,0:21:16.39,0:21:18.33,Default,,0000,0000,0000,,Mocha! You...
+Dialogue: 0,0:21:23.05,0:21:26.30,Default,,0000,0000,0000,,Uh-huh! You tried to save \Nyour friends, didn't you?
+Dialogue: 0,0:21:26.88,0:21:29.28,Default,,0000,0000,0000,,Thank you! Thank you!
+Dialogue: 0,0:21:30.10,0:21:33.27,Default,,0000,0000,0000,,They can all go home thanks to you!
+Dialogue: 0,0:21:34.97,0:21:36.10,Default,,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:21:37.51,0:21:40.65,Default,,0000,0000,0000,,I will save you at any cost, Mocha!
+Dialogue: 0,0:21:43.42,0:21:44.61,Default,,0000,0000,0000,,I will!
+Dialogue: 0,0:21:51.05,0:21:52.77,Default,,0000,0000,0000,,You'll become an adult!
+Dialogue: 0,0:21:54.30,0:21:55.58,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:22:04.32,0:22:05.17,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:22:05.30,0:22:08.05,DefaultLow,,0000,0000,0000,,C BUILDING 1ST FLOOR - A DUMPSTER
+Dialogue: 0,0:22:08.42,0:22:11.14,Default,,0000,0000,0000,,Why did the dumpster \Nexplode all of a sudden?!
+Dialogue: 0,0:22:18.98,0:22:20.63,Default,,0000,0000,0000,,Wh-Who is it?!
+Dialogue: 0,0:22:26.86,0:22:30.16,Default,,0000,0000,0000,,Straw Hat Luffy! Why are you here?!
+Dialogue: 0,0:22:30.50,0:22:31.99,Default,,0000,0000,0000,,Shoot! Shoot!
+Dialogue: 0,0:22:46.62,0:22:47.84,Default,,0000,0000,0000,,Where's Caesar?
+Dialogue: 0,0:22:49.80,0:22:50.47,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:52.18,0:22:53.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:22:53.53,0:22:55.68,Default,,0000,0000,0000,,I don't know! I-I don't know anything...
+Dialogue: 0,0:22:59.98,0:23:01.47,Default,,0000,0000,0000,,Where's Caesar?!
+Dialogue: 0,0:23:02.44,0:23:06.44,Default,,0000,0000,0000,,I-I-If you go straight down this path, \Nyou'll get to R Building and he's there!
+Dialogue: 0,0:23:08.12,0:23:09.24,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:23:15.15,0:23:16.39,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:23:24.70,0:23:29.46,Default,,0000,0000,0000,,Brownbeard tries to save the soldiers\Nby revealing Caesar's true identity.
+Dialogue: 0,0:23:29.46,0:23:34.68,Default,,0000,0000,0000,,But Caesar manages to twist his words, and ingeniously conceals the truth.
+Dialogue: 0,0:23:34.68,0:23:39.98,Default,,0000,0000,0000,,After seeing Caesar laughing triumphantly, \NLuffy's rage reaches its limit
+Dialogue: 0,0:23:39.98,0:23:41.35,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.35,0:23:44.45,Default,,0000,0000,0000,,"Brownbeard in Grief! Luffy \NLands a Furious Blow!"
+Dialogue: 0,0:23:44.45,0:23:46.69,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:46.69,0:23:48.69,Default,,0000,0000,0000,,

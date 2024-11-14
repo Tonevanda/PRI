@@ -1,0 +1,381 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:19.15,0:00:21.66,Default,,0000,0000,0000,,Has the Buster Call order been issued?
+Dialogue: 0,0:00:22.11,0:00:23.51,Default,,0000,0000,0000,,No, we still have to be on standby.
+Dialogue: 0,0:00:24.36,0:00:26.09,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:00:26.09,0:00:28.12,Default,,0000,0000,0000,,Run to the evacuation ship!
+Dialogue: 0,0:00:31.54,0:00:34.10,Default,,0000,0000,0000,,So this is a Poneglyph, huh?
+Dialogue: 0,0:00:34.25,0:00:38.56,Default,,0000,0000,0000,,Yeah. I heard that even if we tried to\Nblow it up, it wouldn't even get a scratch.
+Dialogue: 0,0:00:39.04,0:00:43.59,Default,,0000,0000,0000,,What a creepy stone... To think that\Nthis stuff is scattered around the world...
+Dialogue: 0,0:00:44.70,0:00:50.44,Italics,,0000,0000,0000,,Get running, get running,\Nholding our flag high in the sky
+Dialogue: 0,0:00:56.80,0:01:02.82,Italics,,0000,0000,0000,,Let's cross this endless sea to go in search of
+Dialogue: 0,0:01:02.82,0:01:08.83,Italics,,0000,0000,0000,,a global miracle no one\Nhas yet been able to find
+Dialogue: 0,0:01:08.83,0:01:13.71,Italics,,0000,0000,0000,,With our hearts pounding,\Nwe'll just charge ahead as we please
+Dialogue: 0,0:01:13.71,0:01:19.59,Italics,,0000,0000,0000,,following the footprints of\Nthose who chase their dreams
+Dialogue: 0,0:01:20.42,0:01:26.39,Italics,,0000,0000,0000,,No matter how stormy the night,\Nif we join our hearts as one,
+Dialogue: 0,0:01:26.39,0:01:30.64,Italics,,0000,0000,0000,,we will be able to make it through
+Dialogue: 0,0:01:30.64,0:01:31.90,Italics,,0000,0000,0000,,Always!
+Dialogue: 0,0:01:32.77,0:01:38.61,Italics,,0000,0000,0000,,Get running, get running,\Nholding our flag high in the sky
+Dialogue: 0,0:01:38.61,0:01:44.58,Italics,,0000,0000,0000,,Even though there are tears\Nwe don't want anyone to see
+Dialogue: 0,0:01:44.58,0:01:50.62,Italics,,0000,0000,0000,,Chase it, chase it,\Nif we want to achieve our dream,
+Dialogue: 0,0:01:50.62,0:01:53.21,Italics,,0000,0000,0000,,we should always look\Nstraight ahead without fear
+Dialogue: 0,0:01:53.21,0:01:55.52,Italics,,0000,0000,0000,,We can't stop here
+Dialogue: 0,0:01:55.52,0:01:58.54,Italics,,0000,0000,0000,,Around the world
+Dialogue: 0,0:01:58.54,0:01:59.80,Italics,,0000,0000,0000,,Start me up!
+Dialogue: 0,0:02:02.84,0:02:08.54,Italics,,0000,0000,0000,,Get running, get running,\Nhead past everyone else
+Dialogue: 0,0:02:08.54,0:02:14.65,Italics,,0000,0000,0000,,So long as we don't run from it,\Nwe can grasp tomorrow in our hands
+Dialogue: 0,0:02:14.65,0:02:20.61,Italics,,0000,0000,0000,,Chase it, chase it,\Neverything we see before us,
+Dialogue: 0,0:02:20.61,0:02:25.42,Italics,,0000,0000,0000,,let's carve it into the blank pages of our hearts
+Dialogue: 0,0:02:25.68,0:02:28.37,Italics,,0000,0000,0000,,Brand New World
+Dialogue: 0,0:02:28.57,0:02:29.83,Italics,,0000,0000,0000,,Start me up!
+Dialogue: 0,0:02:38.87,0:02:42.52,Default,,0000,0000,0000,,"The Tragedy of Ohara!\NThe Terror of Buster Call"
+Dialogue: 0,0:02:46.23,0:02:47.63,Default,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:02:47.63,0:02:50.02,Default,,0000,0000,0000,,Yes, they deserve the death penalty.
+Dialogue: 0,0:02:50.80,0:02:54.16,Default,,0000,0000,0000,,Since we seized the evidence,\Nwe'll carry out your orders.
+Dialogue: 0,0:02:54.63,0:02:58.48,Default,,0000,0000,0000,,It cannot be helped. This is quite unfortunate;
+Dialogue: 0,0:02:58.48,0:03:03.11,Default,,0000,0000,0000,,however, they violated the\Nworld's laws. We cannot overlook it.
+Dialogue: 0,0:03:03.11,0:03:06.71,Default,,0000,0000,0000,,Stop the blatant superficial talk,\NFive Elder Stars.
+Dialogue: 0,0:03:06.98,0:03:12.28,Default,,0000,0000,0000,,Wha...! Don't be rude! You're talking\Nto the leaders of the world!
+Dialogue: 0,0:03:12.28,0:03:16.24,Default,,0000,0000,0000,,Is this Ohara's Professor Clover,\Nthe authority of archaeology?
+Dialogue: 0,0:03:17.51,0:03:22.10,Default,,0000,0000,0000,,I know your name well, since you've\Ncontributed to the world's culture.
+Dialogue: 0,0:03:22.37,0:03:25.54,Default,,0000,0000,0000,,To think that someone of your\Ncaliber would take the wrong path...
+Dialogue: 0,0:03:25.54,0:03:28.32,Default,,0000,0000,0000,,The past belongs to all mankind.
+Dialogue: 0,0:03:29.17,0:03:35.58,Default,,0000,0000,0000,,No one has the right to stop one from\Nwanting to know our unspoken history!
+Dialogue: 0,0:03:35.58,0:03:36.45,Default,,0000,0000,0000,,Professor...
+Dialogue: 0,0:03:36.72,0:03:40.77,Default,,0000,0000,0000,,Reading the Poneglyphs makes it\Npossible to revive the ancient weapon,
+Dialogue: 0,0:03:40.77,0:03:42.73,Default,,0000,0000,0000,,which puts the world in danger.
+Dialogue: 0,0:03:44.02,0:03:46.02,Default,,0000,0000,0000,,Even if your research has the best of intentions,
+Dialogue: 0,0:03:46.02,0:03:49.03,Default,,0000,0000,0000,,all it takes is for someone to\Ncome along and use your research.
+Dialogue: 0,0:03:50.53,0:03:54.53,Default,,0000,0000,0000,,No matter what happened in the past,\Nif humans created that history,
+Dialogue: 0,0:03:54.53,0:03:56.25,Default,,0000,0000,0000,,we should accept it all.
+Dialogue: 0,0:03:56.77,0:03:58.79,Default,,0000,0000,0000,,If we don't succumb to fear\Nand learn all of history,
+Dialogue: 0,0:03:58.79,0:04:01.41,Default,,0000,0000,0000,,we can take countermeasures\Nno matter what happens.
+Dialogue: 0,0:04:01.41,0:04:02.71,Default,,0000,0000,0000,,That's an idealistic argument.
+Dialogue: 0,0:04:02.71,0:04:07.47,Default,,0000,0000,0000,,Is that so? Isn't that reasoning\Njust a convenient excuse for you?
+Dialogue: 0,0:04:08.71,0:04:11.67,Default,,0000,0000,0000,,Out of what is still left to us,
+Dialogue: 0,0:04:11.67,0:04:16.30,Default,,0000,0000,0000,,what interests us the most are the contents\Nof the Poneglyphs, along with their reason
+Dialogue: 0,0:04:16.30,0:04:17.86,Default,,0000,0000,0000,,for existing in the first place.
+Dialogue: 0,0:04:18.39,0:04:22.31,Default,,0000,0000,0000,,Why did the ancients take the trouble\Nto inscribe the text on hard stones
+Dialogue: 0,0:04:22.31,0:04:25.19,Default,,0000,0000,0000,,in order to pass it down to the future?
+Dialogue: 0,0:04:25.19,0:04:27.40,Default,,0000,0000,0000,,They inscribed history on unbreakable stones
+Dialogue: 0,0:04:27.40,0:04:29.86,Default,,0000,0000,0000,,and scattered them around the world.
+Dialogue: 0,0:04:29.86,0:04:33.61,Default,,0000,0000,0000,,Is it not because they thought that\Ntheir message would be eradicated
+Dialogue: 0,0:04:33.61,0:04:37.83,Default,,0000,0000,0000,,if they wrote it on paper or in books?
+Dialogue: 0,0:04:38.12,0:04:41.95,Default,,0000,0000,0000,,In other words, it is the proof that\Nthose who left the Poneglyphs
+Dialogue: 0,0:04:41.95,0:04:43.85,Default,,0000,0000,0000,,clearly had an enemy.
+Dialogue: 0,0:04:46.33,0:04:49.13,Default,,0000,0000,0000,,What're you trying to say, Professor Clover?
+Dialogue: 0,0:04:49.13,0:04:52.09,Default,,0000,0000,0000,,If we assume that they were\Ndefeated by some kind of enemy
+Dialogue: 0,0:04:52.09,0:04:54.42,Default,,0000,0000,0000,,and so ceased to exist,
+Dialogue: 0,0:04:54.42,0:04:57.86,Default,,0000,0000,0000,,this enemy must've remained\Nin history from that point on.
+Dialogue: 0,0:04:59.85,0:05:05.94,Default,,0000,0000,0000,,Coincidentally, just when the\N"Blank Century" ended 800 years ago,
+Dialogue: 0,0:05:06.48,0:05:10.66,Default,,0000,0000,0000,,the World Government was founded.
+Dialogue: 0,0:05:13.78,0:05:18.62,Default,,0000,0000,0000,,If the current World Government was\Nthe "enemy" of those that ceased to exist,
+Dialogue: 0,0:05:18.62,0:05:22.12,Default,,0000,0000,0000,,one could think that the "Blank Century"\Nis an inconvenient history
+Dialogue: 0,0:05:22.12,0:05:25.60,Default,,0000,0000,0000,,that was hushed up by the World Government.
+Dialogue: 0,0:05:25.79,0:05:31.31,Default,,0000,0000,0000,,By analyzing the ancient\Ndocuments and some Poneglyphs,
+Dialogue: 0,0:05:31.63,0:05:35.27,Default,,0000,0000,0000,,we eventually noticed\Nthe existence of a country.
+Dialogue: 0,0:05:35.55,0:05:41.22,Default,,0000,0000,0000,,What the documents brought to light\Nwas the existence of a grand kingdom.
+Dialogue: 0,0:05:41.22,0:05:44.18,Default,,0000,0000,0000,,Although it seems to have\Nboasted much power in the past,
+Dialogue: 0,0:05:44.18,0:05:48.56,Default,,0000,0000,0000,,the information on this country\Nhas obsessively been erased.
+Dialogue: 0,0:05:48.56,0:05:52.45,Default,,0000,0000,0000,,They probably sensed they'd be\Ndefeated by the allied countries,
+Dialogue: 0,0:05:52.80,0:05:54.74,Default,,0000,0000,0000,,later to become the World Government,
+Dialogue: 0,0:05:54.74,0:05:59.79,Default,,0000,0000,0000,,and so inscribed all the truth on\Nstones to pass it down to the future.
+Dialogue: 0,0:06:00.44,0:06:04.26,Default,,0000,0000,0000,,Indeed, those stones are the Poneglyphs\Nthat remain to this very day.
+Dialogue: 0,0:06:05.16,0:06:08.21,Default,,0000,0000,0000,,I see. That's a bold hypothesis.
+Dialogue: 0,0:06:08.21,0:06:11.73,Default,,0000,0000,0000,,It's true that the ancient weapon\Nwould threaten the world.
+Dialogue: 0,0:06:11.96,0:06:17.55,Default,,0000,0000,0000,,However, isn't it actually that the\NWorld Government is more threatened
+Dialogue: 0,0:06:17.55,0:06:22.81,Default,,0000,0000,0000,,by people becoming aware of that\Nkingdom's existence and ideology?
+Dialogue: 0,0:06:24.57,0:06:28.19,Default,,0000,0000,0000,,We still have to analyze what this threat is,
+Dialogue: 0,0:06:28.19,0:06:33.58,Default,,0000,0000,0000,,but the name of this once-prosperous\Nkingdom that holds the key to everything is...
+Dialogue: 0,0:06:38.36,0:06:39.21,Default,,0000,0000,0000,,Eliminate him!
+Dialogue: 0,0:06:49.92,0:06:51.96,Default,,0000,0000,0000,,Professor!
+Dialogue: 0,0:06:54.92,0:06:56.44,Default,,0000,0000,0000,,Ohara has...
+Dialogue: 0,0:06:59.91,0:07:01.81,Default,,0000,0000,0000,,--You bastards!\N--How dare you...!
+Dialogue: 0,0:07:01.81,0:07:03.58,Default,,0000,0000,0000,,Professor Clover!
+Dialogue: 0,0:07:04.51,0:07:06.35,Default,,0000,0000,0000,,...come to know too much.
+Dialogue: 0,0:07:08.89,0:07:10.95,Default,,0000,0000,0000,,Give the attack signal.
+Dialogue: 0,0:07:11.77,0:07:13.86,Default,,0000,0000,0000,,Don't move!
+Dialogue: 0,0:07:13.86,0:07:16.13,Default,,0000,0000,0000,,Don't let even a single person escape.
+Dialogue: 0,0:07:23.45,0:07:26.20,Default,,0000,0000,0000,,Well then, using this golden transponder snail
+Dialogue: 0,0:07:26.20,0:07:28.43,Default,,0000,0000,0000,,entrusted to me by Admiral Sengoku...
+Dialogue: 0,0:07:28.43,0:07:29.75,Default,,0000,0000,0000,,Professor!
+Dialogue: 0,0:07:29.75,0:07:31.37,Default,,0000,0000,0000,,Robin...
+Dialogue: 0,0:07:31.37,0:07:34.88,Default,,0000,0000,0000,,You fool! You shouldn't be here. Run!
+Dialogue: 0,0:07:35.17,0:07:36.86,Default,,0000,0000,0000,,...I'll initiate a Buster Call!
+Dialogue: 0,0:07:37.59,0:07:39.02,Default,,0000,0000,0000,,Take care of the rest.
+Dialogue: 0,0:07:40.31,0:07:42.26,Default,,0000,0000,0000,,He did something!
+Dialogue: 0,0:07:43.51,0:07:46.51,Default,,0000,0000,0000,,Hurry to the evacuation ship, Robin.
+Dialogue: 0,0:07:46.51,0:07:48.68,Default,,0000,0000,0000,,No! I don't wanna be alone!
+Dialogue: 0,0:07:48.68,0:07:51.81,Default,,0000,0000,0000,,Don't say such a foolish\Nthing at a time like this.
+Dialogue: 0,0:07:53.32,0:07:54.33,Default,,0000,0000,0000,,Robin...
+Dialogue: 0,0:07:58.44,0:08:00.16,Default,,0000,0000,0000,,That's the Buster Call request!
+Dialogue: 0,0:08:00.65,0:08:03.88,Default,,0000,0000,0000,,All battleships, to your positions!\NPrepare to open fire!
+Dialogue: 0,0:08:06.41,0:08:07.86,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:08:07.86,0:08:08.74,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:08:09.95,0:08:12.25,Default,,0000,0000,0000,,The Tree of Knowledge is on fire!
+Dialogue: 0,0:08:12.62,0:08:15.17,Default,,0000,0000,0000,,Hey, World Government! What're you doing?!
+Dialogue: 0,0:08:15.17,0:08:18.70,Default,,0000,0000,0000,,Taking our lives should be enough!
+Dialogue: 0,0:08:18.70,0:08:22.44,Default,,0000,0000,0000,,Don't look at me. It must've caught\Nfire from the explosions earlier.
+Dialogue: 0,0:08:25.14,0:08:26.43,Default,,0000,0000,0000,,This isn't a joke!
+Dialogue: 0,0:08:26.43,0:08:29.26,Default,,0000,0000,0000,,Do you realize how many important\Ndocuments there are in there?!
+Dialogue: 0,0:08:29.26,0:08:30.43,Default,,0000,0000,0000,,Hey! Don't move!
+Dialogue: 0,0:08:30.72,0:08:32.92,Default,,0000,0000,0000,,Ah... We don't need guns anymore.
+Dialogue: 0,0:08:34.64,0:08:36.58,Default,,0000,0000,0000,,Those from the Government, pull out.
+Dialogue: 0,0:08:38.22,0:08:40.01,Default,,0000,0000,0000,,Hurry up and get the books!
+Dialogue: 0,0:08:41.73,0:08:43.67,Default,,0000,0000,0000,,Put out the fire in the library!
+Dialogue: 0,0:08:54.33,0:08:56.09,Default,,0000,0000,0000,,Circulate water!
+Dialogue: 0,0:08:58.13,0:08:59.85,Default,,0000,0000,0000,,Take the books out of the library!
+Dialogue: 0,0:09:14.43,0:09:16.48,Default,,0000,0000,0000,,Bring that woman with us.
+Dialogue: 0,0:09:17.44,0:09:18.34,Default,,0000,0000,0000,,Come.
+Dialogue: 0,0:09:20.04,0:09:23.29,Default,,0000,0000,0000,,There's a piece of information\Nthat only she knows.
+Dialogue: 0,0:09:24.28,0:09:25.75,Default,,0000,0000,0000,,It'll cause a problem if she dies here.
+Dialogue: 0,0:09:30.27,0:09:31.51,Default,,0000,0000,0000,,Mommy.
+Dialogue: 0,0:09:35.79,0:09:40.13,Default,,0000,0000,0000,,Robin...! Please... make sure you escape.
+Dialogue: 0,0:09:40.13,0:09:42.14,Default,,0000,0000,0000,,Don't die, no matter what!
+Dialogue: 0,0:09:43.17,0:09:44.49,Default,,0000,0000,0000,,Your nose!
+Dialogue: 0,0:09:48.34,0:09:50.60,Default,,0000,0000,0000,,Robin! Hurry!
+Dialogue: 0,0:09:50.60,0:09:52.46,Default,,0000,0000,0000,,Get out of here now!
+Dialogue: 0,0:09:56.23,0:09:57.98,Default,,0000,0000,0000,,--Robin-chan!\N--Robin!
+Dialogue: 0,0:10:06.36,0:10:09.00,Default,,0000,0000,0000,,Are you... my mom?
+Dialogue: 0,0:10:14.58,0:10:17.43,Default,,0000,0000,0000,,Olvia! Are you gonna come\Naboard the ship or not?
+Dialogue: 0,0:10:17.96,0:10:19.37,Default,,0000,0000,0000,,Mommy!
+Dialogue: 0,0:10:19.62,0:10:24.50,Default,,0000,0000,0000,,--I'll hold her, so go already!\N--Mommy! Don't go! Mommy!
+Dialogue: 0,0:10:24.50,0:10:27.67,Default,,0000,0000,0000,,Mommy! Mommy!
+Dialogue: 0,0:10:27.67,0:10:29.43,Default,,0000,0000,0000,,I'm sorry, Robin.
+Dialogue: 0,0:10:29.43,0:10:32.68,Default,,0000,0000,0000,,I can never call myself your mother again.
+Dialogue: 0,0:10:32.68,0:10:37.45,Default,,0000,0000,0000,,I can't be allowed... to be your\Nmother after all these years.
+Dialogue: 0,0:10:46.57,0:10:48.74,Default,,0000,0000,0000,,--Monster!\N--Monster!
+Dialogue: 0,0:10:49.11,0:10:51.49,Default,,0000,0000,0000,,Her mom abandoned her!
+Dialogue: 0,0:10:51.61,0:10:54.41,Default,,0000,0000,0000,,Robin! Those are my daughter's clothes!
+Dialogue: 0,0:10:54.41,0:10:56.84,Default,,0000,0000,0000,,I'm sorry, Aunt Roji! I wanted\Nto try them on just once!
+Dialogue: 0,0:10:57.16,0:11:00.06,Default,,0000,0000,0000,,You eat a lot for someone who lives here free.
+Dialogue: 0,0:11:08.67,0:11:10.11,Default,,0000,0000,0000,,Are you...
+Dialogue: 0,0:11:12.84,0:11:14.40,Default,,0000,0000,0000,,...my mom?!
+Dialogue: 0,0:11:19.64,0:11:23.27,Default,,0000,0000,0000,,Hmm? What? You have a kid?
+Dialogue: 0,0:11:25.57,0:11:26.62,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:11:27.40,0:11:28.70,Default,,0000,0000,0000,,Olvia-san...
+Dialogue: 0,0:11:29.65,0:11:31.01,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:11:32.66,0:11:36.62,Default,,0000,0000,0000,,...but I think you're confusing\Nme with someone else.
+Dialogue: 0,0:11:36.62,0:11:41.19,Default,,0000,0000,0000,,Forgive me, Robin! I don't wanna\Nmake you a "criminal's daughter"!
+Dialogue: 0,0:11:41.46,0:11:43.13,Default,,0000,0000,0000,,Olvia...
+Dialogue: 0,0:11:43.71,0:11:45.84,Default,,0000,0000,0000,,What a weird brat.
+Dialogue: 0,0:11:45.84,0:11:47.38,Default,,0000,0000,0000,,Hey, let's go!
+Dialogue: 0,0:12:02.39,0:12:05.23,Default,,0000,0000,0000,,I'm Robin!
+Dialogue: 0,0:12:05.23,0:12:09.36,Default,,0000,0000,0000,,I've grown, but don't you remember me?!
+Dialogue: 0,0:12:09.36,0:12:12.32,Default,,0000,0000,0000,,I've been waiting for you to return all this time!
+Dialogue: 0,0:12:12.32,0:12:13.73,Default,,0000,0000,0000,,Are you...
+Dialogue: 0,0:12:15.32,0:12:17.03,Default,,0000,0000,0000,,...really not...
+Dialogue: 0,0:12:17.95,0:12:19.49,Default,,0000,0000,0000,,...my mom?
+Dialogue: 0,0:12:21.00,0:12:23.75,Default,,0000,0000,0000,,I wanted you...
+Dialogue: 0,0:12:23.75,0:12:25.31,Default,,0000,0000,0000,,...to hold my hand...
+Dialogue: 0,0:12:26.75,0:12:29.27,Default,,0000,0000,0000,,...and walk with me someday...
+Dialogue: 0,0:12:29.27,0:12:34.38,Default,,0000,0000,0000,,So I studied hard and was able\Nto become an archaeologist!
+Dialogue: 0,0:12:34.38,0:12:36.30,Default,,0000,0000,0000,,I can read Poneglyphs, too!
+Dialogue: 0,0:12:38.51,0:12:39.65,Default,,0000,0000,0000,,That brat can?!
+Dialogue: 0,0:12:39.65,0:12:41.15,Default,,0000,0000,0000,,Stop it, Robin!
+Dialogue: 0,0:12:41.85,0:12:43.14,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:12:43.14,0:12:46.12,Default,,0000,0000,0000,,...please let me stay... with you!
+Dialogue: 0,0:12:46.56,0:12:48.13,Default,,0000,0000,0000,,Mom!
+Dialogue: 0,0:12:48.90,0:12:50.09,Default,,0000,0000,0000,,Robin...!
+Dialogue: 0,0:12:51.73,0:12:53.09,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:12:54.15,0:12:55.37,Default,,0000,0000,0000,,...don't leave me...
+Dialogue: 0,0:12:56.66,0:12:58.66,Default,,0000,0000,0000,,...alone anymore!
+Dialogue: 0,0:13:18.34,0:13:21.68,Default,,0000,0000,0000,,What?! What the hell is this attack?!
+Dialogue: 0,0:13:21.68,0:13:23.41,Default,,0000,0000,0000,,I'm exercising a Buster Call.
+Dialogue: 0,0:13:24.48,0:13:26.82,Default,,0000,0000,0000,,Commence concerted fire!
+Dialogue: 0,0:13:26.82,0:13:30.99,Default,,0000,0000,0000,,We're targeting everything on Ohara,\Nthe island of archaeology!
+Dialogue: 0,0:13:30.99,0:13:36.28,Default,,0000,0000,0000,,The research by the Ohara scholars\Nhas reached a level we never imagined.
+Dialogue: 0,0:13:36.28,0:13:40.78,Default,,0000,0000,0000,,Knowledge can be transferred.\NDon't let it out of that island.
+Dialogue: 0,0:13:40.78,0:13:45.79,Default,,0000,0000,0000,,Annihilate the devils living in Ohara!\NIn the name of justice!
+Dialogue: 0,0:13:50.13,0:13:52.59,Default,,0000,0000,0000,,Dammit! What's going on?!
+Dialogue: 0,0:13:52.59,0:13:56.68,Default,,0000,0000,0000,,We haven't gotten off of the island yet!\NAre they trying to kill us?!
+Dialogue: 0,0:13:58.04,0:14:00.40,Default,,0000,0000,0000,,The Tree of Knowledge is directly\Nbeing hit by cannonballs, too!
+Dialogue: 0,0:14:00.40,0:14:03.06,Default,,0000,0000,0000,,There's no mistaking that this\Nis Headquarters' military power.
+Dialogue: 0,0:14:03.06,0:14:07.15,Default,,0000,0000,0000,,The government was probably going\Nto do this from the start. How foolish.
+Dialogue: 0,0:14:07.64,0:14:10.66,Default,,0000,0000,0000,,Chief. That brat said that she's an archaeologist.
+Dialogue: 0,0:14:10.66,0:14:14.15,Default,,0000,0000,0000,,Yeah, she did say that.\NI don't know if it's true or not,
+Dialogue: 0,0:14:14.45,0:14:17.12,Default,,0000,0000,0000,,but when we don't know,\Neliminating them solves the problem.
+Dialogue: 0,0:14:17.12,0:14:20.12,Default,,0000,0000,0000,,Remember her face well so that\Nyou don't let her leave the island.
+Dialogue: 0,0:14:20.49,0:14:21.66,Default,,0000,0000,0000,,Retreat!
+Dialogue: 0,0:14:21.66,0:14:22.75,Default,,0000,0000,0000,,Then I'll take Olvia.
+Dialogue: 0,0:14:24.82,0:14:28.04,Default,,0000,0000,0000,,Forget her! No time for that now!\NJust leave her here!
+Dialogue: 0,0:14:28.04,0:14:30.54,Default,,0000,0000,0000,,If we stay here, we'll get killed, too!
+Dialogue: 0,0:14:30.79,0:14:33.26,Default,,0000,0000,0000,,My life is the most important thing!
+Dialogue: 0,0:14:33.50,0:14:36.06,Default,,0000,0000,0000,,All, retreat! Go back to the ship!
+Dialogue: 0,0:14:44.66,0:14:46.66,Default,,0000,0000,0000,,Do something about the fire in the library!
+Dialogue: 0,0:14:47.00,0:14:48.87,Default,,0000,0000,0000,,Protect the Tree of Knowledge!
+Dialogue: 0,0:15:10.09,0:15:11.58,Default,,0000,0000,0000,,I wanted to do this...
+Dialogue: 0,0:15:15.41,0:15:16.80,Default,,0000,0000,0000,,...all this time!
+Dialogue: 0,0:15:20.08,0:15:21.41,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:15:24.33,0:15:26.02,Default,,0000,0000,0000,,Mom!
+Dialogue: 0,0:15:29.17,0:15:31.77,Default,,0000,0000,0000,,It's my fault... Robin...
+Dialogue: 0,0:15:32.54,0:15:35.74,Default,,0000,0000,0000,,Is it true that you can read Poneglyphs?
+Dialogue: 0,0:15:36.82,0:15:39.93,Default,,0000,0000,0000,,If I had properly kept an eye on you...
+Dialogue: 0,0:15:40.82,0:15:44.41,Default,,0000,0000,0000,,I'm sorry. I wanted to be able\Nto read them at any cost, so--
+Dialogue: 0,0:15:44.41,0:15:48.38,Default,,0000,0000,0000,,I'm really surprised to know that you've\Nbecome able to do things like that.
+Dialogue: 0,0:15:48.87,0:15:52.29,Default,,0000,0000,0000,,You must've tried hard and studied a lot.
+Dialogue: 0,0:15:52.29,0:15:56.09,Default,,0000,0000,0000,,It's not something anyone can do.\NThat's amazing, Robin!
+Dialogue: 0,0:16:02.84,0:16:07.12,Default,,0000,0000,0000,,Fortunately, the officials from earlier\Nare the only ones who know about it.
+Dialogue: 0,0:16:07.43,0:16:09.68,Default,,0000,0000,0000,,This is no time to be sitting around here.
+Dialogue: 0,0:16:09.68,0:16:12.19,Default,,0000,0000,0000,,Olvia! Take Robin and run!
+Dialogue: 0,0:16:12.19,0:16:15.23,Default,,0000,0000,0000,,If you can somehow sneak\NRobin onto the evacuation ship,
+Dialogue: 0,0:16:15.23,0:16:16.58,Default,,0000,0000,0000,,you can leave the island!
+Dialogue: 0,0:16:20.49,0:16:23.70,Default,,0000,0000,0000,,Robin! There you are! I looked all over for you!
+Dialogue: 0,0:16:23.70,0:16:24.91,Default,,0000,0000,0000,,Saul!
+Dialogue: 0,0:16:25.07,0:16:27.16,Default,,0000,0000,0000,,So you were able to see Olvia!
+Dialogue: 0,0:16:27.16,0:16:30.01,Default,,0000,0000,0000,,Saul! What are you doing on this island?!
+Dialogue: 0,0:16:30.01,0:16:35.84,Default,,0000,0000,0000,,By some twist of fate, I got shipwrecked\Nand saved by Robin on the beach.
+Dialogue: 0,0:16:35.84,0:16:38.03,Default,,0000,0000,0000,,More importantly, the situation is terrible!
+Dialogue: 0,0:16:38.46,0:16:40.22,Default,,0000,0000,0000,,You have to leave the island immediately!
+Dialogue: 0,0:16:40.76,0:16:41.92,Default,,0000,0000,0000,,Please take care of Robin!
+Dialogue: 0,0:16:41.92,0:16:44.14,Default,,0000,0000,0000,,Please let my daughter escape\Nfrom the island at any cost!
+Dialogue: 0,0:16:44.14,0:16:48.32,Default,,0000,0000,0000,,What?! No! What about you, Mom?!\NAren't you gonna come with me?!
+Dialogue: 0,0:16:49.59,0:16:50.78,Default,,0000,0000,0000,,Olvia... What are you gonna...
+Dialogue: 0,0:16:51.35,0:16:53.70,Default,,0000,0000,0000,,There's still something\Nthat I have to do here, so...
+Dialogue: 0,0:16:53.94,0:16:58.01,Default,,0000,0000,0000,,Mom! I don't wanna be separated!\NI was finally able to meet you!
+Dialogue: 0,0:16:58.01,0:16:59.33,Default,,0000,0000,0000,,I'll stay here, too!
+Dialogue: 0,0:16:59.75,0:17:01.36,Default,,0000,0000,0000,,Robin...
+Dialogue: 0,0:17:01.36,0:17:04.36,Default,,0000,0000,0000,,You're an Ohara scholar,\Nso you should know this very well.
+Dialogue: 0,0:17:04.36,0:17:06.32,Default,,0000,0000,0000,,History is the treasure of mankind.
+Dialogue: 0,0:17:06.32,0:17:09.54,Default,,0000,0000,0000,,It'll certainly light up the future\Nyou young ones will live in.
+Dialogue: 0,0:17:09.85,0:17:13.29,Default,,0000,0000,0000,,But the history we received\Nfrom the past will disappear
+Dialogue: 0,0:17:13.29,0:17:15.88,Default,,0000,0000,0000,,unless we pass it on to the next era.
+Dialogue: 0,0:17:15.88,0:17:17.85,Default,,0000,0000,0000,,--Put out the fire!\N--Protect the books!
+Dialogue: 0,0:17:18.57,0:17:21.84,Default,,0000,0000,0000,,Revealing the history isn't\Nwhat Ohara was trying to do.
+Dialogue: 0,0:17:21.84,0:17:24.31,Default,,0000,0000,0000,,We just wanted to accept the voices\Nof the past and protect them.
+Dialogue: 0,0:17:25.18,0:17:31.00,Default,,0000,0000,0000,,Our research will end now,\Nbut even if Ohara is obliterated...
+Dialogue: 0,0:17:32.48,0:17:37.46,Default,,0000,0000,0000,,...we cannot give up the future\Nyou young ones will live in!
+Dialogue: 0,0:17:38.69,0:17:40.15,Default,,0000,0000,0000,,I don't understand!
+Dialogue: 0,0:17:42.04,0:17:44.40,Default,,0000,0000,0000,,You will understand someday.
+Dialogue: 0,0:17:47.12,0:17:49.46,Default,,0000,0000,0000,,Now, go, Saul!
+Dialogue: 0,0:17:52.14,0:17:53.30,Default,,0000,0000,0000,,Are you sure about this?
+Dialogue: 0,0:17:53.64,0:17:54.62,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:55.50,0:17:58.69,Default,,0000,0000,0000,,No! I'll stay here, too! Mom!
+Dialogue: 0,0:17:59.25,0:18:01.67,Default,,0000,0000,0000,,Mom!
+Dialogue: 0,0:18:01.67,0:18:04.45,Default,,0000,0000,0000,,I was happy to hear you call me that.
+Dialogue: 0,0:18:05.42,0:18:06.66,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:18:07.43,0:18:10.36,Default,,0000,0000,0000,,From now on, for you and me both...
+Dialogue: 0,0:18:10.36,0:18:11.62,Default,,0000,0000,0000,,Live, Robin!
+Dialogue: 0,0:18:29.37,0:18:32.16,Default,,0000,0000,0000,,What?! Vice Admiral! Vice Admiral Kuzan!
+Dialogue: 0,0:18:32.16,0:18:33.30,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:33.30,0:18:36.13,Default,,0000,0000,0000,,On the island... Yes, there's no doubt about it!
+Dialogue: 0,0:18:36.13,0:18:39.67,Default,,0000,0000,0000,,So what's the matter?! Just spit it out!
+Dialogue: 0,0:18:39.67,0:18:42.22,Default,,0000,0000,0000,,It's the deserter, Vice Admiral Saul!
+Dialogue: 0,0:18:42.63,0:18:44.60,Default,,0000,0000,0000,,Saul! Go back! Please!
+Dialogue: 0,0:18:44.60,0:18:46.86,Default,,0000,0000,0000,,No! I can't do that!
+Dialogue: 0,0:18:47.46,0:18:49.81,Default,,0000,0000,0000,,Robin! Be proud, Robin!
+Dialogue: 0,0:18:50.05,0:18:53.77,Default,,0000,0000,0000,,Your mom is honorable! Ohara is honorable!
+Dialogue: 0,0:18:53.77,0:18:58.31,Default,,0000,0000,0000,,Someday, pass down this island's history, Robin!
+Dialogue: 0,0:18:58.56,0:19:02.19,Default,,0000,0000,0000,,Ohara fought against the world!
+Dialogue: 0,0:19:05.07,0:19:07.72,Default,,0000,0000,0000,,Stop it! Capturing them is enough!
+Dialogue: 0,0:19:08.37,0:19:13.08,Default,,0000,0000,0000,,They're not even violent pirates! Are you\Nso weak that you can't suppress them?!
+Dialogue: 0,0:19:13.87,0:19:17.04,Default,,0000,0000,0000,,We've caught history\Nexploration ships many times,
+Dialogue: 0,0:19:17.04,0:19:20.86,Default,,0000,0000,0000,,but I don't understand why they had to die.
+Dialogue: 0,0:19:21.29,0:19:24.55,Default,,0000,0000,0000,,Vice Admiral Saul! We found one survivor!
+Dialogue: 0,0:19:25.31,0:19:26.76,Default,,0000,0000,0000,,How dare you kill my fellow scholars?!
+Dialogue: 0,0:19:28.34,0:19:30.73,Default,,0000,0000,0000,,Do you really want the weapon?
+Dialogue: 0,0:19:31.13,0:19:32.18,Default,,0000,0000,0000,,What pitiful people...
+Dialogue: 0,0:19:32.97,0:19:34.89,Default,,0000,0000,0000,,You don't have your own will\Nand yet you cast judgment on us...
+Dialogue: 0,0:19:34.89,0:19:36.35,Default,,0000,0000,0000,,Hey! He's a Vice Admiral!
+Dialogue: 0,0:19:36.35,0:19:39.80,Default,,0000,0000,0000,,...not doubting laws and saying it's\Nto prevent the revival of the weapon!
+Dialogue: 0,0:19:40.94,0:19:44.78,Default,,0000,0000,0000,,You're just frightened by the\Nhistory that you don't even know!
+Dialogue: 0,0:19:46.48,0:19:47.84,Default,,0000,0000,0000,,This is a top-secret mission.
+Dialogue: 0,0:19:48.14,0:19:50.00,Default,,0000,0000,0000,,Buster Call?
+Dialogue: 0,0:19:50.42,0:19:54.10,Default,,0000,0000,0000,,Five Vice Admirals command\Nten battleships in a Buster Call.
+Dialogue: 0,0:19:54.10,0:19:55.50,Default,,0000,0000,0000,,I want you to be one of them.
+Dialogue: 0,0:19:55.66,0:19:59.62,Default,,0000,0000,0000,,They are just scholars.\NWhy do we have to go that far?
+Dialogue: 0,0:19:59.62,0:20:02.12,Default,,0000,0000,0000,,Those scholars that we've captured, too!
+Dialogue: 0,0:20:02.12,0:20:05.46,Default,,0000,0000,0000,,They look like they just really\Nwant to know the history to me!
+Dialogue: 0,0:20:05.46,0:20:09.23,Default,,0000,0000,0000,,If their research is so dangerous,\Nthe Government should help them, too!
+Dialogue: 0,0:20:09.63,0:20:12.15,Default,,0000,0000,0000,,We're the ones who actually have to kill people!
+Dialogue: 0,0:20:12.64,0:20:15.68,Default,,0000,0000,0000,,Give me the proof that they're completely evil!
+Dialogue: 0,0:20:15.68,0:20:18.65,Default,,0000,0000,0000,,Are you doubting the Government?\NDon't fight! Just follow orders!
+Dialogue: 0,0:20:23.81,0:20:27.41,Default,,0000,0000,0000,,I'd like to ask you some questions.
+Dialogue: 0,0:20:27.41,0:20:31.37,Default,,0000,0000,0000,,This is an emergency! Vice Admiral\NSaul took a criminal and deserted!
+Dialogue: 0,0:20:32.57,0:20:35.85,Default,,0000,0000,0000,,He knows everything about the operation.
+Dialogue: 0,0:20:36.28,0:20:39.04,Default,,0000,0000,0000,,After them! Capture Saul and Olvia without fail!
+Dialogue: 0,0:20:39.79,0:20:41.29,Default,,0000,0000,0000,,You can shoot them if needed!
+Dialogue: 0,0:20:41.96,0:20:44.99,Default,,0000,0000,0000,,Pursuers are coming! I'll deal with them!
+Dialogue: 0,0:20:45.17,0:20:47.97,Default,,0000,0000,0000,,You'll never be able to\Ngo back to the Navy, Saul.
+Dialogue: 0,0:20:48.34,0:20:52.94,Default,,0000,0000,0000,,That's fine. I can't stay in the\NNavy having this sense of distrust.
+Dialogue: 0,0:20:53.51,0:20:57.64,Default,,0000,0000,0000,,Even if they're obeying the law,\Nthis operation is too tyrannical.
+Dialogue: 0,0:20:57.64,0:20:59.89,Default,,0000,0000,0000,,I'm just following my sense of justice.
+Dialogue: 0,0:20:59.89,0:21:02.85,Default,,0000,0000,0000,,Now, hurry to your hometown\Nto let people know.
+Dialogue: 0,0:21:02.85,0:21:04.40,Default,,0000,0000,0000,,I'm not gonna thank you for this.
+Dialogue: 0,0:21:04.40,0:21:06.34,Default,,0000,0000,0000,,Good luck.
+Dialogue: 0,0:21:10.19,0:21:11.54,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:21:13.70,0:21:15.83,Default,,0000,0000,0000,,They're aiming at me!
+Dialogue: 0,0:21:21.12,0:21:22.70,Default,,0000,0000,0000,,Saul!
+Dialogue: 0,0:21:23.04,0:21:24.33,Default,,0000,0000,0000,,Ah! It hit him!
+Dialogue: 0,0:21:24.33,0:21:25.46,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:21:25.46,0:21:28.88,Default,,0000,0000,0000,,Don't apologize! He's already\Nthose evil people's accomplice!
+Dialogue: 0,0:21:28.88,0:21:32.76,Default,,0000,0000,0000,,I'm sorry, Robin. That must've scared you.
+Dialogue: 0,0:21:34.09,0:21:35.85,Default,,0000,0000,0000,,Hold on a sec.
+Dialogue: 0,0:21:36.31,0:21:41.78,Default,,0000,0000,0000,,That must be it! Firing this close?\NWhat if you had hurt Robin?!
+Dialogue: 0,0:21:42.31,0:21:44.73,Default,,0000,0000,0000,,Vice Admiral! Please stop! What're you doing?!
+Dialogue: 0,0:21:44.73,0:21:49.90,Default,,0000,0000,0000,,I don't know what justice is in this situation,\Nso I'll just protect my friend!
+Dialogue: 0,0:21:49.90,0:21:52.04,Default,,0000,0000,0000,,Stop it! Saul!
+Dialogue: 0,0:21:52.53,0:21:53.90,Default,,0000,0000,0000,,Be prepared!
+Dialogue: 0,0:21:53.90,0:22:00.22,Default,,0000,0000,0000,,If you make an enemy of me,\NI'll make you pay for it!
+Dialogue: 0,0:22:13.04,0:22:17.14,Italics,,0000,0000,0000,,We fight harder against\Nthe wall that confronts us
+Dialogue: 0,0:22:17.14,0:22:21.06,Italics,,0000,0000,0000,,We charge ahead stronger\Nwith overflowing power
+Dialogue: 0,0:22:21.06,0:22:25.19,Italics,,0000,0000,0000,,We won't fear even if we\Nhave to give up everything
+Dialogue: 0,0:22:25.19,0:22:28.19,Italics,,0000,0000,0000,,Because it's all to ensure we smile in the end
+Dialogue: 0,0:22:29.61,0:22:31.45,Italics,,0000,0000,0000,,We'll become No. 1
+Dialogue: 0,0:22:31.45,0:22:33.32,Italics,,0000,0000,0000,,We'll aim for freedom in wonderland
+Dialogue: 0,0:22:33.32,0:22:35.53,Italics,,0000,0000,0000,,Look, there's a faint light\Nshowing us the road to tomorrow,
+Dialogue: 0,0:22:35.53,0:22:37.70,Italics,,0000,0000,0000,,an era created by risking everything
+Dialogue: 0,0:22:37.70,0:22:39.83,Italics,,0000,0000,0000,,We always try our best, let's go!
+Dialogue: 0,0:22:39.83,0:22:41.83,Italics,,0000,0000,0000,,If we want to achieve glory,
+Dialogue: 0,0:22:41.83,0:22:43.21,Italics,,0000,0000,0000,,now is the time--don't be afraid
+Dialogue: 0,0:22:43.21,0:22:45.13,Italics,,0000,0000,0000,,We'll surely win the future\Ntogether with friends
+Dialogue: 0,0:22:45.13,0:22:49.09,Italics,,0000,0000,0000,,Now, we start running faster\Ntowards the vast world
+Dialogue: 0,0:22:49.09,0:22:53.09,Italics,,0000,0000,0000,,We can take off with unknown powers
+Dialogue: 0,0:22:53.09,0:22:55.35,Italics,,0000,0000,0000,,We don't fear, and we don't waver
+Dialogue: 0,0:22:55.35,0:22:59.06,Italics,,0000,0000,0000,,No matter what happens,\Nin the end we'll surely...
+Dialogue: 0,0:22:59.06,0:23:03.10,Italics,,0000,0000,0000,,We fight harder against\Nthe wall that confronts us
+Dialogue: 0,0:23:03.10,0:23:07.07,Italics,,0000,0000,0000,,We charge ahead stronger\Nwith overflowing power
+Dialogue: 0,0:23:07.07,0:23:11.32,Italics,,0000,0000,0000,,We won't fear even if we\Nhave to give up everything
+Dialogue: 0,0:23:11.32,0:23:13.32,Italics,,0000,0000,0000,,Charge ahead
+Dialogue: 0,0:23:13.32,0:23:15.20,Italics,,0000,0000,0000,,Let's start running towards tomorrow
+Dialogue: 0,0:23:15.20,0:23:18.20,Italics,,0000,0000,0000,,Because it's all to ensure we smile in the end
+Dialogue: 0,0:23:25.37,0:23:28.58,Default,,0000,0000,0000,,Robin! We still haven't heard you say it!
+Dialogue: 0,0:23:28.58,0:23:30.71,Default,,0000,0000,0000,,Say you want to live!
+Dialogue: 0,0:23:30.71,0:23:31.96,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:23:31.96,0:23:33.00,Default,,0000,0000,0000,,Robin...
+Dialogue: 0,0:23:33.00,0:23:34.71,Default,,0000,0000,0000,,--Robin...\N--Robin-chan!
+Dialogue: 0,0:23:34.71,0:23:36.51,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:23:36.51,0:23:39.85,Default,,0000,0000,0000,,I... I...
+Dialogue: 0,0:23:40.72,0:23:42.47,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:42.47,0:23:46.07,Default,,0000,0000,0000,,"Say You Want to Live! We Are Your Friends!!"
+Dialogue: 0,0:23:46.07,0:23:48.46,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

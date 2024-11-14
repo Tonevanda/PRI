@@ -1,0 +1,313 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.95,0:00:23.29,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:23.29,0:00:26.88,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:26.88,0:00:30.09,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:30.09,0:00:33.63,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:41.22,0:00:48.77,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:48.77,0:00:55.95,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:55.95,0:01:02.91,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:01:02.91,0:01:10.04,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:01:10.04,0:01:13.55,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:01:13.55,0:01:17.43,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:17.43,0:01:21.43,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:21.43,0:01:24.43,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:24.48,0:01:28.60,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:28.65,0:01:32.15,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:32.15,0:01:35.15,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:35.15,0:01:39.66,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:39.66,0:01:43.37,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:43.37,0:01:46.66,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:46.66,0:01:49.67,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:49.67,0:01:55.46,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:55.46,0:01:58.05,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:02:08.06,0:02:09.15,Default,,0000,0000,0000,,Zoro...!
+Dialogue: 0,0:02:12.57,0:02:13.36,Default,,0000,0000,0000,,Where is Luffy?
+Dialogue: 0,0:02:13.36,0:02:16.82,Default,,0000,0000,0000,,Did Luffy get cut down by Zoro?
+Dialogue: 0,0:02:19.49,0:02:21.20,Default,,0000,0000,0000,,Don't tell me... It can't be...
+Dialogue: 0,0:02:25.62,0:02:27.50,Default,,0000,0000,0000,,Where's our captain?
+Dialogue: 0,0:02:34.17,0:02:36.21,Default,,0000,0000,0000,,You damn swordsman...!
+Dialogue: 0,0:02:36.21,0:02:40.18,Default,,0000,0000,0000,,If you're gonna harm the ladies,\NI'll be your opponent.
+Dialogue: 0,0:02:50.64,0:02:53.56,Default,,0000,0000,0000,,He said, "I still haven't\Nplayed my trump card yet"!
+Dialogue: 0,0:03:02.28,0:03:11.71,B1,,0000,0000,0000,,{\fad(2000,2000)}"The Last Counterattack by the Memory\NThief Who Revealed His True Colors!"
+Dialogue: 0,0:03:19.01,0:03:23.80,Default,,0000,0000,0000,,Oooh! All right! I'm... me!
+Dialogue: 0,0:03:23.80,0:03:28.14,Default,,0000,0000,0000,,Ahhh! I'm me!
+Dialogue: 0,0:03:35.98,0:03:38.86,Default,,0000,0000,0000,,Excuse me, but aren't you one of the guests?
+Dialogue: 0,0:03:38.86,0:03:41.70,Default,,0000,0000,0000,,That's right! I'm a guest!
+Dialogue: 0,0:03:42.40,0:03:44.62,Default,,0000,0000,0000,,Why am I dressed like this?
+Dialogue: 0,0:03:49.50,0:03:52.83,Default,,0000,0000,0000,,What're you doing, manager?!\NPlease come to the front desk right away!
+Dialogue: 0,0:03:53.58,0:03:57.63,Default,,0000,0000,0000,,So I was right... I'm the inn manager, aren't I?
+Dialogue: 0,0:03:58.75,0:04:03.38,Default,,0000,0000,0000,,M-Mom! Where have you been?!
+Dialogue: 0,0:04:03.38,0:04:07.39,Default,,0000,0000,0000,,I'm sorry. Are you okay? How have you been?
+Dialogue: 0,0:04:08.68,0:04:14.65,Default,,0000,0000,0000,,All right! Our memories...\NOur memories are back!
+Dialogue: 0,0:04:23.90,0:04:27.32,Default,,0000,0000,0000,,E-Everyone! There's trouble!
+Dialogue: 0,0:04:28.95,0:04:30.45,Default,,0000,0000,0000,,Oh, it's you, Drim.
+Dialogue: 0,0:04:30.45,0:04:31.75,Default,,0000,0000,0000,,Don't scare us like that.
+Dialogue: 0,0:04:31.75,0:04:33.66,Default,,0000,0000,0000,,Drim... Drim...!
+Dialogue: 0,0:04:34.33,0:04:36.96,Default,,0000,0000,0000,,Mom! Mom!
+Dialogue: 0,0:04:36.96,0:04:38.71,Default,,0000,0000,0000,,So you're okay.
+Dialogue: 0,0:04:45.34,0:04:47.97,Default,,0000,0000,0000,,Looks like everyone's memories are back.
+Dialogue: 0,0:04:47.97,0:04:49.26,Default,,0000,0000,0000,,Good, good.
+Dialogue: 0,0:04:49.26,0:04:52.89,Default,,0000,0000,0000,,But how did something like that happen?
+Dialogue: 0,0:04:54.56,0:04:56.35,Default,,0000,0000,0000,,Everyone! There's trouble!
+Dialogue: 0,0:04:56.98,0:05:00.52,Default,,0000,0000,0000,,The one who took our\Nmemories away is in the forest!
+Dialogue: 0,0:05:02.23,0:05:03.49,Default,,0000,0000,0000,,--What?!\N--What?!
+Dialogue: 0,0:05:20.00,0:05:21.30,Default,,0000,0000,0000,,What's it saying?
+Dialogue: 0,0:05:21.30,0:05:23.13,Default,,0000,0000,0000,,"T-Take them out, Roronoa Zoro!"
+Dialogue: 0,0:05:25.17,0:05:26.09,Default,,0000,0000,0000,,So he said.
+Dialogue: 0,0:05:26.09,0:05:31.81,Default,,0000,0000,0000,,S-See? He's being controlled by that thing!
+Dialogue: 0,0:05:44.36,0:05:47.32,Default,,0000,0000,0000,,Hey, someone, do something...
+Dialogue: 0,0:05:49.78,0:05:57.04,Default,,0000,0000,0000,,Geez... You damn swordsman,\Nyou're always bringing in trouble...!
+Dialogue: 0,0:06:00.54,0:06:02.29,Default,,0000,0000,0000,,Ahh, Sanji! Be careful!
+Dialogue: 0,0:06:02.29,0:06:03.05,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:07.55,0:06:09.68,Default,,0000,0000,0000,,"Now this will buy me some time"?
+Dialogue: 0,0:06:10.51,0:06:11.89,Default,,0000,0000,0000,,Collier!
+Dialogue: 0,0:06:14.93,0:06:16.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:25.73,0:06:27.28,Default,,0000,0000,0000,,Don't interfere...
+Dialogue: 0,0:06:28.53,0:06:30.57,Default,,0000,0000,0000,,...you idiot cook!
+Dialogue: 0,0:06:36.50,0:06:38.21,Default,,0000,0000,0000,,Oh? There he is!
+Dialogue: 0,0:06:42.17,0:06:45.13,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:06:58.56,0:06:59.94,Default,,0000,0000,0000,,So you're okay!
+Dialogue: 0,0:07:00.77,0:07:03.15,Default,,0000,0000,0000,,Luffy! What'd you do that for?!
+Dialogue: 0,0:07:03.94,0:07:07.61,Default,,0000,0000,0000,,Zoro, did you just... say "Luffy"?
+Dialogue: 0,0:07:08.90,0:07:09.57,Default,,0000,0000,0000,,Tsk.
+Dialogue: 0,0:07:09.57,0:07:12.28,Default,,0000,0000,0000,,So your memories are back?!
+Dialogue: 0,0:07:12.28,0:07:13.62,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:07:13.62,0:07:17.16,Default,,0000,0000,0000,,Your face is scary! If your memories are back,
+Dialogue: 0,0:07:17.16,0:07:22.54,Default,,0000,0000,0000,,then approach us with\Na smiling, kind face like this!
+Dialogue: 0,0:07:22.67,0:07:24.79,Default,,0000,0000,0000,,Argh! Shut up!
+Dialogue: 0,0:07:25.63,0:07:27.63,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:07:27.63,0:07:30.13,Default,,0000,0000,0000,,Hm? Who am I?!
+Dialogue: 0,0:07:30.13,0:07:34.80,Default,,0000,0000,0000,,--Huh?!\N--Hey! Don't make it more\Ncomplicated than it already is!
+Dialogue: 0,0:07:34.80,0:07:37.18,Default,,0000,0000,0000,,Ah, Zoro! How dare you do that earlier?!
+Dialogue: 0,0:07:37.18,0:07:39.52,Default,,0000,0000,0000,,Geez, do what you want, you guys...
+Dialogue: 0,0:07:41.14,0:07:44.52,Default,,0000,0000,0000,,Good! Now we're all back to normal.
+Dialogue: 0,0:07:44.52,0:07:49.61,Default,,0000,0000,0000,,Robin-chan really is wonderful, to figure out\Nthat that sea horse horn is the real culprit.
+Dialogue: 0,0:07:49.61,0:07:51.15,Default,,0000,0000,0000,,What?! So that was it?!
+Dialogue: 0,0:07:51.15,0:07:53.32,Default,,0000,0000,0000,,You were the first one to\Nget your memories back.
+Dialogue: 0,0:07:53.32,0:07:55.49,Default,,0000,0000,0000,,Why didn't you notice it?
+Dialogue: 0,0:07:55.49,0:07:58.45,Default,,0000,0000,0000,,How rude! I'm better than Zoro!
+Dialogue: 0,0:07:58.45,0:08:00.41,Default,,0000,0000,0000,,So where did that thing go?
+Dialogue: 0,0:08:00.79,0:08:01.58,Default,,0000,0000,0000,,Ah...
+Dialogue: 0,0:08:02.33,0:08:03.50,Default,,0000,0000,0000,,Did it get away?
+Dialogue: 0,0:08:03.50,0:08:05.13,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:08:07.17,0:08:08.59,Default,,0000,0000,0000,,...it's so obvious where it is.
+Dialogue: 0,0:08:31.40,0:08:34.53,Default,,0000,0000,0000,,You're right. It turned pale.
+Dialogue: 0,0:08:34.53,0:08:38.41,Default,,0000,0000,0000,,It should've hurried up and escaped.\NDoes it think it's hiding wel--
+Dialogue: 0,0:08:38.41,0:08:42.37,Default,,0000,0000,0000,,You bastard! How dare you manipulate me?!
+Dialogue: 0,0:08:42.37,0:08:44.54,Default,,0000,0000,0000,,I'm gonna catch and fillet you!
+Dialogue: 0,0:08:46.42,0:08:49.17,Default,,0000,0000,0000,,Oh, his feelings are hurt in his own way.
+Dialogue: 0,0:08:49.17,0:08:51.88,Default,,0000,0000,0000,,"Now, catch me if you can!"
+Dialogue: 0,0:08:51.88,0:08:53.80,Default,,0000,0000,0000,,"You really piss me off! Hold it!"
+Dialogue: 0,0:08:53.80,0:08:55.59,Default,,0000,0000,0000,,"Hahaha! You can't catch me!"
+Dialogue: 0,0:08:55.59,0:08:58.39,Default,,0000,0000,0000,,"Then how about this?!"
+Dialogue: 0,0:08:58.39,0:09:00.26,Default,,0000,0000,0000,,"I'm right here!"
+Dialogue: 0,0:09:00.26,0:09:04.35,Default,,0000,0000,0000,,"What?! No way! Now, I'm getting serious!"
+Dialogue: 0,0:09:04.35,0:09:08.31,Default,,0000,0000,0000,,"There, I've caught you!"
+Dialogue: 0,0:09:08.31,0:09:10.82,Default,,0000,0000,0000,,"I'm not gonna let you go!"
+Dialogue: 0,0:09:15.24,0:09:18.12,Default,,0000,0000,0000,,You're next, Usopp!
+Dialogue: 0,0:09:20.24,0:09:23.45,Default,,0000,0000,0000,,"I'm going to play my... trump card"?!
+Dialogue: 0,0:09:27.29,0:09:28.38,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:39.22,0:09:40.85,Default,,0000,0000,0000,,C-Can't be...!
+Dialogue: 0,0:09:42.22,0:09:44.39,Default,,0000,0000,0000,,Bellemere-san... is that you?
+Dialogue: 0,0:09:51.06,0:09:52.40,Default,,0000,0000,0000,,Doctor...!
+Dialogue: 0,0:09:55.53,0:09:56.70,Default,,0000,0000,0000,,Kaya...!
+Dialogue: 0,0:09:58.45,0:10:00.57,Default,,0000,0000,0000,,Are you better now?
+Dialogue: 0,0:10:19.34,0:10:20.18,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:10:23.31,0:10:25.14,Default,,0000,0000,0000,,Whoooa!
+Dialogue: 0,0:10:26.43,0:10:28.52,Default,,0000,0000,0000,,How have you been?!
+Dialogue: 0,0:10:31.61,0:10:32.65,Default,,0000,0000,0000,,These are...
+Dialogue: 0,0:10:36.49,0:10:39.03,Default,,0000,0000,0000,,...afterimages of their memories...
+Dialogue: 0,0:10:51.46,0:10:54.92,Default,,0000,0000,0000,,You wanna fight, you jerks?!\NI'll kick all your asses at once!
+Dialogue: 0,0:11:13.86,0:11:15.15,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:11:15.15,0:11:16.78,Default,,0000,0000,0000,,Shoot...!
+Dialogue: 0,0:11:22.74,0:11:25.24,Default,,0000,0000,0000,,Dammit! I can't move!
+Dialogue: 0,0:11:28.91,0:11:30.66,Default,,0000,0000,0000,,What is it saying?
+Dialogue: 0,0:11:30.66,0:11:36.04,Default,,0000,0000,0000,,"Thanks to you guys, I even lost all the\Nmemories I collected from the villagers.
+Dialogue: 0,0:11:36.04,0:11:40.34,Default,,0000,0000,0000,,But if I can obtain all your rich memories,
+Dialogue: 0,0:11:40.34,0:11:41.93,Default,,0000,0000,0000,,I can become one!"
+Dialogue: 0,0:11:41.93,0:11:43.14,Default,,0000,0000,0000,,Become what?
+Dialogue: 0,0:11:43.14,0:11:44.43,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:11:57.65,0:12:00.36,Default,,0000,0000,0000,,"I'm not going to miss this opportunity!"
+Dialogue: 0,0:13:06.76,0:13:08.80,Default,,0000,0000,0000,,What the heck is that?!
+Dialogue: 0,0:13:10.06,0:13:11.77,Default,,0000,0000,0000,,And...
+Dialogue: 0,0:13:11.77,0:13:14.43,Default,,0000,0000,0000,,...who am I?!
+Dialogue: 0,0:13:14.43,0:13:16.35,Default,,0000,0000,0000,,Who are you guys?
+Dialogue: 0,0:13:17.94,0:13:20.02,Default,,0000,0000,0000,,Who am I?
+Dialogue: 0,0:13:24.65,0:13:26.15,Default,,0000,0000,0000,,Hey, the one who's drowning over there!
+Dialogue: 0,0:13:26.15,0:13:28.03,Default,,0000,0000,0000,,--Huh?\N--Do you know?
+Dialogue: 0,0:13:28.03,0:13:28.99,Default,,0000,0000,0000,,How would I know?!
+Dialogue: 0,0:13:32.45,0:13:35.71,Default,,0000,0000,0000,,"All right! I was able to\Nbecome a Millennial Dragon"?
+Dialogue: 0,0:13:35.71,0:13:40.04,Default,,0000,0000,0000,,--You...!\N--Amazing! You can understand what it's saying?!
+Dialogue: 0,0:13:40.04,0:13:42.92,Default,,0000,0000,0000,,--Err...\N--Hey... This raccoon dog talks!
+Dialogue: 0,0:13:43.88,0:13:48.22,Default,,0000,0000,0000,,Ahhh! Am I a raccoon dog?!
+Dialogue: 0,0:13:48.22,0:13:51.64,Default,,0000,0000,0000,,A talking raccoon dog and a Millennial Dragon...
+Dialogue: 0,0:13:51.64,0:13:54.47,Default,,0000,0000,0000,,And a damn bastard who almost drowned...
+Dialogue: 0,0:13:54.47,0:13:55.60,Default,,0000,0000,0000,,What the heck...?
+Dialogue: 0,0:13:55.60,0:14:02.36,Default,,0000,0000,0000,,Just watching that dragon...\Nsomehow gets me pissed off! Why?!
+Dialogue: 0,0:14:02.36,0:14:06.03,Default,,0000,0000,0000,,What happened? How? Why?
+Dialogue: 0,0:14:06.53,0:14:09.99,Default,,0000,0000,0000,,Strange... Why am I here?
+Dialogue: 0,0:14:09.99,0:14:12.03,Default,,0000,0000,0000,,Amazing!
+Dialogue: 0,0:14:12.03,0:14:14.16,Default,,0000,0000,0000,,A dragon, huh? I wanna ride it!
+Dialogue: 0,0:14:14.16,0:14:16.91,Default,,0000,0000,0000,,Are you an idiot? There's no\Nway you can ride it from...
+Dialogue: 0,0:14:16.91,0:14:21.84,Default,,0000,0000,0000,,You don't know until you try... Ahh!
+Dialogue: 0,0:14:24.13,0:14:26.01,Default,,0000,0000,0000,,What the heck is he?!
+Dialogue: 0,0:14:30.34,0:14:33.72,Default,,0000,0000,0000,,What's going on?! My arms and legs stretch!
+Dialogue: 0,0:14:33.72,0:14:35.18,Default,,0000,0000,0000,,This is fun!
+Dialogue: 0,0:14:36.85,0:14:39.35,Default,,0000,0000,0000,,He really jumped on it...
+Dialogue: 0,0:14:39.35,0:14:41.73,Default,,0000,0000,0000,,Wait... What's with his body?!
+Dialogue: 0,0:14:41.73,0:14:42.86,Default,,0000,0000,0000,,He's a monster.
+Dialogue: 0,0:14:48.57,0:14:50.91,Default,,0000,0000,0000,,It's dangerous! Hey, keep still!
+Dialogue: 0,0:14:59.92,0:15:02.88,Default,,0000,0000,0000,,Somehow that thing looks like it's in pain.
+Dialogue: 0,0:15:03.92,0:15:06.59,Default,,0000,0000,0000,,"Let go of me! Hey! The memories\Nare going to leak out"?!
+Dialogue: 0,0:15:06.59,0:15:08.13,Default,,0000,0000,0000,,Memories?
+Dialogue: 0,0:15:30.49,0:15:33.91,Default,,0000,0000,0000,,Again and again...
+Dialogue: 0,0:15:35.41,0:15:38.41,Default,,0000,0000,0000,,How dare you steal our memories?!
+Dialogue: 0,0:15:38.41,0:15:40.21,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:15:44.58,0:15:47.55,Default,,0000,0000,0000,,What is it saying?! Chopper!
+Dialogue: 0,0:15:48.00,0:15:51.01,Default,,0000,0000,0000,,Chopper? M-Me?
+Dialogue: 0,0:15:51.01,0:15:53.26,Default,,0000,0000,0000,,Who else could it be?! Right?!
+Dialogue: 0,0:15:55.01,0:15:56.55,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:15:56.55,0:16:00.68,Default,,0000,0000,0000,,"I was finally able to become a\NMillennial Dragon! Don't interfere!"
+Dialogue: 0,0:16:00.68,0:16:02.31,Default,,0000,0000,0000,,Oh, yeah?!
+Dialogue: 0,0:16:07.02,0:16:10.24,Default,,0000,0000,0000,,People's memories aren't yours to take!
+Dialogue: 0,0:16:10.24,0:16:12.90,Default,,0000,0000,0000,,If you wanna become a Millennial Dragon,
+Dialogue: 0,0:16:12.90,0:16:15.99,Default,,0000,0000,0000,,become one by making your own big memory!
+Dialogue: 0,0:16:18.54,0:16:22.00,Default,,0000,0000,0000,,"Shut up! Take this! This is it!"
+Dialogue: 0,0:16:24.71,0:16:29.13,Default,,0000,0000,0000,,Gum-Gum... Pistol!
+Dialogue: 0,0:16:34.68,0:16:37.35,Default,,0000,0000,0000,,If you wanna fly that bad...
+Dialogue: 0,0:16:37.35,0:16:40.18,Default,,0000,0000,0000,,I'll send you flying!
+Dialogue: 0,0:17:17.05,0:17:18.47,Default,,0000,0000,0000,,--Hey...\N--Hm?
+Dialogue: 0,0:17:19.14,0:17:20.51,Default,,0000,0000,0000,,You're gonna catch a cold.
+Dialogue: 0,0:17:29.65,0:17:31.57,Default,,0000,0000,0000,,I kicked its ass!
+Dialogue: 0,0:17:36.91,0:17:38.36,Default,,0000,0000,0000,,At any rate...
+Dialogue: 0,0:17:38.36,0:17:43.83,Default,,0000,0000,0000,,...if I remember right,\Ndon't Millennial Dragons hatch from eggs?
+Dialogue: 0,0:17:43.83,0:17:47.29,Default,,0000,0000,0000,,Yeah. You can't become one\Njust by eating memories.
+Dialogue: 0,0:17:47.29,0:17:48.79,Default,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:17:48.79,0:17:50.96,Default,,0000,0000,0000,,Yeah, you probably don't know it,
+Dialogue: 0,0:17:50.96,0:17:54.76,Default,,0000,0000,0000,,but we saw it with our own eyes\Nbefore we entered the Grand Line.
+Dialogue: 0,0:17:54.76,0:17:56.72,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:17:56.72,0:18:00.10,Default,,0000,0000,0000,,Well, forget that. People must be\Nmaking a racket in the village by now!
+Dialogue: 0,0:18:00.10,0:18:04.43,Default,,0000,0000,0000,,After all, we're their benefactors who\Ngot all the villagers' memories back!
+Dialogue: 0,0:18:04.43,0:18:06.73,Default,,0000,0000,0000,,No doubt they're gonna treat us like heroes!
+Dialogue: 0,0:18:06.73,0:18:09.48,Default,,0000,0000,0000,,First all-you-can-drink party\Nwe've had in a while, huh?
+Dialogue: 0,0:18:09.48,0:18:11.77,Default,,0000,0000,0000,,There's something you wanna forget?
+Dialogue: 0,0:18:11.77,0:18:12.69,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:18:12.69,0:18:16.15,Default,,0000,0000,0000,,Seems like we can expect\Nthem to reward us good!
+Dialogue: 0,0:18:16.15,0:18:19.11,Default,,0000,0000,0000,,I want a bronze statue.
+Dialogue: 0,0:18:19.11,0:18:22.58,Default,,0000,0000,0000,,I'm gonna be so popular\Nwith girls, huh? Not bad.
+Dialogue: 0,0:18:22.58,0:18:26.58,Default,,0000,0000,0000,,What about you, Robin? If you're able\Nto get something, what would you like?
+Dialogue: 0,0:18:26.58,0:18:28.41,Default,,0000,0000,0000,,Books, as expected?
+Dialogue: 0,0:18:28.41,0:18:32.54,Default,,0000,0000,0000,,Yeah. If possible, maybe books\Non this island's history.
+Dialogue: 0,0:18:32.54,0:18:37.63,Default,,0000,0000,0000,,I knew it! I want a medical book--\None that's this thick!
+Dialogue: 0,0:18:37.63,0:18:40.51,Default,,0000,0000,0000,,We can see the seashore now.
+Dialogue: 0,0:18:44.85,0:18:49.98,Default,,0000,0000,0000,,Hey, ladies and gentlemen!\NThanks for coming to greet us!
+Dialogue: 0,0:18:51.98,0:18:53.06,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:53.06,0:18:54.82,Default,,0000,0000,0000,,--What?!\N--Why?!
+Dialogue: 0,0:18:56.86,0:18:58.28,Default,,0000,0000,0000,,U-Um... H-Hey...
+Dialogue: 0,0:18:59.53,0:19:00.99,Default,,0000,0000,0000,,I-It's them!
+Dialogue: 0,0:19:00.99,0:19:03.12,Default,,0000,0000,0000,,Everyone! Attack!
+Dialogue: 0,0:19:03.95,0:19:06.08,Default,,0000,0000,0000,,Ahhh! What's going on?!
+Dialogue: 0,0:19:06.08,0:19:08.87,Default,,0000,0000,0000,,Usopp! Aren't we supposed to be heroes?!
+Dialogue: 0,0:19:08.87,0:19:11.42,Default,,0000,0000,0000,,Beats me! I wanna ask that question myself!
+Dialogue: 0,0:19:12.13,0:19:14.38,Default,,0000,0000,0000,,Nami-san! Where's the waver?
+Dialogue: 0,0:19:14.38,0:19:15.84,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:19:15.84,0:19:18.67,Default,,0000,0000,0000,,Hold it! Stop right there, pirates!
+Dialogue: 0,0:19:18.67,0:19:20.55,Default,,0000,0000,0000,,You damn memory thieves!
+Dialogue: 0,0:19:20.55,0:19:23.51,Default,,0000,0000,0000,,You damn girl! Pay your bill!
+Dialogue: 0,0:19:23.51,0:19:26.72,Default,,0000,0000,0000,,What's with them?! They think we did it!
+Dialogue: 0,0:19:27.60,0:19:28.47,Default,,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:19:28.47,0:19:32.65,Default,,0000,0000,0000,,Well, we're pirates. It can't be helped, huh?
+Dialogue: 0,0:19:35.94,0:19:39.11,Default,,0000,0000,0000,,Now that it's come to this,\Nwe're to the point of desperation!
+Dialogue: 0,0:19:41.36,0:19:43.36,Default,,0000,0000,0000,,Hey! Hold it! Stop it!
+Dialogue: 0,0:19:43.36,0:19:47.12,Default,,0000,0000,0000,,What pirate would stop just\Nbecause they're told to stop?!
+Dialogue: 0,0:19:59.55,0:20:02.51,Default,,0000,0000,0000,,I'm glad we made it back.
+Dialogue: 0,0:20:04.30,0:20:08.89,Default,,0000,0000,0000,,A big bronze statue... It was so close...
+Dialogue: 0,0:20:08.89,0:20:14.98,Default,,0000,0000,0000,,...to being built... A big, dark statue...
+Dialogue: 0,0:20:14.98,0:20:16.81,Default,,0000,0000,0000,,At any rate...
+Dialogue: 0,0:20:16.81,0:20:22.40,Default,,0000,0000,0000,,To think that losing memories\Nwould turn into such a big fuss...
+Dialogue: 0,0:20:22.40,0:20:24.32,Default,,0000,0000,0000,,Yeah, I totally agree.
+Dialogue: 0,0:20:24.32,0:20:28.03,Default,,0000,0000,0000,,There was even some guy who\Nschemed to make us his pirate crew.
+Dialogue: 0,0:20:28.03,0:20:33.37,Default,,0000,0000,0000,,Well... Sanji-kun... I just got\Ncarried away... I just got carried away.
+Dialogue: 0,0:20:37.09,0:20:38.50,Default,,0000,0000,0000,,On the other hand,
+Dialogue: 0,0:20:38.50,0:20:42.84,Default,,0000,0000,0000,,there was a damn simpleton\Nwhose body and soul got taken over.
+Dialogue: 0,0:20:42.84,0:20:44.09,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:20:44.09,0:20:46.93,Default,,0000,0000,0000,,To start with, if you were\Nactually standing guard,
+Dialogue: 0,0:20:46.93,0:20:50.68,Default,,0000,0000,0000,,this racket wouldn't have happened,\Nyou idiot moss-head!
+Dialogue: 0,0:20:50.68,0:20:52.93,Default,,0000,0000,0000,,Shut up! I was sleepy!
+Dialogue: 0,0:20:52.93,0:20:55.90,Default,,0000,0000,0000,,If you wanna sleep that much,\Nsleep for the rest of your life!
+Dialogue: 0,0:20:55.90,0:20:58.94,Default,,0000,0000,0000,,Argh! Shut up! That's enough!
+Dialogue: 0,0:20:59.52,0:21:03.74,Default,,0000,0000,0000,,Or would you like to lose your memories again?
+Dialogue: 0,0:21:03.74,0:21:08.12,Default,,0000,0000,0000,,Oh, Nami-san! Please don't say things like that!
+Dialogue: 0,0:21:11.91,0:21:14.71,Default,,0000,0000,0000,,My memories...
+Dialogue: 0,0:21:19.09,0:21:22.84,Default,,0000,0000,0000,,If I hadn't gotten my memories back...
+Dialogue: 0,0:21:22.84,0:21:24.92,Default,,0000,0000,0000,,...what would I have...
+Dialogue: 0,0:21:24.92,0:21:28.14,Default,,0000,0000,0000,,What's wrong... Robin?
+Dialogue: 0,0:21:28.14,0:21:29.18,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:31.51,0:21:33.10,Default,,0000,0000,0000,,I'm okay.
+Dialogue: 0,0:21:33.10,0:21:34.93,Default,,0000,0000,0000,,I'm a little sleepy, that's all.
+Dialogue: 0,0:21:35.81,0:21:40.82,Default,,0000,0000,0000,,It's just natural. Robin-chan hasn't\Nslept much because of this racket.
+Dialogue: 0,0:21:40.82,0:21:42.69,Default,,0000,0000,0000,,--Oh, that's right!\N--All right then!
+Dialogue: 0,0:21:42.69,0:21:45.57,Default,,0000,0000,0000,,I'll make a special healthy dinner with\Na mixture of herbal medicines tonight!
+Dialogue: 0,0:21:45.57,0:21:48.87,Default,,0000,0000,0000,,Ah, food! I forgot about it!
+Dialogue: 0,0:21:48.87,0:21:51.03,Default,,0000,0000,0000,,Sanji! Food!
+Dialogue: 0,0:21:51.03,0:21:54.33,Default,,0000,0000,0000,,I'm gonna make it now, so just wait quietly!
+Dialogue: 0,0:21:54.33,0:21:55.66,Default,,0000,0000,0000,,--Say, Luffy.\N--Hm?
+Dialogue: 0,0:21:55.66,0:21:58.62,Default,,0000,0000,0000,,Why didn't you come back\Nwith Zoro at that time?
+Dialogue: 0,0:21:58.62,0:22:02.71,Default,,0000,0000,0000,,Oh... Well, I got stuck\Nunder a rock Zoro cut down.
+Dialogue: 0,0:22:02.71,0:22:06.01,Default,,0000,0000,0000,,--A rock?!\N--Yeah. That was one huge, hard rock.
+Dialogue: 0,0:22:20.98,0:22:23.11,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:23.11,0:22:26.65,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:26.65,0:22:32.24,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:32.24,0:22:34.54,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:34.54,0:22:37.71,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:37.71,0:22:43.13,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:43.13,0:22:46.05,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:46.05,0:22:49.05,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:49.05,0:22:51.80,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:51.80,0:22:54.89,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:54.89,0:22:57.68,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:57.68,0:23:00.52,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:23:00.52,0:23:06.19,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:23:06.19,0:23:09.07,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:23:09.07,0:23:11.82,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:23:11.82,0:23:14.41,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:14.41,0:23:18.20,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:25.46,0:23:29.09,Default,,0000,0000,0000,,Now, things have been settled.\NTo the next island, full speed ahead!
+Dialogue: 0,0:23:29.09,0:23:30.68,Default,,0000,0000,0000,,Geez, you're full of hot air!
+Dialogue: 0,0:23:30.68,0:23:34.10,Default,,0000,0000,0000,,I think with this incident, you've all\Nlearned how important memories are.
+Dialogue: 0,0:23:34.10,0:23:35.43,Default,,0000,0000,0000,,What are you trying to summarize for?
+Dialogue: 0,0:23:35.43,0:23:37.85,Default,,0000,0000,0000,,Hm? I feel like I just saw something\NI don't wanna remember.
+Dialogue: 0,0:23:37.85,0:23:40.60,Default,,0000,0000,0000,,Oh, that Split-Head is...
+Dialogue: 0,0:23:40.60,0:23:41.98,Default,,0000,0000,0000,,Boss?!
+Dialogue: 0,0:23:41.98,0:23:43.27,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:43.27,0:23:46.40,Default,,0000,0000,0000,,"Proud Man! Silver Fox Foxy"
+Dialogue: 0,0:23:46.40,0:23:48.57,Default,,0000,0000,0000,,Him again?
