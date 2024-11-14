@@ -42,6 +42,12 @@
                         "class": "solr.LowerCaseFilterFactory"
                     },
                     {
+                        "class": "solr.SynonymGraphFilterFactory",
+                        "synonyms": "synonyms.txt",
+                        "ignoreCase": true,
+                        "tokenizerFactory": "solr.StandardTokenizerFactory"
+                    },
+                    {
                         "class": "solr.StopFilterFactory",
                         "words": "lang/stopwords_en.txt",
                         "ignoreCase": true
