@@ -1,0 +1,9 @@
+{
+    "query": "straw hats ((bounty~3)^5 raised^2)~2",
+    "fields": "id, Episode, score",
+    "params": {
+        "defType": "edismax",
+        "df": "Full_Text",
+        "rows": 30
+    }
+}

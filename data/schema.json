@@ -4,7 +4,7 @@
             "name":"text",
             "class":"solr.TextField",
             "positionIncrementGap":"100",
-            "indexAnalyzer": {
+            "analyzer": {
                 "tokenizer": {
                     "class":"solr.StandardTokenizerFactory"
                 },
@@ -21,25 +21,6 @@
                     },
                     {
                         "class": "solr.FlattenGraphFilterFactory"
-                    },
-                    {
-                        "class": "solr.StopFilterFactory",
-                        "words": "lang/stopwords_en.txt",
-                        "ignoreCase": true
-                    },
-                    {
-                        "class": "solr.PorterStemFilterFactory"
-                    }
-                ]
-            },
-            "queryAnalyzer": {
-                "tokenizer": {
-                    "class":"solr.StandardTokenizerFactory"
-                },
-                "filters": [
-                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
-                    {
-                        "class": "solr.LowerCaseFilterFactory"
                     },
                     {
                         "class": "solr.StopFilterFactory",
@@ -89,38 +70,27 @@
         },
         {
           "name": "Arc",
-          "type": "small_text",
+          "type": "text",
           "indexed": true,
-          "stored": true,
-          "docValues": true
+          "stored": true
         },
         {
           "name": "Saga",
-          "type": "small_text",
+          "type": "text",
           "indexed": true,
-          "stored": true,  
-          "docValues": true
+          "stored": true
         },
         {
           "name": "Opening",
-          "type": "small_text",
+          "type": "text",
           "indexed": true,
-          "stored": true,
-          "docValues": true
+          "stored": true
         },
         {
           "name": "Ending",
-          "type": "small_text",
-          "indexed": true,
-          "stored": true,
-          "docValues": true
-        },
-        {
-          "name": "Full_Text",
           "type": "text",
           "indexed": true,
-          "stored": false,
-          "multiValued": true
+          "stored": true
         },
         {
             "name": "Episode",
@@ -140,11 +110,5 @@
             "indexed": true,
             "stored": true
         }
-    ],
-    "add-copy-field": [
-        { "source": "Title", "dest": "Full_Text" },
-        { "source": "Summary", "dest": "Full_Text" },
-        { "source": "Arc", "dest": "Full_Text" },
-        { "source": "Saga", "dest": "Full_Text" }
     ]
 }
