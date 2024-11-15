@@ -1,0 +1,262 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.92,0:00:17.39,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:10.92,0:00:17.39,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:17.43,0:00:22.02,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:17.43,0:00:22.02,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:26.94,0:00:33.24,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:26.94,0:00:33.24,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha ni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:33.28,0:00:39.33,Default,,0000,0000,0000,,{\i1}Even the values we had built up were about to fall apart{\i0}
+Dialogue: 0,0:00:33.28,0:00:39.33,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae mo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:40.04,0:00:46.33,Default,,0000,0000,0000,,{\i1}Who knows if the compass is pointing in the right direction?{\i0}
+Dialogue: 0,0:00:40.04,0:00:46.33,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga tadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:46.38,0:00:49.92,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:46.38,0:00:49.92,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.22,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.22,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:56.26,0:01:03.06,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:00:56.26,0:01:03.06,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:01:03.39,0:01:09.82,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:03.39,0:01:09.82,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:09.86,0:01:14.40,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:09.86,0:01:14.40,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:15.53,0:01:18.57,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:15.53,0:01:18.57,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:18.62,0:01:22.29,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:18.62,0:01:22.29,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:22.79,0:01:26.58,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:22.79,0:01:26.58,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:26.62,0:01:32.13,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:26.62,0:01:32.13,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:32.17,0:01:39.05,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:32.17,0:01:39.05,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:39.09,0:01:45.48,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:39.09,0:01:45.48,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:45.52,0:01:51.27,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:45.52,0:01:51.27,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:51.32,0:01:54.65,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:51.32,0:01:54.65,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:54.69,0:01:58.61,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:54.69,0:01:58.61,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:58.66,0:02:04.62,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:01:58.66,0:02:04.62,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:02:13.59,0:02:17.84,Default,,0000,0000,0000,,{\i1}The stalemate of the battle gradually ends.{\i0}
+Dialogue: 0,0:02:19.26,0:02:21.18,Default,,0000,0000,0000,,How dare you hit my face...
+Dialogue: 0,0:02:22.01,0:02:27.10,Default,,0000,0000,0000,,You thought you could catch me easily\Nif you just lured me?
+Dialogue: 0,0:02:27.85,0:02:30.15,Default,,0000,0000,0000,,Robin-{\i1}chan{\i0}!
+Dialogue: 0,0:02:30.69,0:02:34.52,Default,,0000,0000,0000,,Nice try, full-moon warriors!
+Dialogue: 0,0:02:40.07,0:02:43.95,Default,,0000,0000,0000,,You guys need luck in weather to win!
+Dialogue: 0,0:02:44.53,0:02:48.96,Default,,0000,0000,0000,,{\i1}Kaido, finally in his extreme form,\Nstands in the way of Luffy and the others.{\i0}
+Dialogue: 0,0:02:51.21,0:02:51.88,Default,,0000,0000,0000,,Zoro...
+Dialogue: 0,0:02:53.38,0:02:56.59,Default,,0000,0000,0000,,--I need one minute.\N--Yeah, leave it to me.
+Dialogue: 0,0:03:01.22,0:03:06.31,Default,,0000,0000,0000,,{\i1}"No Regrets!\NLuffy and Boss, a Master-Disciple Bond!"{\i0}
+Dialogue: 0,0:03:09.23,0:03:10.35,Default,,0000,0000,0000,,This...
+Dialogue: 0,0:03:23.91,0:03:26.66,Default,,0000,0000,0000,,Damn, it's almost done...
+Dialogue: 0,0:03:32.71,0:03:34.42,Default,,0000,0000,0000,,Dr. Chopper?
+Dialogue: 0,0:03:36.88,0:03:38.17,Default,,0000,0000,0000,,Dr. Chopper!
+Dialogue: 0,0:03:42.97,0:03:44.39,Default,,0000,0000,0000,,I'm gonna fight it!
+Dialogue: 0,0:03:51.48,0:03:53.10,Default,,0000,0000,0000,,As a doctor,
+Dialogue: 0,0:03:53.60,0:03:57.94,Default,,0000,0000,0000,,I can't succumb to such an annoying virus!
+Dialogue: 0,0:03:58.98,0:04:03.07,Default,,0000,0000,0000,,I'm sorry, everyone! Hold out a little longer!
+Dialogue: 0,0:04:11.25,0:04:12.21,Default,,0000,0000,0000,,I can't...
+Dialogue: 0,0:04:20.01,0:04:23.55,Default,,0000,0000,0000,,This blue flame has to\Ndraw out my physical stamina,
+Dialogue: 0,0:04:24.55,0:04:26.51,Default,,0000,0000,0000,,but my stamina itself is...
+Dialogue: 0,0:04:26.97,0:04:28.85,Default,,0000,0000,0000,,...running out...
+Dialogue: 0,0:04:32.60,0:04:35.94,Default,,0000,0000,0000,,Fight it! Or you'll turn into an Ice Oni again!
+Dialogue: 0,0:04:35.98,0:04:40.78,Default,,0000,0000,0000,,You'll run wild until your energy runs out\Nand you'll die this time!
+Dialogue: 0,0:04:43.49,0:04:46.03,Default,,0000,0000,0000,,Don't give up, young man!
+Dialogue: 0,0:04:46.62,0:04:48.74,Default,,0000,0000,0000,,Get a hold of yourself!
+Dialogue: 0,0:04:49.53,0:04:54.41,Default,,0000,0000,0000,,Raccoon-{\i1}san{\i0} is enduring the same pain as you\Nbut is working hard to make antidotes!
+Dialogue: 0,0:04:55.25,0:04:57.79,Default,,0000,0000,0000,,We can't give up before he does!
+Dialogue: 0,0:04:58.75,0:05:02.96,Default,,0000,0000,0000,,B-Big Boss... Your appearance...
+Dialogue: 0,0:05:05.97,0:05:08.97,Default,,0000,0000,0000,,Leave it to this old man!
+Dialogue: 0,0:05:12.64,0:05:14.48,Default,,0000,0000,0000,,It's time to show them...
+Dialogue: 0,0:05:14.98,0:05:17.69,Default,,0000,0000,0000,,...a samurai's resilience!
+Dialogue: 0,0:05:22.19,0:05:24.53,Default,,0000,0000,0000,,Apoo-{\i1}san{\i0}, we can't fight anymore!
+Dialogue: 0,0:05:25.03,0:05:30.08,Default,,0000,0000,0000,,The antibody is just past them,\Nbut we can't break through their iron-tight defense!
+Dialogue: 0,0:05:30.20,0:05:34.66,Default,,0000,0000,0000,,Why should we suffer from Queen-{\i1}sama{\i0}'s virus\Neven though we're on his side?!
+Dialogue: 0,0:05:35.08,0:05:38.63,Default,,0000,0000,0000,,He's not gonna save you even if you whine!
+Dialogue: 0,0:05:38.67,0:05:43.59,Default,,0000,0000,0000,,Just kill that raccoon and take back the antibody!
+Dialogue: 0,0:05:44.76,0:05:45.63,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:05:46.13,0:05:49.76,Default,,0000,0000,0000,,Drake! That traitor!
+Dialogue: 0,0:05:49.80,0:05:52.56,Default,,0000,0000,0000,,Stop acting like a hero!
+Dialogue: 0,0:05:53.01,0:05:55.64,Default,,0000,0000,0000,,Drake isn't the only obstacle!
+Dialogue: 0,0:05:56.48,0:06:01.06,Default,,0000,0000,0000,,The withered old man somehow recovered!
+Dialogue: 0,0:06:02.52,0:06:05.36,Default,,0000,0000,0000,,The Land of Wano's legendary great underground boss!
+Dialogue: 0,0:06:05.49,0:06:07.61,On Top,,0000,0000,0000,,HYOGORO THE FLOWER\NLEGENDARY GREAT UNDERGROUND BOSS
+Dialogue: 0,0:06:06.90,0:06:08.86,Default,,0000,0000,0000,,Hyogoro the Flower!
+Dialogue: 0,0:06:07.65,0:06:08.86,On Top,,0000,0000,0000,,X. DRAKE - A FORMER TOBI ROPPO MEMBER
+Dialogue: 0,0:06:11.16,0:06:13.95,Default,,0000,0000,0000,,They've got those two monstrous gate guards...
+Dialogue: 0,0:06:14.37,0:06:18.04,Default,,0000,0000,0000,,We can't approach the raccoon at all!
+Dialogue: 0,0:06:19.08,0:06:21.08,Default,,0000,0000,0000,,Why does he look like that?!
+Dialogue: 0,0:06:21.13,0:06:23.84,Default,,0000,0000,0000,,He was just a little old man moments ago!
+Dialogue: 0,0:06:23.96,0:06:29.47,Default,,0000,0000,0000,,He's back to the strong man he was\Nwhen Kaido was relentlessly recruiting him!
+Dialogue: 0,0:06:31.93,0:06:33.31,Default,,0000,0000,0000,,I'm shaking with excitement!
+Dialogue: 0,0:06:34.14,0:06:36.77,Default,,0000,0000,0000,,Big Boss! Are you okay?!
+Dialogue: 0,0:06:37.48,0:06:38.60,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:06:39.44,0:06:41.31,Default,,0000,0000,0000,,It's quite cold...
+Dialogue: 0,0:06:41.35,0:06:42.06,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:06:43.27,0:06:46.03,Default,,0000,0000,0000,,...I'm confident about my mental capability!
+Dialogue: 0,0:06:48.45,0:06:51.41,Default,,0000,0000,0000,,Since I touched the virus by accident,
+Dialogue: 0,0:06:51.45,0:06:56.29,Default,,0000,0000,0000,,it's drawn out all the strength I've got\Nto the very last inch of my life!
+Dialogue: 0,0:06:59.37,0:07:01.29,Default,,0000,0000,0000,,When it comes to this...
+Dialogue: 0,0:07:34.82,0:07:37.54,Default,,0000,0000,0000,,With this last power...
+Dialogue: 0,0:07:43.54,0:07:46.29,Default,,0000,0000,0000,,...in exchange for my life,
+Dialogue: 0,0:07:46.34,0:07:49.17,Default,,0000,0000,0000,,I will slice up...
+Dialogue: 0,0:07:51.72,0:07:53.68,Default,,0000,0000,0000,,...all their key figures!
+Dialogue: 0,0:07:56.81,0:07:58.81,Default,,0000,0000,0000,,Hey, you bosses!
+Dialogue: 0,0:07:58.93,0:08:00.73,Default,,0000,0000,0000,,Yes, Big Boss!
+Dialogue: 0,0:08:05.27,0:08:08.53,Default,,0000,0000,0000,,I may not have much time left...
+Dialogue: 0,0:08:11.36,0:08:18.24,Default,,0000,0000,0000,,If Raccoon-{\i1}san{\i0}'s cure can't make it\Nand I turn into an Ice Oni...
+Dialogue: 0,0:08:18.28,0:08:19.70,Default,,0000,0000,0000,,Before that happens!
+Dialogue: 0,0:08:21.79,0:08:22.79,Default,,0000,0000,0000,,Without hesitation!
+Dialogue: 0,0:08:23.79,0:08:26.08,Default,,0000,0000,0000,,Just kill me!
+Dialogue: 0,0:08:28.13,0:08:29.38,Default,,0000,0000,0000,,Otherwise,
+Dialogue: 0,0:08:30.09,0:08:32.01,Default,,0000,0000,0000,,I'll indiscriminately...
+Dialogue: 0,0:08:32.63,0:08:34.93,Default,,0000,0000,0000,,...slash and kill...
+Dialogue: 0,0:08:34.97,0:08:38.30,Default,,0000,0000,0000,,...you guys and everyone here!
+Dialogue: 0,0:08:39.35,0:08:40.56,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:08:41.02,0:08:45.52,Default,,0000,0000,0000,,But if Big Boss becomes an Ice Oni...
+Dialogue: 0,0:08:47.98,0:08:50.57,Default,,0000,0000,0000,,I'm sure no one will be able to stop him...
+Dialogue: 0,0:08:55.99,0:08:57.62,Default,,0000,0000,0000,,I'm counting on you...
+Dialogue: 0,0:08:59.49,0:09:03.71,Default,,0000,0000,0000,,Damn... What a pain in the ass...
+Dialogue: 0,0:09:04.16,0:09:06.37,Default,,0000,0000,0000,,Alright then...
+Dialogue: 0,0:09:06.42,0:09:10.92,Default,,0000,0000,0000,,...I, a former Mimawari-gumi member,\Nwould like to see what he's got...
+Dialogue: 0,0:09:15.26,0:09:17.55,Default,,0000,0000,0000,,You're a legend?
+Dialogue: 0,0:09:18.34,0:09:20.76,Default,,0000,0000,0000,,You're just a has-been swordsman, right?
+Dialogue: 0,0:09:22.27,0:09:23.64,Default,,0000,0000,0000,,Get out of my way!
+Dialogue: 0,0:09:24.14,0:09:26.35,Default,,0000,0000,0000,,Old fart!
+Dialogue: 0,0:09:27.15,0:09:28.94,Default,,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:09:47.58,0:09:49.50,Default,,0000,0000,0000,,One-Sword Style of the Flower!
+Dialogue: 0,0:10:04.18,0:10:05.52,Default,,0000,0000,0000,,Flaming Hair of...
+Dialogue: 0,0:10:13.36,0:10:14.40,Default,,0000,0000,0000,,...Holy Rage!
+Dialogue: 0,0:10:26.00,0:10:30.58,On Top,,0000,0000,0000,,FLAMING HAIR OF HOLY RAGE
+Dialogue: 0,0:10:41.18,0:10:44.01,Default,,0000,0000,0000,,Let's overwhelm him with numbers! Go!
+Dialogue: 0,0:10:53.27,0:10:54.77,Default,,0000,0000,0000,,{\i1}Hey, Oden...{\i0}
+Dialogue: 0,0:10:58.32,0:11:01.32,Default,,0000,0000,0000,,{\i1}I sometimes wished...{\i0}
+Dialogue: 0,0:11:05.24,0:11:11.04,Default,,0000,0000,0000,,{\i1}...that we had challenged Kaido\Nback in those days when we had so much energy.{\i0}
+Dialogue: 0,0:11:23.72,0:11:29.52,Default,,0000,0000,0000,,{\i1}But Kin'emon and the others\Nexecuted a perfect raid!{\i0}
+Dialogue: 0,0:11:33.19,0:11:34.23,Default,,0000,0000,0000,,{\i1}And...{\i0}
+Dialogue: 0,0:11:35.02,0:11:38.40,Default,,0000,0000,0000,,{\i1}...I landed an interesting disciple!{\i0}
+Dialogue: 0,0:11:46.45,0:11:50.96,Default,,0000,0000,0000,,Straw hat man, you have more potential.
+Dialogue: 0,0:11:51.37,0:11:54.00,Default,,0000,0000,0000,,You'll get stronger and stronger!
+Dialogue: 0,0:11:54.67,0:11:57.63,Default,,0000,0000,0000,,Don't forget. A moment of crisis...
+Dialogue: 0,0:11:59.26,0:12:01.13,Default,,0000,0000,0000,,...will reveal your true power!
+Dialogue: 0,0:12:08.35,0:12:10.56,Default,,0000,0000,0000,,Let's defeat Kaido!
+Dialogue: 0,0:12:14.60,0:12:15.73,Default,,0000,0000,0000,,Count on me!
+Dialogue: 0,0:12:16.19,0:12:18.57,Default,,0000,0000,0000,,With the Ryuo that you taught me,
+Dialogue: 0,0:12:19.65,0:12:21.90,Default,,0000,0000,0000,,I'll kick Kaido's ass!
+Dialogue: 0,0:12:24.78,0:12:28.87,Default,,0000,0000,0000,,{\i1}There is no lie or conceit in those words.{\i0}
+Dialogue: 0,0:12:29.62,0:12:33.25,Default,,0000,0000,0000,,{\i1}He'll achieve mastery of Ryuo\Nand become stronger...{\i0}
+Dialogue: 0,0:12:34.71,0:12:37.04,Default,,0000,0000,0000,,{\i1}...and take down Kaido!{\i0}
+Dialogue: 0,0:12:37.92,0:12:40.00,Default,,0000,0000,0000,,{\i1}Wait and watch, Oden!{\i0}
+Dialogue: 0,0:12:45.09,0:12:47.26,Default,,0000,0000,0000,,{\i1}The Land of Wano...{\i0}
+Dialogue: 0,0:12:49.31,0:12:51.39,Default,,0000,0000,0000,,{\i1}...will see its dawn!{\i0}
+Dialogue: 0,0:13:12.16,0:13:14.96,Default,,0000,0000,0000,,Killer! Are you okay?!
+Dialogue: 0,0:13:16.04,0:13:19.00,Default,,0000,0000,0000,,Yeah, I'm all right...
+Dialogue: 0,0:13:33.68,0:13:38.40,Default,,0000,0000,0000,,You guys are next? Let me have fun!
+Dialogue: 0,0:14:15.64,0:14:19.15,Default,,0000,0000,0000,,Well done, you punks!
+Dialogue: 0,0:14:20.56,0:14:21.61,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:14:27.20,0:14:27.99,Default,,0000,0000,0000,,Chambres!
+Dialogue: 0,0:14:38.50,0:14:39.17,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:14:39.29,0:14:41.75,Default,,0000,0000,0000,,Hey, Linlin!
+Dialogue: 0,0:14:42.17,0:14:44.34,Default,,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:14:46.34,0:14:51.34,Default,,0000,0000,0000,,They're quite strong on their own...\NTogether they're too much to handle.
+Dialogue: 0,0:14:51.47,0:14:53.43,Default,,0000,0000,0000,,I like those odds!
+Dialogue: 0,0:14:53.47,0:14:56.31,Default,,0000,0000,0000,,Hey, Luffy! Are you awake now?!
+Dialogue: 0,0:15:02.69,0:15:03.36,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:15:09.65,0:15:11.24,Default,,0000,0000,0000,,I'm all good now!
+Dialogue: 0,0:15:23.79,0:15:25.88,Default,,0000,0000,0000,,Bring it on, you squirts!
+Dialogue: 0,0:15:47.69,0:15:49.15,Default,,0000,0000,0000,,Whoa-whoa!
+Dialogue: 0,0:15:49.19,0:15:51.20,Default,,0000,0000,0000,,All our troops on the floor will be wiped out!
+Dialogue: 0,0:15:55.37,0:15:58.74,Default,,0000,0000,0000,,Go to hell, geezer!
+Dialogue: 0,0:16:00.62,0:16:02.17,Default,,0000,0000,0000,,Phoenix Brand!
+Dialogue: 0,0:16:09.92,0:16:12.76,Default,,0000,0000,0000,,You better focus, Queen!
+Dialogue: 0,0:16:15.05,0:16:16.55,Default,,0000,0000,0000,,Marco!
+Dialogue: 0,0:16:16.60,0:16:20.68,Default,,0000,0000,0000,,That hurts! Was it a shockwave?!\NYou bastard!
+Dialogue: 0,0:16:21.23,0:16:23.85,Default,,0000,0000,0000,,You're in a fight with me!
+Dialogue: 0,0:16:23.90,0:16:29.65,Default,,0000,0000,0000,,You should attack those samurai\Nafter you chop off my head-{\i1}yoi{\i0}!
+Dialogue: 0,0:16:29.78,0:16:33.91,Default,,0000,0000,0000,,Damn! How persistent he is!
+Dialogue: 0,0:16:36.53,0:16:38.99,Default,,0000,0000,0000,,Go to hell already!
+Dialogue: 0,0:16:56.01,0:16:58.39,Default,,0000,0000,0000,,Bluebird!
+Dialogue: 0,0:17:20.79,0:17:22.87,Default,,0000,0000,0000,,I'm gonna finish you off!
+Dialogue: 0,0:17:23.50,0:17:25.21,Default,,0000,0000,0000,,You son of a bitch!
+Dialogue: 0,0:17:26.21,0:17:28.75,Default,,0000,0000,0000,,Don't push your luck!
+Dialogue: 0,0:17:32.13,0:17:33.26,Default,,0000,0000,0000,,Crane Talons!
+Dialogue: 0,0:17:48.35,0:17:55.53,Default,,0000,0000,0000,,Not surprisingly,\Nit's quite hard to stall two with bounties of over a billion...
+Dialogue: 0,0:18:01.58,0:18:03.87,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:18:16.17,0:18:18.59,Default,,0000,0000,0000,,Hurry up, Raccoon!
+Dialogue: 0,0:18:22.56,0:18:26.93,Default,,0000,0000,0000,,What? That's Marco over there!
+Dialogue: 0,0:18:33.77,0:18:36.57,Default,,0000,0000,0000,,He looks exhausted...
+Dialogue: 0,0:18:38.95,0:18:40.49,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:18:48.00,0:18:49.37,Default,,0000,0000,0000,,Dr. Chopper!
+Dialogue: 0,0:18:50.42,0:18:52.75,Default,,0000,0000,0000,,We're ready!
+Dialogue: 0,0:18:53.25,0:18:54.34,Default,,0000,0000,0000,,Thank you...
+Dialogue: 0,0:18:54.84,0:18:57.80,Default,,0000,0000,0000,,All there is left to do\Nis clear the final problem.
+Dialogue: 0,0:18:58.34,0:19:01.01,Default,,0000,0000,0000,,It's this cure's reliability.
+Dialogue: 0,0:19:01.55,0:19:03.64,Default,,0000,0000,0000,,We need a guinea pig.
+Dialogue: 0,0:19:04.01,0:19:07.35,Default,,0000,0000,0000,,Yeah, since it was thrown together,
+Dialogue: 0,0:19:07.39,0:19:11.60,Default,,0000,0000,0000,,we can't administer it to patients\Nuntil we make sure it's safe.
+Dialogue: 0,0:19:12.94,0:19:13.90,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:19:14.27,0:19:15.94,Default,,0000,0000,0000,,...I'll try it myself!
+Dialogue: 0,0:19:17.49,0:19:21.57,Default,,0000,0000,0000,,Both of you, monitor me closely.
+Dialogue: 0,0:19:21.61,0:19:26.08,Default,,0000,0000,0000,,We don't know what external changes may occur\Nas side effects!
+Dialogue: 0,0:19:31.21,0:19:33.42,Default,,0000,0000,0000,,The taste needs to be improved...
+Dialogue: 0,0:19:42.13,0:19:44.80,Default,,0000,0000,0000,,There is some difficulty in breathing,
+Dialogue: 0,0:19:44.85,0:19:48.56,Default,,0000,0000,0000,,but the pulse is generally\Nwithin the expected range.
+Dialogue: 0,0:19:51.89,0:19:52.90,Default,,0000,0000,0000,,Don't worry...
+Dialogue: 0,0:19:53.35,0:19:56.36,Default,,0000,0000,0000,,This fever is a manifestation of the drug's effect.
+Dialogue: 0,0:19:56.40,0:19:57.57,Default,,0000,0000,0000,,It'll be gone soon...
+Dialogue: 0,0:20:21.34,0:20:24.05,Default,,0000,0000,0000,,Everyone's turning back into Ice Oni!
+Dialogue: 0,0:20:24.43,0:20:26.01,Default,,0000,0000,0000,,Th-The fire's gone...
+Dialogue: 0,0:20:26.47,0:20:28.01,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:20:31.85,0:20:34.94,Default,,0000,0000,0000,,The lives of Ice Oni are at their limits!
+Dialogue: 0,0:20:35.06,0:20:37.69,Default,,0000,0000,0000,,Ohmasa! Are you okay?!
+Dialogue: 0,0:20:37.82,0:20:43.40,Default,,0000,0000,0000,,Yeah, thanks to the blue flame,\NI'm good as new!
+Dialogue: 0,0:20:45.07,0:20:46.70,Default,,0000,0000,0000,,How's Big Boss?!
+Dialogue: 0,0:20:46.74,0:20:49.99,Default,,0000,0000,0000,,He didn't get the blue flame!
+Dialogue: 0,0:20:52.71,0:20:55.88,Default,,0000,0000,0000,,You damn monster...
+Dialogue: 0,0:21:05.22,0:21:06.34,Default,,0000,0000,0000,,Big Boss!
+Dialogue: 0,0:21:06.39,0:21:07.64,Default,,0000,0000,0000,,I'm glad that you're okay!
+Dialogue: 0,0:21:21.28,0:21:22.90,Default,,0000,0000,0000,,Big Boss!
+Dialogue: 0,0:21:24.86,0:21:26.86,Default,,0000,0000,0000,,Keep your spirits up!
+Dialogue: 0,0:21:28.82,0:21:31.29,Default,,0000,0000,0000,,Don't let that weird virus get the best of you!
+Dialogue: 0,0:21:31.33,0:21:33.37,Default,,0000,0000,0000,,Boss Hyogoro!
+Dialogue: 0,0:21:34.37,0:21:38.33,Default,,0000,0000,0000,,Let's see the Land of Wano's dawn together!
+Dialogue: 0,0:21:43.38,0:21:44.97,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:21:49.01,0:21:51.01,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:21:52.68,0:21:54.77,Default,,0000,0000,0000,,I guess it's time...
+Dialogue: 0,0:22:04.86,0:22:07.03,Default,,0000,0000,0000,,Do it! I want this!
+Dialogue: 0,0:22:16.00,0:22:19.71,Default,,0000,0000,0000,,It's like the heavens have given me\Na reward at the end...
+Dialogue: 0,0:22:20.42,0:22:25.92,Default,,0000,0000,0000,,I was imprisoned and only waiting to die,\Nbut now I've made it this far...
+Dialogue: 0,0:22:31.97,0:22:37.02,Default,,0000,0000,0000,,But if I go on, I'll only risk your lives!
+Dialogue: 0,0:22:37.48,0:22:40.60,Default,,0000,0000,0000,,I'm sorry I assigned you a tough role...
+Dialogue: 0,0:22:40.65,0:22:42.48,Default,,0000,0000,0000,,But do it for me!
+Dialogue: 0,0:22:52.45,0:22:55.37,Default,,0000,0000,0000,,{\i1}I'll leave the rest to you guys...{\i0}
+Dialogue: 0,0:22:57.20,0:22:59.83,Default,,0000,0000,0000,,{\i1}This man, Hyogoro the Flower...{\i0}
+Dialogue: 0,0:23:03.59,0:23:05.63,Default,,0000,0000,0000,,{\i1}I have...{\i0}
+Dialogue: 0,0:23:06.55,0:23:08.59,Default,,0000,0000,0000,,{\i1}...no regrets!{\i0}
+Dialogue: 0,0:23:18.68,0:23:22.65,Default,,0000,0000,0000,,The hero of the Land of Wano! Kozuki Oden!
+Dialogue: 0,0:23:22.69,0:23:31.03,Default,,0000,0000,0000,,I, Yamato A.K.A. Kozuki Oden,\Nwill talk all about his great life with Momonosuke-{\i1}kun{\i0}!
+Dialogue: 0,0:23:31.07,0:23:35.53,Default,,0000,0000,0000,,Join us for the tales of Oden's spectacular adventure!
+Dialogue: 0,0:23:35.58,0:23:41.21,Default,,0000,0000,0000,,On the next episode of One Piece!\N"A Comprehensive Anatomy! The Legend of Kozuki Oden!"
+Dialogue: 0,0:23:41.25,0:23:45.63,Default,,0000,0000,0000,,I'm gonna open the borders of the Land of Wano!

@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.96,0:00:13.80,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:10.96,0:00:13.80,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.84,0:00:16.76,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.84,0:00:16.76,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.80,0:00:21.35,Default,,0,0,0,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.80,0:00:21.35,On Top,,0,0,0,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.39,0:00:24.10,Default,,0,0,0,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.39,0:00:24.10,On Top,,0,0,0,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.73,0:00:33.61,Default,,0,0,0,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.73,0:00:33.61,On Top,,0,0,0,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.65,0:00:36.87,Default,,0,0,0,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.65,0:00:36.87,On Top,,0,0,0,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:36.91,0:00:40.16,Default,,0,0,0,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:36.91,0:00:40.16,On Top,,0,0,0,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.41,0:00:44.96,Default,,0,0,0,,{\i1}Shout it out, to save your spirit from breaking{\i0}
+Dialogue: 0,0:00:40.41,0:00:44.96,On Top,,0,0,0,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.00,0:00:47.42,Default,,0,0,0,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.00,0:00:47.42,On Top,,0,0,0,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.46,0:00:53.84,Default,,0,0,0,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.46,0:00:53.84,On Top,,0,0,0,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:53.88,0:00:57.93,Default,,0,0,0,,{\i1}Even when the darkness tries to tear you apart{\i0}
+Dialogue: 0,0:00:53.88,0:00:57.93,On Top,,0,0,0,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:57.97,0:00:59.22,Default,,0,0,0,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:57.97,0:00:59.22,On Top,,0,0,0,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.26,0:01:00.72,Default,,0,0,0,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.26,0:01:00.72,On Top,,0,0,0,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.76,0:01:04.43,Default,,0,0,0,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.76,0:01:04.43,On Top,,0,0,0,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.48,0:01:07.19,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.48,0:01:07.19,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.23,0:01:10.40,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.23,0:01:10.40,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.44,0:01:15.95,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.44,0:01:15.95,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:15.99,0:01:18.62,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:15.99,0:01:18.62,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.66,0:01:21.37,Default,,0,0,0,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.66,0:01:21.37,On Top,,0,0,0,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.41,0:01:24.08,Default,,0,0,0,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.41,0:01:24.08,On Top,,0,0,0,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.12,0:01:28.83,Default,,0,0,0,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.12,0:01:28.83,On Top,,0,0,0,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:28.88,0:01:33.17,Default,,0,0,0,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:28.88,0:01:33.17,On Top,,0,0,0,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.59,0:01:38.55,Default,,0,0,0,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.59,0:01:38.55,On Top,,0,0,0,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.22,0:01:42.06,Default,,0,0,0,,{\i1}Transcend meetings and partings and keep going{\i0}
+Dialogue: 0,0:01:39.22,0:01:42.06,On Top,,0,0,0,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.10,0:01:46.39,Default,,0,0,0,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.10,0:01:46.39,On Top,,0,0,0,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.81,0:01:49.60,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.81,0:01:49.60,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.65,0:01:52.73,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.65,0:01:52.73,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.77,0:01:57.45,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.77,0:01:57.45,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.49,0:02:01.58,Default,,0,0,0,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:01:57.49,0:02:01.58,On Top,,0,0,0,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:02:15.38,0:02:18.56,Default,,0,0,0,,The Reverie always triggers big incidents.
+Dialogue: 0,0:02:19.32,0:02:25.48,Default,,0,0,0,,Even if there is a disagreement,\Nas long as no blood is spilled, I call it peace.
+Dialogue: 0,0:02:25.85,0:02:28.92,Default,,0,0,0,,But what happened this time is no good!
+Dialogue: 0,0:02:28.92,0:02:34.19,Default,,0,0,0,,It's a bit late to mention this,\Nbut there's actually one thing that I haven't told you about.
+Dialogue: 0,0:02:34.19,0:02:39.63,Default,,0,0,0,,Right after the Reverie was dismissed and we set off,\Nan incident occurred,
+Dialogue: 0,0:02:39.63,0:02:42.54,Default,,0,0,0,,and I received the report aboard ship.
+Dialogue: 0,0:02:43.12,0:02:47.81,Default,,0,0,0,,We the Navy will do our best to resolve it,\Nbut please don't be afraid of...
+Dialogue: 0,0:02:47.81,0:02:51.27,Default,,0,0,0,,...the surface world as well as humans!
+Dialogue: 0,0:02:51.27,0:02:54.44,Default,,0,0,0,,Wait! What is this all about?!
+Dialogue: 0,0:02:57.74,0:02:59.47,Default,,0,0,0,,"Fog"!
+Dialogue: 0,0:03:00.55,0:03:03.55,Default,,0,0,0,,As always, you're conscientious...
+Dialogue: 0,0:03:03.55,0:03:06.56,Default,,0,0,0,,Well, it's a rule...
+Dialogue: 0,0:03:06.56,0:03:08.54,Default,,0,0,0,,Oh, yeah! Listen!
+Dialogue: 0,0:03:08.54,0:03:11.44,Default,,0,0,0,,{\i1}There's something that I need to report...{\i0}
+Dialogue: 0,0:03:11.44,0:03:12.90,Default,,0,0,0,,{\i1}...to you, Captain!{\i0}
+Dialogue: 0,0:03:12.94,0:03:15.79,On Top,,0,0,0,,X. DRAKE - CAPTAIN OF "SWORD"\NNAVY HQ TOP SECRET SPECIAL FORCE
+Dialogue: 0,0:03:15.82,0:03:21.20,Default,,0,0,0,,Therefore, the Seven Warlords of the Sea\Nnaturally forfeit all of their rights,
+Dialogue: 0,0:03:21.20,0:03:24.99,Default,,0,0,0,,and their connections with the World Government\Nare cut off.
+Dialogue: 0,0:03:24.99,0:03:26.25,Default,,0,0,0,,That means...!
+Dialogue: 0,0:03:26.12,0:03:29.43,On Top,,0,0,0,,EMPTEE BLUFFS ISLAND, NEW WORLD
+Dialogue: 0,0:03:26.70,0:03:28.12,Default,,0,0,0,,{\i1}Buggy!{\i0}
+Dialogue: 0,0:03:28.12,0:03:32.34,Default,,0,0,0,,{\i1}You're just another pirate!{\i0}
+Dialogue: 0,0:03:33.23,0:03:35.48,Default,,0,0,0,,That's not fair, you fools!
+Dialogue: 0,0:03:35.48,0:03:40.17,Default,,0,0,0,,A decision was made without telling us\Nand since we're no longer useful, you'll arrest us?!
+Dialogue: 0,0:03:40.17,0:03:42.43,Default,,0,0,0,,You have no sense of justice whatsoever!
+Dialogue: 0,0:03:42.43,0:03:47.06,Default,,0,0,0,,You being outwitted by Crocodile and Doflamingo\Nis none of my business!
+Dialogue: 0,0:03:47.06,0:03:50.02,Default,,0,0,0,,Don't take it out on me!
+Dialogue: 0,0:03:50.02,0:03:53.07,Default,,0,0,0,,We've got the whole coast surrounded!
+Dialogue: 0,0:03:53.44,0:03:54.79,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:03:54.79,0:03:59.16,Default,,0,0,0,,Of course, we'll fight them in a flashy way!
+Dialogue: 0,0:04:03.63,0:04:06.14,Default,,0,0,0,,Show some guts!
+Dialogue: 0,0:04:06.14,0:04:09.00,Default,,0,0,0,,You fools!
+Dialogue: 0,0:04:09.87,0:04:12.88,Default,,0,0,0,,That's our Chairman Buggy!
+Dialogue: 0,0:04:13.33,0:04:17.65,On Top,,0,0,0,,BUGGY THE GENIUS JESTER, BUGGY'S DELIVERY CHAIRMAN\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:04:13.83,0:04:17.65,Default,,0,0,0,,Buggy! Buggy! Buggy! Buggy!
+Dialogue: 0,0:04:17.65,0:04:21.15,Default,,0,0,0,,Seems like they're not on our side anymore!
+Dialogue: 0,0:04:21.15,0:04:23.55,Default,,0,0,0,,It's so unforgivable...
+Dialogue: 0,0:04:23.55,0:04:27.47,Default,,0,0,0,,Weevil! I give you approval to take them down!
+Dialogue: 0,0:04:27.47,0:04:29.58,Default,,0,0,0,,Really?! Then...
+Dialogue: 0,0:04:29.58,0:04:32.50,Default,,0,0,0,,I'm gonna kill them!
+Dialogue: 0,0:04:33.19,0:04:37.04,On Top,,0,0,0,,EDWARD WEEVIL, WHITEBEARD JR. (SELF-PROCRAIMED)\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:04:33.94,0:04:37.20,Default,,0,0,0,,In the name of Whitebeard!
+Dialogue: 0,0:04:37.52,0:04:39.49,Default,,0,0,0,,I feel a tremor of excitement...
+Dialogue: 0,0:04:39.86,0:04:41.87,Default,,0,0,0,,It's been a long time...
+Dialogue: 0,0:04:42.36,0:04:48.30,On Top,,0,0,0,,DRACULE MIHAWK, "HAWK-EYE"\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:04:43.61,0:04:47.50,Default,,0,0,0,,...since I was the one being chased.
+Dialogue: 0,0:04:48.30,0:04:49.97,Default,,0,0,0,,Granny Nyon!
+Dialogue: 0,0:04:49.97,0:04:51.95,Default,,0,0,0,,There are Navy ships off the coast!
+Dialogue: 0,0:04:51.95,0:04:53.14,Default,,0,0,0,,What?!
+Dialogue: 0,0:04:53.14,0:04:56.09,Default,,0,0,0,,They've already gone into action?!
+Dialogue: 0,0:04:57.58,0:04:59.55,Default,,0,0,0,,Don't panic!
+Dialogue: 0,0:05:01.71,0:05:02.99,Default,,0,0,0,,Snake Princess!
+Dialogue: 0,0:05:03.09,0:05:05.89,Default,,0,0,0,,I think they're...
+Dialogue: 0,0:05:07.05,0:05:08.95,Default,,0,0,0,,...forgetting something!
+Dialogue: 0,0:05:08.95,0:05:12.65,Default,,0,0,0,,We became the Seven Warlords of the Sea...
+Dialogue: 0,0:05:13.52,0:05:17.46,On Top,,0,0,0,,BOA HANCOCK, PIRATE EMPRESS\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:05:14.64,0:05:17.61,Default,,0,0,0,,...because we were strong!
+Dialogue: 0,0:05:18.31,0:05:20.78,Default,,0,0,0,,It's getting interesting!
+Dialogue: 0,0:05:30.66,0:05:38.15,Default,,0,0,0,,{\i1}"A Legendary Battle!\NGarp and Roger!"{\i0}
+Dialogue: 0,0:05:39.63,0:05:44.03,On Top,,0,0,0,,NAVY
+Dialogue: 0,0:05:55.52,0:05:59.25,Default,,0,0,0,,You must be happy, Issho...
+Dialogue: 0,0:05:59.25,0:06:03.34,Default,,0,0,0,,The abolition of the Seven Warlords of the Sea\Nwas what you all really wanted...
+Dialogue: 0,0:06:03.34,0:06:08.20,Default,,0,0,0,,I was against it, but the leaders' decision\Ncan't be reversed.
+Dialogue: 0,0:06:08.20,0:06:12.05,Default,,0,0,0,,Dammit, how can everyone be so naive?!
+Dialogue: 0,0:06:12.05,0:06:14.68,Default,,0,0,0,,{\i1}Justice comes with a price...{\i0}
+Dialogue: 0,0:06:14.68,0:06:18.01,Default,,0,0,0,,And there's no escaping it?
+Dialogue: 0,0:06:19.83,0:06:25.34,Default,,0,0,0,,You can't understand\Nbecause you've never been one of them...
+Dialogue: 0,0:06:25.34,0:06:28.88,Default,,0,0,0,,The world where innocent weak people\Nget ignored...
+Dialogue: 0,0:06:28.88,0:06:31.19,Default,,0,0,0,,...is worthless!
+Dialogue: 0,0:06:33.20,0:06:35.66,Default,,0,0,0,,Hurry up! Keep moving!
+Dialogue: 0,0:06:35.66,0:06:37.07,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:06:50.05,0:06:52.95,Default,,0,0,0,,The Seven Warlords of the Sea are no more.
+Dialogue: 0,0:06:52.95,0:06:59.01,Default,,0,0,0,,Let's believe in the SSG,\Nthe Navy's Special Science Group...
+Dialogue: 0,0:07:00.87,0:07:05.51,Default,,0,0,0,,The balance of power in the world\Nis about to change drastically!
+Dialogue: 0,0:07:06.59,0:07:09.68,Default,,0,0,0,,Just how it'll change is unknown!
+Dialogue: 0,0:07:10.97,0:07:15.44,Default,,0,0,0,,I heard that Kaido and Big Mom\Nwill team up in the Land of Wano...
+Dialogue: 0,0:07:16.16,0:07:18.02,Default,,0,0,0,,What?!
+Dialogue: 0,0:07:19.50,0:07:22.67,On Top,,0,0,0,,ISSHO
+Dialogue: 0,0:07:20.02,0:07:22.82,Default,,0,0,0,,Does it mean the return of Rocks?!
+Dialogue: 0,0:07:29.57,0:07:33.64,Default,,0,0,0,,Don't speak of it\Nlike it's legend or something!
+Dialogue: 0,0:07:33.64,0:07:35.75,Default,,0,0,0,,{\i1}It's all true...{\i0}
+Dialogue: 0,0:07:37.33,0:07:43.22,Default,,0,0,0,,and a disaster that menaces us\Ndespite how busy we are at the moment!
+Dialogue: 0,0:08:00.14,0:08:04.17,Default,,0,0,0,,What?! Two Emperors of the Sea joined forces?!
+Dialogue: 0,0:08:04.17,0:08:07.09,Default,,0,0,0,,--No way!\N--Of all times, now?!
+Dialogue: 0,0:08:07.09,0:08:12.05,Default,,0,0,0,,To be precise, we got information\Nthat they'll team up in the days ahead...
+Dialogue: 0,0:08:12.05,0:08:14.22,Default,,0,0,0,,They haven't done any harm so far
+Dialogue: 0,0:08:14.22,0:08:18.22,Default,,0,0,0,,and we don't know their purpose or how to deal with it yet.
+Dialogue: 0,0:08:18.22,0:08:21.79,Default,,0,0,0,,The only thing that connects those two...
+Dialogue: 0,0:08:21.79,0:08:24.72,Default,,0,0,0,,...is the legendary Rocks Pirates.
+Dialogue: 0,0:08:26.02,0:08:29.89,Default,,0,0,0,,But there isn't much information about them, either...
+Dialogue: 0,0:08:31.11,0:08:35.22,Default,,0,0,0,,Big Mom and Kaido have hated each other\Nfor a long time...
+Dialogue: 0,0:08:35.22,0:08:39.58,Default,,0,0,0,,I didn't expect such a thing would happen.
+Dialogue: 0,0:08:39.58,0:08:42.56,Default,,0,0,0,,Sengoku-san, what are Rocks Pirates?
+Dialogue: 0,0:08:42.56,0:08:44.33,Default,,0,0,0,,Oh, yeah.
+Dialogue: 0,0:08:44.33,0:08:48.66,Default,,0,0,0,,You are too young to know about them...
+Dialogue: 0,0:08:54.36,0:09:00.24,Default,,0,0,0,,The Rocks Pirates were a gang of unique characters\Nwho gathered together...
+Dialogue: 0,0:09:00.24,0:09:06.97,Default,,0,0,0,,...around just one money-making scheme\Non the Pirate Island of Fullalead ages ago.
+Dialogue: 0,0:09:11.17,0:09:16.68,Default,,0,0,0,,They were all so violent,\Nthey even battled to the death on board their own ship.
+Dialogue: 0,0:09:18.80,0:09:22.69,Default,,0,0,0,,Its members were, first, Captain Rocks...
+Dialogue: 0,0:09:24.77,0:09:26.99,Default,,0,0,0,,Whitebeard in his younger days!
+Dialogue: 0,0:09:29.61,0:09:31.28,Default,,0,0,0,,Big Mom!
+Dialogue: 0,0:09:33.65,0:09:35.47,Default,,0,0,0,,And Kaido!
+Dialogue: 0,0:09:38.47,0:09:44.09,Default,,0,0,0,,Those three used to be on board\Nthe same pirate ship.
+Dialogue: 0,0:09:46.02,0:09:47.90,Default,,0,0,0,,What?!
+Dialogue: 0,0:09:47.90,0:09:51.19,Default,,0,0,0,,--N-No way!\N--I-I can't believe it!
+Dialogue: 0,0:09:51.19,0:09:56.76,Default,,0,0,0,,There are other pirates from the Rocks Pirates,\Nwho later became infamous.
+Dialogue: 0,0:09:56.76,0:10:02.39,Default,,0,0,0,,Shiki the Golden Lion who used to be a big name\Nand even vied for supremacy in the New World.
+Dialogue: 0,0:10:02.39,0:10:06.29,Default,,0,0,0,,There were still others\Nlike Silver Axe, Captain John, and Wang Zhi...
+Dialogue: 0,0:10:06.29,0:10:11.02,Default,,0,0,0,,You've got to be kidding!\NThey're all big-name pirates!
+Dialogue: 0,0:10:11.02,0:10:13.82,Default,,0,0,0,,Why was such a pirate group lost to history?
+Dialogue: 0,0:10:13.82,0:10:16.88,Default,,0,0,0,,One of the reasons is that they disliked each other so much,
+Dialogue: 0,0:10:16.88,0:10:19.53,Default,,0,0,0,,they took no pride in publicizing their exploits.
+Dialogue: 0,0:10:19.53,0:10:21.14,Default,,0,0,0,,Secondly...
+Dialogue: 0,0:10:21.14,0:10:25.10,Default,,0,0,0,,Captain Rocks had the ambition\Nto become the king of the world...
+Dialogue: 0,0:10:34.59,0:10:40.51,Default,,0,0,0,,So they showed their teeth at the World Government\Nas if they were a terrorist group,
+Dialogue: 0,0:10:40.51,0:10:45.54,Default,,0,0,0,,and the Government has been\Ncovering up incidents since.
+Dialogue: 0,0:10:45.54,0:10:52.07,Default,,0,0,0,,But everyone knew how threatening they were\Nat that time...
+Dialogue: 0,0:10:54.15,0:10:59.95,Default,,0,0,0,,A particularly fateful incident took place at God Valley\N38 years ago.
+Dialogue: 0,0:11:00.20,0:11:09.06,On Top,,0,0,0,,38 YEARS AGO
+Dialogue: 0,0:11:00.53,0:11:03.93,DefaultLow,,0,0,0,,It was reported on the news that the world's
+Dialogue: 0,0:11:03.93,0:11:08.21,DefaultLow,,0,0,0,,strongest Rocks Pirates were annihilated on that island...
+Dialogue: 0,0:11:56.54,0:12:00.38,Default,,0,0,0,,No one could stop the advancement of the evil,
+Dialogue: 0,0:12:00.38,0:12:04.89,Default,,0,0,0,,but Navy HQ Vice Admiral Garp was able to!
+Dialogue: 0,0:12:06.89,0:12:09.90,Default,,0,0,0,,His name became known throughout the world
+Dialogue: 0,0:12:09.90,0:12:13.33,Default,,0,0,0,,and people started calling him the hero of the Navy.
+Dialogue: 0,0:12:15.73,0:12:21.04,Default,,0,0,0,,So that's the beginning of\NVice Admiral Garp's many tales of heroism!
+Dialogue: 0,0:12:24.20,0:12:28.56,Default,,0,0,0,,There are countless tales of heroism\Ninvolving Vice Admiral Garp,
+Dialogue: 0,0:12:28.56,0:12:34.25,Default,,0,0,0,,but I didn't know\Nthere was yet another great episode like that!
+Dialogue: 0,0:12:34.25,0:12:36.68,Default,,0,0,0,,He's really something!
+Dialogue: 0,0:12:39.96,0:12:42.59,Default,,0,0,0,,Big Mom and Kaido?!
+Dialogue: 0,0:12:42.59,0:12:44.53,Default,,0,0,0,,Enough already...
+Dialogue: 0,0:12:47.47,0:12:51.31,Default,,0,0,0,,But he often refuses to talk about it.
+Dialogue: 0,0:12:51.31,0:12:53.08,Default,,0,0,0,,What? Why?
+Dialogue: 0,0:12:56.69,0:13:00.74,Default,,0,0,0,,I'll fill you in\Nso you can learn some history...
+Dialogue: 0,0:13:01.48,0:13:06.32,Default,,0,0,0,,One of the reasons he doesn't share\Nwas never reported in the papers.
+Dialogue: 0,0:13:06.32,0:13:10.63,Default,,0,0,0,,It was necessary to work alongside a pirate\Nto fight that battle.
+Dialogue: 0,0:13:11.04,0:13:12.42,Default,,0,0,0,,A pirate?!
+Dialogue: 0,0:13:12.87,0:13:17.81,Default,,0,0,0,,The other reason is he happened to\Nsave the Celestial Dragons.
+Dialogue: 0,0:13:17.81,0:13:21.73,Default,,0,0,0,,What?!\NThe Celestial Dragons were part of that story?!
+Dialogue: 0,0:13:25.45,0:13:29.60,Default,,0,0,0,,Well, it's a Navy soldier's duty\Nto protect the Celestial Dragons.
+Dialogue: 0,0:13:29.60,0:13:31.19,Default,,0,0,0,,What's wrong with that?!
+Dialogue: 0,0:13:31.76,0:13:35.74,Default,,0,0,0,,Garp's moral compass tells him that it's not his duty.
+Dialogue: 0,0:13:39.23,0:13:43.48,Default,,0,0,0,,One of the reasons that Garp refuses\Nto become the admiral is...
+Dialogue: 0,0:13:43.48,0:13:47.64,Default,,0,0,0,,...because admirals are\Nthe Celestial Dragons' direct subordinates.
+Dialogue: 0,0:13:47.64,0:13:53.34,Default,,0,0,0,,He openly shows disrespect for them, but he is spared\Nbecause of his achievements and popularity.
+Dialogue: 0,0:13:53.66,0:13:55.75,Default,,0,0,0,,Now, the truth of the matter is...
+Dialogue: 0,0:13:55.75,0:14:00.59,Default,,0,0,0,,...to protect the Celestial Dragons and their slaves\Nat God Valley,
+Dialogue: 0,0:14:00.59,0:14:07.91,Default,,0,0,0,,Garp and Roger who happened to be there\Nworked together and defeated the Rocks Pirates!
+Dialogue: 0,0:14:07.91,0:14:11.41,Default,,0,0,0,,It's known as the God Valley Incident!
+Dialogue: 0,0:14:11.41,0:14:13.65,On Top,,0,0,0,,RETIRED
+Dialogue: 0,0:14:14.29,0:14:15.60,Default,,0,0,0,,Worked together with...
+Dialogue: 0,0:14:15.60,0:14:16.64,Default,,0,0,0,,...the King of the Pirates...
+Dialogue: 0,0:14:16.64,0:14:17.96,Default,,0,0,0,,...and fought?!
+Dialogue: 0,0:14:17.96,0:14:21.44,Default,,0,0,0,,The Celestial Dragons and Roger and Rocks?!
+Dialogue: 0,0:14:21.44,0:14:26.53,Default,,0,0,0,,I can't believe they were all at the same place at the same time!\NWhat was on that island?!
+Dialogue: 0,0:14:26.53,0:14:29.79,Default,,0,0,0,,I've never heard of God Valley!
+Dialogue: 0,0:14:30.53,0:14:32.58,Default,,0,0,0,,It's no wonder...
+Dialogue: 0,0:14:33.74,0:14:36.63,Default,,0,0,0,,The name, God Valley...
+Dialogue: 0,0:14:37.29,0:14:41.38,Default,,0,0,0,,...is nowhere to be found on any map now.
+Dialogue: 0,0:14:42.88,0:14:47.97,Default,,0,0,0,,In fact, it disappeared without a trace...
+Dialogue: 0,0:14:51.97,0:14:56.72,Default,,0,0,0,,The island that the World Government wanted to hide\Ndisappeared...
+Dialogue: 0,0:14:56.72,0:15:01.11,Default,,0,0,0,,Do you still wanna know about the island?
+Dialogue: 0,0:15:01.11,0:15:06.28,Default,,0,0,0,,Once, the ambitious Rocks tried to become\Nthe king of the world,
+Dialogue: 0,0:15:06.28,0:15:12.83,Default,,0,0,0,,but broke one too many taboos,\Nso information regarding him is no longer available...
+Dialogue: 0,0:15:13.41,0:15:19.25,Default,,0,0,0,,He is only remembered by\Nsome Navy soldiers of our generation.
+Dialogue: 0,0:15:19.25,0:15:20.92,Default,,0,0,0,,Even it was a long time ago,
+Dialogue: 0,0:15:20.92,0:15:23.60,Default,,0,0,0,,I can't believe there was a man who led three pirates
+Dialogue: 0,0:15:23.60,0:15:26.21,Default,,0,0,0,,who'd later be called the Emperors of the Sea!
+Dialogue: 0,0:15:26.21,0:15:31.84,Default,,0,0,0,,For Roger, maybe Rocks was\Nhis first and strongest enemy...
+Dialogue: 0,0:15:31.84,0:15:35.90,Default,,0,0,0,,Strangely enough,\NRoger and Rocks had something in common.
+Dialogue: 0,0:15:37.06,0:15:42.06,Default,,0,0,0,,Rocks' full name is Rocks D. Xebec.
+Dialogue: 0,0:15:42.06,0:15:44.27,Default,,0,0,0,,Even though he has already died,
+Dialogue: 0,0:15:44.27,0:15:49.79,Default,,0,0,0,,he was one of those pirates\Nwho have the name "D."!
+Dialogue: 0,0:16:12.38,0:16:14.56,Default,,0,0,0,,Let me return to my story.
+Dialogue: 0,0:16:19.12,0:16:24.24,On Top,,0,0,0,,RETIRED
+Dialogue: 0,0:16:19.31,0:16:25.00,Default,,0,0,0,,It's true that Kaido and Big Mom\Nwere on board the same ship...
+Dialogue: 0,0:16:25.00,0:16:30.46,Default,,0,0,0,,But their capabilities are totally different\Nfrom 38 years ago.
+Dialogue: 0,0:16:30.46,0:16:36.74,Default,,0,0,0,,If they really team up,\Nwe're about to see the world's worst pirate group.
+Dialogue: 0,0:16:36.74,0:16:40.47,Default,,0,0,0,,Brannew! How much are their bounties now?
+Dialogue: 0,0:16:40.47,0:16:44.66,Default,,0,0,0,,Right, yeah, we have to decide new bounties for
+Dialogue: 0,0:16:44.66,0:16:48.02,Default,,0,0,0,,those who were stripped of their title of Warlord, too.
+Dialogue: 0,0:16:48.02,0:16:52.39,Default,,0,0,0,,Let's go over all of their numbers.
+Dialogue: 0,0:17:01.93,0:17:08.16,Default,,0,0,0,,Starting with Blackbeard who started to be\Ncalled an Emperor of the Sea about a year ago...
+Dialogue: 0,0:17:08.65,0:17:13.92,Default,,0,0,0,,He recruited some powerful subordinates\Nwhen he raided Impel Down two years ago,
+Dialogue: 0,0:17:13.92,0:17:17.53,Default,,0,0,0,,and now has gained control over\Nthe Pirate Island of Fullalead.
+Dialogue: 0,0:17:17.53,0:17:22.80,Default,,0,0,0,,He's still extending his influence\Ntaking Whitebeard's place!
+Dialogue: 0,0:17:24.00,0:17:29.29,Default,,0,0,0,,The commodore of the Blackbeard Pirates, Marshall D. Teech!
+Dialogue: 0,0:17:29.29,0:17:33.39,Default,,0,0,0,,2 billion 247 million 600 thousand berries!
+Dialogue: 0,0:17:37.55,0:17:42.65,Default,,0,0,0,,Next up, he has only been called an Emperor of the Sea\Nfor six years...
+Dialogue: 0,0:17:43.56,0:17:49.92,Default,,0,0,0,,He's the youngest of the four\Nand deeply trusted by his subordinates...
+Dialogue: 0,0:17:49.92,0:17:51.21,Default,,0,0,0,,Beckman.
+Dialogue: 0,0:17:51.21,0:17:52.38,Default,,0,0,0,,Roux.
+Dialogue: 0,0:17:52.38,0:17:53.82,Default,,0,0,0,,Yasopp.
+Dialogue: 0,0:17:53.82,0:17:56.63,Default,,0,0,0,,His top officers gained notoriety individually,
+Dialogue: 0,0:17:56.63,0:18:03.59,Default,,0,0,0,,and his undefeatable group has a high average bounty\Nand the best balance of any groups...
+Dialogue: 0,0:18:04.37,0:18:07.58,Default,,0,0,0,,The chief of the Red-Hair Pirates...
+Dialogue: 0,0:18:07.58,0:18:10.00,Default,,0,0,0,,Red-Hair Shanks!
+Dialogue: 0,0:18:10.00,0:18:13.64,Default,,0,0,0,,4 billion 48 million 900 thousand berries!
+Dialogue: 0,0:18:17.13,0:18:18.56,Default,,0,0,0,,Next is...
+Dialogue: 0,0:18:19.26,0:18:27.12,Default,,0,0,0,,She's a natural-born monster who allegedly\Ndestroyed the village of Elbaph when she was little...
+Dialogue: 0,0:18:27.12,0:18:32.00,Default,,0,0,0,,She only trusts her blood relatives\Nand along with her 85 children,
+Dialogue: 0,0:18:32.00,0:18:38.83,Default,,0,0,0,,this autocratic queen built Totto Land,\Nthe queendom made of candy!
+Dialogue: 0,0:18:40.49,0:18:43.70,Default,,0,0,0,,The captain of the Big Mom Pirates!
+Dialogue: 0,0:18:43.70,0:18:46.12,Default,,0,0,0,,Charlotte Linlin!
+Dialogue: 0,0:18:46.12,0:18:49.72,Default,,0,0,0,,4 billion 388 million berries!
+Dialogue: 0,0:18:53.75,0:18:58.47,Default,,0,0,0,,And in the old Rocks Pirates,
+Dialogue: 0,0:18:58.97,0:19:02.24,Default,,0,0,0,,he was just an apprentice pirate...
+Dialogue: 0,0:19:03.72,0:19:10.39,Default,,0,0,0,,But thereafter, he earned the respect of\Nvicious pirates by his strength alone,
+Dialogue: 0,0:19:10.39,0:19:14.07,Default,,0,0,0,,and ended up being called an Emperor of the Sea!
+Dialogue: 0,0:19:15.05,0:19:17.94,Default,,0,0,0,,The Supreme Commander of the Animal Kingdom Pirates!
+Dialogue: 0,0:19:17.94,0:19:20.65,Default,,0,0,0,,King of the Beasts Kaido!
+Dialogue: 0,0:19:20.65,0:19:24.38,Default,,0,0,0,,4 billion 611 million 100 thousand berries!
+Dialogue: 0,0:19:28.54,0:19:30.14,Default,,0,0,0,,I feel depressed...
+Dialogue: 0,0:19:30.14,0:19:32.33,Default,,0,0,0,,By the decision at the Reverie,
+Dialogue: 0,0:19:32.33,0:19:38.68,Default,,0,0,0,,we can't deploy the Seven Warlords\Nto fight these Four Emperors anymore!
+Dialogue: 0,0:19:42.87,0:19:47.08,Default,,0,0,0,,Whether removing that poison was correct or not...
+Dialogue: 0,0:19:47.08,0:19:52.54,Default,,0,0,0,,It's up to how well SSG,\Nthe Navy's Special Science Group, performs.
+Dialogue: 0,0:19:52.54,0:19:55.52,Default,,0,0,0,,For your reference,
+Dialogue: 0,0:19:55.52,0:19:58.91,Default,,0,0,0,,here are the bounties of other legendary figures!
+Dialogue: 0,0:20:00.57,0:20:03.20,Default,,0,0,0,,The captain of the Whitebeard Pirates!
+Dialogue: 0,0:20:03.20,0:20:05.46,Default,,0,0,0,,Edward Newgate!
+Dialogue: 0,0:20:05.78,0:20:09.17,Default,,0,0,0,,5 billion 46 million berries!
+Dialogue: 0,0:20:13.58,0:20:16.21,Default,,0,0,0,,The captain of the Roger Pirates!
+Dialogue: 0,0:20:16.21,0:20:19.42,Default,,0,0,0,,The King of the Pirates Gold Roger!
+Dialogue: 0,0:20:19.42,0:20:23.10,Default,,0,0,0,,5 billion 564 million 800 thousand berries!
+Dialogue: 0,0:20:28.87,0:20:35.15,Default,,0,0,0,,No pirates have ever surpassed these two...
+Dialogue: 0,0:20:37.44,0:20:41.09,Default,,0,0,0,,but once Kaido and Big Mom's alliance is formed,
+Dialogue: 0,0:20:41.09,0:20:45.71,Default,,0,0,0,,the sum of their bounties will surely top those numbers!
+Dialogue: 0,0:20:55.98,0:21:00.64,Default,,0,0,0,,But now in the Land of Wano\Nwhich isn't affiliated with the Government...
+Dialogue: 0,0:21:01.53,0:21:03.59,Default,,0,0,0,,Fleet Admiral Sakazuki!
+Dialogue: 0,0:21:03.59,0:21:06.64,Default,,0,0,0,,Forget about the Land of Wano!
+Dialogue: 0,0:21:08.53,0:21:15.57,Default,,0,0,0,,We have no resources to put towards it, Sengoku-san!
+Dialogue: 0,0:21:25.01,0:21:28.76,Default,,0,0,0,,Of course, I wasn't intending to get involved...
+Dialogue: 0,0:21:28.76,0:21:33.88,Default,,0,0,0,,I was just conveying my knowledge as an old soldier\Nto young soldiers.
+Dialogue: 0,0:21:38.69,0:21:41.75,Default,,0,0,0,,Even pirates have relationships.
+Dialogue: 0,0:21:41.75,0:21:44.80,Default,,0,0,0,,They have purposes for their actions.
+Dialogue: 0,0:21:44.80,0:21:48.27,Default,,0,0,0,,You can't see what'll come next\Nif you don't know history.
+Dialogue: 0,0:21:48.64,0:21:53.39,Default,,0,0,0,,Oh, yeah... There was a pirate from the Land of Wano who
+Dialogue: 0,0:21:53.39,0:21:56.79,Default,,0,0,0,,was favored by Whitebeard, Roger, and Red-Hair.
+Dialogue: 0,0:22:00.29,0:22:07.20,Default,,0,0,0,,You mean Kozuki Oden? The man who once served\Nas a commander on Whitebeard's ship...
+Dialogue: 0,0:22:07.20,0:22:14.44,Default,,0,0,0,,Oden was later headhunted by Roger\Nand accompanied him on his last journey...
+Dialogue: 0,0:22:14.44,0:22:19.55,Default,,0,0,0,,There's no way that Oden has something to do\Nwith what's happening...
+Dialogue: 0,0:22:24.05,0:22:29.18,Default,,0,0,0,,But why do those big-time pirates\Nwho disturb the world...
+Dialogue: 0,0:22:29.18,0:22:33.61,Default,,0,0,0,,...always get involved with the Land of Wano?
+Dialogue: 0,0:22:35.35,0:22:40.67,Default,,0,0,0,,I think it's too much of a coincidence...
+Dialogue: 0,0:22:40.67,0:22:41.96,Default,,0,0,0,,Sakazuki!
+Dialogue: 0,0:23:18.35,0:23:20.96,Italics,,0,0,0,,{\i1}On the day of the annual Fire Festival,{\i0}
+Dialogue: 0,0:23:20.96,0:23:23.89,Italics,,0,0,0,,{\i1}at the rendezvous point, Luffy and his clan are nowhere to\N{\i0}
+Dialogue: 0,0:23:23.89,0:23:26.55,Italics,,0,0,0,,be found and Kin'emon and the others stand helplessly by!{\i0}
+Dialogue: 0,0:23:26.55,0:23:30.59,Italics,,0,0,0,,{\i1}Here comes a storm!\NWill they give up on the raid plan?!{\i0}
+Dialogue: 0,0:23:30.59,0:23:36.31,Italics,,0,0,0,,{\i1}Raging waves and sea wind\Nseem like they're trying to block their way to Onigashima!{\i0}
+Dialogue: 0,0:23:36.31,0:23:41.79,Default,,0,0,0,,On the next episode of One Piece!\N"The Rendezvous Port! The Land of Wano Act Three Begins!"
+Dialogue: 0,0:23:41.79,0:23:45.65,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.50,0:23:47.50,Default,,0,0,0,,
+Dialogue: 0,0:23:47.50,0:23:49.50,On Top,,0,0,0,,

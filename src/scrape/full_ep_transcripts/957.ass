@@ -1,0 +1,420 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.11,0:00:13.95,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:11.11,0:00:13.95,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,Default,,0,0,0,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,On Top,,0,0,0,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,Default,,0,0,0,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,On Top,,0,0,0,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,Default,,0,0,0,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,On Top,,0,0,0,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,Default,,0,0,0,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,On Top,,0,0,0,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,Default,,0,0,0,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,On Top,,0,0,0,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,Default,,0,0,0,,{\i1}Shout it out, to save \Nyour spirit from breaking{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,On Top,,0,0,0,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,Default,,0,0,0,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,On Top,,0,0,0,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,Default,,0,0,0,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,On Top,,0,0,0,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,Default,,0,0,0,,{\i1}Even when the darkness \Ntries to tear you apart{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,On Top,,0,0,0,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,Default,,0,0,0,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,On Top,,0,0,0,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,Default,,0,0,0,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,On Top,,0,0,0,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,Default,,0,0,0,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,On Top,,0,0,0,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.05,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.05,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:16.09,0:01:18.76,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:16.09,0:01:18.76,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.80,0:01:21.47,Default,,0,0,0,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.80,0:01:21.47,On Top,,0,0,0,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.22,Default,,0,0,0,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.22,On Top,,0,0,0,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,Default,,0,0,0,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,On Top,,0,0,0,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,Default,,0,0,0,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,On Top,,0,0,0,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,Default,,0,0,0,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,On Top,,0,0,0,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,Default,,0,0,0,,{\i1}Transcend meetings and \Npartings and keep going{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,On Top,,0,0,0,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,Default,,0,0,0,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,On Top,,0,0,0,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.76,On Top,,0,0,0,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.76,Default,,0,0,0,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:02:11.90,0:02:15.57,Default,,0,0,0,,I am worried to death about Otoko...
+Dialogue: 0,0:02:16.07,0:02:19.45,Default,,0,0,0,,but still, Kawamatsu,
+Dialogue: 0,0:02:19.45,0:02:23.33,Default,,0,0,0,,I am not going to meet everyone now.
+Dialogue: 0,0:02:23.70,0:02:27.87,Default,,0,0,0,,People should not get \Nemotional before battles.
+Dialogue: 0,0:02:30.42,0:02:32.54,Default,,0,0,0,,Together with everyone else,
+Dialogue: 0,0:02:32.54,0:02:37.92,Default,,0,0,0,,please save the Land of Wano!
+Dialogue: 0,0:02:38.38,0:02:43.65,Default,,0,0,0,,First, I must tell you that the only person\Nwho was able to manage Enma in this country...
+Dialogue: 0,0:02:43.65,0:02:47.52,Default,,0,0,0,,...was Kozuki Oden\Nand no one before or since!
+Dialogue: 0,0:02:48.43,0:02:50.98,Default,,0,0,0,,I am counting on you guys!
+Dialogue: 0,0:02:50.98,0:02:54.36,Default,,0,0,0,,Yeah, leave it to us!
+Dialogue: 0,0:02:54.36,0:02:56.23,Default,,0,0,0,,See you at the port!
+Dialogue: 0,0:02:56.94,0:02:57.94,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:03:14.54,0:03:17.42,Default,,0,0,0,,Just you wait, Kaido!
+Dialogue: 0,0:03:17.42,0:03:20.09,On Top,,0,0,0,,ISSHO
+Dialogue: 0,0:03:22.38,0:03:26.06,Default,,0,0,0,,SEA AREA AROUND THE ENTRANCE OF THE NEW WORLD
+Dialogue: 0,0:03:30.43,0:03:35.32,Default,,0,0,0,,I'm just a newcomer\Npicked through the International Military Draft,
+Dialogue: 0,0:03:35.32,0:03:41.61,Default,,0,0,0,,but since being appointed as a Navy admiral,\Nthere is something I want to do.
+Dialogue: 0,0:03:41.61,0:03:43.27,Default,,0,0,0,,The Navy.
+Dialogue: 0,0:03:43.27,0:03:44.92,Default,,0,0,0,,The Seven Warlords.
+Dialogue: 0,0:03:44.92,0:03:46.53,Default,,0,0,0,,The Four Emperors.
+Dialogue: 0,0:03:46.53,0:03:49.41,Default,,0,0,0,,What do you think will happen to\Nthe balance of power?
+Dialogue: 0,0:03:49.41,0:03:53.58,Default,,0,0,0,,I don't know. Who can \Ntell before we upset it?
+Dialogue: 0,0:03:57.71,0:04:05.64,Default,,0,0,0,,That vicious pirate was approved as a king of a country\Nunder the Seven Warlord system
+Dialogue: 0,0:04:05.64,0:04:09.89,Default,,0,0,0,,and allowed to reign over this island\Nby none other than...
+Dialogue: 0,0:04:11.02,0:04:13.69,Default,,0,0,0,,...the World Government!
+Dialogue: 0,0:04:14.52,0:04:17.45,Default,,0,0,0,,What I want to destroy is...
+Dialogue: 0,0:04:17.45,0:04:19.07,Default,,0,0,0,,...the system.
+Dialogue: 0,0:04:19.44,0:04:25.32,Default,,0,0,0,,{\i1}We no longer need the \NSeven Warlords of the Sea!{\i0}
+Dialogue: 0,0:04:28.41,0:04:35.46,Default,,0,0,0,,{\i1}"Big News!\NAn Incident That Will Affect the Seven Warlords!"{\i0}
+Dialogue: 0,0:04:38.13,0:04:43.26,On Top,,0,0,0,,MARIJOA
+Dialogue: 0,0:04:40.30,0:04:43.34,Default,,0,0,0,,{\i1}The World Conference known as the Reverie.{\i0}
+Dialogue: 0,0:04:43.34,0:04:48.46,Default,,0,0,0,,{\i1}It's a grand conference of 50 representative kings and queens\Nheld every four years,{\i0}
+Dialogue: 0,0:04:48.46,0:04:56.10,Default,,0,0,0,,{\i1}representing more than 170 countries\Nthat are affiliated with the World Government.{\i0}
+Dialogue: 0,0:05:01.61,0:05:05.58,Default,,0,0,0,,{\i1}The Reverie was dismissed\Nin a state of great confusion as always,{\i0}
+Dialogue: 0,0:05:05.58,0:05:09.45,Default,,0,0,0,,{\i1}and all the representatives went home.{\i0}
+Dialogue: 0,0:05:09.78,0:05:10.99,Default,,0,0,0,,{\i1}Then...{\i0}
+Dialogue: 0,0:05:12.58,0:05:15.25,Default,,0,0,0,,{\i1}...a week later...{\i0}
+Dialogue: 0,0:05:16.33,0:05:19.96,Default,,0,0,0,,Gee... I'm finally home-jamon...
+Dialogue: 0,0:05:17.29,0:05:19.96,On Top,,0,0,0,,RYUGU CASTLE, RYUGU KINGDOM, FISH-MAN ISLAND
+Dialogue: 0,0:05:19.96,0:05:24.92,Default,,0,0,0,,Boy... The surface world is so far above...
+Dialogue: 0,0:05:24.92,0:05:28.93,Default,,0,0,0,,Um, thank you for escorting us!
+Dialogue: 0,0:05:28.93,0:05:31.26,Default,,0,0,0,,Luffy-sama's grandfather-sama!
+Dialogue: 0,0:05:31.64,0:05:34.23,Default,,0,0,0,,Well, don't mention it.
+Dialogue: 0,0:05:34.23,0:05:37.10,Default,,0,0,0,,It was a pretty long trip, huh, Neptune?
+Dialogue: 0,0:05:37.10,0:05:39.31,Default,,0,0,0,,You must be tired!
+Dialogue: 0,0:05:41.52,0:05:43.39,Default,,0,0,0,,I'm exhausted-jamon.
+Dialogue: 0,0:05:43.39,0:05:46.92,Default,,0,0,0,,Garp, stay here with us and rest well.
+Dialogue: 0,0:05:46.92,0:05:50.46,Default,,0,0,0,,Well, maybe I'll have a cup of tea,
+Dialogue: 0,0:05:50.46,0:05:54.62,Default,,0,0,0,,but considering the situation,\NI can't stay here that long...
+Dialogue: 0,0:05:56.21,0:05:59.12,Default,,0,0,0,,The Reverie always triggers big incidents.
+Dialogue: 0,0:05:59.88,0:06:05.09,Default,,0,0,0,,When 50 countries gather,\Na simple "Let's get along" won't do.
+Dialogue: 0,0:06:05.71,0:06:08.84,Default,,0,0,0,,Each country has tons of \Nproblems of their own.
+Dialogue: 0,0:06:08.84,0:06:12.85,Default,,0,0,0,,Large and mighty countries\Njust quietly stare at each other,
+Dialogue: 0,0:06:12.85,0:06:15.18,Default,,0,0,0,,and let their proxies bicker...
+Dialogue: 0,0:06:20.69,0:06:24.98,Default,,0,0,0,,To them, resources and technologies\Nare a weapon.
+Dialogue: 0,0:06:27.19,0:06:31.62,Default,,0,0,0,,They say that all countries are equal,\Nbut that's just lip service.
+Dialogue: 0,0:06:32.12,0:06:39.08,Default,,0,0,0,,Wealth and poverty and religious differences,\Nwon't allow them to be equal...
+Dialogue: 0,0:06:44.38,0:06:48.64,Default,,0,0,0,,Even if they shake hands,\Nthey step on each other's foot with a grin.
+Dialogue: 0,0:06:48.64,0:06:52.64,Default,,0,0,0,,I wonder how many leaders there are\Nwho can speak for their
+Dialogue: 0,0:06:52.64,0:06:54.93,Default,,0,0,0,,citizens and for other countries...
+Dialogue: 0,0:06:55.51,0:06:57.79,Default,,0,0,0,,The round table must be weeping...
+Dialogue: 0,0:06:57.79,0:07:02.41,Default,,0,0,0,,You're right.\NThe conversations among the leaders were explosive.
+Dialogue: 0,0:07:02.41,0:07:08.90,Default,,0,0,0,,We're no exception, but quarrels between countries\Ncan't be solved so easily.
+Dialogue: 0,0:07:09.32,0:07:14.87,Default,,0,0,0,,If there is a long history,\Nthe conflict must have deeper roots.
+Dialogue: 0,0:07:15.78,0:07:21.87,Default,,0,0,0,,Even if there is a disagreement,\Nas long as no blood is spilled, I call it peace.
+Dialogue: 0,0:07:22.46,0:07:25.13,Default,,0,0,0,,But what happened this time is no good!
+Dialogue: 0,0:07:25.63,0:07:27.04,Default,,0,0,0,,It's a bit late to mention this,
+Dialogue: 0,0:07:27.04,0:07:30.41,Default,,0,0,0,,but there's actually one thing \Nthat I haven't told you about.
+Dialogue: 0,0:07:30.80,0:07:36.10,Default,,0,0,0,,Right after the Reverie was dismissed and we set off,\Nan incident occurred,
+Dialogue: 0,0:07:36.10,0:07:38.85,Default,,0,0,0,,and I received the report aboard ship.
+Dialogue: 0,0:07:39.73,0:07:44.27,Default,,0,0,0,,We the Navy will do our best to resolve it,\Nbut please don't be afraid of...
+Dialogue: 0,0:07:42.19,0:07:44.27,On Top,,0,0,0,,JUSTICE
+Dialogue: 0,0:07:44.27,0:07:48.15,Default,,0,0,0,,...the surface world as well as humans!
+Dialogue: 0,0:07:48.57,0:07:54.28,Default,,0,0,0,,What happened?\NGarp, what kind of report did you receive?
+Dialogue: 0,0:07:54.91,0:07:57.97,Default,,0,0,0,,It's an incident concerning Alabasta Kingdom.
+Dialogue: 0,0:07:57.97,0:07:59.91,Default,,0,0,0,,Alabasta Kingdom...
+Dialogue: 0,0:08:01.25,0:08:02.71,Default,,0,0,0,,Vivi-sama!
+Dialogue: 0,0:08:04.67,0:08:07.96,Default,,0,0,0,,{\i1}Before all of this transpired...{\i0}
+Dialogue: 0,0:08:07.96,0:08:12.34,Default,,0,0,0,,{\i1}At the World Economic Journal\Nright after the Reverie was dismissed...{\i0}
+Dialogue: 0,0:08:12.34,0:08:15.36,Default,,0,0,0,,Wow! It's incident after incident!
+Dialogue: 0,0:08:15.36,0:08:18.32,Default,,0,0,0,,Can't believe this many \Nthings happened at once.
+Dialogue: 0,0:08:18.32,0:08:21.68,Default,,0,0,0,,Listen! Come up with the \Ngreatest heading ever!
+Dialogue: 0,0:08:22.69,0:08:26.06,Default,,0,0,0,,Sir, which one should make the front-page?!
+Dialogue: 0,0:08:27.02,0:08:29.32,Default,,0,0,0,,Listen! Someone has died!
+Dialogue: 0,0:08:29.32,0:08:32.00,Default,,0,0,0,,The big obituary sells papers!
+Dialogue: 0,0:08:32.00,0:08:34.59,Default,,0,0,0,,--Then, that'll be the headline...\N--No, wait!
+Dialogue: 0,0:08:34.59,0:08:37.32,Default,,0,0,0,,The resolution they passed is also good.
+Dialogue: 0,0:08:37.32,0:08:40.69,Default,,0,0,0,,But a murder attempt makes \Nyou excited as well!
+Dialogue: 0,0:08:40.69,0:08:41.56,Default,,0,0,0,,That's right!
+Dialogue: 0,0:08:41.56,0:08:45.93,Default,,0,0,0,,Okay, let's have two front pages!\NThe back page will have the same format as the front!
+Dialogue: 0,0:08:45.93,0:08:47.06,Default,,0,0,0,,Okay!
+Dialogue: 0,0:08:47.06,0:08:48.51,Default,,0,0,0,,Sir!
+Dialogue: 0,0:08:48.51,0:08:51.13,Default,,0,0,0,,Express mail from the Government.
+Dialogue: 0,0:08:51.55,0:08:52.98,Default,,0,0,0,,A check, huh?
+Dialogue: 0,0:08:52.98,0:08:55.39,Default,,0,0,0,,Oh, that's a lot!
+Dialogue: 0,0:08:55.39,0:08:58.48,Default,,0,0,0,,I see. It's an order to \Nmanipulate information.
+Dialogue: 0,0:08:58.48,0:09:01.02,Default,,0,0,0,,But for which case?
+Dialogue: 0,0:09:04.48,0:09:07.68,Default,,0,0,0,,Hushing up this incident?
+Dialogue: 0,0:09:07.68,0:09:09.19,Default,,0,0,0,,I can't do that!
+Dialogue: 0,0:09:09.69,0:09:12.15,Default,,0,0,0,,Throw this back in their faces!
+Dialogue: 0,0:09:13.90,0:09:15.03,Default,,0,0,0,,Hey, what's wrong?
+Dialogue: 0,0:09:15.03,0:09:17.11,Default,,0,0,0,,No, no, no...
+Dialogue: 0,0:09:20.24,0:09:23.22,Default,,0,0,0,,Do what you're told, Morgans!
+Dialogue: 0,0:09:23.22,0:09:25.83,Default,,0,0,0,,The secret agency, Cipher Pol?!
+Dialogue: 0,0:09:25.83,0:09:29.67,Default,,0,0,0,,You must obey orders\Nfrom the World Government.
+Dialogue: 0,0:09:29.67,0:09:31.00,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:09:35.13,0:09:39.47,Default,,0,0,0,,Don't underestimate "Big News" Morgans!
+Dialogue: 0,0:09:44.14,0:09:46.48,Default,,0,0,0,,When did he sneak in?!
+Dialogue: 0,0:09:46.98,0:09:50.67,Default,,0,0,0,,Sir! Members of Cipher Pol are\Nthe Government officials!
+Dialogue: 0,0:09:50.67,0:09:54.15,Default,,0,0,0,,I know!\NGuys, it's dangerous to stay here.
+Dialogue: 0,0:09:54.15,0:09:56.15,Default,,0,0,0,,Let's relocate!
+Dialogue: 0,0:09:59.70,0:10:01.75,Default,,0,0,0,,I may be a miser,
+Dialogue: 0,0:10:01.75,0:10:05.00,Default,,0,0,0,,but I'm first and foremost a journalist!
+Dialogue: 0,0:10:05.37,0:10:09.09,Default,,0,0,0,,Sometimes I spin lies and make people dance.\NI'm a DJ of words!
+Dialogue: 0,0:10:09.09,0:10:13.21,Default,,0,0,0,,I decide what to publish!
+Dialogue: 0,0:10:17.09,0:10:21.39,Default,,0,0,0,,Mr. Morgans!\NYou got a call from King Wapol of Drum Kingdom...
+Dialogue: 0,0:10:21.39,0:10:22.81,Default,,0,0,0,,King Wapol?
+Dialogue: 0,0:10:24.72,0:10:26.56,Default,,0,0,0,,What does he want?
+Dialogue: 0,0:10:26.56,0:10:29.79,Default,,0,0,0,,Well, sounds like he has information to leak.
+Dialogue: 0,0:10:29.79,0:10:31.81,Default,,0,0,0,,What?!
+Dialogue: 0,0:10:42.07,0:10:43.51,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:10:43.51,0:10:44.79,Default,,0,0,0,,A special report?
+Dialogue: 0,0:10:52.67,0:10:53.63,Default,,0,0,0,,Don't worry...
+Dialogue: 0,0:10:54.00,0:10:55.80,Default,,0,0,0,,It's gonna be okay...
+Dialogue: 0,0:11:02.76,0:11:06.22,Default,,0,0,0,,{\i1}In addition to the incident that\Nthe Government failed to hush up,{\i0}
+Dialogue: 0,0:11:06.22,0:11:10.82,Default,,0,0,0,,{\i1}the decision of the leaders made at the Reverie\Nand the incident that occurred there...{\i0}
+Dialogue: 0,0:11:10.82,0:11:16.36,Default,,0,0,0,,{\i1}...became known throughout the world in a flash\Nand stunned people.{\i0}
+Dialogue: 0,0:11:17.15,0:11:20.03,Default,,0,0,0,,Wait! What is this all about?!
+Dialogue: 0,0:11:23.32,0:11:27.09,Default,,0,0,0,,That can't be true!\NIt's just a story in the World Economic Journal, right?
+Dialogue: 0,0:11:23.32,0:11:30.75,On Top,,0,0,0,,REVOLUTIONARY ARMY'S GENERAL HEADQUARTERS\NKAMABAKKA KINGDOM
+Dialogue: 0,0:11:27.09,0:11:30.75,Default,,0,0,0,,It's the WEJ!\NThat bird president must've written nonsense!
+Dialogue: 0,0:11:31.29,0:11:33.63,Default,,0,0,0,,I'm sure of it!
+Dialogue: 0,0:11:36.67,0:11:40.06,Default,,0,0,0,,It's Sabo! That's impossible...
+Dialogue: 0,0:11:40.06,0:11:42.36,Default,,0,0,0,,I don't buy it!
+Dialogue: 0,0:11:42.36,0:11:43.47,Default,,0,0,0,,Calm down!
+Dialogue: 0,0:11:43.93,0:11:47.32,Default,,0,0,0,,First, we must confirm the facts.
+Dialogue: 0,0:11:47.32,0:11:52.60,Default,,0,0,0,,But all of them are out of contact...\NHow can we confirm?
+Dialogue: 0,0:11:52.90,0:11:54.69,Default,,0,0,0,,This isn't true, right?
+Dialogue: 0,0:11:56.07,0:11:57.65,Default,,0,0,0,,Sabo-kun...
+Dialogue: 0,0:11:59.19,0:12:01.49,On Top,,0,0,0,,ROYAL ESCORT SHIP, GOA KINGDOM
+Dialogue: 0,0:12:00.32,0:12:01.49,Default,,0,0,0,,My lady!
+Dialogue: 0,0:12:01.49,0:12:03.53,Default,,0,0,0,,He was in Marijoa?!
+Dialogue: 0,0:12:03.95,0:12:06.58,Default,,0,0,0,,B-Big Bro-sama?!
+Dialogue: 0,0:12:09.20,0:12:11.14,Default,,0,0,0,,What happened to Makino?
+Dialogue: 0,0:12:11.14,0:12:14.08,Default,,0,0,0,,--The bar is closed today.\N--What?!
+Dialogue: 0,0:12:14.08,0:12:17.29,Default,,0,0,0,,There was so much news in the world...
+Dialogue: 0,0:12:17.29,0:12:19.59,Default,,0,0,0,,I could use a drink.
+Dialogue: 0,0:12:22.59,0:12:24.34,Default,,0,0,0,,Sabo-kun...
+Dialogue: 0,0:12:26.68,0:12:30.61,Default,,0,0,0,,I just found out that he was alive...
+Dialogue: 0,0:12:30.61,0:12:32.73,Default,,0,0,0,,Tell me it's not true!
+Dialogue: 0,0:12:32.73,0:12:35.77,Default,,0,0,0,,Sabo!!
+Dialogue: 0,0:12:40.61,0:12:43.36,DefaultLow,,0,0,0,,UNDERSEA PRISON IMPEL DOWN
+Dialogue: 0,0:12:44.11,0:12:48.12,Default,,0,0,0,,I never get bored with this world!
+Dialogue: 0,0:12:49.12,0:12:51.29,Default,,0,0,0,,It's getting interesting!
+Dialogue: 0,0:12:58.29,0:13:00.80,Default,,0,0,0,,Hey, guys!
+Dialogue: 0,0:13:00.80,0:13:02.72,Default,,0,0,0,,Let's set sail!
+Dialogue: 0,0:13:02.72,0:13:05.30,Default,,0,0,0,,Rather than just watch as the Navy takes it,
+Dialogue: 0,0:13:05.30,0:13:08.22,Default,,0,0,0,,I'll take it for myself!
+Dialogue: 0,0:13:13.02,0:13:16.27,Default,,0,0,0,,{\i1}Now, back to the current action...{\i0}
+Dialogue: 0,0:13:17.81,0:13:22.28,Default,,0,0,0,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:13:21.11,0:13:24.61,On Top,,0,0,0,,OUTSKIRTS OF EBISU TOWN
+Dialogue: 0,0:13:22.86,0:13:27.49,Default,,0,0,0,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:13:27.95,0:13:29.49,Default,,0,0,0,,Ring, ring, ring...
+Dialogue: 0,0:13:30.12,0:13:31.10,Default,,0,0,0,,Clank.
+Dialogue: 0,0:13:31.10,0:13:33.04,Default,,0,0,0,,It's me, Koby.
+Dialogue: 0,0:13:37.46,0:13:38.63,Default,,0,0,0,,Hold on a second.
+Dialogue: 0,0:13:38.63,0:13:41.38,Default,,0,0,0,,--{\i1}I can't speak to you here.{\i0}\N--Okay.
+Dialogue: 0,0:13:44.92,0:13:47.07,Default,,0,0,0,,Oh, yeah! "Sea"!
+Dialogue: 0,0:13:47.07,0:13:48.47,Default,,0,0,0,,"Fog"!
+Dialogue: 0,0:13:50.01,0:13:52.66,Default,,0,0,0,,As always, you're conscientious...
+Dialogue: 0,0:13:52.66,0:13:56.03,Default,,0,0,0,,Well, it's a rule...
+Dialogue: 0,0:13:56.03,0:13:57.85,Default,,0,0,0,,Oh, yeah! Listen!
+Dialogue: 0,0:13:57.85,0:14:00.36,Default,,0,0,0,,{\i1}There's something that I need to report...{\i0}
+Dialogue: 0,0:14:00.90,0:14:01.94,Default,,0,0,0,,{\i1}...to you, Captain!{\i0}
+Dialogue: 0,0:14:02.36,0:14:06.65,DefaultLow,,0,0,0,,X. DRAKE - CAPTAIN OF "SWORD"\NNAVY HQ TOP SECRET SPECIAL FORCE
+Dialogue: 0,0:14:25.05,0:14:28.88,Default,,0,0,0,,What?! Is that the situation out there?!
+Dialogue: 0,0:14:28.88,0:14:32.01,Default,,0,0,0,,Yeah, it's too much to handle...
+Dialogue: 0,0:14:32.01,0:14:35.31,Default,,0,0,0,,Even with all Navy soldiers in the world...
+Dialogue: 0,0:14:35.31,0:14:40.86,Default,,0,0,0,,{\i1}So just as we planned,\Nthe Navy won't get involved with what's going on over there.{\i0}
+Dialogue: 0,0:14:40.86,0:14:42.79,Default,,0,0,0,,{\i1}They don't have enough soldiers...{\i0}
+Dialogue: 0,0:14:42.79,0:14:47.24,Default,,0,0,0,,I think that's fine.\NThe Land of Wano is not affiliated with the World Government.
+Dialogue: 0,0:14:47.70,0:14:51.63,Default,,0,0,0,,{\i1}Now, about Big Mom arriving at Onigashima...{\i0}
+Dialogue: 0,0:14:51.63,0:14:52.53,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:52.91,0:14:56.55,Default,,0,0,0,,Kaido and Big Mom have had a vendetta\Nfor so long...
+Dialogue: 0,0:14:56.55,0:15:00.14,Default,,0,0,0,,The Navy is expecting those two pirates\Nto ruin each other.
+Dialogue: 0,0:15:00.14,0:15:01.59,Default,,0,0,0,,Yeah, I guess.
+Dialogue: 0,0:15:01.59,0:15:06.88,Default,,0,0,0,,As we expected,\NKaido and Big Mom were at each other's throats...
+Dialogue: 0,0:15:08.22,0:15:10.05,Default,,0,0,0,,But they joined hands!
+Dialogue: 0,0:15:12.26,0:15:16.18,Default,,0,0,0,,W-W-W-W-What do you mean?!
+Dialogue: 0,0:15:20.02,0:15:23.90,Default,,0,0,0,,{\i1}As for Straw Hat Luffy,\Nthere's been no word of a breakout.{\i0}
+Dialogue: 0,0:15:24.36,0:15:26.54,Default,,0,0,0,,{\i1}The situation is at a standstill.{\i0}
+Dialogue: 0,0:15:26.54,0:15:28.91,Default,,0,0,0,,{\i1}And there's one more thing.\NThis is unpleasant,{\i0}
+Dialogue: 0,0:15:28.91,0:15:32.11,Default,,0,0,0,,{\i1}but I saw Cipher Pol Zero in the capital\Nthe other day.{\i0}
+Dialogue: 0,0:15:32.11,0:15:34.24,Default,,0,0,0,,What?! Why are they in the Land of Wano?!
+Dialogue: 0,0:15:35.53,0:15:37.41,Default,,0,0,0,,I hope I'm wrong,
+Dialogue: 0,0:15:37.41,0:15:40.47,Default,,0,0,0,,but that must mean the World Government is\Ndoing business...
+Dialogue: 0,0:15:40.47,0:15:44.84,Default,,0,0,0,,...with this Land of Wano\Nwhich is reigned over by a pirate.
+Dialogue: 0,0:15:45.96,0:15:49.21,Default,,0,0,0,,When I was made aware,\NI became stunned...
+Dialogue: 0,0:15:49.21,0:15:51.63,Default,,0,0,0,,{\i1}...for a few minutes.{\i0}
+Dialogue: 0,0:16:01.14,0:16:03.83,Default,,0,0,0,,{\i1}By the way, where are you now?{\i0}
+Dialogue: 0,0:16:03.83,0:16:04.65,Default,,0,0,0,,Yes.
+Dialogue: 0,0:16:05.31,0:16:09.23,Default,,0,0,0,,To capture Pirate Empress, Boa Hancock...
+Dialogue: 0,0:16:13.41,0:16:16.12,Default,,0,0,0,,we're heading towards the Island of Women!
+Dialogue: 0,0:16:16.99,0:16:18.34,Default,,0,0,0,,Oh, my...
+Dialogue: 0,0:16:18.34,0:16:21.87,Default,,0,0,0,,Those ships coming towards us\Ncrossing the Calm Belt are...
+Dialogue: 0,0:16:21.87,0:16:23.75,Default,,0,0,0,,...a Naval fleet?!
+Dialogue: 0,0:16:24.63,0:16:26.48,Default,,0,0,0,,Margaret!
+Dialogue: 0,0:16:26.48,0:16:29.63,Default,,0,0,0,,{\i1}What is going to happen?!{\i0}
+Dialogue: 0,0:16:31.76,0:16:34.97,Default,,0,0,0,,{\i1}That news that spread across the world...{\i0}
+Dialogue: 0,0:16:35.72,0:16:38.53,Default,,0,0,0,,They should've gotten rid of that damn thing\Na long time ago!
+Dialogue: 0,0:16:38.53,0:16:41.14,Default,,0,0,0,,It was a mistake to team up with pirates...
+Dialogue: 0,0:16:41.85,0:16:42.89,Default,,0,0,0,,They're evil!
+Dialogue: 0,0:16:43.39,0:16:46.52,Default,,0,0,0,,{\i1}For those who think all pirates are bad...{\i0}
+Dialogue: 0,0:16:48.40,0:16:51.24,Default,,0,0,0,,Those Government dogs will finally go away!
+Dialogue: 0,0:16:51.24,0:16:55.11,Default,,0,0,0,,Screw that Pirate Empress, Hawk-Eye,\Nand Clown!
+Dialogue: 0,0:16:55.11,0:16:58.24,Default,,0,0,0,,They're nothing but looters!
+Dialogue: 0,0:16:59.33,0:17:03.33,Default,,0,0,0,,{\i1}And for those who hate looters,\Nit's good news...{\i0}
+Dialogue: 0,0:17:03.33,0:17:07.84,Default,,0,0,0,,But I thought they did great\Nin the Paramount War!
+Dialogue: 0,0:17:08.59,0:17:10.25,Default,,0,0,0,,The Reverie made the decision?!
+Dialogue: 0,0:17:10.63,0:17:12.90,Default,,0,0,0,,I think the Navy will go into action\Nimmediately...
+Dialogue: 0,0:17:12.90,0:17:14.47,Default,,0,0,0,,Is it gonna be okay?
+Dialogue: 0,0:17:14.47,0:17:17.91,Default,,0,0,0,,They were one of\Nthe three great powers in the world!
+Dialogue: 0,0:17:17.91,0:17:21.61,Default,,0,0,0,,{\i1}For those who knew\Nhow they did in the Paramount War,{\i0}
+Dialogue: 0,0:17:21.61,0:17:26.45,Default,,0,0,0,,{\i1}and those who are concerned about\Nlosing the balance of the three great powers,{\i0}
+Dialogue: 0,0:17:26.45,0:17:29.36,Default,,0,0,0,,{\i1}it's a truly alarming situation.{\i0}
+Dialogue: 0,0:17:31.78,0:17:35.18,Italics,,0,0,0,,{\i1}One of the news stories \Non the latest Reverie,
+Dialogue: 0,0:17:35.18,0:17:39.07,Italics,,0,0,0,,that stunned the people across \Nthe world the most was...{\i0}
+Dialogue: 0,0:17:40.53,0:17:44.37,Default,,0,0,0,,{\i1}...the abolition of the Seven \NWarlords of the Sea system!{\i0}
+Dialogue: 0,0:17:45.79,0:17:50.64,Default,,0,0,0,,{\i1}The Seven Warlords of the Sea\Nare officially recognized pirates.{\i0}
+Dialogue: 0,0:17:50.64,0:17:53.02,Default,,0,0,0,,{\i1}While they're allowed to loot,{\i0}
+Dialogue: 0,0:17:53.02,0:17:57.90,Default,,0,0,0,,{\i1}the Government uses them as deterrents\Nagainst other pirates.{\i0}
+Dialogue: 0,0:17:57.90,0:18:04.14,Default,,0,0,0,,{\i1}The composition of the Seven Warlords\Nhas changed repeatedly with the times.{\i0}
+Dialogue: 0,0:18:10.02,0:18:11.44,Default,,0,0,0,,{\i1}Crocodile.{\i0}
+Dialogue: 0,0:18:11.90,0:18:16.90,Default,,0,0,0,,{\i1}He collided with the Straw Hats\Nover Alabasta Kingdom.{\i0}
+Dialogue: 0,0:18:16.90,0:18:19.78,Default,,0,0,0,,{\i1}He was trying to take over the kingdom,{\i0}
+Dialogue: 0,0:18:19.78,0:18:23.87,Default,,0,0,0,,{\i1}but he was defeated by Luffy\Nand expelled from the Seven Warlords.{\i0}
+Dialogue: 0,0:18:24.66,0:18:28.09,Default,,0,0,0,,{\i1}The man who replaced Crocodile\Nand joined the Seven Warlords...{\i0}
+Dialogue: 0,0:18:28.09,0:18:30.19,Default,,0,0,0,,{\i1}...was Marshall D. Teech.{\i0}
+Dialogue: 0,0:18:30.19,0:18:36.88,Default,,0,0,0,,{\i1}However, after achieving his aim,\Nhe announced his resignation.{\i0}
+Dialogue: 0,0:18:38.09,0:18:40.11,Italics,,0,0,0,,{\i1}"First Son of the Sea" Jimbei
+Dialogue: 0,0:18:40.11,0:18:43.41,Italics,,0,0,0,,who was opposed to the Paramount War \Nand became antagonistic to the Navy.{\i0}
+Dialogue: 0,0:18:43.41,0:18:46.64,Default,,0,0,0,,{\i1}He, too, declared his resignation.{\i0}
+Dialogue: 0,0:18:49.85,0:18:51.53,Default,,0,0,0,,{\i1}Gecko Moria.{\i0}
+Dialogue: 0,0:18:51.53,0:18:58.03,Default,,0,0,0,,{\i1}This man who once got in the Straw Hats' way\Nwas also summoned for the Paramount War.{\i0}
+Dialogue: 0,0:18:59.20,0:19:00.16,Default,,0,0,0,,{\i1}However...{\i0}
+Dialogue: 0,0:19:01.49,0:19:05.71,Default,,0,0,0,,{\i1}after the war, he was attacked off guard\Nby an order from high up in the Government.{\i0}
+Dialogue: 0,0:19:05.71,0:19:07.75,Default,,0,0,0,,{\i1}and was expelled.{\i0}
+Dialogue: 0,0:19:08.46,0:19:11.92,Default,,0,0,0,,{\i1}Heavenly Demon Don Quixote Doflamingo...{\i0}
+Dialogue: 0,0:19:13.09,0:19:16.06,Default,,0,0,0,,{\i1}At the same time he governed \NDressrosa as its king,{\i0}
+Dialogue: 0,0:19:16.06,0:19:22.23,Default,,0,0,0,,{\i1}he was trafficking an artificial Devil Fruit, Smile,\Nas an influential underground broker.{\i0}
+Dialogue: 0,0:19:22.23,0:19:23.47,Default,,0,0,0,,{\i1}However...{\i0}
+Dialogue: 0,0:19:24.39,0:19:27.61,Italics,,0,0,0,,{\i1}he lost the battle over the kingdom\Nagainst Luffy
+Dialogue: 0,0:19:27.61,0:19:30.08,Italics,,0,0,0,,and the others and his \NWarlord title was revoked.{\i0}
+Dialogue: 0,0:19:30.48,0:19:33.03,Default,,0,0,0,,{\i1}And Trafalgar Law.{\i0}
+Dialogue: 0,0:19:33.03,0:19:40.24,Default,,0,0,0,,{\i1}He allied with the Straw Hats to take down Doflamingo\Nand was stripped of his title.{\i0}
+Dialogue: 0,0:19:41.20,0:19:44.66,Default,,0,0,0,,{\i1}The four pirates who reign supreme\Nas if they're emperors.{\i0}
+Dialogue: 0,0:19:46.20,0:19:47.87,Default,,0,0,0,,{\i1}The Four Emperors.{\i0}
+Dialogue: 0,0:19:48.29,0:19:51.75,Default,,0,0,0,,{\i1}The Navy Headquarters\Nthat is trying to contain them.{\i0}
+Dialogue: 0,0:19:50.46,0:19:51.75,On Top,,0,0,0,,NAVY
+Dialogue: 0,0:19:51.75,0:19:54.33,Default,,0,0,0,,{\i1}And the Seven Warlords of the Sea.{\i0}
+Dialogue: 0,0:19:54.33,0:19:59.85,Default,,0,0,0,,{\i1}These three great powers\Nhave kept the peace in the world.{\i0}
+Dialogue: 0,0:19:55.71,0:20:00.97,On Top,,0,0,0,,FOUR EMPERORS       NAVY\NSEVEN WARLORDS OF THE SEA
+Dialogue: 0,0:19:59.85,0:20:00.97,Default,,0,0,0,,{\i1}However...{\i0}
+Dialogue: 0,0:20:01.38,0:20:04.56,Default,,0,0,0,,{\i1}there are two kings who took\Nenormous losses from the Warlords.{\i0}
+Dialogue: 0,0:20:04.56,0:20:08.06,Default,,0,0,0,,{\i1}King Nefeltari Cobra of Alabasta Kingdom,{\i0}
+Dialogue: 0,0:20:08.52,0:20:11.61,Default,,0,0,0,,{\i1}and Riku Doldo III of Dressrosa Kingdom.{\i0}
+Dialogue: 0,0:20:11.61,0:20:14.90,Default,,0,0,0,,{\i1}They stood up for\Nthe abolition of the Seven Warlord system.{\i0}
+Dialogue: 0,0:20:15.48,0:20:19.11,Default,,0,0,0,,{\i1}And after a heated debate at the Reverie,{\i0}
+Dialogue: 0,0:20:19.11,0:20:24.45,Default,,0,0,0,,{\i1}a large majority supported the proposition\Nand it was passed.{\i0}
+Dialogue: 0,0:20:24.74,0:20:30.30,Default,,0,0,0,,Therefore, the Seven Warlords of the Sea\Nnaturally forfeit all of their rights,
+Dialogue: 0,0:20:30.30,0:20:34.01,Default,,0,0,0,,and their connections with the World Government\Nare cut off.
+Dialogue: 0,0:20:34.01,0:20:35.04,Default,,0,0,0,,That means...!
+Dialogue: 0,0:20:35.04,0:20:38.50,On Top,,0,0,0,,EMPTEE BLUFFS ISLAND, NEW WORLD
+Dialogue: 0,0:20:35.88,0:20:37.22,Default,,0,0,0,,{\i1}Buggy!{\i0}
+Dialogue: 0,0:20:37.22,0:20:41.26,Default,,0,0,0,,{\i1}You're just another pirate!{\i0}
+Dialogue: 0,0:20:42.30,0:20:44.43,Default,,0,0,0,,That's not fair, you fools!
+Dialogue: 0,0:20:44.43,0:20:49.32,Default,,0,0,0,,A decision was made without telling us\Nand since we're no longer useful, you'll arrest us?!
+Dialogue: 0,0:20:49.32,0:20:51.57,Default,,0,0,0,,You have no sense of justice whatsoever!
+Dialogue: 0,0:20:51.57,0:20:56.16,Default,,0,0,0,,You being outwitted by Crocodile and Doflamingo\Nis none of my business!
+Dialogue: 0,0:20:56.16,0:20:59.08,Default,,0,0,0,,Don't take it out on me!
+Dialogue: 0,0:20:59.08,0:21:01.86,Default,,0,0,0,,We've got the whole coast surrounded!
+Dialogue: 0,0:21:02.53,0:21:04.03,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:21:05.20,0:21:09.20,Default,,0,0,0,,{\i1}My whole life plan has been screwed up!{\i0}
+Dialogue: 0,0:21:09.66,0:21:10.66,Default,,0,0,0,,Oh?
+Dialogue: 0,0:21:11.04,0:21:14.17,Default,,0,0,0,,The Navy's supposed to be on our side,\Nbut we're surrounded!
+Dialogue: 0,0:21:14.17,0:21:16.13,Default,,0,0,0,,What should we do, Mommy?!
+Dialogue: 0,0:21:16.58,0:21:18.34,Default,,0,0,0,,Mommy!
+Dialogue: 0,0:21:20.09,0:21:23.47,On Top,,0,0,0,,RUINS OF MUGGY KINGDOM, GLOOM ISLAND
+Dialogue: 0,0:21:20.09,0:21:23.47,Default,,0,0,0,,{\i1}Surrender yourself now! "Hawk-Eye" Mihawk!{\i0}
+Dialogue: 0,0:21:23.92,0:21:25.84,Default,,0,0,0,,{\i1}Surrender yourself!{\i0}
+Dialogue: 0,0:21:27.18,0:21:29.14,On Top,,0,0,0,,KUJA
+Dialogue: 0,0:21:27.68,0:21:30.56,Default,,0,0,0,,Snake Princess, we have a problem!
+Dialogue: 0,0:21:30.56,0:21:34.98,Default,,0,0,0,,Your title as a Warlord of the Sea\Nhas been stripped away!
+Dialogue: 0,0:21:35.35,0:21:36.77,Default,,0,0,0,,Granny Nyon!
+Dialogue: 0,0:21:36.77,0:21:38.75,Default,,0,0,0,,There are Navy ships off the coast!
+Dialogue: 0,0:21:38.75,0:21:39.94,Default,,0,0,0,,What?!
+Dialogue: 0,0:21:39.94,0:21:42.74,Default,,0,0,0,,They've already gone into action?!
+Dialogue: 0,0:21:44.53,0:21:46.20,Default,,0,0,0,,Don't panic!
+Dialogue: 0,0:21:48.62,0:21:49.78,Default,,0,0,0,,Snake Princess!
+Dialogue: 0,0:21:49.87,0:21:52.20,Default,,0,0,0,,I think they're...
+Dialogue: 0,0:21:54.00,0:21:55.77,Default,,0,0,0,,...forgetting something!
+Dialogue: 0,0:21:55.77,0:21:58.56,Default,,0,0,0,,This is no good, Chairman Buggy!
+Dialogue: 0,0:21:58.56,0:21:59.96,Default,,0,0,0,,Should we run?!
+Dialogue: 0,0:22:00.59,0:22:04.63,Default,,0,0,0,,Of course, we'll fight them in a flashy way!
+Dialogue: 0,0:22:09.26,0:22:11.76,Default,,0,0,0,,Show some guts!
+Dialogue: 0,0:22:11.76,0:22:14.31,Default,,0,0,0,,You fools!
+Dialogue: 0,0:22:15.73,0:22:18.35,Default,,0,0,0,,That's our Chairman Buggy!
+Dialogue: 0,0:22:18.77,0:22:23.78,On Top,,0,0,0,,BUGGY THE GENIUS JESTER, BUGGY'S DELIVERY CHAIRMAN\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:22:19.86,0:22:23.78,Default,,0,0,0,,Buggy! Buggy! Buggy! Buggy!
+Dialogue: 0,0:22:23.78,0:22:27.28,Default,,0,0,0,,Seems like they're not on our side anymore!
+Dialogue: 0,0:22:27.28,0:22:29.75,Default,,0,0,0,,It's so unforgivable...
+Dialogue: 0,0:22:29.75,0:22:33.60,Default,,0,0,0,,Weevil! I give you approval \Nto take them down!
+Dialogue: 0,0:22:33.60,0:22:35.70,Default,,0,0,0,,Really?! Then...
+Dialogue: 0,0:22:35.80,0:22:38.62,Default,,0,0,0,,I'm gonna kill them!
+Dialogue: 0,0:22:39.21,0:22:43.17,On Top,,0,0,0,,EDWARD WEEVIL, WHITEBEARD JR. (SELF-PROCRAIMED)\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:22:40.00,0:22:43.17,Default,,0,0,0,,In the name of Whitebeard!
+Dialogue: 0,0:22:43.75,0:22:45.46,Default,,0,0,0,,I feel a tremor of excitement...
+Dialogue: 0,0:22:46.13,0:22:47.84,Default,,0,0,0,,It's been a long time...
+Dialogue: 0,0:22:48.22,0:22:54.43,On Top,,0,0,0,,DRACULE MIHAWK, "HAWK-EYE"\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:22:49.89,0:22:53.39,Default,,0,0,0,,...since I was the one being chased.
+Dialogue: 0,0:22:54.43,0:22:57.98,Default,,0,0,0,,We became the Seven Warlords of the Sea...
+Dialogue: 0,0:22:58.31,0:23:03.32,On Top,,0,0,0,,BOA HANCOCK, PIRATE EMPRESS\NA FORMER WARLORD OF THE SEA
+Dialogue: 0,0:23:00.27,0:23:03.33,Default,,0,0,0,,...because we were strong!
+Dialogue: 0,0:23:03.33,0:23:06.24,Default,,0,0,0,,{\i1}I'm counting on you, you guys!{\i0}
+Dialogue: 0,0:23:06.65,0:23:08.49,Default,,0,0,0,,{\i1}While you're doing that...{\i0}
+Dialogue: 0,0:23:10.91,0:23:13.24,Default,,0,0,0,,{\i1}I'll get the hell out of here...{\i0}
+Dialogue: 0,0:23:18.41,0:23:20.20,Default,,0,0,0,,{\i1}Kaido and Big Mom!
+Dialogue: 0,0:23:20.20,0:23:23.23,Italics,,0,0,0,,Does that mean the vicious Rocks pirate\Ngroup which
+Dialogue: 0,0:23:23.23,0:23:25.30,Italics,,0,0,0,,once ruled the whole sea is back?!{\i0}
+Dialogue: 0,0:23:25.30,0:23:26.97,Italics,,0,0,0,,{\i1}The legend that Luffy's grandfather Garp
+Dialogue: 0,0:23:26.97,0:23:30.58,Italics,,0,0,0,,once allied with\Nthe King of the Pirates is now revealed!{\i0}
+Dialogue: 0,0:23:30.58,0:23:35.86,Default,,0,0,0,,{\i1}The balance of power is lost!\NNo one can resolve the confusion now!{\i0}
+Dialogue: 0,0:23:36.43,0:23:40.64,Default,,0,0,0,,On the next episode of One Piece!\N"A Legendary Battle! Garp and Roger!"
+Dialogue: 0,0:23:40.64,0:23:44.44,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.44,0:23:46.44,Default,,0,0,0,,
+Dialogue: 0,0:23:46.44,0:23:48.44,On Top,,0,0,0,,

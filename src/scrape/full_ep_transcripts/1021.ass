@@ -1,0 +1,295 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.03,0:00:17.49,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:11.03,0:00:17.49,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:17.53,0:00:22.12,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:17.53,0:00:22.12,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:27.04,0:00:33.34,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha \Nni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:27.04,0:00:33.34,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:33.38,0:00:39.43,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae \Nmo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:33.38,0:00:39.43,Default,,0000,0000,0000,,{\i1}Even the values we had built \Nup were about to fall apart{\i0}
+Dialogue: 0,0:00:40.14,0:00:46.44,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga \Ntadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:40.14,0:00:46.44,Default,,0000,0000,0000,,{\i1}Who knows if the compass is \Npointing in the right direction?{\i0}
+Dialogue: 0,0:00:46.52,0:00:50.02,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:46.52,0:00:50.02,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:50.07,0:00:56.32,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:50.07,0:00:56.32,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:56.36,0:01:03.16,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:00:56.36,0:01:03.16,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:01:03.50,0:01:09.96,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:03.50,0:01:09.96,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:09.96,0:01:14.51,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:09.96,0:01:14.51,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:15.63,0:01:18.68,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:15.63,0:01:18.68,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:18.72,0:01:22.39,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:18.72,0:01:22.39,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:22.89,0:01:26.69,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:22.89,0:01:26.69,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:26.73,0:01:32.23,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:26.73,0:01:32.23,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:32.27,0:01:39.16,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:32.27,0:01:39.16,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.58,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.58,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:45.62,0:01:51.38,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:45.62,0:01:51.38,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:51.46,0:01:54.76,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:51.46,0:01:54.76,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:54.80,0:01:58.72,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:54.80,0:01:58.72,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:58.76,0:02:04.72,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:01:58.76,0:02:04.72,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:02:11.86,0:02:16.65,Default,,0000,0000,0000,,{\i1}The battle between Luffy's group, Kaido, and Big Mom\Nis getting intense.{\i0}
+Dialogue: 0,0:02:17.49,0:02:22.70,Default,,0000,0000,0000,,God of Lightning Tenjin!
+Dialogue: 0,0:02:26.33,0:02:28.58,Default,,0000,0000,0000,,How dare you hurt Zoro and the others!
+Dialogue: 0,0:02:31.54,0:02:33.21,Default,,0000,0000,0000,,Blast Breath!
+Dialogue: 0,0:02:39.47,0:02:41.43,Default,,0000,0000,0000,,Candy Maiden!
+Dialogue: 0,0:02:47.64,0:02:48.52,Default,,0000,0000,0000,,Wanda!
+Dialogue: 0,0:02:48.64,0:02:50.27,Default,,0000,0000,0000,,Focus, Carrot!
+Dialogue: 0,0:02:56.36,0:02:59.45,Default,,0000,0000,0000,,Wanda!
+Dialogue: 0,0:02:59.82,0:03:01.41,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:03:10.12,0:03:14.79,Default,,0000,0000,0000,,Give me a chance to at least say a few words!
+Dialogue: 0,0:03:15.71,0:03:21.05,Default,,0000,0000,0000,,I bet he just wants to say something\Nlike "Screw you" before he dies!
+Dialogue: 0,0:03:21.18,0:03:25.55,Default,,0000,0000,0000,,Stop! If you make her any angrier...
+Dialogue: 0,0:03:26.47,0:03:30.27,Default,,0000,0000,0000,,{\i1}I wanted to see your smile again{\i0}...
+Dialogue: 0,0:03:35.94,0:03:41.11,Default,,0000,0000,0000,,Help me, Robin-{\i1}chan{\i0}!
+Dialogue: 0,0:03:44.87,0:03:49.79,Default,,0000,0000,0000,,{\i1}"Spank Strikes!\NSanji's Woman-trouble!"{\i0}
+Dialogue: 0,0:03:52.16,0:03:55.92,Default,,0000,0000,0000,,I'll make your body unable \Nto live without me.
+Dialogue: 0,0:03:57.04,0:04:00.76,Default,,0000,0000,0000,,I wanna love all the ladies!
+Dialogue: 0,0:04:00.88,0:04:03.38,Default,,0000,0000,0000,,I forbid you to be unfaithful like that!
+Dialogue: 0,0:04:03.43,0:04:04.68,Default,,0000,0000,0000,,I'll discipline you!
+Dialogue: 0,0:04:04.80,0:04:08.22,Default,,0000,0000,0000,,Wait! I don't wanna hurt any lady,
+Dialogue: 0,0:04:08.26,0:04:10.72,Default,,0000,0000,0000,,so my Color of Arms has been softened!
+Dialogue: 0,0:04:11.73,0:04:12.98,Default,,0000,0000,0000,,Mil Fleurs!
+Dialogue: 0,0:04:16.19,0:04:17.90,Default,,0000,0000,0000,,Gigantesco Mano!
+Dialogue: 0,0:04:18.69,0:04:19.23,Default,,0000,0000,0000,,Spank!
+Dialogue: 0,0:04:26.28,0:04:27.49,Default,,0000,0000,0000,,Black Maria-{\i1}sama{\i0}!
+Dialogue: 0,0:04:49.26,0:04:51.72,Default,,0000,0000,0000,,How did you get in here?!
+Dialogue: 0,0:04:54.69,0:04:56.31,Default,,0000,0000,0000,,I can sprout anywhere.
+Dialogue: 0,0:04:58.98,0:05:00.94,Default,,0000,0000,0000,,How dare you hit my face...
+Dialogue: 0,0:05:01.78,0:05:06.86,Default,,0000,0000,0000,,You thought you could catch me easily\Nif you just lured me?
+Dialogue: 0,0:05:07.53,0:05:09.95,Default,,0000,0000,0000,,Robin-{\i1}chan{\i0}!
+Dialogue: 0,0:05:18.79,0:05:21.80,Default,,0000,0000,0000,,I was part of an evil organization\Nfor a long time.
+Dialogue: 0,0:05:30.72,0:05:33.64,Default,,0000,0000,0000,,If you mess with my friends,\NI can't...
+Dialogue: 0,0:05:34.60,0:05:35.98,Default,,0000,0000,0000,,...stop myself...
+Dialogue: 0,0:05:36.69,0:05:38.90,Default,,0000,0000,0000,,...from showing my devilish side!
+Dialogue: 0,0:05:48.03,0:05:52.03,Default,,0000,0000,0000,,Oh, excuse me! I cut you up\Ngathering the chill of the underworld!
+Dialogue: 0,0:05:53.83,0:05:54.83,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:05:59.29,0:06:02.46,Default,,0000,0000,0000,,Ma'am, the tranquilizer gun unit\Nhas been taken down!
+Dialogue: 0,0:06:02.59,0:06:06.30,Default,,0000,0000,0000,,--The spider thread traps...\N--...are all frozen and broken, too!
+Dialogue: 0,0:06:08.34,0:06:12.97,Default,,0000,0000,0000,,It seems like the spider thread\Nand the chill of the underworld go well together!
+Dialogue: 0,0:06:18.44,0:06:20.94,Default,,0000,0000,0000,,Ghosts!
+Dialogue: 0,0:06:21.06,0:06:22.52,Default,,0000,0000,0000,,Look who's talking!
+Dialogue: 0,0:06:23.86,0:06:26.90,Default,,0000,0000,0000,,Thank you! You saved me...
+Dialogue: 0,0:06:27.03,0:06:28.95,Default,,0000,0000,0000,,No problem.
+Dialogue: 0,0:06:29.49,0:06:33.83,Default,,0000,0000,0000,,I'm sorry, but I'm gonna go help\NKin'emon and the others!
+Dialogue: 0,0:06:35.91,0:06:39.08,Default,,0000,0000,0000,,I don't know why,\Nbut I see no chance of winning here!
+Dialogue: 0,0:06:39.58,0:06:40.62,Default,,0000,0000,0000,,No wonder.
+Dialogue: 0,0:06:40.75,0:06:44.55,Default,,0000,0000,0000,,Wait, Black-Leg! You'll be my pet!
+Dialogue: 0,0:06:44.59,0:06:45.67,Default,,0000,0000,0000,,I won't let you go!
+Dialogue: 0,0:06:46.80,0:06:47.72,Default,,0000,0000,0000,,Is that it?
+Dialogue: 0,0:06:53.47,0:06:54.47,Default,,0000,0000,0000,,That's your last words?
+Dialogue: 0,0:07:01.52,0:07:06.36,Default,,0000,0000,0000,,You wanna die for that bastard\Nwho sells out his friend?
+Dialogue: 0,0:07:06.48,0:07:08.86,Default,,0000,0000,0000,,No, Black Maria...
+Dialogue: 0,0:07:09.36,0:07:12.03,Default,,0000,0000,0000,,You don't understand.
+Dialogue: 0,0:07:15.37,0:07:17.70,Default,,0000,0000,0000,,Friends are wonderful.
+Dialogue: 0,0:07:20.00,0:07:20.87,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:07:23.58,0:07:25.88,Default,,0000,0000,0000,,Thank you for relying on me!
+Dialogue: 0,0:07:26.25,0:07:27.34,Default,,0000,0000,0000,,It made me happy!
+Dialogue: 0,0:07:30.13,0:07:32.76,Default,,0000,0000,0000,,Oh, it's frozen there.
+Dialogue: 0,0:07:38.39,0:07:39.39,Default,,0000,0000,0000,,Whoa-whoa-whoa!
+Dialogue: 0,0:07:39.43,0:07:41.06,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:07:52.91,0:07:55.49,On Top,,0000,0000,0000,,PERFORMANCE FLOOR, INSIDE THE DOME
+Dialogue: 0,0:07:53.45,0:07:55.49,Default,,0000,0000,0000,,Attention!
+Dialogue: 0,0:07:55.87,0:07:58.79,Default,,0000,0000,0000,,Momonosuke is in the Forbidden Storehouse!
+Dialogue: 0,0:08:02.54,0:08:03.67,Default,,0000,0000,0000,,Someone's watching.
+Dialogue: 0,0:08:03.79,0:08:04.79,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:05.63,0:08:06.63,Default,,0000,0000,0000,,Is it you?!
+Dialogue: 0,0:08:08.30,0:08:08.88,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:08:17.64,0:08:19.89,Default,,0000,0000,0000,,Why is smoke coming out of a mouse?
+Dialogue: 0,0:08:20.02,0:08:24.48,Default,,0000,0000,0000,,They're Marys,\Nthe surveillance force of my father's army.
+Dialogue: 0,0:08:24.52,0:08:25.44,Default,,0000,0000,0000,,They're cyborgs.
+Dialogue: 0,0:08:25.77,0:08:28.36,Default,,0000,0000,0000,,--Cy...\N--...borg?
+Dialogue: 0,0:08:28.86,0:08:32.40,Default,,0000,0000,0000,,They're animals\Nwith mechanized body parts.
+Dialogue: 0,0:08:32.53,0:08:33.78,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:34.78,0:08:38.20,Default,,0000,0000,0000,,They're roaming around the island\Nwithout purpose,
+Dialogue: 0,0:08:38.24,0:08:41.54,Default,,0000,0000,0000,,but they share their vision\Nwith human Marys!
+Dialogue: 0,0:08:41.66,0:08:42.25,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:43.33,0:08:46.04,Default,,0000,0000,0000,,Momonosuke is in the Forbidden Storehouse!
+Dialogue: 0,0:08:46.88,0:08:49.71,Default,,0000,0000,0000,,So what this mouse saw...
+Dialogue: 0,0:08:51.17,0:08:55.43,Default,,0000,0000,0000,,Human Marys must've seen\Nthe exact same thing...
+Dialogue: 0,0:08:55.84,0:08:57.43,Default,,0000,0000,0000,,That means this place...
+Dialogue: 0,0:09:03.35,0:09:05.48,Default,,0000,0000,0000,,Hey, is it really this storehouse?
+Dialogue: 0,0:09:05.89,0:09:08.94,Default,,0000,0000,0000,,No one enters this cursed place now...
+Dialogue: 0,0:09:09.48,0:09:12.90,Default,,0000,0000,0000,,I see no signs of anyone entering from here.
+Dialogue: 0,0:09:13.03,0:09:14.82,Default,,0000,0000,0000,,But they said this was the place!
+Dialogue: 0,0:09:14.95,0:09:19.87,Default,,0000,0000,0000,,I'm sure Young Master Yamato's here!\NI mean, the next Shogun-{\i1}sama{\i0}!
+Dialogue: 0,0:09:19.99,0:09:22.20,Default,,0000,0000,0000,,There are a number of them.
+Dialogue: 0,0:09:22.33,0:09:24.58,Default,,0000,0000,0000,,This place isn't safe anymore!
+Dialogue: 0,0:09:25.00,0:09:26.62,Default,,0000,0000,0000,,Let's run, Yamato!
+Dialogue: 0,0:09:26.67,0:09:30.09,Default,,0000,0000,0000,,Show us the way\Nthat'll keep Momonosuke-{\i1}sama{\i0} out of their sights!
+Dialogue: 0,0:09:32.09,0:09:34.63,Default,,0000,0000,0000,,Shogun-{\i1}sama{\i0}! Come on out!
+Dialogue: 0,0:09:35.05,0:09:37.05,Default,,0000,0000,0000,,Or we'll break down the door!
+Dialogue: 0,0:09:37.59,0:09:39.09,Default,,0000,0000,0000,,One, two!
+Dialogue: 0,0:09:42.18,0:09:43.39,Default,,0000,0000,0000,,They'll break through soon!
+Dialogue: 0,0:09:43.85,0:09:45.93,Default,,0000,0000,0000,,--Sorry, Momonosuke-{\i1}kun{\i0}!\N--What?!
+Dialogue: 0,0:09:46.06,0:09:47.23,Default,,0000,0000,0000,,Hide in my clothes!
+Dialogue: 0,0:09:47.73,0:09:48.81,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:48.85,0:09:49.81,Default,,0000,0000,0000,,Whaaat?!
+Dialogue: 0,0:10:02.45,0:10:04.12,Default,,0000,0000,0000,,Let's go, Shinobu-{\i1}san{\i0}!
+Dialogue: 0,0:10:04.24,0:10:06.79,Default,,0000,0000,0000,,I told you to keep him out of their sights!
+Dialogue: 0,0:10:08.54,0:10:12.09,Default,,0000,0000,0000,,I know! If we don't take them all down,\Nthey'll see him!
+Dialogue: 0,0:10:16.01,0:10:18.05,Default,,0000,0000,0000,,That's not what I meant!
+Dialogue: 0,0:10:18.18,0:10:19.76,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:10:26.60,0:10:32.86,On Top,,0000,0000,0000,,NEAR THE ENTRANCE, ONIGASHIMA
+Dialogue: 0,0:10:41.45,0:10:42.70,Default,,0000,0000,0000,,How could you do this to Wanda?!
+Dialogue: 0,0:10:43.24,0:10:44.58,Default,,0000,0000,0000,,Whoa-whoa...
+Dialogue: 0,0:10:44.62,0:10:48.91,Default,,0000,0000,0000,,Don't forget that we're all \Nfighting for our lives.
+Dialogue: 0,0:10:48.96,0:10:49.79,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:10:50.33,0:10:53.17,Default,,0000,0000,0000,,If I don't do it, I'll get beaten.
+Dialogue: 0,0:10:53.21,0:10:54.25,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:10:54.75,0:10:55.46,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:11:01.34,0:11:05.10,Default,,0000,0000,0000,,Just like with the jaguar named Pedro\Nor whatever his name is,
+Dialogue: 0,0:11:05.14,0:11:08.31,Default,,0000,0000,0000,,you seem to like to hold grudges against people\Nfor unjust reasons.
+Dialogue: 0,0:11:08.73,0:11:10.23,Default,,0000,0000,0000,,Perospero!
+Dialogue: 0,0:11:12.98,0:11:15.19,Default,,0000,0000,0000,,I'll bring you down at any cost!
+Dialogue: 0,0:11:15.86,0:11:19.99,Default,,0000,0000,0000,,With this Electro that \NPedro trained me to use!
+Dialogue: 0,0:11:22.32,0:11:24.74,Default,,0000,0000,0000,,You'll die for nothing, too!
+Dialogue: 0,0:11:25.28,0:11:27.49,Default,,0000,0000,0000,,Just like that Jaguar!
+Dialogue: 0,0:11:36.55,0:11:38.55,Default,,0000,0000,0000,,Candy Maiden!
+Dialogue: 0,0:11:52.19,0:11:54.19,Default,,0000,0000,0000,,Candy Armor!
+Dialogue: 0,0:12:05.07,0:12:05.82,Default,,0000,0000,0000,,The candy is...
+Dialogue: 0,0:12:23.13,0:12:24.59,Default,,0000,0000,0000,,I can't believe it.
+Dialogue: 0,0:12:24.64,0:12:28.93,Default,,0000,0000,0000,,How could I get screwed by the Rabbit Mink?!
+Dialogue: 0,0:12:30.60,0:12:31.77,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:12:41.99,0:12:43.70,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:13:20.61,0:13:21.69,Default,,0000,0000,0000,,They're running!
+Dialogue: 0,0:13:22.19,0:13:25.78,Default,,0000,0000,0000,,The enemy leader Momonosuke...
+Dialogue: 0,0:13:25.82,0:13:28.16,Default,,0000,0000,0000,,...is getting away from...
+Dialogue: 0,0:13:28.62,0:13:31.29,Default,,0000,0000,0000,,...the Forbidden Storehouse!
+Dialogue: 0,0:13:42.25,0:13:45.13,Default,,0000,0000,0000,,I can't see Momonosuke!
+Dialogue: 0,0:13:45.88,0:13:47.93,Default,,0000,0000,0000,,But I have no doubt!
+Dialogue: 0,0:13:48.80,0:13:53.85,Default,,0000,0000,0000,,Momonosuke is with Young Master Yamato\Nand the {\i1}kunoichi{\i0}!
+Dialogue: 0,0:13:58.98,0:14:01.77,On Top,,0000,0000,0000,,MOMONOSUKE - LEADER\NSHOGUN OF THE LAND OF WANO
+Dialogue: 0,0:14:04.57,0:14:08.99,Default,,0000,0000,0000,,{\i1}This place is small and it's hard to breathe,\Nbut for whatever reason,{\i0}
+Dialogue: 0,0:14:09.03,0:14:12.99,Default,,0000,0000,0000,,{\i1}it feels as if I'm in heaven!{\i0}
+Dialogue: 0,0:14:21.21,0:14:22.63,Default,,0000,0000,0000,,Shinobu-{\i1}san{\i0}, this way!
+Dialogue: 0,0:14:24.25,0:14:25.76,Default,,0000,0000,0000,,They keep coming!
+Dialogue: 0,0:14:29.93,0:14:32.72,Default,,0000,0000,0000,,Lead us to an out-of-sight path already!
+Dialogue: 0,0:14:32.85,0:14:36.73,Default,,0000,0000,0000,,Don't worry!\NIf we beat them all up, we'll be out of their sights!
+Dialogue: 0,0:14:36.85,0:14:40.44,Default,,0000,0000,0000,,Again, that's not what I meant!
+Dialogue: 0,0:14:56.33,0:14:58.29,Default,,0000,0000,0000,,{\i1}I repeat!{\i0}
+Dialogue: 0,0:14:58.96,0:15:03.04,Default,,0000,0000,0000,,{\i1}Momonosuke, who escaped\Nfrom the Forbidden Storehouse,{\i0}
+Dialogue: 0,0:15:03.38,0:15:07.34,Default,,0000,0000,0000,,{\i1}is with Young Master Yamato and the {\i0}kunoichi{\i1}!{\i0}
+Dialogue: 0,0:15:07.38,0:15:08.30,Default,,0000,0000,0000,,Definitely!
+Dialogue: 0,0:15:09.22,0:15:10.88,Default,,0000,0000,0000,,That broadcast again...
+Dialogue: 0,0:15:11.34,0:15:13.35,Default,,0000,0000,0000,,They're going after Momo and Shinobu-{\i1}chan{\i0}!
+Dialogue: 0,0:15:14.97,0:15:16.18,Default,,0000,0000,0000,,Young Master Yamato?
+Dialogue: 0,0:15:17.06,0:15:17.77,Default,,0000,0000,0000,,Oh, well...
+Dialogue: 0,0:15:18.56,0:15:21.31,Default,,0000,0000,0000,,Hey, which way is the Forbidden Storehouse?!
+Dialogue: 0,0:15:21.44,0:15:23.06,Default,,0000,0000,0000,,I-I'm not gonna tell you.
+Dialogue: 0,0:15:26.57,0:15:30.90,Default,,0000,0000,0000,,It's near the entrance of the Skull Dome...
+Dialogue: 0,0:15:33.53,0:15:36.29,Default,,0000,0000,0000,,Kin'emon's group is at the \Nback of the castle tower...
+Dialogue: 0,0:15:34.33,0:15:39.54,On Top,,0000,0000,0000,,BACK OF THE CASTLE TOWER\NDOME ENTRANCE
+Dialogue: 0,0:15:36.70,0:15:39.54,Default,,0000,0000,0000,,It's in the opposite direction \Nof the Dome's entrance.
+Dialogue: 0,0:15:41.33,0:15:44.08,Default,,0000,0000,0000,,Kin'emon and the others\Nare injured from the fight...
+Dialogue: 0,0:15:44.63,0:15:47.55,Default,,0000,0000,0000,,Momo and Shinobu-{\i1}chan{\i0}\Nare being chased by the damn Gifters...
+Dialogue: 0,0:15:48.17,0:15:49.97,Default,,0000,0000,0000,,Which of them needs me?!
+Dialogue: 0,0:15:51.55,0:15:53.51,Default,,0000,0000,0000,,That way?! This way?!
+Dialogue: 0,0:15:58.31,0:15:59.68,Default,,0000,0000,0000,,Why am I still thinking?!
+Dialogue: 0,0:16:00.14,0:16:04.73,Default,,0000,0000,0000,,The ones who need me are probably this way!
+Dialogue: 0,0:16:49.98,0:16:50.86,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:16:51.40,0:16:55.24,Default,,0000,0000,0000,,Nice try, full-moon warriors!
+Dialogue: 0,0:17:03.04,0:17:06.92,Default,,0000,0000,0000,,You guys need luck in weather to win!
+Dialogue: 0,0:17:13.47,0:17:14.22,Default,,0000,0000,0000,,Pedro...
+Dialogue: 0,0:17:15.72,0:17:20.64,Default,,0000,0000,0000,,Roger said, "Everyone has their own turn"!
+Dialogue: 0,0:17:21.02,0:17:22.47,Default,,0000,0000,0000,,This is my turn!
+Dialogue: 0,0:17:35.45,0:17:36.32,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:17:37.03,0:17:39.20,Default,,0000,0000,0000,,You-{\i1}gara{\i0} guys must go forward!
+Dialogue: 0,0:17:41.04,0:17:44.87,Default,,0000,0000,0000,,I'll avenge Pedro at any cost...
+Dialogue: 0,0:17:48.38,0:17:53.59,Default,,0000,0000,0000,,Avenge Pedro?!\NThat bastard deserved to die!
+Dialogue: 0,0:17:54.67,0:18:01.14,Default,,0000,0000,0000,,Did you guys come to the Big Mom Pirates' territory\Nto have a picnic or something?!
+Dialogue: 0,0:18:02.26,0:18:06.85,Default,,0000,0000,0000,,If you don't want your friends to die,\Nwhy don't you munch on grass in a forest?!
+Dialogue: 0,0:18:13.86,0:18:16.86,Default,,0000,0000,0000,,That's what suits you. Lick!
+Dialogue: 0,0:18:19.95,0:18:25.91,Default,,0000,0000,0000,,Now... I'm not thrilled about the alliance\Nwith the Animal Kingdom Pirates,
+Dialogue: 0,0:18:25.95,0:18:29.00,Default,,0000,0000,0000,,but if that's what Mama decided,\NI have no choice...
+Dialogue: 0,0:18:29.42,0:18:30.96,Default,,0000,0000,0000,,We must teach those punks...
+Dialogue: 0,0:18:31.00,0:18:35.26,Default,,0000,0000,0000,,...that the Four Emperors of the Sea\Nare on a different level from them!
+Dialogue: 0,0:18:55.15,0:18:55.90,Default,,0000,0000,0000,,Is that...?!
+Dialogue: 0,0:19:37.15,0:19:39.49,Default,,0000,0000,0000,,He finally revealed it!
+Dialogue: 0,0:19:40.03,0:19:41.49,Default,,0000,0000,0000,,Are you scared?
+Dialogue: 0,0:19:43.70,0:19:44.37,Default,,0000,0000,0000,,Zoro...
+Dialogue: 0,0:19:46.12,0:19:48.95,Default,,0000,0000,0000,,--I need one minute.\N--Yeah, leave it to me.
+Dialogue: 0,0:19:53.25,0:19:55.59,Default,,0000,0000,0000,,How could he sleep in this situation?
+Dialogue: 0,0:19:57.21,0:19:59.01,Default,,0000,0000,0000,,He's a funny man!
+Dialogue: 0,0:19:59.51,0:20:00.76,Default,,0000,0000,0000,,Pirate Hunter!
+Dialogue: 0,0:20:01.30,0:20:03.97,Default,,0000,0000,0000,,And Surgeon of Death, don't you think so?
+Dialogue: 0,0:20:04.47,0:20:07.06,Default,,0000,0000,0000,,I just formed an alliance \Nwith him and that's it...
+Dialogue: 0,0:20:07.51,0:20:10.77,Default,,0000,0000,0000,,When are you gonna stop chatting?
+Dialogue: 0,0:20:14.02,0:20:18.28,Default,,0000,0000,0000,,You damn brats, don't disappoint me.
+Dialogue: 0,0:20:25.28,0:20:29.37,Default,,0000,0000,0000,,Let's see how strong that Man-Beast Form is!
+Dialogue: 0,0:20:29.50,0:20:30.54,Default,,0000,0000,0000,,I'll go!
+Dialogue: 0,0:20:32.29,0:20:36.34,Default,,0000,0000,0000,,Don't ruin my fun!
+Dialogue: 0,0:20:38.63,0:20:42.26,Default,,0000,0000,0000,,I told you. I'm gonna have some fun, too.
+Dialogue: 0,0:20:47.26,0:20:49.06,Default,,0000,0000,0000,,Scyther...
+Dialogue: 0,0:20:49.18,0:20:50.72,On Top,,0000,0000,0000,,SCYTHER SONIC
+Dialogue: 0,0:20:50.85,0:20:52.27,Default,,0000,0000,0000,,...Sonic!
+Dialogue: 0,0:20:58.48,0:21:00.90,Default,,0000,0000,0000,,Cutting into his flesh isn't working!
+Dialogue: 0,0:21:01.03,0:21:03.03,Default,,0000,0000,0000,,His skin must've become even harder...
+Dialogue: 0,0:21:17.25,0:21:19.00,Default,,0000,0000,0000,,Killer!
+Dialogue: 0,0:21:21.51,0:21:24.93,Default,,0000,0000,0000,,W-We Gifters are blocking this path!
+Dialogue: 0,0:21:25.05,0:21:27.22,Default,,0000,0000,0000,,You shouldn't go fight yet...
+Dialogue: 0,0:21:27.34,0:21:30.14,Default,,0000,0000,0000,,Shut up! Get out of my way!
+Dialogue: 0,0:21:31.31,0:21:35.81,Default,,0000,0000,0000,,Bao Huang!\NAre the Akazaya samurai still in the Treasure Repository?
+Dialogue: 0,0:21:43.61,0:21:44.90,Default,,0000,0000,0000,,They are!
+Dialogue: 0,0:21:46.16,0:21:49.91,Default,,0000,0000,0000,,Someone treated their wounds,
+Dialogue: 0,0:21:49.95,0:21:52.29,Default,,0000,0000,0000,,it seems!
+Dialogue: 0,0:21:53.04,0:21:55.66,Default,,0000,0000,0000,,Black Maria! Where are you now?!
+Dialogue: 0,0:21:56.21,0:21:58.38,Default,,0000,0000,0000,,I'm still in the Banquet Hall.
+Dialogue: 0,0:22:00.34,0:22:04.21,Default,,0000,0000,0000,,Alright, I'm gonna finish off the samurai!
+Dialogue: 0,0:22:09.80,0:22:12.87,Default,,0000,0000,0000,,Even if they're critically \Ninjured, they're not weak enough
+Dialogue: 0,0:22:12.87,0:22:15.60,Default,,0000,0000,0000,,to be killed by the Tobi Roppo!
+Dialogue: 0,0:22:17.19,0:22:19.65,Default,,0000,0000,0000,,You got it?! Don't do anything!
+Dialogue: 0,0:22:20.36,0:22:21.52,Default,,0000,0000,0000,,Jack...
+Dialogue: 0,0:22:22.36,0:22:24.32,Default,,0000,0000,0000,,He's underestimating us...
+Dialogue: 0,0:22:29.45,0:22:30.53,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:22:32.12,0:22:33.99,Default,,0000,0000,0000,,...this works out well for me.
+Dialogue: 0,0:22:36.08,0:22:39.42,On Top,,0000,0000,0000,,WOMAN TROUBLE
+Dialogue: 0,0:22:41.21,0:22:44.21,Default,,0000,0000,0000,,I'd appreciate it if he did it.
+Dialogue: 0,0:22:47.93,0:22:49.80,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:22:53.35,0:22:55.22,Default,,0000,0000,0000,,Hey, Nico Robin...
+Dialogue: 0,0:22:56.39,0:22:58.98,Default,,0000,0000,0000,,You will belong to...
+Dialogue: 0,0:23:00.40,0:23:01.77,Default,,0000,0000,0000,,...Kaido-{\i1}sama{\i0}.
+Dialogue: 0,0:23:03.82,0:23:06.69,Default,,0000,0000,0000,,No way. I'd rather die!
+Dialogue: 0,0:23:08.15,0:23:09.20,Default,,0000,0000,0000,,That's so cool!
+Dialogue: 0,0:23:18.54,0:23:21.29,Italics,,0000,0000,0000,,{\i1}With a firm vow to his late comrade-in-arms,{\i0}
+Dialogue: 0,0:23:21.29,0:23:24.29,Italics,,0000,0000,0000,,Boss Hyogoro the Flower \Ntakes the final stage!{\i0}
+Dialogue: 0,0:23:24.88,0:23:29.59,Italics,,0000,0000,0000,,{\i1}Keeping his old, worn-out body going,\Nhe cuts a swath through Kaido's army!{\i0}
+Dialogue: 0,0:23:29.63,0:23:32.23,Italics,,0000,0000,0000,,{\i1}The samurai who has \Nweathered times of turmoil{\i0}
+Dialogue: 0,0:23:32.23,0:23:35.55,Italics,,0000,0000,0000,,entrusts his beloved homeland to Straw Hat!{\i0}
+Dialogue: 0,0:23:36.68,0:23:38.04,Default,,0000,0000,0000,,On the next episode of One Piece!\N
+Dialogue: 0,0:23:38.04,0:23:41.81,Default,,0000,0000,0000,,"No Regrets! Luffy and Boss, \Na Master-Disciple Bond!"
+Dialogue: 0,0:23:41.81,0:23:44.93,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.82,0:23:47.82,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.82,0:23:49.82,On Top,,0000,0000,0000,,

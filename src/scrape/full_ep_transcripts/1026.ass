@@ -1,0 +1,295 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.03,0:00:17.49,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:11.03,0:00:17.49,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:17.53,0:00:22.12,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:17.53,0:00:22.12,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:27.04,0:00:33.34,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha \Nni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:27.04,0:00:33.34,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:33.38,0:00:39.43,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae \Nmo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:33.38,0:00:39.43,Default,,0000,0000,0000,,{\i1}Even the values we had built \Nup were about to fall apart{\i0}
+Dialogue: 0,0:00:40.14,0:00:46.44,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga \Ntadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:40.14,0:00:46.44,Default,,0000,0000,0000,,{\i1}Who knows if the compass is \Npointing in the right direction?{\i0}
+Dialogue: 0,0:00:46.52,0:00:50.02,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:46.52,0:00:50.02,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:50.07,0:00:56.32,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:50.07,0:00:56.32,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:56.36,0:01:03.16,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:00:56.36,0:01:03.16,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:01:03.50,0:01:09.96,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:03.50,0:01:09.96,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:09.96,0:01:14.51,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:09.96,0:01:14.51,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:15.63,0:01:18.68,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:15.63,0:01:18.68,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:18.72,0:01:22.39,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:18.72,0:01:22.39,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:22.89,0:01:26.69,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:22.89,0:01:26.69,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:26.73,0:01:32.19,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:26.73,0:01:32.19,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:32.23,0:01:39.16,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:32.23,0:01:39.16,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.58,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.58,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:45.62,0:01:51.38,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:45.62,0:01:51.38,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:51.46,0:01:54.76,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:51.46,0:01:54.76,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:54.80,0:01:58.72,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:54.80,0:01:58.72,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:58.76,0:02:04.72,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:01:58.76,0:02:04.72,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:02:12.15,0:02:16.15,Default,,0000,0000,0000,,{\i1}While fighting the fake \NOden that Kanjuro created,{\i0}
+Dialogue: 0,0:02:16.19,0:02:18.78,Default,,0000,0000,0000,,{\i1}the Akazaya members perceived his motive.{\i0}
+Dialogue: 0,0:02:18.90,0:02:24.54,Default,,0000,0000,0000,,He's going after... Momonosuke-{\i1}sama{\i0}...
+Dialogue: 0,0:02:24.66,0:02:28.71,Default,,0000,0000,0000,,It's not cool to chase a man who is dying.
+Dialogue: 0,0:02:33.71,0:02:38.72,Default,,0000,0000,0000,,{\i1}The fake Oden ignited a fuse\Nto the explosives that he hid in his clothes...{\i0}
+Dialogue: 0,0:02:38.76,0:02:41.01,Default,,0000,0000,0000,,{\i1}...to block the Akazaya members' way!{\i0}
+Dialogue: 0,0:02:43.85,0:02:46.47,Default,,0000,0000,0000,,Damn you! Get off of me!
+Dialogue: 0,0:02:49.69,0:02:54.94,Default,,0000,0000,0000,,Don't sully Kozuki Oden anymore!
+Dialogue: 0,0:03:02.20,0:03:05.95,Default,,0000,0000,0000,,Cat! Raizo! Just move on, everyone!
+Dialogue: 0,0:03:08.20,0:03:11.92,Default,,0000,0000,0000,,Are you gonna handle me all by yourself,\NKing of the Day?
+Dialogue: 0,0:03:12.46,0:03:17.13,Default,,0000,0000,0000,,I stayed behind\Nnot because I wanted to pay off an old grudge...
+Dialogue: 0,0:03:17.71,0:03:22.80,Default,,0000,0000,0000,,I didn't want anyone to get hurt\Nby letting you go free!
+Dialogue: 0,0:03:22.84,0:03:23.76,Default,,0000,0000,0000,,Jack!
+Dialogue: 0,0:03:28.85,0:03:31.73,Default,,0000,0000,0000,,We both have to prepare for the worst.
+Dialogue: 0,0:03:32.39,0:03:34.48,Default,,0000,0000,0000,,Hey, here comes a big one!
+Dialogue: 0,0:03:34.61,0:03:36.32,Default,,0000,0000,0000,,Conquest of the Sea!
+Dialogue: 0,0:03:40.57,0:03:43.86,Default,,0000,0000,0000,,Get away! You guys!
+Dialogue: 0,0:03:55.08,0:03:57.63,Default,,0000,0000,0000,,Zoro-{\i1}ya{\i0}, are you alive?
+Dialogue: 0,0:03:57.75,0:04:02.09,Default,,0000,0000,0000,,Good job blocking it even for a moment...\NThanks.
+Dialogue: 0,0:04:02.22,0:04:03.80,Default,,0000,0000,0000,,Where's Straw Hat?
+Dialogue: 0,0:04:09.26,0:04:11.39,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:04:19.19,0:04:21.40,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:04:21.86,0:04:22.65,Default,,0000,0000,0000,,...Red!
+Dialogue: 0,0:04:26.49,0:04:28.91,Default,,0000,0000,0000,,You dodged it, Kaido!
+Dialogue: 0,0:04:28.95,0:04:30.87,Default,,0000,0000,0000,,Must be because it hurts!
+Dialogue: 0,0:04:42.34,0:04:47.34,Default,,0000,0000,0000,,{\i1}"The Supernovas Strike Back!\NThe Mission to Tear Apart the Emperors!"{\i0}
+Dialogue: 0,0:04:58.40,0:05:00.52,Default,,0000,0000,0000,,Nice! Burn!
+Dialogue: 0,0:05:00.57,0:05:03.36,Default,,0000,0000,0000,,Burn more!
+Dialogue: 0,0:05:05.57,0:05:07.74,Default,,0000,0000,0000,,Damn! It's not going out at all!
+Dialogue: 0,0:05:07.87,0:05:10.53,Default,,0000,0000,0000,,Why do we keep having problems?!
+Dialogue: 0,0:05:10.66,0:05:15.87,Default,,0000,0000,0000,,Fukurokuju! You know where they store\Ntons of explosives, don't you?!
+Dialogue: 0,0:05:16.00,0:05:18.25,Default,,0000,0000,0000,,Yes, I'll show you the way.
+Dialogue: 0,0:05:18.29,0:05:23.01,Default,,0000,0000,0000,,Because I know every last \Ninch of this castle...
+Dialogue: 0,0:05:23.13,0:05:25.38,Default,,0000,0000,0000,,That's my ninja!
+Dialogue: 0,0:05:25.42,0:05:29.14,Default,,0000,0000,0000,,This is not the end of it, damn pirates!
+Dialogue: 0,0:05:29.18,0:05:31.26,Default,,0000,0000,0000,,Cry! Moan!
+Dialogue: 0,0:05:31.31,0:05:33.64,Default,,0000,0000,0000,,Run around in a panic!
+Dialogue: 0,0:05:33.68,0:05:38.81,Default,,0000,0000,0000,,I'm gonna burn the island down\Nand kill you all!
+Dialogue: 0,0:05:47.78,0:05:49.95,Default,,0000,0000,0000,,There are flames! What's happening?!
+Dialogue: 0,0:05:52.99,0:05:55.12,Default,,0000,0000,0000,,I'm the one who kills people!
+Dialogue: 0,0:05:55.12,0:05:58.08,Default,,0000,0000,0000,,I'm the ruler of the Land of Wano!
+Dialogue: 0,0:05:58.12,0:06:01.34,Default,,0000,0000,0000,,I'll kill them! I'll kill \Nthem! I'll kill them!
+Dialogue: 0,0:06:01.38,0:06:05.51,Default,,0000,0000,0000,,Go to hell, Kaido!\NScrew the New Onigashima Project!
+Dialogue: 0,0:06:05.63,0:06:06.55,Default,,0000,0000,0000,,Orochi!
+Dialogue: 0,0:06:06.97,0:06:09.30,Default,,0000,0000,0000,,So you did this!
+Dialogue: 0,0:06:09.43,0:06:13.93,Default,,0000,0000,0000,,Oh, there you are.\NThe Kozuki's half-ghost bastards!
+Dialogue: 0,0:06:16.02,0:06:17.60,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}...
+Dialogue: 0,0:06:17.64,0:06:20.73,Default,,0000,0000,0000,,They don't know that you died once.
+Dialogue: 0,0:06:21.48,0:06:22.61,Default,,0000,0000,0000,,Fukurokuju!
+Dialogue: 0,0:06:22.73,0:06:25.44,Default,,0000,0000,0000,,Please run. Let me handle them...
+Dialogue: 0,0:06:25.57,0:06:27.57,Default,,0000,0000,0000,,Back off, you fool!
+Dialogue: 0,0:06:29.07,0:06:33.12,Default,,0000,0000,0000,,You're covered in cuts and bruises...\NNo wonder!
+Dialogue: 0,0:06:33.16,0:06:36.62,Default,,0000,0000,0000,,You voluntarily came to your deaths!
+Dialogue: 0,0:06:36.66,0:06:40.17,Default,,0000,0000,0000,,You must be out of your mind!
+Dialogue: 0,0:06:40.21,0:06:42.46,Default,,0000,0000,0000,,What the hell do you want?!
+Dialogue: 0,0:06:42.50,0:06:46.13,Default,,0000,0000,0000,,For 20 years, you've endured tirelessly,
+Dialogue: 0,0:06:46.17,0:06:48.59,Default,,0000,0000,0000,,and followed me all the way here!
+Dialogue: 0,0:06:48.63,0:06:52.43,Default,,0000,0000,0000,,Is that how much you hate me? Resent me?!
+Dialogue: 0,0:06:52.47,0:06:55.68,Default,,0000,0000,0000,,Is that how bad you wanna take my head?!
+Dialogue: 0,0:06:56.97,0:07:00.94,Default,,0000,0000,0000,,Screw you guys! And Kaido!\NAnd everyone else!
+Dialogue: 0,0:07:02.27,0:07:05.48,Default,,0000,0000,0000,,If it weren't for you,\NOden-{\i1}sama{\i0} wouldn't have died.
+Dialogue: 0,0:07:08.11,0:07:12.74,Default,,0000,0000,0000,,But we don't have time to get involved\Nin your stupid nonsense anymore.
+Dialogue: 0,0:07:12.87,0:07:16.20,Default,,0000,0000,0000,,There is only one thing\Nthat we're looking ahead to...
+Dialogue: 0,0:07:16.33,0:07:18.58,Default,,0000,0000,0000,,The Land of Wano that Oden-{\i1}sama{\i0} dreamed of!
+Dialogue: 0,0:07:18.70,0:07:22.29,Default,,0000,0000,0000,,To accomplish that,\Nwe'll take down Kaido and the others!
+Dialogue: 0,0:07:22.42,0:07:26.09,Default,,0000,0000,0000,,You fools think\Nyou're defending the Land of Wano?!
+Dialogue: 0,0:07:26.21,0:07:28.46,Default,,0000,0000,0000,,Yeah, we do...
+Dialogue: 0,0:07:31.05,0:07:32.93,Default,,0000,0000,0000,,Hey, guys.
+Dialogue: 0,0:07:33.05,0:07:35.14,Default,,0000,0000,0000,,Do you like this country?
+Dialogue: 0,0:07:35.26,0:07:37.81,Default,,0000,0000,0000,,Yes, we love this country...
+Dialogue: 0,0:07:37.93,0:07:40.85,Default,,0000,0000,0000,,Are you really going to inherit my will?
+Dialogue: 0,0:07:40.98,0:07:42.35,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:07:42.48,0:07:45.11,Default,,0000,0000,0000,,--Good, good!\N--Oden-{\i1}sama{\i0}?
+Dialogue: 0,0:07:45.23,0:07:48.03,Default,,0000,0000,0000,,Don't compromise on that.
+Dialogue: 0,0:07:48.15,0:07:49.40,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:50.86,0:07:56.20,Default,,0000,0000,0000,,When you're trying to protect something,\Nit takes a lot of determination...
+Dialogue: 0,0:07:56.24,0:07:59.41,Default,,0000,0000,0000,,...to live without compromising your beliefs.
+Dialogue: 0,0:08:00.54,0:08:05.71,Default,,0000,0000,0000,,No matter how much time goes by,\Nstick to what you believe in,
+Dialogue: 0,0:08:06.29,0:08:07.46,Default,,0000,0000,0000,,and don't let it go.
+Dialogue: 0,0:08:08.38,0:08:11.63,Default,,0000,0000,0000,,That sounds like your last words\Nand it creeps me out.
+Dialogue: 0,0:08:11.76,0:08:13.30,Default,,0000,0000,0000,,Does it?
+Dialogue: 0,0:08:19.68,0:08:21.68,Default,,0000,0000,0000,,Please wait, Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:08:48.09,0:08:52.38,Default,,0000,0000,0000,,That is what Oden-{\i1}sama{\i0} told us.
+Dialogue: 0,0:08:53.97,0:08:57.93,Default,,0000,0000,0000,,Orochi! We do not have time\Nfor a fool like you. Move!
+Dialogue: 0,0:08:58.39,0:09:00.76,Default,,0000,0000,0000,,--What'll happen if I say no?\N--What?!
+Dialogue: 0,0:09:00.89,0:09:04.89,Default,,0000,0000,0000,,I can't believe you cherish\Nthe stupid words of a dead guy...
+Dialogue: 0,0:09:04.94,0:09:08.65,Default,,0000,0000,0000,,I really don't like any part of you guys!
+Dialogue: 0,0:09:09.23,0:09:11.03,Default,,0000,0000,0000,,Listen, I...
+Dialogue: 0,0:09:11.07,0:09:15.49,Default,,0000,0000,0000,,...wanna have your heads so bad!
+Dialogue: 0,0:09:19.99,0:09:23.62,Default,,0000,0000,0000,,Bring it on...\NI'm gonna fight you right here!
+Dialogue: 0,0:09:39.14,0:09:42.51,Default,,0000,0000,0000,,Do you guys know who you're messing with?!
+Dialogue: 0,0:09:42.56,0:09:44.93,Default,,0000,0000,0000,,You have to know your place!
+Dialogue: 0,0:09:44.98,0:09:48.02,Default,,0000,0000,0000,,I'm the Shogun of the Land of Wano!
+Dialogue: 0,0:09:50.27,0:09:54.65,Default,,0000,0000,0000,,What's that attitude?!\NI haven't done anything wrong!
+Dialogue: 0,0:09:56.03,0:09:59.78,Default,,0000,0000,0000,,I only took my revenge on the Kozuki Clan\Njust as they deserved!
+Dialogue: 0,0:09:59.82,0:10:02.79,Default,,0000,0000,0000,,I just took back what was\Nsupposed to be mine!
+Dialogue: 0,0:10:11.13,0:10:13.75,Default,,0000,0000,0000,,But you idiots don't understand!
+Dialogue: 0,0:10:13.80,0:10:18.30,Default,,0000,0000,0000,,Citizens and samurai are supposed to\Nbow before their Shogun and follow him!
+Dialogue: 0,0:10:18.34,0:10:20.47,Default,,0000,0000,0000,,I am a man of power!
+Dialogue: 0,0:10:22.64,0:10:24.14,Default,,0000,0000,0000,,Flower Shuriken!
+Dialogue: 0,0:10:26.52,0:10:30.81,Default,,0000,0000,0000,,This country that oppressed me is to blame!
+Dialogue: 0,0:10:37.90,0:10:39.57,Default,,0000,0000,0000,,Th-That look in your eyes!
+Dialogue: 0,0:10:44.24,0:10:47.45,Default,,0000,0000,0000,,Are you trying to tell me that I'm wrong?!
+Dialogue: 0,0:10:47.91,0:10:49.25,Default,,0000,0000,0000,,Don't look at me...
+Dialogue: 0,0:10:49.29,0:10:51.46,Default,,0000,0000,0000,,Don't look at me!
+Dialogue: 0,0:10:52.25,0:10:54.63,Default,,0000,0000,0000,,{\i1}I'm not wrong!{\i0}
+Dialogue: 0,0:10:55.96,0:10:59.55,Default,,0000,0000,0000,,Stop looking at me like that!
+Dialogue: 0,0:11:14.44,0:11:15.61,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}!
+Dialogue: 0,0:11:16.32,0:11:19.61,Default,,0000,0000,0000,,I will leave your punishment to hell!\NLet's go!
+Dialogue: 0,0:11:22.82,0:11:25.16,Default,,0000,0000,0000,,Are you gonna avenge your lord?
+Dialogue: 0,0:11:25.99,0:11:28.00,Default,,0000,0000,0000,,I raised my opinion of you, Fukurokuju!
+Dialogue: 0,0:11:28.04,0:11:31.83,Default,,0000,0000,0000,,Even though he was a moron,\Nyou stayed loyal to him till the end...
+Dialogue: 0,0:11:31.96,0:11:34.92,Default,,0000,0000,0000,,I can say the same to you guys!
+Dialogue: 0,0:11:34.96,0:11:39.38,Default,,0000,0000,0000,,Even without my goal of vengeance,\Nyou and I are destined to fight!
+Dialogue: 0,0:11:39.42,0:11:41.38,Default,,0000,0000,0000,,Do you know what I mean, Raizo?!
+Dialogue: 0,0:11:41.51,0:11:42.47,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:12:28.18,0:12:30.14,Default,,0000,0000,0000,,Are they gonna destroy the whole castle?!
+Dialogue: 0,0:12:49.95,0:12:52.83,Default,,0000,0000,0000,,It's a powerful collision... Is it Kaido?!
+Dialogue: 0,0:12:52.96,0:12:54.54,Default,,0000,0000,0000,,Maybe with Luffy-{\i1}dono{\i0}?!
+Dialogue: 0,0:12:54.67,0:12:55.58,Default,,0000,0000,0000,,Do not worry!
+Dialogue: 0,0:12:57.04,0:12:59.00,Default,,0000,0000,0000,,I am sure they will be fine!
+Dialogue: 0,0:12:59.63,0:13:00.46,Default,,0000,0000,0000,,Moreover...
+Dialogue: 0,0:13:01.80,0:13:04.01,Default,,0000,0000,0000,,...we made the promise...
+Dialogue: 0,0:13:08.64,0:13:11.31,Default,,0000,0000,0000,,We have no time to waste!
+Dialogue: 0,0:13:11.43,0:13:13.98,Default,,0000,0000,0000,,Mm-hm! Let's hurry up!
+Dialogue: 0,0:13:17.52,0:13:18.81,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0}...
+Dialogue: 0,0:13:43.59,0:13:45.38,Default,,0000,0000,0000,,It's far from enough!
+Dialogue: 0,0:13:45.97,0:13:49.68,Default,,0000,0000,0000,,Can't you make it more thrilling?!
+Dialogue: 0,0:13:49.72,0:13:52.22,Default,,0000,0000,0000,,To the point of terror!
+Dialogue: 0,0:13:53.14,0:13:54.10,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:54.14,0:13:57.31,Default,,0000,0000,0000,,Wouldn't it be great\Nif you could leave me a scar that won't fade...
+Dialogue: 0,0:13:57.35,0:13:59.61,Default,,0000,0000,0000,,...or scare me enough to give me a chill?!
+Dialogue: 0,0:14:00.02,0:14:03.23,Default,,0000,0000,0000,,Because you'll die soon!
+Dialogue: 0,0:14:03.36,0:14:04.23,Default,,0000,0000,0000,,You shithead!
+Dialogue: 0,0:14:04.36,0:14:09.82,Default,,0000,0000,0000,,I'll take away everything from you guys!\NYou didn't forget about that, did you?
+Dialogue: 0,0:14:11.87,0:14:18.00,Default,,0000,0000,0000,,I'm starting to feel like\NI need to take these guys' heads soon, too.
+Dialogue: 0,0:14:18.04,0:14:21.54,Default,,0000,0000,0000,,Let's finish them off \Nwith the next one, Kaido.
+Dialogue: 0,0:14:21.67,0:14:23.71,Default,,0000,0000,0000,,Yeah, let's kill them.
+Dialogue: 0,0:14:24.71,0:14:28.55,Default,,0000,0000,0000,,Playing around leisurely\Nain't a good way to have fun!
+Dialogue: 0,0:14:28.97,0:14:31.51,Default,,0000,0000,0000,,Life requires discipline!
+Dialogue: 0,0:14:31.64,0:14:34.14,Default,,0000,0000,0000,,Stop talking nonsense!
+Dialogue: 0,0:14:39.31,0:14:41.23,Default,,0000,0000,0000,,You can't end the battle on your own!
+Dialogue: 0,0:14:42.98,0:14:43.77,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:44.98,0:14:47.24,Default,,0000,0000,0000,,You're not gonna win!
+Dialogue: 0,0:14:47.28,0:14:49.86,Default,,0000,0000,0000,,We'll show you how determined we are!
+Dialogue: 0,0:14:50.28,0:14:51.70,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:15:13.26,0:15:14.89,Default,,0000,0000,0000,,Determination?
+Dialogue: 0,0:15:15.51,0:15:18.48,Default,,0000,0000,0000,,What's the point of such a thing?
+Dialogue: 0,0:15:25.57,0:15:27.90,Default,,0000,0000,0000,,Don't push your luck, Straw Hat!
+Dialogue: 0,0:15:30.36,0:15:33.87,Default,,0000,0000,0000,,Just like you wanted,\NI'm gonna twist your head off!
+Dialogue: 0,0:15:35.99,0:15:36.70,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:15:45.75,0:15:48.34,Default,,0000,0000,0000,,--Luffy!\N--Pay attention!
+Dialogue: 0,0:15:50.92,0:15:52.80,Default,,0000,0000,0000,,I won't let you get away!
+Dialogue: 0,0:15:59.22,0:16:00.18,Default,,0000,0000,0000,,Antibacterial Curtain!
+Dialogue: 0,0:16:07.61,0:16:09.03,Default,,0000,0000,0000,,How about this?!
+Dialogue: 0,0:16:17.70,0:16:18.91,Default,,0000,0000,0000,,Tra-guy!
+Dialogue: 0,0:16:27.63,0:16:28.88,Default,,0000,0000,0000,,Begone!
+Dialogue: 0,0:16:49.94,0:16:54.74,Default,,0000,0000,0000,,I'm sick of hearing words like\Ndetermination and resolution!
+Dialogue: 0,0:16:55.32,0:17:00.49,Default,,0000,0000,0000,,Those words are full of shit\Nand they don't have any impact on the world!
+Dialogue: 0,0:17:01.45,0:17:06.38,Default,,0000,0000,0000,,The weak will only die\Nwithout leaving anything behind!
+Dialogue: 0,0:17:07.29,0:17:09.17,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:17:10.63,0:17:13.30,Default,,0000,0000,0000,,Can you carry...
+Dialogue: 0,0:17:14.80,0:17:17.39,Default,,0000,0000,0000,,...the Land of Wano on your back?!
+Dialogue: 0,0:17:24.06,0:17:28.19,Default,,0000,0000,0000,,There's something I have to do!
+Dialogue: 0,0:17:28.31,0:17:30.40,Default,,0000,0000,0000,,Don't try to act tough, you punk!
+Dialogue: 0,0:17:30.44,0:17:35.32,Default,,0000,0000,0000,,As long as I'm here,\Nyou can't do as you please in this world of sea!
+Dialogue: 0,0:17:35.90,0:17:40.91,Default,,0000,0000,0000,,You guys are trying to protect something,\Nbut all that effort will have been in vain.
+Dialogue: 0,0:17:41.37,0:17:43.29,Default,,0000,0000,0000,,Because of me!
+Dialogue: 0,0:17:43.41,0:17:44.33,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:17:45.41,0:17:48.88,Default,,0000,0000,0000,,If you're gonna invite our captain to hell,
+Dialogue: 0,0:17:48.92,0:17:51.46,Default,,0000,0000,0000,,I'll come along as well!
+Dialogue: 0,0:17:53.01,0:17:58.51,Default,,0000,0000,0000,,Can't you stand being alone?\N"A bad bush is better than the open field"...
+Dialogue: 0,0:17:58.55,0:18:03.18,Default,,0000,0000,0000,,Were you inspired by those crazy samurai\Nand lose your mind?
+Dialogue: 0,0:18:03.22,0:18:08.27,Default,,0000,0000,0000,,If that kind of self-sacrifice\Nis what you call "being friends,"
+Dialogue: 0,0:18:08.31,0:18:11.69,Default,,0000,0000,0000,,then it's a really shitty \Nthing to take pride in!
+Dialogue: 0,0:18:11.82,0:18:13.28,Default,,0000,0000,0000,,Say what you want!
+Dialogue: 0,0:18:14.28,0:18:16.53,Default,,0000,0000,0000,,Let me tell you something.
+Dialogue: 0,0:18:16.57,0:18:23.20,Default,,0000,0000,0000,,That's not an honorable way of life\Nor a noble spirit or anything!
+Dialogue: 0,0:18:23.24,0:18:25.45,Default,,0000,0000,0000,,You'll just die for nothing!
+Dialogue: 0,0:18:25.58,0:18:28.42,Default,,0000,0000,0000,,That idiot, what is he thinking?
+Dialogue: 0,0:18:30.67,0:18:34.30,Default,,0000,0000,0000,,At least, do something worthwhile\Nto close your life with,
+Dialogue: 0,0:18:34.34,0:18:37.05,Default,,0000,0000,0000,,and let me feast my eyes on it!
+Dialogue: 0,0:19:12.67,0:19:15.50,Default,,0000,0000,0000,,There's something I have to do!
+Dialogue: 0,0:19:15.55,0:19:17.26,Default,,0000,0000,0000,,That is, Kaido...
+Dialogue: 0,0:19:17.30,0:19:20.88,Default,,0000,0000,0000,,I'm gonna kick your ass \Nand blow right past you!
+Dialogue: 0,0:19:25.76,0:19:28.35,Default,,0000,0000,0000,,Sorry... Now you have no reason to die.
+Dialogue: 0,0:19:29.89,0:19:31.31,Default,,0000,0000,0000,,I knew that all along!
+Dialogue: 0,0:19:31.44,0:19:34.40,Default,,0000,0000,0000,,Tsk! Don't do everything in your group!
+Dialogue: 0,0:19:34.52,0:19:36.73,Default,,0000,0000,0000,,How could you push forward without us?!
+Dialogue: 0,0:19:39.53,0:19:41.24,Default,,0000,0000,0000,,Anyway, I'm gonna break through!
+Dialogue: 0,0:19:52.88,0:19:53.50,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:19:54.42,0:19:56.25,Default,,0000,0000,0000,,Don't underestimate me, brat!
+Dialogue: 0,0:20:20.94,0:20:22.45,Default,,0000,0000,0000,,I won't let you do that!
+Dialogue: 0,0:20:25.74,0:20:27.58,Default,,0000,0000,0000,,Doesn't matter if you come all at once!
+Dialogue: 0,0:20:37.21,0:20:39.80,Default,,0000,0000,0000,,--Go attack!\N--You shithead!
+Dialogue: 0,0:20:41.30,0:20:41.97,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:20:48.35,0:20:49.85,Default,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:21:07.91,0:21:09.58,Default,,0000,0000,0000,,Conqueror of Three Worlds...
+Dialogue: 0,0:21:14.46,0:21:15.92,Default,,0000,0000,0000,,Ragnaraku!
+Dialogue: 0,0:21:29.51,0:21:30.35,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:21:31.27,0:21:33.35,Default,,0000,0000,0000,,Let's finish off the others, too!
+Dialogue: 0,0:21:37.60,0:21:39.15,Default,,0000,0000,0000,,--It's done!\N--Okay!
+Dialogue: 0,0:21:39.27,0:21:40.19,Default,,0000,0000,0000,,Room!
+Dialogue: 0,0:21:41.11,0:21:41.82,Default,,0000,0000,0000,,Chambres!
+Dialogue: 0,0:21:44.15,0:21:46.28,Default,,0000,0000,0000,,Where am I?! It's dark!
+Dialogue: 0,0:21:47.03,0:21:47.66,Default,,0000,0000,0000,,Zeus!
+Dialogue: 0,0:21:47.78,0:21:49.66,Default,,0000,0000,0000,,Can you do it, Roronoa?!
+Dialogue: 0,0:21:50.58,0:21:52.79,Default,,0000,0000,0000,,I have no choice!
+Dialogue: 0,0:21:57.79,0:21:59.59,Default,,0000,0000,0000,,I won't let you go back to her!
+Dialogue: 0,0:22:00.38,0:22:03.46,Default,,0000,0000,0000,,Flame-Rend, Crossing the Six Paths!
+Dialogue: 0,0:22:06.13,0:22:09.51,Default,,0000,0000,0000,,Stop! I'm just a sword!
+Dialogue: 0,0:22:09.55,0:22:12.26,Default,,0000,0000,0000,,Mama, help!
+Dialogue: 0,0:22:12.39,0:22:13.35,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:22:13.47,0:22:15.89,Default,,0000,0000,0000,,Now's our chance! Punk Pistols!
+Dialogue: 0,0:22:18.35,0:22:19.94,Default,,0000,0000,0000,,What's this?!
+Dialogue: 0,0:22:19.98,0:22:24.78,Default,,0000,0000,0000,,Did you think you could beat me\Nif you tore us apart?!
+Dialogue: 0,0:22:33.62,0:22:34.20,Default,,0000,0000,0000,,Repel!
+Dialogue: 0,0:22:37.25,0:22:37.83,Default,,0000,0000,0000,,Takt!
+Dialogue: 0,0:22:41.59,0:22:45.01,Default,,0000,0000,0000,,You fool! You can't beat me\Nby hitting me with a rock!
+Dialogue: 0,0:22:53.26,0:22:54.52,Default,,0000,0000,0000,,Oh, damn!
+Dialogue: 0,0:23:00.44,0:23:01.52,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:23:01.65,0:23:04.69,Default,,0000,0000,0000,,If she can't get help, \Nwe'll have one dropout!
+Dialogue: 0,0:23:07.44,0:23:08.78,Default,,0000,0000,0000,,How's that?!
+Dialogue: 0,0:23:18.66,0:23:20.45,Italics,,0000,0000,0000,,{\i1}Even after they drove out Big Mom,{\i0}
+Dialogue: 0,0:23:20.45,0:23:23.52,Italics,,0000,0000,0000,,the rookies keep fighting a \Nhellish battle of attrition.{\i0}
+Dialogue: 0,0:23:24.13,0:23:25.88,Italics,,0000,0000,0000,,{\i1}Kaido tries to attack the fallen Luffy,\N{\i0}
+Dialogue: 0,0:23:25.88,0:23:28.47,Italics,,0000,0000,0000,,and Zoro prepares to strike \Nwith his back against the wall.{\i0}
+Dialogue: 0,0:23:28.47,0:23:32.63,Italics,,0000,0000,0000,,{\i1}Just like Asura, Enma the famed sword\Nactivates Nine-Sword Style Secret Move!{\i0}
+Dialogue: 0,0:23:32.84,0:23:35.43,Italics,,0000,0000,0000,,{\i1}He stakes his fate on the big move!{\i0}
+Dialogue: 0,0:23:36.52,0:23:40.48,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Defend Luffy! Zoro and Law's Sword Technique!"
+Dialogue: 0,0:23:40.90,0:23:43.35,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.69,0:23:47.69,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.69,0:23:49.70,On Top,,0000,0000,0000,,

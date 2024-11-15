@@ -15,8 +15,8 @@ def find_missing_files(directory, start, end):
     return missing_files
 
 if __name__ == "__main__":
-    directory = 'manual_batch'
-    start = 937
-    end = 1100
+    directory = 'temp_folder'
+    start = 1048
+    end = 1121
     missing_files = find_missing_files(directory, start, end)
     print("Missing files:", missing_files)

@@ -1,0 +1,306 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.11,0:00:13.95,Default,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:11.11,0:00:13.95,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,Default,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,Default,,0000,0000,0000,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,Default,,0000,0000,0000,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,Default,,0000,0000,0000,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,Default,,0000,0000,0000,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,Default,,0000,0000,0000,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,Default,,0000,0000,0000,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,Default,,0000,0000,0000,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,Default,,0000,0000,0000,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,Default,,0000,0000,0000,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,Default,,0000,0000,0000,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,Default,,0000,0000,0000,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,Default,,0000,0000,0000,,{\i1}Shout it out, to save your spirit from breaking{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,Default,,0000,0000,0000,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,Default,,0000,0000,0000,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,Default,,0000,0000,0000,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,Default,,0000,0000,0000,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,Default,,0000,0000,0000,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,Default,,0000,0000,0000,,{\i1}Even when the darkness tries to tear you apart{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,Default,,0000,0000,0000,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,Default,,0000,0000,0000,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,Default,,0000,0000,0000,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,Default,,0000,0000,0000,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,Default,,0000,0000,0000,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,Default,,0000,0000,0000,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,Default,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,Default,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.05,Default,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.05,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:16.09,0:01:18.55,Default,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:16.09,0:01:18.55,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:18.59,0:01:21.51,Default,,0000,0000,0000,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:18.59,0:01:21.51,Default,,0000,0000,0000,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:21.56,0:01:24.22,Default,,0000,0000,0000,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:21.56,0:01:24.22,Default,,0000,0000,0000,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,Default,,0000,0000,0000,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,Default,,0000,0000,0000,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,Default,,0000,0000,0000,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,Default,,0000,0000,0000,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,Default,,0000,0000,0000,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,Default,,0000,0000,0000,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,Default,,0000,0000,0000,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,Default,,0000,0000,0000,,{\i1}Transcend meetings and partings and keep going{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,Default,,0000,0000,0000,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,Default,,0000,0000,0000,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,Default,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,Default,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,Default,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.64,Default,,0000,0000,0000,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.64,Default,,0000,0000,0000,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:02:13.48,0:02:15.73,Default,,0000,0000,0000,,Just give me...
+Dialogue: 0,0:02:17.57,0:02:20.57,Default,,0000,0000,0000,,...red-bean soup!
+Dialogue: 0,0:02:24.12,0:02:25.95,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:26.16,0:02:27.50,Default,,0000,0000,0000,,Olin-{\i1}san{\i0}!
+Dialogue: 0,0:02:29.83,0:02:32.08,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}!
+Dialogue: 0,0:02:46.31,0:02:51.73,Default,,0000,0000,0000,,{\i1}"A Grudge Over Red-bean Soup!\NLuffy Gets into a Desperate Situation!"{\i0}
+Dialogue: 0,0:03:03.41,0:03:06.62,Default,,0000,0000,0000,,Red-bean soup...
+Dialogue: 0,0:03:07.91,0:03:09.37,Default,,0000,0000,0000,,Sniff, sniff...
+Dialogue: 0,0:03:13.00,0:03:14.21,Default,,0000,0000,0000,,Olin-{\i1}san{\i0}...
+Dialogue: 0,0:03:15.29,0:03:19.47,Default,,0000,0000,0000,,Olin is as strong as she was\Nwhen she was Big Mom!
+Dialogue: 0,0:03:26.01,0:03:27.31,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:03:35.81,0:03:37.73,Default,,0000,0000,0000,,What a strong old lady!
+Dialogue: 0,0:03:38.11,0:03:41.15,Default,,0000,0000,0000,,She's not just an old lady...
+Dialogue: 0,0:03:41.20,0:03:42.45,Default,,0000,0000,0000,,She's...
+Dialogue: 0,0:03:47.74,0:03:49.28,Default,,0000,0000,0000,,...an Emperor of the Sea!
+Dialogue: 0,0:03:51.37,0:03:52.92,Default,,0000,0000,0000,,No... way!
+Dialogue: 0,0:04:09.43,0:04:11.77,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}!
+Dialogue: 0,0:04:21.82,0:04:25.11,Default,,0000,0000,0000,,Don't scream so pathetically...
+Dialogue: 0,0:04:27.66,0:04:30.70,Default,,0000,0000,0000,,I'm not gonna get taken down...
+Dialogue: 0,0:04:30.74,0:04:35.83,Default,,0000,0000,0000,,...by that crappy attack!
+Dialogue: 0,0:04:42.30,0:04:46.64,Default,,0000,0000,0000,,I won't give you any red-bean soup!
+Dialogue: 0,0:04:46.68,0:04:49.76,Default,,0000,0000,0000,,I'll make a cracker out of you and eat you up!
+Dialogue: 0,0:05:00.36,0:05:03.07,Default,,0000,0000,0000,,Get squashed!
+Dialogue: 0,0:05:23.30,0:05:24.38,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:05:24.42,0:05:28.09,Default,,0000,0000,0000,,...a battle between a beast and a monster!
+Dialogue: 0,0:05:52.62,0:05:56.00,Default,,0000,0000,0000,,I'll have the head of the Emperor of the Sea!
+Dialogue: 0,0:05:56.04,0:06:00.21,Default,,0000,0000,0000,,The red-bean soup is all mine!
+Dialogue: 0,0:06:06.84,0:06:13.81,Default,,0000,0000,0000,,Red... bean... soup!
+Dialogue: 0,0:06:14.77,0:06:19.23,Default,,0000,0000,0000,,Red-bean soup!!
+Dialogue: 0,0:06:34.79,0:06:35.58,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:06:36.12,0:06:41.08,Default,,0000,0000,0000,,Quit lying around, you damn lizard!
+Dialogue: 0,0:06:45.05,0:06:48.47,Default,,0000,0000,0000,,Stop, you old bag!
+Dialogue: 0,0:06:48.51,0:06:51.26,Default,,0000,0000,0000,,Don't you know who I am?!
+Dialogue: 0,0:06:58.81,0:06:59.89,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:07:05.90,0:07:13.45,Default,,0000,0000,0000,,Red... bean... soup!!
+Dialogue: 0,0:07:15.58,0:07:20.79,Default,,0000,0000,0000,,Give me red-bean soup!
+Dialogue: 0,0:07:20.83,0:07:23.17,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:07:24.21,0:07:27.09,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:07:28.01,0:07:31.63,Default,,0000,0000,0000,,Give it to me!
+Dialogue: 0,0:07:41.98,0:07:43.52,Default,,0000,0000,0000,,Get down, old man!
+Dialogue: 0,0:08:06.71,0:08:08.59,Default,,0000,0000,0000,,U-Udon is...
+Dialogue: 0,0:08:08.92,0:08:11.97,Default,,0000,0000,0000,,Udon's in danger!
+Dialogue: 0,0:08:42.37,0:08:44.67,Default,,0000,0000,0000,,Thank goodness. They're...
+Dialogue: 0,0:08:44.71,0:08:46.25,Default,,0000,0000,0000,,Hey, are you okay?!
+Dialogue: 0,0:08:48.75,0:08:50.09,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:50.13,0:08:54.51,Default,,0000,0000,0000,,We don't need your pity.\NWe're not that helpless!
+Dialogue: 0,0:09:31.92,0:09:33.30,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}!
+Dialogue: 0,0:09:33.46,0:09:36.34,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}! Stay with us!
+Dialogue: 0,0:09:37.18,0:09:38.09,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}?
+Dialogue: 0,0:09:38.72,0:09:41.81,Default,,0000,0000,0000,,He passed out...
+Dialogue: 0,0:09:42.35,0:09:46.85,Default,,0000,0000,0000,,I can't believe that a man with a 1.3-billion-berry bounty\Ngot knocked out in just two hits!
+Dialogue: 0,0:09:53.07,0:09:55.86,Default,,0000,0000,0000,,I can smell red-bean soup more strongly now!
+Dialogue: 0,0:09:56.07,0:09:59.70,Default,,0000,0000,0000,,She beat the formidable Queen so easily...
+Dialogue: 0,0:10:00.07,0:10:05.41,Default,,0000,0000,0000,,She's on another level...\NThat's how strong the Emperor of the Sea Big Mom is!
+Dialogue: 0,0:10:07.75,0:10:09.75,Default,,0000,0000,0000,,Report to Kaido-{\i1}san{\i0}!
+Dialogue: 0,0:10:09.92,0:10:11.04,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:10:14.46,0:10:16.88,Default,,0000,0000,0000,,The Never-Opening Cell's been destroyed!
+Dialogue: 0,0:10:17.05,0:10:19.64,Default,,0000,0000,0000,,We don't know what's in it!
+Dialogue: 0,0:10:19.80,0:10:22.26,Default,,0000,0000,0000,,I believe it was chained up...
+Dialogue: 0,0:10:22.30,0:10:27.14,Default,,0000,0000,0000,,Not being able to escape,\Nit must've died inside.
+Dialogue: 0,0:10:29.56,0:10:33.94,Default,,0000,0000,0000,,EXECUTIVE TOWER IN THE EXCAVATION LABOR CAMP
+Dialogue: 0,0:10:34.11,0:10:38.24,Default,,0000,0000,0000,,Roger! I'll report to Onigashima right away!
+Dialogue: 0,0:10:51.54,0:10:55.30,Default,,0000,0000,0000,,I smell red-bean soup this way!
+Dialogue: 0,0:10:55.71,0:10:59.22,Default,,0000,0000,0000,,Babanuki-{\i1}san{\i0}! Can we open fire?
+Dialogue: 0,0:10:59.38,0:11:02.47,Default,,0000,0000,0000,,No! Don't agitate her!
+Dialogue: 0,0:11:02.51,0:11:03.93,Default,,0000,0000,0000,,What's Kaido-{\i1}san{\i0}'s order?!
+Dialogue: 0,0:11:04.10,0:11:06.02,Default,,0000,0000,0000,,Chief Warden! The thing is...
+Dialogue: 0,0:11:06.06,0:11:09.27,Default,,0000,0000,0000,,...the smails aren't able to get through!
+Dialogue: 0,0:11:09.44,0:11:12.15,Default,,0000,0000,0000,,None of us can reach Onigashima!
+Dialogue: 0,0:11:13.77,0:11:15.23,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:24.03,0:11:25.58,Default,,0000,0000,0000,,Hey! What's wrong?!
+Dialogue: 0,0:11:26.87,0:11:29.29,Default,,0000,0000,0000,,Hello! This is Building B...
+Dialogue: 0,0:11:29.33,0:11:32.50,Default,,0000,0000,0000,,Huh? The Smail isn't working!
+Dialogue: 0,0:11:32.54,0:11:34.34,Default,,0000,0000,0000,,Hello?!
+Dialogue: 0,0:11:39.67,0:11:43.18,Default,,0000,0000,0000,,Because of the turmoil outside,\Nsecurity is so poor here.
+Dialogue: 0,0:11:43.22,0:11:46.01,Default,,0000,0000,0000,,Caribou is quite helpful.
+Dialogue: 0,0:11:48.52,0:11:54.98,Default,,0000,0000,0000,,The enemies are in close contact,\N"They went that way" or "They're over here."
+Dialogue: 0,0:11:55.02,0:11:59.19,Default,,0000,0000,0000,,That communication uplink is a pain!
+Dialogue: 0,0:11:59.23,0:12:03.91,Default,,0000,0000,0000,,Now, here is the important part.
+Dialogue: 0,0:12:05.99,0:12:07.03,Default,,0000,0000,0000,,Look.
+Dialogue: 0,0:12:07.08,0:12:12.41,Default,,0000,0000,0000,,The Land of Wano's Smart Snails\Nhave one disadvantage. They have weak signals!
+Dialogue: 0,0:12:07.08,0:12:12.50,Default,,0000,0000,0000,,SMART SNAIL (SMAIL FOR SHORT)
+Dialogue: 0,0:12:12.54,0:12:19.51,Default,,0000,0000,0000,,BOSS SNAIL
+Dialogue: 0,0:12:12.75,0:12:16.42,Default,,0000,0000,0000,,To compensate, every Smail's outgoing signal...
+Dialogue: 0,0:12:16.46,0:12:21.92,Default,,0000,0000,0000,,...is first sent to what's called a Boss Snail\Nthat's set up in every region,
+Dialogue: 0,0:12:21.97,0:12:27.39,Default,,0000,0000,0000,,and it relays the signal to the receiving Smails.
+Dialogue: 0,0:12:28.39,0:12:30.43,Default,,0000,0000,0000,,I understand how the system works, but...
+Dialogue: 0,0:12:30.60,0:12:33.85,Default,,0000,0000,0000,,Come on! You're so thickheaded!
+Dialogue: 0,0:12:33.89,0:12:40.15,Default,,0000,0000,0000,,If I gobble up the Boss Snail in Udon...
+Dialogue: 0,0:12:41.49,0:12:44.03,Default,,0000,0000,0000,,What do you think will happen?
+Dialogue: 0,0:12:45.11,0:12:49.33,Default,,0000,0000,0000,,All of Udon will lose signal?!
+Dialogue: 0,0:12:49.49,0:12:51.91,Default,,0000,0000,0000,,That's correct!
+Dialogue: 0,0:12:54.08,0:12:58.54,Default,,0000,0000,0000,,I haven't been captured this long for nothing...
+Dialogue: 0,0:12:59.96,0:13:04.68,Default,,0000,0000,0000,,Incidentally,\NI happen to know where the Boss Snail is.
+Dialogue: 0,0:13:05.76,0:13:06.80,Default,,0000,0000,0000,,Is that true?!
+Dialogue: 0,0:13:08.93,0:13:14.48,Default,,0000,0000,0000,,So trust me to cut their communications!
+Dialogue: 0,0:13:14.94,0:13:21.48,Default,,0000,0000,0000,,{\i1}Why don't you go steal all the keys,\NRaizo-{\i0}chan{\i1}?{\i0}
+Dialogue: 0,0:13:22.61,0:13:24.24,Default,,0000,0000,0000,,Wait for me, Kawamatsu!
+Dialogue: 0,0:13:24.65,0:13:28.53,Default,,0000,0000,0000,,I will get you out at any cost!
+Dialogue: 0,0:13:45.01,0:13:48.39,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:13:54.35,0:13:56.35,Default,,0000,0000,0000,,It's so close!
+Dialogue: 0,0:13:56.73,0:14:00.56,Default,,0000,0000,0000,,Where is the red-bean soup?!
+Dialogue: 0,0:14:02.78,0:14:05.61,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:14:07.99,0:14:09.11,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:14:14.04,0:14:16.04,Default,,0000,0000,0000,,Here it is!
+Dialogue: 0,0:14:16.08,0:14:18.37,Default,,0000,0000,0000,,This smell!
+Dialogue: 0,0:14:18.42,0:14:20.00,Default,,0000,0000,0000,,There's no mistake!
+Dialogue: 0,0:14:20.04,0:14:23.75,Default,,0000,0000,0000,,Red... bean... soup!
+Dialogue: 0,0:14:25.34,0:14:28.43,Default,,0000,0000,0000,,How sweet and rich the smell is!
+Dialogue: 0,0:14:28.47,0:14:31.80,Default,,0000,0000,0000,,And there is so much of it!
+Dialogue: 0,0:14:32.85,0:14:37.06,Default,,0000,0000,0000,,It was worth coming all the way here!
+Dialogue: 0,0:14:37.94,0:14:39.48,Default,,0000,0000,0000,,Now...
+Dialogue: 0,0:14:39.73,0:14:40.90,Default,,0000,0000,0000,,Babanuki-{\i1}sama{\i0}!
+Dialogue: 0,0:14:40.94,0:14:43.65,Default,,0000,0000,0000,,I have an urgent update!
+Dialogue: 0,0:14:43.82,0:14:45.73,Default,,0000,0000,0000,,What? I'm busy now!
+Dialogue: 0,0:14:45.90,0:14:49.03,Default,,0000,0000,0000,,That pot is actually empty!
+Dialogue: 0,0:14:50.49,0:14:52.87,Default,,0000,0000,0000,,Empty?!
+Dialogue: 0,0:14:55.04,0:15:01.17,Default,,0000,0000,0000,,What'll happen when Big Mom who is obsessed with food\Nfinds out that there is no red-bean soup?!
+Dialogue: 0,0:15:01.21,0:15:06.21,Default,,0000,0000,0000,,Who will she be mad at?!\NShe may kill us all...
+Dialogue: 0,0:15:08.92,0:15:11.72,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:15:28.40,0:15:30.74,Default,,0000,0000,0000,,Everyone, evacuate now!
+Dialogue: 0,0:15:31.32,0:15:34.03,Default,,0000,0000,0000,,Save yourselves!
+Dialogue: 0,0:15:34.07,0:15:38.20,Default,,0000,0000,0000,,I don't how bad it'll be,\Nbut this is gonna be a disaster!
+Dialogue: 0,0:15:40.62,0:15:44.08,Default,,0000,0000,0000,,Damn! Who in the world ate it?!
+Dialogue: 0,0:15:47.46,0:15:51.18,Default,,0000,0000,0000,,I see. So she really wanted to eat it.
+Dialogue: 0,0:15:51.22,0:15:56.51,Default,,0000,0000,0000,,I understand why she's sad\Nbecause I wanna eat it again, too!
+Dialogue: 0,0:15:56.56,0:15:59.81,Default,,0000,0000,0000,,The red-bean soup was so delicious!
+Dialogue: 0,0:16:06.44,0:16:07.78,Default,,0000,0000,0000,,Straw hat man!
+Dialogue: 0,0:16:12.32,0:16:12.95,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:16:13.11,0:16:14.07,Default,,0000,0000,0000,,--So...\N--So...
+Dialogue: 0,0:16:14.24,0:16:15.87,Default,,0000,0000,0000,,So you're the one...
+Dialogue: 0,0:16:16.03,0:16:19.12,Default,,0000,0000,0000,,...who ate it!
+Dialogue: 0,0:16:22.37,0:16:24.67,Default,,0000,0000,0000,,Why's everyone looking at me?
+Dialogue: 0,0:16:24.83,0:16:27.00,Default,,0000,0000,0000,,Well, you just said...
+Dialogue: 0,0:16:27.42,0:16:30.34,Default,,0000,0000,0000,,...that you ate the soup out loud...
+Dialogue: 0,0:16:30.51,0:16:31.80,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:31.84,0:16:33.51,Default,,0000,0000,0000,,Did I say that out loud?!
+Dialogue: 0,0:16:33.55,0:16:36.05,Default,,0000,0000,0000,,The red-bean soup was so delicious!
+Dialogue: 0,0:16:36.10,0:16:38.76,Default,,0000,0000,0000,,I just said it silently to myself!
+Dialogue: 0,0:16:38.93,0:16:41.73,Default,,0000,0000,0000,,You do realize you just said it again, right?!
+Dialogue: 0,0:16:41.89,0:16:43.48,Default,,0000,0000,0000,,Luffytaro-{\i1}san{\i0}...
+Dialogue: 0,0:16:45.65,0:16:47.77,Default,,0000,0000,0000,,I finally found Luffy...
+Dialogue: 0,0:16:47.82,0:16:51.78,Default,,0000,0000,0000,,But as usual, you're in the center of trouble!
+Dialogue: 0,0:17:04.71,0:17:05.79,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:17:07.17,0:17:09.71,Default,,0000,0000,0000,,Did you...
+Dialogue: 0,0:17:11.80,0:17:15.26,Default,,0000,0000,0000,,...eat all of the red-bean soup?!
+Dialogue: 0,0:17:20.81,0:17:24.81,Default,,0000,0000,0000,,You smell like red-bean soup!
+Dialogue: 0,0:17:24.98,0:17:26.23,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:17:27.44,0:17:30.69,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:17:49.46,0:17:51.63,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:17:51.67,0:17:55.05,Default,,0000,0000,0000,,I forgot that if we step out of the ring,\Nwe'll die!
+Dialogue: 0,0:17:55.22,0:17:57.22,Default,,0000,0000,0000,,I won't forgive you...
+Dialogue: 0,0:17:57.38,0:17:59.01,Default,,0000,0000,0000,,Wait a sec!
+Dialogue: 0,0:17:59.05,0:18:01.51,Default,,0000,0000,0000,,I'm begging you! Wait, Big Mom!
+Dialogue: 0,0:18:01.68,0:18:04.85,Default,,0000,0000,0000,,Again, the name Big Mom...
+Dialogue: 0,0:18:05.23,0:18:07.69,Default,,0000,0000,0000,,Who is that?!
+Dialogue: 0,0:18:09.15,0:18:13.19,Default,,0000,0000,0000,,And you who ate the soup! Who are you?!
+Dialogue: 0,0:18:14.57,0:18:15.69,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:17.03,0:18:19.66,Default,,0000,0000,0000,,You don't know who I am?!
+Dialogue: 0,0:18:19.70,0:18:24.33,Default,,0000,0000,0000,,Oh, yeah! I'm disguised as a samurai now,\Nso she doesn't recognize me!
+Dialogue: 0,0:18:25.87,0:18:29.33,Default,,0000,0000,0000,,Making Big Mom angry over food brings disaster...
+Dialogue: 0,0:18:35.26,0:18:40.39,Default,,0000,0000,0000,,If she's lost her senses\Nand slipped into a Hunger Pang attack now,
+Dialogue: 0,0:18:40.68,0:18:43.47,Default,,0000,0000,0000,,no one can stop her!
+Dialogue: 0,0:18:47.73,0:18:50.06,Default,,0000,0000,0000,,This is bad! Really bad!
+Dialogue: 0,0:18:56.57,0:18:58.61,Default,,0000,0000,0000,,It rang again!
+Dialogue: 0,0:18:59.20,0:19:00.91,Default,,0000,0000,0000,,We're in trouble...
+Dialogue: 0,0:19:01.57,0:19:04.41,Default,,0000,0000,0000,,If we get pushed once more, we'll be dead!
+Dialogue: 0,0:19:04.45,0:19:07.20,Default,,0000,0000,0000,,We can't yield even an inch!
+Dialogue: 0,0:19:10.83,0:19:14.55,Default,,0000,0000,0000,,If that pot was filled with red-bean soup,
+Dialogue: 0,0:19:14.59,0:19:19.26,Default,,0000,0000,0000,,I could have shared it with everyone from that town!
+Dialogue: 0,0:19:20.51,0:19:22.18,Default,,0000,0000,0000,,That town?
+Dialogue: 0,0:19:22.64,0:19:24.56,Default,,0000,0000,0000,,She means Okobore Town?!
+Dialogue: 0,0:19:25.14,0:19:28.89,Default,,0000,0000,0000,,This is sweet red-bean soup.\NGo ahead, Olin-{\i1}san{\i0}, try it!
+Dialogue: 0,0:19:32.86,0:19:35.90,Default,,0000,0000,0000,,Whoa! It smells good!
+Dialogue: 0,0:19:35.94,0:19:37.53,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:40.70,0:19:42.11,Default,,0000,0000,0000,,So good!
+Dialogue: 0,0:19:42.49,0:19:44.53,Default,,0000,0000,0000,,It's delicious!
+Dialogue: 0,0:19:45.12,0:19:51.96,Default,,0000,0000,0000,,Everyone in that poor town was so kind to me...
+Dialogue: 0,0:19:52.00,0:19:56.84,Default,,0000,0000,0000,,So I wanted to bring back a lot of red-bean soup to them!
+Dialogue: 0,0:19:57.00,0:19:57.92,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:58.92,0:20:02.22,Default,,0000,0000,0000,,That delicious red-bean soup...
+Dialogue: 0,0:20:02.26,0:20:07.01,Default,,0000,0000,0000,,I wanted them to have it, too!
+Dialogue: 0,0:20:07.26,0:20:09.60,Default,,0000,0000,0000,,Sh... Sh...
+Dialogue: 0,0:20:09.64,0:20:12.77,Default,,0000,0000,0000,,She's not having a Hunger Pang attack?
+Dialogue: 0,0:20:13.31,0:20:15.69,Default,,0000,0000,0000,,It's her kindness!
+Dialogue: 0,0:20:16.23,0:20:20.11,Default,,0000,0000,0000,,She's rampaging because of her kindness!
+Dialogue: 0,0:20:20.28,0:20:23.41,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:20:23.45,0:20:25.66,Default,,0000,0000,0000,,Why did you eat it?
+Dialogue: 0,0:20:25.95,0:20:28.54,Default,,0000,0000,0000,,Why did you eat it?!
+Dialogue: 0,0:20:28.58,0:20:31.08,Default,,0000,0000,0000,,You little brat!
+Dialogue: 0,0:20:31.29,0:20:33.00,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:20:40.88,0:20:41.67,Default,,0000,0000,0000,,Old man!
+Dialogue: 0,0:20:45.51,0:20:47.01,Default,,0000,0000,0000,,Come off!
+Dialogue: 0,0:20:47.05,0:20:50.52,Default,,0000,0000,0000,,Damn! I won't let him die!\NI'm not gonna die!
+Dialogue: 0,0:20:50.72,0:20:51.98,Default,,0000,0000,0000,,Come off!
+Dialogue: 0,0:20:52.31,0:20:55.02,Default,,0000,0000,0000,,Come off!!
+Dialogue: 0,0:21:00.44,0:21:02.65,Default,,0000,0000,0000,,{\i1}This is it...{\i0}
+Dialogue: 0,0:21:03.74,0:21:06.87,Default,,0000,0000,0000,,Come off!
+Dialogue: 0,0:21:10.62,0:21:14.75,Default,,0000,0000,0000,,Come off!!
+Dialogue: 0,0:21:33.60,0:21:35.35,Default,,0000,0000,0000,,What?! The collars!
+Dialogue: 0,0:21:45.65,0:21:46.99,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:49.95,0:21:51.74,Default,,0000,0000,0000,,The collars came off!
+Dialogue: 0,0:21:51.79,0:21:54.41,Default,,0000,0000,0000,,Old man! What did I do?!
+Dialogue: 0,0:21:54.46,0:21:56.58,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:21:58.08,0:22:00.75,Default,,0000,0000,0000,,--It came off!\N--{\i1}I can't believe it... That was...{\i0}
+Dialogue: 0,0:22:02.96,0:22:05.55,Default,,0000,0000,0000,,You got away again!
+Dialogue: 0,0:22:05.72,0:22:08.22,Default,,0000,0000,0000,,Alright! Let's run, old man!
+Dialogue: 0,0:22:14.56,0:22:15.98,Default,,0000,0000,0000,,Straw hat man!
+Dialogue: 0,0:22:17.69,0:22:20.94,Default,,0000,0000,0000,,Before you forget that feeling,
+Dialogue: 0,0:22:20.98,0:22:23.03,Default,,0000,0000,0000,,protect me!
+Dialogue: 0,0:22:24.36,0:22:28.36,Default,,0000,0000,0000,,A moment of crisis will reveal your true power!
+Dialogue: 0,0:22:30.20,0:22:31.16,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:22:35.37,0:22:36.87,Default,,0000,0000,0000,,Practice now?!
+Dialogue: 0,0:22:37.16,0:22:40.33,Default,,0000,0000,0000,,If I fail, you'll die!
+Dialogue: 0,0:22:41.00,0:22:42.54,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:22:43.55,0:22:44.71,Default,,0000,0000,0000,,What a fool.
+Dialogue: 0,0:22:48.13,0:22:49.80,Default,,0000,0000,0000,,Ryuo, huh?
+Dialogue: 0,0:22:56.89,0:22:57.85,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:22:58.06,0:23:03.40,Default,,0000,0000,0000,,Red-bean soup!
+Dialogue: 0,0:23:06.40,0:23:09.61,Default,,0000,0000,0000,,Bring it on! Emperor of the Sea!
+Dialogue: 0,0:23:18.41,0:23:24.00,Default,,0000,0000,0000,,{\i1}The enraged Big Mom is on a rampage!\NShe fights furiously against Luffy whose back is to the wall!{\i0}
+Dialogue: 0,0:23:24.04,0:23:31.14,Default,,0000,0000,0000,,{\i1}As the labor camp is about to be destroyed,\NLuffy's enemy Queen plans a strategy to capture Big Mom!{\i0}
+Dialogue: 0,0:23:31.18,0:23:36.35,Default,,0000,0000,0000,,{\i1}What will happen to Luffy?!\NAnd how will the deadly operation end up?!{\i0}
+Dialogue: 0,0:23:36.52,0:23:40.69,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Stop the Emperor of the Sea! Queen's Secret Plan!"
+Dialogue: 0,0:23:40.73,0:23:44.48,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.48,0:23:46.48,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.48,0:23:49.49,Default,,0000,0000,0000,,{\c&H00ffff&}>>>>oakislandtk<<<<<{\c}\N{\c&H00ffff&}www.opensubtitles.org
