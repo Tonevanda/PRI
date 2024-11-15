@@ -1,15 +1,18 @@
 {
-	"add-field-type": [
+    "add-field-type": [
         {
-            "name":"text",
-            "class":"solr.TextField",
-            "positionIncrementGap":"100",
+            "name": "text",
+            "class": "solr.TextField",
+            "positionIncrementGap": "100",
             "analyzer": {
                 "tokenizer": {
-                    "class":"solr.StandardTokenizerFactory"
+                    "class": "solr.StandardTokenizerFactory"
                 },
                 "filters": [
-                    {"class":"solr.ASCIIFoldingFilterFactory", "preserveOriginal":true},
+                    {
+                        "class": "solr.ASCIIFoldingFilterFactory",
+                        "preserveOriginal": true
+                    },
                     {
                         "class": "solr.LowerCaseFilterFactory"
                     },
@@ -34,24 +37,24 @@
             }
         },
         {
-            "name":"small_text",
-            "class":"solr.StrField",
-            "sortMissingLast":true,
+            "name": "small_text",
+            "class": "solr.StrField",
+            "sortMissingLast": true,
             "docValues": true
         },
         {
-            "name":"number",
-            "class":"solr.IntPointField",
+            "name": "number",
+            "class": "solr.IntPointField",
             "docValues": true
         },
         {
-            "name":"float_number",
-            "class":"solr.FloatPointField",
+            "name": "float_number",
+            "class": "solr.FloatPointField",
             "docValues": true
         },
         {
-            "name":"date",
-            "class":"solr.DatePointField",
+            "name": "date",
+            "class": "solr.DatePointField",
             "docValues": true
         }
     ],
@@ -69,28 +72,28 @@
             "stored": true
         },
         {
-          "name": "Arc",
-          "type": "text",
-          "indexed": true,
-          "stored": true
+            "name": "Arc",
+            "type": "text",
+            "indexed": true,
+            "stored": true
         },
         {
-          "name": "Saga",
-          "type": "text",
-          "indexed": true,
-          "stored": true
+            "name": "Saga",
+            "type": "text",
+            "indexed": true,
+            "stored": true
         },
         {
-          "name": "Opening",
-          "type": "text",
-          "indexed": true,
-          "stored": true
+            "name": "Opening",
+            "type": "text",
+            "indexed": true,
+            "stored": true
         },
         {
-          "name": "Ending",
-          "type": "text",
-          "indexed": true,
-          "stored": true
+            "name": "Ending",
+            "type": "text",
+            "indexed": true,
+            "stored": true
         },
         {
             "name": "Episode",
@@ -107,6 +110,12 @@
         {
             "name": "airdate",
             "type": "date",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "episode_script",
+            "type": "text",
             "indexed": true,
             "stored": true
         }
