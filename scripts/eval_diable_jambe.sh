@@ -1,4 +1,4 @@
-python ../src/scripts/query_solr.py --query queries/query_bounty.json --uri http://localhost:8983/solr --collection episodes | \
+python ../src/scripts/query_solr.py --query queries/diable_jambe.json --uri http://localhost:8983/solr --collection episodes | \
 python ../src/scripts/solr2trec.py > results_sys1_trec.txt
 
 cat ../qrels/bounty.txt | python ../src/scripts/qrels2trec.py > qrels_trec.txt

@@ -1,0 +1,17 @@
+{
+    "query": "straw hat pirates childhood",
+    "fields": "id, Episode, score",
+    "params": {
+        "defType": "edismax",
+        "fq": "Saga:\"east blue saga\"",
+        "rows": 30,
+        "qf": "Title^20 Arc^15 Saga^15 Summary^10 Opening Ending",
+        "mm": "3<80% 5<60% 7<50%",
+        "pf": "Summary^10",
+        "ps": 10,
+        "qs": 2,
+        "tie": 0.1,
+        "stopwords": true,
+        "lowercaseOperators": true
+    }
+}

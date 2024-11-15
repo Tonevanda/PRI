@@ -14,6 +14,10 @@ curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/schema.json" \
     http://localhost:8983/solr/episodes/schema
 
+curl -X POST -H 'Content-type:application/json' \
+    --data-binary "@./data/params.json" \
+    http://localhost:8983/solr/episodes/config/params
+
 # Check if running on Windows and use winpty if necessary
 #if [[ "$OSTYPE" == "msys" ]]; then
 #    winpty docker exec -it onepiece_solr bin/solr post -c episodes /data/data.csv
