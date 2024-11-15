@@ -1,9 +1,16 @@
 {
-    "query": "straw hats ((bounty~3)^6 raised^2)^2",
+    "query": "straw hats bounty raised",
     "fields": "id, Episode, score",
     "params": {
         "defType": "edismax",
         "rows": 30,
-        "df": "Full_Text"
+        "qf": "Title^10 Arc Saga Summary^20 Opening Ending",
+        "mm": "3<80% 5<60% 7<50%",
+        "pf": "Summary^10",
+        "ps": 4,
+        "qs": 2,
+        "tie": 0.1,
+        "stopwords": true,
+        "lowercaseOperators": true
     }
 }
