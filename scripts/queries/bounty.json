@@ -1,5 +1,5 @@
 {
-    "query": "straw hats bounty raised or new straw hats bounty or straw hats new bounty or straw hats bounty updated or updated straw hats bounty",
+    "query": "straw hat pirates bounty raised",
     "fields": "id, Episode, score",
     "params": {
         "q.op": "AND",
@@ -8,8 +8,8 @@
         "qf": "Title^10 Summary^20",
         "mm": "3<75% 5<60% 7<50%",
         "pf": "Summary^10",
-        "ps": 2,
-        "qs": 2,
+        "ps": 15,
+        "qs": 15,
         "tie": 0.1,
         "stopwords": true,
         "lowercaseOperators": true
