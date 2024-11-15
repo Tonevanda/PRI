@@ -16,7 +16,7 @@ def find_missing_files(directory, start, end):
 
 if __name__ == "__main__":
     directory = 'temp_folder'
-    start = 1048
+    start = 1053
     end = 1121
     missing_files = find_missing_files(directory, start, end)
     print("Missing files:", missing_files)
