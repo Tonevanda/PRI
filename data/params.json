@@ -1,8 +1,18 @@
 {
     "set": {
-        "algo_a":{
-        "defType":"dismax",
-        "qf":"name"
+        "params":{
+            "q.op": "AND",
+            "defType": "edismax",
+            "fq": "Saga:\"east blue saga\"",
+            "rows": 30,
+            "qf": "Title^20 Arc^15 Saga^15 Summary^10 episode_script^10",
+            "mm": "3<80% 5<60% 7<50%",
+            "pf": "Summary^10 episode_script^20",
+            "ps": 20,
+            "qs": 10,
+            "tie": 0.1,
+            "stopwords": true,
+            "lowercaseOperators": true
         }
     }
 }
