@@ -76,4 +76,4 @@ if __name__ == "__main__":
 
     # Write the updated DataFrame to a new CSV file
     updated_csv_file = "updated_data.csv"
-    df.to_csv(updated_csv_file, index=False)
+    df.to_csv(csv_file, index=False)
