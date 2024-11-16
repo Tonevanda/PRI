@@ -21,6 +21,25 @@ def date_converter(date):
     }
     date = date.split(" ")
     return f"{date[2]}-{months[date[0]]}-{date[1][:-1]}"
+
+
+def scrape_anime_notes(anime_note):
+    anime_note_text = []
+
+    for anime_note_child in anime_note.findAll("li", recursive=False):
+        text = anime_note_child.find(text=True,recursive=False)
+        if "manga" not in text:
+            anime_note_text.append(text)
+            ul_tag = anime_note_child.find('ul', recursive=False)
+            if ul_tag:
+                anime_note_text.extend(scrape_anime_notes(ul_tag)) 
+
+
+    return anime_note_text
+
+
+
+
     
 # Function to scrape the episode's information
 def scrape_episode(url):
@@ -44,6 +63,14 @@ def scrape_episode(url):
 
     content_dict["Summary"] = "\n".join(summary_text)
 
+    anime_notes = soup.find(lambda tag: tag.name =="h2" and tag.text == "Anime Notes[]")
+    if(anime_notes):
+        #anime_notes_text = scrape_anime_notes(anime_notes.find_next("ul"))
+        anime_notes_text = anime_notes.find_next("ul").text
+        content_dict['Anime Notes'] = anime_notes_text
+    else:
+        content_dict['Anime Notes'] = ""
+
     air_date = soup.find(lambda tag: tag.name == "h3" and tag.text == "Airdate").find_next_sibling()
     content_dict["Airdate"] = air_date.text
 
@@ -58,7 +85,8 @@ def scrape_episode(url):
     if len(season_piece) == 0 or 'pi-collapse' in season_piece['class']:
         content_dict["Season"] = "N/A"
     else:
-        content_dict["Season"] = (season_piece.find_all("td"))[0].text
+        season_num = int((season_piece.find_all("td"))[0].text)
+        content_dict["Season"] = str(season_num)
     return content_dict
 
 # Function to save the sagas and their urls in a dictionary
@@ -89,7 +117,8 @@ def scrape_sagas(saga_dict):
         "Air Date": [],
         "Opening": [],
         "Ending": [],
-        "Summary": []
+        "Summary": [],
+        "Anime Notes": []
     }
 
     for saga, url in saga_dict.items():
