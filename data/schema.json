@@ -85,13 +85,13 @@
         },
         {
             "name": "Opening",
-            "type": "text",
+            "type": "small_text",
             "indexed": true,
             "stored": true
         },
         {
             "name": "Ending",
-            "type": "text",
+            "type": "small_text",
             "indexed": true,
             "stored": true
         },
