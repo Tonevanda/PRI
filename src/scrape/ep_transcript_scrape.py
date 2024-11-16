@@ -25,6 +25,8 @@ def scrape_subtitle_files():
                         #406 is filler
                         cleaned_dialogues.append(re.sub(r"{.*?}", "", dialogue).replace("\\N", " "))  # Remove formatting tags and "\N"
                 cleaned_dialogues = [re.sub(r"\.\.\.", " ", dialogue) for dialogue in cleaned_dialogues]
+                if i == 547:
+                    print(cleaned_dialogues)
                 subtitles_list.append(" ".join(cleaned_dialogues))  # Join dialogues into a single string
         elif os.path.exists(srt_path):
             print(".srt instead of ass")
