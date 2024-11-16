@@ -1,0 +1,316 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:14.68,0:00:18.31,On Top,,0000,0000,0000,,{\i1}yowasa wo mikata ni tsuketa boku wa{\i0}
+Dialogue: 0,0:00:14.68,0:00:18.31,Default,,0000,0000,0000,,{\i1}With weakness as my ally{\i0}
+Dialogue: 0,0:00:18.35,0:00:21.93,On Top,,0000,0000,0000,,{\i1}dare yori mo takaku toberu no dakara{\i0}
+Dialogue: 0,0:00:18.35,0:00:21.93,Default,,0000,0000,0000,,{\i1}I soar higher than anybody else{\i0}
+Dialogue: 0,0:00:21.98,0:00:24.65,On Top,,0000,0000,0000,,{\i1}konna tokoro de tomatte tara{\i0}
+Dialogue: 0,0:00:21.98,0:00:24.65,Default,,0000,0000,0000,,{\i1}It's a pity to linger in a place like this{\i0}
+Dialogue: 0,0:00:24.69,0:00:28.77,On Top,,0000,0000,0000,,{\i1}nakushita mono ga kagayakanaku naru{\i0}
+Dialogue: 0,0:00:24.69,0:00:28.77,Default,,0000,0000,0000,,{\i1}For the things that's been lost will lose their spark{\i0}
+Dialogue: 0,0:00:29.23,0:00:32.86,On Top,,0000,0000,0000,,{\i1}kimi ga dokoka mayotta tokini{\i0}
+Dialogue: 0,0:00:29.23,0:00:32.86,Default,,0000,0000,0000,,{\i1}At times when you're lost somewhere{\i0}
+Dialogue: 0,0:00:32.90,0:00:36.49,On Top,,0000,0000,0000,,{\i1}boku no kokoro mo samayotte itara{\i0}
+Dialogue: 0,0:00:32.90,0:00:36.49,Default,,0000,0000,0000,,{\i1}If my heart is also adrift{\i0}
+Dialogue: 0,0:00:36.53,0:00:39.20,On Top,,0000,0000,0000,,{\i1}mitsukete agerarenainda{\i0}
+Dialogue: 0,0:00:36.53,0:00:39.20,Default,,0000,0000,0000,,{\i1}I won't be able to find you{\i0}
+Dialogue: 0,0:00:39.24,0:00:43.25,On Top,,0000,0000,0000,,{\i1}yasashisa dake janaku sono tsuyosa mo{\i0}
+Dialogue: 0,0:00:39.24,0:00:43.25,Default,,0000,0000,0000,,{\i1}Your kindness, nor your strength{\i0}
+Dialogue: 0,0:00:43.29,0:00:49.04,On Top,,0000,0000,0000,,{\i1}wakatterunda{\i0}
+Dialogue: 0,0:00:43.29,0:00:49.04,Default,,0000,0000,0000,,{\i1}I already know{\i0}
+Dialogue: 0,0:00:49.09,0:00:50.96,On Top,,0000,0000,0000,,{\i1}yoake no toki sa{\i0}
+Dialogue: 0,0:00:49.09,0:00:50.96,Default,,0000,0000,0000,,{\i1}It's the break of dawn{\i0}
+Dialogue: 0,0:00:51.00,0:00:54.26,On Top,,0000,0000,0000,,{\i1}saikou toutatsu ten ni made{\i0}
+Dialogue: 0,0:00:51.00,0:00:54.26,Default,,0000,0000,0000,,{\i1}To the highest point of reach{\i0}
+Dialogue: 0,0:00:54.30,0:00:58.30,On Top,,0000,0000,0000,,{\i1}ikki ni kakenukete iku kara, yeah{\i0}
+Dialogue: 0,0:00:54.30,0:00:58.30,Default,,0000,0000,0000,,{\i1}I'll dash through all the way, yeah{\i0}
+Dialogue: 0,0:00:58.35,0:01:01.06,On Top,,0000,0000,0000,,{\i1}mahi shite waratterundarou{\i0}
+Dialogue: 0,0:00:58.35,0:01:01.06,Default,,0000,0000,0000,,{\i1}I bet you're laughing, numbed by it all{\i0}
+Dialogue: 0,0:01:01.10,0:01:05.56,On Top,,0000,0000,0000,,{\i1}ano hibino itami mo kako dakara tabun{\i0}
+Dialogue: 0,0:01:01.10,0:01:05.56,Default,,0000,0000,0000,,{\i1}For the pain of those days is now in the past, perhaps{\i0}
+Dialogue: 0,0:01:05.60,0:01:08.31,On Top,,0000,0000,0000,,{\i1}sekai wo teki ni shinagara{\i0}
+Dialogue: 0,0:01:05.60,0:01:08.31,Default,,0000,0000,0000,,{\i1}With the world as my enemy{\i0}
+Dialogue: 0,0:01:08.36,0:01:12.78,On Top,,0000,0000,0000,,{\i1}kuzuresouna ashi de fumitodomaru{\i0}
+Dialogue: 0,0:01:08.36,0:01:12.78,Default,,0000,0000,0000,,{\i1}I stand my ground on quivering legs{\i0}
+Dialogue: 0,0:01:12.82,0:01:15.57,On Top,,0000,0000,0000,,{\i1}ato sukoshi dake ugoite kure{\i0}
+Dialogue: 0,0:01:12.82,0:01:15.57,Default,,0000,0000,0000,,{\i1}Keep moving, just a bit more for me{\i0}
+Dialogue: 0,0:01:15.61,0:01:20.12,On Top,,0000,0000,0000,,{\i1}saa fukkatsu da mezame no toki ga kita ima{\i0}
+Dialogue: 0,0:01:15.61,0:01:20.12,Default,,0000,0000,0000,,{\i1}The awakening moment\NThe time of resurrection has come, now{\i0}
+Dialogue: 0,0:01:30.00,0:01:35.09,On Top,,0000,0000,0000,,{\i1}saa fukkatsu da mezame no toki ga kita ima{\i0}
+Dialogue: 0,0:01:30.00,0:01:35.09,Default,,0000,0000,0000,,{\i1}The awakening moment\NThe time of resurrection has come, now{\i0}
+Dialogue: 0,0:01:50.73,0:01:55.32,On Top,,0000,0000,0000,,OFF THE COAST OF THE LAND OF WANO
+Dialogue: 0,0:02:15.30,0:02:17.42,Default,,0000,0000,0000,,It's been a while...
+Dialogue: 0,0:02:20.76,0:02:24.60,Default,,0000,0000,0000,,This is the first time since\Nwe said goodbye to Oden-{\i1}san{\i0} here...
+Dialogue: 0,0:02:28.44,0:02:31.90,Default,,0000,0000,0000,,Momo and Hiyori must have grown up...
+Dialogue: 0,0:02:41.70,0:02:43.53,Default,,0000,0000,0000,,An odd visitor...
+Dialogue: 0,0:02:43.66,0:02:45.41,On Top,,0000,0000,0000,,JUSTICE
+Dialogue: 0,0:02:45.87,0:02:48.12,Default,,0000,0000,0000,,...is sneaking onto the island...
+Dialogue: 0,0:03:00.13,0:03:00.93,Default,,0000,0000,0000,,Jaggy!
+Dialogue: 0,0:03:01.05,0:03:03.64,Default,,0000,0000,0000,,Let's set them off!
+Dialogue: 0,0:03:04.60,0:03:07.47,Default,,0000,0000,0000,,All right! To tomorrow's food...
+Dialogue: 0,0:03:10.35,0:03:12.02,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:03:14.65,0:03:16.32,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:03:16.36,0:03:18.86,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:03:23.49,0:03:25.24,Default,,0000,0000,0000,,Let's get loud!
+Dialogue: 0,0:03:25.37,0:03:26.54,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:33.63,0:03:35.88,Default,,0000,0000,0000,,This makes me wanna drink more and more.
+Dialogue: 0,0:03:36.00,0:03:37.80,Default,,0000,0000,0000,,It's a banquet!
+Dialogue: 0,0:03:37.84,0:03:42.34,Default,,0000,0000,0000,,Listen, guys!\NWe're gonna drink all night tonight!
+Dialogue: 0,0:03:56.65,0:04:02.45,Default,,0000,0000,0000,,{\i1}"The World Will Burn!\NThe Onslaught of a Navy Admiral!"{\i0}
+Dialogue: 0,0:04:24.43,0:04:28.10,Default,,0000,0000,0000,,Raizo, I'm sure Oden-{\i1}sama{\i0}\Nwould be happy about this, too!
+Dialogue: 0,0:04:32.10,0:04:35.23,Default,,0000,0000,0000,,Come on! Drink!\NWe should enjoy the festival!
+Dialogue: 0,0:04:35.35,0:04:37.81,Default,,0000,0000,0000,,O-Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:04:40.53,0:04:43.24,Default,,0000,0000,0000,,Here, eat as much as you want.
+Dialogue: 0,0:04:43.78,0:04:44.91,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:04:44.95,0:04:47.28,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:04:56.46,0:04:58.46,Default,,0000,0000,0000,,Gee, you-{\i1}gara{\i0}...
+Dialogue: 0,0:04:58.59,0:05:02.17,Default,,0000,0000,0000,,I haven't had food this good in a while!
+Dialogue: 0,0:05:03.80,0:05:05.13,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:30.20,0:05:31.08,Default,,0000,0000,0000,,Kunoichi-{\i1}san{\i0}?
+Dialogue: 0,0:05:50.76,0:05:52.06,Default,,0000,0000,0000,,I'm getting a bad vibe.
+Dialogue: 0,0:05:52.18,0:05:53.52,Default,,0000,0000,0000,,It is from outside.
+Dialogue: 0,0:05:53.64,0:05:55.39,Default,,0000,0000,0000,,Shinobu!
+Dialogue: 0,0:05:56.06,0:05:57.19,Default,,0000,0000,0000,,You felt it too?
+Dialogue: 0,0:05:57.31,0:05:59.69,Default,,0000,0000,0000,,Something is approaching.
+Dialogue: 0,0:05:59.81,0:06:01.44,Default,,0000,0000,0000,,Listen, you all.
+Dialogue: 0,0:06:02.19,0:06:06.03,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0} and the others\Nare recovering from their battle wounds.
+Dialogue: 0,0:06:06.49,0:06:08.57,Default,,0000,0000,0000,,Do not let them know about this!
+Dialogue: 0,0:06:13.91,0:06:16.04,Default,,0000,0000,0000,,So you-{\i1}gara{\i0} noticed, too.
+Dialogue: 0,0:06:16.66,0:06:18.83,Default,,0000,0000,0000,,We should not let\Nthe sound of the festival stop!
+Dialogue: 0,0:06:18.96,0:06:20.08,Default,,0000,0000,0000,,Understood!
+Dialogue: 0,0:06:20.63,0:06:23.80,Default,,0000,0000,0000,,It's our mission\Nto protect the Land of Wano!
+Dialogue: 0,0:06:23.92,0:06:24.80,Default,,0000,0000,0000,,Mm-hm!
+Dialogue: 0,0:06:25.34,0:06:26.26,Default,,0000,0000,0000,,Let us go!
+Dialogue: 0,0:06:38.31,0:06:40.60,Default,,0000,0000,0000,,Influence is something...
+Dialogue: 0,0:06:42.15,0:06:43.69,Default,,0000,0000,0000,,...that eludes you...
+Dialogue: 0,0:06:46.23,0:06:48.57,Default,,0000,0000,0000,,...no matter how much you want it.
+Dialogue: 0,0:07:06.76,0:07:11.01,Default,,0000,0000,0000,,Hey. I only have business with\NStraw Hat Luffy.
+Dialogue: 0,0:07:14.26,0:07:16.89,Default,,0000,0000,0000,,Don't get in my way, samurai.
+Dialogue: 0,0:07:17.43,0:07:20.73,Default,,0000,0000,0000,,H-He is... a Navy soldier!
+Dialogue: 0,0:07:20.85,0:07:23.61,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0} and the others' enemy abroad!
+Dialogue: 0,0:07:25.19,0:07:28.40,Default,,0000,0000,0000,,You know about the outside world.
+Dialogue: 0,0:07:29.99,0:07:32.78,Default,,0000,0000,0000,,Then how about this?
+Dialogue: 0,0:07:35.58,0:07:37.37,Default,,0000,0000,0000,,Flower Shuriken!
+Dialogue: 0,0:07:46.84,0:07:47.92,Default,,0000,0000,0000,,Shinobu!
+Dialogue: 0,0:07:48.05,0:07:49.67,Default,,0000,0000,0000,,--Raizo!\N--Yeah!
+Dialogue: 0,0:07:52.80,0:07:54.39,Default,,0000,0000,0000,,Kappa Style!
+Dialogue: 0,0:08:00.10,0:08:02.19,Default,,0000,0000,0000,,River of Retribution!
+Dialogue: 0,0:08:05.90,0:08:07.02,Default,,0000,0000,0000,,Gee...
+Dialogue: 0,0:08:15.99,0:08:16.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:16.70,0:08:18.95,Default,,0000,0000,0000,,You're so persistent!
+Dialogue: 0,0:08:18.99,0:08:20.08,Default,,0000,0000,0000,,Samurai!
+Dialogue: 0,0:08:25.96,0:08:27.00,Default,,0000,0000,0000,,Raizo-{\i1}sama{\i0}!
+Dialogue: 0,0:08:29.96,0:08:32.84,Default,,0000,0000,0000,,The Celestial Dragons\Nare the gods of the world!
+Dialogue: 0,0:08:32.88,0:08:36.97,Default,,0000,0000,0000,,Since this country isn't a member of\Nthe World Government,
+Dialogue: 0,0:08:37.01,0:08:40.64,Default,,0000,0000,0000,,you have no rights!
+Dialogue: 0,0:08:42.39,0:08:43.18,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:08:43.31,0:08:45.60,Default,,0000,0000,0000,,Raizo! Let us stop him here!
+Dialogue: 0,0:08:47.15,0:08:50.23,Default,,0000,0000,0000,,Groves of Wrath!
+Dialogue: 0,0:09:13.21,0:09:17.14,Default,,0000,0000,0000,,I use the Woods-Woods Fruit power,\NI'm a Woodsman!
+Dialogue: 0,0:09:22.22,0:09:25.44,Default,,0000,0000,0000,,Along with the sea,\Nthe woods birth life as well!
+Dialogue: 0,0:09:26.27,0:09:28.56,Default,,0000,0000,0000,,It's the very essence of Logia!
+Dialogue: 0,0:09:29.11,0:09:33.23,Default,,0000,0000,0000,,If you get in my way,\NI can just kill you all.
+Dialogue: 0,0:09:34.11,0:09:39.12,Default,,0000,0000,0000,,Because no matter how many people I kill\Nin this country, the law can't touch me!
+Dialogue: 0,0:09:41.20,0:09:45.16,Default,,0000,0000,0000,,Don't look down on us!\NHow could you think so little of our people?!
+Dialogue: 0,0:09:45.29,0:09:48.17,Default,,0000,0000,0000,,Of course I look down on you!
+Dialogue: 0,0:09:48.21,0:09:52.92,Default,,0000,0000,0000,,I'll tell you something. Mankind has always\Nkept some of their own down!
+Dialogue: 0,0:09:53.42,0:09:59.18,Default,,0000,0000,0000,,Because the sacrifice of the few\Nis essential for the peace of the many!
+Dialogue: 0,0:10:00.85,0:10:05.52,Default,,0000,0000,0000,,Non-member countries like yours\Nare a sacrifice for the world!
+Dialogue: 0,0:10:05.56,0:10:10.19,Default,,0000,0000,0000,,By looking down on you guys,\Nthe rest of us can live our lives!
+Dialogue: 0,0:10:10.23,0:10:12.90,Default,,0000,0000,0000,,Discrimination is a comfort!
+Dialogue: 0,0:10:16.99,0:10:19.78,Default,,0000,0000,0000,,Don't hate me!\NThat's how the world works!
+Dialogue: 0,0:10:28.12,0:10:29.29,Default,,0000,0000,0000,,Stop me!
+Dialogue: 0,0:10:36.46,0:10:39.63,Default,,0000,0000,0000,,Even if it means\Nkilling thousands of people,
+Dialogue: 0,0:10:39.68,0:10:43.30,Default,,0000,0000,0000,,I'll reach Straw Hat Luffy!
+Dialogue: 0,0:10:43.72,0:10:46.14,Default,,0000,0000,0000,,Everything you said is...
+Dialogue: 0,0:10:46.18,0:10:48.52,Default,,0000,0000,0000,,...inexcusable!
+Dialogue: 0,0:11:08.04,0:11:11.00,Default,,0000,0000,0000,,Boss! Let's go see Luffy!
+Dialogue: 0,0:11:11.04,0:11:13.92,Default,,0000,0000,0000,,He's already become a great pirate!
+Dialogue: 0,0:11:13.96,0:11:16.84,Default,,0000,0000,0000,,He's unbelievable!
+Dialogue: 0,0:11:16.88,0:11:18.97,Default,,0000,0000,0000,,Really unbelievable!
+Dialogue: 0,0:11:42.49,0:11:45.24,Default,,0000,0000,0000,,We'll reach\Nthe territory of the Land of Wano soon!
+Dialogue: 0,0:11:45.37,0:11:46.78,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:11:47.99,0:11:49.62,Default,,0000,0000,0000,,We can't land there!
+Dialogue: 0,0:11:50.46,0:11:52.00,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:11:52.54,0:11:55.54,Default,,0000,0000,0000,,...not ready to see Usopp...
+Dialogue: 0,0:11:55.67,0:11:59.13,Default,,0000,0000,0000,,Yeah. I bet that brat Kid\Nmust still be there, too!
+Dialogue: 0,0:11:59.17,0:12:02.30,Default,,0000,0000,0000,,He came to pick a fight with us\Nthe other day!
+Dialogue: 0,0:12:02.43,0:12:04.26,Default,,0000,0000,0000,,Calm down!
+Dialogue: 0,0:12:04.30,0:12:07.81,Default,,0000,0000,0000,,Boss will decide what to do.
+Dialogue: 0,0:12:14.06,0:12:15.23,Default,,0000,0000,0000,,{\i1}This is...{\i0}
+Dialogue: 0,0:12:41.71,0:12:44.84,Default,,0000,0000,0000,,--We're having a storm already...\N--What bad luck.
+Dialogue: 0,0:12:53.73,0:12:56.81,Default,,0000,0000,0000,,--What's the matter?!\N--There's a suspicious ship behind ours!
+Dialogue: 0,0:12:58.06,0:13:00.27,Default,,0000,0000,0000,,--That's...\N--Red-Haired's ship!
+Dialogue: 0,0:13:02.32,0:13:05.78,Default,,0000,0000,0000,,CP9 agents are onboard! What a pain.
+Dialogue: 0,0:13:08.62,0:13:10.87,Default,,0000,0000,0000,,Who cares?! Let's go!
+Dialogue: 0,0:13:14.54,0:13:17.21,Default,,0000,0000,0000,,Shoot! Keep Red-Haired away!
+Dialogue: 0,0:13:25.43,0:13:27.72,Default,,0000,0000,0000,,Damn! What are they doing?!
+Dialogue: 0,0:13:28.22,0:13:29.14,Default,,0000,0000,0000,,What do they want?!
+Dialogue: 0,0:13:29.85,0:13:31.89,Default,,0000,0000,0000,,There's no treasure on this ship!
+Dialogue: 0,0:13:32.43,0:13:34.60,Default,,0000,0000,0000,,There's only a Devil Fruit...
+Dialogue: 0,0:13:34.64,0:13:37.73,Default,,0000,0000,0000,,What's so important?!\NIt's just a fruit that turns you into rubber!
+Dialogue: 0,0:13:54.75,0:13:58.46,Default,,0000,0000,0000,,I'm really serious!\NI'm gonna prove it to you!
+Dialogue: 0,0:14:01.50,0:14:03.25,Default,,0000,0000,0000,,Yeah, do it!
+Dialogue: 0,0:14:07.59,0:14:10.30,Default,,0000,0000,0000,,Ouch!!
+Dialogue: 0,0:14:10.43,0:14:12.97,Default,,0000,0000,0000,,--You idiot!\N--What are you doing?!
+Dialogue: 0,0:14:13.60,0:14:15.52,Default,,0000,0000,0000,,Hey, wait, Luffy.
+Dialogue: 0,0:14:20.23,0:14:21.81,Default,,0000,0000,0000,,His arm stretches!
+Dialogue: 0,0:14:21.94,0:14:25.40,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:14:43.84,0:14:45.30,Default,,0000,0000,0000,,Get lost!
+Dialogue: 0,0:14:49.88,0:14:53.39,Default,,0000,0000,0000,,Hey, don't cry! You're a man!
+Dialogue: 0,0:14:54.31,0:14:56.35,Default,,0000,0000,0000,,But... Shanks...!
+Dialogue: 0,0:14:57.64,0:14:59.77,Default,,0000,0000,0000,,Your arm!
+Dialogue: 0,0:15:06.19,0:15:09.57,Default,,0000,0000,0000,,I guess the top officers know\NStraw Hat Luffy in person...
+Dialogue: 0,0:15:09.70,0:15:12.12,Default,,0000,0000,0000,,Straw Hat Luffy is...
+Dialogue: 0,0:15:12.24,0:15:17.95,Default,,0000,0000,0000,,I heard he is an out-of-control violent man\Nwho is like a monkey monster...
+Dialogue: 0,0:15:18.08,0:15:20.87,Default,,0000,0000,0000,,Let's go! Boss!
+Dialogue: 0,0:15:22.50,0:15:24.00,Default,,0000,0000,0000,,I have no intention of seeing Luffy.
+Dialogue: 0,0:15:24.42,0:15:25.67,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:25.80,0:15:29.26,Default,,0000,0000,0000,,Think what's going on\Nin our territories these days.
+Dialogue: 0,0:15:29.67,0:15:32.30,Default,,0000,0000,0000,,The guy who said he was Luffy's henchman...\NBarto...
+Dialogue: 0,0:15:32.34,0:15:33.89,Default,,0000,0000,0000,,What was his name?
+Dialogue: 0,0:15:33.93,0:15:37.10,Default,,0000,0000,0000,,He burned our Jolly Roger\Nand changed it to Luffy's...
+Dialogue: 0,0:15:37.22,0:15:39.81,Default,,0000,0000,0000,,The future King of the Pirates,\NLuffy-{\i1}senpai{\i0}!
+Dialogue: 0,0:15:39.85,0:15:42.23,Default,,0000,0000,0000,,This is his group's sticker!
+Dialogue: 0,0:15:42.35,0:15:45.48,Default,,0000,0000,0000,,This island is the territory of\NShanks, the Emperor of the Sea.
+Dialogue: 0,0:15:45.61,0:15:46.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:51.28,0:15:54.32,Default,,0000,0000,0000,,The Emperor of the Sea?! I don't care!
+Dialogue: 0,0:15:55.62,0:15:58.16,Default,,0000,0000,0000,,Oh yeah, that happened...
+Dialogue: 0,0:15:58.29,0:16:02.08,Default,,0000,0000,0000,,If we just let it slide...\NI would lose people's trust in me.
+Dialogue: 0,0:16:02.21,0:16:05.08,Default,,0000,0000,0000,,Well, that's true. But...
+Dialogue: 0,0:16:05.13,0:16:08.09,Default,,0000,0000,0000,,Gee, Boss! I wanna see him!
+Dialogue: 0,0:16:08.21,0:16:09.96,Default,,0000,0000,0000,,What's the harm?
+Dialogue: 0,0:16:10.09,0:16:12.43,Default,,0000,0000,0000,,--I wanna see him!\N--Me, too!
+Dialogue: 0,0:16:13.30,0:16:16.30,On Top,,0000,0000,0000,,SABO MURDERS KING COBRA
+Dialogue: 0,0:16:13.97,0:16:18.14,Default,,0000,0000,0000,,We can't leave the Revolutionary Army\Nat large anymore, Akainu!
+Dialogue: 0,0:16:18.89,0:16:22.73,Default,,0000,0000,0000,,I know,\Nbut there are no more soldiers to deploy.
+Dialogue: 0,0:16:23.56,0:16:24.65,Default,,0000,0000,0000,,Sabo...
+Dialogue: 0,0:16:24.69,0:16:28.27,Default,,0000,0000,0000,,He's a hero of the world now!
+Dialogue: 0,0:16:25.10,0:16:28.27,On Top,,0000,0000,0000,,KUROUMA (TENSEI)\NDIRECTOR, NAVAL BUREAU OF INVESTIGATION
+Dialogue: 0,0:16:29.15,0:16:31.19,Default,,0000,0000,0000,,Assassinating King Nefeltari Cobra,
+Dialogue: 0,0:16:31.24,0:16:36.16,Default,,0000,0000,0000,,the only Reverie participant\Nout of all the descendants of the First Twenty...
+Dialogue: 0,0:16:37.03,0:16:40.04,Default,,0000,0000,0000,,...who created the World Government\N800 years ago,
+Dialogue: 0,0:16:40.08,0:16:43.33,Default,,0000,0000,0000,,meant so much\Nto the Revolutionary Army!
+Dialogue: 0,0:16:44.87,0:16:50.30,Default,,0000,0000,0000,,A few hours before that, in the Land of the Gods\Nwhere the Celestial Dragons live,
+Dialogue: 0,0:16:50.34,0:16:56.59,Default,,0000,0000,0000,,they destroyed the Hoof of the Celestial Dragon,\Nthe symbol of the World Nobles and declared war!
+Dialogue: 0,0:16:56.64,0:17:01.89,Default,,0000,0000,0000,,The Navy led by Admiral Ryokugyu\Nand Fujitora fought back, but as a result,
+Dialogue: 0,0:17:01.93,0:17:05.81,Default,,0000,0000,0000,,Bartholomew Kuma,\Na former Revolutionary Army member...
+Dialogue: 0,0:17:05.85,0:17:10.11,Default,,0000,0000,0000,,...who was enslaved by the Celestial Dragons\Nwas freed and they all escaped!
+Dialogue: 0,0:17:12.69,0:17:17.99,Default,,0000,0000,0000,,It must've been hard for the Admirals\Nto fight in the Land of the Gods.
+Dialogue: 0,0:17:18.12,0:17:21.12,Default,,0000,0000,0000,,You don't need to make excuses for them.
+Dialogue: 0,0:17:21.87,0:17:28.50,Default,,0000,0000,0000,,What about the disappearance of Princess Vivi\Nthat occurred at the same time as the murder?
+Dialogue: 0,0:17:28.88,0:17:32.71,Default,,0000,0000,0000,,We're currently investigating it, along with\Nthe connection between the two cases.
+Dialogue: 0,0:17:33.21,0:17:35.72,Default,,0000,0000,0000,,Alabasta is in shambles.
+Dialogue: 0,0:17:35.84,0:17:39.89,Default,,0000,0000,0000,,King Cobra's ship\Nis still at the Red Port...
+Dialogue: 0,0:17:39.93,0:17:42.43,Default,,0000,0000,0000,,They can't go home.
+Dialogue: 0,0:17:43.72,0:17:48.02,Default,,0000,0000,0000,,Can we close the case\Non the attempted murder of Saint Charlos?
+Dialogue: 0,0:17:48.15,0:17:52.23,Default,,0000,0000,0000,,Regarding Saint Myosgard\Nexcusing the assailants,
+Dialogue: 0,0:17:52.28,0:17:54.90,Default,,0000,0000,0000,,they're still deliberating\Nin the Land of the Gods.
+Dialogue: 0,0:17:54.94,0:17:59.24,Default,,0000,0000,0000,,The Holy Knights intervened\Nand it's getting complicated.
+Dialogue: 0,0:18:01.83,0:18:03.83,Default,,0000,0000,0000,,Leave them to it.
+Dialogue: 0,0:18:03.95,0:18:10.59,Default,,0000,0000,0000,,People are excited to think\NSabo was behind all these incidents.
+Dialogue: 0,0:18:10.63,0:18:15.97,Default,,0000,0000,0000,,The lands that were a part of the recent\N"Eight-Nation Revolution"
+Dialogue: 0,0:18:16.59,0:18:19.97,Default,,0000,0000,0000,,and all the small sparks\Nof the rebellion across the world...
+Dialogue: 0,0:18:20.01,0:18:25.14,Default,,0000,0000,0000,,...have begun to worship him like a god!
+Dialogue: 0,0:18:25.77,0:18:29.27,Default,,0000,0000,0000,,They're calling him the Flame Emperor!
+Dialogue: 0,0:18:29.98,0:18:31.69,Default,,0000,0000,0000,,His popularity now exceeds that of...
+Dialogue: 0,0:18:31.73,0:18:38.11,Default,,0000,0000,0000,,..."The Insurgent Serpent" Dragon,\Nthe leader of the Revolutionary Army!
+Dialogue: 0,0:18:38.86,0:18:45.29,Default,,0000,0000,0000,,On top of all that, his brother Straw Hat Luffy\Nis now one of the Four Emperors of the Sea.
+Dialogue: 0,0:18:47.20,0:18:52.38,Default,,0000,0000,0000,,Even in the world of pirates,\NFlame Emperor's brother destroyed the old regime!
+Dialogue: 0,0:18:52.42,0:18:55.00,On Top,,0000,0000,0000,,REVOLUTION
+Dialogue: 0,0:18:52.42,0:18:55.00,Default,,0000,0000,0000,,The times are about to change now!
+Dialogue: 0,0:18:57.72,0:18:59.47,Default,,0000,0000,0000,,Sabo-{\i1}sama{\i0}!
+Dialogue: 0,0:19:01.22,0:19:02.89,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:19:03.30,0:19:05.10,Default,,0000,0000,0000,,What a strong Haki!
+Dialogue: 0,0:19:05.22,0:19:07.60,Default,,0000,0000,0000,,They endured 20 years of domination...
+Dialogue: 0,0:19:07.64,0:19:13.52,Default,,0000,0000,0000,,And they were finally fully liberated,\Nso I won't let you spoil their banquet!
+Dialogue: 0,0:19:13.65,0:19:15.23,Default,,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:19:15.36,0:19:18.40,Default,,0000,0000,0000,,I'm Yamato! Kaido's son!
+Dialogue: 0,0:19:19.74,0:19:21.07,Default,,0000,0000,0000,,Kaido's son?
+Dialogue: 0,0:19:21.20,0:19:23.24,Default,,0000,0000,0000,,That is right, Yamato!
+Dialogue: 0,0:19:24.33,0:19:25.37,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0}!
+Dialogue: 0,0:19:27.37,0:19:31.92,Default,,0000,0000,0000,,I will not let you touch our heroes\Nwho are not fully recovered yet!
+Dialogue: 0,0:19:32.04,0:19:33.58,Default,,0000,0000,0000,,A dragon?!
+Dialogue: 0,0:19:36.30,0:19:38.21,Default,,0000,0000,0000,,Blast Breath!
+Dialogue: 0,0:19:48.72,0:19:50.02,Default,,0000,0000,0000,,Momonosuke-{\i1}sama{\i0}!
+Dialogue: 0,0:19:50.14,0:19:51.98,Default,,0000,0000,0000,,Anyway...!
+Dialogue: 0,0:19:54.19,0:19:57.32,Default,,0000,0000,0000,,Go away!\NTo a place out of sight of the capital!
+Dialogue: 0,0:19:57.36,0:19:59.32,Default,,0000,0000,0000,,Do not make the people uneasy!
+Dialogue: 0,0:19:59.36,0:20:02.20,Default,,0000,0000,0000,,I made a promise to everyone!
+Dialogue: 0,0:20:02.66,0:20:05.07,Default,,0000,0000,0000,,That's strange. A pink dragon?!
+Dialogue: 0,0:20:05.12,0:20:07.70,Default,,0000,0000,0000,,I've never heard of\Nsuch a Devil Fruit power!
+Dialogue: 0,0:20:07.74,0:20:08.91,Default,,0000,0000,0000,,You're in my way!
+Dialogue: 0,0:20:18.13,0:20:19.30,Default,,0000,0000,0000,,Momonosuke-{\i1}kun{\i0}!
+Dialogue: 0,0:20:20.97,0:20:22.22,Default,,0000,0000,0000,,Yamato!
+Dialogue: 0,0:20:23.22,0:20:25.59,Default,,0000,0000,0000,,You should not fight!
+Dialogue: 0,0:20:25.72,0:20:26.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:27.64,0:20:30.60,Default,,0000,0000,0000,,This has been a waste of time.
+Dialogue: 0,0:20:33.60,0:20:35.77,Default,,0000,0000,0000,,Gee...
+Dialogue: 0,0:20:35.81,0:20:39.61,Default,,0000,0000,0000,,I became the Admiral of the Fleet\Nduring a terrible era.
+Dialogue: 0,0:20:41.53,0:20:44.16,Default,,0000,0000,0000,,But no matter how they come at me,
+Dialogue: 0,0:20:44.20,0:20:49.62,Default,,0000,0000,0000,,I will strike back at them all!
+Dialogue: 0,0:21:03.30,0:21:07.30,On Top,,0000,0000,0000,,SIXTY-SEVEN {\i1}SAKE{\i0}, NO.5
+Dialogue: 0,0:21:24.20,0:21:25.91,Default,,0000,0000,0000,,Hey, Beck.
+Dialogue: 0,0:21:28.45,0:21:30.95,Default,,0000,0000,0000,,It's time to go and acquire it...
+Dialogue: 0,0:21:37.58,0:21:39.50,Default,,0000,0000,0000,,The One Piece!
+Dialogue: 0,0:22:05.36,0:22:08.24,On Top,,0000,0000,0000,,{\i1}"jikan gire sa"{\i0}
+Dialogue: 0,0:22:05.36,0:22:08.24,Default,,0000,0000,0000,,{\i1}"Time's up"{\i0}
+Dialogue: 0,0:22:09.41,0:22:12.66,On Top,,0000,0000,0000,,{\i1}dareka ga mata waratta{\i0}
+Dialogue: 0,0:22:09.41,0:22:12.66,Default,,0000,0000,0000,,{\i1}Someone laughed again{\i0}
+Dialogue: 0,0:22:13.41,0:22:17.92,On Top,,0000,0000,0000,,{\i1}joutou saa kakurenbo wa{\i0}
+Dialogue: 0,0:22:13.41,0:22:17.92,Default,,0000,0000,0000,,{\i1}All right, now hide-and-seek{\i0}
+Dialogue: 0,0:22:18.54,0:22:19.71,On Top,,0000,0000,0000,,{\i1}owari{\i0}
+Dialogue: 0,0:22:18.54,0:22:19.71,Default,,0000,0000,0000,,{\i1}Is over{\i0}
+Dialogue: 0,0:22:20.88,0:22:24.84,On Top,,0000,0000,0000,,{\i1}ikou hora\N(mou sugu mieru){\i0}
+Dialogue: 0,0:22:20.88,0:22:24.84,Default,,0000,0000,0000,,{\i1}Let's go, come on\N(We can see it soon){\i0}
+Dialogue: 0,0:22:24.88,0:22:28.59,On Top,,0000,0000,0000,,{\i1}kodoku nari kishimase\N(boku tachi no shima ga){\i0}
+Dialogue: 0,0:22:24.88,0:22:28.59,Default,,0000,0000,0000,,{\i1}Make our hearts beat loudly\N(Our island){\i0}
+Dialogue: 0,0:22:28.63,0:22:32.97,On Top,,0000,0000,0000,,{\i1}nanika ga kawaru\N(mou sugu mieru){\i0}
+Dialogue: 0,0:22:28.63,0:22:32.97,Default,,0000,0000,0000,,{\i1}Something will change\N(We can see it soon){\i0}
+Dialogue: 0,0:22:33.01,0:22:36.89,On Top,,0000,0000,0000,,{\i1}chikara zuyoku nare jikan wa aru zo\N(1-2-3){\i0}
+Dialogue: 0,0:22:33.01,0:22:36.89,Default,,0000,0000,0000,,{\i1}Be tough, there's still time\N(1-2-3){\i0}
+Dialogue: 0,0:22:36.93,0:22:38.14,Default,,0000,0000,0000,,{\i1}Let's raise it{\i0}
+Dialogue: 0,0:22:36.93,0:22:38.14,On Top,,0000,0000,0000,,{\i1}kakage you{\i0}
+Dialogue: 0,0:22:38.19,0:22:45.11,Default,,0000,0000,0000,,{\i1}We can't go on\NLiving a life of nothing but loneliness{\i0}
+Dialogue: 0,0:22:38.19,0:22:45.11,On Top,,0000,0000,0000,,{\i1}kono mune afureteru\Nkodoku dake ja ikirenai{\i0}
+Dialogue: 0,0:22:45.15,0:22:49.24,Default,,0000,0000,0000,,{\i1}We're young, so we're free{\i0}
+Dialogue: 0,0:22:45.15,0:22:49.24,On Top,,0000,0000,0000,,{\i1}osanai boku ra nara jiyuu dana{\i0}
+Dialogue: 0,0:22:49.28,0:22:52.20,Default,,0000,0000,0000,,{\i1}A foolish dream{\i0}
+Dialogue: 0,0:22:49.28,0:22:52.20,On Top,,0000,0000,0000,,{\i1}baka na yume{\i0}
+Dialogue: 0,0:22:52.66,0:22:53.83,Default,,0000,0000,0000,,{\i1}We live it{\i0}
+Dialogue: 0,0:22:52.66,0:22:53.83,On Top,,0000,0000,0000,,{\i1}ikiru{\i0}
+Dialogue: 0,0:22:53.87,0:22:57.75,Default,,0000,0000,0000,,{\i1}We'll illuminate the dark path ahead{\i0}
+Dialogue: 0,0:22:53.87,0:22:57.75,On Top,,0000,0000,0000,,{\i1}mienai saki wo terashite yuku{\i0}
+Dialogue: 0,0:22:57.79,0:23:01.88,Default,,0000,0000,0000,,{\i1}Get on our feet and try{\i0}
+Dialogue: 0,0:22:57.79,0:23:01.88,On Top,,0000,0000,0000,,{\i1}jibun no ashi de Try{\i0}
+Dialogue: 0,0:23:01.92,0:23:05.80,Default,,0000,0000,0000,,{\i1}Let's see the ends of the world together{\i0}
+Dialogue: 0,0:23:01.92,0:23:05.80,On Top,,0000,0000,0000,,{\i1}sekai no hate wo tomo ni miyou{\i0}
+Dialogue: 0,0:23:05.84,0:23:09.76,Default,,0000,0000,0000,,{\i1}Together we can go and fly{\i0}
+Dialogue: 0,0:23:05.84,0:23:09.76,On Top,,0000,0000,0000,,{\i1}issho nara ikeru Fly{\i0}
+Dialogue: 0,0:23:18.73,0:23:23.56,Default,,0000,0000,0000,,{\i1}Ryokugyu takes advantage of the still-unhealed wounds\Nof the Land of Wano and tramples on the samurai.{\i0}
+Dialogue: 0,0:23:23.61,0:23:27.28,Default,,0000,0000,0000,,{\i1}Just as he takes down Momonosuke\Nwith his overwhelming power{\i0}
+Dialogue: 0,0:23:27.32,0:23:35.41,Default,,0000,0000,0000,,{\i1}and a new era is about to close once again,\Na man with a strong belief in the future appears!{\i0}
+Dialogue: 0,0:23:36.79,0:23:38.04,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:38.08,0:23:41.71,Default,,0000,0000,0000,,"The Coming of the New Era!\NThe Red-Haired's Imperial Rage"
+Dialogue: 0,0:23:41.75,0:23:45.63,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.63,0:23:47.63,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.63,0:23:49.63,Default,,0000,0000,0000,,

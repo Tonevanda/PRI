@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:11.01,Default,,0,0,0,,
+Dialogue: 0,0:00:11.01,0:00:13.55,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i0}
+Dialogue: 0,0:00:11.01,0:00:13.55,Default,,0,0,0,,{\i1}(All of us) us, us{\i0}
+Dialogue: 0,0:00:13.59,0:00:18.93,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i0}
+Dialogue: 0,0:00:13.59,0:00:18.93,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i0}
+Dialogue: 0,0:00:23.69,0:00:26.27,On Top,,0,0,0,,{\i1}yume no hate umi no hate{\i0}
+Dialogue: 0,0:00:23.69,0:00:26.27,Default,,0,0,0,,{\i1}The end of a dream, the end of the sea{\i0}
+Dialogue: 0,0:00:26.31,0:00:28.98,On Top,,0,0,0,,{\i1}ikitai basho wa sorezore da{\i0}
+Dialogue: 0,0:00:26.31,0:00:28.98,Default,,0,0,0,,{\i1}We all have different places we want to go{\i0}
+Dialogue: 0,0:00:29.02,0:00:31.49,On Top,,0,0,0,,{\i1}dakedo hitotsu kagayakeru{\i0}
+Dialogue: 0,0:00:29.02,0:00:31.49,Default,,0,0,0,,{\i1}But first, we need{\i0}
+Dialogue: 0,0:00:31.53,0:00:35.86,On Top,,0,0,0,,{\i1}densetsu wo buchiagete kara da{\i0}
+Dialogue: 0,0:00:31.53,0:00:35.86,Default,,0,0,0,,{\i1}To make a shining legend out of ourselves{\i0}
+Dialogue: 0,0:00:37.32,0:00:39.70,On Top,,0,0,0,,{\i1}bachi bachi No limit koko kara ga{\i0}
+Dialogue: 0,0:00:37.32,0:00:39.70,Default,,0,0,0,,{\i1}Sparks fly, no limit, this is where it starts{\i0}
+Dialogue: 0,0:00:39.74,0:00:41.33,On Top,,0,0,0,,{\i1}ONE PIECE!!{\i0}
+Dialogue: 0,0:00:39.74,0:00:41.33,Default,,0,0,0,,{\i1}ONE PIECE!!{\i0}
+Dialogue: 0,0:00:41.37,0:00:43.96,On Top,,0,0,0,,{\i1}All of us tabibito ni tsugu{\i0}
+Dialogue: 0,0:00:41.37,0:00:43.96,Default,,0,0,0,,{\i1}All of us, I ask you travelers{\i0}
+Dialogue: 0,0:00:44.00,0:00:47.25,On Top,,0,0,0,,{\i1}sono yume wa mada nigoccha inai ka?{\i0}
+Dialogue: 0,0:00:44.00,0:00:47.25,Default,,0,0,0,,{\i1}Are your dreams still pure?{\i0}
+Dialogue: 0,0:00:49.38,0:00:55.72,On Top,,0,0,0,,{\i1}nemurenai saibou ga kusugurare hajiketeku{\i0}
+Dialogue: 0,0:00:49.38,0:00:55.72,Default,,0,0,0,,{\i1}Sleepless cells are shaken and burst{\i0}
+Dialogue: 0,0:00:55.76,0:01:02.47,On Top,,0,0,0,,{\i1}ima mo All of us bouken no tochuu{\i0}
+Dialogue: 0,0:00:55.76,0:01:02.47,Default,,0,0,0,,{\i1}Still, all of us, in the middle of an adventure{\i0}
+Dialogue: 0,0:01:02.52,0:01:04.98,On Top,,0,0,0,,{\i1}All of us tabibito e tsugu{\i0}
+Dialogue: 0,0:01:02.52,0:01:04.98,Default,,0,0,0,,{\i1}All of us, I tell you travelers{\i0}
+Dialogue: 0,0:01:05.02,0:01:08.77,On Top,,0,0,0,,{\i1}imi no nai tatakai wa nain da{\i0}
+Dialogue: 0,0:01:05.02,0:01:08.77,Default,,0,0,0,,{\i1}No such thing as a pointless fight{\i0}
+Dialogue: 0,0:01:10.57,0:01:12.90,On Top,,0,0,0,,{\i1}barabara no bunmyaku ga{\i0}
+Dialogue: 0,0:01:10.57,0:01:12.90,Default,,0,0,0,,{\i1}When random contexts{\i0}
+Dialogue: 0,0:01:12.94,0:01:16.86,On Top,,0,0,0,,{\i1}ishi wo mochi tsunagareba{\i0}
+Dialogue: 0,0:01:12.94,0:01:16.86,Default,,0,0,0,,{\i1}Start to make sense on their own{\i0}
+Dialogue: 0,0:01:16.91,0:01:23.29,On Top,,0,0,0,,{\i1}toki no ito ga tsumugi naosareru{\i0}
+Dialogue: 0,0:01:16.91,0:01:23.29,Default,,0,0,0,,{\i1}The threads of time are spun back together{\i0}
+Dialogue: 0,0:01:23.62,0:01:28.83,On Top,,0,0,0,,{\i1}ore tachi to tomoni sekai kawari tsuzuketeru{\i0}
+Dialogue: 0,0:01:23.62,0:01:28.83,Default,,0,0,0,,{\i1}The world keeps changing along with us{\i0}
+Dialogue: 0,0:01:28.88,0:01:31.38,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i0}
+Dialogue: 0,0:01:28.88,0:01:31.38,Default,,0,0,0,,{\i1}(All of us) us, us{\i0}
+Dialogue: 0,0:01:31.42,0:01:36.76,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i0}
+Dialogue: 0,0:01:31.42,0:01:36.76,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i0}
+Dialogue: 0,0:01:44.56,0:01:49.48,Default,,0,0,0,,{\i1}"Sinister Schemes!\NThe Operation to Escape Egghead"{\i0}
+Dialogue: 0,0:02:25.22,0:02:26.85,Default,,0,0,0,,You're admirable in a way...
+Dialogue: 0,0:02:28.94,0:02:31.98,Default,,0,0,0,,Because you fulfilled your duty...
+Dialogue: 0,0:02:33.32,0:02:34.61,Default,,0,0,0,,...as Vegapunk's bodyguard.
+Dialogue: 0,0:02:37.11,0:02:38.11,Default,,0,0,0,,So...
+Dialogue: 0,0:02:38.65,0:02:40.78,Default,,0,0,0,,...it's a shame, Sentomaru.
+Dialogue: 0,0:02:43.95,0:02:45.29,Default,,0,0,0,,This is an inevitable result.
+Dialogue: 0,0:02:46.04,0:02:48.25,Default,,0,0,0,,He turned against us.
+Dialogue: 0,0:02:50.71,0:02:52.79,Default,,0,0,0,,Dr. Vegapunk.
+Dialogue: 0,0:02:52.83,0:02:55.00,Default,,0,0,0,,He's giving us a lot of trouble.
+Dialogue: 0,0:02:55.63,0:02:58.01,Default,,0,0,0,,Let's get this mission over with.
+Dialogue: 0,0:03:00.09,0:03:03.89,Default,,0,0,0,,The Navy told us to wait\Nuntil they get here.
+Dialogue: 0,0:03:04.85,0:03:06.85,Default,,0,0,0,,How could they take it so easily?
+Dialogue: 0,0:03:06.97,0:03:10.31,On Top,,0,0,0,,LAB
+Dialogue: 0,0:03:07.31,0:03:09.39,Default,,0,0,0,,If we wait, he'll run!
+Dialogue: 0,0:03:11.90,0:03:14.06,Default,,0,0,0,,As you can see...
+Dialogue: 0,0:03:14.11,0:03:16.15,Default,,0,0,0,,their target is me.
+Dialogue: 0,0:03:18.24,0:03:21.99,Default,,0,0,0,,When you're a genius, people hate you.
+Dialogue: 0,0:03:22.11,0:03:25.16,Default,,0,0,0,,What? Are they really trying to kill you?!
+Dialogue: 0,0:03:25.20,0:03:27.70,Default,,0,0,0,,You're the smartest man\Nin the world, right?!
+Dialogue: 0,0:03:28.58,0:03:31.67,Default,,0,0,0,,If the Government loses you,\Nit's their loss!
+Dialogue: 0,0:03:31.79,0:03:33.00,Default,,0,0,0,,Yeah, I guess.
+Dialogue: 0,0:03:33.04,0:03:36.84,Default,,0,0,0,,Maybe this is how the higher-ups think.
+Dialogue: 0,0:03:38.26,0:03:42.97,Default,,0,0,0,,I have made inventions\Nthat have been beneficial to the Government.
+Dialogue: 0,0:03:43.01,0:03:46.72,Default,,0,0,0,,Innovations in navigation technology\Nthrough the use of Sea Prism Stones.
+Dialogue: 0,0:03:46.76,0:03:49.22,Default,,0,0,0,,Modifying animals into Cyborg Animals.
+Dialogue: 0,0:03:49.81,0:03:54.23,Default,,0,0,0,,Furthermore, a study on the Devil Fruits\Nand the application of its results.
+Dialogue: 0,0:03:54.27,0:03:57.07,Default,,0,0,0,,Creating the Pacifistas, the human weapons.
+Dialogue: 0,0:03:58.11,0:03:59.44,Default,,0,0,0,,And...
+Dialogue: 0,0:04:00.24,0:04:02.49,Default,,0,0,0,,...the completion of the Seraphim!
+Dialogue: 0,0:04:06.70,0:04:11.37,Default,,0,0,0,,I have accomplished\Ncountless other feats, too.
+Dialogue: 0,0:04:11.83,0:04:17.34,Default,,0,0,0,,How would you like it if I were to move against you\Nwith the world's greatest intelligence?!
+Dialogue: 0,0:04:19.13,0:04:21.30,Default,,0,0,0,,Oh, you're right...
+Dialogue: 0,0:04:22.09,0:04:23.01,Default,,0,0,0,,I'd be annoyed!
+Dialogue: 0,0:04:24.38,0:04:26.43,Default,,0,0,0,,Yeah! I would eliminate you!
+Dialogue: 0,0:04:26.55,0:04:27.47,Default,,0,0,0,,Don't!
+Dialogue: 0,0:04:27.60,0:04:32.89,Default,,0,0,0,,I don't even have\Nthe slightest intention of revolting,
+Dialogue: 0,0:04:32.93,0:04:36.65,Default,,0,0,0,,but those hard-headed people\Nfirmly believe that I do.
+Dialogue: 0,0:04:37.15,0:04:40.53,Default,,0,0,0,,Sometimes things can take a horrible turn.
+Dialogue: 0,0:04:40.65,0:04:43.03,Default,,0,0,0,,Don't say it like\Nit's someone else's problem!
+Dialogue: 0,0:04:46.32,0:04:50.79,Default,,0,0,0,,Then your group led by\Nan Emperor of the Sea came along.
+Dialogue: 0,0:04:51.75,0:04:54.08,Default,,0,0,0,,I think it's fate!
+Dialogue: 0,0:04:55.50,0:04:57.29,Default,,0,0,0,,Are you gonna come aboard our ship?!
+Dialogue: 0,0:04:57.88,0:04:59.38,Default,,0,0,0,,You're most welcome!
+Dialogue: 0,0:05:00.13,0:05:02.21,Default,,0,0,0,,{\i1}Super{\i0}!
+Dialogue: 0,0:05:02.26,0:05:04.97,Default,,0,0,0,,Take a look at General Franky!
+Dialogue: 0,0:05:05.01,0:05:08.39,Default,,0,0,0,,Take a look at the Sunny!
+Dialogue: 0,0:05:08.93,0:05:10.60,Default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:05:10.64,0:05:14.73,Default,,0,0,0,,If he comes aboard,\Nwe'll be targeted by CP-0 as well!
+Dialogue: 0,0:05:14.77,0:05:16.90,Default,,0,0,0,,No, no, I'm against this!
+Dialogue: 0,0:05:17.02,0:05:18.65,Default,,0,0,0,,She's right!
+Dialogue: 0,0:05:18.69,0:05:23.61,Default,,0,0,0,,I'm all for what Nami-san said!\NYes, yes, yes!
+Dialogue: 0,0:05:25.11,0:05:27.66,Default,,0,0,0,,It is risky.
+Dialogue: 0,0:05:27.70,0:05:28.41,Default,,0,0,0,,But...
+Dialogue: 0,0:05:28.45,0:05:31.24,Default,,0,0,0,,...they're taking the Sunny hostage,
+Dialogue: 0,0:05:31.70,0:05:33.70,Default,,0,0,0,,so we have to do...
+Dialogue: 0,0:05:34.08,0:05:36.25,Default,,0,0,0,,...as Dr. Vegapunk says.
+Dialogue: 0,0:05:36.79,0:05:39.63,Default,,0,0,0,,What?!\NAre we really gonna have him onboard?!
+Dialogue: 0,0:05:39.67,0:05:40.88,Default,,0,0,0,,That's a huge burden!
+Dialogue: 0,0:05:41.34,0:05:44.38,Default,,0,0,0,,Don't worry, Nami-san! I got you!
+Dialogue: 0,0:05:44.80,0:05:46.76,Default,,0,0,0,,I'm counting on you!
+Dialogue: 0,0:05:46.80,0:05:48.64,Default,,0,0,0,,Do your best-{\i1}Quasar{\i0}!
+Dialogue: 0,0:05:49.14,0:05:51.97,Default,,0,0,0,,Hey! Why don't you free our feet then?!
+Dialogue: 0,0:05:52.01,0:05:53.60,Default,,0,0,0,,You jerk!
+Dialogue: 0,0:05:56.85,0:05:58.94,Default,,0,0,0,,Atlas-sama!
+Dialogue: 0,0:05:59.06,0:06:01.44,Default,,0,0,0,,Oh no! This is serious!
+Dialogue: 0,0:06:01.90,0:06:03.65,Default,,0,0,0,,We'll take care of you right away!
+Dialogue: 0,0:06:03.69,0:06:07.36,Default,,0,0,0,,Prepare to treat and repair her ASAP!
+Dialogue: 0,0:06:07.49,0:06:11.03,Default,,0,0,0,,Thank you for bringing her in!\NLeave her to us!
+Dialogue: 0,0:06:11.49,0:06:12.70,Default,,0,0,0,,Yeah, thanks.
+Dialogue: 0,0:06:12.83,0:06:15.50,Default,,0,0,0,,Hey guys, where's Vegapunk?!
+Dialogue: 0,0:06:16.75,0:06:18.16,Default,,0,0,0,,I know he's here!
+Dialogue: 0,0:06:18.79,0:06:20.25,Default,,0,0,0,,Tell me!
+Dialogue: 0,0:06:20.38,0:06:22.13,Default,,0,0,0,,Hey! Stop it!
+Dialogue: 0,0:06:22.17,0:06:23.63,Default,,0,0,0,,Calm down a little!
+Dialogue: 0,0:06:28.17,0:06:30.01,Default,,0,0,0,,So this is his lab!
+Dialogue: 0,0:06:31.34,0:06:33.05,Default,,0,0,0,,Cool!
+Dialogue: 0,0:06:33.10,0:06:34.43,Default,,0,0,0,,Look at this place!
+Dialogue: 0,0:06:36.10,0:06:37.77,Default,,0,0,0,,That bastard!
+Dialogue: 0,0:06:38.18,0:06:40.06,Default,,0,0,0,,I'll make him pay no matter what!
+Dialogue: 0,0:06:44.32,0:06:46.61,Default,,0,0,0,,Bonney, where are you going?!
+Dialogue: 0,0:06:50.78,0:06:54.66,Default,,0,0,0,,If Vegapunk's answer to my request\Nto change back my father...
+Dialogue: 0,0:06:56.45,0:06:57.91,Default,,0,0,0,,...is those bugs...
+Dialogue: 0,0:07:02.13,0:07:04.04,Default,,0,0,0,,I have no choice left but to kill him!
+Dialogue: 0,0:07:04.17,0:07:06.67,Default,,0,0,0,,Y-You're just taking it out on him...
+Dialogue: 0,0:07:08.42,0:07:09.55,Default,,0,0,0,,Wait!
+Dialogue: 0,0:07:09.67,0:07:11.05,Default,,0,0,0,,Stop, Bonney!
+Dialogue: 0,0:07:11.18,0:07:12.93,Default,,0,0,0,,Hey! Bonney!
+Dialogue: 0,0:07:23.69,0:07:26.78,On Top,,0,0,0,,FABRIOPHASE
+Dialogue: 0,0:07:26.90,0:07:29.65,Default,,0,0,0,,Our Authority Chips are back in effect.
+Dialogue: 0,0:07:29.69,0:07:32.20,Default,,0,0,0,,The Seraphim are now ours.
+Dialogue: 0,0:07:32.86,0:07:34.49,Default,,0,0,0,,The tide is turned!
+Dialogue: 0,0:07:35.28,0:07:37.49,Default,,0,0,0,,I took down one of the Satellites.
+Dialogue: 0,0:07:39.00,0:07:43.08,Default,,0,0,0,,There are six more\Nincluding Vegapunk himself.
+Dialogue: 0,0:07:43.21,0:07:45.84,Default,,0,0,0,,I think so.
+Dialogue: 0,0:07:46.17,0:07:46.92,Default,,0,0,0,,But...
+Dialogue: 0,0:07:47.50,0:07:50.13,Default,,0,0,0,,...that defense system is formidable.
+Dialogue: 0,0:07:52.55,0:07:55.51,Default,,0,0,0,,I'm not gonna let anyone, even an ant,\Noff this island!
+Dialogue: 0,0:07:55.55,0:07:59.10,Default,,0,0,0,,Destroy all ships on the island!\NBlock off all the escape routes as well!
+Dialogue: 0,0:08:00.31,0:08:02.73,Default,,0,0,0,,Don't let them escape from anywhere!
+Dialogue: 0,0:08:02.85,0:08:06.19,On Top,,0,0,0,,RED PORT AT THE FOOT OF THE RED LINE
+Dialogue: 0,0:08:27.54,0:08:28.55,Default,,0,0,0,,What is it?!
+Dialogue: 0,0:09:11.38,0:09:12.59,Default,,0,0,0,,What fell?
+Dialogue: 0,0:09:16.80,0:09:19.14,Default,,0,0,0,,B-Bartholomew Kuma?!
+Dialogue: 0,0:09:19.60,0:09:21.77,Default,,0,0,0,,--What?\N--Where did he come from?
+Dialogue: 0,0:09:21.89,0:09:25.52,Default,,0,0,0,,I heard he recently escaped\Nfrom the Land of the Gods!
+Dialogue: 0,0:09:26.31,0:09:27.90,Default,,0,0,0,,Why is he here?!
+Dialogue: 0,0:09:28.23,0:09:30.90,Default,,0,0,0,,He's the Celestial Dragons'\NInvincible Slave, Kuma...
+Dialogue: 0,0:09:30.94,0:09:32.07,Default,,0,0,0,,Why's he here?!
+Dialogue: 0,0:09:54.05,0:09:57.34,Default,,0,0,0,,{\i1}In the northeast region of the island\Naround the entrance of Bondoras!{\i0}
+Dialogue: 0,0:09:57.76,0:10:01.89,Default,,0,0,0,,{\i1}A former Warlord of the Sea,\NBartholomew Kuma appeared!{\i0}
+Dialogue: 0,0:10:03.68,0:10:05.93,Default,,0,0,0,,{\i1}Navy soldiers, rush to the scene!{\i0}
+Dialogue: 0,0:10:14.94,0:10:19.66,Default,,0,0,0,,{\i1}Citizens, please leave the site immediately!\NIt's dangerous!{\i0}
+Dialogue: 0,0:10:20.37,0:10:24.91,Default,,0,0,0,,{\i1}He has already lost all sense of being a human\Nand is a slave kept by the Celestial Dragons!{\i0}
+Dialogue: 0,0:10:25.37,0:10:28.87,Default,,0,0,0,,{\i1}His current programming is unknown!\NIt's very dangerous!{\i0}
+Dialogue: 0,0:10:28.92,0:10:31.63,Default,,0,0,0,,{\i1}Please leave the site immediately!{\i0}
+Dialogue: 0,0:10:47.60,0:10:48.73,Default,,0,0,0,,All right!
+Dialogue: 0,0:10:49.44,0:10:52.40,Default,,0,0,0,,We'll soon have complete control\Nof all the escape routes.
+Dialogue: 0,0:10:55.86,0:10:58.44,Default,,0,0,0,,Now it's impossible for them to escape.
+Dialogue: 0,0:10:58.49,0:11:00.95,Default,,0,0,0,,All there is left to do is take out Vegapunk.
+Dialogue: 0,0:11:01.70,0:11:04.91,Default,,0,0,0,,Now, how should we drag him out?
+Dialogue: 0,0:11:07.62,0:11:10.04,Default,,0,0,0,,The Frontier Dome is a pain.
+Dialogue: 0,0:11:10.16,0:11:12.25,Default,,0,0,0,,That's tough.
+Dialogue: 0,0:11:12.38,0:11:14.00,Default,,0,0,0,,Are you really going to go?
+Dialogue: 0,0:11:14.96,0:11:18.26,Default,,0,0,0,,So you're not going to\Nlisten to the Navy, Lucci?
+Dialogue: 0,0:11:21.38,0:11:24.18,Default,,0,0,0,,I don't acknowledge Straw Hat\Nas an Emperor of the Sea.
+Dialogue: 0,0:11:26.10,0:11:27.47,Default,,0,0,0,,I don't know what to say...
+Dialogue: 0,0:11:36.27,0:11:39.53,Default,,0,0,0,,Officers are making haste\Nto block all the sailing routes.
+Dialogue: 0,0:11:39.57,0:11:42.91,Default,,0,0,0,,All the ships on the island\Ncould be seized.
+Dialogue: 0,0:11:43.57,0:11:46.87,Default,,0,0,0,,I wish we could have snuck out\Nand escaped before they knew,
+Dialogue: 0,0:11:47.62,0:11:51.83,Default,,0,0,0,,but unfortunately, Vegaforce-01\Ncan only fly within the island.
+Dialogue: 0,0:11:52.37,0:11:56.59,Default,,0,0,0,,Contain us to the island,\Nhunt us down, and take us out.
+Dialogue: 0,0:11:57.05,0:11:59.05,Default,,0,0,0,,The enemy's plan is effective.
+Dialogue: 0,0:12:00.97,0:12:02.34,Default,,0,0,0,,Great!
+Dialogue: 0,0:12:05.09,0:12:07.93,Default,,0,0,0,,We're gonna avenge Atlas, right?!
+Dialogue: 0,0:12:09.56,0:12:11.23,Default,,0,0,0,,I'm getting excited!
+Dialogue: 0,0:12:11.35,0:12:15.23,Default,,0,0,0,,Well, I don't think\Nanyone can come up here,
+Dialogue: 0,0:12:15.65,0:12:19.48,Default,,0,0,0,,so there is no need for us\Nto go out of our way to fight them...
+Dialogue: 0,0:12:20.49,0:12:23.40,Default,,0,0,0,,Are you saying we should sit back\Nand wait for death?!
+Dialogue: 0,0:12:23.86,0:12:25.87,Default,,0,0,0,,Calm down, guys.
+Dialogue: 0,0:12:26.49,0:12:30.16,Default,,0,0,0,,Our only objective now is to escape.
+Dialogue: 0,0:12:30.50,0:12:31.58,Default,,0,0,0,,Having said that...
+Dialogue: 0,0:12:37.21,0:12:39.13,Default,,0,0,0,,I guess a fight is inevitable.
+Dialogue: 0,0:12:45.01,0:12:47.55,Default,,0,0,0,,What is it? Is it something fun?
+Dialogue: 0,0:12:48.93,0:12:50.60,Default,,0,0,0,,Stella is right.
+Dialogue: 0,0:12:51.68,0:12:55.31,Default,,0,0,0,,We must fight. Let's just attack them!
+Dialogue: 0,0:12:56.23,0:12:57.02,Default,,0,0,0,,Lilith!
+Dialogue: 0,0:12:57.61,0:12:59.77,Default,,0,0,0,,If it's a thoughtless attack, don't do it.
+Dialogue: 0,0:13:01.11,0:13:02.94,Default,,0,0,0,,Hey, Shaka! What's your problem?!
+Dialogue: 0,0:13:02.99,0:13:07.32,Default,,0,0,0,,What's wrong with attacking back\Nagainst the fools trying to kill us?
+Dialogue: 0,0:13:09.58,0:13:13.25,Default,,0,0,0,,Our goal is not to attack back,\Nbut to let Stella escape.
+Dialogue: 0,0:13:13.37,0:13:16.42,Default,,0,0,0,,We can't accomplish that\Nwithout taking them down!
+Dialogue: 0,0:13:16.54,0:13:19.21,Default,,0,0,0,,Whoa-whoa, that's enough.
+Dialogue: 0,0:13:19.34,0:13:21.17,Default,,0,0,0,,We're his Satellites.
+Dialogue: 0,0:13:21.21,0:13:24.92,Default,,0,0,0,,We will ensure his safety,\Neven at our own peril.
+Dialogue: 0,0:13:25.38,0:13:27.01,Default,,0,0,0,,That's our priority.
+Dialogue: 0,0:13:29.18,0:13:31.35,Default,,0,0,0,,We can't have you running wild as you like.
+Dialogue: 0,0:13:34.43,0:13:37.56,Default,,0,0,0,,You're acting goody-goody as always.
+Dialogue: 0,0:13:37.60,0:13:40.23,Default,,0,0,0,,I don't like you.
+Dialogue: 0,0:13:40.36,0:13:41.48,Default,,0,0,0,,That's fine by me.
+Dialogue: 0,0:13:49.32,0:13:49.99,Default,,0,0,0,,Gee.
+Dialogue: 0,0:13:50.83,0:13:52.83,Default,,0,0,0,,Why isn't Luffy here yet?
+Dialogue: 0,0:13:53.62,0:13:56.25,Default,,0,0,0,,What's gonna happen next?
+Dialogue: 0,0:13:56.96,0:13:59.75,Default,,0,0,0,,Are they gonna start a war?
+Dialogue: 0,0:13:59.88,0:14:01.09,Default,,0,0,0,,Maybe.
+Dialogue: 0,0:14:01.92,0:14:06.92,Default,,0,0,0,,Even if we have no intention of fighting,\Nin the end it depends on what they do.
+Dialogue: 0,0:14:07.05,0:14:10.72,Default,,0,0,0,,Even if we make it off the island,\Nthey'll come after us for sure...
+Dialogue: 0,0:14:18.81,0:14:22.36,Default,,0,0,0,,I don't even wanna think about it.\NWhat a huge burden!
+Dialogue: 0,0:14:26.28,0:14:29.11,Default,,0,0,0,,I came up with innovative technology!
+Dialogue: 0,0:14:29.16,0:14:30.41,Default,,0,0,0,,But!
+Dialogue: 0,0:14:32.70,0:14:36.33,Default,,0,0,0,,I don't have enough time\Nor manpower to do the research!
+Dialogue: 0,0:14:36.37,0:14:38.66,Default,,0,0,0,,I'd welcome even a cat's help!
+Dialogue: 0,0:14:39.75,0:14:40.96,Default,,0,0,0,,Oh, Joshu!
+Dialogue: 0,0:14:41.50,0:14:43.67,Default,,0,0,0,,Thank you for coming to help!
+Dialogue: 0,0:14:43.80,0:14:48.84,Default,,0,0,0,,Oh, Sentomaru... You took my side\Nand this is what happened...
+Dialogue: 0,0:14:48.88,0:14:49.55,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:14:50.30,0:14:51.47,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:14:51.51,0:14:54.93,Default,,0,0,0,,There is one more ally on the island...
+Dialogue: 0,0:14:55.06,0:14:56.18,Default,,0,0,0,,No, no, no!
+Dialogue: 0,0:14:56.22,0:14:59.69,Default,,0,0,0,,If that one takes our side now,\Nthey won't be able to stay where they are
+Dialogue: 0,0:14:59.73,0:15:01.73,Default,,0,0,0,,and the Government will hunt them down!
+Dialogue: 0,0:15:01.85,0:15:03.19,Default,,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:15:03.31,0:15:05.32,Default,,0,0,0,,So that's what happened...
+Dialogue: 0,0:15:05.44,0:15:06.07,Default,,0,0,0,,What?
+Dialogue: 0,0:15:06.61,0:15:08.78,Default,,0,0,0,,Now I'm stuck in the lab.
+Dialogue: 0,0:15:08.90,0:15:12.53,Default,,0,0,0,,Hey! Don't tell me... Wait!\NThat's not a good idea!
+Dialogue: 0,0:15:12.57,0:15:14.03,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:15:14.16,0:15:18.00,Default,,0,0,0,,I'm sorry, but could you save me-{\i1}Quasar?{\i0}
+Dialogue: 0,0:15:18.12,0:15:20.50,Default,,0,0,0,,What a shameless cry for help!
+Dialogue: 0,0:15:20.62,0:15:23.84,Default,,0,0,0,,{\i1}Of course.\NI've been waiting for your order.{\i0}
+Dialogue: 0,0:15:24.25,0:15:25.46,Default,,0,0,0,,Clank.
+Dialogue: 0,0:15:26.50,0:15:30.72,Default,,0,0,0,,They said they'd help me!\NThey were waiting for my order!
+Dialogue: 0,0:15:31.51,0:15:33.80,Default,,0,0,0,,Looks like that's the best option we got.
+Dialogue: 0,0:15:33.93,0:15:35.05,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:15:35.10,0:15:39.68,Default,,0,0,0,,Once they get CP-0 under control,\Nhonestly, escape is a piece of cake!
+Dialogue: 0,0:15:40.18,0:15:42.56,Default,,0,0,0,,Stella! Get on board Straw Hat's ship!
+Dialogue: 0,0:15:42.98,0:15:44.06,Default,,0,0,0,,All right!
+Dialogue: 0,0:15:44.11,0:15:47.65,Default,,0,0,0,,And then I'll take the ship to the port\Nwith Vegaforce-01!
+Dialogue: 0,0:15:47.78,0:15:49.19,Default,,0,0,0,,That's good. Now hurry up.
+Dialogue: 0,0:15:49.74,0:15:51.61,Default,,0,0,0,,Don't boss us around!
+Dialogue: 0,0:15:51.65,0:15:54.03,Default,,0,0,0,,That's the part of you\Nthat gets on my nerves!
+Dialogue: 0,0:15:54.66,0:15:56.95,Default,,0,0,0,,Now, let's start escaping.
+Dialogue: 0,0:15:57.08,0:15:58.74,Default,,0,0,0,,Don't ignore me!
+Dialogue: 0,0:16:01.46,0:16:03.42,Default,,0,0,0,,All right, guys.
+Dialogue: 0,0:16:03.83,0:16:07.71,Default,,0,0,0,,I'm ready\Nso let me aboard your ship first-{\i1}Quasar{\i0}.
+Dialogue: 0,0:16:07.84,0:16:09.05,Default,,0,0,0,,Yeah! Let's go!
+Dialogue: 0,0:16:09.59,0:16:12.13,Default,,0,0,0,,Oh, wait.\NThere are seven of us that need a ride.
+Dialogue: 0,0:16:12.59,0:16:13.38,Default,,0,0,0,,Seven?
+Dialogue: 0,0:16:13.51,0:16:16.14,Default,,0,0,0,,Does it mean all the Vegapunks?!
+Dialogue: 0,0:16:16.26,0:16:19.93,Default,,0,0,0,,Going on a voyage\Nwith seven of the world's best scientists!
+Dialogue: 0,0:16:19.97,0:16:21.10,Default,,0,0,0,,{\i1}Super{\i0}!
+Dialogue: 0,0:16:21.23,0:16:24.23,Default,,0,0,0,,What? That's bothersome.
+Dialogue: 0,0:16:24.27,0:16:26.23,Default,,0,0,0,,It's becoming more and more of a burden!
+Dialogue: 0,0:16:26.36,0:16:28.86,Default,,0,0,0,,Seven Vegapunks...
+Dialogue: 0,0:16:28.90,0:16:30.61,Default,,0,0,0,,Does that mean...
+Dialogue: 0,0:16:30.99,0:16:33.78,Default,,0,0,0,,...Lilith-chan will come along?!
+Dialogue: 0,0:16:33.82,0:16:36.03,Default,,0,0,0,,Then you're totally welcome!
+Dialogue: 0,0:16:36.07,0:16:38.95,Default,,0,0,0,,Lilith-chan!
+Dialogue: 0,0:16:42.71,0:16:44.58,Default,,0,0,0,,Vegapunk!
+Dialogue: 0,0:16:46.17,0:16:48.75,Default,,0,0,0,,How dare you attack me with the bugs?!
+Dialogue: 0,0:16:50.34,0:16:52.97,Default,,0,0,0,,Bugs!
+Dialogue: 0,0:16:53.09,0:16:55.09,Default,,0,0,0,,Calm down, Bonney!
+Dialogue: 0,0:16:55.13,0:16:59.43,Default,,0,0,0,,Oh no! Her anger at Vegapunk has completely\Nturned into resentment over the bugs!
+Dialogue: 0,0:16:59.56,0:17:03.81,Default,,0,0,0,,Hey! I promised him\NI would get him out of here!
+Dialogue: 0,0:17:03.85,0:17:05.94,Default,,0,0,0,,Don't kick his ass, Bonney!
+Dialogue: 0,0:17:06.06,0:17:08.44,Default,,0,0,0,,I won't forgive him!
+Dialogue: 0,0:17:14.99,0:17:16.16,Default,,0,0,0,,What's that?
+Dialogue: 0,0:17:19.83,0:17:24.08,Default,,0,0,0,,{\i1}Labophase defense system,\NFrontier Dome, deactivated.{\i0}
+Dialogue: 0,0:17:24.62,0:17:28.54,Default,,0,0,0,,{\i1}Labophase defense system,\NFrontier Dome, deactivated.{\i0}
+Dialogue: 0,0:17:29.25,0:17:32.46,Default,,0,0,0,,Why? Who did it? What's their purpose?
+Dialogue: 0,0:17:32.59,0:17:35.13,Default,,0,0,0,,Pythagoras! What's going on?!
+Dialogue: 0,0:17:35.26,0:17:39.18,Default,,0,0,0,,I don't know! The Frontier Dome...\NThe interception alert has been lifted!
+Dialogue: 0,0:17:39.85,0:17:43.98,Default,,0,0,0,,The enemy can make it to the Labophase\Nwithout any obstacles!
+Dialogue: 0,0:17:44.85,0:17:46.73,Default,,0,0,0,,Is there anybody in the control room?!
+Dialogue: 0,0:17:47.31,0:17:48.44,Default,,0,0,0,,Let me check!
+Dialogue: 0,0:17:50.61,0:17:54.32,Default,,0,0,0,,Confirmed!\NI see no one in the control room!
+Dialogue: 0,0:17:55.40,0:17:58.36,Default,,0,0,0,,Then who did it?!
+Dialogue: 0,0:18:03.20,0:18:06.12,Default,,0,0,0,,{\i1}The Frontier Dome is deactivated.{\i0}
+Dialogue: 0,0:18:06.83,0:18:08.21,Default,,0,0,0,,What happened all of a sudden?
+Dialogue: 0,0:18:08.33,0:18:12.42,Default,,0,0,0,,Lucci! The barrier is deactivated!\NNow is our chance!
+Dialogue: 0,0:18:12.55,0:18:14.76,Default,,0,0,0,,Wait. It could be a trap.
+Dialogue: 0,0:18:16.09,0:18:21.01,Default,,0,0,0,,If this is true, it's a great chance!\NWe don't wanna miss it!
+Dialogue: 0,0:18:21.14,0:18:23.06,Default,,0,0,0,,This is too convenient for us.
+Dialogue: 0,0:18:23.76,0:18:25.43,Default,,0,0,0,,Don't you think it's strange?
+Dialogue: 0,0:18:25.56,0:18:28.31,Default,,0,0,0,,We'll know if it's a trap or not\Nonce we get close to it!
+Dialogue: 0,0:18:28.35,0:18:31.06,Default,,0,0,0,,If we just stay here,\Nwe can't fulfill our mission!
+Dialogue: 0,0:18:31.11,0:18:32.65,Default,,0,0,0,,I'm going!
+Dialogue: 0,0:18:33.32,0:18:34.90,Default,,0,0,0,,Follow me!
+Dialogue: 0,0:18:35.69,0:18:36.90,Default,,0,0,0,,That's what he said.
+Dialogue: 0,0:18:46.70,0:18:50.92,Default,,0,0,0,,See?! It doesn't activate!\NIt's turned off as I thought!
+Dialogue: 0,0:18:51.04,0:18:52.75,Default,,0,0,0,,It wasn't a trap!
+Dialogue: 0,0:18:52.88,0:18:56.71,Default,,0,0,0,,This is our chance! This is our chance!\NWe've got the best chance!
+Dialogue: 0,0:18:57.26,0:18:59.51,Default,,0,0,0,,Your life is at stake now,
+Dialogue: 0,0:18:59.55,0:19:03.51,Default,,0,0,0,,but I guess you're down on your luck,\NVegapunk.
+Dialogue: 0,0:19:06.22,0:19:08.77,Default,,0,0,0,,Is that the Straw Hats' ship?
+Dialogue: 0,0:19:11.85,0:19:13.36,Default,,0,0,0,,There is a robot, too!
+Dialogue: 0,0:19:13.86,0:19:15.07,Default,,0,0,0,,I get it now.
+Dialogue: 0,0:19:15.86,0:19:18.15,Default,,0,0,0,,This is why we didn't see their ship\Ndown there.
+Dialogue: 0,0:19:21.07,0:19:23.07,Default,,0,0,0,,Let's destroy it.
+Dialogue: 0,0:19:32.71,0:19:34.59,On Top,,0,0,0,,JUSTICE
+Dialogue: 0,0:19:34.71,0:19:38.46,Default,,0,0,0,,So the Straw Hats are siding with Vegapunk.
+Dialogue: 0,0:19:39.55,0:19:42.34,Default,,0,0,0,,Then they can escape easily.
+Dialogue: 0,0:19:44.93,0:19:47.89,Default,,0,0,0,,But it probably...
+Dialogue: 0,0:19:51.14,0:19:54.73,Default,,0,0,0,,...won't turn out the way they imagine.
+Dialogue: 0,0:19:59.49,0:20:01.90,Default,,0,0,0,,Proceed as planned.
+Dialogue: 0,0:20:02.41,0:20:04.99,Default,,0,0,0,,Send all the available ships...
+Dialogue: 0,0:20:06.78,0:20:08.99,Default,,0,0,0,,...to Egghead.
+Dialogue: 0,0:20:16.04,0:20:21.17,On Top,,0,0,0,,{\i1}doredake hashitte kita noka{\i0}
+Dialogue: 0,0:20:16.04,0:20:21.17,Default,,0,0,0,,{\i1}How far I have run{\i0}
+Dialogue: 0,0:20:21.88,0:20:28.47,On Top,,0,0,0,,{\i1}wakaranai mama kizuato kazoeta{\i0}
+Dialogue: 0,0:20:21.88,0:20:28.47,Default,,0,0,0,,{\i1}Without knowing it, I counted scars{\i0}
+Dialogue: 0,0:20:28.93,0:20:35.90,On Top,,0,0,0,,{\i1}zutto atama no naka ni aru takara no chizu{\i0}
+Dialogue: 0,0:20:28.93,0:20:35.90,Default,,0,0,0,,{\i1}A treasure map in my head all along{\i0}
+Dialogue: 0,0:20:35.94,0:20:42.40,On Top,,0,0,0,,{\i1}mirai wo sagashi tsuzuketeru{\i0}
+Dialogue: 0,0:20:35.94,0:20:42.40,Default,,0,0,0,,{\i1}Still looking for the future{\i0}
+Dialogue: 0,0:20:42.45,0:20:49.12,On Top,,0,0,0,,{\i1}hontou no yakusoku wa{\i0}
+Dialogue: 0,0:20:42.45,0:20:49.12,Default,,0,0,0,,{\i1}The real promise{\i0}
+Dialogue: 0,0:20:49.16,0:20:56.29,On Top,,0,0,0,,{\i1}mune no oku no motto oku ni aru{\i0}
+Dialogue: 0,0:20:49.16,0:20:56.29,Default,,0,0,0,,{\i1}Lies much deeper in my heart{\i0}
+Dialogue: 0,0:20:56.33,0:21:05.43,On Top,,0,0,0,,{\i1}dare mo mina oitsukenai yume{\i0}
+Dialogue: 0,0:20:56.33,0:21:05.43,Default,,0,0,0,,{\i1}A dream that no one can catch up with{\i0}
+Dialogue: 0,0:21:05.47,0:21:11.14,On Top,,0,0,0,,{\i1}tada hitotsu dakishimete{\i0}
+Dialogue: 0,0:21:05.47,0:21:11.14,Default,,0,0,0,,{\i1}That's all I hold on to{\i0}
+Dialogue: 0,0:21:11.18,0:21:18.23,On Top,,0,0,0,,{\i1}taiyou no youni warau anata e{\i0}
+Dialogue: 0,0:21:11.18,0:21:18.23,Default,,0,0,0,,{\i1}To you who smiles like the sun{\i0}
+Dialogue: 0,0:21:18.27,0:21:25.15,On Top,,0,0,0,,{\i1}ano hi to onaji uta wo utau yo{\i0}
+Dialogue: 0,0:21:18.27,0:21:25.15,Default,,0,0,0,,{\i1}I'll sing the same song as that day{\i0}
+Dialogue: 0,0:21:25.20,0:21:32.20,On Top,,0,0,0,,{\i1}otona ni nattemo wasuretakunai{\i0}
+Dialogue: 0,0:21:25.20,0:21:32.20,Default,,0,0,0,,{\i1}This wish I don't want to forget even when I grow up{\i0}
+Dialogue: 0,0:21:32.24,0:21:39.67,On Top,,0,0,0,,{\i1}kono negai ga todoku made{\i0}
+Dialogue: 0,0:21:32.24,0:21:39.67,Default,,0,0,0,,{\i1}Until it reaches you{\i0}
+Dialogue: 0,0:21:46.34,0:21:50.60,Default,,0,0,0,,{\i1}"Dive into the Sea of Information!\NThe Punk Records Library!"{\i0}
+Dialogue: 0,0:21:51.10,0:21:56.27,Default,,0,0,0,,Hi, I'm Lilith, one of the Satellites of\NDr. Vegapunk, the genius scientist!
+Dialogue: 0,0:21:56.39,0:21:59.06,Default,,0,0,0,,I'm Edison, also Vegapunk!
+Dialogue: 0,0:21:59.10,0:22:01.61,Default,,0,0,0,,Today we'll introduce this one!\NBorsalino!
+Dialogue: 0,0:22:01.73,0:22:05.07,Default,,0,0,0,,He is a Navy Headquarters Admiral\Nand also known as Kizaru.
+Dialogue: 0,0:22:05.11,0:22:06.90,Default,,0,0,0,,He is a Glint-Glint Fruit power user
+Dialogue: 0,0:22:06.95,0:22:11.62,Default,,0,0,0,,which enables him to transform his body into\Nphotons to move and attack at the speed of light.
+Dialogue: 0,0:22:11.74,0:22:14.45,Default,,0,0,0,,His motto is "Uncertain Justice"!
+Dialogue: 0,0:22:14.50,0:22:16.62,Default,,0,0,0,,He's an elusive person.
+Dialogue: 0,0:22:16.66,0:22:22.13,Default,,0,0,0,,He was born on November 23rd and\Nlikes ginger, bananas, and miso ramen!
+Dialogue: 0,0:22:22.17,0:22:27.30,Default,,0,0,0,,After receiving reports\Nthat a Celestial Dragon had been harmed,
+Dialogue: 0,0:22:27.34,0:22:29.59,Default,,0,0,0,,he went to Sabaody Archipelago\Nto capture the Straw Hats.
+Dialogue: 0,0:22:33.18,0:22:37.52,Default,,0,0,0,,Their era is just about to begin!
+Dialogue: 0,0:22:37.64,0:22:40.52,Default,,0,0,0,,The crimes of a pirate cannot just go away.
+Dialogue: 0,0:22:40.65,0:22:42.44,Default,,0,0,0,,He had them on the edge,
+Dialogue: 0,0:22:42.48,0:22:45.48,Default,,0,0,0,,but was interrupted by Rayleigh and Kuma\Nand let them escape.
+Dialogue: 0,0:22:45.61,0:22:50.74,Default,,0,0,0,,In the Paramount War, he got in the way of\Nthe Whitebeard Pirates and Luffy
+Dialogue: 0,0:22:50.78,0:22:53.03,Default,,0,0,0,,who were trying to rescue Ace\Nover and over again.
+Dialogue: 0,0:22:53.16,0:22:56.58,Default,,0,0,0,,He's now on his way to Egghead\Nalong with a fleet.
+Dialogue: 0,0:22:56.62,0:22:59.87,Default,,0,0,0,,Sentomaru who is on the island\Ncalls him Uncle.
+Dialogue: 0,0:22:59.92,0:23:02.75,Default,,0,0,0,,They seem to go way back.
+Dialogue: 0,0:23:02.79,0:23:05.13,Default,,0,0,0,,Pirates, the Navy, and Cipher Pol.
+Dialogue: 0,0:23:05.17,0:23:08.26,Default,,0,0,0,,What in the world is gonna\Nhappen to Egghead?!
+Dialogue: 0,0:23:08.38,0:23:10.01,Default,,0,0,0,,That's it for today!
+Dialogue: 0,0:23:10.05,0:23:13.10,Default,,0,0,0,,Now that you've seen it,\Ndonate to our research fund!
+Dialogue: 0,0:23:13.22,0:23:15.22,Default,,0,0,0,,See you next time!
+Dialogue: 0,0:23:19.77,0:23:21.77,Default,,0,0,0,,{\i1}What could the scientist be thinking?{\i0}
+Dialogue: 0,0:23:21.81,0:23:23.77,Default,,0,0,0,,{\i1}Even when cornered by Bonney,{\i0}
+Dialogue: 0,0:23:23.81,0:23:27.82,Default,,0,0,0,,{\i1}Vegapunk remains silent\Non why he modified Kuma.{\i0}
+Dialogue: 0,0:23:27.86,0:23:32.66,Default,,0,0,0,,{\i1}However, the daughter's intense feelings\Nfor her father outweigh his determination,{\i0}
+Dialogue: 0,0:23:32.70,0:23:35.53,Default,,0,0,0,,{\i1}and she pries open the door to the truth!{\i0}
+Dialogue: 0,0:23:35.95,0:23:40.66,Default,,0,0,0,,On the next episode of One Piece!\N"Turn Back My Father! Bonney's Futile Wish!"
+Dialogue: 0,0:23:40.71,0:23:45.71,Default,,0,0,0,,I'm gonna become the King of the Pirates!
