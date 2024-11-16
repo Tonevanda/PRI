@@ -14,10 +14,18 @@ curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/default_schema.json" \
     http://localhost:8983/solr/episodes/schema
 
-# Add params
-curl -X POST -H 'Content-type:application/json' \
-    --data-binary "@./data/params.json" \
-    http://localhost:8983/solr/episodes/config/params
+# Update default parameters with the ones added
+curl -X POST -H "Content-Type: application/json" \
+    http://localhost:8983/solr/episodes/config/requestHandler \
+    --data-binary '{
+    "update-requesthandler": {
+        "name": "/select",
+        "class": "solr.SearchHandler",
+        "defaults": {
+            "paramset": "default_params"
+        }
+    }
+    }'
 
 
 # Index data

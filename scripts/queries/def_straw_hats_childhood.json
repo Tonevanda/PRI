@@ -1,9 +1,5 @@
 {
-    "query": "straw hat pirates childhood east blue saga",
-    "fields": "id, Episode, score",
-    "params": {
-        "defType": "dismax",
-        "rows": 40,
-        "qf": "Title Arc Saga Summary episode_script"
-    }
+    "q": "straw hat pirates childhood east blue saga",
+    "fl": "id, Episode, score",
+    "useParams": "default_params"
 }

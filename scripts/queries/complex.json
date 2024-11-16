@@ -1,17 +1,5 @@
 {
-    "query": "$query",
-    "fields": "id, Episode, score",
-    "params": {
-        "q.op": "AND",
-        "defType": "edismax",
-        "rows": 30,
-        "qf": "Title^10 Arc^15 Saga^15 Summary^30 episode_script^10 anime_notes^15",
-        "mm": "7<80% 10<60% 15<50%",
-        "pf": "Summary^10 episode_script^5",
-        "ps": 5,
-        "qs": 2,
-        "tie": 0.1,
-        "stopwords": true,
-        "lowercaseOperators": true
-    }
+    "q": "$query",
+    "fl": "id, Episode, score",
+    "useParams": "params"
 }

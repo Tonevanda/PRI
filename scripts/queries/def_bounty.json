@@ -1,9 +1,5 @@
 {
-    "query": "straw hat pirates bounty raised",
-    "fields": "id, Episode, score",
-    "params": {
-        "defType": "dismax",
-        "rows": 30,
-        "qf": "Title Arc Saga Summary episode_script"
-    }
+    "q": "straw hat pirates bounty raised",
+    "fl": "id, Episode, score",
+    "useParams": "default_params"
 }

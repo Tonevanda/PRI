@@ -1,17 +1,5 @@
 {
-    "query": "admiral devil fruit reveal",
-    "fields": "id, Episode, score",
-    "params": {
-        "q.op": "AND",
-        "defType": "edismax",
-        "rows": 15,
-        "qf": "Title^20 Arc^15 Saga^15 Summary^10 anime_notes^5 episode_script^10",
-        "mm": "7<80% 10<60% 15<50%",
-        "pf": "Summary^10 episode_script^5 anime_notes",
-        "ps": 5,
-        "qs": 2,
-        "tie": 0.1,
-        "stopwords": true,
-        "lowercaseOperators": true
-    }
+    "q": "admiral devil fruit reveal",
+    "fl": "id, Episode, score",
+    "useParams": "params"
 }

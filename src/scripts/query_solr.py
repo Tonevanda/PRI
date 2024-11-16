@@ -5,6 +5,7 @@ import json
 import sys
 from pathlib import Path
 
+
 import requests
 
 
@@ -32,7 +33,8 @@ def fetch_solr_results(query_file, solr_uri, collection):
 
     try:
         # Send the POST request to Solr
-        response = requests.post(uri, json=query_params)
+
+        response = requests.post(uri, data=query_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
         response.raise_for_status()  # Raise error if the request failed
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
