@@ -31,11 +31,6 @@
             "docValues": true
         },
         {
-            "name": "float_number",
-            "class": "solr.FloatPointField",
-            "docValues": true
-        },
-        {
             "name": "date",
             "class": "solr.DatePointField",
             "docValues": true
@@ -86,7 +81,7 @@
         },
         {
             "name": "Season",
-            "type": "float_number",
+            "type": "number",
             "indexed": true,
             "stored": true
         },

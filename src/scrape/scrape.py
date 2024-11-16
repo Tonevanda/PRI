@@ -26,7 +26,6 @@ def date_converter(date):
 
 
 
-
     
 # Function to scrape the episode's information
 def scrape_episode(url):
@@ -69,7 +68,7 @@ def scrape_episode(url):
 
     season_piece=air_date.parent.parent.find_next_sibling().find_next_sibling()
     if len(season_piece) == 0 or 'pi-collapse' in season_piece['class']:
-        content_dict["Season"] = "N/A"
+        content_dict["Season"] = str(-1)
     else:
         season_num = int((season_piece.find_all("td"))[0].text)
         content_dict["Season"] = str(season_num)
