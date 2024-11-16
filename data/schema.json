@@ -112,6 +112,12 @@
             "type": "text",
             "indexed": true,
             "stored": true
+        },
+        {
+            "name": "anime_notes",
+            "type": "text",
+            "indexed": true,
+            "stored": true
         }
     ]
 }
