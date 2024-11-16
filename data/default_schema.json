@@ -20,6 +20,12 @@
             }
         },
         {
+            "name": "small_text",
+            "class": "solr.StrField",
+            "sortMissingLast": true,
+            "docValues": true
+        },
+        {
             "name": "number",
             "class": "solr.IntPointField",
             "docValues": true
@@ -62,13 +68,13 @@
         },
         {
             "name": "Opening",
-            "type": "text",
+            "type": "small_text",
             "indexed": true,
             "stored": true
         },
         {
             "name": "Ending",
-            "type": "text",
+            "type": "small_text",
             "indexed": true,
             "stored": true
         },

@@ -37,6 +37,12 @@
             }
         },
         {
+            "name": "small_text",
+            "class": "solr.StrField",
+            "sortMissingLast": true,
+            "docValues": true
+        },
+        {
             "name": "number",
             "class": "solr.IntPointField",
             "docValues": true
