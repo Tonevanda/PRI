@@ -1,0 +1,9 @@
+{
+    "query": "ancient weapon water 7 saga",
+    "fields": "id, Episode, score",
+    "params": {
+        "defType": "dismax",
+        "rows": 40,
+        "qf": "Title Arc Saga Summary episode_script"
+    }
+}

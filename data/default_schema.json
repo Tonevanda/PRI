@@ -20,12 +20,6 @@
             }
         },
         {
-            "name": "small_text",
-            "class": "solr.StrField",
-            "sortMissingLast": true,
-            "docValues": true
-        },
-        {
             "name": "number",
             "class": "solr.IntPointField",
             "docValues": true
@@ -56,38 +50,27 @@
         },
         {
             "name": "Arc",
-            "type": "small_text",
+            "type": "text",
             "indexed": true,
-            "stored": true,
-            "docValues": true
+            "stored": true
         },
         {
             "name": "Saga",
-            "type": "small_text",
+            "type": "text",
             "indexed": true,
-            "stored": true,
-            "docValues": true
+            "stored": true
         },
         {
             "name": "Opening",
-            "type": "small_text",
+            "type": "text",
             "indexed": true,
-            "stored": true,
-            "docValues": true
+            "stored": true
         },
         {
             "name": "Ending",
-            "type": "small_text",
-            "indexed": true,
-            "stored": true,
-            "docValues": true
-        },
-        {
-            "name": "Full_Text",
             "type": "text",
             "indexed": true,
-            "stored": false,
-            "multiValued": true
+            "stored": true
         },
         {
             "name": "Episode",
@@ -111,26 +94,7 @@
             "name": "episode_script",
             "type": "text",
             "indexed": true,
-            "stored": true,
-            "multiValued": false
-        }
-    ],
-    "add-copy-field": [
-        {
-            "source": "Title",
-            "dest": "Full_Text"
-        },
-        {
-            "source": "Summary",
-            "dest": "Full_Text"
-        },
-        {
-            "source": "Arc",
-            "dest": "Full_Text"
-        },
-        {
-            "source": "Saga",
-            "dest": "Full_Text"
+            "stored": true
         }
     ]
 }
