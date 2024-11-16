@@ -30,3 +30,14 @@ cat ../qrels/ancient_weapon.txt | python ../src/scripts/qrels2trec.py > ./result
 ../src/trec_eval/trec_eval ./results/qrels_trec.txt ./results/results_aw_trec.txt
 
 cat ./results/results_aw_trec.txt | python ../src/scripts/plot_pr.py --qrels ./results/qrels_trec.txt --output ./results/prec_rec_aw.png
+
+# Eval admiral devil fruit power reveal
+
+python ../src/scripts/query_solr.py --query queries/admiral_devil_fruit.json --uri http://localhost:8983/solr --collection episodes | \
+python ../src/scripts/solr2trec.py > ./results/results_adf_trec.txt
+
+cat ../qrels/admiral_devil_fruit.txt | python ../src/scripts/qrels2trec.py > ./results/qrels_trec.txt
+
+../src/trec_eval/trec_eval ./results/qrels_trec.txt ./results/results_aw_trec.txt
+
+cat ./results/results_aw_trec.txt | python ../src/scripts/plot_pr.py --qrels ./results/qrels_trec.txt --output ./results/prec_rec_adf.png
