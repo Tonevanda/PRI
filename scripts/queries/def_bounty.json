@@ -3,7 +3,7 @@
     "fields": "id, Episode, score",
     "params": {
         "defType": "dismax",
-        "rows": 40,
+        "rows": 30,
         "qf": "Title Arc Saga Summary episode_script"
     }
 }

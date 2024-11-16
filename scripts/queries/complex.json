@@ -1,5 +1,5 @@
 {
-    "query": "straw hat pirates bounty raised",
+    "query": "$query",
     "fields": "id, Episode, score",
     "params": {
         "q.op": "AND",
