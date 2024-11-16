@@ -23,19 +23,6 @@ def date_converter(date):
     return f"{date[2]}-{months[date[0]]}-{date[1][:-1]}"
 
 
-def scrape_anime_notes(anime_note):
-    anime_note_text = []
-
-    for anime_note_child in anime_note.findAll("li", recursive=False):
-        text = anime_note_child.find(text=True,recursive=False)
-        if "manga" not in text:
-            anime_note_text.append(text)
-            ul_tag = anime_note_child.find('ul', recursive=False)
-            if ul_tag:
-                anime_note_text.extend(scrape_anime_notes(ul_tag)) 
-
-
-    return anime_note_text
 
 
 
@@ -65,7 +52,6 @@ def scrape_episode(url):
 
     anime_notes = soup.find(lambda tag: tag.name =="h2" and tag.text == "Anime Notes[]")
     if(anime_notes):
-        #anime_notes_text = scrape_anime_notes(anime_notes.find_next("ul"))
         anime_notes_text = anime_notes.find_next("ul").text
         content_dict['Anime Notes'] = anime_notes_text
     else:
@@ -161,6 +147,7 @@ def scrape_sagas(saga_dict):
                     episode_data["Opening"].append(content_dict["Opening"])
                     episode_data["Ending"].append(content_dict["Ending"])
                     episode_data["Summary"].append(content_dict["Summary"])
+                    episode_data["Anime Notes"].append(content_dict["Anime Notes"])
 
     return episode_data
 
