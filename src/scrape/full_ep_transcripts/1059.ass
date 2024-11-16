@@ -1,0 +1,252 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.92,0:00:17.39,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:10.92,0:00:17.39,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:17.43,0:00:22.02,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:17.43,0:00:22.02,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:26.94,0:00:33.24,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha ni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:26.94,0:00:33.24,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:33.28,0:00:39.33,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae mo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:33.28,0:00:39.33,Default,,0000,0000,0000,,{\i1}Even the values we had built up were about to fall apart{\i0}
+Dialogue: 0,0:00:40.04,0:00:46.33,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga tadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:40.04,0:00:46.33,Default,,0000,0000,0000,,{\i1}Who knows if the compass is pointing in the right direction?{\i0}
+Dialogue: 0,0:00:46.38,0:00:49.92,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:46.38,0:00:49.92,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.22,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.22,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:56.26,0:01:03.06,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:00:56.26,0:01:03.06,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:01:03.39,0:01:09.82,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:03.39,0:01:09.82,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:09.86,0:01:14.40,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:09.86,0:01:14.40,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:15.53,0:01:18.57,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:15.53,0:01:18.57,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:18.62,0:01:22.29,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:18.62,0:01:22.29,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:22.79,0:01:26.58,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:22.79,0:01:26.58,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:26.62,0:01:32.13,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:26.62,0:01:32.13,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:32.17,0:01:39.05,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:32.17,0:01:39.05,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:39.09,0:01:45.48,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:39.09,0:01:45.48,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:45.52,0:01:51.27,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:45.52,0:01:51.27,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:51.32,0:01:54.65,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:51.32,0:01:54.65,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:54.69,0:01:58.61,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:54.69,0:01:58.61,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:58.66,0:02:04.62,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:01:58.66,0:02:04.62,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:02:13.00,0:02:16.76,Default,,0000,0000,0000,,{\i1}Onigashima is steadily\Nnearing the Flower Capital.{\i0}
+Dialogue: 0,0:02:16.80,0:02:21.22,Default,,0000,0000,0000,,{\i1}On it, many fierce battles\Nare taking place.{\i0}
+Dialogue: 0,0:02:22.18,0:02:23.93,Default,,0000,0000,0000,,I'll make it painful,
+Dialogue: 0,0:02:24.51,0:02:26.68,Default,,0000,0000,0000,,agonizing,
+Dialogue: 0,0:02:26.73,0:02:30.23,Default,,0000,0000,0000,,and messy for you.
+Dialogue: 0,0:02:38.15,0:02:40.49,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:02:40.61,0:02:43.41,Default,,0000,0000,0000,,--A lump of flames?\N--How annoying...
+Dialogue: 0,0:02:44.87,0:02:46.58,Default,,0000,0000,0000,,{\i1}What is he doing?!{\i0}
+Dialogue: 0,0:02:47.25,0:02:49.12,Default,,0000,0000,0000,,Imperial Deep Pride...
+Dialogue: 0,0:02:49.71,0:02:50.33,Default,,0000,0000,0000,,...Stake!
+Dialogue: 0,0:03:08.48,0:03:10.14,Default,,0000,0000,0000,,{\i1}This is not good...{\i0}
+Dialogue: 0,0:03:11.98,0:03:14.11,Default,,0000,0000,0000,,{\i1}Unless I figure out what it is,{\i0}
+Dialogue: 0,0:03:15.11,0:03:16.19,Default,,0000,0000,0000,,{\i1}I don't think...{\i0}
+Dialogue: 0,0:03:17.65,0:03:18.74,Default,,0000,0000,0000,,{\i1}...I can...{\i0}
+Dialogue: 0,0:03:24.16,0:03:26.33,Default,,0000,0000,0000,,{\i1}...beat him.{\i0}
+Dialogue: 0,0:03:28.54,0:03:32.33,Default,,0000,0000,0000,,{\i1}Is that a shamisen? No way.{\i0}
+Dialogue: 0,0:03:49.81,0:03:50.93,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:03:56.02,0:03:57.73,Default,,0000,0000,0000,,Enma is...!
+Dialogue: 0,0:04:01.15,0:04:01.99,Default,,0000,0000,0000,,My lord.
+Dialogue: 0,0:04:03.11,0:04:07.20,Default,,0000,0000,0000,,I am always with you.
+Dialogue: 0,0:04:10.45,0:04:13.92,Default,,0000,0000,0000,,If this is a dream, I don't wanna wake up!
+Dialogue: 0,0:04:20.01,0:04:24.76,Default,,0000,0000,0000,,{\i1}"Zoro Faces Adversity -\NA Monster! King the Wildfire"{\i0}
+Dialogue: 0,0:04:42.15,0:04:44.28,Default,,0000,0000,0000,,What's that?!\NIt's moving through the walls!
+Dialogue: 0,0:04:57.42,0:04:59.25,Default,,0000,0000,0000,,Into the abyss...
+Dialogue: 0,0:04:59.29,0:05:01.63,Default,,0000,0000,0000,,Into the abyss...
+Dialogue: 0,0:05:05.72,0:05:07.43,Default,,0000,0000,0000,,Shoot, shoot!
+Dialogue: 0,0:05:11.35,0:05:14.73,Default,,0000,0000,0000,,{\i1}I repeat!\NFrom the second floor to all floors!{\i0}
+Dialogue: 0,0:05:14.77,0:05:19.36,Default,,0000,0000,0000,,{\i1}The flame specter that's heading down\Nto the basement continues to descend!{\i0}
+Dialogue: 0,0:05:22.48,0:05:23.44,Default,,0000,0000,0000,,Descend?!
+Dialogue: 0,0:05:24.24,0:05:29.20,On Top,,0000,0000,0000,,CURRENT LOCATION / ARMORY
+Dialogue: 0,0:05:24.69,0:05:26.40,Default,,0000,0000,0000,,That's not good!
+Dialogue: 0,0:05:26.45,0:05:29.20,Default,,0000,0000,0000,,If it keeps descending,\Nit'll reach the armory!
+Dialogue: 0,0:05:32.12,0:05:34.70,Default,,0000,0000,0000,,If that happens...
+Dialogue: 0,0:05:34.75,0:05:37.50,Default,,0000,0000,0000,,it'll light up the stockpiled explosives...
+Dialogue: 0,0:05:40.67,0:05:42.21,Default,,0000,0000,0000,,I gotta hurry!
+Dialogue: 0,0:05:42.25,0:05:42.88,Default,,0000,0000,0000,,Fuga!
+Dialogue: 0,0:05:43.38,0:05:45.47,Default,,0000,0000,0000,,I want you to help me with something!
+Dialogue: 0,0:05:46.80,0:05:48.80,Default,,0000,0000,0000,,This way! Help me!
+Dialogue: 0,0:05:51.68,0:05:56.56,Default,,0000,0000,0000,,I wish we could rest\Non this nice soft bed for a little while,
+Dialogue: 0,0:05:57.98,0:06:00.31,Default,,0000,0000,0000,,but we should get going.
+Dialogue: 0,0:06:04.61,0:06:07.20,Default,,0000,0000,0000,,The CP-0 agents are\Njust behind the flames!
+Dialogue: 0,0:06:07.32,0:06:10.32,Default,,0000,0000,0000,,They'll come after us soon!\NLet's hurry up!
+Dialogue: 0,0:06:39.10,0:06:40.52,Default,,0000,0000,0000,,Nico Robin...
+Dialogue: 0,0:06:41.40,0:06:43.36,Default,,0000,0000,0000,,We won't let you get away...
+Dialogue: 0,0:06:51.62,0:06:54.70,Default,,0000,0000,0000,,Smile!\NI'm taking a commemorative photo for you!
+Dialogue: 0,0:06:55.24,0:06:58.87,Default,,0000,0000,0000,,"Celestial Dragons' Pets\Nat Kaido's Castle!"
+Dialogue: 0,0:06:59.41,0:07:02.88,Default,,0000,0000,0000,,This is a scoop!
+Dialogue: 0,0:07:06.50,0:07:10.47,Default,,0000,0000,0000,,Maybe I'll sell this story to Morgans\Nof the World Economic Journal!
+Dialogue: 0,0:07:13.97,0:07:15.72,Default,,0000,0000,0000,,The headline will go like this!
+Dialogue: 0,0:07:16.18,0:07:19.52,Default,,0000,0000,0000,,"The Government\NThat Lost Their Broker Doflamingo...
+Dialogue: 0,0:07:19.56,0:07:21.60,Default,,0000,0000,0000,,...Finally..."
+Dialogue: 0,0:07:40.08,0:07:41.25,Default,,0000,0000,0000,,Hey! Apoo?!
+Dialogue: 0,0:07:52.18,0:07:54.30,Default,,0000,0000,0000,,You're sticking your nose in too far.
+Dialogue: 0,0:07:57.06,0:07:58.72,Default,,0000,0000,0000,,X. Drake.
+Dialogue: 0,0:07:59.39,0:08:02.52,Default,,0000,0000,0000,,Do you think we don't know\Nwho you really are?
+Dialogue: 0,0:08:05.40,0:08:07.73,Default,,0000,0000,0000,,Then try to come up with a cover story!
+Dialogue: 0,0:08:13.15,0:08:14.95,Default,,0000,0000,0000,,Such an inconvenience...
+Dialogue: 0,0:08:20.91,0:08:22.04,Default,,0000,0000,0000,,...must be erased.
+Dialogue: 0,0:08:23.83,0:08:25.17,Default,,0000,0000,0000,,Scratch...
+Dialogue: 0,0:08:25.29,0:08:26.50,Default,,0000,0000,0000,,Finger Pistol.
+Dialogue: 0,0:08:33.47,0:08:35.18,Default,,0000,0000,0000,,Boom!
+Dialogue: 0,0:08:42.73,0:08:44.19,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:08:44.23,0:08:48.61,Default,,0000,0000,0000,,It hurts!\NYou Government assassins!
+Dialogue: 0,0:08:51.99,0:08:53.86,Default,,0000,0000,0000,,Oh, you're alive.
+Dialogue: 0,0:08:53.99,0:08:57.74,Default,,0000,0000,0000,,Shut up! I defended myself\Nwith the Color of Arms, you fool!
+Dialogue: 0,0:08:58.20,0:09:00.62,Default,,0000,0000,0000,,I'll make them pay for that!
+Dialogue: 0,0:09:03.12,0:09:05.87,Default,,0000,0000,0000,,And you're from the Navy, aren't you?!
+Dialogue: 0,0:09:06.58,0:09:07.96,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:09:08.00,0:09:10.17,Default,,0000,0000,0000,,Are you in or out?
+Dialogue: 0,0:09:10.67,0:09:12.80,Default,,0000,0000,0000,,Well, they started this fight!
+Dialogue: 0,0:09:13.26,0:09:14.76,Default,,0000,0000,0000,,No, you did.
+Dialogue: 0,0:09:14.88,0:09:18.30,Default,,0000,0000,0000,,Of course, I'm in!
+Dialogue: 0,0:10:03.52,0:10:06.35,Default,,0000,0000,0000,,I can do it! I know I can!
+Dialogue: 0,0:10:06.39,0:10:09.90,Default,,0000,0000,0000,,Just like Luffy! Just like Luffy, I...
+Dialogue: 0,0:10:13.98,0:10:15.07,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:10:28.04,0:10:31.25,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:11:14.34,0:11:16.46,Default,,0000,0000,0000,,{\i1}Why suddenly...?!{\i0}
+Dialogue: 0,0:11:17.01,0:11:19.38,Default,,0000,0000,0000,,Enma!
+Dialogue: 0,0:11:19.42,0:11:25.68,Default,,0000,0000,0000,,Who authorized you to unleash your power\Nwithout permission?!
+Dialogue: 0,0:11:30.14,0:11:31.39,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:11:36.69,0:11:37.98,Default,,0000,0000,0000,,Having a falling out?
+Dialogue: 0,0:12:01.01,0:12:01.88,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:22.20,0:12:23.82,Default,,0000,0000,0000,,What do you want?!
+Dialogue: 0,0:12:24.91,0:12:26.41,Default,,0000,0000,0000,,I'll give you a chance.
+Dialogue: 0,0:12:28.49,0:12:30.37,Default,,0000,0000,0000,,Do what you want.
+Dialogue: 0,0:12:33.00,0:12:34.25,Default,,0000,0000,0000,,Don't underestimate me!
+Dialogue: 0,0:12:44.76,0:12:45.59,Default,,0000,0000,0000,,Jackpot!
+Dialogue: 0,0:12:45.72,0:12:46.76,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:14.91,0:13:15.71,Default,,0000,0000,0000,,I am...
+Dialogue: 0,0:13:16.21,0:13:18.08,Default,,0000,0000,0000,,...Kozuki Momonosuke!
+Dialogue: 0,0:13:18.50,0:13:21.63,Default,,0000,0000,0000,,My promise to Luffy!\NYamato's confidence in me!
+Dialogue: 0,0:13:21.67,0:13:24.97,Default,,0000,0000,0000,,And the many lives of the Land of Wano!
+Dialogue: 0,0:13:25.47,0:13:27.43,Default,,0000,0000,0000,,I will not betray them!
+Dialogue: 0,0:13:28.26,0:13:34.23,Default,,0000,0000,0000,,That is why I transformed myself\Nand that is why I risk my life!
+Dialogue: 0,0:13:41.02,0:13:44.36,Default,,0000,0000,0000,,Where did you go?!\NIs that a science thing, too?!
+Dialogue: 0,0:13:44.40,0:13:46.74,Default,,0000,0000,0000,,Judge's son!
+Dialogue: 0,0:13:49.37,0:13:51.53,Default,,0000,0000,0000,,Hey, don't add fuel to the fire!
+Dialogue: 0,0:13:57.00,0:13:59.21,Default,,0000,0000,0000,,It's already burning!
+Dialogue: 0,0:14:03.80,0:14:05.72,Default,,0000,0000,0000,,I'll show you hell!
+Dialogue: 0,0:14:10.68,0:14:13.56,Default,,0000,0000,0000,,Hell Memories!
+Dialogue: 0,0:14:32.37,0:14:34.12,Default,,0000,0000,0000,,That was a good one.
+Dialogue: 0,0:14:34.16,0:14:37.00,Default,,0000,0000,0000,,But not quite satisfactory.
+Dialogue: 0,0:14:37.04,0:14:41.08,Default,,0000,0000,0000,,I wish I could've seen Germa's suit!
+Dialogue: 0,0:14:41.21,0:14:43.67,Default,,0000,0000,0000,,I told you not to add fuel to the fire!
+Dialogue: 0,0:14:43.80,0:14:47.05,Default,,0000,0000,0000,,Don't try to act strong, Judge's son!
+Dialogue: 0,0:14:47.09,0:14:50.80,Default,,0000,0000,0000,,You asked your friend for help\Nbecause you're mentally weak.
+Dialogue: 0,0:14:53.35,0:14:56.35,Default,,0000,0000,0000,,If I lose my mind,
+Dialogue: 0,0:14:57.02,0:14:59.02,Default,,0000,0000,0000,,you must kill me.
+Dialogue: 0,0:14:59.89,0:15:03.40,Default,,0000,0000,0000,,You were calling Pirate Hunter,\Nweren't you?!
+Dialogue: 0,0:15:04.40,0:15:06.82,Default,,0000,0000,0000,,He can't defeat King!
+Dialogue: 0,0:15:13.91,0:15:14.87,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:15:16.70,0:15:19.08,Default,,0000,0000,0000,,If I'd been slow in using the Color of Arms,\NI would've died...
+Dialogue: 0,0:15:32.51,0:15:37.01,Default,,0000,0000,0000,,{\i1}Such a huge explosion...\NWas he planning on dying with me?{\i0}
+Dialogue: 0,0:15:37.06,0:15:40.10,Default,,0000,0000,0000,,{\i1}Why is he alive?{\i0}
+Dialogue: 0,0:15:40.69,0:15:44.36,Default,,0000,0000,0000,,{\i1}Only a guy who wants to sacrifice his life\Nwould do that.{\i0}
+Dialogue: 0,0:15:54.41,0:15:56.37,Default,,0000,0000,0000,,{\i1}No one can escape death...{\i0}
+Dialogue: 0,0:15:58.04,0:16:01.58,Default,,0000,0000,0000,,{\i1}So I'm gonna just keep trying\Nuntil he dies!{\i0}
+Dialogue: 0,0:16:02.08,0:16:09.09,Default,,0000,0000,0000,,He's a remaining survivor of the Lunarians\Nwho were thought to be extinct!
+Dialogue: 0,0:16:09.13,0:16:13.72,Default,,0000,0000,0000,,They're monsters who were able to\Nsurvive in all natural environments!
+Dialogue: 0,0:16:13.76,0:16:18.76,Default,,0000,0000,0000,,Long ago, they were known as "gods"!
+Dialogue: 0,0:16:27.15,0:16:28.15,Default,,0000,0000,0000,,And?
+Dialogue: 0,0:16:28.98,0:16:31.74,Default,,0000,0000,0000,,Why did they become extinct?
+Dialogue: 0,0:16:31.86,0:16:34.57,Default,,0000,0000,0000,,Huh?! That's something...
+Dialogue: 0,0:16:35.62,0:16:38.24,Default,,0000,0000,0000,,...you should find in a history book!
+Dialogue: 0,0:16:53.80,0:16:56.01,Default,,0000,0000,0000,,One-Sword Style Iai...
+Dialogue: 0,0:17:02.23,0:17:03.18,Default,,0000,0000,0000,,...Death...
+Dialogue: 0,0:17:03.77,0:17:05.94,Default,,0000,0000,0000,,...Lion Song!
+Dialogue: 0,0:17:43.81,0:17:45.69,Default,,0000,0000,0000,,{\i1}That didn't work at all?!{\i0}
+Dialogue: 0,0:17:47.31,0:17:50.15,Default,,0000,0000,0000,,{\i1}That was obviously a stronger attack\Nthan the one that hit you!{\i0}
+Dialogue: 0,0:17:57.61,0:17:58.49,Default,,0000,0000,0000,,{\i1}A shamisen?{\i0}
+Dialogue: 0,0:18:06.71,0:18:08.25,Default,,0000,0000,0000,,Whoa, wait! Enma!
+Dialogue: 0,0:18:09.04,0:18:11.79,Default,,0000,0000,0000,,Imperial Deep Pride... Stake!
+Dialogue: 0,0:18:14.38,0:18:15.88,Default,,0000,0000,0000,,Enma! Not now!
+Dialogue: 0,0:18:35.99,0:18:40.07,Default,,0000,0000,0000,,I've never seen a swordsman\Nwho is held back by his sword!
+Dialogue: 0,0:18:45.20,0:18:47.08,Default,,0000,0000,0000,,Kitetsu III!
+Dialogue: 0,0:18:49.29,0:18:50.37,Default,,0000,0000,0000,,{\i1}That one!{\i0}
+Dialogue: 0,0:18:51.71,0:18:53.29,Default,,0000,0000,0000,,You have to choose that one!
+Dialogue: 0,0:18:53.75,0:18:55.25,Default,,0000,0000,0000,,Kitetsu III!
+Dialogue: 0,0:19:07.98,0:19:09.31,Default,,0000,0000,0000,,A cursed sword, huh?
+Dialogue: 0,0:19:10.44,0:19:11.56,Default,,0000,0000,0000,,You knew?!
+Dialogue: 0,0:19:11.69,0:19:14.19,Default,,0000,0000,0000,,No. I can just tell.
+Dialogue: 0,0:19:14.65,0:19:16.32,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:19:16.36,0:19:20.91,Default,,0000,0000,0000,,Starting with the very first one,\Nall the Kitetsu have been superior swords,
+Dialogue: 0,0:19:21.32,0:19:23.87,Default,,0000,0000,0000,,but every last one is cursed!
+Dialogue: 0,0:19:27.54,0:19:31.12,Default,,0000,0000,0000,,Many famous master swordsmen\Nhave met tragic deaths
+Dialogue: 0,0:19:31.17,0:19:33.21,Default,,0000,0000,0000,,after taking up Kitetsu swords.
+Dialogue: 0,0:19:33.25,0:19:38.21,Default,,0000,0000,0000,,These days, there ain't a single person\Nwho uses a Kitetsu.
+Dialogue: 0,0:19:38.26,0:19:42.68,Default,,0000,0000,0000,,Because you'll leave this world\Neven if you use them unknowingly!
+Dialogue: 0,0:19:45.22,0:19:48.06,Default,,0000,0000,0000,,I like it! I'll take it!
+Dialogue: 0,0:19:48.18,0:19:50.43,Default,,0000,0000,0000,,A-Are you a fool?! I can't sell it!
+Dialogue: 0,0:19:50.48,0:19:54.90,Default,,0000,0000,0000,,If you die because of it\Nthen it'd be like I killed you myself!
+Dialogue: 0,0:19:55.02,0:19:56.94,Default,,0000,0000,0000,,Then let's do this.
+Dialogue: 0,0:19:57.32,0:20:01.11,Default,,0000,0000,0000,,My luck, and this thing's curse...
+Dialogue: 0,0:20:01.53,0:20:04.66,Default,,0000,0000,0000,,Let's see which one's stronger.
+Dialogue: 0,0:20:05.83,0:20:09.91,Default,,0000,0000,0000,,If I lose, it just means\NI'm not good enough to go any farther.
+Dialogue: 0,0:20:13.12,0:20:14.21,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:14.58,0:20:19.34,Default,,0000,0000,0000,,Stop! It'll take your whole arm off!\NIts sharpness is the real deal!
+Dialogue: 0,0:20:42.65,0:20:44.20,Default,,0000,0000,0000,,I'll take it.
+Dialogue: 0,0:20:48.37,0:20:51.12,Default,,0000,0000,0000,,That Kitetsu looks different now.
+Dialogue: 0,0:20:52.20,0:20:55.37,Default,,0000,0000,0000,,It seems like he met a good owner.
+Dialogue: 0,0:20:56.42,0:21:00.75,Default,,0000,0000,0000,,Kitetsu III which you wield is my craft.
+Dialogue: 0,0:21:00.88,0:21:02.47,Default,,0000,0000,0000,,Is that so?!
+Dialogue: 0,0:21:06.93,0:21:08.80,Default,,0000,0000,0000,,Are you gonna die to save your sword?!
+Dialogue: 0,0:21:34.91,0:21:36.00,Default,,0000,0000,0000,,That was hot!
+Dialogue: 0,0:21:41.88,0:21:45.05,Default,,0000,0000,0000,,Oh, good. It didn't fall off.
+Dialogue: 0,0:21:46.97,0:21:48.89,Default,,0000,0000,0000,,Wado Ichimonji.
+Dialogue: 0,0:21:53.43,0:21:56.94,Default,,0000,0000,0000,,Sensei!\NLet me have her sword!
+Dialogue: 0,0:21:57.85,0:21:59.31,Default,,0000,0000,0000,,Yes. You can have it.
+Dialogue: 0,0:22:03.48,0:22:07.61,Default,,0000,0000,0000,,I'm going to get stronger for her, too!
+Dialogue: 0,0:22:07.66,0:22:10.70,Default,,0000,0000,0000,,I'm going to get strong enough\Nthat my name reaches to heaven!
+Dialogue: 0,0:22:10.74,0:22:14.37,Default,,0000,0000,0000,,I'm going to be\Nthe world's strongest swordsman!
+Dialogue: 0,0:22:14.50,0:22:15.58,Default,,0000,0000,0000,,Squirt.
+Dialogue: 0,0:22:15.62,0:22:21.13,Default,,0000,0000,0000,,Hiyori-{\i1}sama{\i0} gave you Enma, which I'm guessing\Nfits oddly comfortably in your hand, doesn't it?
+Dialogue: 0,0:22:22.04,0:22:24.71,Default,,0000,0000,0000,,It follows the same logic of\Ncursed swords.
+Dialogue: 0,0:22:24.76,0:22:27.68,Default,,0000,0000,0000,,The weak cannot handle them.
+Dialogue: 0,0:22:27.72,0:22:32.35,Default,,0000,0000,0000,,But the biggest reason why it fits comfortably\Nin your hand is, in a twist of fate,
+Dialogue: 0,0:22:32.64,0:22:38.10,Default,,0000,0000,0000,,...that Wado Ichimonji and Enma\Nwere crafted by the same person!
+Dialogue: 0,0:22:38.14,0:22:41.77,Default,,0000,0000,0000,,The legendary swordsmith,\NShimotsuki Kozaburo.
+Dialogue: 0,0:22:51.95,0:22:55.04,Default,,0000,0000,0000,,{\i1}It all happened so fast,\Nso I never really thought about it...{\i0}
+Dialogue: 0,0:22:58.87,0:23:01.92,Default,,0000,0000,0000,,{\i1}But how did a sword of the Land of Wano...{\i0}
+Dialogue: 0,0:23:02.33,0:23:04.80,Default,,0000,0000,0000,,{\i1}...end up in a remote region\Nin the East Blue?{\i0}
+Dialogue: 0,0:23:18.52,0:23:22.44,Default,,0000,0000,0000,,{\i1}Zoro still can't bring Enma's power\Nunder control and is cornered.{\i0}
+Dialogue: 0,0:23:22.48,0:23:28.78,Default,,0000,0000,0000,,{\i1}In the midst of despair, a memory surfaces\Nof an unnamed sword that he once held.{\i0}
+Dialogue: 0,0:23:28.82,0:23:30.36,Default,,0000,0000,0000,,{\i1}What is power?{\i0}
+Dialogue: 0,0:23:30.40,0:23:33.41,Default,,0000,0000,0000,,{\i1}The thoughts of the predecessor,\Nwhich are embedded in the blades,{\i0}
+Dialogue: 0,0:23:33.45,0:23:35.87,Default,,0000,0000,0000,,{\i1}now transcend time and space\Nto pose this question.{\i0}
+Dialogue: 0,0:23:36.54,0:23:41.33,Default,,0000,0000,0000,,On the next episode of One Piece! "The Secret of Enma!\NThe Cursed Sword Entrusted to Zoro"
+Dialogue: 0,0:23:41.37,0:23:45.63,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.63,0:23:47.63,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.63,0:23:49.63,Default,,0000,0000,0000,,

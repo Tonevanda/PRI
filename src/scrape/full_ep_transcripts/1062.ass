@@ -1,0 +1,238 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.11,0:00:17.61,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:11.11,0:00:17.61,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:17.61,0:00:22.24,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:17.61,0:00:22.24,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:27.11,0:00:33.45,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha ni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:27.11,0:00:33.45,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:33.45,0:00:39.53,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae mo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:33.45,0:00:39.53,Default,,0000,0000,0000,,{\i1}Even the values we had built up were about to fall apart{\i0}
+Dialogue: 0,0:00:40.20,0:00:46.53,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga tadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:40.20,0:00:46.53,Default,,0000,0000,0000,,{\i1}Who knows if the compass is pointing in the right direction?{\i0}
+Dialogue: 0,0:00:46.53,0:00:50.11,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:46.53,0:00:50.11,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:50.11,0:00:56.40,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:50.11,0:00:56.40,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:56.40,0:01:03.24,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:00:56.40,0:01:03.24,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:01:03.53,0:01:09.99,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:03.53,0:01:09.99,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:09.99,0:01:14.57,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:09.99,0:01:14.57,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:15.65,0:01:18.74,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:15.65,0:01:18.74,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:18.74,0:01:22.45,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:18.74,0:01:22.45,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:22.90,0:01:26.74,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:22.90,0:01:26.74,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:26.74,0:01:32.28,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:26.74,0:01:32.28,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:32.28,0:01:39.20,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:32.28,0:01:39.20,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.61,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:39.20,0:01:45.61,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:45.61,0:01:51.40,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:45.61,0:01:51.40,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:51.40,0:01:54.78,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:51.40,0:01:54.78,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:54.78,0:01:58.74,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:54.78,0:01:58.74,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:58.74,0:02:04.74,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:01:58.74,0:02:04.74,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:02:11.97,0:02:13.76,Default,,0000,0000,0000,,Ifrit Jambe!
+Dialogue: 0,0:02:14.72,0:02:17.26,Default,,0000,0000,0000,,Men should never hit women!
+Dialogue: 0,0:02:18.05,0:02:21.30,Default,,0000,0000,0000,,That's been common sense\Nsince the age of dinosaurs!
+Dialogue: 0,0:02:21.30,0:02:24.14,Default,,0000,0000,0000,,You scum! Collier!
+Dialogue: 0,0:02:29.55,0:02:30.85,Default,,0000,0000,0000,,Basses Cote!
+Dialogue: 0,0:02:32.35,0:02:33.43,Default,,0000,0000,0000,,Paleron!
+Dialogue: 0,0:02:35.35,0:02:36.89,Default,,0000,0000,0000,,Jumeau a Bifteck!
+Dialogue: 0,0:02:37.76,0:02:39.47,Default,,0000,0000,0000,,Tendron! Flanchet!
+Dialogue: 0,0:02:39.47,0:02:42.01,Default,,0000,0000,0000,,Queue! Poire! Jarret!
+Dialogue: 0,0:02:44.22,0:02:46.68,Default,,0000,0000,0000,,Boeuf Burst!
+Dialogue: 0,0:02:48.47,0:02:50.97,Default,,0000,0000,0000,,Fly away, you asshole!
+Dialogue: 0,0:03:03.47,0:03:06.26,Default,,0000,0000,0000,,{\i1}Thus, Sanji defeated Queen.{\i0}
+Dialogue: 0,0:03:06.26,0:03:08.68,Default,,0000,0000,0000,,{\i1}Meanwhile, at the Right-Brain Tower\Ninside the dome...{\i0}
+Dialogue: 0,0:03:09.30,0:03:10.30,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:03:10.30,0:03:12.26,Default,,0000,0000,0000,,Are you trying to be a king?
+Dialogue: 0,0:03:12.35,0:03:13.97,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:03:13.97,0:03:15.85,Default,,0000,0000,0000,,I have made...
+Dialogue: 0,0:03:16.60,0:03:18.60,Default,,0000,0000,0000,,...a promise to...
+Dialogue: 0,0:03:19.64,0:03:21.85,Default,,0000,0000,0000,,...my captain and best friend!
+Dialogue: 0,0:03:25.30,0:03:30.14,Default,,0000,0000,0000,,{\i1}"The Three-Sword Style of the Supreme King!\NZoro vs. King"{\i0}
+Dialogue: 0,0:03:32.30,0:03:34.39,Default,,0000,0000,0000,,A promise, huh?
+Dialogue: 0,0:03:34.85,0:03:36.18,Default,,0000,0000,0000,,But as long as...
+Dialogue: 0,0:03:36.18,0:03:38.47,Default,,0000,0000,0000,,...Kaido-{\i1}san{\i0} and I are around...
+Dialogue: 0,0:03:42.51,0:03:46.39,Default,,0000,0000,0000,,...that promise will never be fulfilled.
+Dialogue: 0,0:03:47.35,0:03:50.01,Default,,0000,0000,0000,,Along with that sword called Enma,
+Dialogue: 0,0:03:50.01,0:03:52.18,Default,,0000,0000,0000,,I'll send you to hell!
+Dialogue: 0,0:04:25.43,0:04:27.05,Default,,0000,0000,0000,,Nice try.
+Dialogue: 0,0:04:27.05,0:04:30.89,Default,,0000,0000,0000,,I'm sorry. My constitution is unusual.
+Dialogue: 0,0:04:30.89,0:04:32.93,Default,,0000,0000,0000,,Your sword attacks won't work against me.
+Dialogue: 0,0:04:38.55,0:04:41.64,Default,,0000,0000,0000,,You're that weak,\Nbut you wanna be a king?!
+Dialogue: 0,0:04:43.14,0:04:44.97,Default,,0000,0000,0000,,{\i1}I'm slashing him!{\i0}
+Dialogue: 0,0:04:45.47,0:04:47.89,Default,,0000,0000,0000,,{\i1}But it's not affecting him at all!{\i0}
+Dialogue: 0,0:04:52.93,0:04:53.89,Default,,0000,0000,0000,,Won't let you flee!
+Dialogue: 0,0:04:57.89,0:04:58.76,Default,,0000,0000,0000,,{\i1}Think!{\i0}
+Dialogue: 0,0:04:59.30,0:05:01.76,Default,,0000,0000,0000,,{\i1}It's not like he's unbreakable!{\i0}
+Dialogue: 0,0:05:04.51,0:05:06.30,Default,,0000,0000,0000,,{\i1}There must be a reason!{\i0}
+Dialogue: 0,0:05:11.85,0:05:14.64,Default,,0000,0000,0000,,Face your defeat and die!
+Dialogue: 0,0:05:22.51,0:05:23.55,Default,,0000,0000,0000,,Three-Sword Style!
+Dialogue: 0,0:05:26.15,0:05:28.57,Default,,0000,0000,0000,,Ultra Tiger Hunt!
+Dialogue: 0,0:05:48.15,0:05:49.24,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:06:02.61,0:06:04.53,Default,,0000,0000,0000,,{\i1}I thought so...{\i0}
+Dialogue: 0,0:06:04.53,0:06:08.11,Default,,0000,0000,0000,,{\i1}When the flames on his back go out,\Nhe gets faster...{\i0}
+Dialogue: 0,0:06:09.11,0:06:11.70,Default,,0000,0000,0000,,{\i1}But his defense gets weaker!{\i0}
+Dialogue: 0,0:06:16.36,0:06:18.53,Default,,0000,0000,0000,,King-{\i1}sama{\i0}'s mask...
+Dialogue: 0,0:06:18.61,0:06:21.32,Default,,0000,0000,0000,,So the rumor was true!
+Dialogue: 0,0:06:21.95,0:06:26.20,Default,,0000,0000,0000,,Black wings, white hair, and brown skin...
+Dialogue: 0,0:06:27.57,0:06:31.40,Default,,0000,0000,0000,,You'll get 100 million berries for\Ninforming the Government. He's the rare...
+Dialogue: 0,0:06:32.53,0:06:33.99,Default,,0000,0000,0000,,N-No, I mean...
+Dialogue: 0,0:06:34.07,0:06:36.03,Default,,0000,0000,0000,,Imperial Flaming Wings!
+Dialogue: 0,0:06:42.32,0:06:45.65,Default,,0000,0000,0000,,The castle's already on fire.
+Dialogue: 0,0:06:45.65,0:06:49.61,Default,,0000,0000,0000,,If you're a boss,\Nbe nice to your subordinates and stay cool.
+Dialogue: 0,0:06:52.65,0:06:55.45,Default,,0000,0000,0000,,If you can't focus, come out here.
+Dialogue: 0,0:06:56.03,0:06:58.45,Default,,0000,0000,0000,,100 million for informing the Government?
+Dialogue: 0,0:06:59.61,0:07:02.40,Default,,0000,0000,0000,,What tribe are you from?
+Dialogue: 0,0:07:14.19,0:07:16.69,Default,,0000,0000,0000,,Why ask when you're going to die soon?!
+Dialogue: 0,0:07:44.44,0:07:47.90,Default,,0000,0000,0000,,{\i1}He's definitely from\Na particular kind of tribe,{\i0}
+Dialogue: 0,0:07:48.44,0:07:51.02,Default,,0000,0000,0000,,{\i1}but that's none of my business!{\i0}
+Dialogue: 0,0:07:57.60,0:08:00.27,Default,,0000,0000,0000,,I don't have much time...
+Dialogue: 0,0:08:02.90,0:08:07.60,Default,,0000,0000,0000,,If this takes too long,\Nmy sword may take my life.
+Dialogue: 0,0:08:08.56,0:08:11.10,Default,,0000,0000,0000,,I see now the danger you pose.
+Dialogue: 0,0:08:13.52,0:08:15.02,Default,,0000,0000,0000,,Same to you.
+Dialogue: 0,0:08:15.52,0:08:17.77,Default,,0000,0000,0000,,You guys have reigned long enough.
+Dialogue: 0,0:08:18.10,0:08:20.60,Default,,0000,0000,0000,,It's time to go, you fools!
+Dialogue: 0,0:08:27.85,0:08:29.60,Default,,0000,0000,0000,,Don't push your luck!
+Dialogue: 0,0:08:29.85,0:08:33.06,Default,,0000,0000,0000,,Kaido-{\i1}san{\i0} is destined\Nto become the King of the Pirates!
+Dialogue: 0,0:08:34.69,0:08:37.77,Default,,0000,0000,0000,,I'm sorry but he won't.
+Dialogue: 0,0:08:41.81,0:08:43.23,Default,,0000,0000,0000,,King of Hell...
+Dialogue: 0,0:08:46.31,0:08:47.90,Default,,0000,0000,0000,,Three-Sword Style!
+Dialogue: 0,0:08:53.94,0:08:55.56,Default,,0000,0000,0000,,Purgatory...
+Dialogue: 0,0:08:58.69,0:09:00.15,Default,,0000,0000,0000,,...Oni Giri!
+Dialogue: 0,0:09:39.10,0:09:41.10,Default,,0000,0000,0000,,Are you trying to be a king?
+Dialogue: 0,0:09:41.19,0:09:42.73,Default,,0000,0000,0000,,I have made...
+Dialogue: 0,0:09:43.56,0:09:45.35,Default,,0000,0000,0000,,...a promise to...
+Dialogue: 0,0:09:46.81,0:09:48.98,Default,,0000,0000,0000,,...my captain and best friend!
+Dialogue: 0,0:09:50.02,0:09:51.48,Default,,0000,0000,0000,,King of Hell...
+Dialogue: 0,0:09:54.44,0:09:56.15,Default,,0000,0000,0000,,Three-Sword Style!
+Dialogue: 0,0:09:58.60,0:10:01.56,Default,,0000,0000,0000,,{\i1}This life was given to me by you.{\i0}
+Dialogue: 0,0:10:01.98,0:10:03.23,Default,,0000,0000,0000,,{\i1}Kaido-{\i0}san{\i1}.{\i0}
+Dialogue: 0,0:10:07.48,0:10:09.19,Default,,0000,0000,0000,,{\i1}This is Punk Hazard!{\i0}
+Dialogue: 0,0:10:09.19,0:10:13.65,Default,,0000,0000,0000,,{\i1}A guinea pig has gone out of control!\NThe restraints were removed by force!{\i0}
+Dialogue: 0,0:10:13.65,0:10:16.15,Default,,0000,0000,0000,,{\i1}Come in! Come in!{\i0}
+Dialogue: 0,0:10:18.81,0:10:20.90,Default,,0000,0000,0000,,{\i1}Stop! Go away!{\i0}
+Dialogue: 0,0:10:30.06,0:10:31.27,Default,,0000,0000,0000,,Let us out!
+Dialogue: 0,0:10:31.65,0:10:34.65,Default,,0000,0000,0000,,What have we done to you?!\NThis is stupid!
+Dialogue: 0,0:10:35.27,0:10:38.02,Default,,0000,0000,0000,,I will burn you all up!
+Dialogue: 0,0:10:57.77,0:10:59.94,Default,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:11:00.02,0:11:03.35,Default,,0000,0000,0000,,Me? I'm a pirate.
+Dialogue: 0,0:11:04.06,0:11:08.27,Default,,0000,0000,0000,,I see why the Government\Ncan't let you go.
+Dialogue: 0,0:11:08.27,0:11:10.40,Default,,0000,0000,0000,,You're a Lunarian, huh?
+Dialogue: 0,0:11:10.98,0:11:14.81,Default,,0000,0000,0000,,I saw the durability test earlier.
+Dialogue: 0,0:11:14.81,0:11:17.81,Default,,0000,0000,0000,,I'm impressed that you withstood\Nthat raging fire...
+Dialogue: 0,0:11:18.73,0:11:22.27,Default,,0000,0000,0000,,You're impressed because\NI'm a member of the legendary tribe?!
+Dialogue: 0,0:11:22.94,0:11:26.27,Default,,0000,0000,0000,,Are you gonna do the same to me\Nas they did?!
+Dialogue: 0,0:11:31.73,0:11:36.44,Default,,0000,0000,0000,,I'm gonna get out of here\Nand form a new pirate group.
+Dialogue: 0,0:11:37.77,0:11:40.35,Default,,0000,0000,0000,,What do you wanna do, guinea pig?
+Dialogue: 0,0:11:49.15,0:11:52.73,Default,,0000,0000,0000,,Make the not-so-fascinating world\Nfascinating!
+Dialogue: 0,0:11:53.02,0:11:56.10,Default,,0000,0000,0000,,Choose! I'll let you decide!
+Dialogue: 0,0:11:58.98,0:12:00.48,Default,,0000,0000,0000,,Can you change...
+Dialogue: 0,0:12:02.77,0:12:04.40,Default,,0000,0000,0000,,...the world?!
+Dialogue: 0,0:12:06.23,0:12:08.81,Default,,0000,0000,0000,,Only I can change it!
+Dialogue: 0,0:12:16.73,0:12:19.10,Default,,0000,0000,0000,,We found the escaped guinea pigs!
+Dialogue: 0,0:12:19.10,0:12:20.98,Default,,0000,0000,0000,,Stop them at any cost!
+Dialogue: 0,0:12:21.06,0:12:23.40,Default,,0000,0000,0000,,I'm gonna blow their heads off!
+Dialogue: 0,0:12:26.90,0:12:28.19,Default,,0000,0000,0000,,There aren't many pursuers.
+Dialogue: 0,0:12:28.27,0:12:31.06,Default,,0000,0000,0000,,Yeah. You're right.
+Dialogue: 0,0:12:31.15,0:12:32.40,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:12:38.69,0:12:40.56,Default,,0000,0000,0000,,Guns can't take them down!
+Dialogue: 0,0:12:46.10,0:12:47.98,Default,,0000,0000,0000,,That's quite something!
+Dialogue: 0,0:12:50.48,0:12:51.48,Default,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:12:58.77,0:13:01.31,Default,,0000,0000,0000,,Oh, I haven't asked you!
+Dialogue: 0,0:13:01.31,0:13:02.52,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:13:03.40,0:13:04.40,Default,,0000,0000,0000,,Alber.
+Dialogue: 0,0:13:04.48,0:13:07.65,Default,,0000,0000,0000,,Alber! You're strong!
+Dialogue: 0,0:13:08.40,0:13:11.81,Default,,0000,0000,0000,,Call yourself King hereafter!
+Dialogue: 0,0:13:13.40,0:13:14.35,Default,,0000,0000,0000,,King.
+Dialogue: 0,0:13:15.15,0:13:17.48,Default,,0000,0000,0000,,Stay behind me, King!
+Dialogue: 0,0:13:17.77,0:13:19.60,Default,,0000,0000,0000,,I won't sell you out!
+Dialogue: 0,0:13:19.90,0:13:22.94,Default,,0000,0000,0000,,You're my right-hand man from now on!
+Dialogue: 0,0:13:38.35,0:13:41.40,Default,,0000,0000,0000,,The world only needs one king!
+Dialogue: 0,0:13:41.85,0:13:44.90,Default,,0000,0000,0000,,{\i1}The flames are burning!\NIt's useless to attack now!{\i0}
+Dialogue: 0,0:13:45.69,0:13:47.65,Default,,0000,0000,0000,,Take this, Roronoa!
+Dialogue: 0,0:13:49.02,0:13:51.15,Default,,0000,0000,0000,,Imperial Flaming Wings!
+Dialogue: 0,0:14:04.15,0:14:06.10,Default,,0000,0000,0000,,These flames are like magma!
+Dialogue: 0,0:14:38.94,0:14:40.06,Default,,0000,0000,0000,,That thing again!
+Dialogue: 0,0:14:44.40,0:14:48.27,Default,,0000,0000,0000,,I won't let you take these fine swords!
+Dialogue: 0,0:15:28.90,0:15:30.98,Default,,0000,0000,0000,,{\i1}He's moving fast! That means...{\i0}
+Dialogue: 0,0:15:31.48,0:15:32.52,Default,,0000,0000,0000,,{\i1}...I can cut him!{\i0}
+Dialogue: 0,0:15:38.52,0:15:39.77,Default,,0000,0000,0000,,Bird Dance!
+Dialogue: 0,0:16:01.10,0:16:03.02,Default,,0000,0000,0000,,Seems like you figured out...
+Dialogue: 0,0:16:03.81,0:16:05.44,Default,,0000,0000,0000,,...the mechanics of my strength!
+Dialogue: 0,0:16:06.19,0:16:07.65,Default,,0000,0000,0000,,Yeah, I did!
+Dialogue: 0,0:16:07.65,0:16:11.40,Default,,0000,0000,0000,,Now you finally see your defeat!
+Dialogue: 0,0:16:29.83,0:16:30.54,Default,,0000,0000,0000,,Ultra...
+Dialogue: 0,0:16:32.33,0:16:34.25,Default,,0000,0000,0000,,...Tiger Hunt!
+Dialogue: 0,0:16:50.75,0:16:52.62,Default,,0000,0000,0000,,Why are you trying to block?!
+Dialogue: 0,0:16:53.04,0:16:55.08,Default,,0000,0000,0000,,I thought it wouldn't harm you!
+Dialogue: 0,0:16:55.08,0:16:58.70,Default,,0000,0000,0000,,Or are you scared of my attack?!
+Dialogue: 0,0:17:54.58,0:17:58.12,Default,,0000,0000,0000,,You're biologically incapable of\Ndefeating me!
+Dialogue: 0,0:18:13.79,0:18:18.00,Default,,0000,0000,0000,,I dislike making excuses like that\Nmore than anything!
+Dialogue: 0,0:18:19.58,0:18:23.04,Default,,0000,0000,0000,,I'll remember you as a ballsy swordsman!
+Dialogue: 0,0:18:24.33,0:18:26.33,Default,,0000,0000,0000,,I'll carve it into your memory for you!
+Dialogue: 0,0:18:28.16,0:18:30.83,Default,,0000,0000,0000,,Though I don't know if you can survive!
+Dialogue: 0,0:18:34.91,0:18:37.25,Default,,0000,0000,0000,,Imperial Flaming Wings!
+Dialogue: 0,0:19:37.41,0:19:40.04,Default,,0000,0000,0000,,King of Hell, Three-Sword Serpent!
+Dialogue: 0,0:19:53.29,0:19:55.20,Default,,0000,0000,0000,,103 Mercies!
+Dialogue: 0,0:19:59.29,0:20:03.37,Default,,0000,0000,0000,,This is it, Roronoa!
+Dialogue: 0,0:20:07.16,0:20:10.29,Default,,0000,0000,0000,,Dragon Damnation!
+Dialogue: 0,0:20:13.04,0:20:17.91,Default,,0000,0000,0000,,Extra Large Imperial Flaming Wings!
+Dialogue: 0,0:20:57.42,0:21:00.59,Default,,0000,0000,0000,,K-Kaido-{\i1}san{\i0}...
+Dialogue: 0,0:21:01.50,0:21:04.63,Default,,0000,0000,0000,,{\i1}You still think so, King?!{\i0}
+Dialogue: 0,0:21:05.05,0:21:07.38,Default,,0000,0000,0000,,That I'm Joyboy?
+Dialogue: 0,0:21:07.67,0:21:12.21,Default,,0000,0000,0000,,The world I'm looking to create\Nis the world you want?
+Dialogue: 0,0:21:14.75,0:21:16.42,Default,,0000,0000,0000,,A legend is a legend.
+Dialogue: 0,0:21:17.13,0:21:19.25,Default,,0000,0000,0000,,I don't wish for anything anymore.
+Dialogue: 0,0:21:20.34,0:21:23.50,Default,,0000,0000,0000,,My life was given to me by you.
+Dialogue: 0,0:21:24.17,0:21:27.00,Default,,0000,0000,0000,,You must remain the strongest!
+Dialogue: 0,0:21:28.25,0:21:29.80,Default,,0000,0000,0000,,I won't lose, either...
+Dialogue: 0,0:21:31.80,0:21:34.25,Default,,0000,0000,0000,,I'll make you the King of the Pirates!
+Dialogue: 0,0:21:44.46,0:21:51.21,Default,,0000,0000,0000,,{\i1}You need no less than\Nthe world's greatest swordsman, right?{\i0}
+Dialogue: 0,0:22:00.67,0:22:04.50,Default,,0000,0000,0000,,Until the day I defeat him\Nand become a master swordsman...
+Dialogue: 0,0:22:05.13,0:22:09.71,Default,,0000,0000,0000,,I'll never... be defeated!
+Dialogue: 0,0:22:10.21,0:22:14.05,Default,,0000,0000,0000,,Got any problems with that,\NKing of the Pirates?!
+Dialogue: 0,0:22:15.84,0:22:16.63,Default,,0000,0000,0000,,Nope!
+Dialogue: 0,0:22:19.00,0:22:21.25,Default,,0000,0000,0000,,I shall become...
+Dialogue: 0,0:22:25.13,0:22:27.21,Default,,0000,0000,0000,,...the king of hell!
+Dialogue: 0,0:22:51.75,0:22:55.63,Default,,0000,0000,0000,,{\i1}The battle of the Right-Brain Tower\Noutside the Skull Dome.{\i0}
+Dialogue: 0,0:23:01.73,0:23:02.98,Default,,0000,0000,0000,,{\i1}The winner...{\i0}
+Dialogue: 0,0:23:04.25,0:23:05.17,Default,,0000,0000,0000,,{\i1}...is Zoro!{\i0}
+Dialogue: 0,0:23:18.50,0:23:21.53,Default,,0000,0000,0000,,{\i1}Usopp, who maintains his determination to survive,\Neven if it is unsightly.{\i0}
+Dialogue: 0,0:23:21.92,0:23:26.75,Default,,0000,0000,0000,,{\i1}The samurai, who believe in the Straw Hats\Nand are determined to live on.{\i0}
+Dialogue: 0,0:23:26.75,0:23:31.05,Default,,0000,0000,0000,,{\i1}The time is near for the bullets of their souls{\i0}
+Dialogue: 0,0:23:31.05,0:23:33.26,Italics,,0000,0000,0000,,{\i1}to break the old wall that stands in the way
+Dialogue: 0,0:23:33.26,0:23:35.60,Italics,,0000,0000,0000,,of their unwavering spirits' anticipation for the future!{\i0}
+Dialogue: 0,0:23:36.38,0:23:41.09,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Luffy is on the Move! A Turning Point to a New Era!"
+Dialogue: 0,0:23:41.09,0:23:45.46,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.81,0:23:46.81,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.81,0:23:48.81,Default,,0000,0000,0000,,

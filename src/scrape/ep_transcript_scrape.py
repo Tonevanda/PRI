@@ -9,7 +9,7 @@ def scrape_subtitle_files():
         print(f"Directory '{directory}' does not exist.")
         return []
     
-    for i in range(1, 932):
+    for i in range(1, 1122):
         ass_path = os.path.join(directory, f"{i}.ass")
         srt_path = os.path.join(directory, f"{i}.srt")
         
@@ -43,10 +43,8 @@ def scrape_subtitle_files():
             print("filler lmao")
         else:
             print(i)
+            subtitles_list.append("")
 
-    # Loop from 932 to 1121 this will be removed later
-    for i in range(1052, 1243):
-        subtitles_list.append("not yet done")
     
     return subtitles_list
 
