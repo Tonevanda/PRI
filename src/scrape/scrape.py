@@ -161,6 +161,7 @@ def scrape_sagas(saga_dict):
                     episode_data["Opening"].append(content_dict["Opening"])
                     episode_data["Ending"].append(content_dict["Ending"])
                     episode_data["Summary"].append(content_dict["Summary"])
+                    episode_data["Anime Notes"].append(content_dict["Anime Notes"])
 
     return episode_data
 
