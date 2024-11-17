@@ -1,0 +1,50 @@
+{
+    "bounty": {
+        "q": "straw hat pirates bounty raised",
+        "collection": "episodes",
+        "useParams": "params",
+        "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
+    },
+    "def_bounty": {
+        "q": "straw hat pirates bounty raised",
+        "collection": "def_episodes",
+        "useParams": "default_params",
+        "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
+    },
+    "sh_childhood":{
+        "q": "straw hat pirates childhood east blue saga",
+        "collection": "episodes",
+        "useParams": "params",
+        "qrel": [4, 17, 19, 26]
+    },
+    "def_sh_childhood":{
+        "q": "straw hat pirates childhood east blue saga",
+        "collection": "def_episodes",
+        "useParams": "default_params",
+        "qrel": [4, 17, 19, 26]
+    },
+    "adf": {
+        "q": "admiral devil fruit reveal",
+        "collection": "episodes",
+        "useParams": "params",
+        "qrel": [1]
+    },
+    "def_adf": {
+        "q": "admiral devil fruit reveal",
+        "collection": "def_episodes",
+        "useParams": "default_params",
+        "qrel": [1]
+    },
+    "ancient_weapon": {
+        "q": "ancient weapon",
+        "collection": "episodes",
+        "useParams": "params",
+        "qrel": [2]
+    },
+    "def_ancient_weapon": {
+        "q": "ancient weapon",
+        "collection": "def_episodes",
+        "useParams": "default_params",
+        "qrel": [2]
+    }
+}

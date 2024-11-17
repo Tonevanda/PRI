@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import argparse
 
 
 def qrels_to_trec(qrels: list) -> None:
@@ -19,5 +20,17 @@ if __name__ == "__main__":
     """
     Read qrels from stdin and output them in TREC format.
     """
-    qrels = sys.stdin.readlines()
+
+    parser = argparse.ArgumentParser(
+        description="Fetch search results from Solr and output them in JSON format."
+    )
+    parser.add_argument(
+        "--qrels",
+        type=str,
+        required=True,
+        help="Qrels",
+    )
+    args = parser.parse_args()
+
+    qrels = args.qrels.split('-')
     qrels_to_trec(qrels)

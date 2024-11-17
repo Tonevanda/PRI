@@ -3,7 +3,6 @@
         {
             "name": "text",
             "class": "solr.TextField",
-            "positionIncrementGap": "100",
             "analyzer": {
                 "tokenizer": {
                     "class": "solr.StandardTokenizerFactory"

@@ -9,7 +9,7 @@ from pathlib import Path
 import requests
 
 
-def fetch_solr_results(query_file, solr_uri, collection):
+def fetch_solr_results(query, collection, params, solr_uri):
     """
     Fetch search results from a Solr instance based on the query parameters.
 
@@ -21,20 +21,18 @@ def fetch_solr_results(query_file, solr_uri, collection):
     Output:
     - Prints the JSON search results to STDOUT.
     """
-    # Load the query parameters from the JSON file
-    try:
-        query_params = json.load(open(query_file))
-    except FileNotFoundError:
-        print(f"Error: Query file {query_file} not found.")
-        sys.exit(1)
 
     # Construct the Solr request URL
     uri = f"{solr_uri}/{collection}/select"
 
     try:
         # Send the POST request to Solr
-
-        response = requests.post(uri, data=query_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        solr_params = {
+            "q": query,
+            "fl": "id, Episode, score",
+            "useParams": params
+        }
+        response = requests.post(uri, data=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
         response.raise_for_status()  # Raise error if the request failed
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
@@ -54,9 +52,21 @@ if __name__ == "__main__":
     # Add arguments for query file, Solr URI, and collection name
     parser.add_argument(
         "--query",
-        type=Path,
+        type=str,
         required=True,
-        help="Path to the JSON file containing the Solr query parameters.",
+        help="Query",
+    )
+    parser.add_argument(
+        "--collection",
+        type=str,
+        required=True,
+        help="Collection",
+    )
+    parser.add_argument(
+        "--useParams",
+        type=str,
+        required=True,
+        help="Params",
     )
     parser.add_argument(
         "--uri",
@@ -64,15 +74,9 @@ if __name__ == "__main__":
         default="http://localhost:8983/solr",
         help="The URI of the Solr instance (default: http://localhost:8983/solr).",
     )
-    parser.add_argument(
-        "--collection",
-        type=str,
-        default="courses",
-        help="Name of the Solr collection to query (default: 'courses').",
-    )
 
     # Parse command-line arguments
     args = parser.parse_args()
 
     # Call the function with parsed arguments
-    fetch_solr_results(args.query, args.uri, args.collection)
+    fetch_solr_results(args.query, args.collection, args.useParams, args.uri)
