@@ -23,28 +23,28 @@
         "useParams": "default_params",
         "qrel": [4, 19, 26, 17, 35, 36, 34]
     },
-    "adf": {
-        "q": "admiral devil fruit reveal",
+    "luffy_fight": {
+        "q": "luffy duels straw hat pirates",
         "collection": "episodes",
         "useParams": "params",
-        "qrel": [1]
+        "qrel": [66, 808, 236]
     },
-    "def_adf": {
-        "q": "admiral devil fruit reveal",
+    "def_luffy_fight": {
+        "q": "luffy duels straw hat pirates",
         "collection": "def_episodes",
         "useParams": "default_params",
-        "qrel": [1]
+        "qrel": [66, 808, 236]
     },
     "ancient_weapon": {
-        "q": "ancient weapon",
+        "q": "ancient weapon explained",
         "collection": "episodes",
         "useParams": "params",
-        "qrel": [2]
+        "qrel": [243, 118, 1082, 1080, 546, 569]
     },
     "def_ancient_weapon": {
-        "q": "ancient weapon",
+        "q": "ancient weapon explain",
         "collection": "def_episodes",
         "useParams": "default_params",
-        "qrel": [2]
+        "qrel": [243, 118, 1082, 1080, 546, 569]
     }
 }

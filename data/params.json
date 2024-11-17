@@ -4,7 +4,7 @@
             "q.op": "AND",
             "defType": "edismax",
             "rows": 30,
-            "qf": "Title^10 Arc^25 Saga^25 Summary^30 episode_script^10 anime_notes^15",
+            "qf": "Title^10 Arc^50 Saga^50 Summary^30 episode_script^10 anime_notes^15",
             "mm": "7<80% 10<60% 15<50%",
             "pf": "Summary^10 episode_script^5 anime_notes",
             "ps": 5,
@@ -15,7 +15,7 @@
         },
         "default_params":{
             "defType": "dismax",
-            "rows": 15,
+            "rows": 30,
             "qf": "Title Arc Saga Summary episode_script anime_notes"
         }
     }

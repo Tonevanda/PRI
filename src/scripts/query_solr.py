@@ -8,8 +8,7 @@ from pathlib import Path
 
 import requests
 
-sagas = ["east blue saga", "alabasta aaga", "sky island saga", "water 7 saga", "thriller bark saga",
-          "summit war saga", "fish-man island saga", "dressrosa saga", "whole cake island saga", "wano country saga", "final saga"]
+
 
 
 def fetch_solr_results(query, collection, params, solr_uri):
@@ -31,20 +30,12 @@ def fetch_solr_results(query, collection, params, solr_uri):
     try:
         # Send the POST request to Solr
 
-        bq = ""
 
-        if params == "params":
-            for saga in sagas:
-                if saga.lower() in query.lower():
-                    if bq != "":
-                        bq += " OR "
-                    bq += "Saga:\""+saga+"\"^50"
         
         solr_params = {
             "q": query,
             "fl": "id, Episode, score",
             "useParams": params,
-            "bq": bq
         }
 
         response = requests.post(uri, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
