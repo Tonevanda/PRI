@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.01,0:00:13.55,Default,,0,0,0,,{\i1}(All of us) us, us{\i}
+Dialogue: 0,0:00:11.01,0:00:13.55,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i}
+Dialogue: 0,0:00:13.59,0:00:18.93,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i}
+Dialogue: 0,0:00:13.59,0:00:18.93,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i}
+Dialogue: 0,0:00:23.69,0:00:26.27,Default,,0,0,0,,{\i1}The end of a dream, the end of the sea{\i}
+Dialogue: 0,0:00:23.69,0:00:26.27,On Top,,0,0,0,,{\i1}yume no hate umi no hate{\i}
+Dialogue: 0,0:00:26.31,0:00:28.98,Default,,0,0,0,,{\i1}We all have different places we want to go{\i}
+Dialogue: 0,0:00:26.31,0:00:28.98,On Top,,0,0,0,,{\i1}ikitai basho wa sorezore da{\i}
+Dialogue: 0,0:00:29.02,0:00:31.49,Default,,0,0,0,,{\i1}But first, we need{\i}
+Dialogue: 0,0:00:29.02,0:00:31.49,On Top,,0,0,0,,{\i1}dakedo hitotsu kagayakeru{\i}
+Dialogue: 0,0:00:31.53,0:00:35.86,Default,,0,0,0,,{\i1}To make a shining legend out of ourselves{\i}
+Dialogue: 0,0:00:31.53,0:00:35.86,On Top,,0,0,0,,{\i1}densetsu wo buchiagete kara da{\i}
+Dialogue: 0,0:00:37.32,0:00:39.70,Default,,0,0,0,,{\i1}Sparks fly, no limit, this is where it starts{\i}
+Dialogue: 0,0:00:37.32,0:00:39.70,On Top,,0,0,0,,{\i1}bachi bachi No limit koko kara ga{\i}
+Dialogue: 0,0:00:39.74,0:00:41.33,Default,,0,0,0,,{\i1}ONE PIECE!!{\i}
+Dialogue: 0,0:00:39.74,0:00:41.33,On Top,,0,0,0,,{\i1}ONE PIECE!!{\i}
+Dialogue: 0,0:00:41.37,0:00:43.96,Default,,0,0,0,,{\i1}All of us, I ask you travelers{\i}
+Dialogue: 0,0:00:41.37,0:00:43.96,On Top,,0,0,0,,{\i1}All of us tabibito ni tsugu{\i}
+Dialogue: 0,0:00:44.00,0:00:47.25,Default,,0,0,0,,{\i1}Are your dreams still pure?{\i}
+Dialogue: 0,0:00:44.00,0:00:47.25,On Top,,0,0,0,,{\i1}sono yume wa mada nigoccha inai ka?{\i}
+Dialogue: 0,0:00:49.38,0:00:55.72,Default,,0,0,0,,{\i1}Sleepless cells are shaken and burst{\i}
+Dialogue: 0,0:00:49.38,0:00:55.72,On Top,,0,0,0,,{\i1}nemurenai saibou ga kusugurare hajiketeku{\i}
+Dialogue: 0,0:00:55.76,0:01:02.47,Default,,0,0,0,,{\i1}Still, all of us, in the middle of an adventure{\i}
+Dialogue: 0,0:00:55.76,0:01:02.47,On Top,,0,0,0,,{\i1}ima mo All of us bouken no tochuu{\i}
+Dialogue: 0,0:01:02.52,0:01:04.98,Default,,0,0,0,,{\i1}All of us, I tell you travelers{\i}
+Dialogue: 0,0:01:02.52,0:01:04.98,On Top,,0,0,0,,{\i1}All of us tabibito e tsugu{\i}
+Dialogue: 0,0:01:05.02,0:01:08.77,Default,,0,0,0,,{\i1}No such thing as a pointless fight{\i}
+Dialogue: 0,0:01:05.02,0:01:08.77,On Top,,0,0,0,,{\i1}imi no nai tatakai wa nain da{\i}
+Dialogue: 0,0:01:10.57,0:01:12.90,Default,,0,0,0,,{\i1}When random contexts{\i}
+Dialogue: 0,0:01:10.57,0:01:12.90,On Top,,0,0,0,,{\i1}barabara no bunmyaku ga{\i}
+Dialogue: 0,0:01:12.94,0:01:16.86,Default,,0,0,0,,{\i1}Start to make sense on their own{\i}
+Dialogue: 0,0:01:12.94,0:01:16.86,On Top,,0,0,0,,{\i1}ishi wo mochi tsunagareba{\i}
+Dialogue: 0,0:01:16.91,0:01:23.29,Default,,0,0,0,,{\i1}The threads of time are spun back together{\i}
+Dialogue: 0,0:01:16.91,0:01:23.29,On Top,,0,0,0,,{\i1}toki no ito ga tsumugi naosareru{\i}
+Dialogue: 0,0:01:23.62,0:01:28.83,Default,,0,0,0,,{\i1}The world keeps changing along with us{\i}
+Dialogue: 0,0:01:23.62,0:01:28.83,On Top,,0,0,0,,{\i1}ore tachi to tomoni sekai kawari tsuzuketeru{\i}
+Dialogue: 0,0:01:28.88,0:01:31.38,Default,,0,0,0,,{\i1}(All of us) us, us{\i}
+Dialogue: 0,0:01:28.88,0:01:31.38,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i}
+Dialogue: 0,0:01:31.42,0:01:36.76,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i}
+Dialogue: 0,0:01:31.42,0:01:36.76,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i}
+Dialogue: 0,0:01:43.64,0:01:49.44,Default,,0,0,0,,{\i1}"The Entrusted Message!\NKing Cobra's Resolve"{\i}
+Dialogue: 0,0:01:54.65,0:01:58.07,Default,,0,0,0,,{\i1}No one is supposed to sit there.{\i}
+Dialogue: 0,0:02:06.62,0:02:11.29,Default,,0,0,0,,{\i1}No one is allowed to run the world\Nat their sole discretion!{\i}
+Dialogue: 0,0:02:13.50,0:02:17.09,Default,,0,0,0,,There are two things\Nthat I want to tell you...
+Dialogue: 0,0:02:17.13,0:02:20.47,Default,,0,0,0,,and one thing to ask you, Cobra.
+Dialogue: 0,0:02:20.59,0:02:22.35,Default,,0,0,0,,Who are you?!
+Dialogue: 0,0:02:24.26,0:02:26.35,Default,,0,0,0,,The name Imu sounds familiar.
+Dialogue: 0,0:02:26.89,0:02:30.85,Default,,0,0,0,,It must be a coincidence,\Nbut among the First Twenty...
+Dialogue: 0,0:02:30.98,0:02:32.90,Default,,0,0,0,,Don't be nosy...
+Dialogue: 0,0:02:33.57,0:02:35.07,Default,,0,0,0,,I won't answer...
+Dialogue: 0,0:02:37.32,0:02:40.41,Default,,0,0,0,,But I'll tell you what you want to know.
+Dialogue: 0,0:02:41.91,0:02:43.45,Default,,0,0,0,,"D" is...
+Dialogue: 0,0:02:43.83,0:02:47.62,Default,,0,0,0,,...the name of the people\Nwho once opposed us.
+Dialogue: 0,0:02:49.54,0:02:53.04,Default,,0,0,0,,It has appeared\Nin various places in recent years...
+Dialogue: 0,0:02:53.59,0:02:57.30,Default,,0,0,0,,in hollow shells who don't even know\Nthe meaning of their own name.
+Dialogue: 0,0:02:57.71,0:02:59.67,Default,,0,0,0,,But like everything else,
+Dialogue: 0,0:03:00.05,0:03:06.52,Default,,0,0,0,,it stems from\NQueen Lily's blunder 800 years ago...
+Dialogue: 0,0:03:06.64,0:03:07.68,Default,,0,0,0,,Blunder?!
+Dialogue: 0,0:03:08.27,0:03:13.15,Default,,0,0,0,,Same with the scholars\Nwho sniff around the 100-Year Void.
+Dialogue: 0,0:03:13.77,0:03:19.24,Default,,0,0,0,,And the pirates who seek\Nthe Ponegliffs to hunt treasure.
+Dialogue: 0,0:03:19.74,0:03:23.03,Default,,0,0,0,,If it weren't for Lily's mistake\Non that day,
+Dialogue: 0,0:03:23.87,0:03:27.37,Default,,0,0,0,,the loathsome artifacts\Ncalled the Ponegliffs...
+Dialogue: 0,0:03:27.41,0:03:31.21,Default,,0,0,0,,...would not be scattered\Nall over the world.
+Dialogue: 0,0:03:36.21,0:03:39.34,Default,,0,0,0,,One damning hypothesis...
+Dialogue: 0,0:03:39.38,0:03:42.68,Default,,0,0,0,,...can be made about this past event.
+Dialogue: 0,0:03:43.30,0:03:48.18,Default,,0,0,0,,Were the Ponegliffs unleashed\Nreally by mistake?
+Dialogue: 0,0:03:48.56,0:03:52.14,Default,,0,0,0,,Or was it planned?
+Dialogue: 0,0:03:58.61,0:04:00.15,Default,,0,0,0,,The answer to that...
+Dialogue: 0,0:04:00.65,0:04:04.87,Default,,0,0,0,,...must be written in Lily's letter\Nthat arrived in Alabasta.
+Dialogue: 0,0:04:06.78,0:04:08.33,Default,,0,0,0,,Why have you...
+Dialogue: 0,0:04:08.37,0:04:13.83,Default,,0,0,0,,...been referring to her only as\NQueen Lily of the Nefeltari Family...
+Dialogue: 0,0:04:14.17,0:04:15.29,Default,,0,0,0,,...all this time?
+Dialogue: 0,0:04:16.96,0:04:21.59,Default,,0,0,0,,Say the full name on the letter\Nthat the queen sent.
+Dialogue: 0,0:04:29.68,0:04:30.85,Default,,0,0,0,,{\i1}This is it.{\i}
+Dialogue: 0,0:04:31.35,0:04:36.27,Default,,0,0,0,,{\i1}I don't think I will be leaving this room alive.{\i}
+Dialogue: 0,0:04:39.69,0:04:42.82,Default,,0,0,0,,If I lie,\Nis there any chance you'll let me go?
+Dialogue: 0,0:04:42.86,0:04:48.20,Default,,0,0,0,,The moment you saw Imu-{\i1}sama{\i},\Nyour fate was sealed.
+Dialogue: 0,0:05:02.55,0:05:04.22,Default,,0,0,0,,{\i1}He's right...{\i}
+Dialogue: 0,0:05:04.51,0:05:06.93,Default,,0,0,0,,{\i1}It's the biggest taboo in the world...{\i}
+Dialogue: 0,0:05:18.73,0:05:22.32,Default,,0,0,0,,{\i1}What's this situation?\NIt's obviously not normal.{\i}
+Dialogue: 0,0:05:23.90,0:05:25.70,Default,,0,0,0,,This is how it was signed.
+Dialogue: 0,0:05:26.74,0:05:32.70,Default,,0,0,0,,The queen ruling the Kingdom of Alabasta\N800 years ago was...
+Dialogue: 0,0:05:36.46,0:05:38.08,Default,,0,0,0,,...Nefeltari...
+Dialogue: 0,0:05:42.09,0:05:43.59,Default,,0,0,0,,...D. Lily.
+Dialogue: 0,0:05:45.26,0:05:46.88,Default,,0,0,0,,"D"...
+Dialogue: 0,0:06:03.53,0:06:04.61,Default,,0,0,0,,Fire Fist!
+Dialogue: 0,0:06:09.53,0:06:11.03,Default,,0,0,0,,Rook Check!
+Dialogue: 0,0:06:15.79,0:06:17.33,Default,,0,0,0,,Where did you come from?!
+Dialogue: 0,0:06:46.44,0:06:49.36,Default,,0,0,0,,I was hoping\NI'd be able to take you all down,
+Dialogue: 0,0:06:49.40,0:06:52.74,Default,,0,0,0,,but I never expected to find hell\Nat the top of the world
+Dialogue: 0,0:07:09.47,0:07:10.84,Default,,0,0,0,,How annoying!
+Dialogue: 0,0:07:15.85,0:07:18.68,Default,,0,0,0,,You're... Luffy-{\i1}kun{\i}'s...
+Dialogue: 0,0:07:19.52,0:07:20.69,Default,,0,0,0,,...brother, right?
+Dialogue: 0,0:07:24.94,0:07:29.07,Default,,0,0,0,,You're a Revolutionary\Nbut you're helping me?
+Dialogue: 0,0:07:29.99,0:07:32.91,Default,,0,0,0,,Our enemies are\Nthe ones who sit above the kings...
+Dialogue: 0,0:07:33.45,0:07:34.62,Default,,0,0,0,,It's them.
+Dialogue: 0,0:07:35.37,0:07:36.95,Default,,0,0,0,,How do you know Luffy?
+Dialogue: 0,0:07:38.41,0:07:40.54,Default,,0,0,0,,He saved my life.
+Dialogue: 0,0:07:41.62,0:07:43.04,Default,,0,0,0,,That's so Luffy.
+Dialogue: 0,0:07:50.84,0:07:54.47,Default,,0,0,0,,Hold yourself together!\NI'll get you out of--
+Dialogue: 0,0:08:05.23,0:08:07.73,Default,,0,0,0,,Without me, you can make it.
+Dialogue: 0,0:08:07.77,0:08:11.15,Default,,0,0,0,,It's too late for me. Leave me behind!
+Dialogue: 0,0:08:11.28,0:08:12.11,Default,,0,0,0,,I'll save you!
+Dialogue: 0,0:08:14.36,0:08:16.83,Default,,0,0,0,,There is something I discovered.
+Dialogue: 0,0:08:18.33,0:08:21.33,Default,,0,0,0,,I don't want you to die here!
+Dialogue: 0,0:08:21.71,0:08:25.21,Default,,0,0,0,,I need you to tell Luffy-{\i1}kun{\i} and Vivi...
+Dialogue: 0,0:08:25.33,0:08:26.96,Default,,0,0,0,,Luffy and Princess Vivi?!
+Dialogue: 0,0:08:28.46,0:08:31.42,Default,,0,0,0,,Tell them that we share the moniker "D"!
+Dialogue: 0,0:08:31.55,0:08:32.59,Default,,0,0,0,,What?
+Dialogue: 0,0:08:37.60,0:08:38.85,Default,,0,0,0,,Is it a coincidence?
+Dialogue: 0,0:08:40.39,0:08:42.10,Default,,0,0,0,,Is what a coincidence?
+Dialogue: 0,0:08:42.23,0:08:43.60,Default,,0,0,0,,You both...
+Dialogue: 0,0:08:43.73,0:08:45.31,Default,,0,0,0,,They're cooked!
+Dialogue: 0,0:08:46.81,0:08:47.98,Default,,0,0,0,,Looks delicious!
+Dialogue: 0,0:08:48.11,0:08:49.98,Default,,0,0,0,,Hey! You can't take two at once!
+Dialogue: 0,0:08:50.11,0:08:51.48,Default,,0,0,0,,I'm hungry!
+Dialogue: 0,0:08:51.61,0:08:53.28,Default,,0,0,0,,But you can't...
+Dialogue: 0,0:08:54.82,0:08:55.66,Default,,0,0,0,,Yummy!
+Dialogue: 0,0:08:56.07,0:08:57.62,Default,,0,0,0,,Gee, man...
+Dialogue: 0,0:09:01.87,0:09:03.33,Default,,0,0,0,,Yeah, it's good!
+Dialogue: 0,0:09:03.66,0:09:04.37,Default,,0,0,0,,Sabo.
+Dialogue: 0,0:09:04.79,0:09:06.54,Default,,0,0,0,,You were just about to say something.
+Dialogue: 0,0:09:06.67,0:09:07.67,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:07.79,0:09:12.76,Default,,0,0,0,,I wonder if it's a coincidence\Nthat you both have "D" in your name.
+Dialogue: 0,0:09:12.88,0:09:13.97,Default,,0,0,0,,"D"?
+Dialogue: 0,0:09:14.09,0:09:17.47,Default,,0,0,0,,Monkey D. Luffy and Portgas D. Ace.
+Dialogue: 0,0:09:17.59,0:09:19.93,Default,,0,0,0,,There's "D" in both.
+Dialogue: 0,0:09:20.05,0:09:21.97,Default,,0,0,0,,Oh, yeah.
+Dialogue: 0,0:09:22.10,0:09:24.31,Default,,0,0,0,,I don't give a damn about names.
+Dialogue: 0,0:09:25.06,0:09:27.56,Default,,0,0,0,,Do you want a "D" initial, Sabo?
+Dialogue: 0,0:09:27.69,0:09:28.52,Default,,0,0,0,,What?!
+Dialogue: 0,0:09:28.65,0:09:31.15,Default,,0,0,0,,--Sa-D-Bo!\N--Don't put it there!
+Dialogue: 0,0:09:31.27,0:09:32.78,Default,,0,0,0,,I can put it wherever I like!
+Dialogue: 0,0:09:32.82,0:09:34.65,Default,,0,0,0,,Sa-D-Bo! Sa-D-Bo!
+Dialogue: 0,0:09:44.75,0:09:49.13,Default,,0,0,0,,I finally see the path Alabasta must take...
+Dialogue: 0,0:09:56.55,0:09:58.43,Default,,0,0,0,,Stay with me, King Cobra!
+Dialogue: 0,0:09:58.47,0:10:00.01,Default,,0,0,0,,Hold yourself together!
+Dialogue: 0,0:10:13.11,0:10:14.07,Default,,0,0,0,,King Cobra!
+Dialogue: 0,0:10:34.96,0:10:35.92,Default,,0,0,0,,King Cobra!
+Dialogue: 0,0:10:38.05,0:10:39.38,Default,,0,0,0,,"The Ponegliffs..."
+Dialogue: 0,0:10:45.14,0:10:47.52,Default,,0,0,0,,"Bear the flag of the dawn..."
+Dialogue: 0,0:10:49.35,0:10:52.44,Default,,0,0,0,,"Nefeltari D. Lily."
+Dialogue: 0,0:10:53.82,0:10:55.28,Default,,0,0,0,,I'm counting on you!
+Dialogue: 0,0:11:03.37,0:11:05.95,Default,,0,0,0,,{\i1}I'm counting on you, Sabo-{\i}kun{\i1}!{\i}
+Dialogue: 0,0:11:09.00,0:11:11.00,Default,,0,0,0,,King Cobra!
+Dialogue: 0,0:11:15.21,0:11:17.05,Default,,0,0,0,,{\i1}Live on!{\i}
+Dialogue: 0,0:11:58.63,0:12:00.55,Default,,0,0,0,,{\i1}Oh, no!{\i}
+Dialogue: 0,0:12:03.76,0:12:04.59,Default,,0,0,0,,Who's there?
+Dialogue: 0,0:12:10.27,0:12:12.23,Default,,0,0,0,,{\i1}H-He got killed!{\i}
+Dialogue: 0,0:12:12.27,0:12:14.85,Default,,0,0,0,,{\i1}Cobra is dead!{\i}
+Dialogue: 0,0:12:14.90,0:12:18.94,Default,,0,0,0,,{\i1}I never liked him,\Nbut I'm not vile enough to celebrate!{\i}
+Dialogue: 0,0:12:19.28,0:12:22.07,Default,,0,0,0,,{\i1}I witnessed something terrible!{\i}
+Dialogue: 0,0:12:31.83,0:12:34.92,Default,,0,0,0,,{\i1}I came to know\Nthe dark side of the World Government!{\i}
+Dialogue: 0,0:12:34.96,0:12:36.50,Default,,0,0,0,,{\i1}I didn't want to!{\i}
+Dialogue: 0,0:12:36.79,0:12:38.42,Default,,0,0,0,,{\i1}Who was that?!{\i}
+Dialogue: 0,0:12:38.46,0:12:40.59,Default,,0,0,0,,{\i1}I'm screwed!{\i}
+Dialogue: 0,0:12:52.18,0:12:53.35,Default,,0,0,0,,Who are you?!
+Dialogue: 0,0:12:56.94,0:12:58.73,Default,,0,0,0,,King Wapol!
+Dialogue: 0,0:12:58.77,0:12:59.98,Default,,0,0,0,,Is there something wrong?
+Dialogue: 0,0:13:00.11,0:13:04.11,Default,,0,0,0,,I... didn't see anything!\NI don't know anything!
+Dialogue: 0,0:13:06.61,0:13:10.03,Default,,0,0,0,,The council has already started\Nin the round table chamber.
+Dialogue: 0,0:13:10.08,0:13:11.08,Default,,0,0,0,,Let us walk you there.
+Dialogue: 0,0:13:11.20,0:13:14.66,Default,,0,0,0,,N-No! I don't wanna stay here!
+Dialogue: 0,0:13:14.79,0:13:15.62,Default,,0,0,0,,Wait!
+Dialogue: 0,0:13:18.33,0:13:20.04,Default,,0,0,0,,King Wapol!
+Dialogue: 0,0:13:20.09,0:13:22.01,Default,,0,0,0,,W-What's wrong with him?
+Dialogue: 0,0:13:23.30,0:13:25.72,On Top,,0,0,0,,GRAND COUNCIL ROUND TABLE CHAMBER
+Dialogue: 0,0:13:28.68,0:13:32.60,Default,,0,0,0,,King Cobra and King Wapol\Nare not here yet...
+Dialogue: 0,0:13:33.02,0:13:37.77,Default,,0,0,0,,We just received word. Both of them\Nwanted you to carry on without them...
+Dialogue: 0,0:13:38.15,0:13:41.65,Default,,0,0,0,,I guess King Cobra used up all his energy\Nwith his impassioned speech.
+Dialogue: 0,0:13:43.78,0:13:47.20,Default,,0,0,0,,He's clearly satisfied now\Nthat the Seven Warlords' matter is closed.
+Dialogue: 0,0:13:47.32,0:13:49.20,Default,,0,0,0,,That must be it!
+Dialogue: 0,0:13:50.83,0:13:54.20,Default,,0,0,0,,Okay, let's take care of\Nthe remaining agenda items.
+Dialogue: 0,0:13:54.25,0:13:57.46,Default,,0,0,0,,First, the Four-Nation Alliance in the North Blue\Nis calling for independence...
+Dialogue: 0,0:13:58.37,0:14:01.42,Default,,0,0,0,,{\i1}Moonfish mambo! Shake, shake!{\i}
+Dialogue: 0,0:14:01.54,0:14:05.76,Default,,0,0,0,,Cheer up, Shirahoshi.\NDancing will make you feel better!
+Dialogue: 0,0:14:05.88,0:14:07.80,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:07.93,0:14:09.22,Default,,0,0,0,,Shirahoshi.
+Dialogue: 0,0:14:09.34,0:14:11.39,Default,,0,0,0,,The council will eventually be over.
+Dialogue: 0,0:14:11.43,0:14:13.81,Default,,0,0,0,,Let's wait at the Red Port\Nwhere those idiots won't come.
+Dialogue: 0,0:14:13.93,0:14:14.85,Default,,0,0,0,,Okay.
+Dialogue: 0,0:14:18.06,0:14:18.77,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:14:19.40,0:14:23.19,Default,,0,0,0,,I want to speak with Vivi-{\i1}sama{\i}.
+Dialogue: 0,0:14:23.82,0:14:25.82,Default,,0,0,0,,I wonder where she went...
+Dialogue: 0,0:14:31.95,0:14:35.45,Default,,0,0,0,,Why are you doing this?! Untie me!
+Dialogue: 0,0:14:35.50,0:14:40.21,Default,,0,0,0,,Who ordered this? I'll tell the world\Neverything that happened here!
+Dialogue: 0,0:14:42.29,0:14:44.55,Default,,0,0,0,,Whoa-whoa, you're too honest.
+Dialogue: 0,0:14:44.59,0:14:47.42,Default,,0,0,0,,No one would want to set you free\Nafter hearing that.
+Dialogue: 0,0:14:47.84,0:14:49.38,Default,,0,0,0,,You really are a feisty woman!
+Dialogue: 0,0:14:49.51,0:14:51.14,On Top,,0,0,0,,JABRA, CIPHER POL "AIGIS" ZERO
+Dialogue: 0,0:14:52.72,0:14:54.18,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:14:54.22,0:14:57.06,Default,,0,0,0,,...but no one will help you, Princess.
+Dialogue: 0,0:14:57.10,0:15:01.35,Default,,0,0,0,,You'll just be reported as missing\Nand kept as a pet by someone.
+Dialogue: 0,0:15:01.48,0:15:03.06,On Top,,0,0,0,,KALIFA, CIPHER POL "AIGIS" ZERO
+Dialogue: 0,0:15:03.19,0:15:06.03,Default,,0,0,0,,Nothing is certain in life!
+Dialogue: 0,0:15:06.07,0:15:09.53,Default,,0,0,0,,Now you feel the pathos of living!
+Dialogue: 0,0:15:09.65,0:15:11.03,On Top,,0,0,0,,KUMADORI, CIPHER POL "AIGIS" ZERO
+Dialogue: 0,0:15:11.16,0:15:14.41,Default,,0,0,0,,Hey, you just looked at Kumadori's cards.
+Dialogue: 0,0:15:14.53,0:15:16.16,On Top,,0,0,0,,BLUENO, CIPHER POL "AIGIS" ZERO
+Dialogue: 0,0:15:18.04,0:15:20.62,Default,,0,0,0,,I wouldn't go that far to win.
+Dialogue: 0,0:15:20.75,0:15:22.00,Default,,0,0,0,,Come clean.
+Dialogue: 0,0:15:22.13,0:15:23.96,Default,,0,0,0,,A pair of sixes.
+Dialogue: 0,0:15:24.63,0:15:26.21,On Top,,0,0,0,,FUKUROU, CIPHER POL "AIGIS" ZERO
+Dialogue: 0,0:15:26.63,0:15:27.92,Default,,0,0,0,,Is Shirahoshi okay?
+Dialogue: 0,0:15:28.05,0:15:31.26,Default,,0,0,0,,What?! You're worried about someone else\Nin this situation?
+Dialogue: 0,0:15:34.68,0:15:39.43,Default,,0,0,0,,Looks like there was another incident earlier,\Nbut, well, as it turns out, she's fine.
+Dialogue: 0,0:15:39.93,0:15:40.98,Default,,0,0,0,,Good...
+Dialogue: 0,0:15:41.27,0:15:45.98,Default,,0,0,0,,Those who beat up the Celestial Dragon\Nthat tried to kidnap the mermaid...
+Dialogue: 0,0:15:47.11,0:15:50.19,Default,,0,0,0,,We're Straw Hat Luffy's subordinates!
+Dialogue: 0,0:15:52.57,0:15:55.24,Default,,0,0,0,,We're not afraid of the Celestial Dragons!
+Dialogue: 0,0:15:59.66,0:16:04.50,Default,,0,0,0,,They proudly declared themselves winners\Nand threw the plaza into turmoil.
+Dialogue: 0,0:16:06.84,0:16:09.30,Default,,0,0,0,,On top of that, in the Land of the Gods,
+Dialogue: 0,0:16:10.30,0:16:14.14,Default,,0,0,0,,Fujitora helped the Revolutionaries\Nfree the slaves,
+Dialogue: 0,0:16:14.18,0:16:16.80,Default,,0,0,0,,so Ryokugyu got pissed\Nand they got into a big fight...
+Dialogue: 0,0:16:25.27,0:16:27.02,Default,,0,0,0,,Hey, Fujitora!
+Dialogue: 0,0:16:27.57,0:16:30.82,Default,,0,0,0,,Do you know what you're doing?!
+Dialogue: 0,0:16:30.94,0:16:32.74,Default,,0,0,0,,Did you forget?
+Dialogue: 0,0:16:32.78,0:16:36.16,Default,,0,0,0,,I told you what I wanted to destroy\Nwas the system.
+Dialogue: 0,0:16:36.28,0:16:39.95,Default,,0,0,0,,You're the one who forgot something!\NWe're the Navy!
+Dialogue: 0,0:16:39.99,0:16:42.25,Default,,0,0,0,,Nothing more, nothing less!
+Dialogue: 0,0:16:42.37,0:16:44.83,Default,,0,0,0,,I don't want to lie.
+Dialogue: 0,0:16:46.67,0:16:49.67,Default,,0,0,0,,Okay, okay,\Nso you're not gonna give an inch...
+Dialogue: 0,0:16:50.84,0:16:53.93,Default,,0,0,0,,Cut the crap, Fujitora!
+Dialogue: 0,0:17:02.93,0:17:06.02,Default,,0,0,0,,I'm not gonna forgive you!
+Dialogue: 0,0:17:09.94,0:17:11.23,Default,,0,0,0,,Jeez...
+Dialogue: 0,0:17:11.78,0:17:15.11,Default,,0,0,0,,I don't want them to give us\Nany more trouble.
+Dialogue: 0,0:17:16.99,0:17:19.74,Default,,0,0,0,,This Reverie is a mess.
+Dialogue: 0,0:17:19.87,0:17:23.20,Default,,0,0,0,,Well, that's none of your business,\NPrincess.
+Dialogue: 0,0:17:23.54,0:17:25.67,Default,,0,0,0,,Why don't you worry about yourself?
+Dialogue: 0,0:17:26.92,0:17:30.04,Default,,0,0,0,,{\i1}I have to do something\Nor I'll be kept as a pet, too?{\i}
+Dialogue: 0,0:17:30.84,0:17:32.21,Default,,0,0,0,,{\i1}Give me a break!{\i}
+Dialogue: 0,0:17:37.80,0:17:38.68,Default,,0,0,0,,What's that?
+Dialogue: 0,0:17:47.19,0:17:48.06,Default,,0,0,0,,Someone's--
+Dialogue: 0,0:17:58.57,0:18:03.08,Default,,0,0,0,,Help me! I didn't see anything!
+Dialogue: 0,0:18:03.20,0:18:04.08,Default,,0,0,0,,Wapol?!
+Dialogue: 0,0:18:04.20,0:18:05.91,Default,,0,0,0,,Get out of my way!
+Dialogue: 0,0:18:06.04,0:18:06.75,Default,,0,0,0,,{\i1}Oh!{\i}
+Dialogue: 0,0:18:10.88,0:18:12.84,Default,,0,0,0,,Move out of my way!
+Dialogue: 0,0:18:13.55,0:18:14.84,Default,,0,0,0,,I don't wanna...
+Dialogue: 0,0:18:15.63,0:18:17.68,Default,,0,0,0,,...get caught!
+Dialogue: 0,0:18:22.51,0:18:24.97,Default,,0,0,0,,What was that about?
+Dialogue: 0,0:18:25.10,0:18:26.48,Default,,0,0,0,,That was King Wapol, right?
+Dialogue: 0,0:18:29.44,0:18:30.44,Default,,0,0,0,,Oh, damn!
+Dialogue: 0,0:18:33.11,0:18:34.44,Default,,0,0,0,,Vivi's gone!
+Dialogue: 0,0:18:34.82,0:18:35.94,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:36.36,0:18:37.45,Default,,0,0,0,,No!
+Dialogue: 0,0:18:37.82,0:18:39.11,Default,,0,0,0,,What happened?!
+Dialogue: 0,0:18:39.61,0:18:40.70,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:18:41.70,0:18:43.37,Default,,0,0,0,,She escaped!
+Dialogue: 0,0:18:58.76,0:19:00.18,Default,,0,0,0,,Thanks, Wapol!
+Dialogue: 0,0:19:00.55,0:19:02.80,Default,,0,0,0,,Vivi! When did you get here?!
+Dialogue: 0,0:19:02.93,0:19:04.35,Default,,0,0,0,,You helped me escape!
+Dialogue: 0,0:19:04.47,0:19:06.14,Default,,0,0,0,,You idiot! Get out of there!
+Dialogue: 0,0:19:06.56,0:19:08.27,Default,,0,0,0,,Why are you in such a hurry?
+Dialogue: 0,0:19:08.39,0:19:09.69,Default,,0,0,0,,Don't ask!
+Dialogue: 0,0:19:09.81,0:19:11.60,Default,,0,0,0,,You're even shedding tears!
+Dialogue: 0,0:19:12.10,0:19:15.02,Default,,0,0,0,,Don't ask!
+Dialogue: 0,0:19:20.78,0:19:21.91,Default,,0,0,0,,Hey!
+Dialogue: 0,0:19:23.37,0:19:25.20,Default,,0,0,0,,How do you do? Kinderella-{\i1}sama{\i}.
+Dialogue: 0,0:19:25.33,0:19:26.83,Default,,0,0,0,,Have you seen my husband?
+Dialogue: 0,0:19:26.95,0:19:29.21,Default,,0,0,0,,No, I have not seen him...
+Dialogue: 0,0:19:35.92,0:19:37.42,Default,,0,0,0,,--Oh!\N--King Wapol!
+Dialogue: 0,0:19:37.80,0:19:42.13,Default,,0,0,0,,Darling, I've been looking for you!\NWhere have you been?!
+Dialogue: 0,0:19:52.31,0:19:54.40,Default,,0,0,0,,Who is that young woman?!
+Dialogue: 0,0:19:55.02,0:19:57.07,Default,,0,0,0,,Hey, Wapol! How far are you gonna go?!
+Dialogue: 0,0:19:57.19,0:20:01.11,Default,,0,0,0,,I'm gonna go as far as I can!\NTo the end of the world where no one'll follow me!
+Dialogue: 0,0:20:01.70,0:20:04.20,Default,,0,0,0,,I'll come with you! Take me!
+Dialogue: 0,0:20:06.53,0:20:11.00,Default,,0,0,0,,{\i1}Is he eloping with her?!{\i}
+Dialogue: 0,0:20:16.04,0:20:21.17,Default,,0,0,0,,{\i1}How far I have run{\i}
+Dialogue: 0,0:20:16.04,0:20:21.17,On Top,,0,0,0,,{\i1}doredake hashitte kita noka{\i}
+Dialogue: 0,0:20:21.88,0:20:28.47,Default,,0,0,0,,{\i1}Without knowing it, I counted scars{\i}
+Dialogue: 0,0:20:21.88,0:20:28.47,On Top,,0,0,0,,{\i1}wakaranai mama kizuato kazoeta{\i}
+Dialogue: 0,0:20:28.93,0:20:35.90,Default,,0,0,0,,{\i1}A treasure map in my head all along{\i}
+Dialogue: 0,0:20:28.93,0:20:35.90,On Top,,0,0,0,,{\i1}zutto atama no naka ni aru takara no chizu{\i}
+Dialogue: 0,0:20:35.94,0:20:42.40,Default,,0,0,0,,{\i1}Still looking for the future{\i}
+Dialogue: 0,0:20:35.94,0:20:42.40,On Top,,0,0,0,,{\i1}mirai wo sagashi tsuzuketeru{\i}
+Dialogue: 0,0:20:42.45,0:20:49.12,Default,,0,0,0,,{\i1}The real promise{\i}
+Dialogue: 0,0:20:42.45,0:20:49.12,On Top,,0,0,0,,{\i1}hontou no yakusoku wa{\i}
+Dialogue: 0,0:20:49.16,0:20:56.29,Default,,0,0,0,,{\i1}Lies much deeper in my heart{\i}
+Dialogue: 0,0:20:49.16,0:20:56.29,On Top,,0,0,0,,{\i1}mune no oku no motto oku ni aru{\i}
+Dialogue: 0,0:20:56.33,0:21:05.43,Default,,0,0,0,,{\i1}A dream that no one can catch up with{\i}
+Dialogue: 0,0:20:56.33,0:21:05.43,On Top,,0,0,0,,{\i1}dare mo mina oitsukenai yume{\i}
+Dialogue: 0,0:21:05.47,0:21:11.14,Default,,0,0,0,,{\i1}That's all I hold on to{\i}
+Dialogue: 0,0:21:05.47,0:21:11.14,On Top,,0,0,0,,{\i1}tada hitotsu dakishimete{\i}
+Dialogue: 0,0:21:11.18,0:21:18.23,Default,,0,0,0,,{\i1}To you who smiles like the sun{\i}
+Dialogue: 0,0:21:11.18,0:21:18.23,On Top,,0,0,0,,{\i1}taiyou no youni warau anata e{\i}
+Dialogue: 0,0:21:18.27,0:21:25.15,Default,,0,0,0,,{\i1}I'll sing the same song as that day{\i}
+Dialogue: 0,0:21:18.27,0:21:25.15,On Top,,0,0,0,,{\i1}ano hi to onaji uta wo utau yo{\i}
+Dialogue: 0,0:21:25.20,0:21:32.20,Default,,0,0,0,,{\i1}This wish I don't want to forget even when I grow up{\i}
+Dialogue: 0,0:21:25.20,0:21:32.20,On Top,,0,0,0,,{\i1}otona ni nattemo wasuretakunai{\i}
+Dialogue: 0,0:21:32.24,0:21:39.67,Default,,0,0,0,,{\i1}Until it reaches you{\i}
+Dialogue: 0,0:21:32.24,0:21:39.67,On Top,,0,0,0,,{\i1}kono negai ga todoku made{\i}
+Dialogue: 0,0:21:46.43,0:21:50.60,Default,,0,0,0,,{\i1}"Dive into the Sea of Information!\NThe Punk Records Library!"{\i}
+Dialogue: 0,0:21:51.31,0:21:57.52,Default,,0,0,0,,Hi, I'm Lilith, one of the Satellites of\NDr. Vegapunk, the genius scientist!
+Dialogue: 0,0:21:57.65,0:22:00.82,Default,,0,0,0,,I'm Edison, also Vegapunk!
+Dialogue: 0,0:22:00.86,0:22:04.40,Default,,0,0,0,,Today we'll introduce this one!\NNefeltari Cobra!
+Dialogue: 0,0:22:04.78,0:22:09.57,Default,,0,0,0,,He was the 12th king of the Kingdom of Alabasta\Nand Vivi's father!
+Dialogue: 0,0:22:09.62,0:22:14.25,Default,,0,0,0,,He was born on February 13th\Nand liked a dessert called knafeh!
+Dialogue: 0,0:22:14.37,0:22:17.96,Default,,0,0,0,,He was a great ruler\Nwho believed that "a country is its people."
+Dialogue: 0,0:22:18.00,0:22:22.46,Default,,0,0,0,,Even when he was suspected of stealing rain\Nthrough Crocodile's trickery,
+Dialogue: 0,0:22:22.50,0:22:25.80,Default,,0,0,0,,he didn't try to crush the rebels by force.
+Dialogue: 0,0:22:25.84,0:22:30.80,Default,,0,0,0,,When blackmailed into giving up\Nthe location of the Ancient Weapon Pluton,
+Dialogue: 0,0:22:30.85,0:22:34.31,Default,,0,0,0,,Cobra tried to sacrifice himself\Nto kill Crocodile.
+Dialogue: 0,0:22:34.35,0:22:37.98,Default,,0,0,0,,But he was saved by Luffy's heroic actions.
+Dialogue: 0,0:22:38.10,0:22:41.90,Default,,0,0,0,,Overcome this war and survive!
+Dialogue: 0,0:22:42.57,0:22:45.99,Default,,0,0,0,,Kingdom of Alabasta!
+Dialogue: 0,0:22:48.36,0:22:50.91,Default,,0,0,0,,Later, Cobra attended the Reverie,
+Dialogue: 0,0:22:50.95,0:22:54.58,Default,,0,0,0,,and after a heated debate,\Nhe won the approval of many monarchs...
+Dialogue: 0,0:22:54.62,0:22:58.25,Default,,0,0,0,,...to pass the abolition of\Nthe Seven Warlords system!
+Dialogue: 0,0:22:58.37,0:23:01.21,Default,,0,0,0,,He was a great king,\Nboth stern yet playful!
+Dialogue: 0,0:23:01.25,0:23:06.26,Default,,0,0,0,,With this decision,\Nthe world began to move even faster!
+Dialogue: 0,0:23:06.38,0:23:08.26,Default,,0,0,0,,That's it for today!
+Dialogue: 0,0:23:08.30,0:23:11.68,Default,,0,0,0,,Now that you've seen it,\Ndonate to our research fund!
+Dialogue: 0,0:23:11.80,0:23:14.47,Default,,0,0,0,,See you next time!
+Dialogue: 0,0:23:19.60,0:23:24.61,Default,,0,0,0,,{\i1}Vivi and Wapol attempt to flee\Nthe turbulent Holy Land Mary Geoise.{\i}
+Dialogue: 0,0:23:24.65,0:23:29.24,Default,,0,0,0,,{\i1}Sabo heads for the Kingdom of Lulusia\Nwith King Cobra's words in his heart.{\i}
+Dialogue: 0,0:23:29.28,0:23:34.99,Default,,0,0,0,,{\i1}And as if to corner them,\Nthe Five Elders' attack finally begins!{\i}
+Dialogue: 0,0:23:35.12,0:23:36.54,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.58,0:23:40.91,Default,,0,0,0,,"The World Is Shaken! The Ruler's Judgment\Nand the Five Elders' Actions!"
+Dialogue: 0,0:23:40.96,0:23:45.71,Default,,0,0,0,,I'm gonna become the King of the Pirates!

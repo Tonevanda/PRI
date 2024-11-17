@@ -1,0 +1,374 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.01,0:00:13.55,Default,,0,0,0,,{\i1}(All of us) us, us{\i}
+Dialogue: 0,0:00:11.01,0:00:13.55,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i}
+Dialogue: 0,0:00:13.59,0:00:18.93,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i}
+Dialogue: 0,0:00:13.59,0:00:18.93,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i}
+Dialogue: 0,0:00:23.69,0:00:26.27,Default,,0,0,0,,{\i1}The end of a dream, the end of the sea{\i}
+Dialogue: 0,0:00:23.69,0:00:26.27,On Top,,0,0,0,,{\i1}yume no hate umi no hate{\i}
+Dialogue: 0,0:00:26.31,0:00:28.98,Default,,0,0,0,,{\i1}We all have different places we want to go{\i}
+Dialogue: 0,0:00:26.31,0:00:28.98,On Top,,0,0,0,,{\i1}ikitai basho wa sorezore da{\i}
+Dialogue: 0,0:00:29.02,0:00:31.49,Default,,0,0,0,,{\i1}But first, we need{\i}
+Dialogue: 0,0:00:29.02,0:00:31.49,On Top,,0,0,0,,{\i1}dakedo hitotsu kagayakeru{\i}
+Dialogue: 0,0:00:31.53,0:00:35.86,Default,,0,0,0,,{\i1}To make a shining legend out of ourselves{\i}
+Dialogue: 0,0:00:31.53,0:00:35.86,On Top,,0,0,0,,{\i1}densetsu wo buchiagete kara da{\i}
+Dialogue: 0,0:00:37.32,0:00:39.70,Default,,0,0,0,,{\i1}Sparks fly, no limit, this is where it starts{\i}
+Dialogue: 0,0:00:37.32,0:00:39.70,On Top,,0,0,0,,{\i1}bachi bachi No limit koko kara ga{\i}
+Dialogue: 0,0:00:39.74,0:00:41.33,Default,,0,0,0,,{\i1}ONE PIECE!!{\i}
+Dialogue: 0,0:00:39.74,0:00:41.33,On Top,,0,0,0,,{\i1}ONE PIECE!!{\i}
+Dialogue: 0,0:00:41.37,0:00:43.96,Default,,0,0,0,,{\i1}All of us, I ask you travelers{\i}
+Dialogue: 0,0:00:41.37,0:00:43.96,On Top,,0,0,0,,{\i1}All of us tabibito ni tsugu{\i}
+Dialogue: 0,0:00:44.00,0:00:47.25,Default,,0,0,0,,{\i1}Are your dreams still pure?{\i}
+Dialogue: 0,0:00:44.00,0:00:47.25,On Top,,0,0,0,,{\i1}sono yume wa mada nigoccha inai ka?{\i}
+Dialogue: 0,0:00:49.38,0:00:55.72,Default,,0,0,0,,{\i1}Sleepless cells are shaken and burst{\i}
+Dialogue: 0,0:00:49.38,0:00:55.72,On Top,,0,0,0,,{\i1}nemurenai saibou ga kusugurare hajiketeku{\i}
+Dialogue: 0,0:00:55.76,0:01:02.47,Default,,0,0,0,,{\i1}Still, all of us, in the middle of an adventure{\i}
+Dialogue: 0,0:00:55.76,0:01:02.47,On Top,,0,0,0,,{\i1}ima mo All of us bouken no tochuu{\i}
+Dialogue: 0,0:01:02.52,0:01:04.98,Default,,0,0,0,,{\i1}All of us, I tell you travelers{\i}
+Dialogue: 0,0:01:02.52,0:01:04.98,On Top,,0,0,0,,{\i1}All of us tabibito e tsugu{\i}
+Dialogue: 0,0:01:05.02,0:01:08.77,Default,,0,0,0,,{\i1}No such thing as a pointless fight{\i}
+Dialogue: 0,0:01:05.02,0:01:08.77,On Top,,0,0,0,,{\i1}imi no nai tatakai wa nain da{\i}
+Dialogue: 0,0:01:10.57,0:01:12.90,Default,,0,0,0,,{\i1}When random contexts{\i}
+Dialogue: 0,0:01:10.57,0:01:12.90,On Top,,0,0,0,,{\i1}barabara no bunmyaku ga{\i}
+Dialogue: 0,0:01:12.94,0:01:16.86,Default,,0,0,0,,{\i1}Start to make sense on their own{\i}
+Dialogue: 0,0:01:12.94,0:01:16.86,On Top,,0,0,0,,{\i1}ishi wo mochi tsunagareba{\i}
+Dialogue: 0,0:01:16.91,0:01:23.29,Default,,0,0,0,,{\i1}The threads of time are spun back together{\i}
+Dialogue: 0,0:01:16.91,0:01:23.29,On Top,,0,0,0,,{\i1}toki no ito ga tsumugi naosareru{\i}
+Dialogue: 0,0:01:23.62,0:01:28.83,Default,,0,0,0,,{\i1}The world keeps changing along with us{\i}
+Dialogue: 0,0:01:23.62,0:01:28.83,On Top,,0,0,0,,{\i1}ore tachi to tomoni sekai kawari tsuzuketeru{\i}
+Dialogue: 0,0:01:28.88,0:01:31.38,Default,,0,0,0,,{\i1}(All of us) us, us{\i}
+Dialogue: 0,0:01:28.88,0:01:31.38,On Top,,0,0,0,,{\i1}(All of us) a-su, a-su{\i}
+Dialogue: 0,0:01:31.42,0:01:36.76,Default,,0,0,0,,{\i1}(Dream save us us) us, all of us{\i}
+Dialogue: 0,0:01:31.42,0:01:36.76,On Top,,0,0,0,,{\i1}(Dream save us us) a-su, All of us{\i}
+Dialogue: 0,0:01:51.19,0:01:52.69,Default,,0,0,0,,Sabo-{\i1}san{\i}!
+Dialogue: 0,0:02:08.17,0:02:09.54,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:02:09.58,0:02:10.88,Default,,0,0,0,,I'm back!
+Dialogue: 0,0:02:12.00,0:02:13.84,Default,,0,0,0,,I heard about Kuma-{\i1}san{\i}.
+Dialogue: 0,0:02:13.96,0:02:15.13,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:02:15.17,0:02:17.76,Default,,0,0,0,,All your efforts have gone to waste.
+Dialogue: 0,0:02:19.63,0:02:24.22,Default,,0,0,0,,Sabo. Even the captains can't hear\Nwhat you have to say?
+Dialogue: 0,0:02:24.72,0:02:29.64,Default,,0,0,0,,Yeah... It might endanger their lives\Nto know it.
+Dialogue: 0,0:02:29.77,0:02:30.52,Default,,0,0,0,,What's it about?
+Dialogue: 0,0:02:32.94,0:02:35.28,Default,,0,0,0,,This Reverie was tumultuous...
+Dialogue: 0,0:02:36.74,0:02:40.20,Default,,0,0,0,,I'll tell you all about\Nwhat really happened...
+Dialogue: 0,0:02:40.24,0:02:41.82,Default,,0,0,0,,at the Holy Land Mary Geoise!
+Dialogue: 0,0:02:45.95,0:02:50.71,Default,,0,0,0,,{\i1}"Sabo Returns -\NThe Shocking Truth to Be Told!"{\i}
+Dialogue: 0,0:02:51.42,0:02:54.13,On Top,,0,0,0,,KAMABAKKA QUEENDOM
+Dialogue: 0,0:02:58.59,0:03:00.93,Default,,0,0,0,,We accomplished all our missions.
+Dialogue: 0,0:03:04.68,0:03:06.89,Default,,0,0,0,,We had three general objectives.
+Dialogue: 0,0:03:07.68,0:03:11.40,Default,,0,0,0,,Declaring war by destroying\Nthe symbol of the Celestial Dragons.
+Dialogue: 0,0:03:11.98,0:03:16.23,Default,,0,0,0,,Freeing as many slaves as possible\Nand rescuing Kuma-{\i1}san{\i}.
+Dialogue: 0,0:03:16.82,0:03:20.07,Default,,0,0,0,,And destroying the food reserves\Nin the Land of Gods.
+Dialogue: 0,0:03:20.99,0:03:22.53,Default,,0,0,0,,How did it turn out?
+Dialogue: 0,0:03:22.66,0:03:23.62,Default,,0,0,0,,Well...
+Dialogue: 0,0:03:24.37,0:03:27.33,Default,,0,0,0,,We've caught enough of\Nthe world's attention.
+Dialogue: 0,0:03:27.37,0:03:32.12,Default,,0,0,0,,Thanks to you for keeping\Nmost of the Naval forces busy,
+Dialogue: 0,0:03:32.17,0:03:38.21,Default,,0,0,0,,the citizens of 12 countries revolted,\Nencouraged by us,
+Dialogue: 0,0:03:38.63,0:03:42.72,Default,,0,0,0,,and eight of them were successful.
+Dialogue: 0,0:03:43.76,0:03:46.68,Default,,0,0,0,,They called it the Eight-Nation Revolution,
+Dialogue: 0,0:03:47.18,0:03:50.31,Default,,0,0,0,,but one of the countries,\Nthe Kingdom of Lulusia...
+Dialogue: 0,0:03:51.39,0:03:53.23,Default,,0,0,0,,...mysteriously vanished.
+Dialogue: 0,0:03:55.65,0:03:59.19,Default,,0,0,0,,You witnessed it, right?
+Dialogue: 0,0:04:01.99,0:04:03.41,Default,,0,0,0,,Anyway,
+Dialogue: 0,0:04:03.45,0:04:07.20,Default,,0,0,0,,you made the world a lot better!
+Dialogue: 0,0:04:07.33,0:04:09.49,Default,,0,0,0,,It hasn't been reported in the newspapers,
+Dialogue: 0,0:04:09.95,0:04:12.66,Default,,0,0,0,,but seven nations\Nthat brought about revolutions...
+Dialogue: 0,0:04:12.71,0:04:19.00,Default,,0,0,0,,...are declining both to pay the Heavenly Offerings\Nand to export natural resources to the Government.
+Dialogue: 0,0:04:19.46,0:04:24.22,Default,,0,0,0,,The Revolutionary Army is attacking\Nthe Government's supply carriers around the world...
+Dialogue: 0,0:04:24.26,0:04:27.35,Default,,0,0,0,,...to keep resources\Nfrom reaching Mary Geoise!
+Dialogue: 0,0:04:27.47,0:04:29.97,On Top,,0,0,0,,HOLY LAND MARY GEOISE
+Dialogue: 0,0:04:27.97,0:04:32.81,Default,,0,0,0,,Because it's located so high up, people say\NMary Geoise is an unbreakable fortress,
+Dialogue: 0,0:04:34.06,0:04:36.90,Default,,0,0,0,,But I bet they can't stand\Nour starvation tactics!
+Dialogue: 0,0:04:36.94,0:04:40.94,Default,,0,0,0,,They must learn what it is like\Nto live without money and food!
+Dialogue: 0,0:04:41.28,0:04:43.65,Default,,0,0,0,,Heehaw!
+Dialogue: 0,0:04:45.03,0:04:46.62,Default,,0,0,0,,We can expect some effect, right?
+Dialogue: 0,0:04:47.24,0:04:49.33,Default,,0,0,0,,Yes, it's highly likely.
+Dialogue: 0,0:04:49.62,0:04:52.91,Default,,0,0,0,,Not all supplies are being cut off,
+Dialogue: 0,0:04:52.95,0:04:57.79,Default,,0,0,0,,but I'm sure it's steadily\Nstarting to torment them.
+Dialogue: 0,0:04:58.88,0:05:03.42,Default,,0,0,0,,And of course, they're not\Nthe kind of people who will just endure it.
+Dialogue: 0,0:05:04.01,0:05:06.64,Default,,0,0,0,,When they dispatch the Holy Knights,
+Dialogue: 0,0:05:07.05,0:05:09.10,Default,,0,0,0,,the real battle will start!
+Dialogue: 0,0:05:09.85,0:05:11.35,Default,,0,0,0,,The Holy Knights...
+Dialogue: 0,0:05:11.81,0:05:12.64,Default,,0,0,0,,Sabo!
+Dialogue: 0,0:05:13.06,0:05:15.44,Default,,0,0,0,,I mean, Flame Emperor boy!
+Dialogue: 0,0:05:15.89,0:05:19.19,Default,,0,0,0,,You're their number one target now!
+Dialogue: 0,0:05:19.56,0:05:22.19,Default,,0,0,0,,That nickname doesn't sit well with me.
+Dialogue: 0,0:05:22.32,0:05:25.65,Default,,0,0,0,,But that nickname instantly\Nmade you a household name.
+Dialogue: 0,0:05:25.78,0:05:27.86,Default,,0,0,0,,Even if it's not true,
+Dialogue: 0,0:05:28.41,0:05:33.37,Default,,0,0,0,,the assassination of King Cobra\Nmade you a hero.
+Dialogue: 0,0:05:37.62,0:05:40.63,Default,,0,0,0,,From the perspective of the insurgents\Nall over the world,
+Dialogue: 0,0:05:41.09,0:05:45.17,Default,,0,0,0,,everyone involved with the World Government\Nis the same.
+Dialogue: 0,0:05:45.22,0:05:49.26,Default,,0,0,0,,Of course, there are some kings\Nwho should be blamed for misrule,
+Dialogue: 0,0:05:49.30,0:05:52.97,Default,,0,0,0,,but there are also many righteous\Nand competent kings in the world.
+Dialogue: 0,0:05:54.56,0:05:56.94,Default,,0,0,0,,Among such kings,
+Dialogue: 0,0:05:56.98,0:06:02.19,Default,,0,0,0,,King Cobra of Alabasta was known\Nas an excellent and benevolent monarch,
+Dialogue: 0,0:06:02.98,0:06:06.11,Default,,0,0,0,,but sometimes,\Nthe truth is not told correctly.
+Dialogue: 0,0:06:09.95,0:06:10.78,Default,,0,0,0,,But I'm...
+Dialogue: 0,0:06:11.41,0:06:12.95,Default,,0,0,0,,...fine with that.
+Dialogue: 0,0:06:13.58,0:06:15.33,Default,,0,0,0,,I feel bad for King Cobra...
+Dialogue: 0,0:06:16.16,0:06:19.71,Default,,0,0,0,,But if it'll kindle the flames of revolution!
+Dialogue: 0,0:06:20.83,0:06:22.42,Default,,0,0,0,,You're unshakable.
+Dialogue: 0,0:06:23.38,0:06:26.46,Default,,0,0,0,,Now, explain to us!
+Dialogue: 0,0:06:27.17,0:06:28.34,Default,,0,0,0,,The truth...
+Dialogue: 0,0:06:27.17,0:06:30.01,On Top,,0,0,0,,KING COBRA ASSASSINATED
+Dialogue: 0,0:06:28.38,0:06:31.89,Default,,0,0,0,,...behind this shocking news!
+Dialogue: 0,0:06:32.47,0:06:36.18,Default,,0,0,0,,We were all trying to speculate\Nthe reason with tears in our eyes.
+Dialogue: 0,0:06:37.02,0:06:39.02,Default,,0,0,0,,Because we wanted to believe you!
+Dialogue: 0,0:06:45.65,0:06:46.78,Default,,0,0,0,,What I...
+Dialogue: 0,0:06:47.99,0:06:49.82,Default,,0,0,0,,...witnessed on that day...
+Dialogue: 0,0:06:51.74,0:06:54.03,Default,,0,0,0,,{\i1}More than a month ago,{\i}
+Dialogue: 0,0:06:54.95,0:07:00.71,Default,,0,0,0,,{\i1}during the Reverie, the world council\Nheld in the Holy Land Mary Geoise.{\i}
+Dialogue: 0,0:07:04.21,0:07:07.80,Default,,0,0,0,,{\i1}It's an emergency! Someone trespassed\Ninto the Land of the Gods!{\i}
+Dialogue: 0,0:07:08.21,0:07:10.30,Default,,0,0,0,,{\i1}Please evacuate immediately!{\i}
+Dialogue: 0,0:07:10.43,0:07:13.30,Default,,0,0,0,,The food storage exploded-{\i1}eh{\i}!
+Dialogue: 0,0:07:13.43,0:07:17.27,Default,,0,0,0,,Do something, bureaucrats!\NThere are intruders-{\i1}eh{\i}!
+Dialogue: 0,0:07:17.39,0:07:21.56,Default,,0,0,0,,{\i1}Four Revolutionary Army captains\Nhave been identified on the premises!{\i}
+Dialogue: 0,0:07:21.60,0:07:23.48,Default,,0,0,0,,{\i1}Catch them now!{\i}
+Dialogue: 0,0:07:23.61,0:07:26.65,Default,,0,0,0,,What are you doing?! Keep walking-{\i1}eh{\i}!
+Dialogue: 0,0:07:29.65,0:07:31.57,Default,,0,0,0,,Damn!
+Dialogue: 0,0:07:31.61,0:07:34.70,Default,,0,0,0,,Not only the symbol of the World Nobles,
+Dialogue: 0,0:07:34.74,0:07:37.29,Default,,0,0,0,,but they even targeted\Nour luxurious food reserves!
+Dialogue: 0,0:07:37.41,0:07:40.00,Default,,0,0,0,,The poor are jealous of us-{\i1}eh{\i}!
+Dialogue: 0,0:07:40.04,0:07:42.25,Default,,0,0,0,,Make sure you catch and behead them!
+Dialogue: 0,0:07:44.54,0:07:47.09,Default,,0,0,0,,Everyone!\NIt's dangerous so please evacuate!
+Dialogue: 0,0:07:48.34,0:07:51.51,Default,,0,0,0,,We should execute all the guards\Nafter that-{\i1}amasu{\i}!
+Dialogue: 0,0:07:51.55,0:07:55.89,Default,,0,0,0,,You can't let this happen to us\Nand get away with it-{\i1}amasu{\i}!
+Dialogue: 0,0:08:00.43,0:08:04.52,Default,,0,0,0,,I told you to hurry up! You sluggish dog!
+Dialogue: 0,0:08:08.36,0:08:12.70,Default,,0,0,0,,What if something happens to me!\NGo faster{\i1}-eh{\i}!
+Dialogue: 0,0:08:21.71,0:08:22.87,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:08:24.21,0:08:26.71,Default,,0,0,0,,You useless bastard!
+Dialogue: 0,0:08:26.75,0:08:29.55,Default,,0,0,0,,Forget it! I'll walk myself-{\i1}eh{\i}!
+Dialogue: 0,0:08:31.59,0:08:33.51,Default,,0,0,0,,You're fired-{\i1}eh{\i}.
+Dialogue: 0,0:08:38.05,0:08:39.43,Default,,0,0,0,,You piece of trash!
+Dialogue: 0,0:08:56.41,0:08:57.45,Default,,0,0,0,,My gun!
+Dialogue: 0,0:08:58.78,0:09:00.87,Default,,0,0,0,,Who are you-{\i1}eh{\i}?
+Dialogue: 0,0:09:01.54,0:09:03.41,Default,,0,0,0,,How could you...
+Dialogue: 0,0:09:03.83,0:09:06.00,Default,,0,0,0,,...take other people's lives so lightly?!
+Dialogue: 0,0:09:06.58,0:09:08.21,Default,,0,0,0,,Karasoot!
+Dialogue: 0,0:09:13.59,0:09:15.47,Default,,0,0,0,,Run to the east side of town.
+Dialogue: 0,0:09:15.59,0:09:16.26,Default,,0,0,0,,What?
+Dialogue: 0,0:09:16.68,0:09:18.22,Default,,0,0,0,,O-Okay!
+Dialogue: 0,0:09:19.43,0:09:22.06,Default,,0,0,0,,St. Pluming! Please evacuate quickly!
+Dialogue: 0,0:09:22.35,0:09:25.27,Default,,0,0,0,,Cipher Pol! What took you so long-{\i1}eh{\i}?!
+Dialogue: 0,0:09:25.31,0:09:28.27,Default,,0,0,0,,Get rid of that vermin now-{\i1}eh{\i}!
+Dialogue: 0,0:09:28.40,0:09:31.27,Default,,0,0,0,,The Revolutionary Army?! Take him down!
+Dialogue: 0,0:09:37.28,0:09:39.32,Default,,0,0,0,,We got him!
+Dialogue: 0,0:09:39.70,0:09:41.16,Default,,0,0,0,,Let's fill him with bullets!
+Dialogue: 0,0:09:41.28,0:09:44.12,Default,,0,0,0,,Wipe him out completely-{\i1}eh{\i}!
+Dialogue: 0,0:09:46.46,0:09:47.33,Default,,0,0,0,,What?!
+Dialogue: 0,0:09:47.46,0:09:51.00,Default,,0,0,0,,H-He really got wiped out!
+Dialogue: 0,0:09:51.13,0:09:52.84,Default,,0,0,0,,Just who is he?
+Dialogue: 0,0:09:53.21,0:09:54.46,Default,,0,0,0,,Did we kill him?
+Dialogue: 0,0:10:01.93,0:10:03.56,Default,,0,0,0,,Obelisoots!
+Dialogue: 0,0:10:21.78,0:10:22.87,Default,,0,0,0,,You piece of trash.
+Dialogue: 0,0:10:23.70,0:10:26.20,On Top,,0,0,0,,KARASU (SOOT-SOOT FRUIT POWER USER)\NCAPTAIN OF THE REVOLUTIONARY ARMY\NNORTHERN FORCES
+Dialogue: 0,0:10:39.01,0:10:41.80,Default,,0,0,0,,I feel two tremendous surges of Haki!
+Dialogue: 0,0:10:43.56,0:10:46.02,Default,,0,0,0,,I can't believe they attacked Mary Geoise...
+Dialogue: 0,0:10:47.18,0:10:50.02,Default,,0,0,0,,They're such reckless bastards!
+Dialogue: 0,0:11:13.92,0:11:15.46,Default,,0,0,0,,Help me already-{\i1}eh{\i}!
+Dialogue: 0,0:11:15.59,0:11:16.75,Default,,0,0,0,,No!
+Dialogue: 0,0:11:19.84,0:11:22.47,Default,,0,0,0,,Sir! Ma'am! I'm begging you!
+Dialogue: 0,0:11:22.93,0:11:25.22,Default,,0,0,0,,Please let us escape, too!
+Dialogue: 0,0:11:25.26,0:11:27.60,Default,,0,0,0,,Help!
+Dialogue: 0,0:11:27.72,0:11:29.48,Default,,0,0,0,,There you are!
+Dialogue: 0,0:11:32.35,0:11:34.77,Default,,0,0,0,,I'm here to help you all!
+Dialogue: 0,0:11:39.07,0:11:41.74,Default,,0,0,0,,None of you move!
+Dialogue: 0,0:11:42.82,0:11:45.87,Default,,0,0,0,,Laser Shooter!
+Dialogue: 0,0:11:56.75,0:12:00.01,Default,,0,0,0,,Hurry up! Wait at the east side of town!
+Dialogue: 0,0:12:00.05,0:12:02.05,Default,,0,0,0,,We'll get out of here together!
+Dialogue: 0,0:12:03.72,0:12:04.55,Default,,0,0,0,,Th...
+Dialogue: 0,0:12:04.68,0:12:08.18,Default,,0,0,0,,--Thank you!\N--Thank you!
+Dialogue: 0,0:12:08.72,0:12:10.31,Default,,0,0,0,,You can thank me later!
+Dialogue: 0,0:12:10.73,0:12:12.48,Default,,0,0,0,,Make sure you get there!
+Dialogue: 0,0:12:16.27,0:12:18.69,Default,,0,0,0,,Look at that!
+Dialogue: 0,0:12:19.69,0:12:22.11,On Top,,0,0,0,,LINDBERGH, CAPTAIN OF\NTHE REVOLUTIONARY ARMY SOUTHERN FORCES
+Dialogue: 0,0:12:22.65,0:12:25.07,Default,,0,0,0,,Lindbergh!\NThe enemies are coming this way!
+Dialogue: 0,0:12:26.62,0:12:28.74,Default,,0,0,0,,Hurry up freeing the slaves!
+Dialogue: 0,0:12:28.87,0:12:29.95,Default,,0,0,0,,Got it!
+Dialogue: 0,0:12:40.30,0:12:42.34,Default,,0,0,0,,Something is coming...
+Dialogue: 0,0:12:42.80,0:12:44.26,Default,,0,0,0,,Something strong!
+Dialogue: 0,0:12:44.38,0:12:45.59,On Top,,0,0,0,,JUSTICE
+Dialogue: 0,0:12:49.18,0:12:50.26,Default,,0,0,0,,Crow...
+Dialogue: 0,0:12:53.31,0:12:54.64,Default,,0,0,0,,...Soul Lotus!
+Dialogue: 0,0:13:24.13,0:13:25.55,Default,,0,0,0,,Come back!
+Dialogue: 0,0:13:25.59,0:13:28.93,Default,,0,0,0,,You slaves should not defy me-{\i1}eh{\i}!
+Dialogue: 0,0:13:31.18,0:13:33.27,Default,,0,0,0,,What's this-{\i1}eh{\i}? The ground!
+Dialogue: 0,0:13:41.48,0:13:42.69,Default,,0,0,0,,What's going on-{\i1}eh{\i}?!
+Dialogue: 0,0:13:42.82,0:13:45.65,Default,,0,0,0,,Oh, I'm sorry.
+Dialogue: 0,0:13:45.78,0:13:47.28,Default,,0,0,0,,A Giant?!
+Dialogue: 0,0:13:51.20,0:13:53.08,Default,,0,0,0,,That's not nice!
+Dialogue: 0,0:13:53.37,0:13:56.62,Default,,0,0,0,,You have to stop shooting people like that!
+Dialogue: 0,0:13:57.00,0:13:59.96,Default,,0,0,0,,You guys, get out of here now!
+Dialogue: 0,0:14:00.00,0:14:04.01,Default,,0,0,0,,Go to the east side of town!\NMy friends are expecting you!
+Dialogue: 0,0:14:05.05,0:14:07.47,On Top,,0,0,0,,MORLEY, CAPTAIN OF\NTHE REVOLUTIONARY ARMY WESTERN FORCES
+Dialogue: 0,0:14:07.93,0:14:09.93,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:14:10.05,0:14:11.55,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:14:15.81,0:14:19.52,Default,,0,0,0,,You damn punks of the Revolutionary Army!
+Dialogue: 0,0:14:32.20,0:14:35.45,Default,,0,0,0,,You do understand exactly\Nwhat it means...
+Dialogue: 0,0:14:35.50,0:14:39.12,Default,,0,0,0,,...to go against the Celestial Dragons,\Ndon't you?!
+Dialogue: 0,0:14:43.29,0:14:44.05,Default,,0,0,0,,Gee!
+Dialogue: 0,0:14:50.09,0:14:52.51,Default,,0,0,0,,What's wrong with this boy?!
+Dialogue: 0,0:14:52.55,0:14:54.64,Default,,0,0,0,,He gets mad so easily!
+Dialogue: 0,0:14:54.76,0:14:56.39,Default,,0,0,0,,Because you guys...
+Dialogue: 0,0:14:56.97,0:14:59.02,Default,,0,0,0,,...are destroying the town!
+Dialogue: 0,0:14:59.06,0:15:01.15,Default,,0,0,0,,Where did your leader go?!
+Dialogue: 0,0:15:01.60,0:15:04.48,Default,,0,0,0,,Why are you asking me questions?!\NYou're so naughty!
+Dialogue: 0,0:15:04.52,0:15:05.86,Default,,0,0,0,,You pervert!
+Dialogue: 0,0:15:07.07,0:15:10.82,Default,,0,0,0,,Look who's talking!\NWhat are you wearing?!
+Dialogue: 0,0:15:12.91,0:15:15.24,Default,,0,0,0,,Hey, my eyes are up here!
+Dialogue: 0,0:15:17.12,0:15:20.71,Default,,0,0,0,,Whoa. Why are you staring at me?
+Dialogue: 0,0:15:21.37,0:15:23.08,Default,,0,0,0,,Do you...
+Dialogue: 0,0:15:23.13,0:15:24.34,Default,,0,0,0,,...like me?!
+Dialogue: 0,0:15:24.75,0:15:25.59,Default,,0,0,0,,What?!
+Dialogue: 0,0:15:29.84,0:15:31.72,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:15:35.35,0:15:37.39,Default,,0,0,0,,Hey! Ryokugyu!
+Dialogue: 0,0:15:38.72,0:15:39.81,Default,,0,0,0,,Ryokugyu!
+Dialogue: 0,0:15:40.23,0:15:43.77,Default,,0,0,0,,If any of us gets hurt,\Nyou'll be sentenced to death-{\i1}eh{\i}!
+Dialogue: 0,0:15:43.90,0:15:47.48,Default,,0,0,0,,{\i1}It's hard to fight! Just go away already!{\i}
+Dialogue: 0,0:15:53.53,0:15:54.16,Default,,0,0,0,,What?
+Dialogue: 0,0:15:54.78,0:15:57.87,Default,,0,0,0,,Hey, Fujitora! What are you doing?!
+Dialogue: 0,0:15:58.66,0:16:00.16,Default,,0,0,0,,I'll bring down...
+Dialogue: 0,0:16:00.20,0:16:01.54,Default,,0,0,0,,...a meteor.
+Dialogue: 0,0:16:01.66,0:16:03.79,Default,,0,0,0,,You can't do that! Stop it, you fool!
+Dialogue: 0,0:16:05.38,0:16:07.38,Default,,0,0,0,,Two admirals...
+Dialogue: 0,0:16:07.42,0:16:11.30,Default,,0,0,0,,If this were not the Land of the Gods,\Nthey could easily obliterate the landscape.
+Dialogue: 0,0:16:11.34,0:16:13.43,Default,,0,0,0,,Yet they're fighting so roughly.
+Dialogue: 0,0:16:13.76,0:16:16.68,Default,,0,0,0,,I guess there's no room for us to step in.
+Dialogue: 0,0:16:18.31,0:16:20.52,Default,,0,0,0,,Do they wanna destroy Mary Geoise?!
+Dialogue: 0,0:16:21.02,0:16:24.81,Default,,0,0,0,,Even though they have the disadvantage,\Nthe Revolutionary Army is sticking with it.
+Dialogue: 0,0:16:25.40,0:16:29.57,Default,,0,0,0,,Their captains must be quite strong...
+Dialogue: 0,0:16:30.03,0:16:31.03,Default,,0,0,0,,So intense!
+Dialogue: 0,0:16:33.07,0:16:34.11,Default,,0,0,0,,Well...
+Dialogue: 0,0:16:34.66,0:16:38.20,Default,,0,0,0,,We should get going.
+Dialogue: 0,0:16:51.26,0:16:51.88,Default,,0,0,0,,{\i1}Sabo!{\i}
+Dialogue: 0,0:16:52.47,0:16:54.13,Default,,0,0,0,,{\i1}Have you found the keys to the collars?!{\i}
+Dialogue: 0,0:16:54.51,0:16:55.84,Default,,0,0,0,,It won't take much longer!
+Dialogue: 0,0:16:56.59,0:16:58.18,Default,,0,0,0,,I found out where they are.
+Dialogue: 0,0:17:03.02,0:17:04.10,Default,,0,0,0,,Lindbergh!
+Dialogue: 0,0:17:04.23,0:17:05.44,Default,,0,0,0,,{\i1}What is it?{\i}
+Dialogue: 0,0:17:05.98,0:17:07.90,Default,,0,0,0,,Kuma-{\i1}san{\i} came to Pangaea Castle!
+Dialogue: 0,0:17:08.02,0:17:08.65,Default,,0,0,0,,{\i1}What?!{\i}
+Dialogue: 0,0:17:10.53,0:17:13.36,Default,,0,0,0,,I saw Saint Rosward and his son Charlos...
+Dialogue: 0,0:17:14.20,0:17:16.86,On Top,,0,0,0,,SABO, CHIEF OF STAFF OF THE REVOLUTIONARY ARMY
+Dialogue: 0,0:17:17.28,0:17:21.04,Default,,0,0,0,,I think they're on their way to finish\Nwhat they attempted at the Mingling Courtyard.
+Dialogue: 0,0:17:21.16,0:17:22.70,Default,,0,0,0,,{\i1}What?!{\i}
+Dialogue: 0,0:17:23.62,0:17:24.41,Default,,0,0,0,,What are you...?!
+Dialogue: 0,0:17:26.21,0:17:27.42,Default,,0,0,0,,Please stop!
+Dialogue: 0,0:17:29.75,0:17:34.30,Default,,0,0,0,,I found one-{\i1}eh{\i}! I found a giant Mermaid-{\i1}eh{\i}!
+Dialogue: 0,0:17:41.06,0:17:44.52,Default,,0,0,0,,I'll make her my pet this time for sure.
+Dialogue: 0,0:17:44.93,0:17:47.85,Default,,0,0,0,,With this one's strength...
+Dialogue: 0,0:17:48.35,0:17:51.27,Default,,0,0,0,,I guess they can't give up on\NPrincess Shirahoshi...
+Dialogue: 0,0:17:51.82,0:17:54.36,Default,,0,0,0,,{\i1}How dare they use Kuma-{\i}san{\i1} for that!{\i}
+Dialogue: 0,0:17:54.82,0:17:57.57,Default,,0,0,0,,Of course, I won't let them do that!
+Dialogue: 0,0:17:57.95,0:18:00.12,Default,,0,0,0,,Morley, get ready!
+Dialogue: 0,0:18:00.24,0:18:01.24,Default,,0,0,0,,Okay!
+Dialogue: 0,0:18:01.87,0:18:05.20,Default,,0,0,0,,I will save... Kuma-{\i1}san{\i} at any cost!
+Dialogue: 0,0:18:12.21,0:18:13.34,Default,,0,0,0,,Dad!
+Dialogue: 0,0:18:23.51,0:18:25.47,Default,,0,0,0,,Where are you going all by yourself?
+Dialogue: 0,0:18:25.52,0:18:26.56,Default,,0,0,0,,Princess Vivi.
+Dialogue: 0,0:18:26.68,0:18:29.90,Default,,0,0,0,,You're... from CP-0.
+Dialogue: 0,0:18:33.98,0:18:35.53,Default,,0,0,0,,Please go back to your room.
+Dialogue: 0,0:18:35.86,0:18:36.99,Default,,0,0,0,,Can you leave me alone?!
+Dialogue: 0,0:18:37.57,0:18:40.07,Default,,0,0,0,,I'm going to go to\NVice Admiral Garp for help!
+Dialogue: 0,0:18:40.74,0:18:43.08,Default,,0,0,0,,We will protect you all.
+Dialogue: 0,0:18:43.20,0:18:46.87,Default,,0,0,0,,You guys didn't protect Shirahoshi earlier,
+Dialogue: 0,0:18:46.91,0:18:48.37,Default,,0,0,0,,did you?!
+Dialogue: 0,0:18:48.91,0:18:49.71,Default,,0,0,0,,I bet you know!
+Dialogue: 0,0:18:53.29,0:18:56.63,Default,,0,0,0,,They'll come after her again!
+Dialogue: 0,0:19:02.01,0:19:03.39,Default,,0,0,0,,Your Majesty.
+Dialogue: 0,0:19:04.06,0:19:05.89,Default,,0,0,0,,You'd better not to push yourself...
+Dialogue: 0,0:19:08.35,0:19:10.44,Default,,0,0,0,,No, I'm okay.
+Dialogue: 0,0:19:10.48,0:19:12.73,Default,,0,0,0,,Chaka, Pell.
+Dialogue: 0,0:19:13.40,0:19:16.86,Default,,0,0,0,,I finally get to meet the Five Elders.
+Dialogue: 0,0:19:16.90,0:19:20.82,Default,,0,0,0,,I may never have\Nan opportunity like this again.
+Dialogue: 0,0:19:23.87,0:19:26.29,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:19:38.42,0:19:39.63,Default,,0,0,0,,Stop!
+Dialogue: 0,0:19:40.01,0:19:43.26,Default,,0,0,0,,Only King Cobra is permitted\Nan audience with the Five Elders.
+Dialogue: 0,0:19:43.39,0:19:44.30,Default,,0,0,0,,But...
+Dialogue: 0,0:19:44.43,0:19:47.52,Default,,0,0,0,,...Cobra-{\i1}sama{\i} is not in good health.
+Dialogue: 0,0:19:47.64,0:19:49.23,Default,,0,0,0,,Stand back.
+Dialogue: 0,0:19:51.48,0:19:52.44,Default,,0,0,0,,Cobra-{\i1}sama{\i}...
+Dialogue: 0,0:19:56.23,0:19:58.44,Default,,0,0,0,,This won't take long,
+Dialogue: 0,0:19:58.48,0:20:00.95,Default,,0,0,0,,but I think it'll be boring to\Njust wait outside.
+Dialogue: 0,0:20:01.32,0:20:03.70,Default,,0,0,0,,I need you to guard Vivi.
+Dialogue: 0,0:20:04.16,0:20:06.03,Default,,0,0,0,,She's still so mischievous,
+Dialogue: 0,0:20:06.45,0:20:08.74,Default,,0,0,0,,and I can't stop worrying about her.
+Dialogue: 0,0:20:15.96,0:20:21.09,Default,,0,0,0,,{\i1}How far I have run{\i}
+Dialogue: 0,0:20:15.96,0:20:21.09,On Top,,0,0,0,,{\i1}doredake hashitte kita noka{\i}
+Dialogue: 0,0:20:21.80,0:20:28.39,Default,,0,0,0,,{\i1}Without knowing it, I counted scars{\i}
+Dialogue: 0,0:20:21.80,0:20:28.39,On Top,,0,0,0,,{\i1}wakaranai mama kizuato kazoeta{\i}
+Dialogue: 0,0:20:28.85,0:20:35.81,Default,,0,0,0,,{\i1}A treasure map in my head all along{\i}
+Dialogue: 0,0:20:28.85,0:20:35.81,On Top,,0,0,0,,{\i1}zutto atama no naka ni aru takara no chizu{\i}
+Dialogue: 0,0:20:35.86,0:20:42.32,Default,,0,0,0,,{\i1}Still looking for the future{\i}
+Dialogue: 0,0:20:35.86,0:20:42.32,On Top,,0,0,0,,{\i1}mirai wo sagashi tsuzuketeru{\i}
+Dialogue: 0,0:20:42.36,0:20:49.03,Default,,0,0,0,,{\i1}The real promise{\i}
+Dialogue: 0,0:20:42.36,0:20:49.03,On Top,,0,0,0,,{\i1}hontou no yakusoku wa{\i}
+Dialogue: 0,0:20:49.08,0:20:56.21,Default,,0,0,0,,{\i1}Lies much deeper in my heart{\i}
+Dialogue: 0,0:20:49.08,0:20:56.21,On Top,,0,0,0,,{\i1}mune no oku no motto oku ni aru{\i}
+Dialogue: 0,0:20:56.25,0:21:05.34,Default,,0,0,0,,{\i1}A dream that no one can catch up with{\i}
+Dialogue: 0,0:20:56.25,0:21:05.34,On Top,,0,0,0,,{\i1}dare mo mina oitsukenai yume{\i}
+Dialogue: 0,0:21:05.38,0:21:11.06,Default,,0,0,0,,{\i1}That's all I hold on to{\i}
+Dialogue: 0,0:21:05.38,0:21:11.06,On Top,,0,0,0,,{\i1}tada hitotsu dakishimete{\i}
+Dialogue: 0,0:21:11.10,0:21:18.15,Default,,0,0,0,,{\i1}To you who smiles like the sun{\i}
+Dialogue: 0,0:21:11.10,0:21:18.15,On Top,,0,0,0,,{\i1}taiyou no youni warau anata e{\i}
+Dialogue: 0,0:21:18.19,0:21:25.07,Default,,0,0,0,,{\i1}I'll sing the same song as that day{\i}
+Dialogue: 0,0:21:18.19,0:21:25.07,On Top,,0,0,0,,{\i1}ano hi to onaji uta wo utau yo{\i}
+Dialogue: 0,0:21:25.11,0:21:32.12,Default,,0,0,0,,{\i1}This wish I don't want to forget even when I grow up{\i}
+Dialogue: 0,0:21:25.11,0:21:32.12,On Top,,0,0,0,,{\i1}otona ni nattemo wasuretakunai{\i}
+Dialogue: 0,0:21:32.16,0:21:39.59,Default,,0,0,0,,{\i1}Until it reaches you{\i}
+Dialogue: 0,0:21:32.16,0:21:39.59,On Top,,0,0,0,,{\i1}kono negai ga todoku made{\i}
+Dialogue: 0,0:21:46.43,0:21:50.51,Default,,0,0,0,,{\i1}"Dive into the Sea of Information!\NThe Punk Records Library!"{\i}
+Dialogue: 0,0:21:51.31,0:21:57.69,Default,,0,0,0,,Hi, I'm Lilith, one of the Satellites of\NDr. Vegapunk, the genius scientist!
+Dialogue: 0,0:21:57.81,0:22:00.98,Default,,0,0,0,,I'm Edison, also Vegapunk!
+Dialogue: 0,0:22:01.02,0:22:03.53,Default,,0,0,0,,Today we'll introduce this one! Morley!
+Dialogue: 0,0:22:04.15,0:22:07.45,Default,,0,0,0,,He is a Giant and the captain of\Nthe Revolutionary Army Western Forces.
+Dialogue: 0,0:22:07.49,0:22:10.74,Default,,0,0,0,,He uses the Push-Push Fruit power\Nwhich enables him to push anything away!
+Dialogue: 0,0:22:10.87,0:22:13.29,Default,,0,0,0,,His bounty is 290 million berries.
+Dialogue: 0,0:22:13.33,0:22:17.83,Default,,0,0,0,,He was born on September 11\Nand likes bagna cauda!
+Dialogue: 0,0:22:17.96,0:22:22.96,Default,,0,0,0,,He was once an ill-famed pirate\Nand imprisoned at Impel Down.
+Dialogue: 0,0:22:23.00,0:22:27.38,Default,,0,0,0,,But he successfully escaped the prison\Nwith his Push-Push Fruit power.
+Dialogue: 0,0:22:27.51,0:22:31.26,Default,,0,0,0,,The tunnels he carved to escape\Nlater became New Kama Land.
+Dialogue: 0,0:22:31.39,0:22:34.43,Default,,0,0,0,,He's serving as a captain\Nin the Revolutionary Army,
+Dialogue: 0,0:22:34.47,0:22:39.94,Default,,0,0,0,,and defeated Blackbeard's subordinate Peachbeard\Nwho was attacking the Kingdom of Lulusia.
+Dialogue: 0,0:22:40.06,0:22:41.31,Default,,0,0,0,,Shoot him to death!
+Dialogue: 0,0:22:41.44,0:22:42.61,Default,,0,0,0,,What?!
+Dialogue: 0,0:22:43.86,0:22:46.40,Default,,0,0,0,,Stop it, boys!
+Dialogue: 0,0:22:49.57,0:22:51.12,Default,,0,0,0,,At the Holy Land Mary Geoise,
+Dialogue: 0,0:22:51.16,0:22:55.41,Default,,0,0,0,,he declared war on the Celestial Dragons\Nalong with Sabo and the other captains,
+Dialogue: 0,0:22:55.45,0:22:58.91,Default,,0,0,0,,and they successfully rescued\NBartholomew Kuma.
+Dialogue: 0,0:22:59.04,0:23:01.96,Default,,0,0,0,,I should be careful\Nbecause he can push me away, too.
+Dialogue: 0,0:23:02.00,0:23:06.67,Default,,0,0,0,,Anyway, I really wanna know\Nwhat happened at the Holy Land Mary Geoise!
+Dialogue: 0,0:23:06.80,0:23:08.47,Default,,0,0,0,,That's it for today!
+Dialogue: 0,0:23:08.51,0:23:12.01,Default,,0,0,0,,Now that you've seen it,\Ndonate to our research fund!
+Dialogue: 0,0:23:12.14,0:23:14.39,Default,,0,0,0,,See you next time!
+Dialogue: 0,0:23:19.48,0:23:23.48,Default,,0,0,0,,{\i1}The Celestial Dragons take advantage\Nof their authority and do whatever they like.{\i}
+Dialogue: 0,0:23:23.52,0:23:27.48,Default,,0,0,0,,{\i1}While even the royal families\Nturn a blind eye to their unruly behavior,{\i}
+Dialogue: 0,0:23:27.53,0:23:29.65,Default,,0,0,0,,{\i1}two pirates stand up to them!{\i}
+Dialogue: 0,0:23:29.70,0:23:34.37,Default,,0,0,0,,{\i1}They, who pledged to serve Luffy,\Nbring down the hammer of wrath!{\i}
+Dialogue: 0,0:23:34.99,0:23:36.29,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:36.33,0:23:40.41,Default,,0,0,0,,"The Holy Land in Tumult!\NSai and Leo's Full-Power Blow!"
+Dialogue: 0,0:23:40.46,0:23:45.63,Default,,0,0,0,,I'm gonna become the King of the Pirates!
