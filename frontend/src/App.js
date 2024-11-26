@@ -17,11 +17,23 @@ function App() {
     setResults(data);
   }*/
 
-  const handleSearch = (event) => {
-    // Simulate fetching 10 results based on the input value
-    event.preventDefault();
-    const fetchedResults = Array.from({ length: 10 }, (_, index) => `${inputValue} result ${index + 1}`);
-    setResults(fetchedResults);
+  const handleSearch = async (event) => {
+    event.preventDefault(); // Prevent the default form submission
+
+    try {
+      const response = await fetch(`http://localhost:3000/search?query=${inputValue}`);
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      const contentType = response.headers.get('content-type');
+      if (!contentType || !contentType.includes('application/json')) {
+        throw new TypeError("Expected JSON response");
+      }
+      const data = await response.json();
+      setResults(data);
+    } catch (error) {
+      console.error('There was a problem with the fetch operation:', error);
+    }
   };
 
   return (
