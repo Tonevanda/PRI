@@ -18,4 +18,4 @@ You need Django installed in your system.
 
 To do that, run `pip install django` in your terminal.
 
-To start the server, go into the `backend` folder and run `python3 manage.py runserver`.
+To start the server, go into the `backend` folder and run `python3 manage.py runserver` or `python manage.py runserver`.
