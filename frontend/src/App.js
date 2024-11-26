@@ -6,19 +6,14 @@ function App() {
   const [inputValue, setInputValue] = useState('');
   const [results, setResults] = useState([]);
 
+  // Updates the input value as the user types
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
   }
 
-  /*
-  const handleSearch = async () => {
-    const response = await fetch(`http://localhost:3000/search?query=${inputValue}`);
-    const data = await response.json();
-    setResults(data);
-  }*/
-
+  // Sends a GET request to the server with the search query
   const handleSearch = async (event) => {
-    event.preventDefault(); // Prevent the default form submission
+    event.preventDefault();
 
     try {
       const response = await fetch(`http://localhost:3000/search?query=${inputValue}`);
@@ -49,6 +44,7 @@ function App() {
           />
           <button type='submit' className='btn btn-primary mb-2'>Search</button>
         </form>
+        {/*Prints the results received from the server*/}
         <ul className='list-group'>
           {results.map((result, index) => (
             <li key={index} className='list-group-item'>{result}</li>
