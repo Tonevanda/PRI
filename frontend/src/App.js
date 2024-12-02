@@ -16,7 +16,7 @@ function App() {
     event.preventDefault();
 
     try {
-      const response = await fetch(`http://localhost:3000/search?query=${inputValue}`);
+      const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
