@@ -68,7 +68,7 @@ function App() {
         {/*Prints the results received from the server*/}
         <ul className='list-group'>
           {results.map((result, index) => (
-            <li key={index} className='list-group-item'>{result}</li>
+            <li key={index} className='list-group-item'>{result['Title']}</li>
           ))}
         </ul>
       </header>
