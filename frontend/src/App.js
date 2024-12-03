@@ -13,7 +13,6 @@ function App() {
 
   const handleSearch = async (event) => {
     event.preventDefault();
-
     try {
       const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
       if (!response.ok) {

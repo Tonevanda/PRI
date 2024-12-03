@@ -6,6 +6,8 @@ docker run --rm -p 8983:8983 --name onepiece_solr -v "${PWD}:/data" -d solr:9 so
 # Creates a new core
 docker exec onepiece_solr bin/solr create_core -c def_episodes
 
+docker exec onepiece_solr bin/solr create_core -c m2_episodes
+
 # Guarantess that no default fields are added
 #curl http://localhost:8983/solr/def_episodes/config -d '{"set-user-property": {"update.autoCreateFields":"false"}}'
 
@@ -25,6 +27,11 @@ curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/default_schema.json" \
     http://localhost:8983/solr/def_episodes/schema
 
+# M2 Schema definition via API
+curl -X POST -H 'Content-type:application/json' \
+    --data-binary "@./data/m2schema.json" \
+    http://localhost:8983/solr/m2_episodes/schema
+
 # Add params
 curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/params.json" \
@@ -34,6 +41,11 @@ curl -X POST -H 'Content-type:application/json' \
 curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/params.json" \
     http://localhost:8983/solr/def_episodes/config/params
+
+# Add params to m2 core
+curl -X POST -H 'Content-type:application/json' \
+    --data-binary "@./data/params.json" \
+    http://localhost:8983/solr/m2_episodes/config/params
 
 # Update default parameters with the ones added
 curl -X POST -H "Content-Type: application/json" \
@@ -61,6 +73,19 @@ curl -X POST -H "Content-Type: application/json" \
     }
     }'
 
+# Update default parameters of the m2 core with the ones added
+curl -X POST -H "Content-Type: application/json" \
+    http://localhost:8983/solr/m2_episodes/config/requestHandler \
+    --data-binary '{
+    "update-requesthandler": {
+        "name": "/select",
+        "class": "solr.SearchHandler",
+        "defaults": {
+            "paramset": "params"
+        }
+    }
+    }'
+
 # Index data
 curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./data/data_embeddings.json" \
@@ -70,3 +95,8 @@ curl -X POST -H 'Content-type:application/json' \
 curl -X POST -H 'Content-type:text/csv' \
     --data-binary "@./data/data.csv" \
     http://localhost:8983/solr/def_episodes/update?commit=true
+
+# Index data in m2 core
+curl -X POST -H 'Content-type:text/csv' \
+    --data-binary "@./data/data.csv" \
+    http://localhost:8983/solr/m2_episodes/update?commit=true
