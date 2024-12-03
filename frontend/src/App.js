@@ -15,6 +15,25 @@ function App() {
   const handleSearch = async (event) => {
     event.preventDefault();
 
+    /*try{
+      const response = await fetch(
+        `http://localhost:8983/solr/#/episodes/query?q=*:*&q.op=AND&indent=true&useParams=params`,{
+        mode: 'cors',
+        headers: {
+          'Access-Control-Allow-Origin':'*'
+        }
+      });
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      const contentType = response.headers.get('content-type');
+      if (!contentType || !contentType.includes('application/json')) {
+        throw new TypeError("Expected JSON response");
+      }
+    }catch (error) {
+      console.error('There was a problem with the fetch operation:', error);
+    }*/
+
     try {
       const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
       if (!response.ok) {
@@ -24,7 +43,9 @@ function App() {
       if (!contentType || !contentType.includes('application/json')) {
         throw new TypeError("Expected JSON response");
       }
+      //console.log(response)
       const data = await response.json();
+      console.log(data)
       setResults(data);
     } catch (error) {
       console.error('There was a problem with the fetch operation:', error);
