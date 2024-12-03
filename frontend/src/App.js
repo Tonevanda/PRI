@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import QueryComponent from './query/QueryComponent';
 
 function App() {
   const [inputValue, setInputValue] = useState('');
@@ -14,26 +15,6 @@ function App() {
   // Sends a GET request to the server with the search query
   const handleSearch = async (event) => {
     event.preventDefault();
-
-    /*try{
-      const response = await fetch(
-        `http://localhost:8983/solr/#/episodes/query?q=*:*&q.op=AND&indent=true&useParams=params`,{
-        mode: 'cors',
-        headers: {
-          'Access-Control-Allow-Origin':'*'
-        }
-      });
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      const contentType = response.headers.get('content-type');
-      if (!contentType || !contentType.includes('application/json')) {
-        throw new TypeError("Expected JSON response");
-      }
-    }catch (error) {
-      console.error('There was a problem with the fetch operation:', error);
-    }*/
-
     try {
       const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
       if (!response.ok) {
@@ -66,11 +47,12 @@ function App() {
           <button type='submit' className='btn btn-primary mb-2'>Search</button>
         </form>
         {/*Prints the results received from the server*/}
-        <ul className='list-group'>
+        <div className='query-list'>
           {results.map((result, index) => (
-            <li key={index} className='list-group-item'>{result['Title']}</li>
+            <QueryComponent key={index} query={result} />
           ))}
-        </ul>
+          {console.log(results)}
+        </div>
       </header>
     </div>
   );
