@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import QueryComponent from './query/QueryComponent';
 
 function App() {
   const [inputValue, setInputValue] = useState('');
@@ -46,11 +47,12 @@ function App() {
           <button type='submit' className='btn btn-primary mb-2'>Search</button>
         </form>
         {/*Prints the results received from the server*/}
-        <ul className='list-group'>
+        <div className='query-list'>
           {results.map((result, index) => (
-            <li key={index} className='list-group-item'>{result['Title']}</li>
+            <QueryComponent key={index} query={result} />
           ))}
-        </ul>
+          {console.log(results)}
+        </div>
       </header>
     </div>
   );
