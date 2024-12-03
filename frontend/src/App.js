@@ -1,18 +1,16 @@
 import React, { useState } from 'react';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import QueryComponent from './query/QueryComponent';
+import './App.css';
+import QueryComponent from './query/QueryComponent'; // Import the QueryComponent
 
 function App() {
   const [inputValue, setInputValue] = useState('');
   const [results, setResults] = useState([]);
 
-  // Updates the input value as the user types
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
-  }
+  };
 
-  // Sends a GET request to the server with the search query
   const handleSearch = async (event) => {
     event.preventDefault();
 
@@ -25,9 +23,7 @@ function App() {
       if (!contentType || !contentType.includes('application/json')) {
         throw new TypeError("Expected JSON response");
       }
-      //console.log(response)
       const data = await response.json();
-      console.log(data)
       setResults(data);
     } catch (error) {
       console.error('There was a problem with the fetch operation:', error);
@@ -37,22 +33,31 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <form onSubmit={handleSearch}>
-          <input
-            type="text"
-            value={inputValue}
-            onChange={handleInputChange}
-            placeholder="Type something..."
-            className='form-control mb-2'
-          />
-          <button type='submit' className='btn btn-primary mb-2'>Search</button>
-        </form>
-        {/*Prints the results received from the server*/}
-        <div className='query-list'>
+        <div className="container mt-3">
+          <div className="row justify-content-center">
+            <div className="col-md-8 mr-2">
+              <form onSubmit={handleSearch}>
+                <div className="input-group mb-2">
+                  <input
+                    type="text"
+                    value={inputValue}
+                    onChange={handleInputChange}
+                    placeholder="Type something..."
+                    className="form-control"
+                  />
+                  <div className="input-group-append">
+                    <button type="submit" className="btn btn-primary ml-2">Search</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        {/* Prints the results received from the server */}
+        <div className="query-list">
           {results.map((result, index) => (
             <QueryComponent key={index} query={result} />
           ))}
-          {console.log(results)}
         </div>
       </header>
     </div>
