@@ -50,7 +50,15 @@
             "name": "date",
             "class": "solr.DatePointField",
             "docValues": true
+        },
+        {
+            "name": "denseVector",
+            "class": "solr.DenseVectorField",
+            "vectorDimension": 384,
+            "similarityFunction": "cosine",
+            "knnAlgorithm": "hnsw"
         }
+
     ],
     "add-field": [
         {
@@ -118,6 +126,13 @@
             "type": "text",
             "indexed": true,
             "stored": true
+        },
+        {
+            "name": "vector",
+            "type": "denseVector",
+            "indexed": true,
+            "stored": true
         }
+
     ]
 }

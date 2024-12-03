@@ -40,17 +40,7 @@ def feedForward(query_file):
 
         subprocess.run(command, shell=True, check=True)
 
-        '''try:
-            result = subprocess.run(['python', '../src/scripts/query_solr.py','--query', params['q'], '--collection', params['collection'], '--useParams', params['useParams'], '--uri', 'http://localhost:8983/solr'], check=True, capture_output=True, text=True)
-            print(result.stdout)
-            # If the command succeeds, you can access the output using result.stdout
-        except subprocess.CalledProcessError as e:
-            print(f"Error occurred while executing the command: {e}")
-            print(f"Error output: {e.stderr}")
-        
-        with open('./results/results_bounty_trec.txt', 'w') as output_file:
-            # Run the command and redirect output to the file
-            subprocess.run(['python', '../src/scripts/solr2trec.py'], stdout=output_file, check=True)'''
+
         
         
 

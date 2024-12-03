@@ -62,11 +62,11 @@ curl -X POST -H "Content-Type: application/json" \
     }'
 
 # Index data
-curl -X POST -H 'Content-type:text/csv' \
-    --data-binary "@./data/data.csv" \
+curl -X POST -H 'Content-type:application/json' \
+    --data-binary "@./data/data_embeddings.json" \
     http://localhost:8983/solr/episodes/update?commit=true
 
 # Index data in default core
-curl -X POST -H 'Content-type:text/csv' \
-    --data-binary "@./data/data.csv" \
+curl -X POST -H 'Content-type:application/json' \
+    --data-binary "@./data/data_embeddings.json" \
     http://localhost:8983/solr/def_episodes/update?commit=true
