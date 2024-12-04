@@ -62,9 +62,11 @@ function WelcomePageComponent() {
                                 type="text"
                                 value={inputValue}
                                 onChange={handleInputChange}
-                                placeholder="Type something..."
                                 className="form-control rounded-pill"
                             />
+                            <span className="input-icon">
+                                <i className="fas fa-search"></i>
+                            </span>
                         </div>
                     </form>
                 </div>
@@ -83,7 +85,8 @@ function WelcomePageComponent() {
                     <button
                         key={index}
                         onClick={() => handlePageChange(index + 1)}
-                        className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'} ml-1`}
+                        className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'}`}
+                        style={{ margin: '3px' }}
                     >
                         {index + 1}
                     </button>

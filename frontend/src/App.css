@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.input-group {
+  position: relative;
+}
+
+.input-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #aaa;
+  pointer-events: none; /* Prevents the icon from blocking input clicks */
+}
+
+.form-control {
+  padding-left: 55px; /* Adjust this value to make space for the icon */
+}
