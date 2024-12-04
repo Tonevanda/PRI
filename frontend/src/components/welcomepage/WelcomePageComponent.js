@@ -35,6 +35,12 @@ function WelcomePageComponent() {
         setCurrentPage(page);
     }
 
+    const handleReset = () => {
+        setInputValue('');
+        setResults([]);
+        setCurrentPage(1);
+    };
+
     // Calculate the results to display on the current page
     const indexOfLastResult = currentPage * resultsPerPage;
     const indexOfFirstResult = indexOfLastResult - resultsPerPage;
@@ -44,47 +50,48 @@ function WelcomePageComponent() {
     const totalPages = Math.ceil(results.length / resultsPerPage);
 
     return (
-        <div className="App">
-            <header className="App-header">
-                <div className="container mt-3">
-                    <div className="row justify-content-center">
-                        <div className="col-md-8 mr-2">
-                            <form onSubmit={handleSearch}>
-                                <div className="input-group mb-2">
-                                    <input
-                                        type="text"
-                                        value={inputValue}
-                                        onChange={handleInputChange}
-                                        placeholder="Type something..."
-                                        className="form-control"
-                                    />
-                                    <div className="input-group-append">
-                                        <button type="submit" className="btn btn-primary ml-2">Search</button>
-                                    </div>
-                                </div>
-                            </form>
+        <div className="welcome-page container mt-3">
+            <div className='row justify-content-center'>
+                <h1 onClick={handleReset} style={{ cursor: 'pointer' }}>One Search</h1>
+            </div>
+            <div className='row justify-content-center'>
+                <div id="searchform-div" className="col-md-8 mr-2">
+                    <form onSubmit={handleSearch}>
+                        <div className="input-group mb-2">
+                            <input
+                                type="text"
+                                value={inputValue}
+                                onChange={handleInputChange}
+                                placeholder="Type something..."
+                                className="form-control"
+                            />
+                            <div className="input-group-append">
+                                <button type="submit" className="btn btn-primary ml-2">Search</button>
+                            </div>
                         </div>
-                    </div>
+                    </form>
                 </div>
-                {/* Prints the results received from the server */}
-                <div className="query-list">
-                    {currentResults.map((result, index) => (
-                        <QueryComponent key={index} query={result} />
-                    ))}
-                </div>
-                {/* Pagination controls */}
-                <div className='pagination-controls'>
-                    {Array.from({ length: totalPages }, (_, index) => (
-                        <button
-                            key={index}
-                            onClick={() => handlePageChange(index + 1)}
-                            className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'} ml-1`}
-                        >
-                            {index + 1}
-                        </button>
-                    ))}
-                </div>
-            </header>
+            </div>
+
+            {/* Prints the results received from the server */}
+            <div className="query-list">
+                {currentResults.map((result, index) => (
+                    <QueryComponent key={index} query={result} />
+                ))}
+            </div>
+
+            {/* Pagination controls */}
+            <div className='pagination-controls'>
+                {Array.from({ length: totalPages }, (_, index) => (
+                    <button
+                        key={index}
+                        onClick={() => handlePageChange(index + 1)}
+                        className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'} ml-1`}
+                    >
+                        {index + 1}
+                    </button>
+                ))}
+            </div>
         </div>
     );
 };

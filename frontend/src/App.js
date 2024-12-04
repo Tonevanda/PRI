@@ -4,7 +4,11 @@ import WelcomePageComponent from './components/welcomepage/WelcomePageComponent'
 
 function App() {
   return (
-    WelcomePageComponent()
+    <div className='App'>
+      <header className='App-header'>
+        <WelcomePageComponent />
+      </header>
+    </div>
   );
 }
 
