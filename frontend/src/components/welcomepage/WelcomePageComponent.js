@@ -51,10 +51,10 @@ function WelcomePageComponent() {
 
     return (
         <div className="welcome-page container mt-3">
-            <div className='row justify-content-center'>
-                <h1 onClick={handleReset} style={{ cursor: 'pointer' }}>One Search</h1>
+            <div className='row justify-content-center mb-5'>
+                <h1 onClick={handleReset} className='display-1' style={{ cursor: 'pointer' }}>One Search</h1>
             </div>
-            <div className='row justify-content-center'>
+            <div className='row justify-content-center mb-3'>
                 <div id="searchform-div" className="col-md-8 mr-2">
                     <form onSubmit={handleSearch}>
                         <div className="input-group mb-2">
@@ -63,11 +63,8 @@ function WelcomePageComponent() {
                                 value={inputValue}
                                 onChange={handleInputChange}
                                 placeholder="Type something..."
-                                className="form-control"
+                                className="form-control rounded-pill"
                             />
-                            <div className="input-group-append">
-                                <button type="submit" className="btn btn-primary ml-2">Search</button>
-                            </div>
                         </div>
                     </form>
                 </div>
