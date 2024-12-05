@@ -4,11 +4,7 @@ html, body {
 }
 
 body {
-  background-image: url('../public/images/background.jpeg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: none;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,7 +22,7 @@ body {
 }
 
 .welcome-page.initial {
-  margin-top: 15%;
+  margin-top: 20%;
 }
 
 .input-group {
@@ -52,4 +48,23 @@ body {
 
 #root{
   width: 100%;
+}
+
+.card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
 }
