@@ -17,8 +17,8 @@ body {
   align-items: center;
   width: 100%;
   margin-top: 5%;
-  max-width: 100%; /* Set a maximum width for the welcome page */
-  text-align: center; /* Centers text horizontally */
+  max-width: 100%;
+  text-align: center;
 }
 
 .welcome-page.initial {
@@ -26,11 +26,11 @@ body {
 }
 
 .input-group {
-  width: 100%; /* Make the input group take the full width of its container */
+  width: 100%;
 }
 
 .form-control {
-  padding-left: 55px; /* Adjust this value to make space for the icon */
+  padding-left: 55px;
 }
 
 .input-icon {
@@ -39,7 +39,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
   color: #aaa;
-  pointer-events: none; /* Prevents the icon from blocking input clicks */
+  pointer-events: none;
 }
 
 .App{
