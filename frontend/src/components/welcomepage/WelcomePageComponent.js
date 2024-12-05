@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import QueryComponent from '../query/QueryComponent.js';
+import QueryComponent from '../query/QueryComponent'; // Import the QueryComponent
 
 function WelcomePageComponent() {
-
     const [inputValue, setInputValue] = useState('');
     const [results, setResults] = useState([]);
     const [currentPage, setCurrentPage] = useState(1);
@@ -15,6 +14,7 @@ function WelcomePageComponent() {
 
     const handleSearch = async (event) => {
         event.preventDefault();
+
         try {
             const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
             if (!response.ok) {
@@ -26,19 +26,20 @@ function WelcomePageComponent() {
             }
             const data = await response.json();
             setResults(data);
+            setCurrentPage(1); // Reset to the first page on new search
         } catch (error) {
             console.error('There was a problem with the fetch operation:', error);
         }
     };
 
-    const handlePageChange = (page) => {
-        setCurrentPage(page);
-    }
-
     const handleReset = () => {
         setInputValue('');
         setResults([]);
         setCurrentPage(1);
+    };
+
+    const handlePageChange = (pageNumber) => {
+        setCurrentPage(pageNumber);
     };
 
     // Calculate the results to display on the current page
@@ -50,26 +51,25 @@ function WelcomePageComponent() {
     const totalPages = Math.ceil(results.length / resultsPerPage);
 
     return (
-        <div className="welcome-page container mt-3">
-            <div className='row justify-content-center mb-5'>
+        <div className={`welcome-page ${results.length === 0 ? 'initial' : ''}`}>
+            <div className='mb-5'>
                 <h1 onClick={handleReset} className='display-1' style={{ cursor: 'pointer' }}>One Search</h1>
             </div>
-            <div className='row justify-content-center mb-3'>
-                <div id="searchform-div" className="col-md-8 mr-2">
-                    <form onSubmit={handleSearch}>
-                        <div className="input-group mb-2">
-                            <input
-                                type="text"
-                                value={inputValue}
-                                onChange={handleInputChange}
-                                className="form-control rounded-pill"
-                            />
-                            <span className="input-icon">
-                                <i className="fas fa-search"></i>
-                            </span>
-                        </div>
-                    </form>
-                </div>
+            <div className='mb-3 w-50'>
+                <form onSubmit={handleSearch} className="w-100">
+                    <div className="input-group mb-2 mx-auto">
+                        <input
+                            type="text"
+                            value={inputValue}
+                            onChange={handleInputChange}
+                            placeholder="Type something..."
+                            className="form-control rounded-pill"
+                        />
+                        <span className="input-icon">
+                            <i className="fas fa-search"></i>
+                        </span>
+                    </div>
+                </form>
             </div>
 
             {/* Prints the results received from the server */}
@@ -80,13 +80,13 @@ function WelcomePageComponent() {
             </div>
 
             {/* Pagination controls */}
-            <div className='pagination-controls'>
+            <div className='pagination-controls mt-3'>
                 {Array.from({ length: totalPages }, (_, index) => (
                     <button
                         key={index}
                         onClick={() => handlePageChange(index + 1)}
                         className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'}`}
-                        style={{ margin: '3px' }}
+                        style={{ marginLeft: '5px' }} // Add inline style for margin
                     >
                         {index + 1}
                     </button>
@@ -94,6 +94,6 @@ function WelcomePageComponent() {
             </div>
         </div>
     );
-};
+}
 
 export default WelcomePageComponent;

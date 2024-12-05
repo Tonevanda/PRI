@@ -1,44 +1,40 @@
-.App {
-  text-align: center;
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-image: url('../public/images/background.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.welcome-page {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 100%;
+  margin-top: 5%;
+  max-width: 100%; /* Set a maximum width for the welcome page */
+  text-align: center; /* Centers text horizontally */
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.welcome-page.initial {
+  margin-top: 15%;
 }
 
 .input-group {
-  position: relative;
+  width: 100%; /* Make the input group take the full width of its container */
+}
+
+.form-control {
+  padding-left: 55px; /* Adjust this value to make space for the icon */
 }
 
 .input-icon {
@@ -50,6 +46,10 @@
   pointer-events: none; /* Prevents the icon from blocking input clicks */
 }
 
-.form-control {
-  padding-left: 55px; /* Adjust this value to make space for the icon */
+.App{
+  width: 100%;
+}
+
+#root{
+  width: 100%;
 }
