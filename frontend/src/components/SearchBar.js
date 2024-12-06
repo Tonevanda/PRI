@@ -11,7 +11,7 @@ function SearchBar({ inputValue, handleInputChange, handleSearch }) {
                         value={inputValue}
                         onChange={handleInputChange}
                         placeholder="Type something..."
-                        className="form-control rounded-pill"
+                        className="form-control"
                     />
                     <span className="input-icon">
                         <i className="fas fa-search"></i>
