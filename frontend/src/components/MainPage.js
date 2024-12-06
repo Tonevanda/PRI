@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import QueryResult from './QueryResult.js';
+import SearchBar from './SearchBar.js';
+import Pagination from './Pagination.js';
 
 function MainPage() {
     const [inputValue, setInputValue] = useState('');
@@ -52,25 +54,18 @@ function MainPage() {
 
     return (
         <div className={`welcome-page ${results.length === 0 ? 'initial' : ''}`}>
+
+            {/* Title */}
             <div className='mb-5'>
                 <h1 onClick={handleReset} className='display-1' style={{ cursor: 'pointer' }}>One Search</h1>
             </div>
-            <div className='mb-3 w-50'>
-                <form onSubmit={handleSearch} className="w-100">
-                    <div className="input-group mb-2 mx-auto">
-                        <input
-                            type="text"
-                            value={inputValue}
-                            onChange={handleInputChange}
-                            placeholder="Type something..."
-                            className="form-control rounded-pill"
-                        />
-                        <span className="input-icon">
-                            <i className="fas fa-search"></i>
-                        </span>
-                    </div>
-                </form>
-            </div>
+
+            {/* Search bar */}
+            <SearchBar
+                inputValue={inputValue}
+                handleInputChange={handleInputChange}
+                handleSearch={handleSearch}
+            />
 
             {/* Prints the results received from the server */}
             <div className="query-list">
@@ -80,18 +75,11 @@ function MainPage() {
             </div>
 
             {/* Pagination controls */}
-            <div className='pagination-controls mt-3'>
-                {Array.from({ length: totalPages }, (_, index) => (
-                    <button
-                        key={index}
-                        onClick={() => handlePageChange(index + 1)}
-                        className={`btn ${currentPage === index + 1 ? 'btn-primary' : 'btn-secondary'}`}
-                        style={{ marginLeft: '5px' }} // Add inline style for margin
-                    >
-                        {index + 1}
-                    </button>
-                ))}
-            </div>
+            <Pagination
+                totalPages={totalPages}
+                currentPage={currentPage}
+                handlePageChange={handlePageChange}
+            />
         </div>
     );
 }
