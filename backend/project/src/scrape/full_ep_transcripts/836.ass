@@ -1,0 +1,388 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:47.00,0:02:51.06,Default,,0000,0000,0000,,{\i1}Sanji and Pudding's bloodbath wedding\Nfinally began.{\i0}
+Dialogue: 0,0:02:52.50,0:02:57.05,Default,,0000,0000,0000,,{\i1}Luffy and the others executed a mission\Nin which they planned to make Big Mom shriek.{\i0}
+Dialogue: 0,0:02:57.63,0:02:59.67,Default,,0000,0000,0000,,{\i1}Their plan was...{\i0}
+Dialogue: 0,0:02:59.67,0:03:05.01,Default,,0000,0000,0000,,{\i1}...to break her most-treasured portrait of\NMother Carmel, the mysterious nun,{\i0}
+Dialogue: 0,0:03:05.01,0:03:07.00,Default,,0000,0000,0000,,{\i1}and show it to her.{\i0}
+Dialogue: 0,0:03:12.81,0:03:16.57,Default,,0000,0000,0000,,{\i1}At last, Big Mom has started shrieking.{\i0}
+Dialogue: 0,0:03:20.45,0:03:25.62,Default,,0000,0000,0000,,{\i1}"Mom's Secret!\NThe Giant's Island Elbaph and a Little Monster!"{\i0}
+Dialogue: 0,0:03:32.92,0:03:34.27,Default,,0000,0000,0000,,What a voice!
+Dialogue: 0,0:03:37.30,0:03:38.81,Default,,0000,0000,0000,,{\i1}Mother...{\i0}
+Dialogue: 0,0:03:39.21,0:03:42.45,Default,,0000,0000,0000,,{\i1}Please listen to me, Mother...{\i0}
+Dialogue: 0,0:03:43.26,0:03:48.77,Default,,0000,0000,0000,,{\i1}No one listens to what I say.{\i0}
+Dialogue: 0,0:03:48.77,0:03:53.77,Default,,0000,0000,0000,,{\i1}Hey, Mother... Where did you go?{\i0}
+Dialogue: 0,0:03:55.23,0:03:57.44,Default,,0000,0000,0000,,{\i1}Big Mom's tears...{\i0}
+Dialogue: 0,0:03:58.36,0:04:04.74,Default,,0000,0000,0000,,{\i1}What's behind them goes back 63 years ago\Nto Elbaph in the New World.{\i0}
+Dialogue: 0,0:04:05.31,0:04:11.80,Default,,0000,0000,0000,,{\i1}That is where the world-famous Giants,\Nthe Warriors of Elbaph, lived.{\i0}
+Dialogue: 0,0:04:28.93,0:04:30.54,Default,,0000,0000,0000,,Now, come on.
+Dialogue: 0,0:04:34.10,0:04:37.90,On Top,,0000,0000,0000,,CHARLOTTE LINLIN\N(A HUMAN, FIVE YEARS OLD)
+Dialogue: 0,0:04:35.06,0:04:38.00,Default,,0000,0000,0000,,What's the name of this place?
+Dialogue: 0,0:04:38.00,0:04:42.67,Default,,0000,0000,0000,,I'll tell you about it later.\NCome on down now, Linlin.
+Dialogue: 0,0:04:43.03,0:04:44.09,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:04:44.49,0:04:45.91,Default,,0000,0000,0000,,Hup!
+Dialogue: 0,0:04:49.83,0:04:51.50,Default,,0000,0000,0000,,Hey, hey.
+Dialogue: 0,0:04:52.29,0:04:56.83,Default,,0000,0000,0000,,Where am I?\NAre you going to go somewhere?
+Dialogue: 0,0:04:56.83,0:04:59.71,Default,,0000,0000,0000,,Daddy has work to do near here.
+Dialogue: 0,0:04:59.71,0:05:02.51,Default,,0000,0000,0000,,Linlin, can you be a good girl\Nand wait for us?
+Dialogue: 0,0:05:02.51,0:05:05.05,Default,,0000,0000,0000,,What?! I'm coming with you...
+Dialogue: 0,0:05:05.05,0:05:09.17,Default,,0000,0000,0000,,If you're a good girl, you can eat as \Nmany sweets from the bag as you like.
+Dialogue: 0,0:05:09.17,0:05:10.64,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:05:11.01,0:05:12.39,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:12.39,0:05:15.14,Default,,0000,0000,0000,,All of them?!\NThen, I'll wait, I'll wait!
+Dialogue: 0,0:05:15.14,0:05:17.56,Default,,0000,0000,0000,,I'll be waiting for you!
+Dialogue: 0,0:05:21.27,0:05:22.83,Default,,0000,0000,0000,,Goodbye!
+Dialogue: 0,0:05:22.83,0:05:24.54,Default,,0000,0000,0000,,See you again!
+Dialogue: 0,0:05:24.54,0:05:26.76,Default,,0000,0000,0000,,Come back soon!
+Dialogue: 0,0:05:28.87,0:05:30.09,Default,,0000,0000,0000,,Linlin...
+Dialogue: 0,0:05:30.09,0:05:31.57,Default,,0000,0000,0000,,Don't cry yet.
+Dialogue: 0,0:05:32.40,0:05:36.23,Default,,0000,0000,0000,,After having caused that much damage,\Nwe're lucky she's only being deported.
+Dialogue: 0,0:05:36.62,0:05:39.36,Default,,0000,0000,0000,,She is... more than we can handle...
+Dialogue: 0,0:05:41.38,0:05:45.98,Default,,0000,0000,0000,,They say the Holy Mother lives here.\NShe'll save Linlin.
+Dialogue: 0,0:05:46.33,0:05:49.57,Default,,0000,0000,0000,,Let's set off! This area is dangerous!
+Dialogue: 0,0:05:58.35,0:06:01.11,Default,,0000,0000,0000,,See you!
+Dialogue: 0,0:06:03.25,0:06:06.74,Default,,0000,0000,0000,,Wow! Those are big fish.
+Dialogue: 0,0:06:20.00,0:06:21.06,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:06:25.62,0:06:26.73,Default,,0000,0000,0000,,All gone...
+Dialogue: 0,0:06:26.73,0:06:28.22,Default,,0000,0000,0000,,It's all gone.
+Dialogue: 0,0:06:31.01,0:06:32.76,On Top,,0000,0000,0000,,GROWL
+Dialogue: 0,0:06:35.56,0:06:38.14,Default,,0000,0000,0000,,I'm hungry...
+Dialogue: 0,0:06:39.94,0:06:41.55,Default,,0000,0000,0000,,It's snowing!
+Dialogue: 0,0:06:43.32,0:06:45.69,Default,,0000,0000,0000,,Aren't they back yet?
+Dialogue: 0,0:06:50.45,0:06:52.32,On Top,,0000,0000,0000,,GROWL
+Dialogue: 0,0:06:53.78,0:06:57.92,Default,,0000,0000,0000,,It's strange.\NThey've been gone for a long time.
+Dialogue: 0,0:06:57.92,0:07:00.37,Default,,0000,0000,0000,,I'm starving...
+Dialogue: 0,0:07:00.83,0:07:04.48,Default,,0000,0000,0000,,Momma, Papa... Where did you go?
+Dialogue: 0,0:07:04.92,0:07:07.98,Default,,0000,0000,0000,,Why aren't you coming back?
+Dialogue: 0,0:07:12.80,0:07:14.49,Default,,0000,0000,0000,,{\i1}Regarding Elbaph,{\i0}
+Dialogue: 0,0:07:16.06,0:07:21.28,Default,,0000,0000,0000,,{\i1}a century ago, it was home to Giant warriors\Nthat were feared by the world.{\i0}
+Dialogue: 0,0:07:21.28,0:07:23.90,Default,,0000,0000,0000,,{\i1}They were the Giant Pirates!{\i0}
+Dialogue: 0,0:07:25.15,0:07:31.24,Default,,0000,0000,0000,,{\i1}They raised havoc on the seas everywhere\Nand burned down countless cities.{\i0}
+Dialogue: 0,0:07:32.03,0:07:33.24,Default,,0000,0000,0000,,{\i1}However,{\i0}
+Dialogue: 0,0:07:34.38,0:07:39.47,Default,,0000,0000,0000,,{\i1}one day, all of a sudden,\Nthe Giant Pirates lost their two captains{\i0}
+Dialogue: 0,0:07:39.47,0:07:41.43,Default,,0000,0000,0000,,{\i1}and passed into legend.{\i0}
+Dialogue: 0,0:07:41.90,0:07:44.27,Italics,,0000,0000,0000,,{\i1}Shortly thereafter, several of its stragglers
+Dialogue: 0,0:07:44.27,0:07:46.34,Italics,,0000,0000,0000,,who weren't careful after \Nthe loss of their leaders,{\i0}
+Dialogue: 0,0:07:46.34,0:07:49.82,Italics,,0000,0000,0000,,{\i1}were caught by the Navy\Nand were about to be executed.{\i0}
+Dialogue: 0,0:07:49.82,0:07:51.22,Default,,0000,0000,0000,,Kill them!
+Dialogue: 0,0:08:00.73,0:08:02.29,Default,,0000,0000,0000,,Please wait!
+Dialogue: 0,0:08:03.48,0:08:05.53,Default,,0000,0000,0000,,Halt the execution!
+Dialogue: 0,0:08:05.53,0:08:08.03,Default,,0000,0000,0000,,Heaven is asking for reconciliation!
+Dialogue: 0,0:08:09.69,0:08:12.85,Default,,0000,0000,0000,,{\i1}A beautiful wandering nun appeared!{\i0}
+Dialogue: 0,0:08:13.28,0:08:16.78,On Top,,0000,0000,0000,,SISTER CARMEL
+Dialogue: 0,0:08:13.46,0:08:16.24,Default,,0000,0000,0000,,{\i1}Her name was Sister Carmel.{\i0}
+Dialogue: 0,0:08:16.89,0:08:20.05,Default,,0000,0000,0000,,Heaven is asking for reconciliation?\NWhat are you talking about?!
+Dialogue: 0,0:08:20.05,0:08:23.06,Default,,0000,0000,0000,,Do you know how much terror\Nthey caused...
+Dialogue: 0,0:08:23.06,0:08:25.85,Default,,0000,0000,0000,,An even greater reason for penance!\NWhy can't you see that?
+Dialogue: 0,0:08:36.47,0:08:38.57,Default,,0000,0000,0000,,If you kill them,
+Dialogue: 0,0:08:38.57,0:08:44.86,Default,,0000,0000,0000,,the warriors of Elbaph will form an army\Nto seek revenge against humans!
+Dialogue: 0,0:08:45.23,0:08:47.17,Default,,0000,0000,0000,,Forgive their sins!
+Dialogue: 0,0:08:55.11,0:08:57.97,Default,,0000,0000,0000,,I'll lead them!
+Dialogue: 0,0:09:03.16,0:09:05.85,Default,,0000,0000,0000,,To a world where all races join hands
+Dialogue: 0,0:09:07.67,0:09:10.03,Default,,0000,0000,0000,,and share laughter!
+Dialogue: 0,0:09:11.76,0:09:16.69,Italics,,0000,0000,0000,,{\i1}They eventually called Carmel "Mother"\Nand opened an orphanage...{\i0}
+Dialogue: 0,0:09:16.69,0:09:19.83,Italics,,0000,0000,0000,,...{\i1}called "House of Lambs" \N{\i0}{\i1}where she took in children
+Dialogue: 0,0:09:19.83,0:09:23.08,Italics,,0000,0000,0000,,of any race or birth, who had no place to go.{\i0}
+Dialogue: 0,0:09:24.73,0:09:28.12,Italics,,0000,0000,0000,,{\i1}On Elbaph where the Giants live...{\i0}
+Dialogue: 0,0:09:28.12,0:09:32.90,Default,,0000,0000,0000,,{\i1}At the same time, she worked as a bridge\Nbetween the Giants and humans...{\i0}
+Dialogue: 0,0:09:35.11,0:09:38.49,Default,,0000,0000,0000,,{\i1}And then, 37 years later...{\i0}
+Dialogue: 0,0:09:42.24,0:09:46.33,Default,,0000,0000,0000,,{\i1}Mother Carmel met Linlin.{\i0}
+Dialogue: 0,0:09:46.92,0:09:49.26,Default,,0000,0000,0000,,You're in good hands now, Linlin.
+Dialogue: 0,0:09:49.26,0:09:53.17,Default,,0000,0000,0000,,Until your mom and dad come back,\Nlet's be friends and live together!
+Dialogue: 0,0:09:53.17,0:09:56.74,Default,,0000,0000,0000,,They won't come back!\NYou've been abandoned!
+Dialogue: 0,0:09:56.74,0:10:00.32,Default,,0000,0000,0000,,All children here are very unique.
+Dialogue: 0,0:10:00.32,0:10:02.27,Default,,0000,0000,0000,,So unique that our parents dumped us!
+Dialogue: 0,0:10:03.72,0:10:06.16,Default,,0000,0000,0000,,You'll become friends with them\Nin no time.
+Dialogue: 0,0:10:06.39,0:10:08.87,Default,,0000,0000,0000,,Uh-huh! Thank you!
+Dialogue: 0,0:10:08.87,0:10:10.73,Default,,0000,0000,0000,,I'm starving!
+Dialogue: 0,0:10:10.73,0:10:13.45,Default,,0000,0000,0000,,You're huge! Are you a Giant?
+Dialogue: 0,0:10:13.45,0:10:15.76,Default,,0000,0000,0000,,Let's eat then!
+Dialogue: 0,0:10:15.76,0:10:19.68,Default,,0000,0000,0000,,{\i1}There was a prince who got expelled\Nfrom his country in the aftermath of a coup...{\i0}
+Dialogue: 0,0:10:20.24,0:10:23.13,Default,,0000,0000,0000,,{\i1}And a child who was almost enslaved\Nbecause of poverty...{\i0}
+Dialogue: 0,0:10:23.71,0:10:26.84,Default,,0000,0000,0000,,{\i1}All these troubled children\Nwho couldn't be controlled even by their parents...{\i0}
+Dialogue: 0,0:10:26.84,0:10:32.06,Default,,0000,0000,0000,,{\i1}...were living in the village of the Giants\Nregardless of their birth or race.{\i0}
+Dialogue: 0,0:10:33.56,0:10:34.77,Default,,0000,0000,0000,,Hey, Mother!
+Dialogue: 0,0:10:34.77,0:10:37.22,Default,,0000,0000,0000,,Is she new?
+Dialogue: 0,0:10:39.63,0:10:45.32,Default,,0000,0000,0000,,{\i1}More than anything, to Linlin\Nwho had always been bigger than the others,{\i0}
+Dialogue: 0,0:10:45.32,0:10:48.02,Italics,,0000,0000,0000,,{\i1}Elbaph was the first place she'd seen
+Dialogue: 0,0:10:48.02,0:10:52.24,Italics,,0000,0000,0000,,where people, houses, and \Neverything else fit her size,{\i0}
+Dialogue: 0,0:10:52.24,0:10:54.63,Default,,0000,0000,0000,,{\i1}and she was very comfortable.{\i0}
+Dialogue: 0,0:10:55.30,0:10:59.40,Default,,0000,0000,0000,,This is great!
+Dialogue: 0,0:11:32.35,0:11:34.21,Default,,0000,0000,0000,,No! No!
+Dialogue: 0,0:11:34.45,0:11:36.38,Default,,0000,0000,0000,,It's not good to fight!
+Dialogue: 0,0:11:40.36,0:11:44.25,Default,,0000,0000,0000,,Come on! It's not good to fight!
+Dialogue: 0,0:11:44.25,0:11:48.85,Default,,0000,0000,0000,,Mother always says "Be nice to each other"!
+Dialogue: 0,0:11:49.54,0:11:50.56,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:50.75,0:11:52.83,On Top,,0000,0000,0000,,THE NEXT DAY
+Dialogue: 0,0:11:53.17,0:11:57.46,Default,,0000,0000,0000,,Why did it happen? Why did it happen?
+Dialogue: 0,0:11:59.44,0:12:02.34,Default,,0000,0000,0000,,Oh, no. What's the matter, Linlin?
+Dialogue: 0,0:12:03.02,0:12:05.57,Default,,0000,0000,0000,,Mother, listen...
+Dialogue: 0,0:12:07.14,0:12:11.30,Default,,0000,0000,0000,,A bear and a wolf were \Nfighting in the forest.
+Dialogue: 0,0:12:11.30,0:12:15.20,Default,,0000,0000,0000,,It's not good to fight and I thought\NI had to help them become friends
+Dialogue: 0,0:12:15.20,0:12:18.63,Default,,0000,0000,0000,,so I put them in the same cage yesterday.
+Dialogue: 0,0:12:18.62,0:12:23.08,Default,,0000,0000,0000,,But the bear ate the wolf.
+Dialogue: 0,0:12:23.08,0:12:26.14,Default,,0000,0000,0000,,So I hit the bear.
+Dialogue: 0,0:12:26.86,0:12:30.93,Default,,0000,0000,0000,,The bear seems sorry.\NHow many times did you hit him?
+Dialogue: 0,0:12:30.93,0:12:32.69,Default,,0000,0000,0000,,Just once...
+Dialogue: 0,0:12:34.50,0:12:36.98,Default,,0000,0000,0000,,{\i1}She killed the bear with a single blow?{\i0}
+Dialogue: 0,0:12:45.22,0:12:46.98,Default,,0000,0000,0000,,Oh, I understand!
+Dialogue: 0,0:12:46.98,0:12:49.95,Default,,0000,0000,0000,,You just wanted them to become friends!
+Dialogue: 0,0:12:50.31,0:12:53.04,Default,,0000,0000,0000,,Linlin, you're so sweet!
+Dialogue: 0,0:12:54.58,0:12:55.50,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:12:56.05,0:12:59.25,Default,,0000,0000,0000,,Then, let's go play with everyone else!
+Dialogue: 0,0:12:59.25,0:13:00.40,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:13:02.74,0:13:08.07,Default,,0000,0000,0000,,{\i1}To Linlin, Carmel was the first person ever\Nto really understand her.{\i0}
+Dialogue: 0,0:13:09.08,0:13:13.56,Default,,0000,0000,0000,,I saw it! Linlin killed a \Nbear with a single blow!
+Dialogue: 0,0:13:13.56,0:13:15.22,Default,,0000,0000,0000,,She's dangerous!
+Dialogue: 0,0:13:15.22,0:13:18.61,Default,,0000,0000,0000,,Did you hear Eyri-{\i1}kun{\i0}, the Giant,\Ngot injured?
+Dialogue: 0,0:13:19.23,0:13:22.11,Default,,0000,0000,0000,,She tried to hit a mosquito on him!
+Dialogue: 0,0:13:22.59,0:13:24.78,Default,,0000,0000,0000,,She broke several of his bones!
+Dialogue: 0,0:13:26.18,0:13:28.66,Default,,0000,0000,0000,,Ouch! Ouch!
+Dialogue: 0,0:13:28.66,0:13:31.12,Default,,0000,0000,0000,,What are you doing, Linlin?
+Dialogue: 0,0:13:31.12,0:13:32.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:32.89,0:13:34.79,Default,,0000,0000,0000,,Mother! Help!
+Dialogue: 0,0:13:34.79,0:13:40.00,Default,,0000,0000,0000,,Well, he's got one too many elbow joints\Nso I thought it'd be nice to tear it apart for him.
+Dialogue: 0,0:13:40.00,0:13:43.80,Default,,0000,0000,0000,,No, he's from the Longarm Tribe!\NThat's normal for him!
+Dialogue: 0,0:13:43.80,0:13:46.68,Default,,0000,0000,0000,,Oh... I see...
+Dialogue: 0,0:13:48.07,0:13:49.72,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:13:49.72,0:13:52.29,Default,,0000,0000,0000,,Linlin, what are you doing?!
+Dialogue: 0,0:13:52.29,0:13:55.22,Default,,0000,0000,0000,,He's got fins so I thought it'd help by\Ntearing them off for him.
+Dialogue: 0,0:13:55.22,0:13:59.89,Default,,0000,0000,0000,,Stop that. The Fish-Men often have\Ncharacteristics of fish!
+Dialogue: 0,0:13:59.89,0:14:02.46,Default,,0000,0000,0000,,Oh... I see...
+Dialogue: 0,0:14:03.69,0:14:06.13,Default,,0000,0000,0000,,I was terrified!
+Dialogue: 0,0:14:12.26,0:14:14.70,Default,,0000,0000,0000,,Everyone, forgive her!
+Dialogue: 0,0:14:15.03,0:14:17.65,Default,,0000,0000,0000,,Linlin is a kind girl!
+Dialogue: 0,0:14:21.73,0:14:25.06,Default,,0000,0000,0000,,{\i1}Carmel pardoned everything.{\i0}
+Dialogue: 0,0:14:27.53,0:14:29.01,Default,,0000,0000,0000,,Wait, wait!
+Dialogue: 0,0:14:31.20,0:14:32.93,Default,,0000,0000,0000,,Linlin will kill me!
+Dialogue: 0,0:14:32.93,0:14:36.12,Default,,0000,0000,0000,,Wait, wait! Wait, wait!
+Dialogue: 0,0:14:36.45,0:14:38.62,On Top,,0000,0000,0000,,KASHII
+Dialogue: 0,0:14:36.45,0:14:40.55,Default,,0000,0000,0000,,{\i1}10 months later in Elbaph, the \NNew World's strongest country,{\i0}
+Dialogue: 0,0:14:40.55,0:14:44.63,Default,,0000,0000,0000,,{\i1}tough ones had accepted \NLinlin open-heartedly.{\i0}
+Dialogue: 0,0:14:41.38,0:14:43.59,On Top,,0000,0000,0000,,OIMO
+Dialogue: 0,0:14:45.84,0:14:47.66,Default,,0000,0000,0000,,Wait, wait.
+Dialogue: 0,0:14:48.35,0:14:50.74,Default,,0000,0000,0000,,It's almost been 40 years...
+Dialogue: 0,0:14:52.44,0:14:55.12,Default,,0000,0000,0000,,Have you ever seen a duel last that long?
+Dialogue: 0,0:14:55.89,0:15:00.75,Default,,0000,0000,0000,,No, never! Let's go and pick them up\Nafter another decade or so.
+Dialogue: 0,0:15:01.27,0:15:06.61,Default,,0000,0000,0000,,{\i1}These Giants - Kashii and Oimo -\Nare talking about...{\i0}
+Dialogue: 0,0:15:07.86,0:15:09.87,Default,,0000,0000,0000,,{\i1}Dorry the Blue Ogre.{\i0}
+Dialogue: 0,0:15:09.87,0:15:11.21,Default,,0000,0000,0000,,{\i1}And...{\i0}
+Dialogue: 0,0:15:11.21,0:15:13.43,Default,,0000,0000,0000,,{\i1}Brogy the Red Ogre.{\i0}
+Dialogue: 0,0:15:14.37,0:15:19.54,Default,,0000,0000,0000,,{\i1}They met Luffy and the others\Nand bonded tightly.{\i0}
+Dialogue: 0,0:15:20.75,0:15:23.56,Default,,0000,0000,0000,,We will not let them\Ndestroy your pride, friends!
+Dialogue: 0,0:15:23.86,0:15:26.77,Default,,0000,0000,0000,,Have faith in us, and \Ncontinue straight ahead!
+Dialogue: 0,0:15:26.77,0:15:28.36,Default,,0000,0000,0000,,Hakoku Sovereignty!
+Dialogue: 0,0:15:32.78,0:15:35.85,Default,,0000,0000,0000,,Now go!
+Dialogue: 0,0:15:36.56,0:15:43.24,Default,,0000,0000,0000,,{\i1}Oimo and Kashii went out to pick up\NDorry and Brogy as they said.{\i0}
+Dialogue: 0,0:15:43.24,0:15:47.37,Default,,0000,0000,0000,,{\i1}But they got caught and fooled\Nby the Navy on their way{\i0}
+Dialogue: 0,0:15:47.37,0:15:52.38,Default,,0000,0000,0000,,{\i1}and were forced to guard the gate at Enies Lobby\Nfor half a century.{\i0}
+Dialogue: 0,0:15:53.32,0:15:59.73,Default,,0000,0000,0000,,{\i1}Then, it was none other than Sniper King\Nwho taught them the truth and freed them.{\i0}
+Dialogue: 0,0:16:00.25,0:16:05.18,Default,,0000,0000,0000,,{\i1}After learning the truth,\NKashii and Oimo became allies of Luffy and the others{\i0}
+Dialogue: 0,0:16:05.18,0:16:08.67,Default,,0000,0000,0000,,{\i1}and created havoc in Enies Lobby.{\i0}
+Dialogue: 0,0:16:15.09,0:16:18.83,Default,,0000,0000,0000,,Hey, Linlin! Did you guys finish preparing?
+Dialogue: 0,0:16:20.81,0:16:23.12,Default,,0000,0000,0000,,Kashii, preparing for what?
+Dialogue: 0,0:16:23.98,0:16:27.17,Default,,0000,0000,0000,,Oh, Linlin-{\i1}chan{\i0}, I guess \Nit's your first time.
+Dialogue: 0,0:16:27.48,0:16:32.67,Default,,0000,0000,0000,,In Elbaph, we undergo fasting for 12 days\Nbefore the Winter Solstice Festival!
+Dialogue: 0,0:16:32.67,0:16:34.43,Default,,0000,0000,0000,,Fasting?
+Dialogue: 0,0:16:34.43,0:16:38.39,Default,,0000,0000,0000,,We won't eat anything.\NYou're only allowed to drink water.
+Dialogue: 0,0:16:38.78,0:16:40.93,Default,,0000,0000,0000,,For 12 days starting tomorrow.
+Dialogue: 0,0:16:40.93,0:16:42.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:43.33,0:16:45.23,Default,,0000,0000,0000,,I'm gonna be hungry!
+Dialogue: 0,0:16:45.23,0:16:48.77,Default,,0000,0000,0000,,But if you can endure it,\Nwe'll have a festival!
+Dialogue: 0,0:16:53.17,0:16:55.66,Default,,0000,0000,0000,,Fight against yourself, Hajrudin!
+Dialogue: 0,0:16:57.93,0:16:59.97,Default,,0000,0000,0000,,Stand up, Hajrudin!
+Dialogue: 0,0:17:06.60,0:17:09.99,DefaultLow,,0000,0000,0000,,{\i1}This Giant boy, Hajrudin...{\i0}
+Dialogue: 0,0:17:06.60,0:17:10.86,On Top,,0000,0000,0000,,HAJRUDIN
+Dialogue: 0,0:17:09.99,0:17:15.76,DefaultLow,,0000,0000,0000,,{\i1}...will eventually meet Luffy in Dressrosa\Nand be impressed by his determination.{\i0}
+Dialogue: 0,0:17:16.25,0:17:18.10,Italics,,0000,0000,0000,,{\i1}Along with Bartolomeo and the others,
+Dialogue: 0,0:17:18.10,0:17:20.62,Italics,,0000,0000,0000,,he exchanged cups of {\i0}sake{\i1} as \Nparent and son with Luffy.{\i0}
+Dialogue: 0,0:17:21.26,0:17:25.50,Italics,,0000,0000,0000,,{\i1}He is now a member of the Straw Hat Fleet.{\i0}
+Dialogue: 0,0:17:27.08,0:17:28.83,Default,,0000,0000,0000,,The tough boy!
+Dialogue: 0,0:17:29.52,0:17:34.23,Default,,0000,0000,0000,,Dorry or Brogy, either \Nof the chiefs will return
+Dialogue: 0,0:17:34.23,0:17:37.44,Default,,0000,0000,0000,,and the Giant Pirates \Nwill roam again for sure!
+Dialogue: 0,0:17:37.44,0:17:41.34,Default,,0000,0000,0000,,You're a warrior!\NDon't stop training yourself, Hajrudin!
+Dialogue: 0,0:17:41.34,0:17:41.95,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:43.81,0:17:46.79,Default,,0000,0000,0000,,I like the spirit! Rydin!
+Dialogue: 0,0:17:47.10,0:17:47.85,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:17:56.78,0:17:59.24,Default,,0000,0000,0000,,Chief Beardfall-{\i1}sama{\i0}! Chief Beardhill-{\i1}sama{\i0}!
+Dialogue: 0,0:17:56.78,0:18:03.49,On Top,,0000,0000,0000,,CHIEF BEARDHILL JARUL (345 YEARS OLD)\NCHIEF BEARDFALL JORUL (344 YEARS OLD)
+Dialogue: 0,0:17:59.24,0:18:03.88,DefaultLow,,0000,0000,0000,,Carmel preaches "trade rather than \Nrobbery" and that's good too.
+Dialogue: 0,0:18:03.88,0:18:07.98,Default,,0000,0000,0000,,But we shall not forget that we are warriors!
+Dialogue: 0,0:18:07.98,0:18:09.06,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:09.06,0:18:12.32,Default,,0000,0000,0000,,Jarul-{\i1}sama{\i0} and Jorul-{\i1}sama {\i0}are so cool!
+Dialogue: 0,0:18:12.38,0:18:16.17,OS,,0000,0000,0000,,FORMER CO-CAPTAINS OF THE GIANT PIRATES\N(TWO OF THE WORLD'S OLDEST WARRIORS)\NHEROES OF THE GIANTS
+Dialogue: 0,0:18:12.67,0:18:16.27,DefaultLow,,0000,0000,0000,,No wonder all Giants \Nrespect them as warriors!
+Dialogue: 0,0:18:16.27,0:18:19.26,Default,,0000,0000,0000,,I wanna be like them some day!
+Dialogue: 0,0:18:20.57,0:18:23.20,Default,,0000,0000,0000,,What brought both of you here today?
+Dialogue: 0,0:18:23.72,0:18:28.89,Default,,0000,0000,0000,,We'll eat Semla in the village so we came here\Nto pick up the children at the House of Lambs.
+Dialogue: 0,0:18:28.89,0:18:31.63,Default,,0000,0000,0000,,We're just in time, Linlin.
+Dialogue: 0,0:18:31.63,0:18:32.96,Default,,0000,0000,0000,,What's Semla?
+Dialogue: 0,0:18:32.96,0:18:35.41,Default,,0000,0000,0000,,It's a very delicious sweet!
+Dialogue: 0,0:18:35.41,0:18:36.89,Default,,0000,0000,0000,,What?! A sweet?
+Dialogue: 0,0:18:36.89,0:18:40.55,Default,,0000,0000,0000,,Before the fast, we'll get a lot of nutrition\Nby eating Semla!
+Dialogue: 0,0:18:40.55,0:18:45.27,Default,,0000,0000,0000,,Are we gonna eat it now? The sweet?!
+Dialogue: 0,0:18:45.49,0:18:50.41,Default,,0000,0000,0000,,Sweet cream dolloped in\Nsweet bread with marzipan,
+Dialogue: 0,0:18:50.41,0:18:52.73,Default,,0000,0000,0000,,topped with a dusting of sugar!
+Dialogue: 0,0:18:52.73,0:18:55.28,Default,,0000,0000,0000,,It's the fun before the fast!
+Dialogue: 0,0:18:55.28,0:18:57.19,Default,,0000,0000,0000,,Sounds delicious!
+Dialogue: 0,0:19:06.22,0:19:08.24,Default,,0000,0000,0000,,All right, everyone!
+Dialogue: 0,0:19:08.24,0:19:12.37,Default,,0000,0000,0000,,The recent birth of Prince \NLoki at the castle!
+Dialogue: 0,0:19:12.37,0:19:17.17,Default,,0000,0000,0000,,And Rodo and Goldberg who \Nwere born in the village!
+Dialogue: 0,0:19:17.49,0:19:21.31,Default,,0000,0000,0000,,Thank the Sun for our children's growth!
+Dialogue: 0,0:19:21.31,0:19:22.87,Default,,0000,0000,0000,,Thank the Sun!
+Dialogue: 0,0:19:22.87,0:19:25.39,Default,,0000,0000,0000,,Thank you for the food!
+Dialogue: 0,0:19:25.39,0:19:27.31,Default,,0000,0000,0000,,Yeah! Semla!
+Dialogue: 0,0:19:27.31,0:19:29.56,Default,,0000,0000,0000,,We have a lot so eat as much as you want!
+Dialogue: 0,0:19:29.96,0:19:31.51,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:19:31.51,0:19:33.40,Default,,0000,0000,0000,,This is... Semla...
+Dialogue: 0,0:19:33.40,0:19:36.07,Default,,0000,0000,0000,,Linlin, eat, eat!
+Dialogue: 0,0:19:36.07,0:19:36.86,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:19:40.09,0:19:42.45,Default,,0000,0000,0000,,S... S...
+Dialogue: 0,0:19:42.76,0:19:44.97,Default,,0000,0000,0000,,So sweet!
+Dialogue: 0,0:19:44.97,0:19:47.57,Default,,0000,0000,0000,,It's delicious!
+Dialogue: 0,0:19:47.57,0:19:49.71,Default,,0000,0000,0000,,I'm happy!
+Dialogue: 0,0:19:54.56,0:19:57.62,Default,,0000,0000,0000,,Delicious! Delicious! Sweet! Sweet!\NDelicious! Delicious!
+Dialogue: 0,0:19:57.62,0:19:59.01,Default,,0000,0000,0000,,Delicious! Delicious!
+Dialogue: 0,0:20:06.49,0:20:08.97,Default,,0000,0000,0000,,--Delicious! Delicious!\N--Whoa-whoa! Hey, Linlin!
+Dialogue: 0,0:20:08.97,0:20:12.68,Default,,0000,0000,0000,,Don't eat so fast!\NThere won't be enough to go around!
+Dialogue: 0,0:20:12.68,0:20:15.98,Default,,0000,0000,0000,,Don't forget to thank the Sun!
+Dialogue: 0,0:20:16.48,0:20:19.61,Default,,0000,0000,0000,,Semla!!
+Dialogue: 0,0:20:21.92,0:20:28.35,Default,,0000,0000,0000,,It's delicious! It's so delicious! Semla!
+Dialogue: 0,0:20:31.48,0:20:35.23,On Top,,0000,0000,0000,,FASTING - DAY 3
+Dialogue: 0,0:20:32.10,0:20:35.71,Default,,0000,0000,0000,,Mother... I'm starved to death...
+Dialogue: 0,0:20:35.71,0:20:39.87,Default,,0000,0000,0000,,The Winter Solstice Festival celebrates\Nthe death and the resurrection of the Sun.
+Dialogue: 0,0:20:39.87,0:20:45.97,Default,,0000,0000,0000,,Fighting through the severe winter,\Nthe Sun will shine down on us again.
+Dialogue: 0,0:20:46.20,0:20:48.24,DefaultLow,,0000,0000,0000,,FASTING - DAY 4
+Dialogue: 0,0:20:48.37,0:20:53.26,Default,,0000,0000,0000,,The more you suffer,\Nthe more you appreciate the Sun.
+Dialogue: 0,0:20:53.26,0:20:55.77,Default,,0000,0000,0000,,So... let's keep going!
+Dialogue: 0,0:20:59.71,0:21:04.20,Default,,0000,0000,0000,,If Mother says so, I'll... keep trying...
+Dialogue: 0,0:21:06.47,0:21:08.80,DefaultLow,,0000,0000,0000,,FASTING - DAY 5
+Dialogue: 0,0:21:09.89,0:21:11.54,Default,,0000,0000,0000,,I'm losing weight...
+Dialogue: 0,0:21:11.54,0:21:13.08,Default,,0000,0000,0000,,You haven't changed.
+Dialogue: 0,0:21:13.08,0:21:15.75,Default,,0000,0000,0000,,Yeah? That's strange...
+Dialogue: 0,0:21:15.75,0:21:17.35,Default,,0000,0000,0000,,Linlin!
+Dialogue: 0,0:21:18.28,0:21:20.96,Default,,0000,0000,0000,,You're doing great! A little more to go!
+Dialogue: 0,0:21:22.11,0:21:23.13,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:21:23.13,0:21:26.80,Default,,0000,0000,0000,,{\i1}Linlin started liking Mother so much.{\i0}
+Dialogue: 0,0:21:28.66,0:21:30.99,DefaultLow,,0000,0000,0000,,FASTING - DAY 6
+Dialogue: 0,0:21:31.83,0:21:34.94,Default,,0000,0000,0000,,Semla was so delicious...
+Dialogue: 0,0:21:36.87,0:21:38.31,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:21:39.54,0:21:43.13,Default,,0000,0000,0000,,...wanna eat it... again...
+Dialogue: 0,0:21:47.68,0:21:50.05,DefaultLow,,0000,0000,0000,,FASTING - DAY 7
+Dialogue: 0,0:21:53.37,0:21:54.93,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:21:57.44,0:21:59.71,Default,,0000,0000,0000,,Mother, help!
+Dialogue: 0,0:22:00.86,0:22:02.50,Default,,0000,0000,0000,,What's the matter, Gerd?!
+Dialogue: 0,0:22:04.53,0:22:06.13,Default,,0000,0000,0000,,Linlin-{\i1}chan{\i0} is...!
+Dialogue: 0,0:22:14.16,0:22:15.23,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:22:16.45,0:22:20.29,Default,,0000,0000,0000,,Semla!!
+Dialogue: 0,0:22:20.79,0:22:22.15,Default,,0000,0000,0000,,How dare you...
+Dialogue: 0,0:22:22.59,0:22:23.86,Default,,0000,0000,0000,,Linlin!
+Dialogue: 0,0:22:24.15,0:22:27.78,Default,,0000,0000,0000,,Bring me Semla...
+Dialogue: 0,0:22:27.78,0:22:30.99,Default,,0000,0000,0000,,Semla!
+Dialogue: 0,0:22:33.43,0:22:36.71,Default,,0000,0000,0000,,Linlin destroyed the village of Elbaph!!
+Dialogue: 0,0:22:37.27,0:22:38.87,Default,,0000,0000,0000,,It's a nightmare!
+Dialogue: 0,0:22:41.61,0:22:46.79,Default,,0000,0000,0000,,She finally did it! Linlin!\NShe has no right to thank the Sun!
+Dialogue: 0,0:22:46.79,0:22:50.14,Default,,0000,0000,0000,,Even if she's a child,\Nwe can't forgive everything!
+Dialogue: 0,0:22:50.14,0:22:51.43,Default,,0000,0000,0000,,Jorul-{\i1}sama{\i0}!
+Dialogue: 0,0:22:51.82,0:22:54.39,Default,,0000,0000,0000,,Semla... Semla...
+Dialogue: 0,0:22:54.74,0:22:57.05,Default,,0000,0000,0000,,Carmel... I'm sorry...
+Dialogue: 0,0:22:57.05,0:22:59.98,Default,,0000,0000,0000,,She may look like a child...
+Dialogue: 0,0:23:00.20,0:23:01.81,Default,,0000,0000,0000,,Don't do it! Jorul-{\i1}sama{\i0}!
+Dialogue: 0,0:23:01.81,0:23:03.92,Default,,0000,0000,0000,,But she's a god of Disaster!
+Dialogue: 0,0:23:12.80,0:23:15.93,Default,,0000,0000,0000,,Semla...
+Dialogue: 0,0:23:24.65,0:23:30.17,Italics,,0000,0000,0000,,{\i1}A huge event occurs that will change the fate of\Nthe innocent monster Charlotte Linlin!{\i0}
+Dialogue: 0,0:23:30.17,0:23:32.86,Italics,,0000,0000,0000,,{\i1}Her long standing feud with the Giants and a
+Dialogue: 0,0:23:32.86,0:23:36.30,Italics,,0000,0000,0000,,stunning secret of the miracle-making \NHoly Mother Carmel,{\i0}
+Dialogue: 0,0:23:36.30,0:23:42.10,Italics,,0000,0000,0000,,{\i1}and even the origin of the hellish Tea Party...\NAll of those mysteries are now revealed!{\i0}
+Dialogue: 0,0:23:42.10,0:23:45.60,Default,,0000,0000,0000,,On the next episode of One Piece!\N"The Birth of Mom! The Day That Carmel Vanished!"
+Dialogue: 0,0:23:45.60,0:23:48.04,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.55,0:23:50.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.55,0:23:52.55,On Top,,0000,0000,0000,,

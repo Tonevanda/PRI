@@ -1,0 +1,336 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.10,0:00:14.64,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.64,0:00:17.54,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.54,0:00:20.38,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.38,0:00:23.48,Default,,0000,0000,0000,,As long as people seek\Nthe answer of freedom,
+Dialogue: 0,0:00:23.48,0:00:26.12,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:35.03,0:00:41.20,Default,,0000,0000,0000,,I only believe in the future--\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.20,0:00:46.54,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.54,0:00:52.54,Default,,0000,0000,0000,,It's too bright, but I want to gaze at it
+Dialogue: 0,0:00:52.54,0:00:56.15,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.15,0:00:59.55,Default,,0000,0000,0000,,I'm really, really stuck on you
+Dialogue: 0,0:00:59.55,0:01:05.99,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:05.99,0:01:09.33,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.33,0:01:15.20,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.14,0:01:24.44,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.44,0:01:30.58,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.58,0:01:33.59,Default,,0000,0000,0000,,I don't really need\Neverything to add up
+Dialogue: 0,0:01:33.59,0:01:36.76,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.76,0:01:40.36,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.36,0:01:45.90,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:50.37,0:01:54.37,Default,,0000,0000,0000,,Hey! I see the mystery mountain!
+Dialogue: 0,0:01:54.37,0:01:56.04,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:01:56.04,0:01:58.38,Default,,0000,0000,0000,,I can't see the top because of the clouds!
+Dialogue: 0,0:01:59.38,0:02:01.65,Default,,0000,0000,0000,,So this is the Red Line!
+Dialogue: 0,0:02:09.92,0:02:11.99,Default,,0000,0000,0000,,This can't be for real!
+Dialogue: 0,0:02:11.99,0:02:15.99,Default,,0000,0000,0000,,The damn ocean really is\Nflowing up the mountain!
+Dialogue: 0,0:02:20.00,0:02:23.17,Default,,0000,0000,0000,,Gum-Gum Balloon!
+Dialogue: 0,0:02:29.67,0:02:32.01,Default,,0000,0000,0000,,We made it!
+Dialogue: 0,0:02:35.35,0:02:37.35,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:02:44.69,0:02:47.56,Default,,0000,0000,0000,,We're above the clouds now!
+Dialogue: 0,0:02:49.03,0:02:50.83,Default,,0000,0000,0000,,We've made it to the top!
+Dialogue: 0,0:02:54.03,0:02:56.20,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:03:01.31,0:03:03.54,Default,,0000,0000,0000,,All we gotta do now is go down!
+Dialogue: 0,0:03:05.98,0:03:09.65,Default,,0000,0000,0000,,So this is the\Ngreatest sea in the world!
+Dialogue: 0,0:03:09.65,0:03:11.82,Default,,0000,0000,0000,,The Grand Line!
+Dialogue: 0,0:03:16.99,0:03:21.66,Default,,0000,0000,0000,,"The First Line of Defense?\NThe Giant Whale Laboon Appears"
+Dialogue: 0,0:03:35.01,0:03:37.94,Default,,0000,0000,0000,,Whoa!! This is great!!
+Dialogue: 0,0:03:50.36,0:03:52.36,Default,,0000,0000,0000,,Did you just hear something?
+Dialogue: 0,0:03:52.36,0:03:54.59,Default,,0000,0000,0000,,Huh? What'd you say?
+Dialogue: 0,0:03:54.59,0:03:56.70,Default,,0000,0000,0000,,Don't you hear a strange sound?
+Dialogue: 0,0:03:56.70,0:03:58.53,Default,,0000,0000,0000,,Isn't it the wind?
+Dialogue: 0,0:03:58.53,0:04:01.63,Default,,0000,0000,0000,,There must be lots of unusual landforms!
+Dialogue: 0,0:04:06.71,0:04:08.31,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:04:08.31,0:04:10.64,Default,,0000,0000,0000,,Nami-san! I see a mountain up ahead!
+Dialogue: 0,0:04:10.64,0:04:12.98,Default,,0000,0000,0000,,A mountain?! That can't be!
+Dialogue: 0,0:04:12.98,0:04:14.98,Default,,0000,0000,0000,,But it's really there!
+Dialogue: 0,0:04:14.98,0:04:17.98,Default,,0000,0000,0000,,Who cares?! Go!!
+Dialogue: 0,0:04:17.98,0:04:22.99,Default,,0000,0000,0000,,After passing the Twin Capes up ahead,\Nthere should be nothing but ocean!
+Dialogue: 0,0:04:22.99,0:04:24.32,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:04:27.99,0:04:29.76,Default,,0000,0000,0000,,Oh, crap!!
+Dialogue: 0,0:04:31.33,0:04:33.00,Default,,0000,0000,0000,,It's not a mountain!!
+Dialogue: 0,0:04:33.00,0:04:34.33,Default,,0000,0000,0000,,It's a black wall!!
+Dialogue: 0,0:04:34.33,0:04:35.33,Default,,0000,0000,0000,,No, it's not!!
+Dialogue: 0,0:04:35.33,0:04:36.33,Default,,0000,0000,0000,,Then, what is it?!
+Dialogue: 0,0:04:36.33,0:04:40.07,Default,,0000,0000,0000,,I-I-I-It's a whale!!
+Dialogue: 0,0:04:42.34,0:04:44.01,Default,,0000,0000,0000,,Wh-Wh-Wh-What're we gonna do?!
+Dialogue: 0,0:04:44.01,0:04:44.68,Default,,0000,0000,0000,,Shall we fight?
+Dialogue: 0,0:04:44.68,0:04:47.01,Default,,0000,0000,0000,,Idiot! There's no way we can fight that!
+Dialogue: 0,0:04:47.01,0:04:49.85,Default,,0000,0000,0000,,B-B-B-B-But, our path is blocked!
+Dialogue: 0,0:04:49.85,0:04:52.02,Default,,0000,0000,0000,,What're we gonna do?!
+Dialogue: 0,0:04:52.02,0:04:53.89,Default,,0000,0000,0000,,Hold on a sec!
+Dialogue: 0,0:04:53.89,0:04:56.19,Default,,0000,0000,0000,,If it looks like a wall from this close,
+Dialogue: 0,0:04:56.19,0:04:58.02,Default,,0000,0000,0000,,then where are its eyes?!
+Dialogue: 0,0:04:58.02,0:05:01.96,Default,,0000,0000,0000,,That's right! It's possible\Nthat he may not have noticed us!
+Dialogue: 0,0:05:01.96,0:05:04.30,Default,,0000,0000,0000,,But unless we do something,\Nwe'll run into it!
+Dialogue: 0,0:05:04.30,0:05:06.63,Default,,0000,0000,0000,,Hey! We can get through on the left!
+Dialogue: 0,0:05:06.63,0:05:09.30,Default,,0000,0000,0000,,Port! Hard to port!
+Dialogue: 0,0:05:09.30,0:05:10.97,Default,,0000,0000,0000,,But the rudder is broken!
+Dialogue: 0,0:05:10.97,0:05:12.64,Default,,0000,0000,0000,,Do something!
+Dialogue: 0,0:05:12.64,0:05:13.64,Default,,0000,0000,0000,,I'll help, too!
+Dialogue: 0,0:05:13.64,0:05:16.98,Default,,0000,0000,0000,,Oh, yeah! I've got an idea!
+Dialogue: 0,0:05:16.98,0:05:20.11,Default,,0000,0000,0000,,Luffy...? Hey, what're you doing?!
+Dialogue: 0,0:05:24.98,0:05:29.32,Default,,0000,0000,0000,,It doesn't work! The ship doesn't turn!
+Dialogue: 0,0:05:29.32,0:05:30.66,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:05:30.66,0:05:32.39,Default,,0000,0000,0000,,Don't give up!
+Dialogue: 0,0:05:41.67,0:05:43.30,Default,,0000,0000,0000,,Is this it...?!
+Dialogue: 0,0:05:50.68,0:05:52.68,Default,,0000,0000,0000,,Cannon?!
+Dialogue: 0,0:05:52.68,0:05:54.85,Default,,0000,0000,0000,,All right! Did it stop?
+Dialogue: 0,0:06:01.95,0:06:04.26,Default,,0000,0000,0000,,Ah... We're screwed...
+Dialogue: 0,0:06:05.62,0:06:07.29,Default,,0000,0000,0000,,This might be it...
+Dialogue: 0,0:06:09.29,0:06:11.83,Default,,0000,0000,0000,,My special seat...!
+Dialogue: 0,0:06:32.98,0:06:35.65,Default,,0000,0000,0000,,Let's get out of here before it's too late!!
+Dialogue: 0,0:06:35.65,0:06:37.66,Default,,0000,0000,0000,,What the heck is going on?!
+Dialogue: 0,0:06:37.66,0:06:39.99,Default,,0000,0000,0000,,Did he not notice the cannon\Nattack because his body's too big?!
+Dialogue: 0,0:06:39.99,0:06:41.66,Default,,0000,0000,0000,,Or is he just slow?!
+Dialogue: 0,0:06:41.66,0:06:43.80,Default,,0000,0000,0000,,Who knows?! Anyway,\Nlet's get out of here now!
+Dialogue: 0,0:06:48.33,0:06:50.34,Default,,0000,0000,0000,,Ahhhhh! My ears hurt!
+Dialogue: 0,0:06:50.34,0:06:52.00,Default,,0000,0000,0000,,Paddle! Just paddle!!
+Dialogue: 0,0:06:52.00,0:06:53.84,Default,,0000,0000,0000,,We have to get away from him!
+Dialogue: 0,0:06:59.94,0:07:01.28,Default,,0000,0000,0000,,Luffy...?
+Dialogue: 0,0:07:01.28,0:07:07.02,Default,,0000,0000,0000,,You...! What the hell did\Nyou do to my special seat?!
+Dialogue: 0,0:07:08.29,0:07:11.59,Default,,0000,0000,0000,,Dumbass!!
+Dialogue: 0,0:07:21.63,0:07:24.30,Default,,0000,0000,0000,,How was that?! Bring it on, you bastard!
+Dialogue: 0,0:07:24.30,0:07:26.37,Default,,0000,0000,0000,,Shut up already, you idiot!
+Dialogue: 0,0:07:33.98,0:07:36.01,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:07:51.66,0:07:53.46,Default,,0000,0000,0000,,--Luffy!\N--Luffy!
+Dialogue: 0,0:07:59.94,0:08:02.67,Default,,0000,0000,0000,,I'm not gonna die!!
+Dialogue: 0,0:08:36.31,0:08:38.24,Default,,0000,0000,0000,,What am I gonna do?
+Dialogue: 0,0:08:38.24,0:08:40.48,Default,,0000,0000,0000,,They've all been eaten...
+Dialogue: 0,0:08:42.31,0:08:44.98,Default,,0000,0000,0000,,Hey you! Spit them out!\NGive everyone back to me!
+Dialogue: 0,0:08:44.98,0:08:47.75,Default,,0000,0000,0000,,Spit them out!\NI'm saying give them back!
+Dialogue: 0,0:08:49.32,0:08:52.26,Default,,0000,0000,0000,,You...! You...! You jerk!
+Dialogue: 0,0:08:52.26,0:08:54.33,Default,,0000,0000,0000,,You're diving into the water,\Naren't you?! Stop it!
+Dialogue: 0,0:08:54.33,0:08:57.66,Default,,0000,0000,0000,,Hey! I'm telling you to stop! Hey!
+Dialogue: 0,0:08:57.66,0:08:59.93,Default,,0000,0000,0000,,Please wait! Give my friends back!
+Dialogue: 0,0:08:59.93,0:09:02.93,Default,,0000,0000,0000,,Hey! I said stop it!
+Dialogue: 0,0:09:02.93,0:09:07.27,Default,,0000,0000,0000,,We're gonna go on adventures together!\NThey're precious to me!
+Dialogue: 0,0:09:07.27,0:09:09.71,Default,,0000,0000,0000,,Give them back!!
+Dialogue: 0,0:09:12.61,0:09:14.15,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:31.30,0:09:33.30,Default,,0000,0000,0000,,What do you think...?
+Dialogue: 0,0:09:33.30,0:09:35.30,Default,,0000,0000,0000,,What do I think...?
+Dialogue: 0,0:09:35.30,0:09:36.97,Default,,0000,0000,0000,,How should I think...?
+Dialogue: 0,0:09:36.97,0:09:38.97,Default,,0000,0000,0000,,H-H-H-H-How...
+Dialogue: 0,0:09:38.97,0:09:43.04,Default,,0000,0000,0000,,I was sure that we were\Nswallowed by the whale...
+Dialogue: 0,0:09:44.64,0:09:46.31,Default,,0000,0000,0000,,Is this a dream?
+Dialogue: 0,0:09:46.31,0:09:49.61,Default,,0000,0000,0000,,Yeah, it's probably a dream.
+Dialogue: 0,0:09:54.65,0:09:57.32,Default,,0000,0000,0000,,Then, what're the island\Nand house doing there?
+Dialogue: 0,0:09:57.32,0:09:58.76,Default,,0000,0000,0000,,They must be illusions.
+Dialogue: 0,0:10:03.33,0:10:06.00,Default,,0000,0000,0000,,Then this is...
+Dialogue: 0,0:10:06.00,0:10:09.37,Default,,0000,0000,0000,,...a Great King Squid!!
+Dialogue: 0,0:10:30.35,0:10:32.69,Default,,0000,0000,0000,,Looks like there's at least someone there.
+Dialogue: 0,0:10:32.69,0:10:35.36,Default,,0000,0000,0000,,I hope it's really a person...
+Dialogue: 0,0:10:35.36,0:10:37.36,Default,,0000,0000,0000,,I've had enough. I wanna go home.
+Dialogue: 0,0:10:37.36,0:10:41.03,Default,,0000,0000,0000,,Luffy went somewhere, too.\NWhat's gonna happen to us?
+Dialogue: 0,0:10:41.03,0:10:42.67,Default,,0000,0000,0000,,Come to think of it, where's Luffy?!
+Dialogue: 0,0:10:44.70,0:10:46.37,Default,,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:10:46.37,0:10:50.48,Default,,0000,0000,0000,,Why is there a door and\Na passageway in a whale?
+Dialogue: 0,0:10:53.38,0:10:54.71,Default,,0000,0000,0000,,A ship...
+Dialogue: 0,0:10:54.71,0:10:58.72,Default,,0000,0000,0000,,Sh-Sh-Sh-Shall we fire\Nthe cannon at that island?!
+Dialogue: 0,0:10:58.72,0:11:01.65,Default,,0000,0000,0000,,No, hold on a sec...
+Dialogue: 0,0:11:01.65,0:11:03.92,Default,,0000,0000,0000,,Someone's coming out...
+Dialogue: 0,0:11:35.02,0:11:37.36,Default,,0000,0000,0000,,--Ah?! It's a flower!\N--A flower?
+Dialogue: 0,0:11:42.03,0:11:43.76,Default,,0000,0000,0000,,Oh, never mind. It's a person.
+Dialogue: 0,0:11:43.76,0:11:45.36,Default,,0000,0000,0000,,What is he?
+Dialogue: 0,0:11:45.36,0:11:48.70,Default,,0000,0000,0000,,That old man killed a\NGreat King Squid with a single hit...
+Dialogue: 0,0:11:48.70,0:11:53.60,Default,,0000,0000,0000,,Was he just fishing...\Nor did he do it to save us...?
+Dialogue: 0,0:12:20.67,0:12:23.27,Default,,0000,0000,0000,,Say something, you jerk!
+Dialogue: 0,0:12:26.34,0:12:28.84,Default,,0000,0000,0000,,I-If you wanna fight,\Nwe'll fight, you bastard!
+Dialogue: 0,0:12:28.84,0:12:30.88,Default,,0000,0000,0000,,We've got cannons!
+Dialogue: 0,0:12:41.69,0:12:44.46,Default,,0000,0000,0000,,You'd better not, or someone will die.
+Dialogue: 0,0:12:47.69,0:12:50.36,Default,,0000,0000,0000,,Oh? Just who're you saying will die?
+Dialogue: 0,0:12:50.36,0:12:52.70,Default,,0000,0000,0000,,--Me.\N--You?!
+Dialogue: 0,0:12:52.70,0:12:54.70,Default,,0000,0000,0000,,--Why, you...\N--Well, calm down.
+Dialogue: 0,0:12:54.70,0:12:57.03,Default,,0000,0000,0000,,He's mocking us. That bastard...
+Dialogue: 0,0:12:58.14,0:13:03.77,Default,,0000,0000,0000,,Hey, old man. Tell us where\Nwe are and who you are.
+Dialogue: 0,0:13:12.65,0:13:14.99,Default,,0000,0000,0000,,When asking someone a question,
+Dialogue: 0,0:13:14.99,0:13:19.32,Default,,0000,0000,0000,,isn't it proper manner\Nto give your name first?
+Dialogue: 0,0:13:19.32,0:13:23.66,Default,,0000,0000,0000,,Hm? Yeah, good point. Sorry.
+Dialogue: 0,0:13:23.66,0:13:26.26,Default,,0000,0000,0000,,--My name is Roronoa...\N--My name is Crocus.
+Dialogue: 0,0:13:26.26,0:13:29.33,Default,,0000,0000,0000,,I'm the lighthouse keeper\Nof the Twin Capes.
+Dialogue: 0,0:13:29.33,0:13:31.67,Default,,0000,0000,0000,,I'm 71 years old and a Gemini.
+Dialogue: 0,0:13:31.67,0:13:32.67,Default,,0000,0000,0000,,--Can I cut him?!\N--My blood type is AB.
+Dialogue: 0,0:13:32.67,0:13:34.01,Default,,0000,0000,0000,,--Now, calm down.\N--My blood type is AB.
+Dialogue: 0,0:13:34.01,0:13:36.67,Default,,0000,0000,0000,,You're asking where we are?
+Dialogue: 0,0:13:36.67,0:13:45.02,Default,,0000,0000,0000,,How dare you run your mouth when\Nyou barged into my private resort?
+Dialogue: 0,0:13:45.02,0:13:48.69,Default,,0000,0000,0000,,Does it look like we're in a rat's belly?
+Dialogue: 0,0:13:48.69,0:13:52.02,Default,,0000,0000,0000,,S-So we were eaten by a whale after all...
+Dialogue: 0,0:13:52.02,0:13:54.69,Default,,0000,0000,0000,,But is this really inside\Na whale's stomach?
+Dialogue: 0,0:13:54.69,0:13:57.76,Default,,0000,0000,0000,,Wait a sec! What's gonna happen to us?!
+Dialogue: 0,0:13:57.76,0:14:00.10,Default,,0000,0000,0000,,I don't wanna be digested!
+Dialogue: 0,0:14:08.31,0:14:09.97,Default,,0000,0000,0000,,Would you cut that out?!
+Dialogue: 0,0:14:09.97,0:14:12.64,Default,,0000,0000,0000,,Haven't you guys heard of\Nthe "repeating gag"?
+Dialogue: 0,0:14:12.64,0:14:13.64,Default,,0000,0000,0000,,That was a gag?!
+Dialogue: 0,0:14:13.64,0:14:15.65,Default,,0000,0000,0000,,The exit is over there.
+Dialogue: 0,0:14:15.65,0:14:17.98,Default,,0000,0000,0000,,We can get out?!
+Dialogue: 0,0:14:17.98,0:14:21.65,Default,,0000,0000,0000,,Hold on a sec! Why's there\Nan exit in a whale's belly?!
+Dialogue: 0,0:14:21.65,0:14:23.65,Default,,0000,0000,0000,,Why's the door in the sky?!
+Dialogue: 0,0:14:23.65,0:14:26.66,Default,,0000,0000,0000,,Wait... Look at it carefully...
+Dialogue: 0,0:14:26.66,0:14:31.33,Default,,0000,0000,0000,,This sky... Those seagulls...
+Dialogue: 0,0:14:31.33,0:14:35.00,Default,,0000,0000,0000,,They're all painted! It's all a painting\Ninside of the whale's stomach!
+Dialogue: 0,0:14:35.00,0:14:36.00,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:36.00,0:14:37.67,Default,,0000,0000,0000,,Call it a doctor's playful mind.
+Dialogue: 0,0:14:37.67,0:14:40.00,Default,,0000,0000,0000,,You bastard! What the hell\Nare you doing here?!
+Dialogue: 0,0:14:40.00,0:14:42.01,Default,,0000,0000,0000,,That's enough. Leave him alone.
+Dialogue: 0,0:14:42.01,0:14:43.01,Default,,0000,0000,0000,,Agreed.
+Dialogue: 0,0:14:43.01,0:14:45.68,Default,,0000,0000,0000,,Nami! There's an exit, so\Nlet's get out of here already.
+Dialogue: 0,0:14:45.68,0:14:47.14,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:51.68,0:14:53.08,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:14:54.35,0:14:56.99,Default,,0000,0000,0000,,It's started...
+Dialogue: 0,0:14:56.99,0:14:58.69,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:14:58.69,0:15:02.63,Default,,0000,0000,0000,,That's not an island! It's a ship.\NOn top of that, it's made of iron!
+Dialogue: 0,0:15:02.63,0:15:05.96,Default,,0000,0000,0000,,Of course! It's because\Nthis sea is gastric acid!
+Dialogue: 0,0:15:05.96,0:15:09.63,Default,,0000,0000,0000,,I guess that means that wooden ships\Nwould melt if they stayed here long.
+Dialogue: 0,0:15:09.63,0:15:14.14,Default,,0000,0000,0000,,Hey! What's started?! Tell us!
+Dialogue: 0,0:15:14.14,0:15:17.31,Default,,0000,0000,0000,,This whale has...
+Dialogue: 0,0:15:17.31,0:15:22.08,Default,,0000,0000,0000,,Laboon has started hitting\Nhis head against the Red Line.
+Dialogue: 0,0:15:31.09,0:15:32.09,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:32.09,0:15:35.99,Default,,0000,0000,0000,,Come to think of it, this whale\Nhad terrible scars on his forehead.
+Dialogue: 0,0:15:35.99,0:15:38.66,Default,,0000,0000,0000,,He was also howling at the sky...
+Dialogue: 0,0:15:38.66,0:15:40.66,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:15:40.66,0:15:42.23,Default,,0000,0000,0000,,He's suffering!
+Dialogue: 0,0:15:49.34,0:15:52.68,Default,,0000,0000,0000,,I see! So that's what that\Ngeezer's trying to do!
+Dialogue: 0,0:15:52.68,0:15:56.68,Default,,0000,0000,0000,,Likely... He's probably trying to\Nkill the whale from inside his body!
+Dialogue: 0,0:15:56.68,0:15:57.68,Default,,0000,0000,0000,,Now...
+Dialogue: 0,0:15:57.68,0:15:59.68,Default,,0000,0000,0000,,What a vicious way to kill it...!
+Dialogue: 0,0:15:59.68,0:16:01.95,Default,,0000,0000,0000,,Now that the mystery is solved,\Nit's time to hurry up and get out.
+Dialogue: 0,0:16:01.95,0:16:04.96,Default,,0000,0000,0000,,If we take our time here,\Nwe'll be digested.
+Dialogue: 0,0:16:04.96,0:16:07.63,Default,,0000,0000,0000,,We have nothing to say\Nabout his whale hunting
+Dialogue: 0,0:16:07.63,0:16:10.29,Default,,0000,0000,0000,,nor are we under obligation\Nto save the whale.
+Dialogue: 0,0:16:10.29,0:16:11.80,Default,,0000,0000,0000,,Let's get out of here.
+Dialogue: 0,0:16:24.64,0:16:28.98,Default,,0000,0000,0000,,Ahhh! Dammit! With the\Nwaves surging like this,
+Dialogue: 0,0:16:28.98,0:16:31.32,Default,,0000,0000,0000,,I don't know if we can\Neven reach the doors...
+Dialogue: 0,0:16:31.32,0:16:33.65,Default,,0000,0000,0000,,We have no other choice but\Nto paddle! Take the oars!
+Dialogue: 0,0:16:33.65,0:16:36.39,Default,,0000,0000,0000,,Let's leave quickly!\NI'm worried about Luffy.
+Dialogue: 0,0:16:36.39,0:16:40.49,Default,,0000,0000,0000,,He's outside!\NI saw him fly out of the mouth!
+Dialogue: 0,0:16:42.66,0:16:44.66,Default,,0000,0000,0000,,That old man jumped in!
+Dialogue: 0,0:16:44.66,0:16:48.40,Default,,0000,0000,0000,,Huh? What's he gonna do?\NHe's gonna be digested.
+Dialogue: 0,0:16:58.68,0:17:01.28,Default,,0000,0000,0000,,What?! What's going on?! Huh? Why?!
+Dialogue: 0,0:17:01.28,0:17:05.02,Default,,0000,0000,0000,,Dizzy... Dizzy... I'm dizzy...!
+Dialogue: 0,0:17:19.30,0:17:23.37,Default,,0000,0000,0000,,What is it this time?\NThe sea? A river? A channel?
+Dialogue: 0,0:17:35.98,0:17:40.32,Default,,0000,0000,0000,,Okay. We've succeeded\Nin infiltrating this far.
+Dialogue: 0,0:17:40.32,0:17:42.32,Default,,0000,0000,0000,,Listen, Miss Wednesday.
+Dialogue: 0,0:17:42.32,0:17:46.99,Default,,0000,0000,0000,,Behind those doors is the stomach\Nand that geezer is likely to be there.
+Dialogue: 0,0:17:46.99,0:17:50.66,Default,,0000,0000,0000,,We must eliminate him.
+Dialogue: 0,0:17:50.66,0:17:53.00,Default,,0000,0000,0000,,Everything is for the whale.
+Dialogue: 0,0:17:53.00,0:17:59.10,Default,,0000,0000,0000,,Yes, Mr. 9. This whale is a\Nprecious sweet honey to our town.
+Dialogue: 0,0:18:01.94,0:18:03.94,Default,,0000,0000,0000,,Hey! The geezer came out!
+Dialogue: 0,0:18:03.94,0:18:05.28,Default,,0000,0000,0000,,Forget about him.
+Dialogue: 0,0:18:05.28,0:18:08.95,Default,,0000,0000,0000,,More importantly,\Nhow do we open these doors?
+Dialogue: 0,0:18:08.95,0:18:11.45,Default,,0000,0000,0000,,Okay, Miss Wednesday?
+Dialogue: 0,0:18:11.45,0:18:13.92,Default,,0000,0000,0000,,We'll open the doors with\N"Three, two, one, baby!"
+Dialogue: 0,0:18:13.92,0:18:15.95,Default,,0000,0000,0000,,Don't let down your guard.
+Dialogue: 0,0:18:15.95,0:18:19.19,Default,,0000,0000,0000,,Roger, Mr. 9. I'm ready any time.
+Dialogue: 0,0:18:21.63,0:18:22.63,Default,,0000,0000,0000,,I can't stop!!
+Dialogue: 0,0:18:22.63,0:18:24.30,Default,,0000,0000,0000,,What is this voice, Mr. 9?
+Dialogue: 0,0:18:24.30,0:18:26.53,Default,,0000,0000,0000,,I don't know, Miss Wednesday.
+Dialogue: 0,0:18:36.97,0:18:38.04,Default,,0000,0000,0000,,Those guys're...
+Dialogue: 0,0:18:38.04,0:18:39.48,Default,,0000,0000,0000,,Ahh!
+Dialogue: 0,0:18:39.48,0:18:40.64,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:40.64,0:18:44.98,Default,,0000,0000,0000,,This isn't good, Miss Wednesday!\NIt's a sea of gastric acid below us!
+Dialogue: 0,0:18:46.65,0:18:50.99,Default,,0000,0000,0000,,--Luffy?\N--Hey! So everyone's okay?
+Dialogue: 0,0:18:50.99,0:18:53.92,Default,,0000,0000,0000,,In any case, help me!
+Dialogue: 0,0:18:58.00,0:19:01.60,Default,,0000,0000,0000,,Aside from Luffy...\Nthere're two weirdoes...
+Dialogue: 0,0:19:01.60,0:19:03.60,Default,,0000,0000,0000,,Hey! That old man disappeared!
+Dialogue: 0,0:19:03.60,0:19:06.70,Default,,0000,0000,0000,,Don't bother! For now, let's save Luffy!
+Dialogue: 0,0:19:21.62,0:19:24.12,Default,,0000,0000,0000,,Stop it, Laboon.
+Dialogue: 0,0:19:24.12,0:19:27.29,Default,,0000,0000,0000,,Don't hurt yourself any more.
+Dialogue: 0,0:19:27.29,0:19:31.76,Default,,0000,0000,0000,,There's only a little sedative left.\NI have to make some more...
+Dialogue: 0,0:19:34.63,0:19:37.97,Default,,0000,0000,0000,,That wall divides the world's oceans.
+Dialogue: 0,0:19:37.97,0:19:43.64,Default,,0000,0000,0000,,Even if you hit it until you die,\Nit won't break, Laboon.
+Dialogue: 0,0:19:47.98,0:19:51.18,Default,,0000,0000,0000,,It's calmed down.\NThe whale is quiet now.
+Dialogue: 0,0:19:51.18,0:19:55.65,Default,,0000,0000,0000,,Seems like it. Now...
+Dialogue: 0,0:19:55.65,0:19:59.99,Default,,0000,0000,0000,,We did save you guys for the\Ntime being, but who are you?
+Dialogue: 0,0:19:59.99,0:20:02.99,Default,,0000,0000,0000,,Mr. 9, they're pirates.
+Dialogue: 0,0:20:02.99,0:20:05.66,Default,,0000,0000,0000,,I-I know, Miss Wednesday.
+Dialogue: 0,0:20:05.66,0:20:10.67,Default,,0000,0000,0000,,B-But if we talk to them,\Nthey should understand... perhaps...
+Dialogue: 0,0:20:10.67,0:20:13.34,Default,,0000,0000,0000,,You thugs're still around?!
+Dialogue: 0,0:20:13.34,0:20:16.61,Default,,0000,0000,0000,,--Huh?\N--Don't make me say this yet again!
+Dialogue: 0,0:20:16.61,0:20:21.41,Default,,0000,0000,0000,,I won't let you lay a finger\Non Laboon as long as I'm alive!
+Dialogue: 0,0:20:23.68,0:20:25.02,Default,,0000,0000,0000,,He's back.
+Dialogue: 0,0:20:25.02,0:20:26.78,Default,,0000,0000,0000,,Who's that pops?
+Dialogue: 0,0:20:27.69,0:20:28.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:28.69,0:20:31.36,Default,,0000,0000,0000,,Even if you say so, we can't leave.
+Dialogue: 0,0:20:31.36,0:20:34.36,Default,,0000,0000,0000,,Taking down this whale is our mission.
+Dialogue: 0,0:20:34.36,0:20:37.36,Default,,0000,0000,0000,,We won't let you interfere with\Nour whale hunting this time!
+Dialogue: 0,0:20:37.36,0:20:40.86,Default,,0000,0000,0000,,We'll open an air vent in\Nhis stomach! Let's go, baby!
+Dialogue: 0,0:20:40.86,0:20:41.87,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:20:47.71,0:20:49.71,Default,,0000,0000,0000,,Ah! Bastards!
+Dialogue: 0,0:20:54.04,0:20:56.38,Default,,0000,0000,0000,,That pops jumped\Nstraight into the bullets...!
+Dialogue: 0,0:20:56.38,0:20:59.52,Default,,0000,0000,0000,,Could it be...\Nthat he protected the whale?!
+Dialogue: 0,0:21:02.32,0:21:03.65,Default,,0000,0000,0000,,Stop this pointless resistance!
+Dialogue: 0,0:21:03.65,0:21:06.66,Default,,0000,0000,0000,,If you want to protect the\Nwhale that badly, go right ahead.
+Dialogue: 0,0:21:06.66,0:21:10.36,Default,,0000,0000,0000,,We'll turn it into food for our town!
+Dialogue: 0,0:21:15.67,0:21:17.33,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:21:19.34,0:21:20.67,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:25.01,0:21:26.68,Default,,0000,0000,0000,,Luffy...?
+Dialogue: 0,0:21:26.68,0:21:29.85,Default,,0000,0000,0000,,I just... felt like hitting them.
+Dialogue: 0,0:21:40.36,0:21:44.03,Default,,0000,0000,0000,,I thank you for saving me... but why?
+Dialogue: 0,0:21:44.03,0:21:48.03,Default,,0000,0000,0000,,I wasn't trying to save you.\NI just didn't like them for some reason.
+Dialogue: 0,0:21:48.03,0:21:49.03,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:49.03,0:21:51.70,Default,,0000,0000,0000,,--Say, who are these guys?\N--Hey, Luffy! What're you doing?
+Dialogue: 0,0:21:51.70,0:21:53.37,Default,,0000,0000,0000,,--What're you doing inside this whale?\N--Hey, Luffy! What're you doing?
+Dialogue: 0,0:21:53.37,0:21:55.04,Default,,0000,0000,0000,,--What're you doing inside this whale?\N--Stop it! Hey, Luffy! Stop it!
+Dialogue: 0,0:21:55.04,0:21:58.21,Default,,0000,0000,0000,,--They're thugs from a nearby town.\N--Stop it! Hey, Luffy! Stop it!
+Dialogue: 0,0:21:58.21,0:22:00.98,Default,,0000,0000,0000,,--They're after whale meat.\N--What're you trying to do?\NIt belongs to someone else.
+Dialogue: 0,0:22:00.98,0:22:03.25,Default,,0000,0000,0000,,If they capture Laboon,
+Dialogue: 0,0:22:03.25,0:22:07.32,Default,,0000,0000,0000,,it can feed the townspeople\Nfor at least 2-3 years, so...
+Dialogue: 0,0:22:07.32,0:22:08.32,Default,,0000,0000,0000,,Laboon?
+Dialogue: 0,0:22:08.32,0:22:10.99,Default,,0000,0000,0000,,It's the name of this whale.
+Dialogue: 0,0:22:10.99,0:22:15.83,Default,,0000,0000,0000,,It's the world's largest whale,\Ncalled the Island Whale,
+Dialogue: 0,0:22:15.83,0:22:18.66,Default,,0000,0000,0000,,which live only in the West Blue.
+Dialogue: 0,0:22:18.66,0:22:21.93,Default,,0000,0000,0000,,I won't let them have him as food.
+Dialogue: 0,0:22:21.93,0:22:27.00,Default,,0000,0000,0000,,There's a reason he keeps\Nhitting himself on the Red Line
+Dialogue: 0,0:22:27.00,0:22:30.47,Default,,0000,0000,0000,,and howling towards Reverse Mountain.
+Dialogue: 0,0:22:30.47,0:22:31.34,Default,,0000,0000,0000,,A reason?
+Dialogue: 0,0:22:31.34,0:22:38.68,Default,,0000,0000,0000,,Yeah. He's a whale with a human heart.
+Dialogue: 0,0:22:38.68,0:22:44.19,Default,,0000,0000,0000,,And he's been devotedly\Nwaiting for a certain pirate group...
+Dialogue: 0,0:22:47.36,0:22:50.19,Default,,0000,0000,0000,,...for 50 long years...
+Dialogue: 0,0:22:57.07,0:23:02.07,Default,,0000,0000,0000,,My overflowing feelings don't connect
+Dialogue: 0,0:23:02.07,0:23:06.98,Default,,0000,0000,0000,,as I firmly squeeze your hand back
+Dialogue: 0,0:23:06.98,0:23:11.92,Default,,0000,0000,0000,,I'll set off by myself,
+Dialogue: 0,0:23:11.92,0:23:17.25,Default,,0000,0000,0000,,so keep watching me intently\Nas I go into the distance
+Dialogue: 0,0:23:21.76,0:23:26.76,Default,,0000,0000,0000,,I was thinking about it\Na bit since this morning
+Dialogue: 0,0:23:26.76,0:23:31.34,Default,,0000,0000,0000,,Why is it so hot?
+Dialogue: 0,0:23:31.34,0:23:41.75,Default,,0000,0000,0000,,Starting from some point, I haven't\Nbeen able to get away from that
+Dialogue: 0,0:23:42.81,0:23:47.68,Default,,0000,0000,0000,,I want to catch those\Nfeelings that rushed off,
+Dialogue: 0,0:23:47.68,0:23:52.56,Default,,0000,0000,0000,,and I'm already about\Nto overtake myself, even
+Dialogue: 0,0:23:52.56,0:23:57.56,Default,,0000,0000,0000,,I want to embrace my\Ndreams that have jumped out
+Dialogue: 0,0:23:57.56,0:24:02.73,Default,,0000,0000,0000,,With you, I can run there
+Dialogue: 0,0:24:11.64,0:24:14.04,Default,,0000,0000,0000,,There's a reason he keeps\Nhitting the Red Line?
+Dialogue: 0,0:24:14.04,0:24:15.31,Default,,0000,0000,0000,,What a strange whale...
+Dialogue: 0,0:24:15.31,0:24:17.65,Default,,0000,0000,0000,,--So he's a whale with a human heart...\N--Okay!
+Dialogue: 0,0:24:17.65,0:24:20.98,Default,,0000,0000,0000,,When he says "Okay!" nothing\Ngood usually comes of it.
+Dialogue: 0,0:24:20.98,0:24:21.99,Default,,0000,0000,0000,,H-Hey, look!
+Dialogue: 0,0:24:21.99,0:24:23.65,Default,,0000,0000,0000,,What's he thinking?
+Dialogue: 0,0:24:23.65,0:24:24.66,Default,,0000,0000,0000,,Now how is this?
+Dialogue: 0,0:24:24.66,0:24:26.99,Default,,0000,0000,0000,,What're you doing?!
+Dialogue: 0,0:24:26.99,0:24:27.99,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:24:27.99,0:24:31.33,Default,,0000,0000,0000,,"A Promise Between Men!\NLuffy and the Whale Vow to Meet Again"
+Dialogue: 0,0:24:31.33,0:24:33.66,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:24:33.66,0:24:38.16,Default,,0000,0000,0000,,

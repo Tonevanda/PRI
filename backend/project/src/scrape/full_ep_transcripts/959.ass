@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.07,0:00:13.90,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:11.07,0:00:13.90,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.95,0:00:16.87,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.95,0:00:16.87,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.91,0:00:21.45,Default,,0000,0000,0000,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.91,0:00:21.45,On Top,,0000,0000,0000,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.50,0:00:24.21,Default,,0000,0000,0000,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.50,0:00:24.21,On Top,,0000,0000,0000,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.84,0:00:33.72,Default,,0000,0000,0000,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.84,0:00:33.72,On Top,,0000,0000,0000,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.76,0:00:36.97,Default,,0000,0000,0000,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.76,0:00:36.97,On Top,,0000,0000,0000,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:37.01,0:00:40.26,Default,,0000,0000,0000,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:37.01,0:00:40.26,On Top,,0000,0000,0000,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.51,0:00:45.06,Default,,0000,0000,0000,,{\i1}Shout it out, to save your spirit from breaking{\i0}
+Dialogue: 0,0:00:40.51,0:00:45.06,On Top,,0000,0000,0000,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.10,0:00:47.52,Default,,0000,0000,0000,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.10,0:00:47.52,On Top,,0000,0000,0000,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.56,0:00:53.94,Default,,0000,0000,0000,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.56,0:00:53.94,On Top,,0000,0000,0000,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:53.99,0:00:58.03,Default,,0000,0000,0000,,{\i1}Even when the darkness tries to tear you apart{\i0}
+Dialogue: 0,0:00:53.99,0:00:58.03,On Top,,0000,0000,0000,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:58.07,0:00:59.33,Default,,0000,0000,0000,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:58.07,0:00:59.33,On Top,,0000,0000,0000,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.37,0:01:00.83,Default,,0000,0000,0000,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.37,0:01:00.83,On Top,,0000,0000,0000,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.87,0:01:04.54,Default,,0000,0000,0000,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.87,0:01:04.54,On Top,,0000,0000,0000,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.58,0:01:07.29,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.58,0:01:07.29,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.33,0:01:10.46,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.33,0:01:10.46,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.50,0:01:15.72,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.50,0:01:15.72,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:15.76,0:01:18.51,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:15.76,0:01:18.51,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.55,0:01:21.47,Default,,0000,0000,0000,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.55,0:01:21.47,On Top,,0000,0000,0000,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.51,0:01:24.18,Default,,0000,0000,0000,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.51,0:01:24.18,On Top,,0000,0000,0000,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.22,0:01:28.94,Default,,0000,0000,0000,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.22,0:01:28.94,On Top,,0000,0000,0000,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:28.98,0:01:33.28,Default,,0000,0000,0000,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:28.98,0:01:33.28,On Top,,0000,0000,0000,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.69,0:01:38.66,Default,,0000,0000,0000,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.69,0:01:38.66,On Top,,0000,0000,0000,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.32,0:01:42.16,Default,,0000,0000,0000,,{\i1}Transcend meetings and partings and keep going{\i0}
+Dialogue: 0,0:01:39.32,0:01:42.16,On Top,,0000,0000,0000,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.20,0:01:46.50,Default,,0000,0000,0000,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.20,0:01:46.50,On Top,,0000,0000,0000,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.91,0:01:49.71,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.91,0:01:49.71,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.75,0:01:52.84,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.75,0:01:52.84,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.88,0:01:57.55,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.88,0:01:57.55,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.59,0:02:01.72,Default,,0000,0000,0000,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:01:57.59,0:02:01.72,On Top,,0000,0000,0000,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:02:11.73,0:02:15.15,On Top,,0000,0000,0000,,25 YEARS AGO
+Dialogue: 0,0:02:12.06,0:02:16.28,Default,,0000,0000,0000,,{\i1}Rewinding to 25 years ago...{\i0}
+Dialogue: 0,0:02:23.87,0:02:29.33,Default,,0000,0000,0000,,{\i1}A little before the Great Pirate Era began...{\i0}
+Dialogue: 0,0:03:16.25,0:03:19.76,Default,,0000,0000,0000,,Is everybody having a good time?!
+Dialogue: 0,0:03:25.26,0:03:27.64,Default,,0000,0000,0000,,I am glad that I followed you.
+Dialogue: 0,0:03:27.93,0:03:29.12,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:03:29.12,0:03:32.98,Default,,0000,0000,0000,,Huh?!\NWhy are you saying such a thing now, idiot?!
+Dialogue: 0,0:03:37.40,0:03:38.44,Default,,0000,0000,0000,,Oden!
+Dialogue: 0,0:03:38.82,0:03:42.20,Default,,0000,0000,0000,,We must thank you instead!
+Dialogue: 0,0:03:49.24,0:03:52.96,Default,,0000,0000,0000,,You're drinking too much!\NControl yourself!
+Dialogue: 0,0:03:54.42,0:03:59.05,Default,,0000,0000,0000,,Shut up!\NI won't take advice from a drunken doctor!
+Dialogue: 0,0:04:00.34,0:04:04.51,Default,,0000,0000,0000,,I'm concerned about your health!
+Dialogue: 0,0:04:04.51,0:04:06.14,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:04:08.64,0:04:10.60,Default,,0000,0000,0000,,Lie there quietly!
+Dialogue: 0,0:04:11.31,0:04:12.74,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:04:12.74,0:04:14.44,Default,,0000,0000,0000,,That hurt.
+Dialogue: 0,0:04:15.60,0:04:17.82,Default,,0000,0000,0000,,That was the cure for stupidity.
+Dialogue: 0,0:04:18.73,0:04:19.86,Default,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:04:22.53,0:04:24.03,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:04:37.71,0:04:40.48,Default,,0000,0000,0000,,I must go back...
+Dialogue: 0,0:04:40.48,0:04:41.76,Default,,0000,0000,0000,,To the Land of Wano?
+Dialogue: 0,0:04:42.34,0:04:45.63,Default,,0000,0000,0000,,Yeah, there is still something major left to do...
+Dialogue: 0,0:04:46.59,0:04:50.60,Default,,0000,0000,0000,,Is there anything we can do to help, Oden?
+Dialogue: 0,0:04:50.60,0:04:52.43,Default,,0000,0000,0000,,If you need a hand...
+Dialogue: 0,0:04:52.43,0:04:55.54,Default,,0000,0000,0000,,I can lend one, Oden-{\i1}san{\i0}!
+Dialogue: 0,0:04:55.54,0:04:59.49,Default,,0000,0000,0000,,You fool!\NYou'll get in his way instead!
+Dialogue: 0,0:04:59.49,0:05:03.03,Default,,0000,0000,0000,,Hey, Oden-{\i1}san{\i0}. I'm sure I can help!
+Dialogue: 0,0:05:05.78,0:05:07.07,Default,,0000,0000,0000,,Rayleigh...
+Dialogue: 0,0:05:07.07,0:05:09.20,Default,,0000,0000,0000,,Redtaro, Buggyjiro...
+Dialogue: 0,0:05:10.03,0:05:11.79,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:05:11.79,0:05:13.12,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:05:18.75,0:05:21.59,Default,,0000,0000,0000,,We, the Kozuki, must do it!
+Dialogue: 0,0:05:21.59,0:05:25.23,Default,,0000,0000,0000,,I've asked you so many times,\Nwhy do you call me "jiro (second son)"?
+Dialogue: 0,0:05:25.23,0:05:27.55,Default,,0000,0000,0000,,Let it go!
+Dialogue: 0,0:05:28.47,0:05:31.20,Default,,0000,0000,0000,,Oh, yeah. The Kozuki, huh?
+Dialogue: 0,0:05:31.20,0:05:34.81,Default,,0000,0000,0000,,I learned a lot through this journey...
+Dialogue: 0,0:05:35.43,0:05:39.61,Default,,0000,0000,0000,,I always wondered\Nwhy the Land of Wano closed its door.
+Dialogue: 0,0:05:40.90,0:05:48.36,Default,,0000,0000,0000,,I left the country by my own choice, so I won't say\Na selfish thing like, "Let me become the Shogun"...
+Dialogue: 0,0:05:49.32,0:05:52.83,Default,,0000,0000,0000,,But I must pass this will on at any cost!
+Dialogue: 0,0:05:56.54,0:06:00.47,Default,,0000,0000,0000,,With my great retainers that I left behind,
+Dialogue: 0,0:06:00.47,0:06:03.52,Default,,0000,0000,0000,,I will open up the Land of Wano!
+Dialogue: 0,0:06:03.52,0:06:08.13,Default,,0000,0000,0000,,And I will wait for the "future"\Nthat will come more than 20 years from now!
+Dialogue: 0,0:06:10.89,0:06:12.55,Default,,0000,0000,0000,,Let's do it, Oden!
+Dialogue: 0,0:06:12.55,0:06:13.97,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:13.97,0:06:16.68,Default,,0000,0000,0000,,I will do it, Roger!
+Dialogue: 0,0:06:21.15,0:06:25.90,On Top,,0000,0000,0000,,25 YEARS LATER
+Dialogue: 0,0:06:21.52,0:06:25.90,Default,,0000,0000,0000,,{\i1}Now 25 years have passed.{\i0}
+Dialogue: 0,0:06:30.28,0:06:32.32,On Top,,0000,0000,0000,,LAND OF WANO ACT THREE
+Dialogue: 0,0:06:40.12,0:06:42.00,On Top,,0000,0000,0000,,OROCHI
+Dialogue: 0,0:06:53.01,0:06:57.68,On Top,,0000,0000,0000,,HABU PORT, HAKUMAI
+Dialogue: 0,0:06:58.06,0:06:59.77,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}!
+Dialogue: 0,0:07:07.15,0:07:14.33,Default,,0000,0000,0000,,{\i1}"The Rendezvous Port!\NThe Land of Wano Act Three Begins!"{\i0}
+Dialogue: 0,0:07:17.41,0:07:19.41,Default,,0000,0000,0000,,Today is a good day!
+Dialogue: 0,0:07:19.41,0:07:22.42,Default,,0000,0000,0000,,Look at that view!
+Dialogue: 0,0:07:24.00,0:07:25.90,Default,,0000,0000,0000,,It is a perfect day for a banquet.
+Dialogue: 0,0:07:25.90,0:07:30.51,Default,,0000,0000,0000,,Our Orochi-{\i1}sama{\i0} is even favored by good weather.
+Dialogue: 0,0:07:30.88,0:07:35.78,Default,,0000,0000,0000,,This time, Kyoshiro will stay at the capital to look after it!\NTell him we are counting on him!
+Dialogue: 0,0:07:35.78,0:07:36.82,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:07:36.82,0:07:40.89,Default,,0000,0000,0000,,Poor guy! He can't attend the banquet!
+Dialogue: 0,0:07:41.48,0:07:48.53,Default,,0000,0000,0000,,{\i1}This Habu Port in Hakumai\Nis known as the largest port in the Land of Wano.{\i0}
+Dialogue: 0,0:07:49.07,0:07:55.79,Default,,0000,0000,0000,,{\i1}Maple trees line the giant pier\Nwhich projects from the shore into the sea,{\i0}
+Dialogue: 0,0:07:55.79,0:08:01.21,Default,,0000,0000,0000,,{\i1}and the lovely scene of fluttering red leaves\Nsends ships off.{\i0}
+Dialogue: 0,0:08:03.29,0:08:05.38,Default,,0000,0000,0000,,It is a good day!
+Dialogue: 0,0:08:05.38,0:08:09.40,Default,,0000,0000,0000,,Bring {\i1}sake{\i0}! Let's have a cup\Nwhile admiring those red leaves!
+Dialogue: 0,0:08:09.40,0:08:13.30,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}, you should not drink\Nuntil you see Kaido-{\i1}sama{\i0}...
+Dialogue: 0,0:08:13.84,0:08:17.10,Default,,0000,0000,0000,,Who cares! I know he is drunk, too!
+Dialogue: 0,0:08:17.51,0:08:23.02,Default,,0000,0000,0000,,It is a big banquet with 30 thousand guests!\NLet's have a great time as always!
+Dialogue: 0,0:08:23.02,0:08:25.94,Default,,0000,0000,0000,,{\i1}On the night of the annual Fire Festival,{\i0}
+Dialogue: 0,0:08:26.27,0:08:30.57,Default,,0000,0000,0000,,{\i1}the two leaders who rule the Land of Wano\Ncome together at Onigashima.{\i0}
+Dialogue: 0,0:08:30.57,0:08:36.28,Default,,0000,0000,0000,,{\i1}And they throw a big banquet\Nat which all of Orochi's army and Kaido's army gather.{\i0}
+Dialogue: 0,0:08:40.74,0:08:43.46,On Top,,0000,0000,0000,,FLOWER CAPITAL ON THE DAY OF THE FIRE FESTIVAL
+Dialogue: 0,0:08:48.63,0:08:50.21,Default,,0000,0000,0000,,Hey! Hurry up!
+Dialogue: 0,0:08:52.42,0:08:54.53,Default,,0000,0000,0000,,Hurry up! It's already started!
+Dialogue: 0,0:08:54.53,0:08:57.05,Default,,0000,0000,0000,,Wait! I don't like the way my bangs look!
+Dialogue: 0,0:09:57.24,0:09:59.07,Default,,0000,0000,0000,,Come on! Dance!
+Dialogue: 0,0:09:59.07,0:10:01.75,Default,,0000,0000,0000,,Drink! Sing!
+Dialogue: 0,0:10:01.75,0:10:04.79,Default,,0000,0000,0000,,It's the Fire Festival in the capital today!
+Dialogue: 0,0:10:04.79,0:10:07.16,Default,,0000,0000,0000,,The only day we're allowed to drink!
+Dialogue: 0,0:10:07.16,0:10:11.09,Default,,0000,0000,0000,,We'll drink hard and have a good time today!
+Dialogue: 0,0:10:18.97,0:10:19.94,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:10:19.94,0:10:24.77,Default,,0000,0000,0000,,The sky's so clear!\NWe'll see a beautiful full moon tonight!
+Dialogue: 0,0:10:41.53,0:10:46.62,Default,,0000,0000,0000,,{\i1}The seasons of each region of the Land of Wano\Ndiffer wildly.{\i0}
+Dialogue: 0,0:10:47.04,0:10:54.29,On Top,,0000,0000,0000,,TOKAGE PORT
+Dialogue: 0,0:10:47.25,0:10:54.29,Default,,0000,0000,0000,,{\i1}The weather also varies tremendously\Nby location.{\i0}
+Dialogue: 0,0:10:56.51,0:11:01.47,Default,,0000,0000,0000,,{\i1}At that same moment,\Nat the rendezvous point, Tokage Port...{\i0}
+Dialogue: 0,0:10:56.67,0:11:01.93,On Top,,0000,0000,0000,,AT THE SAME MOMENT\NTHE RENDEZVOUS POINT, TOKAGE PORT
+Dialogue: 0,0:11:28.16,0:11:30.21,Default,,0000,0000,0000,,Not a single ship is in sight!
+Dialogue: 0,0:11:31.25,0:11:33.33,Default,,0000,0000,0000,,Where are the four thousand soldiers?!
+Dialogue: 0,0:11:34.71,0:11:38.21,Default,,0000,0000,0000,,I am positive we conquered Udon!
+Dialogue: 0,0:11:41.97,0:11:46.18,Default,,0000,0000,0000,,But no one is there at the labor camp, either.
+Dialogue: 0,0:11:46.18,0:11:49.27,Default,,0000,0000,0000,,It seems like this port was attacked!
+Dialogue: 0,0:11:49.68,0:11:52.14,Default,,0000,0000,0000,,It appears the cat couldn't make it.
+Dialogue: 0,0:11:59.03,0:12:00.90,Default,,0000,0000,0000,,The Smail is not responding.
+Dialogue: 0,0:12:01.74,0:12:05.12,Default,,0000,0000,0000,,We cannot contact anyone...
+Dialogue: 0,0:12:08.41,0:12:12.41,Default,,0000,0000,0000,,At twilight on the day of the Fire Festival,\Nat Tokage Port!
+Dialogue: 0,0:12:14.42,0:12:17.81,Default,,0000,0000,0000,,This is the rendezvous port!
+Dialogue: 0,0:12:17.81,0:12:21.59,Default,,0000,0000,0000,,Why hasn't anyone come?!\NWhere did they go?!
+Dialogue: 0,0:12:24.89,0:12:27.18,Default,,0000,0000,0000,,It has been only a day...
+Dialogue: 0,0:12:27.72,0:12:29.64,Default,,0000,0000,0000,,What is this all about?!
+Dialogue: 0,0:12:30.81,0:12:32.43,Default,,0000,0000,0000,,Something happened to everyone?!
+Dialogue: 0,0:12:32.73,0:12:35.40,Default,,0000,0000,0000,,Heave ho! Heave ho! Heave ho!
+Dialogue: 0,0:12:36.19,0:12:37.82,Default,,0000,0000,0000,,Dance! Dance!
+Dialogue: 0,0:12:37.82,0:12:40.33,Default,,0000,0000,0000,,It's the annual Fire Festival!
+Dialogue: 0,0:12:40.33,0:12:45.57,Default,,0000,0000,0000,,Why don't you let loose\Nand burn off some stress tonight?!
+Dialogue: 0,0:12:49.33,0:12:52.09,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0}, where are you?!
+Dialogue: 0,0:12:52.09,0:12:54.50,Default,,0000,0000,0000,,Hyogoro-{\i1}dono{\i0}, please respond!
+Dialogue: 0,0:12:59.59,0:13:01.51,Default,,0000,0000,0000,,Dogstorm Musketeers!
+Dialogue: 0,0:13:01.51,0:13:04.17,Default,,0000,0000,0000,,Law-{\i1}dono{\i0}!\NJibuemon of Kibi!
+Dialogue: 0,0:13:04.17,0:13:08.14,Default,,0000,0000,0000,,We are Kozuki Oden's retainers!
+Dialogue: 0,0:13:08.47,0:13:10.89,Default,,0000,0000,0000,,From 20 years ago...
+Dialogue: 0,0:13:13.52,0:13:19.41,Default,,0000,0000,0000,,We came from 20 years ago\Nto avenge our lord!
+Dialogue: 0,0:13:19.41,0:13:22.71,Default,,0000,0000,0000,,We should have died at that time!
+Dialogue: 0,0:13:22.71,0:13:25.36,Default,,0000,0000,0000,,So we came to die for a cause!
+Dialogue: 0,0:13:28.41,0:13:29.70,Default,,0000,0000,0000,,However,
+Dialogue: 0,0:13:30.08,0:13:32.91,Default,,0000,0000,0000,,it takes more than just our lives!
+Dialogue: 0,0:13:32.91,0:13:36.29,Default,,0000,0000,0000,,The enemy has 30 thousand soldiers!\NWe need help!
+Dialogue: 0,0:13:38.29,0:13:39.38,Default,,0000,0000,0000,,I am begging you!
+Dialogue: 0,0:13:39.38,0:13:42.61,Default,,0000,0000,0000,,Somebody, please help us!
+Dialogue: 0,0:13:42.61,0:13:45.23,Default,,0000,0000,0000,,Somebody, respond!\NPlease help!
+Dialogue: 0,0:13:45.23,0:13:47.22,Default,,0000,0000,0000,,Enough, Kin'emon!
+Dialogue: 0,0:13:50.10,0:13:53.22,Default,,0000,0000,0000,,Look at the sky and sea!
+Dialogue: 0,0:13:53.72,0:13:57.07,Default,,0000,0000,0000,,We are already abandoned even by heaven!
+Dialogue: 0,0:13:57.07,0:13:59.61,Default,,0000,0000,0000,,No one will help us!
+Dialogue: 0,0:13:59.61,0:14:03.40,Default,,0000,0000,0000,,Something must have happened to everyone...
+Dialogue: 0,0:14:22.17,0:14:26.27,On Top,,0000,0000,0000,,TWO DAYS AGO
+Dialogue: 0,0:14:22.67,0:14:27.38,Default,,0000,0000,0000,,{\i1}Rewinding to two days before the Fire Festival...{\i0}
+Dialogue: 0,0:14:26.27,0:14:30.14,On Top,,0000,0000,0000,,AMIGASA VILLAGE
+Dialogue: 0,0:14:30.80,0:14:34.61,Default,,0000,0000,0000,,Mm-hm. Now we have 4,200 soldiers.
+Dialogue: 0,0:14:34.61,0:14:38.35,Default,,0000,0000,0000,,I am glad... I am glad that they joined us...
+Dialogue: 0,0:14:38.73,0:14:39.98,Default,,0000,0000,0000,,Everyone...
+Dialogue: 0,0:14:40.60,0:14:42.61,Default,,0000,0000,0000,,{\i1}Thank you for your work!{\i0}
+Dialogue: 0,0:14:42.94,0:14:46.24,Default,,0000,0000,0000,,{\i1}Use the remaining time for\Ntravel and preparations.{\i0}
+Dialogue: 0,0:14:47.15,0:14:48.12,Default,,0000,0000,0000,,{\i1}Well then...{\i0}
+Dialogue: 0,0:14:48.12,0:14:51.07,Default,,0000,0000,0000,,See you at the rendezvous port!
+Dialogue: 0,0:14:55.37,0:14:59.08,On Top,,0000,0000,0000,,ITACHI PORT, KURI
+Dialogue: 0,0:14:59.54,0:15:03.59,Default,,0000,0000,0000,,Finish fixing enough ships\Nto carry five thousand people!
+Dialogue: 0,0:15:03.59,0:15:04.56,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:04.56,0:15:09.43,Default,,0000,0000,0000,,Bring those ships to the port by the appointed time!\NCan you do it?!
+Dialogue: 0,0:15:09.68,0:15:12.22,Default,,0000,0000,0000,,Count on us, Big Bro Franosuke!
+Dialogue: 0,0:15:12.22,0:15:13.64,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:15:13.64,0:15:17.85,On Top,,0000,0000,0000,,ITACHI PORT\NAMIGASA VILLAGE
+Dialogue: 0,0:15:13.64,0:15:18.15,Default,,0000,0000,0000,,Then, we'll meet up with our friends\Nin Amigasa Village,
+Dialogue: 0,0:15:18.15,0:15:21.34,Default,,0000,0000,0000,,and come by the Sunny on that day!
+Dialogue: 0,0:15:21.34,0:15:23.17,Default,,0000,0000,0000,,We'll leave the rest to you!
+Dialogue: 0,0:15:23.17,0:15:25.71,Default,,0000,0000,0000,,Yeah! Thank you for helping us!
+Dialogue: 0,0:15:25.71,0:15:28.07,Default,,0000,0000,0000,,You guys are great shipwrights!
+Dialogue: 0,0:15:28.07,0:15:31.53,Default,,0000,0000,0000,,Thanks! Let's take those Animal Kingdom Pirates...
+Dialogue: 0,0:15:32.41,0:15:35.49,Default,,0000,0000,0000,,...and kick their asses, guys!
+Dialogue: 0,0:15:39.58,0:15:43.79,On Top,,0000,0000,0000,,UDON
+Dialogue: 0,0:15:39.58,0:15:43.81,Default,,0000,0000,0000,,No matter how much timber we have,\Nit's never enough! Cut up everything!
+Dialogue: 0,0:15:43.81,0:15:48.18,Default,,0000,0000,0000,,Ocho's group will bring\Nswords and the like from Ringo!
+Dialogue: 0,0:15:48.18,0:15:49.19,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:15:49.19,0:15:51.72,Default,,0000,0000,0000,,We'll craft armor from whatever we have!
+Dialogue: 0,0:15:51.72,0:15:53.59,Default,,0000,0000,0000,,I don't know if they're usable,
+Dialogue: 0,0:15:53.59,0:15:57.70,Default,,0000,0000,0000,,but we have tons of weapons and those sorts of things\Nfor export here!
+Dialogue: 0,0:15:57.70,0:15:59.18,Default,,0000,0000,0000,,Good!
+Dialogue: 0,0:15:59.18,0:16:03.99,Default,,0000,0000,0000,,If we go to the rendezvous point too early,\Nwe will draw people's attention.
+Dialogue: 0,0:15:59.18,0:16:04.81,On Top,,0000,0000,0000,,KIBI
+Dialogue: 0,0:16:03.99,0:16:04.81,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:04.81,0:16:09.69,Default,,0000,0000,0000,,...on the morning of that day, the Shogun's procession\Nwill wind from the capital to the port.
+Dialogue: 0,0:16:04.81,0:16:09.69,On Top,,0000,0000,0000,,HABU PORT            FLOWER CAPITAL
+Dialogue: 0,0:16:09.69,0:16:14.32,Default,,0000,0000,0000,,Once they leave for Onigashima,\Nthe Fire Festival will take place in the capital!
+Dialogue: 0,0:16:14.32,0:16:17.20,Default,,0000,0000,0000,,No one will pay us any mind!
+Dialogue: 0,0:16:17.20,0:16:22.08,Default,,0000,0000,0000,,"Two birds..."\NWe better get there before twilight...
+Dialogue: 0,0:16:17.20,0:16:22.08,On Top,,0000,0000,0000,,UDON
+Dialogue: 0,0:16:22.08,0:16:25.54,Default,,0000,0000,0000,,But some officials will still be on the mainland!
+Dialogue: 0,0:16:22.08,0:16:25.54,On Top,,0000,0000,0000,,ITACHI PORT
+Dialogue: 0,0:16:25.54,0:16:29.92,On Top,,0000,0000,0000,,KIBI
+Dialogue: 0,0:16:25.54,0:16:29.94,Default,,0000,0000,0000,,We cannot let them report to Onigashima,\Nso stay alert the whole way!
+Dialogue: 0,0:16:29.94,0:16:31.05,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:36.35,0:16:38.57,Default,,0000,0000,0000,,Are you allowing us to use these?!
+Dialogue: 0,0:16:38.57,0:16:42.54,Default,,0000,0000,0000,,Wow! It's a samurai helmet!\NI wanna show it to Usopp, too!
+Dialogue: 0,0:16:42.54,0:16:44.73,Default,,0000,0000,0000,,We're warriors!
+Dialogue: 0,0:16:51.40,0:16:54.04,Default,,0000,0000,0000,,Your enemy is that ill-famed Kaido.
+Dialogue: 0,0:16:54.04,0:16:56.55,Default,,0000,0000,0000,,Are you all prepared?!
+Dialogue: 0,0:16:56.55,0:16:57.91,Default,,0000,0000,0000,,Kaido?
+Dialogue: 0,0:16:58.41,0:17:00.20,Default,,0000,0000,0000,,That loser...
+Dialogue: 0,0:17:00.49,0:17:03.25,Default,,0000,0000,0000,,...is about to be sliced up!
+Dialogue: 0,0:17:03.62,0:17:06.25,Default,,0000,0000,0000,,I don't think we'll lose!
+Dialogue: 0,0:17:06.25,0:17:08.13,Default,,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:17:11.51,0:17:13.65,Default,,0000,0000,0000,,Chobro and the others look good!
+Dialogue: 0,0:17:13.65,0:17:16.68,Default,,0000,0000,0000,,Oh, how cute. Just like bugs.
+Dialogue: 0,0:17:16.68,0:17:18.18,Default,,0000,0000,0000,,Bugs?!
+Dialogue: 0,0:17:18.18,0:17:19.68,Default,,0000,0000,0000,,C-Cute...?
+Dialogue: 0,0:17:19.93,0:17:22.53,Default,,0000,0000,0000,,Why don't you wear one, too?
+Dialogue: 0,0:17:22.53,0:17:24.94,Default,,0000,0000,0000,,No, it'll just slow me down.
+Dialogue: 0,0:17:24.94,0:17:26.35,Default,,0000,0000,0000,,Wear it.
+Dialogue: 0,0:17:26.81,0:17:29.48,Default,,0000,0000,0000,,Since your bounty is so low!
+Dialogue: 0,0:17:31.86,0:17:33.15,Default,,0000,0000,0000,,Enma!
+Dialogue: 0,0:17:43.08,0:17:46.06,Default,,0000,0000,0000,,Do you wanna fight?! I'll kill you!
+Dialogue: 0,0:17:46.06,0:17:48.42,Default,,0000,0000,0000,,Try it, you bastard!
+Dialogue: 0,0:17:52.13,0:17:54.21,Default,,0000,0000,0000,,What are you fools doing?!
+Dialogue: 0,0:17:57.30,0:18:01.57,Default,,0000,0000,0000,,Orochi said that it's winter\Nat the entrance to Onigashima.
+Dialogue: 0,0:18:01.57,0:18:03.49,Default,,0000,0000,0000,,What? Is it cold?
+Dialogue: 0,0:18:03.49,0:18:06.19,Default,,0000,0000,0000,,What do you mean by "entrance"?
+Dialogue: 0,0:18:06.19,0:18:10.24,Default,,0000,0000,0000,,The mainland of the Land of Wano\Nhas different seasons in different areas.
+Dialogue: 0,0:18:10.24,0:18:13.44,Default,,0000,0000,0000,,We're coated with fur,\Nso we're okay with cold weather.
+Dialogue: 0,0:18:13.44,0:18:16.04,On Top,,0000,0000,0000,,DOGSTORM THREE MUSKETEERS
+Dialogue: 0,0:18:13.44,0:18:16.34,Default,,0000,0000,0000,,Yeah, for us, the weather is more crucial...
+Dialogue: 0,0:18:16.04,0:18:18.41,On Top,,0000,0000,0000,,CONCELOT     SHISHILIAN     GIOVANNI
+Dialogue: 0,0:18:16.34,0:18:18.41,Default,,0000,0000,0000,,...than the season!
+Dialogue: 0,0:18:18.41,0:18:23.20,Default,,0000,0000,0000,,It's supposed to be a full moon that day,\Nbut if it hides behind the clouds, it's useless.
+Dialogue: 0,0:18:23.20,0:18:24.72,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:18:24.72,0:18:28.75,Default,,0000,0000,0000,,If all Minks transform like Carrot,\Nthat'll help us a lot!
+Dialogue: 0,0:18:37.09,0:18:39.34,Default,,0000,0000,0000,,Garchu!
+Dialogue: 0,0:18:39.93,0:18:43.43,Default,,0000,0000,0000,,But the Sulong transformation\Nwill depend on luck.
+Dialogue: 0,0:18:43.43,0:18:48.73,Default,,0000,0000,0000,,It's more important to have\NMaster Cat Viper and Guardians here...
+Dialogue: 0,0:18:53.98,0:18:55.57,Default,,0000,0000,0000,,What's wrong, Luffy?
+Dialogue: 0,0:18:59.86,0:19:01.74,Default,,0000,0000,0000,,Big Mom is here...
+Dialogue: 0,0:19:03.53,0:19:06.17,Default,,0000,0000,0000,,But Jimbei isn't here yet!
+Dialogue: 0,0:19:06.17,0:19:10.04,Default,,0000,0000,0000,,Thanks to him, we got away from Big Mom!
+Dialogue: 0,0:19:12.13,0:19:15.71,Default,,0000,0000,0000,,I'll be waiting for you at the Land of Wano!\NCome at any cost!
+Dialogue: 0,0:19:17.46,0:19:19.19,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:19.19,0:19:21.09,Default,,0000,0000,0000,,Jimbei!
+Dialogue: 0,0:19:21.80,0:19:24.01,Default,,0000,0000,0000,,Don't die no matter what!
+Dialogue: 0,0:19:30.27,0:19:33.77,Default,,0000,0000,0000,,He joined us after he settled things!
+Dialogue: 0,0:19:43.82,0:19:45.49,Default,,0000,0000,0000,,We're happy to have him...
+Dialogue: 0,0:19:45.49,0:19:48.50,Default,,0000,0000,0000,,We've still got time... He'll come!
+Dialogue: 0,0:19:48.50,0:19:50.75,Default,,0000,0000,0000,,If he's alive.
+Dialogue: 0,0:19:50.75,0:19:52.58,Default,,0000,0000,0000,,I'm sure he is!
+Dialogue: 0,0:19:54.46,0:19:56.00,Default,,0000,0000,0000,,He'll come!
+Dialogue: 0,0:19:58.26,0:20:02.38,On Top,,0000,0000,0000,,EBISU TOWN, OUTSIDE OF THE FLOWER CAPITAL
+Dialogue: 0,0:19:58.26,0:20:02.40,Default,,0000,0000,0000,,Hey, guys! Come here! Ushimitsu Kozo came!
+Dialogue: 0,0:20:02.40,0:20:05.35,Default,,0000,0000,0000,,But there's no talk of a robbery in the capital!
+Dialogue: 0,0:20:05.35,0:20:09.07,Default,,0000,0000,0000,,He's the only person who would do this!
+Dialogue: 0,0:20:09.07,0:20:14.06,Default,,0000,0000,0000,,We can't take part in the Fire Festival tomorrow,\Nbut let's drink water with these!
+Dialogue: 0,0:20:14.77,0:20:17.69,Default,,0000,0000,0000,,We burned down the mountain bandit's mountain!
+Dialogue: 0,0:20:18.07,0:20:21.15,Default,,0000,0000,0000,,But instead of seeking revenge,
+Dialogue: 0,0:20:21.15,0:20:25.20,Default,,0000,0000,0000,,they keep stealing tons of food from our farm!
+Dialogue: 0,0:20:21.15,0:20:25.20,On Top,,0000,0000,0000,,OKOBORE TOWN, KURI
+Dialogue: 0,0:20:27.79,0:20:31.60,Default,,0000,0000,0000,,Do you guys have something to do with it?!
+Dialogue: 0,0:20:31.60,0:20:33.37,Default,,0000,0000,0000,,W-We don't know anything!
+Dialogue: 0,0:20:33.67,0:20:39.52,Default,,0000,0000,0000,,I heard samurai are preparing to make a raid...\NIs that why, maybe?!
+Dialogue: 0,0:20:39.52,0:20:41.76,Default,,0000,0000,0000,,If so, we can't let them know!
+Dialogue: 0,0:20:42.88,0:20:46.01,Default,,0000,0000,0000,,What are you guys whispering about?!
+Dialogue: 0,0:20:46.76,0:20:49.10,Default,,0000,0000,0000,,I will guide you!
+Dialogue: 0,0:20:49.10,0:20:52.39,On Top,,0000,0000,0000,,OTSURU - KIN'EMON'S WIFE
+Dialogue: 0,0:20:49.43,0:20:52.39,Default,,0000,0000,0000,,So do not hurt anyone!
+Dialogue: 0,0:20:52.39,0:20:53.89,Default,,0000,0000,0000,,O-Otsuru-{\i1}san{\i0}!
+Dialogue: 0,0:20:53.89,0:20:55.52,Default,,0000,0000,0000,,Guide me?
+Dialogue: 0,0:20:57.02,0:20:59.32,Default,,0000,0000,0000,,Do you know anything about this?
+Dialogue: 0,0:20:59.57,0:21:02.78,Default,,0000,0000,0000,,You will see once you get there.\NIt is a little far though...
+Dialogue: 0,0:21:09.20,0:21:13.81,Default,,0000,0000,0000,,{\i1}You must need tons of food\Nbecause you are with so many allies!{\i0}
+Dialogue: 0,0:21:13.81,0:21:15.58,Default,,0000,0000,0000,,{\i1}Huh, Kin-{\i0}san{\i1}?{\i0}
+Dialogue: 0,0:21:15.58,0:21:18.71,Default,,0000,0000,0000,,{\i1}You are here in the Land of Wano, right?{\i0}
+Dialogue: 0,0:21:19.34,0:21:21.92,Default,,0000,0000,0000,,{\i1}I was stunned when I saw Kikunojo...{\i0}
+Dialogue: 0,0:21:25.01,0:21:26.26,Default,,0000,0000,0000,,{\i1}Kin-{\i0}san{\i1}...{\i0}
+Dialogue: 0,0:21:26.84,0:21:31.69,Default,,0000,0000,0000,,{\i1}Kin-{\i0}san{\i1}, let me handle this!\NI will draw their attention!{\i0}
+Dialogue: 0,0:21:31.69,0:21:34.48,Default,,0000,0000,0000,,{\i1}I will not let them search for you all!{\i0}
+Dialogue: 0,0:21:35.35,0:21:39.94,Default,,0000,0000,0000,,{\i1}Kin-{\i0}san{\i1}... Take back Kozuki's country!{\i0}
+Dialogue: 0,0:21:41.57,0:21:45.20,Default,,0000,0000,0000,,No, Otsuru-{\i1}san{\i0}!\NYou don't have to cover for us!
+Dialogue: 0,0:21:45.49,0:21:50.39,Default,,0000,0000,0000,,It's okay now!\NWe just wanted to eat as much as we wanted before we die!
+Dialogue: 0,0:21:50.39,0:21:51.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:53.16,0:21:55.66,Default,,0000,0000,0000,,So it's you guys who did it!
+Dialogue: 0,0:21:55.66,0:22:00.34,On Top,,0000,0000,0000,,TOKAGE PORT, UDON, THE PRESENT
+Dialogue: 0,0:22:12.18,0:22:14.43,Default,,0000,0000,0000,,There is a small boat...
+Dialogue: 0,0:22:14.43,0:22:15.89,Default,,0000,0000,0000,,We can use it.
+Dialogue: 0,0:22:16.35,0:22:20.41,Default,,0000,0000,0000,,What are you doing, Dogstorm?! Stop it!
+Dialogue: 0,0:22:20.41,0:22:22.67,Default,,0000,0000,0000,,Let's do this another day, Kin'emon!
+Dialogue: 0,0:22:22.67,0:22:26.45,Default,,0000,0000,0000,,That is not an option...
+Dialogue: 0,0:22:31.62,0:22:32.95,Default,,0000,0000,0000,,Kin-{\i1}sama{\i0}!
+Dialogue: 0,0:22:34.87,0:22:36.91,Default,,0000,0000,0000,,Let go of me, Shinobu!
+Dialogue: 0,0:22:39.42,0:22:41.84,Default,,0000,0000,0000,,Kin-{\i1}sama{\i0}, we can't do this tonight!
+Dialogue: 0,0:22:42.29,0:22:44.71,Default,,0000,0000,0000,,We must do it tonight!
+Dialogue: 0,0:22:45.17,0:22:47.93,Default,,0000,0000,0000,,You know that, Shinobu.
+Dialogue: 0,0:22:56.93,0:22:59.10,Default,,0000,0000,0000,,It has got to be tonight!
+Dialogue: 0,0:23:04.98,0:23:09.66,Default,,0000,0000,0000,,{\i1}An incident had already taken place\Nthe night before.{\i0}
+Dialogue: 0,0:23:18.41,0:23:23.06,Default,,0000,0000,0000,,{\i1}The Sunny is blown up!\NNot knowing of Luffy and the others' safety{\i0}
+Dialogue: 0,0:23:23.06,0:23:27.01,Default,,0000,0000,0000,,{\i1}Akazaya samurai move on with\Ntheir lord's words in their hearts!{\i0}
+Dialogue: 0,0:23:27.01,0:23:31.19,Default,,0000,0000,0000,,{\i1}The hero of the age, Oden, went his own way.{\i0}
+Dialogue: 0,0:23:31.19,0:23:36.43,Default,,0000,0000,0000,,{\i1}Now, how he lived replays\Nlike cherry blossoms taking flight!{\i0}
+Dialogue: 0,0:23:36.43,0:23:41.37,Default,,0000,0000,0000,,On the next episode of One Piece! "The Number-One\NSamurai in the Land of Wano! Here comes Kozuki Oden!"
+Dialogue: 0,0:23:41.37,0:23:45.69,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.65,0:23:47.65,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.65,0:23:49.65,On Top,,0000,0000,0000,,

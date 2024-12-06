@@ -1,0 +1,377 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.95,0:00:23.25,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:00:23.25,0:00:26.67,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:00:26.67,0:00:30.05,Default,,0000,0000,0000,,{\i1}As power passes through our clasped hands{\i0}
+Dialogue: 0,0:00:30.05,0:00:33.63,Default,,0000,0000,0000,,{\i1}let's grab hold of our wishes{\i0}
+Dialogue: 0,0:00:41.23,0:00:48.73,Default,,0000,0000,0000,,{\i1}Working together, let's ride the giant waves{\i0}
+Dialogue: 0,0:00:48.73,0:00:55.95,Default,,0000,0000,0000,,{\i1}Let's hurry toward the excitement--\Nthere's the starting signal{\i0}
+Dialogue: 0,0:00:55.95,0:01:02.91,Default,,0000,0000,0000,,{\i1}Now's the time to set sail-- let's raise anchor{\i0}
+Dialogue: 0,0:01:02.91,0:01:10.05,Default,,0000,0000,0000,,{\i1}Cut through the rainbow-colored wind\Nand head for a sea of adventure{\i0}
+Dialogue: 0,0:01:10.05,0:01:13.71,Default,,0000,0000,0000,,{\i1}It'll be a journey fraught with injury{\i0}
+Dialogue: 0,0:01:13.71,0:01:17.22,Default,,0000,0000,0000,,{\i1}but what you cherish most will be right there{\i0}
+Dialogue: 0,0:01:17.22,0:01:21.39,Default,,0000,0000,0000,,{\i1}And if you get into a jam{\i0}
+Dialogue: 0,0:01:21.39,0:01:24.39,Default,,0000,0000,0000,,{\i1}I'll always be there to protect you{\i0}
+Dialogue: 0,0:01:24.39,0:01:28.61,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:01:28.61,0:01:32.11,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:01:32.11,0:01:35.44,Default,,0000,0000,0000,,{\i1}If a storm hits, let's put\Nour arms around each other{\i0}
+Dialogue: 0,0:01:35.44,0:01:39.66,Default,,0000,0000,0000,,{\i1}and gaze at the light beyond{\i0}
+Dialogue: 0,0:01:39.66,0:01:43.37,Default,,0000,0000,0000,,{\i1}If we gather up the pieces of our dreams{\i0}
+Dialogue: 0,0:01:43.37,0:01:46.67,Default,,0000,0000,0000,,{\i1}they'll make a map leading to tomorrow{\i0}
+Dialogue: 0,0:01:46.67,0:01:50.04,Default,,0000,0000,0000,,{\i1}So let's grab hold of our wishes{\i0}
+Dialogue: 0,0:01:50.04,0:01:55.30,Default,,0000,0000,0000,,{\i1}under the same flag-- together, we're one{\i0}
+Dialogue: 0,0:01:55.30,0:01:58.05,Default,,0000,0000,0000,,{\i1}One Piece{\i0}
+Dialogue: 0,0:02:07.42,0:02:08.60,Default,,0000,0000,0000,,Incredible!
+Dialogue: 0,0:02:08.60,0:02:11.25,Default,,0000,0000,0000,,The Straw Hat Dangers\Ncome from behind to win
+Dialogue: 0,0:02:11.25,0:02:15.57,Default,,0000,0000,0000,,the final round of the Davy Back Fight!
+Dialogue: 0,0:02:17.27,0:02:20.78,Default,,0000,0000,0000,,I lost... And so did my Slow-Slow Beam...
+Dialogue: 0,0:02:20.78,0:02:23.68,Default,,0000,0000,0000,,All right! We did it!
+Dialogue: 0,0:02:23.68,0:02:27.33,Default,,0000,0000,0000,,Thank goodness! What a relief!
+Dialogue: 0,0:02:27.67,0:02:30.79,Default,,0000,0000,0000,,--It all worked out in the end.\N--Yep.
+Dialogue: 0,0:02:31.96,0:02:35.07,Default,,0000,0000,0000,,Now it's time to take someone!
+Dialogue: 0,0:02:35.07,0:02:37.28,Default,,0000,0000,0000,,Who do you choose, Straw Hat Luffy?!
+Dialogue: 0,0:02:37.28,0:02:39.26,Default,,0000,0000,0000,,Chopper! Come back!
+Dialogue: 0,0:02:44.47,0:02:46.43,Default,,0000,0000,0000,,Oh, no! Choppy!
+Dialogue: 0,0:02:47.16,0:02:51.02,Default,,0000,0000,0000,,Thank you! I'm so happy!
+Dialogue: 0,0:02:51.02,0:02:54.36,Default,,0000,0000,0000,,Don't cry! You know we'd never lose!
+Dialogue: 0,0:02:54.68,0:02:58.90,Default,,0000,0000,0000,,The grueling Davy Back Fight\Nhas come to an end!
+Dialogue: 0,0:02:58.90,0:03:01.76,Default,,0000,0000,0000,,Both teams ultimately reach a\Ndraw as the Straw Hat Pirates
+Dialogue: 0,0:03:01.76,0:03:04.05,Default,,0000,0000,0000,,take back their ship doctor, Chopper!
+Dialogue: 0,0:03:04.05,0:03:08.50,Default,,0000,0000,0000,,--The competition is now ov--\N--Hold it! Hold it! Hold it!
+Dialogue: 0,0:03:10.03,0:03:14.17,Default,,0000,0000,0000,,There are no "draws" in the pirate world!
+Dialogue: 0,0:03:14.17,0:03:16.14,Default,,0000,0000,0000,,It's either plunder or be plundered!
+Dialogue: 0,0:03:16.14,0:03:18.67,Default,,0000,0000,0000,,Right, Straw Hat?! Well?!
+Dialogue: 0,0:03:21.13,0:03:23.84,Default,,0000,0000,0000,,Wh-What's he tryin' to say?!
+Dialogue: 0,0:03:23.84,0:03:29.56,Default,,0000,0000,0000,,What do you say to another\Nthree-coin game right now?
+Dialogue: 0,0:03:29.56,0:03:31.22,Default,,0000,0000,0000,,Is he an idiot?
+Dialogue: 0,0:03:31.22,0:03:34.77,Default,,0000,0000,0000,,Seriously! Who'd agree to\Nmore of these lame games?!
+Dialogue: 0,0:03:35.84,0:03:39.03,Default,,0000,0000,0000,,Ack! You can't be serious!
+Dialogue: 0,0:03:41.60,0:03:44.11,Default,,0000,0000,0000,,You're on!
+Dialogue: 0,0:03:44.11,0:03:47.27,Default,,0000,0000,0000,,--What the heck are you thinking?!\N--You stupid rubber monkey dimwit!
+Dialogue: 0,0:03:47.27,0:03:52.13,Default,,0000,0000,0000,,--You idiot! Moron!\N--How can you be so stupid?!
+Dialogue: 0,0:03:52.13,0:03:55.96,Default,,0000,0000,0000,,This is the last time... I won't do it again...
+Dialogue: 0,0:03:57.36,0:03:59.80,Default,,0000,0000,0000,,We have to fight them again?!
+Dialogue: 0,0:03:59.80,0:04:02.75,Default,,0000,0000,0000,,Nothing we can do now.\NHe's already agreed to it.
+Dialogue: 0,0:04:02.75,0:04:06.08,Default,,0000,0000,0000,,He must have something in mind.
+Dialogue: 0,0:04:06.08,0:04:08.64,Default,,0000,0000,0000,,I wouldn't be so sure...
+Dialogue: 0,0:04:08.64,0:04:11.48,Default,,0000,0000,0000,,Or maybe he's planning\Nto snag us a shipwright?
+Dialogue: 0,0:04:11.52,0:04:20.48,B1,,0000,0000,0000,,{\fad(2000,2000)}"Screaming-Hot Bombardment!\NPirate Dodgeball!"
+Dialogue: 0,0:04:20.48,0:04:23.11,Default,,0000,0000,0000,,It's time for the second three-coin game!
+Dialogue: 0,0:04:23.11,0:04:28.31,Default,,0000,0000,0000,,The events are a team-wide ball game,\Na six-on-six all-star retro game,
+Dialogue: 0,0:04:28.31,0:04:30.49,Default,,0000,0000,0000,,and a one-on-one fight!
+Dialogue: 0,0:04:30.49,0:04:33.86,Default,,0000,0000,0000,,Like last time, each person\Ncan only participate twice!
+Dialogue: 0,0:04:33.86,0:04:37.46,Default,,0000,0000,0000,,Lineup changes won't be allowed!
+Dialogue: 0,0:04:37.46,0:04:39.52,Default,,0000,0000,0000,,They're gonna take me for sure this time...
+Dialogue: 0,0:04:39.52,0:04:41.82,Default,,0000,0000,0000,,No, it'll definitely be me...
+Dialogue: 0,0:04:41.82,0:04:45.18,Default,,0000,0000,0000,,It's my fate to wind up as their idol...
+Dialogue: 0,0:04:46.81,0:04:49.07,Default,,0000,0000,0000,,--Not interested.\N--Huh?\N--Why not?
+Dialogue: 0,0:04:49.07,0:04:50.22,Default,,0000,0000,0000,,--You're weak.\N--And scary.
+Dialogue: 0,0:04:50.22,0:04:54.37,Default,,0000,0000,0000,,Okay, it's time for Round #1: Hit and Dead Ball!
+Dialogue: 0,0:04:54.37,0:04:56.60,Default,,0000,0000,0000,,As always, I'll explain the rules!
+Dialogue: 0,0:04:57.08,0:04:58.98,Default,,0000,0000,0000,,Two balls are used!
+Dialogue: 0,0:04:58.98,0:05:02.65,Default,,0000,0000,0000,,Players throw these balls at\Nopposing team members on the court!
+Dialogue: 0,0:05:02.65,0:05:08.41,Default,,0000,0000,0000,,Get hit and you're disqualified! Outta the game!
+Dialogue: 0,0:05:08.41,0:05:11.91,Default,,0000,0000,0000,,Whichever side runs out of\Non-court members first loses!
+Dialogue: 0,0:05:11.91,0:05:15.04,Default,,0000,0000,0000,,You're free to choose which members\Nshould be on or off the court!
+Dialogue: 0,0:05:15.04,0:05:19.70,Default,,0000,0000,0000,,But keep in mind that although\Noff-court members can throw the balls,
+Dialogue: 0,0:05:19.70,0:05:22.34,Default,,0000,0000,0000,,they're not allowed to enter the court!
+Dialogue: 0,0:05:22.34,0:05:26.38,Default,,0000,0000,0000,,I see. So it's basically a variation of dodgeball.
+Dialogue: 0,0:05:26.38,0:05:31.12,Default,,0000,0000,0000,,Be sure to carefully read the rule book\Nfor other miscellaneous details!
+Dialogue: 0,0:05:32.45,0:05:35.77,Default,,0000,0000,0000,,--Rule book?\N--It's rather thick...
+Dialogue: 0,0:05:36.59,0:05:39.11,Default,,0000,0000,0000,,Yes! Hit and Dead Ball is the greatest
+Dialogue: 0,0:05:39.11,0:05:43.62,Default,,0000,0000,0000,,and most time-honored Davy Back Fight game!
+Dialogue: 0,0:05:43.62,0:05:46.61,Default,,0000,0000,0000,,Many rules have been added\Nover time, little by little,
+Dialogue: 0,0:05:46.61,0:05:49.45,Default,,0000,0000,0000,,to make it a more clear-cut game!
+Dialogue: 0,0:05:49.45,0:05:53.87,Default,,0000,0000,0000,,There's no point in having strict rules\Nif you're not gonna follow 'em!
+Dialogue: 0,0:05:53.87,0:05:56.66,Default,,0000,0000,0000,,It's obvious you're just gonna\Nkeep ruling in their favor again!
+Dialogue: 0,0:05:56.66,0:06:00.21,Default,,0000,0000,0000,,Non, non, non! Read the very first page!
+Dialogue: 0,0:06:00.21,0:06:02.11,Default,,0000,0000,0000,,"Referee Regulations."
+Dialogue: 0,0:06:02.11,0:06:06.63,Default,,0000,0000,0000,,"He who makes a judgment contrary\Nto these rules shall be beheaded."
+Dialogue: 0,0:06:06.63,0:06:08.38,Default,,0000,0000,0000,,Beheaded?! Yikes!
+Dialogue: 0,0:06:08.83,0:06:10.26,Default,,0000,0000,0000,,There you have it!
+Dialogue: 0,0:06:10.63,0:06:14.68,Default,,0000,0000,0000,,Incidentally, this game will be\Nofficiated by a team of five referees
+Dialogue: 0,0:06:14.68,0:06:18.55,Default,,0000,0000,0000,,headed by Rokuroshi,\Na fifty-year veteran referee!
+Dialogue: 0,0:06:19.54,0:06:22.36,Default,,0000,0000,0000,,Looks like it might actually\Nbe a fair game for once.
+Dialogue: 0,0:06:23.05,0:06:29.53,Default,,0000,0000,0000,,Team Foxy has a veritable crowd\Nof players! A truly grand spectacle!
+Dialogue: 0,0:06:30.68,0:06:34.83,Default,,0000,0000,0000,,But the diminutive Team Straw Hat\Npales in comparison...
+Dialogue: 0,0:06:34.83,0:06:37.23,Default,,0000,0000,0000,,As usual, they have a measly seven members!
+Dialogue: 0,0:06:37.23,0:06:38.62,Default,,0000,0000,0000,,Drop the "measly" part!
+Dialogue: 0,0:06:39.03,0:06:40.57,Default,,0000,0000,0000,,Okay, let's get it started!
+Dialogue: 0,0:06:40.57,0:06:43.59,Default,,0000,0000,0000,,We'll begin with the double jump!
+Dialogue: 0,0:06:45.07,0:06:47.13,Default,,0000,0000,0000,,Each team, bring two players forward!
+Dialogue: 0,0:06:50.98,0:06:53.47,Default,,0000,0000,0000,,I wanna do this, Zoro!
+Dialogue: 0,0:06:54.12,0:06:57.31,Default,,0000,0000,0000,,Be my guest! Go jump your heart out!
+Dialogue: 0,0:06:57.75,0:06:58.91,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:02.32,0:07:05.01,Default,,0000,0000,0000,,Oh! Ship's doctor Chopper has changed form!
+Dialogue: 0,0:07:05.01,0:07:07.24,Default,,0000,0000,0000,,He appears to have mysterious abilities!
+Dialogue: 0,0:07:07.24,0:07:09.19,Default,,0000,0000,0000,,He could be formidable indeed!
+Dialogue: 0,0:07:09.19,0:07:13.07,Default,,0000,0000,0000,,Oh, my! What is that? That's not cute at all...
+Dialogue: 0,0:07:13.07,0:07:16.18,Default,,0000,0000,0000,,All right! Let the game begin!
+Dialogue: 0,0:07:26.44,0:07:28.13,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:07:28.13,0:07:31.09,Default,,0000,0000,0000,,All right, that's it! Now clobber 'em!
+Dialogue: 0,0:07:31.09,0:07:34.03,Default,,0000,0000,0000,,Okay! Here goes, Chopper!
+Dialogue: 0,0:07:34.03,0:07:37.51,Default,,0000,0000,0000,,Aim for Split-Head!
+Dialogue: 0,0:07:37.51,0:07:38.43,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:07:42.58,0:07:44.48,Default,,0000,0000,0000,,Our boss is in trouble!
+Dialogue: 0,0:07:49.96,0:07:52.20,Default,,0000,0000,0000,,H-He's already out of the game?!
+Dialogue: 0,0:07:52.20,0:07:54.88,Default,,0000,0000,0000,,All right! We showed their boss who's boss!
+Dialogue: 0,0:07:54.88,0:07:56.48,Default,,0000,0000,0000,,Doesn't count! Doesn't count!
+Dialogue: 0,0:07:56.48,0:07:59.73,Default,,0000,0000,0000,,What?! That was a clear hit!
+Dialogue: 0,0:07:59.73,0:08:03.50,Default,,0000,0000,0000,,Article 23! Hits to the face don't count!
+Dialogue: 0,0:08:03.50,0:08:06.23,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:06.23,0:08:07.42,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:08:07.99,0:08:10.46,Default,,0000,0000,0000,,You okay, Boss?
+Dialogue: 0,0:08:10.46,0:08:13.38,Default,,0000,0000,0000,,You shouldn't laugh, Hamburg-san...
+Dialogue: 0,0:08:15.74,0:08:17.39,Default,,0000,0000,0000,,Now's our chance!
+Dialogue: 0,0:08:18.12,0:08:20.20,Default,,0000,0000,0000,,Hit 'em like crazy and win!
+Dialogue: 0,0:08:20.20,0:08:23.73,Default,,0000,0000,0000,,Okay! I'll hit them like crazy and win for us!
+Dialogue: 0,0:08:25.38,0:08:28.32,Default,,0000,0000,0000,,Here they come! Run for it, ya know!
+Dialogue: 0,0:08:35.86,0:08:39.16,Default,,0000,0000,0000,,Th-There's no need to get that fired up...!
+Dialogue: 0,0:08:53.91,0:08:58.00,Default,,0000,0000,0000,,Eighteen members of Team Foxy\Nare out for going out of bounds!
+Dialogue: 0,0:08:58.00,0:08:58.80,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:08:58.80,0:09:04.18,Default,,0000,0000,0000,,Amazing! They each knocked\Nnine people clear off the court!
+Dialogue: 0,0:09:04.18,0:09:06.77,Default,,0000,0000,0000,,Ugh! The same number as you?!
+Dialogue: 0,0:09:06.77,0:09:09.27,Default,,0000,0000,0000,,Way to go, Sanji! Way to go, Zoro!
+Dialogue: 0,0:09:12.01,0:09:14.60,Default,,0000,0000,0000,,So sorry.
+Dialogue: 0,0:09:14.60,0:09:18.04,Default,,0000,0000,0000,,Wow! Nine people each!
+Dialogue: 0,0:09:18.03,0:09:19.62,Default,,0000,0000,0000,,Okay! I'm next!
+Dialogue: 0,0:09:22.14,0:09:28.54,Default,,0000,0000,0000,,Gum-Gum Slingshot!
+Dialogue: 0,0:09:33.51,0:09:37.47,Default,,0000,0000,0000,,Ten members of Team Foxy\Nare out for going out of bounds!
+Dialogue: 0,0:09:37.47,0:09:41.15,Default,,0000,0000,0000,,All right! A new record!
+Dialogue: 0,0:09:41.15,0:09:43.89,Default,,0000,0000,0000,,Wow, another big group is out of the game!
+Dialogue: 0,0:09:43.89,0:09:47.31,Default,,0000,0000,0000,,But Team Foxy finally has one of the balls!
+Dialogue: 0,0:09:47.31,0:09:48.98,Default,,0000,0000,0000,,Now it's my turn!
+Dialogue: 0,0:09:48.98,0:09:52.97,Default,,0000,0000,0000,,Get 'em, Chopper!\NKnock eleven out for a new record!
+Dialogue: 0,0:09:52.97,0:09:54.40,Default,,0000,0000,0000,,Okay! You got it!
+Dialogue: 0,0:10:09.50,0:10:13.36,Default,,0000,0000,0000,,Oh! Our very own Hamburg\Nhas fended off the attack!
+Dialogue: 0,0:10:13.36,0:10:17.55,Default,,0000,0000,0000,,Team Foxy now has both balls!\NIt's finally time to fight back!
+Dialogue: 0,0:10:18.70,0:10:20.78,Default,,0000,0000,0000,,Well done, Hamburg!
+Dialogue: 0,0:10:20.78,0:10:23.85,Default,,0000,0000,0000,,--Give the balls to Big Pan!\N--Right!
+Dialogue: 0,0:10:23.85,0:10:25.13,Default,,0000,0000,0000,,Eep!
+Dialogue: 0,0:10:26.49,0:10:29.94,Default,,0000,0000,0000,,Get 'em, Big Pan! Send 'em all flying!
+Dialogue: 0,0:10:36.43,0:10:39.86,Default,,0000,0000,0000,,Whoever he hits is a dead man! A goner!
+Dialogue: 0,0:10:54.83,0:10:56.00,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:10:57.91,0:11:01.52,Default,,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:11:01.52,0:11:07.39,Default,,0000,0000,0000,,Long-nose and 22 Team Foxy members\Nare out for going out of bounds!
+Dialogue: 0,0:11:10.41,0:11:12.33,Default,,0000,0000,0000,,Usopp! Are you all right?!
+Dialogue: 0,0:11:12.33,0:11:15.59,Default,,0000,0000,0000,,I-I'm somehow still alive...
+Dialogue: 0,0:11:15.59,0:11:16.86,Default,,0000,0000,0000,,I got the ball now...
+Dialogue: 0,0:11:17.42,0:11:21.32,Default,,0000,0000,0000,,Big Pan took out Usopp,\Nthe long-nosed sniper, with his power throw,
+Dialogue: 0,0:11:21.32,0:11:26.21,Default,,0000,0000,0000,,but wound up knocking out a slew\Nof his own teammates in the process!
+Dialogue: 0,0:11:26.21,0:11:29.04,Default,,0000,0000,0000,,Team Foxy is down to two players!
+Dialogue: 0,0:11:29.04,0:11:33.04,Default,,0000,0000,0000,,Have their superior numbers\Nbackfired on them?!
+Dialogue: 0,0:11:33.53,0:11:35.59,Default,,0000,0000,0000,,This doesn't bode well!
+Dialogue: 0,0:11:35.59,0:11:40.01,Default,,0000,0000,0000,,What will they do now?!
+Dialogue: 0,0:12:01.11,0:12:03.91,Default,,0000,0000,0000,,--What now, Boss?\N--Whadya mean, "What now?"
+Dialogue: 0,0:12:03.91,0:12:07.49,Default,,0000,0000,0000,,I can't use my Slow-Slow Beam as long\Nas that archeologist chick is there...
+Dialogue: 0,0:12:07.91,0:12:10.08,Default,,0000,0000,0000,,So there's only one thing to do...
+Dialogue: 0,0:12:10.65,0:12:12.40,Default,,0000,0000,0000,,You mean... you-know-what?
+Dialogue: 0,0:12:13.29,0:12:15.36,Default,,0000,0000,0000,,Yes. You-know-what.
+Dialogue: 0,0:12:22.68,0:12:26.59,Default,,0000,0000,0000,,Oh, my! Now Hamburg is out of the game too!
+Dialogue: 0,0:12:27.89,0:12:29.01,Default,,0000,0000,0000,,Nice, Robin!
+Dialogue: 0,0:12:29.96,0:12:31.64,Default,,0000,0000,0000,,The top of the head doesn't count!
+Dialogue: 0,0:12:31.64,0:12:36.94,Default,,0000,0000,0000,,No, Page 103, Article 54 states\Nthat the top of the head does count.
+Dialogue: 0,0:12:38.13,0:12:40.11,Default,,0000,0000,0000,,She's correct.
+Dialogue: 0,0:12:40.11,0:12:44.03,Default,,0000,0000,0000,,Don't do anything shameful!\NDo you want to be beheaded?!
+Dialogue: 0,0:12:44.03,0:12:45.18,Default,,0000,0000,0000,,Sorry...
+Dialogue: 0,0:12:45.18,0:12:47.32,Default,,0000,0000,0000,,Wow! Robin has a sharp mind!
+Dialogue: 0,0:12:47.32,0:12:51.79,Default,,0000,0000,0000,,Has she memorized the entire thick\Nrule book in such a short time?!
+Dialogue: 0,0:12:51.79,0:12:53.91,Default,,0000,0000,0000,,You're amazing, Robin!
+Dialogue: 0,0:12:54.37,0:12:57.13,Default,,0000,0000,0000,,I haven't read all of it yet, though.
+Dialogue: 0,0:12:57.51,0:12:59.43,Default,,0000,0000,0000,,All right! Just one left!
+Dialogue: 0,0:12:59.43,0:13:01.50,Default,,0000,0000,0000,,Finish 'em off, Sanji-kun!
+Dialogue: 0,0:13:02.49,0:13:04.42,Default,,0000,0000,0000,,Yes, Nami-san!
+Dialogue: 0,0:13:04.79,0:13:06.89,Default,,0000,0000,0000,,Sanji-kun!
+Dialogue: 0,0:13:07.79,0:13:09.01,Default,,0000,0000,0000,,Yes?!
+Dialogue: 0,0:13:09.01,0:13:11.47,Default,,0000,0000,0000,,Please don't hit him...!
+Dialogue: 0,0:13:11.47,0:13:14.34,Default,,0000,0000,0000,,Give us the ball, okay?
+Dialogue: 0,0:13:14.34,0:13:15.94,Default,,0000,0000,0000,,--Of course!\N--Ack!
+Dialogue: 0,0:13:16.38,0:13:17.66,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:13:17.66,0:13:21.78,Default,,0000,0000,0000,,Now please get out of the game!\NOkay, Twirly Eyebrow Man?
+Dialogue: 0,0:13:23.57,0:13:27.61,Default,,0000,0000,0000,,My pleasure! Please hit me wherever you like!
+Dialogue: 0,0:13:29.03,0:13:31.03,Default,,0000,0000,0000,,What are you doing, Sanji-kun?!
+Dialogue: 0,0:13:37.46,0:13:43.30,Default,,0000,0000,0000,,Oh! Love Hunter Sanji has been\Nblissfully and passionately knocked out!
+Dialogue: 0,0:13:43.30,0:13:46.59,Default,,0000,0000,0000,,He's the second Straw Hat out of the game!
+Dialogue: 0,0:13:46.59,0:13:47.88,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:13:48.92,0:13:50.22,Default,,0000,0000,0000,,You mellorine moron!
+Dialogue: 0,0:13:50.22,0:13:51.83,Default,,0000,0000,0000,,He never changes...
+Dialogue: 0,0:13:51.83,0:13:55.02,Default,,0000,0000,0000,,Still, their boss is the only one left.
+Dialogue: 0,0:13:55.02,0:13:58.73,Default,,0000,0000,0000,,You never know for sure, until the very end.
+Dialogue: 0,0:13:59.58,0:14:01.26,Default,,0000,0000,0000,,Precisely.
+Dialogue: 0,0:14:02.60,0:14:05.03,Default,,0000,0000,0000,,Huh? What is that?
+Dialogue: 0,0:14:05.53,0:14:06.24,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:07.26,0:14:11.70,Default,,0000,0000,0000,,There it is! The top-secret\Nitem of Hit and Dead Ball!
+Dialogue: 0,0:14:11.70,0:14:16.08,Default,,0000,0000,0000,,Say hello to the Mr. Accu-Cannon!
+Dialogue: 0,0:14:19.56,0:14:23.92,Default,,0000,0000,0000,,Hey! You're just gonna allow that, Ref?!\NIt's clearly against the rules!
+Dialogue: 0,0:14:23.92,0:14:26.13,Default,,0000,0000,0000,,That's the Mr. Accu-Cannon?
+Dialogue: 0,0:14:26.13,0:14:29.89,Default,,0000,0000,0000,,What's with that "I already knew\Nabout it" reaction of yours?!
+Dialogue: 0,0:14:29.89,0:14:34.31,Default,,0000,0000,0000,,I didn't know what it was referring to,\Nbut I came across it in the rule book.
+Dialogue: 0,0:14:34.31,0:14:39.30,Default,,0000,0000,0000,,Yes! Rule 322: the only weapon\Nallowed is the Mr. Accu-Cannon!
+Dialogue: 0,0:14:39.30,0:14:41.44,Default,,0000,0000,0000,,Is that really a rule?
+Dialogue: 0,0:14:41.44,0:14:43.91,Default,,0000,0000,0000,,It's so cool! I like it!
+Dialogue: 0,0:14:43.91,0:14:45.33,Default,,0000,0000,0000,,This is stupid!
+Dialogue: 0,0:14:45.33,0:14:48.99,Default,,0000,0000,0000,,Hey! Bringing that thing out now\Nstill ain't gonna help you!
+Dialogue: 0,0:14:48.99,0:14:51.97,Default,,0000,0000,0000,,I wouldn't be so sure.
+Dialogue: 0,0:14:51.97,0:14:54.33,Default,,0000,0000,0000,,Porche! Are you ready?!
+Dialogue: 0,0:14:54.33,0:14:55.95,Default,,0000,0000,0000,,Sure am, Boss!
+Dialogue: 0,0:14:55.95,0:14:58.11,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:14:58.11,0:15:00.79,Default,,0000,0000,0000,,Flower Hypnosis!
+Dialogue: 0,0:15:00.79,0:15:01.92,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:15:01.92,0:15:04.09,Default,,0000,0000,0000,,It's hypnosis! Don't look!
+Dialogue: 0,0:15:05.35,0:15:07.51,Default,,0000,0000,0000,,Always pulling these tricks on us...
+Dialogue: 0,0:15:07.51,0:15:09.24,Default,,0000,0000,0000,,Now, Boss!
+Dialogue: 0,0:15:09.24,0:15:10.82,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:15:10.82,0:15:12.76,Default,,0000,0000,0000,,You're all mine!
+Dialogue: 0,0:15:15.47,0:15:18.10,Default,,0000,0000,0000,,Having your eyes open or closed...
+Dialogue: 0,0:15:22.96,0:15:24.90,Default,,0000,0000,0000,,...makes no difference to a swordsman.
+Dialogue: 0,0:15:28.34,0:15:30.19,Default,,0000,0000,0000,,Incredible! What power!
+Dialogue: 0,0:15:30.19,0:15:31.99,Default,,0000,0000,0000,,Swordsman Zoro sliced the ball in two
+Dialogue: 0,0:15:31.99,0:15:34.28,Default,,0000,0000,0000,,with his bare hands and with his eyes closed!
+Dialogue: 0,0:15:34.28,0:15:35.53,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:15:35.53,0:15:37.80,Default,,0000,0000,0000,,Zoro of Team Straw Hat is out!
+Dialogue: 0,0:15:37.80,0:15:39.78,Default,,0000,0000,0000,,What for?!
+Dialogue: 0,0:15:39.78,0:15:42.08,Default,,0000,0000,0000,,Rule 645!
+Dialogue: 0,0:15:42.08,0:15:44.81,Default,,0000,0000,0000,,No slicing the balls!
+Dialogue: 0,0:15:44.81,0:15:46.92,Default,,0000,0000,0000,,Team Foxy gets a new ball.
+Dialogue: 0,0:15:46.92,0:15:49.27,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:49.27,0:15:52.01,Default,,0000,0000,0000,,Too bad!
+Dialogue: 0,0:15:53.25,0:15:57.64,Default,,0000,0000,0000,,Oh, what a shame!\NSwordsman Zoro is out of the game!
+Dialogue: 0,0:15:57.64,0:15:59.25,Default,,0000,0000,0000,,Zoro...
+Dialogue: 0,0:16:00.59,0:16:02.52,Default,,0000,0000,0000,,...got knocked out of the game...
+Dialogue: 0,0:16:03.40,0:16:04.88,Default,,0000,0000,0000,,Crappy swordsman...
+Dialogue: 0,0:16:04.88,0:16:07.73,Default,,0000,0000,0000,,You got knocked out first, lousy cook.
+Dialogue: 0,0:16:07.73,0:16:12.86,Default,,0000,0000,0000,,Things are really getting good now!\NIt's two against one!
+Dialogue: 0,0:16:17.49,0:16:19.49,Default,,0000,0000,0000,,Now to pick up where I left off!
+Dialogue: 0,0:16:19.49,0:16:22.20,Default,,0000,0000,0000,,Yeah! Give us your best shot!
+Dialogue: 0,0:16:23.76,0:16:24.79,Default,,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:16:25.24,0:16:28.37,Default,,0000,0000,0000,,Ultra-fast Level 5!
+Dialogue: 0,0:16:28.37,0:16:31.26,Default,,0000,0000,0000,,Let's see you dodge this!
+Dialogue: 0,0:16:48.01,0:16:49.77,Default,,0000,0000,0000,,Oh! Choppy!
+Dialogue: 0,0:16:50.30,0:16:54.62,Default,,0000,0000,0000,,What a beautiful self-sacrifice\Nby ship's doctor Chopper!
+Dialogue: 0,0:16:54.62,0:16:57.91,Default,,0000,0000,0000,,--But this means...!\N--The face doesn't count, right?
+Dialogue: 0,0:16:59.10,0:17:00.72,Default,,0000,0000,0000,,F-Face?
+Dialogue: 0,0:17:00.72,0:17:06.08,Default,,0000,0000,0000,,I-it's extremely difficult to tell\Nwhere his face begins and ends!
+Dialogue: 0,0:17:06.84,0:17:08.01,Default,,0000,0000,0000,,Talk about brave!
+Dialogue: 0,0:17:08.01,0:17:12.47,Default,,0000,0000,0000,,Hey, Ref! You're a man of the sea too,\Nain't ya?! That was his face!
+Dialogue: 0,0:17:12.47,0:17:15.00,Default,,0000,0000,0000,,Yeah! That furry fella has some serious guts!
+Dialogue: 0,0:17:15.00,0:17:17.01,Default,,0000,0000,0000,,You ain't men if you can't see that!
+Dialogue: 0,0:17:17.01,0:17:22.74,Default,,0000,0000,0000,,It hit his face! It hit his face! It hit his face!...
+Dialogue: 0,0:17:22.74,0:17:24.64,Default,,0000,0000,0000,,What the...?
+Dialogue: 0,0:17:24.64,0:17:29.76,Default,,0000,0000,0000,,It hit his face! It hit his face! It hit his face!...
+Dialogue: 0,0:17:29.76,0:17:31.53,Default,,0000,0000,0000,,We "ain't men"...?
+Dialogue: 0,0:17:31.53,0:17:33.49,Default,,0000,0000,0000,,I can't just ignore that!
+Dialogue: 0,0:17:33.49,0:17:36.61,Default,,0000,0000,0000,,The call is clear as day!\NIt hit his face! He's safe!
+Dialogue: 0,0:17:37.91,0:17:39.28,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:17:39.71,0:17:41.27,Default,,0000,0000,0000,,However...!
+Dialogue: 0,0:17:42.64,0:17:43.88,Default,,0000,0000,0000,,However...?
+Dialogue: 0,0:17:43.88,0:17:48.61,Default,,0000,0000,0000,,Although it hit you in the face,\Nyou're unfortunately still out of bounds!
+Dialogue: 0,0:17:49.75,0:17:54.21,Default,,0000,0000,0000,,Oh, my! He's regrettably out of bounds!
+Dialogue: 0,0:17:54.21,0:17:58.27,Default,,0000,0000,0000,,Just after his gutsy face\Ncatch was given the okay!
+Dialogue: 0,0:17:58.27,0:18:01.62,Default,,0000,0000,0000,,What a pity! Ship's doctor\NChopper is out of the game!
+Dialogue: 0,0:18:01.62,0:18:05.18,Default,,0000,0000,0000,,Even so, he's still a true man of the sea!
+Dialogue: 0,0:18:05.18,0:18:07.29,Default,,0000,0000,0000,,Choppy!
+Dialogue: 0,0:18:07.29,0:18:09.65,Default,,0000,0000,0000,,You okay, Chopper?
+Dialogue: 0,0:18:09.65,0:18:14.02,Default,,0000,0000,0000,,Yeah... But I'm out of the game now...
+Dialogue: 0,0:18:16.03,0:18:18.24,Default,,0000,0000,0000,,Just leave the rest to me!
+Dialogue: 0,0:18:18.24,0:18:20.91,Default,,0000,0000,0000,,But never mind that. Thanks, Chopper.
+Dialogue: 0,0:18:22.03,0:18:25.87,Default,,0000,0000,0000,,Hearing that doesn't make\Nme happy at all, you jerk!
+Dialogue: 0,0:18:28.48,0:18:32.00,Default,,0000,0000,0000,,Not bad, Choppy! Now I\Nwanna have you even more!
+Dialogue: 0,0:18:32.94,0:18:34.92,Default,,0000,0000,0000,,I won't let you take him!
+Dialogue: 0,0:18:35.57,0:18:39.56,Default,,0000,0000,0000,,It's now one against one!\NBoth teams have their backs to the wall!
+Dialogue: 0,0:18:39.56,0:18:42.39,Default,,0000,0000,0000,,It's the final showdown!
+Dialogue: 0,0:18:44.30,0:18:48.27,Default,,0000,0000,0000,,Take my advice and lose like a good little boy!
+Dialogue: 0,0:18:49.00,0:18:51.44,Default,,0000,0000,0000,,I absolutely won't lose!
+Dialogue: 0,0:18:51.44,0:18:54.02,Default,,0000,0000,0000,,What nonsense!
+Dialogue: 0,0:18:54.02,0:18:57.90,Default,,0000,0000,0000,,Take a good look around you\Nbefore you spew such drivel!
+Dialogue: 0,0:18:57.90,0:19:02.18,Default,,0000,0000,0000,,Here it comes! The Omni-Directional Shift!
+Dialogue: 0,0:19:02.18,0:19:04.37,Default,,0000,0000,0000,,Say your prayers!
+Dialogue: 0,0:19:04.37,0:19:06.33,Default,,0000,0000,0000,,Yikes! What the heck?!
+Dialogue: 0,0:19:06.33,0:19:10.17,Default,,0000,0000,0000,,Hey! What's the deal, old ref!\NWhat's with all those balls?!
+Dialogue: 0,0:19:10.17,0:19:14.38,Default,,0000,0000,0000,,There's no rule whatsoever\Nagainst using fake balls.
+Dialogue: 0,0:19:14.38,0:19:16.75,Default,,0000,0000,0000,,I knew it. You really are on Foxy's side.
+Dialogue: 0,0:19:16.75,0:19:20.61,Default,,0000,0000,0000,,Damn! They'll always have the upper\Nhand unless we get a ref of our own!
+Dialogue: 0,0:19:20.61,0:19:25.35,Default,,0000,0000,0000,,Don't worry, Luffy! Only you\Nand their boss have a real ball!
+Dialogue: 0,0:19:25.35,0:19:27.19,Default,,0000,0000,0000,,Don't let him fool you!
+Dialogue: 0,0:19:27.19,0:19:28.72,Default,,0000,0000,0000,,Ack! That's right!
+Dialogue: 0,0:19:28.72,0:19:32.40,Default,,0000,0000,0000,,What's with this guy? Is his brain split too?!
+Dialogue: 0,0:19:32.40,0:19:35.46,Default,,0000,0000,0000,,My brain... split too...
+Dialogue: 0,0:19:36.90,0:19:41.90,Default,,0000,0000,0000,,Oh! Then I'll just send that\Nentire Mr. Neato Thing sky-high!
+Dialogue: 0,0:19:43.24,0:19:46.16,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:19:46.16,0:19:47.36,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:47.99,0:19:49.83,Default,,0000,0000,0000,,Try this on for size!
+Dialogue: 0,0:19:56.20,0:19:57.38,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:58.18,0:20:00.67,Default,,0000,0000,0000,,Oh! Right over here!
+Dialogue: 0,0:20:01.28,0:20:04.14,Default,,0000,0000,0000,,You stretched your arm too far!
+Dialogue: 0,0:20:04.14,0:20:07.56,Default,,0000,0000,0000,,All right, everyone! Shuffle!
+Dialogue: 0,0:20:07.56,0:20:13.98,Default,,0000,0000,0000,,Shuffle! Shuffle! Shuffle! Shuffle!...
+Dialogue: 0,0:20:19.15,0:20:23.86,Default,,0000,0000,0000,,Oh, no! Now we can't tell\Nwhich is real and which are fake!
+Dialogue: 0,0:20:31.37,0:20:34.53,Default,,0000,0000,0000,,Once again, which one is the real deal?!
+Dialogue: 0,0:20:34.53,0:20:36.83,Default,,0000,0000,0000,,You'll need to figure it out\Nbefore it hits you, though!
+Dialogue: 0,0:20:36.83,0:20:40.40,Default,,0000,0000,0000,,Shut up! It doesn't matter\Nas long as I catch all the balls!
+Dialogue: 0,0:20:40.40,0:20:42.81,Default,,0000,0000,0000,,Don't get snarky with me!
+Dialogue: 0,0:20:42.81,0:20:45.56,Default,,0000,0000,0000,,You're one sore loser, you know that?!
+Dialogue: 0,0:20:45.56,0:20:48.37,Default,,0000,0000,0000,,All right, men! Throw like crazy!
+Dialogue: 0,0:20:58.14,0:20:59.47,Default,,0000,0000,0000,,You're...
+Dialogue: 0,0:20:59.47,0:21:00.82,Default,,0000,0000,0000,,...finished!
+Dialogue: 0,0:21:01.25,0:21:02.74,Default,,0000,0000,0000,,Luffy! Look out!
+Dialogue: 0,0:21:04.95,0:21:07.59,Default,,0000,0000,0000,,Luffy! Let it hit your face!
+Dialogue: 0,0:21:07.59,0:21:09.12,Default,,0000,0000,0000,,You're a heartless monster!
+Dialogue: 0,0:21:13.83,0:21:14.83,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:19.45,0:21:20.38,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:21:30.22,0:21:33.06,Default,,0000,0000,0000,,Straw Hat Luffy is out!
+Dialogue: 0,0:21:33.06,0:21:36.64,Default,,0000,0000,0000,,What for?! Getting hit\Nin the face doesn't count!
+Dialogue: 0,0:21:36.64,0:21:42.02,Default,,0000,0000,0000,,Rule 999! No swallowing the balls!
+Dialogue: 0,0:21:42.51,0:21:45.03,Default,,0000,0000,0000,,It's right there in the rule book!
+Dialogue: 0,0:21:46.39,0:21:49.24,Default,,0000,0000,0000,,He's right. It's on the very last page.
+Dialogue: 0,0:21:50.44,0:21:54.20,Default,,0000,0000,0000,,A l-lousy rule like that...?
+Dialogue: 0,0:21:59.18,0:22:06.09,Default,,0000,0000,0000,,Team Foxy emerges victorious in\NRound #1's game of Hit and Dead Ball!
+Dialogue: 0,0:22:07.15,0:22:09.09,Default,,0000,0000,0000,,Stupid!
+Dialogue: 0,0:22:21.04,0:22:23.16,Default,,0000,0000,0000,,{\i1}A piece of a dream that we started grasping{\i0}
+Dialogue: 0,0:22:23.16,0:22:26.71,Default,,0000,0000,0000,,{\i1}Chasing after something constant{\i0}
+Dialogue: 0,0:22:26.71,0:22:31.34,Default,,0000,0000,0000,,{\i1}We send our aspirations sailing into the sky{\i0}
+Dialogue: 0,0:22:32.30,0:22:34.59,Default,,0000,0000,0000,,{\i1}Even when we're exhausted{\i0}
+Dialogue: 0,0:22:34.59,0:22:37.76,Default,,0000,0000,0000,,{\i1}We have a compass that can\Nsearch for something constant{\i0}
+Dialogue: 0,0:22:37.76,0:22:43.18,Default,,0000,0000,0000,,{\i1}Say, do you think we can keep it forever?{\i0}
+Dialogue: 0,0:22:43.18,0:22:46.10,Default,,0000,0000,0000,,{\i1}At the end of the dream\Nthat we will reach someday{\i0}
+Dialogue: 0,0:22:46.10,0:22:48.90,Default,,0000,0000,0000,,{\i1}We want to be adults as we\Nare now as much as possible{\i0}
+Dialogue: 0,0:22:48.90,0:22:51.86,Default,,0000,0000,0000,,{\i1}We pray to this endless sky that we look up at{\i0}
+Dialogue: 0,0:22:51.86,0:22:54.94,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:22:54.94,0:22:57.74,Default,,0000,0000,0000,,{\i1}Wild fantasies from our childhood{\i0}
+Dialogue: 0,0:22:57.74,0:23:00.57,Default,,0000,0000,0000,,{\i1}We trace unforgettable memories{\i0}
+Dialogue: 0,0:23:00.57,0:23:06.25,Default,,0000,0000,0000,,{\i1}And try to keep the embers\Nburning that still consume us{\i0}
+Dialogue: 0,0:23:06.25,0:23:09.04,Default,,0000,0000,0000,,{\i1}To this familiar sunny sky{\i0}
+Dialogue: 0,0:23:09.04,0:23:11.88,Default,,0000,0000,0000,,{\i1}Together we entrust our feelings{\i0}
+Dialogue: 0,0:23:11.88,0:23:14.46,Default,,0000,0000,0000,,{\i1}We go beyond the changing time{\i0}
+Dialogue: 0,0:23:14.46,0:23:17.26,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:23:25.09,0:23:27.41,Default,,0000,0000,0000,,Round #2 is that game from my childhood!
+Dialogue: 0,0:23:27.41,0:23:30.34,Default,,0000,0000,0000,,This is a pirate game! All weapons\Nand obstacles are allowed!
+Dialogue: 0,0:23:30.34,0:23:32.72,Default,,0000,0000,0000,,--Go get 'em, Zoro and Sanji!\N--You're a member too!
+Dialogue: 0,0:23:32.72,0:23:35.46,Default,,0000,0000,0000,,But that cheetah and the others are back!
+Dialogue: 0,0:23:35.46,0:23:38.26,Default,,0000,0000,0000,,Me and Nami are too weak and scary anyway!
+Dialogue: 0,0:23:38.26,0:23:41.31,Default,,0000,0000,0000,,Zoro-kun? That's a scary look! Stay away!
+Dialogue: 0,0:23:41.31,0:23:42.53,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:42.53,0:23:45.02,Default,,0000,0000,0000,,"Showdown on the Cliff!\NRed Light, Green Light!"
+Dialogue: 0,0:23:45.02,0:23:47.39,Default,,0000,0000,0000,,Huh? Zoro's lost again?!
+Dialogue: 0,0:23:47.39,0:23:49.39,Default,,0000,0000,0000,,

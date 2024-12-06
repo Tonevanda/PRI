@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.97,0:00:18.43,Default,,0000,0000,0000,,{\i1}Reach out your hand and cut through the wind{\i0}
+Dialogue: 0,0:00:11.97,0:00:18.43,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:00:18.47,0:00:23.06,Default,,0000,0000,0000,,{\i1}Draw your own map{\i0}
+Dialogue: 0,0:00:18.47,0:00:23.06,On Top,,0000,0000,0000,,{\i1}onore no chizu wo egaite yuke{\i0}
+Dialogue: 0,0:00:27.98,0:00:34.28,Default,,0000,0000,0000,,{\i1}As we live our days just like the stormy seas{\i0}
+Dialogue: 0,0:00:27.98,0:00:34.28,On Top,,0000,0000,0000,,{\i1}migi mo hidari mo guchagucha ni areta umi no youna jidai{\i0}
+Dialogue: 0,0:00:34.32,0:00:40.37,Default,,0000,0000,0000,,{\i1}Even the values we had built up were about to fall apart{\i0}
+Dialogue: 0,0:00:34.32,0:00:40.37,On Top,,0000,0000,0000,,{\i1}kizukiageta kachikan sae mo kuzuresarou to shita{\i0}
+Dialogue: 0,0:00:41.08,0:00:47.38,Default,,0000,0000,0000,,{\i1}Who knows if the compass is pointing in the right direction?{\i0}
+Dialogue: 0,0:00:41.08,0:00:47.38,On Top,,0000,0000,0000,,{\i1}rashinban no sashita saki ga tadashii no ka douka nante{\i0}
+Dialogue: 0,0:00:47.42,0:00:50.96,Default,,0000,0000,0000,,{\i1}No one knows for certain{\i0}
+Dialogue: 0,0:00:47.42,0:00:50.96,On Top,,0000,0000,0000,,{\i1}douse dare ni mo wakaranainda{\i0}
+Dialogue: 0,0:00:51.00,0:00:57.26,Default,,0000,0000,0000,,{\i1}If you breathe deeply and close your eyes{\i0}
+Dialogue: 0,0:00:51.00,0:00:57.26,On Top,,0000,0000,0000,,{\i1}fukaku iki wo suikonde hitomi tojireba{\i0}
+Dialogue: 0,0:00:57.30,0:01:04.10,Default,,0000,0000,0000,,{\i1}What emerges is the path your soul reveals{\i0}
+Dialogue: 0,0:00:57.30,0:01:04.10,On Top,,0000,0000,0000,,{\i1}ukabiagaru no wa tamashii no shimesu michi{\i0}
+Dialogue: 0,0:01:04.43,0:01:10.86,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:04.43,0:01:10.86,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:10.90,0:01:15.45,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:10.90,0:01:15.45,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:16.57,0:01:19.62,Default,,0000,0000,0000,,{\i1}I do it for my own{\i0}
+Dialogue: 0,0:01:16.57,0:01:19.62,On Top,,0000,0000,0000,,{\i1}ima boku wa boku no tame ni{\i0}
+Dialogue: 0,0:01:19.66,0:01:23.33,Default,,0000,0000,0000,,{\i1}And you do yours, don't we?{\i0}
+Dialogue: 0,0:01:19.66,0:01:23.33,On Top,,0000,0000,0000,,{\i1}kimi wa kimi no tame ni sou darou{\i0}
+Dialogue: 0,0:01:23.83,0:01:27.62,Default,,0000,0000,0000,,{\i1}And I'm ready for it{\i0}
+Dialogue: 0,0:01:23.83,0:01:27.62,On Top,,0000,0000,0000,,{\i1}kakugo wa dekiteiru sa{\i0}
+Dialogue: 0,0:01:27.67,0:01:32.80,Default,,0000,0000,0000,,{\i1}With the support of someone I can rely{\i0}
+Dialogue: 0,0:01:27.67,0:01:32.80,On Top,,0000,0000,0000,,{\i1}toki ni tayoriaeru youna sonzai ni sasaerare{\i0}
+Dialogue: 0,0:01:32.84,0:01:40.10,Default,,0000,0000,0000,,{\i1}Seize the future beyond your imagination{\i0}
+Dialogue: 0,0:01:32.84,0:01:40.10,On Top,,0000,0000,0000,,{\i1}souzou wo koeta mirai tsukamitore{\i0}
+Dialogue: 0,0:01:40.14,0:01:46.52,Default,,0000,0000,0000,,{\i1}Reach out your hand, cut through the wind{\i0}
+Dialogue: 0,0:01:40.14,0:01:46.52,On Top,,0000,0000,0000,,{\i1}iza te wo nobashite kaze wo kirisaite{\i0}
+Dialogue: 0,0:01:46.56,0:01:52.32,Default,,0000,0000,0000,,{\i1}Kick away the darkness{\i0}
+Dialogue: 0,0:01:46.56,0:01:52.32,On Top,,0000,0000,0000,,{\i1}kurayami wo kettobashite{\i0}
+Dialogue: 0,0:01:52.36,0:01:55.69,Default,,0000,0000,0000,,{\i1}We'll go wherever we wanna go{\i0}
+Dialogue: 0,0:01:52.36,0:01:55.69,On Top,,0000,0000,0000,,{\i1}bokura wa dokomade mo yukeru{\i0}
+Dialogue: 0,0:01:55.74,0:01:59.66,Default,,0000,0000,0000,,{\i1}Tears and doubts in tow{\i0}
+Dialogue: 0,0:01:55.74,0:01:59.66,On Top,,0000,0000,0000,,{\i1}namida mo mayoi mo isso hikitsurete{\i0}
+Dialogue: 0,0:01:59.70,0:02:05.66,Default,,0000,0000,0000,,{\i1}Let's paint it in our own colors{\i0}
+Dialogue: 0,0:01:59.70,0:02:05.66,On Top,,0000,0000,0000,,{\i1}onore no iro de egaite yuke{\i0}
+Dialogue: 0,0:02:11.79,0:02:19.13,Default,,0000,0000,0000,,{\i1}"Straw Hat Luffy!\NThe Man Who Will Become the King of the Pirates!"{\i0}
+Dialogue: 0,0:02:20.89,0:02:23.47,Default,,0000,0000,0000,,Jeez...
+Dialogue: 0,0:02:24.89,0:02:27.56,Default,,0000,0000,0000,,You pirates know some funny tricks!
+Dialogue: 0,0:02:27.60,0:02:29.85,Default,,0000,0000,0000,,Teach me how to do it too!
+Dialogue: 0,0:02:27.60,0:02:31.15,On Top,,0000,0000,0000,,SEVERAL YEARS AGO
+Dialogue: 0,0:02:31.19,0:02:32.11,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:02:31.19,0:02:35.69,On Top,,0000,0000,0000,,ONIGASHIMA DURING KAIDO'S ABSENCE
+Dialogue: 0,0:02:32.65,0:02:35.69,Default,,0000,0000,0000,,Um... Hello?
+Dialogue: 0,0:02:36.65,0:02:37.49,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:37.53,0:02:39.15,Default,,0000,0000,0000,,What? What? What? What?
+Dialogue: 0,0:02:39.20,0:02:41.03,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:02:41.07,0:02:45.62,Default,,0000,0000,0000,,What's wrong all of a sudden?!\NYou were just having so much fun!
+Dialogue: 0,0:02:46.87,0:02:48.25,Default,,0000,0000,0000,,Are you dead...
+Dialogue: 0,0:02:48.87,0:02:49.96,Default,,0000,0000,0000,,Stay with me!
+Dialogue: 0,0:02:50.00,0:02:54.00,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:02:57.55,0:02:58.72,Default,,0000,0000,0000,,I fell asleep.
+Dialogue: 0,0:02:58.84,0:03:01.76,Default,,0000,0000,0000,,Don't freak me out! I thought you were dead!
+Dialogue: 0,0:03:01.89,0:03:04.18,Default,,0000,0000,0000,,It's my bad. I'm sorry.
+Dialogue: 0,0:03:05.68,0:03:07.72,Default,,0000,0000,0000,,I was really worried about you!
+Dialogue: 0,0:03:08.77,0:03:12.02,Default,,0000,0000,0000,,Gee... Do you wanna call it a night?
+Dialogue: 0,0:03:12.06,0:03:14.06,Default,,0000,0000,0000,,You look tired...
+Dialogue: 0,0:03:14.19,0:03:18.53,Default,,0000,0000,0000,,What are you talking about, Yamato?!\NI still have a lot to tell you!
+Dialogue: 0,0:03:19.40,0:03:23.16,Default,,0000,0000,0000,,I gotta meet up with my guys in the morning.
+Dialogue: 0,0:03:23.20,0:03:25.66,Default,,0000,0000,0000,,It'd be a waste to sleep tonight.
+Dialogue: 0,0:03:28.91,0:03:30.96,Default,,0000,0000,0000,,Then, don't fall asleep again!
+Dialogue: 0,0:03:31.08,0:03:32.50,Default,,0000,0000,0000,,I said sorry...
+Dialogue: 0,0:03:33.08,0:03:35.25,Default,,0000,0000,0000,,Now, where were we?
+Dialogue: 0,0:03:35.38,0:03:38.00,Default,,0000,0000,0000,,You were talking about your brother again!
+Dialogue: 0,0:03:39.01,0:03:43.26,Default,,0000,0000,0000,,And you were talking about\Nwanting to become Oden again!
+Dialogue: 0,0:03:43.97,0:03:45.22,Default,,0000,0000,0000,,No, Ace!
+Dialogue: 0,0:03:45.26,0:03:47.89,Default,,0000,0000,0000,,I don't want to become him,\NI {\i1}will{\i0} become him!
+Dialogue: 0,0:03:48.39,0:03:50.18,Default,,0000,0000,0000,,I'll make it come true...
+Dialogue: 0,0:03:50.73,0:03:52.44,Default,,0000,0000,0000,,It's...
+Dialogue: 0,0:03:52.48,0:03:54.27,Default,,0000,0000,0000,,...{\i1}our{\i0} future!
+Dialogue: 0,0:03:52.48,0:03:58.78,On Top,,0000,0000,0000,,ODEN'S TRAVEL RECORD
+Dialogue: 0,0:03:56.40,0:03:57.77,Default,,0000,0000,0000,,D?
+Dialogue: 0,0:04:01.24,0:04:05.37,Default,,0000,0000,0000,,I never thought I'd meet you one day!
+Dialogue: 0,0:04:05.91,0:04:08.12,Default,,0000,0000,0000,,O-Oden...
+Dialogue: 0,0:04:08.87,0:04:10.70,Default,,0000,0000,0000,,Is that my father's journal?!
+Dialogue: 0,0:04:11.37,0:04:17.29,Default,,0000,0000,0000,,It contains all the details of his dynamic life\Nand the world he experienced!
+Dialogue: 0,0:04:18.55,0:04:22.05,Default,,0000,0000,0000,,On that day, I picked this up\Nat the river below Oden Castle.
+Dialogue: 0,0:04:22.97,0:04:26.47,Default,,0000,0000,0000,,Someone must've protected it\Nfrom burning in the castle...
+Dialogue: 0,0:04:26.60,0:04:28.01,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}'s...
+Dialogue: 0,0:04:29.76,0:04:31.02,Default,,0000,0000,0000,,Momonosuke-{\i1}kun{\i0}!
+Dialogue: 0,0:04:32.27,0:04:35.73,Default,,0000,0000,0000,,There was a lot about you, too, in the journal.
+Dialogue: 0,0:04:38.15,0:04:40.90,Default,,0000,0000,0000,,You were born on Whitebeard's ship, right?!
+Dialogue: 0,0:04:41.36,0:04:43.03,Default,,0000,0000,0000,,And went on to Roger's ship!
+Dialogue: 0,0:04:44.45,0:04:45.61,Default,,0000,0000,0000,,Mm-hm...
+Dialogue: 0,0:04:46.41,0:04:52.45,Default,,0000,0000,0000,,B-But since I was little,\NI do not remember much...
+Dialogue: 0,0:04:52.58,0:04:55.71,Default,,0000,0000,0000,,Whitebeard, Roger, and Oden...
+Dialogue: 0,0:04:55.75,0:04:57.08,Default,,0000,0000,0000,,They all said...
+Dialogue: 0,0:04:57.88,0:05:00.38,Default,,0000,0000,0000,,...that more than 20 years into the future,
+Dialogue: 0,0:05:00.42,0:05:04.63,Default,,0000,0000,0000,,young, strong ones will\Ncome surging into the New World!
+Dialogue: 0,0:05:05.18,0:05:06.51,Default,,0000,0000,0000,,That future is now!
+Dialogue: 0,0:05:11.43,0:05:14.89,Default,,0000,0000,0000,,I was sure that Ace would\Nhead the list of those pirates.
+Dialogue: 0,0:05:16.48,0:05:20.11,Default,,0000,0000,0000,,But when he died, I recalled something!
+Dialogue: 0,0:05:20.98,0:05:22.32,Default,,0000,0000,0000,,Of that night!
+Dialogue: 0,0:05:25.53,0:05:26.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:28.70,0:05:31.62,Default,,0000,0000,0000,,Oh, no... It slipped out!
+Dialogue: 0,0:05:31.66,0:05:33.79,Default,,0000,0000,0000,,I wasn't gonna tell you that.
+Dialogue: 0,0:05:34.37,0:05:35.96,Default,,0000,0000,0000,,Never mind! Forget it!
+Dialogue: 0,0:05:36.62,0:05:38.58,Default,,0000,0000,0000,,I mean, don't you dare laugh!
+Dialogue: 0,0:05:38.63,0:05:40.59,Default,,0000,0000,0000,,Sabo and I won't forgive you if you do!
+Dialogue: 0,0:05:41.96,0:05:45.38,Default,,0000,0000,0000,,I've never left this country even once,
+Dialogue: 0,0:05:45.42,0:05:49.76,Default,,0000,0000,0000,,so I've barely seen anything with my own eyes...
+Dialogue: 0,0:05:50.30,0:05:54.72,Default,,0000,0000,0000,,Whether it's Ace's brother or\Nthe wide world that Oden traveled.
+Dialogue: 0,0:05:56.48,0:06:00.90,Default,,0000,0000,0000,,But I saw something clearly at that moment!
+Dialogue: 0,0:06:01.82,0:06:05.57,Default,,0000,0000,0000,,That's what my brother's dream is!
+Dialogue: 0,0:06:09.99,0:06:12.37,Default,,0000,0000,0000,,We gotta set out to sea someday!
+Dialogue: 0,0:06:12.95,0:06:15.91,Default,,0000,0000,0000,,Let's get out of this country\Nand live freely!
+Dialogue: 0,0:06:16.50,0:06:21.71,Default,,0000,0000,0000,,I wanna see the world out there\Nand write a book about it!
+Dialogue: 0,0:06:21.75,0:06:24.75,Default,,0000,0000,0000,,I'm happy to study if it's about sailing!
+Dialogue: 0,0:06:24.80,0:06:27.88,Default,,0000,0000,0000,,Let's become stronger\Nand become pirates someday!
+Dialogue: 0,0:06:30.22,0:06:33.31,Default,,0000,0000,0000,,I'm gonna become one -\Nyou don't have to tell me to!
+Dialogue: 0,0:06:33.85,0:06:39.64,Default,,0000,0000,0000,,I'm gonna become a pirate\Nand defeat all the others and become the most notorious!
+Dialogue: 0,0:06:40.06,0:06:43.06,Default,,0000,0000,0000,,It'll be the only proof of my life!
+Dialogue: 0,0:06:43.86,0:06:48.95,Default,,0000,0000,0000,,It doesn't matter if all the people in the world\Nreject me or despise me!
+Dialogue: 0,0:06:49.40,0:06:52.03,Default,,0000,0000,0000,,I'll become a great pirate\Nand show them what I can do!
+Dialogue: 0,0:06:53.53,0:07:00.17,Default,,0000,0000,0000,,The Government is telling us not to go to the last island\Nwhich could hold a vast amount of treasure!
+Dialogue: 0,0:07:01.21,0:07:04.21,Default,,0000,0000,0000,,That makes it even more tantalizing!
+Dialogue: 0,0:07:05.09,0:07:08.72,Default,,0000,0000,0000,,If we can get there,\Nwe'll be in both name and deed...
+Dialogue: 0,0:07:08.76,0:07:11.05,Default,,0000,0000,0000,,...the world's greatest pirate group!
+Dialogue: 0,0:07:11.80,0:07:13.26,Default,,0000,0000,0000,,The world's greatest?
+Dialogue: 0,0:07:15.43,0:07:17.10,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:07:17.14,0:07:19.23,Default,,0000,0000,0000,,Alright then...!
+Dialogue: 0,0:07:19.35,0:07:20.94,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:07:20.98,0:07:22.52,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:07:24.65,0:07:27.73,Default,,0000,0000,0000,,--...I'll...\N--I'm gonna...
+Dialogue: 0,0:07:32.70,0:07:35.41,Default,,0000,0000,0000,,You fool...\NI was wondering what you'd have to say...
+Dialogue: 0,0:07:35.53,0:07:37.45,Default,,0000,0000,0000,,That's a child's fantasy!
+Dialogue: 0,0:07:39.16,0:07:41.83,Default,,0000,0000,0000,,You're funny, Luffy!
+Dialogue: 0,0:07:41.87,0:07:44.79,Default,,0000,0000,0000,,I can't wait to see how you turn out\Nin the future!
+Dialogue: 0,0:07:53.05,0:07:57.56,Default,,0000,0000,0000,,I admit that when Luffy said it,\NSabo and I laughed!
+Dialogue: 0,0:07:58.06,0:08:01.35,Default,,0000,0000,0000,,But we won't let anyone else laugh at it...
+Dialogue: 0,0:08:01.39,0:08:03.10,Default,,0000,0000,0000,,Because we believe in him!
+Dialogue: 0,0:08:03.14,0:08:06.69,Default,,0000,0000,0000,,We really think he can do it, so...
+Dialogue: 0,0:08:06.82,0:08:07.82,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:08:09.57,0:08:10.44,Default,,0000,0000,0000,,What...
+Dialogue: 0,0:08:11.28,0:08:12.36,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:12.40,0:08:13.70,Default,,0000,0000,0000,,What's wrong, Yamato?
+Dialogue: 0,0:08:16.99,0:08:19.49,Default,,0000,0000,0000,,I won't laugh!
+Dialogue: 0,0:08:20.45,0:08:24.17,Default,,0000,0000,0000,,{\i1}Those are the exact words the King of the Pirates said!{\i0}
+Dialogue: 0,0:08:24.21,0:08:26.92,Default,,0000,0000,0000,,{\i1}The words that Oden was really amazed by!{\i0}
+Dialogue: 0,0:08:28.00,0:08:33.17,Default,,0000,0000,0000,,In Kozuki Oden's journal,\Nthere's this great man who said the same thing!
+Dialogue: 0,0:08:33.22,0:08:36.89,Default,,0000,0000,0000,,There's no reason for me to laugh!\NYour brother is quite something!
+Dialogue: 0,0:08:37.68,0:08:41.85,Default,,0000,0000,0000,,Hmmm... A great man, huh?\NThat's good to know!
+Dialogue: 0,0:08:41.89,0:08:45.19,Default,,0000,0000,0000,,I hope I can drink with him and Luffy someday!
+Dialogue: 0,0:08:46.60,0:08:48.44,Default,,0000,0000,0000,,I'm sure you guys would get along!
+Dialogue: 0,0:08:49.27,0:08:50.40,Default,,0000,0000,0000,,But he's already dead.
+Dialogue: 0,0:08:50.53,0:08:51.44,Default,,0000,0000,0000,,He is?!
+Dialogue: 0,0:08:53.07,0:08:56.24,Default,,0000,0000,0000,,Well, in that case, we can't see him...
+Dialogue: 0,0:08:57.70,0:08:58.28,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:08:58.87,0:09:00.24,Default,,0000,0000,0000,,What is it this time?
+Dialogue: 0,0:09:01.12,0:09:04.25,Default,,0000,0000,0000,,Um... How about me instead?
+Dialogue: 0,0:09:05.12,0:09:08.21,Default,,0000,0000,0000,,You and your brother and me!
+Dialogue: 0,0:09:08.25,0:09:10.96,Default,,0000,0000,0000,,If I go out to the sea someday...
+Dialogue: 0,0:09:11.09,0:09:12.59,Default,,0000,0000,0000,,Sounds like fun!
+Dialogue: 0,0:09:12.71,0:09:13.51,Default,,0000,0000,0000,,Yeah?!
+Dialogue: 0,0:09:13.63,0:09:16.55,Default,,0000,0000,0000,,But, Yamato, you know how big the sea is?
+Dialogue: 0,0:09:16.59,0:09:20.18,Default,,0000,0000,0000,,If you don't hurry,\NI don't know if we can see each other again...
+Dialogue: 0,0:09:20.31,0:09:21.31,Default,,0000,0000,0000,,Then, Ace,
+Dialogue: 0,0:09:21.35,0:09:23.06,Default,,0000,0000,0000,,can I have...
+Dialogue: 0,0:09:23.64,0:09:25.27,Default,,0000,0000,0000,,...your fingernail or hair clipping?!
+Dialogue: 0,0:09:26.60,0:09:29.02,Default,,0000,0000,0000,,Either one will be fine!
+Dialogue: 0,0:09:29.15,0:09:30.02,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:09:37.78,0:09:39.12,Default,,0000,0000,0000,,I made this!
+Dialogue: 0,0:09:39.16,0:09:40.99,Default,,0000,0000,0000,,This is your Vivre Card!
+Dialogue: 0,0:09:42.24,0:09:43.54,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:09:45.58,0:09:47.79,Default,,0000,0000,0000,,It's just a piece of paper.
+Dialogue: 0,0:09:47.92,0:09:52.88,Default,,0000,0000,0000,,That's right! This piece of paper\Nwill bring us together again!
+Dialogue: 0,0:09:53.00,0:09:54.21,Default,,0000,0000,0000,,Bring us together?
+Dialogue: 0,0:09:54.96,0:09:55.76,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:10:00.22,0:10:01.01,Default,,0000,0000,0000,,Heh!
+Dialogue: 0,0:10:01.14,0:10:05.93,Default,,0000,0000,0000,,Tear off a piece to anyone you don't wanna\Nget separated from or wanna meet again.
+Dialogue: 0,0:10:06.56,0:10:07.48,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:07.52,0:10:09.19,Default,,0000,0000,0000,,I'll do so.
+Dialogue: 0,0:10:25.16,0:10:26.45,Default,,0000,0000,0000,,Yamato!
+Dialogue: 0,0:10:29.67,0:10:31.50,Default,,0000,0000,0000,,Don't lose it!
+Dialogue: 0,0:10:48.31,0:10:50.27,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:10:58.70,0:10:59.90,Default,,0000,0000,0000,,Yamato!
+Dialogue: 0,0:11:04.53,0:11:06.37,Default,,0000,0000,0000,,See you again for sure!
+Dialogue: 0,0:11:06.95,0:11:09.62,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:11:17.09,0:11:18.80,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:11:25.97,0:11:26.97,Default,,0000,0000,0000,,{\i1}But...{\i0}
+Dialogue: 0,0:11:27.85,0:11:29.81,Default,,0000,0000,0000,,{\i1}...that was the last time I saw him.{\i0}
+Dialogue: 0,0:11:32.19,0:11:35.06,On Top,,0000,0000,0000,,ODEN'S TRAVEL RECORD
+Dialogue: 0,0:11:38.99,0:11:41.74,Default,,0000,0000,0000,,He's doing it again... My foolish son.
+Dialogue: 0,0:11:41.78,0:11:46.49,Default,,0000,0000,0000,,But that's fine. I have free time now\Nbecause of Red-Haired's interruption.
+Dialogue: 0,0:11:46.99,0:11:50.12,Default,,0000,0000,0000,,I can deal with the brat's temper tantrum.
+Dialogue: 0,0:11:54.50,0:11:57.71,Default,,0000,0000,0000,,You said you'd come back here!
+Dialogue: 0,0:12:03.05,0:12:05.64,Default,,0000,0000,0000,,It doesn't matter what he clings on to...
+Dialogue: 0,0:12:21.82,0:12:24.53,Default,,0000,0000,0000,,He'll never be able to get off...
+Dialogue: 0,0:12:24.95,0:12:26.53,Default,,0000,0000,0000,,...this island.
+Dialogue: 0,0:12:32.58,0:12:35.12,Default,,0000,0000,0000,,I can't get off of this island!
+Dialogue: 0,0:12:35.17,0:12:38.34,Default,,0000,0000,0000,,I can't beat my father!
+Dialogue: 0,0:12:40.76,0:12:43.34,Default,,0000,0000,0000,,I can't go and save...
+Dialogue: 0,0:12:44.26,0:12:47.01,Default,,0000,0000,0000,,...my only friend!
+Dialogue: 0,0:12:47.89,0:12:49.22,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:12:51.10,0:12:53.18,Default,,0000,0000,0000,,...not free...
+Dialogue: 0,0:12:54.85,0:12:57.11,Default,,0000,0000,0000,,Why are you letting them chain your heart?!
+Dialogue: 0,0:12:58.52,0:12:59.86,Default,,0000,0000,0000,,I wanna...
+Dialogue: 0,0:13:00.36,0:13:03.57,Default,,0000,0000,0000,,...live freely like Oden...
+Dialogue: 0,0:13:04.74,0:13:05.86,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:13:05.99,0:13:11.58,On Top,,0000,0000,0000,,ODEN'S TRAVEL RECORD
+Dialogue: 0,0:13:08.32,0:13:11.58,Default,,0000,0000,0000,,{\i1}"More than 20 years into the future,{\i0}
+Dialogue: 0,0:13:11.62,0:13:17.79,Default,,0000,0000,0000,,{\i1}young, strong pirates who will lead the next era\Nwill come surging into the New World!"{\i0}
+Dialogue: 0,0:13:17.92,0:13:22.30,Default,,0000,0000,0000,,But the toughest one\Nwill come out to the sea in a few years...
+Dialogue: 0,0:13:22.96,0:13:24.63,Default,,0000,0000,0000,,It's my brother!
+Dialogue: 0,0:13:29.76,0:13:31.31,Default,,0000,0000,0000,,Go home, Yamato.
+Dialogue: 0,0:13:33.52,0:13:35.02,Default,,0000,0000,0000,,{\i1}I'll wait, too...{\i0}
+Dialogue: 0,0:13:35.60,0:13:38.44,Default,,0000,0000,0000,,{\i1}For the thing Kozuki Oden was waiting for...{\i0}
+Dialogue: 0,0:13:39.11,0:13:41.44,Default,,0000,0000,0000,,Please come back, Young Master Yamato!
+Dialogue: 0,0:13:41.98,0:13:44.24,Default,,0000,0000,0000,,{\i1}I'll wait for the next era...{\i0}
+Dialogue: 0,0:13:44.69,0:13:45.86,Default,,0000,0000,0000,,{\i1}I'll wait forever!{\i0}
+Dialogue: 0,0:13:47.28,0:13:50.62,Default,,0000,0000,0000,,{\i1}Luffy, I'll be waiting for you!{\i0}
+Dialogue: 0,0:13:50.66,0:13:52.74,Default,,0000,0000,0000,,{\i1}Until you come here, I'll...{\i0}
+Dialogue: 0,0:13:54.41,0:13:56.96,Default,,0000,0000,0000,,If you don't get it\Nno matter how many times I tell you,
+Dialogue: 0,0:13:57.62,0:14:01.29,Default,,0000,0000,0000,,I'll just keep knocking it into you, Yamato!
+Dialogue: 0,0:14:01.42,0:14:04.38,Default,,0000,0000,0000,,And I'll just keep beating it into you, too!
+Dialogue: 0,0:14:13.31,0:14:14.77,Default,,0000,0000,0000,,{\i1}Yes, Yamato!{\i0}
+Dialogue: 0,0:14:14.89,0:14:19.56,Default,,0000,0000,0000,,I'm Oden! You damn old man!
+Dialogue: 0,0:14:22.86,0:14:28.11,Default,,0000,0000,0000,,On that day, I didn't know\Nwhat was happening in the outer world,
+Dialogue: 0,0:14:28.82,0:14:31.53,Default,,0000,0000,0000,,but I read all about it in the newspaper later.
+Dialogue: 0,0:14:32.12,0:14:36.66,Default,,0000,0000,0000,,I learned that Ace was the son of\NGol D. Roger, the King of the Pirates,
+Dialogue: 0,0:14:37.58,0:14:42.13,Default,,0000,0000,0000,,and his brother was\Nreally making a name as a pirate!
+Dialogue: 0,0:14:42.54,0:14:45.30,Default,,0000,0000,0000,,That's Luffy who you brought!
+Dialogue: 0,0:14:47.05,0:14:48.34,Default,,0000,0000,0000,,Momonosuke-{\i1}kun{\i0}.
+Dialogue: 0,0:14:48.47,0:14:50.05,On Top,,0000,0000,0000,,ODEN'S TRAVEL RECORD
+Dialogue: 0,0:14:50.18,0:14:52.80,Default,,0000,0000,0000,,I, of course, give this to you.
+Dialogue: 0,0:14:54.72,0:14:58.06,Default,,0000,0000,0000,,This is what Oden wrote about the future...
+Dialogue: 0,0:15:01.98,0:15:04.36,Default,,0000,0000,0000,,{\i1}"More than 20 years into the future,{\i0}
+Dialogue: 0,0:15:08.99,0:15:14.99,Default,,0000,0000,0000,,{\i1}young, strong pirates who will lead the next era\Nwill come surging into the New World.{\i0}
+Dialogue: 0,0:15:17.25,0:15:19.08,Default,,0000,0000,0000,,{\i1}If I die...{\i0}
+Dialogue: 0,0:15:22.50,0:15:25.92,Default,,0000,0000,0000,,{\i1}they're the ones who'll bring Kaido down!"{\i0}
+Dialogue: 0,0:15:44.02,0:15:46.40,Default,,0000,0000,0000,,The One Piece...
+Dialogue: 0,0:15:48.73,0:15:54.78,Default,,0000,0000,0000,,You guys can't even dream of\Nbeing able to contend for it...
+Dialogue: 0,0:15:58.83,0:16:03.25,Default,,0000,0000,0000,,Do you wanna continue playing pirates?
+Dialogue: 0,0:16:03.37,0:16:07.21,Default,,0000,0000,0000,,You're not good at educating people, Kaido...
+Dialogue: 0,0:16:07.25,0:16:08.80,Default,,0000,0000,0000,,Let me do it!
+Dialogue: 0,0:16:14.68,0:16:16.35,Default,,0000,0000,0000,,Yeah, I know, Killer...
+Dialogue: 0,0:16:17.14,0:16:19.64,Default,,0000,0000,0000,,I know how you feel...
+Dialogue: 0,0:16:20.68,0:16:23.19,Default,,0000,0000,0000,,I've gathered all these things!
+Dialogue: 0,0:16:26.73,0:16:30.07,Default,,0000,0000,0000,,Take them, you damn Emperors!
+Dialogue: 0,0:16:44.37,0:16:45.96,Default,,0000,0000,0000,,One after another!
+Dialogue: 0,0:16:46.08,0:16:50.09,Default,,0000,0000,0000,,So loose...\NYou Straw Hats are all like that?
+Dialogue: 0,0:16:50.21,0:16:52.92,Default,,0000,0000,0000,,This isn't my fault!
+Dialogue: 0,0:16:53.05,0:16:55.68,Default,,0000,0000,0000,,I don't see the loosest one...
+Dialogue: 0,0:16:56.18,0:16:57.51,Default,,0000,0000,0000,,Where's Straw Hat-{\i1}ya{\i0}?
+Dialogue: 0,0:17:02.89,0:17:06.90,Default,,0000,0000,0000,,Now more of them are here.\NThey're the Worst Generation, aren't they?
+Dialogue: 0,0:17:07.02,0:17:10.94,Default,,0000,0000,0000,,They'll scatter like dust in the wind...
+Dialogue: 0,0:17:14.28,0:17:18.45,Default,,0000,0000,0000,,You guys aren't strong enough\Nto reopen this old scar!
+Dialogue: 0,0:17:21.58,0:17:25.87,Default,,0000,0000,0000,,Withdraw gracefully, damn rookies!
+Dialogue: 0,0:17:26.37,0:17:29.13,Default,,0000,0000,0000,,Like the Akazaya members did...
+Dialogue: 0,0:17:34.51,0:17:39.80,On Top,,0000,0000,0000,,ODEN'S TRAVEL RECORD
+Dialogue: 0,0:17:39.39,0:17:43.35,Default,,0000,0000,0000,,{\i1}"More than 20 years into the future,{\i0}
+Dialogue: 0,0:17:47.60,0:17:54.61,Default,,0000,0000,0000,,{\i1}young, strong pirates who will lead the next era\Nwill come surging into the New World!{\i0}
+Dialogue: 0,0:17:56.28,0:17:58.41,Default,,0000,0000,0000,,{\i1}If I die...{\i0}
+Dialogue: 0,0:18:02.74,0:18:04.66,Default,,0000,0000,0000,,{\i1}they're the ones...{\i0}
+Dialogue: 0,0:18:07.21,0:18:09.25,Default,,0000,0000,0000,,{\i1}...who'll bring Kaido down!"{\i0}
+Dialogue: 0,0:18:09.79,0:18:13.92,Default,,0000,0000,0000,,Another one came...\NWhy don't you guys watch how it's done?!
+Dialogue: 0,0:18:14.05,0:18:15.13,Default,,0000,0000,0000,,--I refuse!\N--Me, too!
+Dialogue: 0,0:18:15.92,0:18:18.09,Default,,0000,0000,0000,,I wanna take all of their heads!
+Dialogue: 0,0:18:20.85,0:18:22.64,Default,,0000,0000,0000,,Straw Hat...
+Dialogue: 0,0:18:39.95,0:18:44.74,Default,,0000,0000,0000,,Linlin! What do you think that brat said\Nhe was gonna be right in front of me?!
+Dialogue: 0,0:18:44.87,0:18:47.25,Default,,0000,0000,0000,,He's impertinent...
+Dialogue: 0,0:18:47.79,0:18:51.33,Default,,0000,0000,0000,,You gave me some mouth, too!
+Dialogue: 0,0:18:51.38,0:18:54.96,Default,,0000,0000,0000,,And how could you destroy my castle?!
+Dialogue: 0,0:18:55.00,0:18:58.38,Default,,0000,0000,0000,,Apologize to me first, Straw Hat!
+Dialogue: 0,0:19:03.55,0:19:04.81,Default,,0000,0000,0000,,Hey, you punk...
+Dialogue: 0,0:19:05.31,0:19:09.19,Default,,0000,0000,0000,,Say again what you're gonna be...
+Dialogue: 0,0:19:09.23,0:19:13.90,Default,,0000,0000,0000,,...right in front of our faces!
+Dialogue: 0,0:19:19.40,0:19:22.37,Default,,0000,0000,0000,,I am counting on you guys!
+Dialogue: 0,0:19:25.08,0:19:26.33,Default,,0000,0000,0000,,Luffy-{\i1}dono{\i0}!
+Dialogue: 0,0:19:30.83,0:19:32.21,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:42.18,0:19:44.64,Default,,0000,0000,0000,,Are you okay, Kin'emon?
+Dialogue: 0,0:19:45.89,0:19:47.77,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:19:49.43,0:19:50.64,Default,,0000,0000,0000,,...for being late.
+Dialogue: 0,0:19:58.19,0:20:00.53,Default,,0000,0000,0000,,I... I feel chagrined...
+Dialogue: 0,0:20:04.49,0:20:05.78,Default,,0000,0000,0000,,I-I am...
+Dialogue: 0,0:20:06.45,0:20:12.83,Default,,0000,0000,0000,,...too ashamed to face Oden-{\i1}sama{\i0} in the afterlife!
+Dialogue: 0,0:20:14.33,0:20:15.33,Default,,0000,0000,0000,,Kin...
+Dialogue: 0,0:20:17.59,0:20:20.26,Default,,0000,0000,0000,,Can you carry...
+Dialogue: 0,0:20:21.76,0:20:24.14,Default,,0000,0000,0000,,...the Land of Wano on your back?!
+Dialogue: 0,0:20:26.51,0:20:27.05,Default,,0000,0000,0000,,Ple...
+Dialogue: 0,0:20:27.18,0:20:29.56,Default,,0000,0000,0000,,You fool! Of course I will!
+Dialogue: 0,0:20:31.27,0:20:32.89,Default,,0000,0000,0000,,It's my friend's country!
+Dialogue: 0,0:20:39.61,0:20:41.74,Default,,0000,0000,0000,,Hey, brat!
+Dialogue: 0,0:20:44.07,0:20:46.95,Default,,0000,0000,0000,,{\i1}Luffy-{\i0}dono{\i1}...{\i0}
+Dialogue: 0,0:20:48.28,0:20:51.29,Default,,0000,0000,0000,,{\i1}Thank you...{\i0}
+Dialogue: 0,0:20:53.21,0:20:53.96,Default,,0000,0000,0000,,Tra-guy!
+Dialogue: 0,0:20:54.00,0:20:56.29,Default,,0000,0000,0000,,Move all of them downstairs!
+Dialogue: 0,0:21:01.67,0:21:03.92,Default,,0000,0000,0000,,Why is it shaking again?!
+Dialogue: 0,0:21:04.72,0:21:05.84,Default,,0000,0000,0000,,Luffy...
+Dialogue: 0,0:21:09.64,0:21:14.56,Default,,0000,0000,0000,,{\i1}You call it Haki,\Nbut we call it Ryuo in the Land of Wano.{\i0}
+Dialogue: 0,0:21:15.06,0:21:17.65,Default,,0000,0000,0000,,{\i1}It has the meaning of "flow."{\i0}
+Dialogue: 0,0:21:17.77,0:21:21.15,Default,,0000,0000,0000,,{\i1}Oden{\i0}-sama{\i1} was executed!{\i0}
+Dialogue: 0,0:21:19.77,0:21:21.78,On Top,,0000,0000,0000,,GRAVE OF KOZUKI ODEN
+Dialogue: 0,0:21:21.19,0:21:25.53,Default,,0000,0000,0000,,By the Shogun of the Land of Wano\Nand the pirate Kaido!
+Dialogue: 0,0:21:25.65,0:21:27.95,Default,,0000,0000,0000,,{\i1}Raizo-{\i0}dono{\i1} is safe!{\i0}
+Dialogue: 0,0:21:28.07,0:21:30.45,Default,,0000,0000,0000,,{\i1}We'd never sell out our friends!{\i0}
+Dialogue: 0,0:21:30.58,0:21:33.29,Default,,0000,0000,0000,,{\i1}Listen!\NYou-{\i0}gara{\i1} guys must go forward!{\i0}
+Dialogue: 0,0:21:33.41,0:21:37.58,Default,,0000,0000,0000,,{\i1}Ebisu Town's happy-go-lucky guy\Nwill cross over to the other side!{\i0}
+Dialogue: 0,0:21:37.71,0:21:41.13,Default,,0000,0000,0000,,{\i1}The fire of rebellion isn't extinguished!{\i0}
+Dialogue: 0,0:21:41.25,0:21:43.09,Default,,0000,0000,0000,,{\i1}All ships, to Onigashima!{\i0}
+Dialogue: 0,0:21:43.13,0:21:44.34,Default,,0000,0000,0000,,Charge!
+Dialogue: 0,0:21:47.22,0:21:50.76,Default,,0000,0000,0000,,{\i1}20 years ago,\Nthe day that Oden got killed by Kaido,{\i0}
+Dialogue: 0,0:21:50.81,0:21:53.22,Default,,0000,0000,0000,,{\i1}this country came to a standstill, right?!{\i0}
+Dialogue: 0,0:21:53.27,0:21:56.35,Default,,0000,0000,0000,,{\i1}No one in this world deserves to be laughed at\Nas they die!{\i0}
+Dialogue: 0,0:21:56.39,0:21:59.65,Default,,0000,0000,0000,,{\i1}A stranger's not allowed to save this country?!{\i0}
+Dialogue: 0,0:21:59.69,0:22:02.07,Default,,0000,0000,0000,,{\i1}You say it!\NI thought you were an important person!{\i0}
+Dialogue: 0,0:22:02.11,0:22:05.61,Default,,0000,0000,0000,,{\i1}You're a leader of these great men,\Naren't you?!{\i0}
+Dialogue: 0,0:22:05.65,0:22:09.66,Default,,0000,0000,0000,,{\i1}I want to bring down Kaido!{\i0}
+Dialogue: 0,0:22:15.25,0:22:18.25,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:22:22.25,0:22:23.09,Default,,0000,0000,0000,,...Red...
+Dialogue: 0,0:22:24.96,0:22:25.63,Default,,0000,0000,0000,,...Roc!
+Dialogue: 0,0:22:49.07,0:22:51.66,Default,,0000,0000,0000,,Hey, Kaido... What are you doing?!
+Dialogue: 0,0:22:51.70,0:22:54.54,Default,,0000,0000,0000,,I can't believe you got knocked down!
+Dialogue: 0,0:22:57.87,0:23:00.17,Default,,0000,0000,0000,,I'm Monkey D. Luffy.
+Dialogue: 0,0:23:01.46,0:23:03.21,Default,,0000,0000,0000,,I'm the man who'll best you guys...
+Dialogue: 0,0:23:06.63,0:23:09.51,Default,,0000,0000,0000,,...and become the King of the Pirates!
+Dialogue: 0,0:23:18.39,0:23:22.10,Default,,0000,0000,0000,,{\i1}Zoro-{\i0}senpai{\i1} and Sanji-{\i0}senpai\N{\i1}who do the heavy lifting for the Straw Hats!{\i0}
+Dialogue: 0,0:23:22.15,0:23:27.32,Default,,0000,0000,0000,,{\i1}I'll tell you all about their heroic actions in the Land of Wano!{\i0}
+Dialogue: 0,0:23:27.36,0:23:32.49,Default,,0000,0000,0000,,{\i1}I really can't wait to see their adventures all over again!{\i0}
+Dialogue: 0,0:23:33.28,0:23:39.16,Default,,0000,0000,0000,,On the next episode of One Piece! "A Special Episode\Nto Admire Zoro-senpai and Sanji-senpai! Barto's Secret Room 2!"
+Dialogue: 0,0:23:39.20,0:23:45.54,Default,,0000,0000,0000,,Luffy{\i1}-senpai's{\i0} gonna become the King of the Pirates!

@@ -1,0 +1,378 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:49.32,0:02:52.69,Default,,0000,0000,0000,,All the pirates who are after the One Piece...
+Dialogue: 0,0:02:52.69,0:02:57.65,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:03:00.02,0:03:03.28,Default,,0000,0000,0000,,However, no one has ever fully explored it
+Dialogue: 0,0:03:03.28,0:03:06.43,Default,,0000,0000,0000,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:03:07.39,0:03:12.42,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:14.31,0:03:16.46,Default,,0000,0000,0000,,Now, Monkey D. Luffy,
+Dialogue: 0,0:03:16.47,0:03:18.97,Default,,0000,0000,0000,,a boy whose body turned to rubber
+Dialogue: 0,0:03:18.97,0:03:20.57,Default,,0000,0000,0000,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:20.57,0:03:22.34,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:23.09,0:03:26.58,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:29.81,0:03:32.52,Default,,0000,0000,0000,,After surviving a fierce battle,--
+Dialogue: 0,0:03:32.52,0:03:35.24,Default,,0000,0000,0000,,the Straw Hats finally entered the New World,
+Dialogue: 0,0:03:35.24,0:03:37.60,Default,,0000,0000,0000,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:38.03,0:03:39.65,Default,,0000,0000,0000,,They landed on Punk Hazard;
+Dialogue: 0,0:03:39.65,0:03:42.22,Default,,0000,0000,0000,,an island with two parts,\N one burning, the other frozen
+Dialogue: 0,0:03:42.22,0:03:45.24,Default,,0000,0000,0000,,and were held captive by Caesar Clown\N who rules the island
+Dialogue: 0,0:03:45.24,0:03:48.54,Default,,0000,0000,0000,,and were exposed to Shinokuni, \Na weapon of mass destruction.
+Dialogue: 0,0:03:48.54,0:03:50.29,Default,,0000,0000,0000,,But they broke out thanks to their ally -
+Dialogue: 0,0:03:50.29,0:03:53.62,Default,,0000,0000,0000,,a Warlord - Trafalgar Law's tactful maneuvers
+Dialogue: 0,0:03:53.62,0:03:55.47,Default,,0000,0000,0000,,and were reunited with their crew
+Dialogue: 0,0:03:55.47,0:03:57.96,Default,,0000,0000,0000,,and began heading towards the "R-66" door,
+Dialogue: 0,0:03:58.49,0:04:01.53,Default,,0000,0000,0000,,while Luffy finally got to\N Caesar's research room
+Dialogue: 0,0:04:01.53,0:04:05.46,Default,,0000,0000,0000,,and launched an intense battle to catch him.
+Dialogue: 0,0:04:06.26,0:04:08.06,Default,,0000,0000,0000,,You can't tell me...
+Dialogue: 0,0:04:08.15,0:04:10.77,Default,,0000,0000,0000,,...what to do!
+Dialogue: 0,0:04:10.77,0:04:13.71,Default,,0000,0000,0000,,Do you still wanna get hurt,\N rubber bastard?!
+Dialogue: 0,0:04:14.19,0:04:15.56,Default,,0000,0000,0000,,Karakuni!
+Dialogue: 0,0:04:19.41,0:04:21.32,Default,,0000,0000,0000,,I can't breathe again!
+Dialogue: 0,0:04:22.04,0:04:23.86,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:04:23.86,0:04:25.20,Default,,0000,0000,0000,,I won't let you do it!
+Dialogue: 0,0:04:27.09,0:04:29.41,Default,,0000,0000,0000,,...Jet Pistol!
+Dialogue: 0,0:04:30.41,0:04:32.23,Default,,0000,0000,0000,,Th-That was fast!
+Dialogue: 0,0:04:33.36,0:04:34.92,Default,,0000,0000,0000,,Blue Sword!
+Dialogue: 0,0:04:45.75,0:04:47.14,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:04:47.76,0:04:49.81,Default,,0000,0000,0000,,...Jet Gatling!
+Dialogue: 0,0:04:54.53,0:04:56.39,Default,,0000,0000,0000,,What's this?! A wall?!
+Dialogue: 0,0:04:56.39,0:04:57.98,Default,,0000,0000,0000,,Kamakura.
+Dialogue: 0,0:04:58.61,0:04:59.75,Default,,0000,0000,0000,,I'm impressed.
+Dialogue: 0,0:04:59.75,0:05:02.65,Default,,0000,0000,0000,,Only you could break this wall!
+Dialogue: 0,0:05:08.52,0:05:10.24,Default,,0000,0000,0000,,Are you a Devil Fruit eater?
+Dialogue: 0,0:05:10.24,0:05:13.12,Default,,0000,0000,0000,,Dammit! You rubber bastard!
+Dialogue: 0,0:05:13.12,0:05:14.16,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:05:14.16,0:05:15.14,Default,,0000,0000,0000,,Are you gonna run?!
+Dialogue: 0,0:05:15.14,0:05:16.83,Default,,0000,0000,0000,,Goodbye, Straw Hat!
+Dialogue: 0,0:05:16.83,0:05:18.52,Default,,0000,0000,0000,,Be as wild as you want!
+Dialogue: 0,0:05:18.52,0:05:23.51,Default,,0000,0000,0000,,I already have an idea of how to make \Nyou people test subjects without fail!
+Dialogue: 0,0:05:23.51,0:05:25.46,Default,,0000,0000,0000,,Look forward to it!
+Dialogue: 0,0:05:27.63,0:05:28.19,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:29.40,0:05:31.18,Default,,0000,0000,0000,,I won't let you go after him.
+Dialogue: 0,0:05:31.95,0:05:34.56,Default,,0000,0000,0000,,If anything happens to the Master,
+Dialogue: 0,0:05:35.17,0:05:37.26,Default,,0000,0000,0000,,Joker will kill me.
+Dialogue: 0,0:05:41.09,0:05:45.26,Default,,0000,0000,0000,,"A Mastermind Underground! \NDoflamingo Makes His Move!"
+Dialogue: 0,0:05:48.03,0:05:51.53,DefaultLow,,0000,0000,0000,,{\fad(480,1)}THE "SAD" MANUFACTURING ROOM
+Dialogue: 0,0:06:19.97,0:06:21.86,Default,,0000,0000,0000,,This thing
+Dialogue: 0,0:06:22.25,0:06:25.02,Default,,0000,0000,0000,,will shake up the New World.
+Dialogue: 0,0:06:30.45,0:06:34.49,DefaultLow,,0000,0000,0000,,{\fad(550,1)}THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:06:34.86,0:06:36.05,Default,,0000,0000,0000,,This is D Building!
+Dialogue: 0,0:06:36.05,0:06:37.78,Default,,0000,0000,0000,,This is an emergency broadcast
+Dialogue: 0,0:06:37.78,0:06:39.62,Default,,0000,0000,0000,,to all buildings of the Third Laboratory!
+Dialogue: 0,0:06:39.62,0:06:41.92,Default,,0000,0000,0000,,The traitor - Trafalgar Law has...
+Dialogue: 0,0:06:41.92,0:06:45.63,Default,,0000,0000,0000,,...just entered into the SAD manufacturing room!
+Dialogue: 0,0:06:42.79,0:06:44.00,Default,,0000,0000,0000,,Stay with me!
+Dialogue: 0,0:06:45.87,0:06:46.93,Default,,0000,0000,0000,,I repeat.
+Dialogue: 0,0:06:46.93,0:06:49.30,Default,,0000,0000,0000,,The traitor - Trafalgar Law has...
+Dialogue: 0,0:06:49.30,0:06:51.82,Default,,0000,0000,0000,,Wait, wait, don't close it yet!
+Dialogue: 0,0:06:51.82,0:06:54.76,Default,,0000,0000,0000,,The Vergo impostor  and \N"Black Foot" are still in there!
+Dialogue: 0,0:06:56.74,0:06:58.62,Default,,0000,0000,0000,,It's closed!
+Dialogue: 0,0:06:58.62,0:07:00.05,Default,,0000,0000,0000,,It's too late!
+Dialogue: 0,0:07:00.05,0:07:03.06,Default,,0000,0000,0000,,The other side of the gate \Nis filled with the deadly gas!
+Dialogue: 0,0:07:03.06,0:07:04.27,Default,,0000,0000,0000,,Black Foot!
+Dialogue: 0,0:07:04.97,0:07:06.60,Default,,0000,0000,0000,,Young man!
+Dialogue: 0,0:07:06.60,0:07:09.07,Default,,0000,0000,0000,,Black Foot guy!
+Dialogue: 0,0:07:10.21,0:07:11.89,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:11.89,0:07:13.62,Default,,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:07:13.62,0:07:15.01,Default,,0000,0000,0000,,The Navy's...
+Dialogue: 0,0:07:15.01,0:07:16.11,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:07:16.11,0:07:18.28,Default,,0000,0000,0000,,...cutie-san!
+Dialogue: 0,0:07:18.28,0:07:19.29,Default,,0000,0000,0000,,Oh, Black Foot!
+Dialogue: 0,0:07:20.39,0:07:21.96,Default,,0000,0000,0000,,Black Foot guy!
+Dialogue: 0,0:07:22.18,0:07:23.90,Default,,0000,0000,0000,,I'm glad that you're alive!
+Dialogue: 0,0:07:23.90,0:07:25.32,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:07:25.32,0:07:26.30,Default,,0000,0000,0000,,Shut up, you shitheads!
+Dialogue: 0,0:07:27.17,0:07:28.05,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:07:28.05,0:07:31.09,Default,,0000,0000,0000,,I only accept accolades from girls!
+Dialogue: 0,0:07:32.45,0:07:33.81,Default,,0000,0000,0000,,Hey, Black Foot!
+Dialogue: 0,0:07:33.81,0:07:35.88,Default,,0000,0000,0000,,Did you get hurt?
+Dialogue: 0,0:07:35.88,0:07:37.10,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:37.10,0:07:39.73,Default,,0000,0000,0000,,I only accept concern from girls!
+Dialogue: 0,0:07:40.65,0:07:42.12,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:07:42.12,0:07:43.85,Default,,0000,0000,0000,,If I kept fighting with him...
+Dialogue: 0,0:07:47.52,0:07:49.88,Default,,0000,0000,0000,,In any case,\N what's wrong with that guy?
+Dialogue: 0,0:07:49.88,0:07:51.28,Default,,0000,0000,0000,,He's your superior, isn't he?
+Dialogue: 0,0:07:51.28,0:07:52.71,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:07:52.71,0:07:55.42,Default,,0000,0000,0000,,That can't be Vice Admiral Vergo!
+Dialogue: 0,0:07:55.42,0:07:56.76,Default,,0000,0000,0000,,That was an impostor!
+Dialogue: 0,0:07:56.76,0:07:58.33,Default,,0000,0000,0000,,Right, Captain-chan?!
+Dialogue: 0,0:08:01.33,0:08:05.10,Default,,0000,0000,0000,,Soon, you'll see that they're very loyal.
+Dialogue: 0,0:08:10.51,0:08:12.65,Default,,0000,0000,0000,,Of course it's not him!
+Dialogue: 0,0:08:12.65,0:08:14.25,Default,,0000,0000,0000,,Vice Admiral Vergo
+Dialogue: 0,0:08:14.25,0:08:17.09,Default,,0000,0000,0000,,is like a father to you all!
+Dialogue: 0,0:08:17.89,0:08:19.72,Default,,0000,0000,0000,,He wouldn't do such a thing!
+Dialogue: 0,0:08:19.72,0:08:24.93,Default,,0000,0000,0000,,Yes, Vice Admiral Vergo is a kind \Nman who cares so much about us!
+Dialogue: 0,0:08:31.00,0:08:32.80,Default,,0000,0000,0000,,Hmm... Well,
+Dialogue: 0,0:08:32.80,0:08:35.47,Default,,0000,0000,0000,,I don't know if that\N was an impostor or not
+Dialogue: 0,0:08:35.47,0:08:37.82,Default,,0000,0000,0000,,but he turned pale\N and went somewhere.
+Dialogue: 0,0:08:38.66,0:08:40.55,Default,,0000,0000,0000,,We have to get going, too.
+Dialogue: 0,0:08:40.55,0:08:42.23,Default,,0000,0000,0000,,We have to save the children
+Dialogue: 0,0:08:42.23,0:08:43.50,Default,,0000,0000,0000,,and escape from here!
+Dialogue: 0,0:08:43.50,0:08:44.05,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:44.05,0:08:44.82,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:44.82,0:08:47.00,Default,,0000,0000,0000,,We'll follow you, Captain-chan!
+Dialogue: 0,0:08:47.17,0:08:50.17,DefaultLow,,0000,0000,0000,,{\fad(350,1)}INSIDE OF B BUILDING
+Dialogue: 0,0:08:53.42,0:08:55.74,Default,,0000,0000,0000,,Law's going after SAD?!
+Dialogue: 0,0:08:55.74,0:08:57.00,Default,,0000,0000,0000,,Yes,
+Dialogue: 0,0:08:57.00,0:08:59.43,Default,,0000,0000,0000,,now there is no doubt\N that Law is betraying us.
+Dialogue: 0,0:09:01.52,0:09:03.31,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:09:18.12,0:09:22.20,OS,,0000,0000,0000,,{\fad(600,1)}THE NEW WORLD "DRESSROSA"
+Dialogue: 0,0:09:18.48,0:09:20.96,DefaultLow,,0000,0000,0000,,That's what I thought.
+Dialogue: 0,0:09:23.77,0:09:27.00,DefaultLow,,0000,0000,0000,,I have treated him as my young brother
+Dialogue: 0,0:09:25.00,0:09:30.63,OS,,0000,0000,0000,,{\fad(700,1)}THE WARLORD - DON QUIXOTE DOFLAMINGO \N(THE UNDERGROUND BROKER - JOKER)
+Dialogue: 0,0:09:27.00,0:09:30.63,DefaultLow,,0000,0000,0000,,and watched closely over him as he grew up.
+Dialogue: 0,0:09:31.09,0:09:32.59,Default,,0000,0000,0000,,What a shame.
+Dialogue: 0,0:09:33.37,0:09:34.80,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:09:35.02,0:09:38.04,Default,,0000,0000,0000,,He's at the SAD manufacturing room, huh?
+Dialogue: 0,0:09:44.45,0:09:46.71,Default,,0000,0000,0000,,Here is what I would do\N if I were him.
+Dialogue: 0,0:09:47.17,0:09:48.44,Default,,0000,0000,0000,,First,
+Dialogue: 0,0:09:48.84,0:09:50.73,Default,,0000,0000,0000,,I'd destroy that room.
+Dialogue: 0,0:10:00.45,0:10:03.12,Default,,0000,0000,0000,,And kidnap Caesar?
+Dialogue: 0,0:10:03.86,0:10:07.12,Default,,0000,0000,0000,,No, I would just kill him.
+Dialogue: 0,0:10:07.94,0:10:10.62,Default,,0000,0000,0000,,How could you do that\N to my boyfriend?!
+Dialogue: 0,0:10:10.62,0:10:12.92,Default,,0000,0000,0000,,Because Caesar is...
+Dialogue: 0,0:10:13.33,0:10:15.09,Default,,0000,0000,0000,,...the only person in the world...
+Dialogue: 0,0:10:18.54,0:10:21.72,Default,,0000,0000,0000,,...who knows how to produce SAD.
+Dialogue: 0,0:10:22.41,0:10:25.77,Default,,0000,0000,0000,,But if he does such things,
+Dialogue: 0,0:10:26.09,0:10:28.44,Default,,0000,0000,0000,,I'll be in trouble, Vergo.
+Dialogue: 0,0:10:31.45,0:10:33.20,Default,,0000,0000,0000,,If Caesar gets killed,
+Dialogue: 0,0:10:33.20,0:10:35.83,Default,,0000,0000,0000,,no one else can produce that gas.
+Dialogue: 0,0:10:35.83,0:10:37.94,Default,,0000,0000,0000,,Then it will ruin my business.
+Dialogue: 0,0:10:38.32,0:10:41.50,Default,,0000,0000,0000,,Chill out-in, Baby 5.
+Dialogue: 0,0:10:41.50,0:10:43.61,Default,,0000,0000,0000,,You can't do that to the Young Master-in.
+Dialogue: 0,0:10:43.61,0:10:46.44,Default,,0000,0000,0000,,I'm not gonna forgive him this time!
+Dialogue: 0,0:10:46.44,0:10:47.95,Default,,0000,0000,0000,,I'm gonna kill
+Dialogue: 0,0:10:47.95,0:10:49.62,Default,,0000,0000,0000,,that asshole!
+Dialogue: 0,0:10:49.99,0:10:52.81,Default,,0000,0000,0000,,And what would happen next, \Nif I got into such trouble?
+Dialogue: 0,0:10:52.81,0:10:53.79,Default,,0000,0000,0000,,Hey-in!
+Dialogue: 0,0:10:54.75,0:10:56.88,Default,,0000,0000,0000,,And after that?
+Dialogue: 0,0:10:58.04,0:11:00.22,Default,,0000,0000,0000,,Misfortunes never come singly.
+Dialogue: 0,0:11:01.13,0:11:03.70,Default,,0000,0000,0000,,What are you going to\N do with that cute boy -
+Dialogue: 0,0:11:03.70,0:11:04.89,Default,,0000,0000,0000,,Law-chan,
+Dialogue: 0,0:11:04.89,0:11:07.13,Default,,0000,0000,0000,,Young Master?
+Dialogue: 0,0:11:07.13,0:11:08.81,Default,,0000,0000,0000,,You know what he's gonna do.
+Dialogue: 0,0:11:08.81,0:11:11.30,Default,,0000,0000,0000,,Law is rebelling against us.
+Dialogue: 0,0:11:11.30,0:11:12.65,Default,,0000,0000,0000,,Right, Young Master?
+Dialogue: 0,0:11:12.91,0:11:15.72,Default,,0000,0000,0000,,I know it's hard for you, Vergo,
+Dialogue: 0,0:11:15.72,0:11:18.34,Default,,0000,0000,0000,,but I need you to take\N care of Law there.
+Dialogue: 0,0:11:18.34,0:11:21.78,Default,,0000,0000,0000,,I wanna make him wish\N that he was never born.
+Dialogue: 0,0:11:23.09,0:11:25.08,Default,,0000,0000,0000,,So kill him in a horrific way.
+Dialogue: 0,0:11:26.24,0:11:27.77,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:11:27.77,0:11:30.95,Default,,0000,0000,0000,,I'll shoot a picture of his\N dead body and show you,
+Dialogue: 0,0:11:30.95,0:11:31.71,Default,,0000,0000,0000,,Doffy.
+Dialogue: 0,0:11:33.87,0:11:37.19,Default,,0000,0000,0000,,With the camera I bought at Dressrosa.
+Dialogue: 0,0:11:37.19,0:11:40.90,Default,,0000,0000,0000,,You didn't buy a camera.
+Dialogue: 0,0:11:40.90,0:11:42.34,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:11:42.34,0:11:44.93,Default,,0000,0000,0000,,I didn't buy a camera.
+Dialogue: 0,0:11:54.52,0:11:56.95,Default,,0000,0000,0000,,Then I'll cut his ear off.
+Dialogue: 0,0:11:58.16,0:12:00.36,Default,,0000,0000,0000,,I'm looking forward to see it.
+Dialogue: 0,0:12:00.36,0:12:04.28,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring... Clank.
+Dialogue: 0,0:12:04.61,0:12:07.20,Default,,0000,0000,0000,,Caesar. Monet.\N Can you hear me?
+Dialogue: 0,0:12:07.51,0:12:08.83,Default,,0000,0000,0000,,Yes, Joker.
+Dialogue: 0,0:12:09.24,0:12:10.20,Default,,0000,0000,0000,,Joker?
+Dialogue: 0,0:12:12.58,0:12:14.50,Default,,0000,0000,0000,,Oh, Joker!
+Dialogue: 0,0:12:14.77,0:12:16.50,Default,,0000,0000,0000,,You have to be careful with Law,
+Dialogue: 0,0:12:16.50,0:12:18.94,Default,,0000,0000,0000,,of course, but also with Straw Hat.
+Dialogue: 0,0:12:18.94,0:12:22.62,Default,,0000,0000,0000,,That brat uses Conqueror's Haki.
+Dialogue: 0,0:12:22.62,0:12:24.89,Default,,0000,0000,0000,,He could be of a higher caliber than Law.
+Dialogue: 0,0:12:28.65,0:12:30.68,Default,,0000,0000,0000,,Oh, are you really?
+Dialogue: 0,0:12:31.73,0:12:33.38,Default,,0000,0000,0000,,He uses
+Dialogue: 0,0:12:33.38,0:12:35.44,Default,,0000,0000,0000,,Conqueror's Haki?!
+Dialogue: 0,0:12:39.37,0:12:43.39,Default,,0000,0000,0000,,We happen to have a\N hot-blooded woman here.
+Dialogue: 0,0:12:43.39,0:12:47.29,Default,,0000,0000,0000,,I'm gonna send Baby 5\N and Buffalo there.
+Dialogue: 0,0:12:47.29,0:12:48.60,Default,,0000,0000,0000,,When it's done,
+Dialogue: 0,0:12:48.60,0:12:50.83,Default,,0000,0000,0000,,you all need to come to Dressrosa once.
+Dialogue: 0,0:12:51.14,0:12:51.96,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:51.96,0:12:53.30,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:12:56.08,0:12:59.84,OS,,0000,0000,0000,,{\fad(450,1)}C BUILDING 4TH FLOOR  - \NCAESAR'S RESEARCH ROOM
+Dialogue: 0,0:12:59.84,0:13:00.88,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:13:01.34,0:13:04.01,Default,,0000,0000,0000,,I don't know what\N the bird guy was saying
+Dialogue: 0,0:13:04.01,0:13:05.93,Default,,0000,0000,0000,,but I'm gonna catch Caesar!
+Dialogue: 0,0:13:08.15,0:13:09.53,Default,,0000,0000,0000,,What's this?!
+Dialogue: 0,0:13:09.53,0:13:10.35,Default,,0000,0000,0000,,Snow?!
+Dialogue: 0,0:13:10.59,0:13:11.52,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:13:15.33,0:13:17.35,Default,,0000,0000,0000,,I won't let you do that!
+Dialogue: 0,0:13:24.05,0:13:26.74,Default,,0000,0000,0000,,Why is it snowing inside?!
+Dialogue: 0,0:13:27.21,0:13:30.20,Default,,0000,0000,0000,,I'm a snow woman\N who ate the Snow-Snow Fruit.
+Dialogue: 0,0:13:30.59,0:13:33.00,Default,,0000,0000,0000,,I can control snow at will.
+Dialogue: 0,0:13:37.53,0:13:39.82,Default,,0000,0000,0000,,How do you like my power?
+Dialogue: 0,0:13:41.41,0:13:43.31,Default,,0000,0000,0000,,It's nothing!
+Dialogue: 0,0:13:43.31,0:13:44.67,Default,,0000,0000,0000,,It's just snow!
+Dialogue: 0,0:13:46.19,0:13:48.05,Default,,0000,0000,0000,,But what about something like this?
+Dialogue: 0,0:14:05.03,0:14:06.82,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:07.58,0:14:08.91,Default,,0000,0000,0000,,...Pistol!
+Dialogue: 0,0:14:36.52,0:14:38.27,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:39.03,0:14:40.35,Default,,0000,0000,0000,,...Pistol!
+Dialogue: 0,0:14:55.81,0:14:57.42,Default,,0000,0000,0000,,It didn't work, huh?
+Dialogue: 0,0:14:59.12,0:15:00.37,Default,,0000,0000,0000,,I'm sorry
+Dialogue: 0,0:15:00.37,0:15:02.71,Default,,0000,0000,0000,,but you need to stay here for a while.
+Dialogue: 0,0:15:03.97,0:15:04.88,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:15:04.88,0:15:05.84,Default,,0000,0000,0000,,Kamakura!
+Dialogue: 0,0:15:16.36,0:15:17.99,Default,,0000,0000,0000,,This thing again.
+Dialogue: 0,0:15:23.73,0:15:24.98,Default,,0000,0000,0000,,Second Gear!
+Dialogue: 0,0:15:25.31,0:15:27.42,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:15:29.07,0:15:30.82,Default,,0000,0000,0000,,...Jet Gatling!
+Dialogue: 0,0:15:40.36,0:15:41.56,Default,,0000,0000,0000,,Where did she go?
+Dialogue: 0,0:15:57.81,0:16:01.27,On Top,,0000,0000,0000,,{\fad(480,1)}B BUILDING 3RD FLOOR - \NNEAR THE BISCUIT ROOM
+Dialogue: 0,0:16:01.27,0:16:03.69,Default,,0000,0000,0000,,Open the door!
+Dialogue: 0,0:16:08.41,0:16:09.62,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:16:09.62,0:16:10.88,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:16:10.88,0:16:13.54,Default,,0000,0000,0000,,Then I won't let anybody\N eat the candy!
+Dialogue: 0,0:16:13.54,0:16:15.32,Default,,0000,0000,0000,,I wanna go home with everybody!
+Dialogue: 0,0:16:16.01,0:16:17.16,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:16:17.16,0:16:20.33,Default,,0000,0000,0000,,Open the door, Mocha!
+Dialogue: 0,0:16:27.73,0:16:30.22,Default,,0000,0000,0000,,They're gonna break\N the door in any minute!
+Dialogue: 0,0:16:30.73,0:16:32.57,Default,,0000,0000,0000,,Mocha, you better go!
+Dialogue: 0,0:16:32.57,0:16:35.18,Default,,0000,0000,0000,,Uh-huh.  But what are you \Ngonna do, Chopper-chan?
+Dialogue: 0,0:16:35.18,0:16:38.23,Default,,0000,0000,0000,,I'm gonna try to hold the children here!
+Dialogue: 0,0:16:38.23,0:16:41.64,Default,,0000,0000,0000,,You go and throw out all the \Ncandies in the Biscuit Room!
+Dialogue: 0,0:16:42.26,0:16:43.18,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:48.52,0:16:50.78,Default,,0000,0000,0000,,I'll be counting on you, Mocha!
+Dialogue: 0,0:16:50.78,0:16:51.67,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:17:03.08,0:17:06.79,OS,,0000,0000,0000,,{\fad(500,1)}INSIDE OF B BUILDING THE \NBROWNBEARD EXPRESS AND ITS RIDERS
+Dialogue: 0,0:17:13.79,0:17:18.49,Default,,0000,0000,0000,,This dragon is more annoying\N than that big one.
+Dialogue: 0,0:17:18.49,0:17:19.72,Default,,0000,0000,0000,,He's quicker.
+Dialogue: 0,0:17:20.10,0:17:21.91,Default,,0000,0000,0000,,Why are you lying around?!
+Dialogue: 0,0:17:21.91,0:17:23.43,Default,,0000,0000,0000,,Stop that dragon!
+Dialogue: 0,0:17:27.19,0:17:29.23,Default,,0000,0000,0000,,B Building is sea of flame.
+Dialogue: 0,0:17:31.72,0:17:33.65,Default,,0000,0000,0000,,If we don't stop him and
+Dialogue: 0,0:17:33.65,0:17:36.11,Default,,0000,0000,0000,,one of these tanks\N catches fire and explodes...
+Dialogue: 0,0:17:36.11,0:17:40.95,Default,,0000,0000,0000,,The outer walls will break and \Nthe deadly gas will flow in!
+Dialogue: 0,0:17:40.95,0:17:43.08,Default,,0000,0000,0000,,If we let that happen,
+Dialogue: 0,0:17:43.08,0:17:44.58,Default,,0000,0000,0000,,no one can survive!
+Dialogue: 0,0:17:45.86,0:17:48.54,Default,,0000,0000,0000,,We've got to do something\N or we're dead!
+Dialogue: 0,0:17:49.00,0:17:51.33,Default,,0000,0000,0000,,Wait, you all!
+Dialogue: 0,0:17:51.89,0:17:54.44,Default,,0000,0000,0000,,I can't hold my own
+Dialogue: 0,0:17:54.44,0:17:56.05,Default,,0000,0000,0000,,when it comes to dragons!
+Dialogue: 0,0:17:57.76,0:18:00.36,Default,,0000,0000,0000,,I have a grudge against them!
+Dialogue: 0,0:18:00.36,0:18:02.47,Default,,0000,0000,0000,,I will definitely take care of him...
+Dialogue: 0,0:18:02.47,0:18:03.93,Default,,0000,0000,0000,,No no!
+Dialogue: 0,0:18:03.93,0:18:08.14,Default,,0000,0000,0000,,I can't forgive that dragon, either!
+Dialogue: 0,0:18:08.53,0:18:10.36,Default,,0000,0000,0000,,What are you so mad?!
+Dialogue: 0,0:18:12.54,0:18:14.00,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:18:14.00,0:18:15.78,Default,,0000,0000,0000,,Didn't you see his attitude\N toward me earlier?!
+Dialogue: 0,0:18:17.49,0:18:18.45,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:31.90,0:18:34.36,Default,,0000,0000,0000,,He charged up to me\N to eat me and...
+Dialogue: 0,0:18:34.36,0:18:35.87,Default,,0000,0000,0000,,Huh? Excuse me!
+Dialogue: 0,0:18:35.87,0:18:37.26,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:37.26,0:18:40.95,Default,,0000,0000,0000,,He showed his disappointment \Nbefore my eyes! What an insult!
+Dialogue: 0,0:18:40.95,0:18:42.05,Default,,0000,0000,0000,,I can't stand it!
+Dialogue: 0,0:18:42.05,0:18:43.62,Default,,0000,0000,0000,,I really can't stand it!
+Dialogue: 0,0:18:43.62,0:18:45.85,Default,,0000,0000,0000,,That's because you have no flesh.
+Dialogue: 0,0:18:46.23,0:18:49.09,Default,,0000,0000,0000,,Bones are nutritious, too!
+Dialogue: 0,0:18:49.09,0:18:50.73,Default,,0000,0000,0000,,Alright. I'll keep that in mind.
+Dialogue: 0,0:18:51.08,0:18:54.52,Default,,0000,0000,0000,,Kin'emon-san, let me do it!
+Dialogue: 0,0:18:54.52,0:18:56.05,Default,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:18:56.05,0:18:57.40,Default,,0000,0000,0000,,Just stay back!
+Dialogue: 0,0:18:57.40,0:18:58.77,Default,,0000,0000,0000,,No, I'll do it!
+Dialogue: 0,0:18:58.77,0:18:59.53,Default,,0000,0000,0000,,I'll do it!
+Dialogue: 0,0:18:59.53,0:19:00.49,Default,,0000,0000,0000,,No, me (watashi)!
+Dialogue: 0,0:19:00.74,0:19:01.32,Default,,0000,0000,0000,,Me (sessha)!
+Dialogue: 0,0:19:01.61,0:19:03.04,Default,,0000,0000,0000,,Me (watasha)!
+Dialogue: 0,0:19:03.04,0:19:03.78,Default,,0000,0000,0000,,Oops?
+Dialogue: 0,0:19:06.08,0:19:08.20,Default,,0000,0000,0000,,Come on! Come on!
+Dialogue: 0,0:19:08.41,0:19:10.06,Default,,0000,0000,0000,,Nin, nin, nin!
+Dialogue: 0,0:19:10.06,0:19:11.84,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:19:11.84,0:19:12.71,Default,,0000,0000,0000,,Pretending to be a samurai.
+Dialogue: 0,0:19:12.92,0:19:13.88,Default,,0000,0000,0000,,But that's what ninjas do!
+Dialogue: 0,0:19:15.69,0:19:16.30,Default,,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:19:17.96,0:19:19.47,Default,,0000,0000,0000,,Thunder Trap!
+Dialogue: 0,0:19:21.85,0:19:24.51,Default,,0000,0000,0000,,No, my (watasha) opponent!
+Dialogue: 0,0:19:24.51,0:19:25.58,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:19:25.58,0:19:26.85,Default,,0000,0000,0000,,Breast-band girl!
+Dialogue: 0,0:19:26.85,0:19:28.27,Default,,0000,0000,0000,,I didn't know you used\N ninja arts skills!
+Dialogue: 0,0:19:28.61,0:19:30.14,Default,,0000,0000,0000,,Stop calling me that!
+Dialogue: 0,0:19:30.57,0:19:33.57,Default,,0000,0000,0000,,Smell the stinkiest flower in the world!
+Dialogue: 0,0:19:33.57,0:19:34.77,Default,,0000,0000,0000,,Special Attack - Green Star!
+Dialogue: 0,0:19:35.37,0:19:36.41,Default,,0000,0000,0000,,Rafflesia!
+Dialogue: 0,0:19:42.67,0:19:45.53,Default,,0000,0000,0000,,So, the long-nosed goblin\N monster uses sorcery!
+Dialogue: 0,0:19:45.53,0:19:46.74,Default,,0000,0000,0000,,"Monster"?!
+Dialogue: 0,0:19:47.37,0:19:49.19,Default,,0000,0000,0000,,Cuarenta Fleurs!
+Dialogue: 0,0:19:49.19,0:19:50.41,Default,,0000,0000,0000,,Cuatro Mano!
+Dialogue: 0,0:19:54.01,0:19:54.50,Default,,0000,0000,0000,,Hold!
+Dialogue: 0,0:19:55.29,0:19:57.17,Default,,0000,0000,0000,,Even the courtesan\N uses ninja arts skills!
+Dialogue: 0,0:20:01.38,0:20:02.73,Default,,0000,0000,0000,,He's falling!
+Dialogue: 0,0:20:02.73,0:20:04.39,Default,,0000,0000,0000,,I'll finish him off!
+Dialogue: 0,0:20:04.39,0:20:06.51,Default,,0000,0000,0000,,No, let me do it!
+Dialogue: 0,0:20:13.36,0:20:14.85,Default,,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:20:16.28,0:20:17.82,Default,,0000,0000,0000,,Follow my lead!
+Dialogue: 0,0:20:18.49,0:20:19.82,Default,,0000,0000,0000,,Corpse-dono!
+Dialogue: 0,0:20:21.64,0:20:23.36,Default,,0000,0000,0000,,Foxfire Style!
+Dialogue: 0,0:20:24.72,0:20:26.59,Default,,0000,0000,0000,,Flame Split!
+Dialogue: 0,0:20:32.33,0:20:33.71,Default,,0000,0000,0000,,He cut flames again!
+Dialogue: 0,0:20:33.71,0:20:34.67,Default,,0000,0000,0000,,Good job!
+Dialogue: 0,0:20:35.06,0:20:36.13,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:20:44.86,0:20:46.74,Default,,0000,0000,0000,,Gavotte Bon en Avant!
+Dialogue: 0,0:20:47.39,0:20:48.93,Default,,0000,0000,0000,,Flaming Flash!
+Dialogue: 0,0:21:01.53,0:21:02.90,Default,,0000,0000,0000,,Did you call me "Corpse"?!
+Dialogue: 0,0:21:04.42,0:21:06.55,Default,,0000,0000,0000,,Oh, I am a corpse.
+Dialogue: 0,0:21:08.01,0:21:09.16,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:10.37,0:21:11.82,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:21:11.82,0:21:13.50,Default,,0000,0000,0000,,It's a total victory!
+Dialogue: 0,0:21:15.57,0:21:18.42,Default,,0000,0000,0000,,Hey! Say "Bones are delicious"!
+Dialogue: 0,0:21:18.42,0:21:20.08,Default,,0000,0000,0000,,How annoying!
+Dialogue: 0,0:21:20.08,0:21:21.84,Default,,0000,0000,0000,,You puny dragon!
+Dialogue: 0,0:21:23.73,0:21:25.68,Default,,0000,0000,0000,,Damn you! Damn you!
+Dialogue: 0,0:21:25.97,0:21:27.93,Default,,0000,0000,0000,,Damn you! Damn you!
+Dialogue: 0,0:21:27.93,0:21:31.68,Default,,0000,0000,0000,,Damn you! Damn you!\N Damn you! Damn you!
+Dialogue: 0,0:21:31.68,0:21:34.71,Default,,0000,0000,0000,,I have a good reason to \Nhate him but, Kin'emon-san,
+Dialogue: 0,0:21:34.71,0:21:38.88,Default,,0000,0000,0000,,why are you kicking the dragon \Nas if he killed your parents?
+Dialogue: 0,0:21:41.80,0:21:44.94,Default,,0000,0000,0000,,It was no worse than\N having my parents killed!
+Dialogue: 0,0:21:50.70,0:21:52.51,Default,,0000,0000,0000,,Whoa! Th-That's...
+Dialogue: 0,0:21:52.51,0:21:54.66,Default,,0000,0000,0000,,Both of you, get back on already!
+Dialogue: 0,0:21:54.66,0:21:56.12,Default,,0000,0000,0000,,Or we'll leave you here!
+Dialogue: 0,0:21:56.75,0:21:59.05,Default,,0000,0000,0000,,Please wait!
+Dialogue: 0,0:22:03.68,0:22:06.52,Default,,0000,0000,0000,,Oh? Hey, look at that!
+Dialogue: 0,0:22:10.64,0:22:12.14,Default,,0000,0000,0000,,That must be...
+Dialogue: 0,0:22:18.66,0:22:20.81,Default,,0000,0000,0000,,Chopper has transformed\N into a monster!
+Dialogue: 0,0:22:21.56,0:22:23.12,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:22:24.58,0:22:26.83,Default,,0000,0000,0000,,What is he doing?
+Dialogue: 0,0:22:26.94,0:22:30.78,DefaultLow,,0000,0000,0000,,{\fad(500,1)}B BUILDING 2ND FLOOR - AN EXAMINATION ROOM
+Dialogue: 0,0:22:38.33,0:22:38.87,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:22:41.30,0:22:42.06,Default,,0000,0000,0000,,Hmm...
+Dialogue: 0,0:22:42.53,0:22:44.34,Default,,0000,0000,0000,,I don't see any problem.
+Dialogue: 0,0:22:45.86,0:22:47.47,Default,,0000,0000,0000,,You can go back to the Biscuit Room now.
+Dialogue: 0,0:22:47.76,0:22:48.75,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:22:48.75,0:22:49.67,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:49.67,0:22:50.51,Default,,0000,0000,0000,,The candy is there, too.
+Dialogue: 0,0:22:50.51,0:22:52.05,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:58.07,0:23:01.73,Default,,0000,0000,0000,,Oh yeah, where did the boy go?
+Dialogue: 0,0:23:02.98,0:23:03.77,Default,,0000,0000,0000,,The boy?
+Dialogue: 0,0:23:03.77,0:23:04.44,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:23:08.55,0:23:11.07,Default,,0000,0000,0000,,He entered into the "secret \Nroom" where no one is allowed
+Dialogue: 0,0:23:11.72,0:23:14.34,Default,,0000,0000,0000,,and transformed into a small dragon.
+Dialogue: 0,0:23:14.87,0:23:16.99,Default,,0000,0000,0000,,The boy named Momonosuke.
+Dialogue: 0,0:23:24.91,0:23:27.21,Default,,0000,0000,0000,,The one who wields the powers \Nof the Snow-Snow Fruit: Monet.
+Dialogue: 0,0:23:27.49,0:23:29.88,Default,,0000,0000,0000,,Luffy is at the mercy of those powers,
+Dialogue: 0,0:23:29.88,0:23:32.59,Default,,0000,0000,0000,,trapped within a wall of snow,
+Dialogue: 0,0:23:32.59,0:23:34.93,Default,,0000,0000,0000,,and his strength is greatly drained.
+Dialogue: 0,0:23:35.26,0:23:36.85,Default,,0000,0000,0000,,Meanwhile,
+Dialogue: 0,0:23:36.85,0:23:39.39,Default,,0000,0000,0000,,Law is faced with danger, as well.
+Dialogue: 0,0:23:39.39,0:23:40.52,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:40.80,0:23:44.39,Default,,0000,0000,0000,,"Luffy Dies from Exposure?!\N The Spine-chilling Snow Woman Monet!"
+Dialogue: 0,0:23:44.39,0:23:46.02,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

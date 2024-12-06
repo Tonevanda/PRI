@@ -1,0 +1,371 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.11,0:00:13.95,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:11.11,0:00:13.95,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.99,0:00:16.91,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,Default,,0000,0000,0000,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.95,0:00:21.50,On Top,,0000,0000,0000,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,Default,,0000,0000,0000,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.54,0:00:24.25,On Top,,0000,0000,0000,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,Default,,0000,0000,0000,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.88,0:00:33.76,On Top,,0000,0000,0000,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,Default,,0000,0000,0000,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.80,0:00:37.01,On Top,,0000,0000,0000,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,On Top,,0000,0000,0000,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:37.05,0:00:40.31,Default,,0000,0000,0000,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,On Top,,0000,0000,0000,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:40.56,0:00:45.10,Default,,0000,0000,0000,,{\i1}Shout it out, to save \Nyour spirit from breaking{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,On Top,,0000,0000,0000,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:45.14,0:00:47.56,Default,,0000,0000,0000,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,On Top,,0000,0000,0000,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:47.60,0:00:53.99,Default,,0000,0000,0000,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,On Top,,0000,0000,0000,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:54.03,0:00:58.07,Default,,0000,0000,0000,,{\i1}Even when the darkness \Ntries to tear you apart{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,On Top,,0000,0000,0000,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:58.12,0:00:59.37,Default,,0000,0000,0000,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,On Top,,0000,0000,0000,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:00:59.41,0:01:00.87,Default,,0000,0000,0000,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,On Top,,0000,0000,0000,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:00.91,0:01:04.58,Default,,0000,0000,0000,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:04.62,0:01:07.33,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:07.37,0:01:10.54,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.01,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:10.59,0:01:16.01,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:16.05,0:01:18.55,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:16.05,0:01:18.55,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:18.59,0:01:21.47,On Top,,0000,0000,0000,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:18.59,0:01:21.47,Default,,0000,0000,0000,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.22,On Top,,0000,0000,0000,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.22,Default,,0000,0000,0000,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,On Top,,0000,0000,0000,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:24.27,0:01:28.98,Default,,0000,0000,0000,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,On Top,,0000,0000,0000,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:29.02,0:01:33.32,Default,,0000,0000,0000,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,On Top,,0000,0000,0000,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:33.73,0:01:38.70,Default,,0000,0000,0000,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,On Top,,0000,0000,0000,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:39.37,0:01:42.20,Default,,0000,0000,0000,,{\i1}Transcend meetings and \Npartings and keep going{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,On Top,,0000,0000,0000,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:42.24,0:01:46.54,Default,,0000,0000,0000,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.75,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:49.79,0:01:52.88,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:52.92,0:01:57.59,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.76,On Top,,0000,0000,0000,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:01:57.63,0:02:01.76,Default,,0000,0000,0000,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:02:16.03,0:02:21.45,Default,,0000,0000,0000,,{\i1}"Whitebeard's Little Brother!\NOden's Great Adventure!"{\i0}
+Dialogue: 0,0:02:42.05,0:02:44.51,Default,,0000,0000,0000,,Are you all right?!
+Dialogue: 0,0:02:44.51,0:02:47.49,Default,,0000,0000,0000,,What? Oh, yes, I am.
+Dialogue: 0,0:02:47.49,0:02:49.16,Default,,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:02:49.16,0:02:51.73,Default,,0000,0000,0000,,...you came to save me?!
+Dialogue: 0,0:02:53.27,0:02:55.23,Default,,0000,0000,0000,,Yeah, that's right...
+Dialogue: 0,0:02:57.48,0:03:00.70,Default,,0000,0000,0000,,I'm glad... that you're okay...
+Dialogue: 0,0:03:06.70,0:03:09.08,Default,,0000,0000,0000,,A-Are you all right?!
+Dialogue: 0,0:03:09.54,0:03:11.19,Default,,0000,0000,0000,,Stay with me!
+Dialogue: 0,0:03:11.19,0:03:13.67,Default,,0000,0000,0000,,Please stay with me!
+Dialogue: 0,0:03:18.76,0:03:20.42,Default,,0000,0000,0000,,Oden's gone!
+Dialogue: 0,0:03:20.80,0:03:22.51,Default,,0000,0000,0000,,Where did he go?!
+Dialogue: 0,0:03:22.51,0:03:26.10,Default,,0000,0000,0000,,Damn! There were only a few minutes to go!
+Dialogue: 0,0:03:26.10,0:03:28.89,Default,,0000,0000,0000,,It's a shame,\Nbut he couldn't take it any longer!
+Dialogue: 0,0:03:29.22,0:03:32.96,Default,,0000,0000,0000,,Pops! You did a terrible thing to him!
+Dialogue: 0,0:03:32.96,0:03:36.90,Default,,0000,0000,0000,,He did his best!\NWhy didn't you let him pass?!
+Dialogue: 0,0:03:36.90,0:03:38.48,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:03:38.48,0:03:41.10,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:03:41.10,0:03:42.07,Default,,0000,0000,0000,,Hey, stop!
+Dialogue: 0,0:03:42.07,0:03:43.57,Default,,0000,0000,0000,,--Get off of me!\N--Calm down!
+Dialogue: 0,0:03:44.24,0:03:45.74,Default,,0000,0000,0000,,What should we do, Pops?!
+Dialogue: 0,0:03:47.70,0:03:50.00,Default,,0000,0000,0000,,--Unhand me!\N--Stop! Calm down!
+Dialogue: 0,0:03:50.50,0:03:52.79,Default,,0000,0000,0000,,--Let go!\N--Relax!
+Dialogue: 0,0:03:53.33,0:03:56.67,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}! Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:03:56.67,0:03:59.59,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:04:12.02,0:04:13.77,Default,,0000,0000,0000,,He is recovering so fast!
+Dialogue: 0,0:04:14.40,0:04:17.15,Default,,0000,0000,0000,,I could not tell, but he is a human...
+Dialogue: 0,0:04:38.50,0:04:39.42,Default,,0000,0000,0000,,Man!
+Dialogue: 0,0:04:39.42,0:04:42.76,Default,,0000,0000,0000,,I couldn't get on board Whitebeard's ship!
+Dialogue: 0,0:04:42.76,0:04:46.80,Default,,0000,0000,0000,,I thought if I could board it,\NI could go to various countries...
+Dialogue: 0,0:04:46.80,0:04:48.18,Default,,0000,0000,0000,,But that's okay!
+Dialogue: 0,0:04:54.60,0:04:59.17,Default,,0000,0000,0000,,I set foot on a foreign island\Nfor the first time instead!
+Dialogue: 0,0:04:59.17,0:05:01.61,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:05:01.61,0:05:03.09,Default,,0000,0000,0000,,Look at him...
+Dialogue: 0,0:05:03.09,0:05:04.65,Default,,0000,0000,0000,,He looks so happy!
+Dialogue: 0,0:05:04.65,0:05:10.51,Default,,0000,0000,0000,,I finally got out of the Land of Wano!\NMy adventure has begun!
+Dialogue: 0,0:05:10.51,0:05:11.54,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:05:13.04,0:05:14.75,Default,,0000,0000,0000,,Do not move around so much!
+Dialogue: 0,0:05:14.75,0:05:18.63,Default,,0000,0000,0000,,You are not fully recovered yet.
+Dialogue: 0,0:05:19.71,0:05:23.05,Default,,0000,0000,0000,,Miss! Looks like you took care of me!
+Dialogue: 0,0:05:23.05,0:05:24.76,Default,,0000,0000,0000,,Oh, yes, I did!
+Dialogue: 0,0:05:25.30,0:05:26.63,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:05:28.09,0:05:31.37,Default,,0000,0000,0000,,No! You saved me first!
+Dialogue: 0,0:05:31.37,0:05:33.68,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:05:33.68,0:05:37.36,Default,,0000,0000,0000,,Oh, I see! I'm glad that you're okay!
+Dialogue: 0,0:05:37.36,0:05:40.94,Default,,0000,0000,0000,,Anyway, did you say\Nyou came from the Land of Wano?
+Dialogue: 0,0:05:41.94,0:05:43.90,Default,,0000,0000,0000,,Yeah, that's right...
+Dialogue: 0,0:05:44.32,0:05:45.65,Default,,0000,0000,0000,,By the way, Miss...
+Dialogue: 0,0:05:45.65,0:05:49.84,Default,,0000,0000,0000,,I came all the way to a foreign land,\Nbut look at your outfit.
+Dialogue: 0,0:05:49.84,0:05:52.95,Default,,0000,0000,0000,,I wish you wore something a bit more exotic!
+Dialogue: 0,0:05:54.41,0:05:59.50,Default,,0000,0000,0000,,The truth is I have always wanted to go to the Land of Wano\Nsince I was little!
+Dialogue: 0,0:06:00.67,0:06:05.05,Default,,0000,0000,0000,,Will you take me to the Land of Wano?!
+Dialogue: 0,0:06:05.05,0:06:07.42,Default,,0000,0000,0000,,Oh... Um...
+Dialogue: 0,0:06:08.51,0:06:09.76,Default,,0000,0000,0000,,Oh, well...
+Dialogue: 0,0:06:09.76,0:06:11.97,Default,,0000,0000,0000,,He is annoyed!
+Dialogue: 0,0:06:16.64,0:06:18.77,Default,,0000,0000,0000,,There she is!
+Dialogue: 0,0:06:22.02,0:06:24.86,Default,,0000,0000,0000,,We're counting on you, Captain Karma!
+Dialogue: 0,0:06:25.48,0:06:29.11,On Top,,0000,0000,0000,,KARMA - CAPTAIN OF THE CEPHALOCTOPUS PIRATES
+Dialogue: 0,0:06:30.86,0:06:36.41,Default,,0000,0000,0000,,Six arms?! How interesting!\NI've never seen such a person in the Land of Wano!
+Dialogue: 0,0:06:37.58,0:06:41.50,Default,,0000,0000,0000,,Hey, where's the monster\Nthat you guys encountered?!
+Dialogue: 0,0:06:41.50,0:06:43.79,Default,,0000,0000,0000,,What? It's got to be...
+Dialogue: 0,0:06:43.79,0:06:45.75,Default,,0000,0000,0000,,Did it vanish?!
+Dialogue: 0,0:06:45.75,0:06:49.72,Default,,0000,0000,0000,,Where did the Sea Spirit go?!
+Dialogue: 0,0:06:50.84,0:06:54.14,Default,,0000,0000,0000,,Hey, guys! You came back!
+Dialogue: 0,0:06:54.14,0:06:56.10,Default,,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:06:56.10,0:06:58.14,Default,,0000,0000,0000,,Why do you know about us?!
+Dialogue: 0,0:06:59.73,0:07:02.02,Default,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:07:02.56,0:07:05.77,Default,,0000,0000,0000,,I see... You hired a bodyguard!
+Dialogue: 0,0:07:05.77,0:07:09.03,Default,,0000,0000,0000,,Classy women fetch high prices!
+Dialogue: 0,0:07:09.03,0:07:11.70,Default,,0000,0000,0000,,We'll sell both of you!
+Dialogue: 0,0:07:13.66,0:07:14.58,Default,,0000,0000,0000,,Let's run!
+Dialogue: 0,0:07:15.03,0:07:16.91,Default,,0000,0000,0000,,There are too many of them!
+Dialogue: 0,0:07:18.33,0:07:21.46,Default,,0000,0000,0000,,This is my first fight overseas...
+Dialogue: 0,0:07:22.67,0:07:24.19,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:07:24.19,0:07:26.67,Default,,0000,0000,0000,,I'm getting excited!
+Dialogue: 0,0:07:26.67,0:07:27.59,Default,,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:07:33.97,0:07:35.97,Default,,0000,0000,0000,,Is that all you've got?!
+Dialogue: 0,0:07:44.06,0:07:45.02,Default,,0000,0000,0000,,Impressive!
+Dialogue: 0,0:07:46.94,0:07:49.36,Default,,0000,0000,0000,,What a useless bodyguard!
+Dialogue: 0,0:07:57.58,0:08:00.12,Default,,0000,0000,0000,,It's time for me to finish you off!
+Dialogue: 0,0:08:13.43,0:08:16.55,Default,,0000,0000,0000,,It's the Whitebeard Pirates!
+Dialogue: 0,0:08:16.85,0:08:21.56,Default,,0000,0000,0000,,{\i1}This man, Karma, eventually became a subordinate\Nof the Whitebeard Pirates,{\i0}
+Dialogue: 0,0:08:21.89,0:08:25.48,Default,,0000,0000,0000,,{\i1}and fought in the Paramount War.{\i0}
+Dialogue: 0,0:08:26.31,0:08:28.36,Default,,0000,0000,0000,,Come aboard, Oden!
+Dialogue: 0,0:08:28.36,0:08:32.53,Default,,0000,0000,0000,,What? But I let go of the chain...
+Dialogue: 0,0:08:34.20,0:08:37.78,Default,,0000,0000,0000,,A woman's scream made you \Ngive up your ambition?
+Dialogue: 0,0:08:39.54,0:08:41.33,Default,,0000,0000,0000,,You're kind of naive.
+Dialogue: 0,0:08:42.20,0:08:45.00,Default,,0000,0000,0000,,All right, let's go!
+Dialogue: 0,0:08:48.96,0:08:53.42,Default,,0000,0000,0000,,We'll set out on a great adventure\Nbeyond your wildest imagination!
+Dialogue: 0,0:08:53.42,0:08:55.76,Default,,0000,0000,0000,,My little brother!
+Dialogue: 0,0:08:56.59,0:08:59.05,Default,,0000,0000,0000,,Are you sure, White-Kichi-{\i1}chan{\i0}?!
+Dialogue: 0,0:09:00.47,0:09:02.31,Default,,0000,0000,0000,,White-Kichi-{\i1}chan{\i0}?!
+Dialogue: 0,0:09:06.56,0:09:09.73,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:09:18.41,0:09:19.54,Default,,0000,0000,0000,,Oden!
+Dialogue: 0,0:09:19.54,0:09:21.08,Default,,0000,0000,0000,,I'm glad that you're okay!
+Dialogue: 0,0:09:21.41,0:09:24.12,Default,,0000,0000,0000,,Good to see you again!
+Dialogue: 0,0:09:24.12,0:09:25.62,Default,,0000,0000,0000,,We're happy to have you!
+Dialogue: 0,0:09:28.71,0:09:30.63,Default,,0000,0000,0000,,Thank you all!
+Dialogue: 0,0:09:32.21,0:09:34.47,Default,,0000,0000,0000,,Pops gave you a pretty rough time!
+Dialogue: 0,0:09:34.47,0:09:36.10,Default,,0000,0000,0000,,He totally did!
+Dialogue: 0,0:09:36.10,0:09:38.05,Default,,0000,0000,0000,,Absolutely!
+Dialogue: 0,0:09:40.68,0:09:42.64,Default,,0000,0000,0000,,Y-You fools!
+Dialogue: 0,0:09:43.27,0:09:44.73,Default,,0000,0000,0000,,O-Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:09:45.39,0:09:47.65,Default,,0000,0000,0000,,I am glad that you are all right!
+Dialogue: 0,0:09:47.65,0:09:50.52,Default,,0000,0000,0000,,Yeah! As you see, I'm fine!
+Dialogue: 0,0:09:51.57,0:09:53.36,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:09:56.20,0:09:58.53,Default,,0000,0000,0000,,Dogstorm! Cat Viper!
+Dialogue: 0,0:09:59.74,0:10:01.66,Default,,0000,0000,0000,,Why are you here?!
+Dialogue: 0,0:10:01.66,0:10:07.25,Default,,0000,0000,0000,,We were sure that you'd board this ship somehow,\Nso we were hiding in it!
+Dialogue: 0,0:10:07.25,0:10:09.71,Default,,0000,0000,0000,,We'll follow you wherever you go!
+Dialogue: 0,0:10:11.09,0:10:12.00,Default,,0000,0000,0000,,Stowaways!
+Dialogue: 0,0:10:12.59,0:10:14.84,Default,,0000,0000,0000,,Pops! What should we do about them?!
+Dialogue: 0,0:10:15.84,0:10:20.22,Default,,0000,0000,0000,,You said you wouldn't forgive me...
+Dialogue: 0,0:10:22.10,0:10:24.56,Default,,0000,0000,0000,,So are you going to throw us into the sea?!
+Dialogue: 0,0:10:34.15,0:10:35.82,Default,,0000,0000,0000,,I'll do so when I feel like it!
+Dialogue: 0,0:10:36.65,0:10:38.99,Default,,0000,0000,0000,,Miss! What's your name?
+Dialogue: 0,0:10:38.99,0:10:41.16,Default,,0000,0000,0000,,Oh, yes!
+Dialogue: 0,0:10:41.82,0:10:43.45,Default,,0000,0000,0000,,My name is Toki!
+Dialogue: 0,0:10:43.95,0:10:45.12,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:10:45.54,0:10:48.25,Default,,0000,0000,0000,,I want to go to the Land of Wano!
+Dialogue: 0,0:10:53.29,0:10:55.30,Default,,0000,0000,0000,,He is annoyed!
+Dialogue: 0,0:10:55.30,0:11:00.14,Default,,0000,0000,0000,,I-I would do anything! So please!\NLet me stay on board this ship!
+Dialogue: 0,0:11:00.14,0:11:01.51,Default,,0000,0000,0000,,Do as you like!
+Dialogue: 0,0:11:07.18,0:11:09.02,Default,,0000,0000,0000,,I'll welcome you, Oden!
+Dialogue: 0,0:11:09.02,0:11:10.56,Default,,0000,0000,0000,,Me, too!
+Dialogue: 0,0:11:25.41,0:11:28.62,Default,,0000,0000,0000,,A great adventure\Nbeyond my wildest imagination, huh?
+Dialogue: 0,0:11:31.92,0:11:34.29,Default,,0000,0000,0000,,It'll finally start!
+Dialogue: 0,0:11:34.92,0:11:35.96,Default,,0000,0000,0000,,Oden-{\i1}sama{\i0}!
+Dialogue: 0,0:11:47.35,0:11:51.23,Default,,0000,0000,0000,,All right! Let's go!
+Dialogue: 0,0:11:53.10,0:11:57.57,Default,,0000,0000,0000,,I'm gonna see the world!
+Dialogue: 0,0:12:21.01,0:12:23.45,Default,,0000,0000,0000,,{\i1}The things I see and hear overseas...{\i0}
+Dialogue: 0,0:12:23.45,0:12:28.10,Default,,0000,0000,0000,,{\i1}I will write them down in my journal.{\i0}
+Dialogue: 0,0:12:32.27,0:12:33.64,Default,,0000,0000,0000,,Hostile vessel ahead!
+Dialogue: 0,0:12:33.64,0:12:36.15,Default,,0000,0000,0000,,Get ready to fight!
+Dialogue: 0,0:12:38.11,0:12:40.03,Default,,0000,0000,0000,,Here we go! Here we go!
+Dialogue: 0,0:12:42.03,0:12:43.07,Default,,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:12:43.07,0:12:45.49,Default,,0000,0000,0000,,--Stop!\N--Oden!
+Dialogue: 0,0:12:58.09,0:13:00.21,Default,,0000,0000,0000,,Look at that! You see?!
+Dialogue: 0,0:13:00.63,0:13:01.76,Default,,0000,0000,0000,,I sank it!
+Dialogue: 0,0:13:01.76,0:13:04.05,Default,,0000,0000,0000,,You idiot! What are you doing?!
+Dialogue: 0,0:13:04.05,0:13:06.26,Default,,0000,0000,0000,,How can you call yourself a pirate?!
+Dialogue: 0,0:13:08.72,0:13:11.81,Default,,0000,0000,0000,,We didn't have a chance to plunder it!
+Dialogue: 0,0:13:14.23,0:13:16.65,Default,,0000,0000,0000,,W-What have I done?!
+Dialogue: 0,0:13:17.77,0:13:20.52,Default,,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:13:24.61,0:13:28.78,Default,,0000,0000,0000,,{\i1}Things I have never experienced before...{\i0}
+Dialogue: 0,0:13:30.53,0:13:32.62,Default,,0000,0000,0000,,What's this place?!
+Dialogue: 0,0:13:33.25,0:13:35.50,Default,,0000,0000,0000,,{\i1}Buildings I've never seen!{\i0}
+Dialogue: 0,0:13:35.50,0:13:38.54,Default,,0000,0000,0000,,{\i1}The jelly-like jiggly trees!{\i0}
+Dialogue: 0,0:13:41.05,0:13:43.92,Default,,0000,0000,0000,,--Oden, wait!\N--We must examine the place first!
+Dialogue: 0,0:13:47.93,0:13:50.35,Default,,0000,0000,0000,,{\i1}This world I have never seen...{\i0}
+Dialogue: 0,0:13:55.06,0:13:56.19,Default,,0000,0000,0000,,I-Is that...?!
+Dialogue: 0,0:13:59.02,0:14:01.57,Default,,0000,0000,0000,,Oden!
+Dialogue: 0,0:14:02.90,0:14:06.20,Default,,0000,0000,0000,,{\i1}A chill I have never experienced...{\i0}
+Dialogue: 0,0:14:15.95,0:14:17.04,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:14:17.04,0:14:19.98,Default,,0000,0000,0000,,{\i1}A heat I have never experienced...{\i0}
+Dialogue: 0,0:14:19.98,0:14:21.63,Default,,0000,0000,0000,,Oden!
+Dialogue: 0,0:14:21.63,0:14:22.88,Default,,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:14:22.88,0:14:24.21,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:14:37.23,0:14:39.90,Default,,0000,0000,0000,,This is an adventure! An adventure!
+Dialogue: 0,0:14:40.56,0:14:42.82,Default,,0000,0000,0000,,{\i1}Strange plants...{\i0}
+Dialogue: 0,0:14:48.53,0:14:50.61,Default,,0000,0000,0000,,{\i1}Strange animals...{\i0}
+Dialogue: 0,0:14:53.33,0:14:54.91,Default,,0000,0000,0000,,{\i1}Giant humans...{\i0}
+Dialogue: 0,0:14:55.33,0:14:56.79,Default,,0000,0000,0000,,So big!
+Dialogue: 0,0:14:59.83,0:15:01.04,Default,,0000,0000,0000,,Back off!
+Dialogue: 0,0:15:09.76,0:15:11.39,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:15:19.27,0:15:22.60,Default,,0000,0000,0000,,{\i1}Overwhelming strength...{\i0}
+Dialogue: 0,0:15:25.27,0:15:28.09,Default,,0000,0000,0000,,{\i1}And ideas...{\i0}
+Dialogue: 0,0:15:28.09,0:15:32.76,Default,,0000,0000,0000,,{\i1}Everything is different from before\Nand each day is an eye-opening experience!{\i0}
+Dialogue: 0,0:15:32.76,0:15:35.47,Default,,0000,0000,0000,,{\i1}Everything is beyond my imagination!{\i0}
+Dialogue: 0,0:15:35.47,0:15:39.62,Default,,0000,0000,0000,,{\i1}I am only a tiny piece of the world!{\i0}
+Dialogue: 0,0:15:42.83,0:15:44.04,Default,,0000,0000,0000,,How old am I?
+Dialogue: 0,0:15:44.42,0:15:45.63,Default,,0000,0000,0000,,I am 26 years old.
+Dialogue: 0,0:15:45.63,0:15:48.88,Default,,0000,0000,0000,,26 years old!\NThat's a perfect age to get married!
+Dialogue: 0,0:15:48.88,0:15:52.89,Default,,0000,0000,0000,,But I was born about 800 years ago.
+Dialogue: 0,0:15:52.89,0:15:57.39,Default,,0000,0000,0000,,It's been 800 years since you were born?!\NYou're seriously old!
+Dialogue: 0,0:16:01.94,0:16:05.44,Default,,0000,0000,0000,,{\i1}Well, even that is possible.{\i0}
+Dialogue: 0,0:16:05.44,0:16:09.53,Default,,0000,0000,0000,,{\i1}The world is big. Anything could happen!{\i0}
+Dialogue: 0,0:16:11.57,0:16:16.80,Default,,0000,0000,0000,,{\i1}This world consists entirely of\Nfour seas and a band of ocean.{\i0}
+Dialogue: 0,0:16:16.80,0:16:21.48,Default,,0000,0000,0000,,{\i1}And I heard that the world is round\Nlike a rice cake ball!{\i0}
+Dialogue: 0,0:16:21.48,0:16:23.58,Default,,0000,0000,0000,,{\i1}How intriguing!{\i0}
+Dialogue: 0,0:16:26.21,0:16:29.13,Default,,0000,0000,0000,,Toki, how's the voyage?
+Dialogue: 0,0:16:29.13,0:16:33.18,Default,,0000,0000,0000,,I am having a good time.\NI want to see more of the world!
+Dialogue: 0,0:16:33.18,0:16:35.64,Default,,0000,0000,0000,,I see! It's good to hear that!
+Dialogue: 0,0:16:35.64,0:16:37.31,Default,,0000,0000,0000,,Is that a map?
+Dialogue: 0,0:16:37.31,0:16:38.58,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:16:38.18,0:16:42.52,On Top,,0000,0000,0000,,SOUTH BLUE   EAST BLUE\NWEST BLUE   NORTH BLUE
+Dialogue: 0,0:16:38.58,0:16:42.52,Default,,0000,0000,0000,,In the world so vast, the \NLand of Wano is tiny.
+Dialogue: 0,0:16:42.52,0:16:45.65,Default,,0000,0000,0000,,Where were you born, Toki?
+Dialogue: 0,0:16:47.15,0:16:48.52,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:16:49.48,0:16:52.74,Default,,0000,0000,0000,,All I know is my parents\Nwere from the Land of Wano.
+Dialogue: 0,0:16:54.74,0:16:59.62,Default,,0000,0000,0000,,That is why the Land of Wano\Nis the only place I want to go...
+Dialogue: 0,0:16:59.62,0:17:03.33,Default,,0000,0000,0000,,But this ship probably won't go there\Nfor a while...
+Dialogue: 0,0:17:06.63,0:17:08.21,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:17:09.71,0:17:13.34,Default,,0000,0000,0000,,That is fine! It is so fun to be with you!
+Dialogue: 0,0:17:14.55,0:17:19.10,Default,,0000,0000,0000,,When I am with you,\NI feel like I am right where I want to be!
+Dialogue: 0,0:17:19.60,0:17:23.36,Default,,0000,0000,0000,,--I wonder why...\N--Yeah, I do not know why either...
+Dialogue: 0,0:17:23.36,0:17:26.02,Default,,0000,0000,0000,,--It's strange...\N--Yes, it is strange!
+Dialogue: 0,0:17:31.07,0:17:32.32,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:32.32,0:17:34.67,Default,,0000,0000,0000,,Where's Oden-{\i1}sama{\i0}?
+Dialogue: 0,0:17:34.67,0:17:35.74,Default,,0000,0000,0000,,Over there?
+Dialogue: 0,0:17:36.53,0:17:38.37,Default,,0000,0000,0000,,Don't go, stupid cat!
+Dialogue: 0,0:17:51.71,0:17:54.42,Default,,0000,0000,0000,,{\i1}Even Whitebeard has a sworn enemy...{\i0}
+Dialogue: 0,0:17:54.76,0:17:57.43,Default,,0000,0000,0000,,It's the Navy! Get away!
+Dialogue: 0,0:17:58.93,0:18:01.06,Default,,0000,0000,0000,,Did we shake them off?
+Dialogue: 0,0:18:01.06,0:18:04.79,Default,,0000,0000,0000,,Why did we have to flee?!\NThey looked strong!
+Dialogue: 0,0:18:04.79,0:18:06.10,Default,,0000,0000,0000,,We should fight them!
+Dialogue: 0,0:18:06.10,0:18:08.60,Default,,0000,0000,0000,,They're the Navy!
+Dialogue: 0,0:18:09.06,0:18:13.32,Default,,0000,0000,0000,,They think they carry the justice of the whole world\Non their shoulders...
+Dialogue: 0,0:18:14.57,0:18:16.26,Default,,0000,0000,0000,,It's a big organization.
+Dialogue: 0,0:18:16.26,0:18:21.03,Default,,0000,0000,0000,,Even if we take them down today,\Nmore and more of them will come.
+Dialogue: 0,0:18:21.66,0:18:25.00,Default,,0000,0000,0000,,So it's the organization \Nthat governs the world?!
+Dialogue: 0,0:18:25.75,0:18:28.29,Default,,0000,0000,0000,,There are such mighty people!
+Dialogue: 0,0:18:29.00,0:18:33.34,Default,,0000,0000,0000,,Wait until you see the world\Nto judge their might...
+Dialogue: 0,0:18:34.21,0:18:37.30,Default,,0000,0000,0000,,Your country is still free!
+Dialogue: 0,0:18:40.14,0:18:44.89,On Top,,0000,0000,0000,,28 YEARS AGO\NSECOND YEAR OF ODEN'S JOURNEY
+Dialogue: 0,0:18:40.14,0:18:44.89,Default,,0000,0000,0000,,{\i1}28 years ago, the second \Nyear of Oden's journey...{\i0}
+Dialogue: 0,0:18:47.43,0:18:49.60,Default,,0000,0000,0000,,The baby was born!
+Dialogue: 0,0:18:49.60,0:18:50.60,Default,,0000,0000,0000,,Tamago!
+Dialogue: 0,0:18:50.60,0:18:51.61,Default,,0000,0000,0000,,Konbu!
+Dialogue: 0,0:18:51.61,0:18:52.61,Default,,0000,0000,0000,,Chikuwa!
+Dialogue: 0,0:18:52.61,0:18:53.82,Default,,0000,0000,0000,,Tsukune!
+Dialogue: 0,0:18:54.15,0:18:57.44,Default,,0000,0000,0000,,Hey, stop!\NI can come up with something better than that!
+Dialogue: 0,0:18:58.15,0:18:59.99,Default,,0000,0000,0000,,It's Toki's and my child!
+Dialogue: 0,0:19:00.66,0:19:02.70,Default,,0000,0000,0000,,The word stands for peerless...
+Dialogue: 0,0:19:04.54,0:19:08.08,Default,,0000,0000,0000,,Your name is Kozuki Momonosuke!
+Dialogue: 0,0:19:11.08,0:19:13.84,Default,,0000,0000,0000,,There are even wanted posters for Oden-{\i1}sama{\i0}.
+Dialogue: 0,0:19:14.25,0:19:17.61,Default,,0000,0000,0000,,You are now considered a criminal overseas.
+Dialogue: 0,0:19:17.61,0:19:20.41,Default,,0000,0000,0000,,If you care about Toki-{\i1}sama \{\i0}Nand Momonosuke-{\i1}sama{\i0},
+Dialogue: 0,0:19:20.41,0:19:23.85,Default,,0000,0000,0000,,why don't you consider returning \Nto the Land of Wano?
+Dialogue: 0,0:19:23.85,0:19:27.48,Default,,0000,0000,0000,,But, Izo, I haven't found the answer yet!
+Dialogue: 0,0:19:27.48,0:19:30.85,Default,,0000,0000,0000,,We will be fine. Do not worry!
+Dialogue: 0,0:19:30.85,0:19:37.03,Default,,0000,0000,0000,,There is a thing called a newspaper,\Nbut we can't get any information about the Land of Wano...
+Dialogue: 0,0:19:37.03,0:19:41.61,Default,,0000,0000,0000,,They have no way to share information\Nregarding their country, just like Zou...
+Dialogue: 0,0:19:42.11,0:19:45.24,Default,,0000,0000,0000,,I wonder how Kin and the \Nothers are doing-{\i1}meow{\i0}...
+Dialogue: 0,0:19:50.37,0:19:53.46,Default,,0000,0000,0000,,{\i1}Meanwhile, in the Land of Wano...{\i0}
+Dialogue: 0,0:19:53.88,0:19:56.00,Default,,0000,0000,0000,,Special Report! Special Report!
+Dialogue: 0,0:19:56.00,0:19:59.17,Default,,0000,0000,0000,,The Shogun Sukiyaki-{\i1}sama \{\i0}Nis in critical condition!
+Dialogue: 0,0:19:59.17,0:20:01.72,Default,,0000,0000,0000,,--Sukiyaki-{\i1}sama{\i0} is...\N--...in critical condition?!
+Dialogue: 0,0:20:01.72,0:20:03.01,Default,,0000,0000,0000,,Sukiyaki-{\i1}sama{\i0}!
+Dialogue: 0,0:20:09.68,0:20:15.06,Default,,0000,0000,0000,,I want Oden to succeed me as Shogun.
+Dialogue: 0,0:20:17.19,0:20:20.24,Default,,0000,0000,0000,,Of course, Sukiyaki-{\i1}sama{\i0}!
+Dialogue: 0,0:20:20.24,0:20:22.99,Default,,0000,0000,0000,,But since Oden is not here now,
+Dialogue: 0,0:20:22.99,0:20:29.33,Default,,0000,0000,0000,,I need a proxy until Oden returns,\Nin case anything happens to me.
+Dialogue: 0,0:20:29.33,0:20:30.29,Default,,0000,0000,0000,,A proxy?
+Dialogue: 0,0:20:33.25,0:20:39.05,Default,,0000,0000,0000,,It will be this man\Nwho Oden cared for as if he was his little brother...
+Dialogue: 0,0:20:40.09,0:20:42.42,Default,,0000,0000,0000,,His name is Kurozumi Orochi!
+Dialogue: 0,0:20:42.72,0:20:44.30,Default,,0000,0000,0000,,Orochi?!
+Dialogue: 0,0:20:44.72,0:20:46.47,Default,,0000,0000,0000,,Why are you here?!
+Dialogue: 0,0:20:48.31,0:20:51.93,Default,,0000,0000,0000,,{\i1}Oden cared for as if he \Nwas his little brother?!{\i0}
+Dialogue: 0,0:21:02.95,0:21:06.20,Default,,0000,0000,0000,,What?! You'll assign commanders?!
+Dialogue: 0,0:21:06.20,0:21:08.26,Default,,0000,0000,0000,,We have more crewmembers now.
+Dialogue: 0,0:21:08.26,0:21:12.63,Default,,0000,0000,0000,,What do you think of\Ndividing them up into five groups?
+Dialogue: 0,0:21:12.63,0:21:15.34,Default,,0000,0000,0000,,That's a good idea, Pops!
+Dialogue: 0,0:21:15.34,0:21:17.50,Default,,0000,0000,0000,,I wanna be a commander!
+Dialogue: 0,0:21:17.50,0:21:19.09,Default,,0000,0000,0000,,Me, too!
+Dialogue: 0,0:21:19.09,0:21:20.55,Default,,0000,0000,0000,,Oden!
+Dialogue: 0,0:21:20.88,0:21:23.34,Default,,0000,0000,0000,,I want you to lead the 2nd division!
+Dialogue: 0,0:21:24.55,0:21:28.14,Default,,0000,0000,0000,,Well... Um... Uh... Um...
+Dialogue: 0,0:21:30.06,0:21:30.85,Default,,0000,0000,0000,,Do it!
+Dialogue: 0,0:21:32.43,0:21:36.73,Default,,0000,0000,0000,,{\i1}Just like we did,\Nsometimes a newcomer joins the group...{\i0}
+Dialogue: 0,0:21:36.73,0:21:40.61,Default,,0000,0000,0000,,Listen! We're no fishermen! We're pirates!
+Dialogue: 0,0:21:40.61,0:21:42.92,Default,,0000,0000,0000,,P-Please!
+Dialogue: 0,0:21:42.92,0:21:45.20,Default,,0000,0000,0000,,I've got no place to go!
+Dialogue: 0,0:21:45.20,0:21:47.12,Default,,0000,0000,0000,,Hey! Stop it!
+Dialogue: 0,0:21:47.12,0:21:48.37,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:21:50.45,0:21:51.99,Default,,0000,0000,0000,,Teech!
+Dialogue: 0,0:21:58.63,0:22:01.59,Default,,0000,0000,0000,,All right. Come aboard!
+Dialogue: 0,0:22:03.88,0:22:06.13,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:22:07.76,0:22:10.55,Default,,0000,0000,0000,,{\i1}We have got another orphan...{\i0}
+Dialogue: 0,0:22:12.85,0:22:15.81,Default,,0000,0000,0000,,Did you see it?! Something's flying!
+Dialogue: 0,0:22:17.31,0:22:20.86,Default,,0000,0000,0000,,{\i1}No matter how far I go on the sea,\NI am never satisfied!{\i0}
+Dialogue: 0,0:22:20.86,0:22:22.57,Default,,0000,0000,0000,,Commander!
+Dialogue: 0,0:22:22.57,0:22:25.11,Default,,0000,0000,0000,,We must examine the place first!
+Dialogue: 0,0:22:25.44,0:22:29.49,Default,,0000,0000,0000,,{\i1}I do not know how to end an adventure!{\i0}
+Dialogue: 0,0:22:36.33,0:22:38.83,Default,,0000,0000,0000,,Nothing in the papers again...
+Dialogue: 0,0:22:39.21,0:22:43.13,Default,,0000,0000,0000,,Is this a story on Whitebeard again?!\NWe're causing trouble, too!
+Dialogue: 0,0:22:43.13,0:22:45.73,Default,,0000,0000,0000,,Hey! I'm still reading!
+Dialogue: 0,0:22:45.73,0:22:48.72,Default,,0000,0000,0000,,Anyway, the samurai from the Land of Wano
+Dialogue: 0,0:22:48.72,0:22:51.70,Default,,0000,0000,0000,,who serves Whitebeard is still \Ndoing reckless things...
+Dialogue: 0,0:22:53.56,0:22:55.22,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:22:58.44,0:23:02.19,Default,,0000,0000,0000,,A samurai from a closed country...
+Dialogue: 0,0:23:03.07,0:23:05.32,Default,,0000,0000,0000,,I hope I'll get to see him one day!
+Dialogue: 0,0:23:05.86,0:23:09.61,On Top,,0000,0000,0000,,GOLD ROGER - A GREAT PIRATE
+Dialogue: 0,0:23:18.46,0:23:22.44,Default,,0000,0000,0000,,{\i1}He is unstoppable!\NOden becomes infamous as a pirate{\i0}
+Dialogue: 0,0:23:22.44,0:23:26.21,Default,,0000,0000,0000,,{\i1}and Gol D. Roger, the great pirate\Ntaking the world by storm, closes in!{\i0}
+Dialogue: 0,0:23:26.21,0:23:29.15,Default,,0000,0000,0000,,{\i1}Their search for the strong leads to \Na spark-flying fateful encounter,{\i0}
+Dialogue: 0,0:23:29.15,0:23:31.80,Default,,0000,0000,0000,,and Boss Whitebeard can't stand by!{\i0}
+Dialogue: 0,0:23:31.80,0:23:36.31,Default,,0000,0000,0000,,{\i1}A huge battle involving \Ntroops on both sides starts!{\i0}
+Dialogue: 0,0:23:36.31,0:23:40.83,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Crossing Swords! Roger and Whitebeard!"
+Dialogue: 0,0:23:40.83,0:23:43.56,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:43.56,0:23:45.57,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:45.57,0:23:47.57,On Top,,0000,0000,0000,,

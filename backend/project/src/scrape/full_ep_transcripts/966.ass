@@ -1,0 +1,356 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.03,0:00:13.86,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:11.03,0:00:13.86,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.90,0:00:16.82,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.90,0:00:16.82,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.87,0:00:21.41,Default,,0,0,0,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.87,0:00:21.41,On Top,,0,0,0,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.45,0:00:24.16,Default,,0,0,0,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.45,0:00:24.16,On Top,,0,0,0,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.80,0:00:33.67,Default,,0,0,0,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.80,0:00:33.67,On Top,,0,0,0,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.72,0:00:36.93,Default,,0,0,0,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.72,0:00:36.93,On Top,,0,0,0,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:36.97,0:00:40.22,Default,,0,0,0,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:36.97,0:00:40.22,On Top,,0,0,0,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.47,0:00:45.02,Default,,0,0,0,,{\i1}Shout it out, to save \Nyour spirit from breaking{\i0}
+Dialogue: 0,0:00:40.47,0:00:45.02,On Top,,0,0,0,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.06,0:00:47.48,Default,,0,0,0,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.06,0:00:47.48,On Top,,0,0,0,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.52,0:00:53.90,Default,,0,0,0,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.52,0:00:53.90,On Top,,0,0,0,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:53.94,0:00:57.99,Default,,0,0,0,,{\i1}Even when the darkness \Ntries to tear you apart{\i0}
+Dialogue: 0,0:00:53.94,0:00:57.99,On Top,,0,0,0,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:58.03,0:00:59.28,Default,,0,0,0,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:58.03,0:00:59.28,On Top,,0,0,0,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.33,0:01:00.78,Default,,0,0,0,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.33,0:01:00.78,On Top,,0,0,0,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.83,0:01:04.50,Default,,0,0,0,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.83,0:01:04.50,On Top,,0,0,0,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.54,0:01:07.25,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.54,0:01:07.25,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.29,0:01:10.46,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.29,0:01:10.46,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.50,0:01:15.76,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.50,0:01:15.76,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:15.80,0:01:18.47,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:15.80,0:01:18.47,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.51,0:01:21.39,Default,,0,0,0,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.51,0:01:21.39,On Top,,0,0,0,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.43,0:01:24.14,Default,,0,0,0,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.43,0:01:24.14,On Top,,0,0,0,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.18,0:01:28.90,Default,,0,0,0,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.18,0:01:28.90,On Top,,0,0,0,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:28.94,0:01:33.23,Default,,0,0,0,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:28.94,0:01:33.23,On Top,,0,0,0,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.65,0:01:38.61,Default,,0,0,0,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.65,0:01:38.61,On Top,,0,0,0,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.28,0:01:42.12,Default,,0,0,0,,{\i1}Transcend meetings and \Npartings and keep going{\i0}
+Dialogue: 0,0:01:39.28,0:01:42.12,On Top,,0,0,0,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.16,0:01:46.46,Default,,0,0,0,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.16,0:01:46.46,On Top,,0,0,0,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.87,0:01:49.67,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.87,0:01:49.67,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.71,0:01:52.80,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.71,0:01:52.80,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.84,0:01:57.51,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.84,0:01:57.51,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.55,0:02:01.68,Default,,0,0,0,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:01:57.55,0:02:01.68,On Top,,0,0,0,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:02:11.90,0:02:16.03,Italics,,0,0,0,,{\i1}After Oden joined, the Whitebeard \NPirates arrived an island{\i0}
+Dialogue: 0,0:02:16.03,0:02:19.20,Italics,,0,0,0,,where the Roger Pirates happened to be.{\i0}
+Dialogue: 0,0:02:20.03,0:02:21.32,Default,,0,0,0,,Captain!
+Dialogue: 0,0:02:21.78,0:02:24.76,Default,,0,0,0,,There's Whitebeard's ship\Non the opposite side of the island!
+Dialogue: 0,0:02:24.76,0:02:27.29,Default,,0,0,0,,Seems like they noticed us!
+Dialogue: 0,0:02:27.29,0:02:30.54,Default,,0,0,0,,We just finished fighting, Roger.
+Dialogue: 0,0:02:31.29,0:02:34.55,Default,,0,0,0,,Whitebeard, huh? It's been a while.
+Dialogue: 0,0:02:38.97,0:02:42.30,Default,,0,0,0,,The birds seem distressed...\NThey must've come ashore.
+Dialogue: 0,0:02:42.59,0:02:44.20,Default,,0,0,0,,All right!
+Dialogue: 0,0:02:44.20,0:02:48.89,Default,,0,0,0,,Let's do it! We're only able to fight each other\Nwhile we draw breath!
+Dialogue: 0,0:02:50.60,0:02:53.21,Default,,0,0,0,,My end is nearing!
+Dialogue: 0,0:02:53.21,0:02:58.49,Default,,0,0,0,,This could be the last time I see you,\NWhitebeard!
+Dialogue: 0,0:03:03.74,0:03:06.54,Default,,0,0,0,,Gun Modoki!
+Dialogue: 0,0:03:18.34,0:03:22.76,Default,,0,0,0,,He's as strong as they say.\NShould we stop him already, Rayleigh?
+Dialogue: 0,0:03:22.76,0:03:23.81,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:03:23.81,0:03:26.72,Default,,0,0,0,,Wait, Gaban, Rayleigh!
+Dialogue: 0,0:03:26.72,0:03:29.48,Default,,0,0,0,,I don't want you to get hurt!
+Dialogue: 0,0:03:31.44,0:03:33.10,Default,,0,0,0,,You just wanna fight him.
+Dialogue: 0,0:03:36.48,0:03:38.48,Default,,0,0,0,,I smell a beast!
+Dialogue: 0,0:03:39.61,0:03:41.36,Default,,0,0,0,,Hey, samurai!
+Dialogue: 0,0:03:42.74,0:03:44.57,Default,,0,0,0,,Divine Departure!
+Dialogue: 0,0:04:07.22,0:04:09.47,Default,,0,0,0,,What the hell was that?!
+Dialogue: 0,0:04:13.52,0:04:14.90,Default,,0,0,0,,Here he comes!
+Dialogue: 0,0:04:32.41,0:04:37.42,Default,,0,0,0,,{\i1}"Roger's Wish!\NA New Journey!"{\i0}
+Dialogue: 0,0:05:25.80,0:05:28.07,Default,,0,0,0,,You look great!
+Dialogue: 0,0:05:28.07,0:05:29.93,Default,,0,0,0,,Roger!
+Dialogue: 0,0:05:29.93,0:05:32.99,Default,,0,0,0,,How long has it been?!
+Dialogue: 0,0:05:32.99,0:05:35.27,Default,,0,0,0,,Newgate!
+Dialogue: 0,0:05:46.49,0:05:47.47,On Top,,0,0,0,,MARCO
+Dialogue: 0,0:05:47.47,0:05:48.38,On Top,,0,0,0,,VISTA
+Dialogue: 0,0:05:48.38,0:05:49.34,On Top,,0,0,0,,JOZU
+Dialogue: 0,0:05:49.34,0:05:50.26,On Top,,0,0,0,,ANDRE
+Dialogue: 0,0:05:50.26,0:05:51.22,On Top,,0,0,0,,RAKUYO
+Dialogue: 0,0:05:51.22,0:05:52.14,On Top,,0,0,0,,FOSSA
+Dialogue: 0,0:05:52.14,0:05:53.10,On Top,,0,0,0,,WHITEY BAY
+Dialogue: 0,0:05:53.10,0:05:53.99,On Top,,0,0,0,,TEECH
+Dialogue: 0,0:05:56.62,0:05:57.60,On Top,,0,0,0,,RAYLEIGH
+Dialogue: 0,0:05:57.60,0:05:58.52,On Top,,0,0,0,,GABAN
+Dialogue: 0,0:05:58.52,0:05:59.48,On Top,,0,0,0,,NOZUDON
+Dialogue: 0,0:05:59.48,0:06:00.40,On Top,,0,0,0,,SAMBEL
+Dialogue: 0,0:06:00.40,0:06:01.34,On Top,,0,0,0,,SHANKS AND BUGGY
+Dialogue: 0,0:06:17.64,0:06:19.85,Default,,0,0,0,,Whatever you've got, hand it over!
+Dialogue: 0,0:06:19.85,0:06:21.19,Default,,0,0,0,,Get them!
+Dialogue: 0,0:06:22.36,0:06:23.61,Default,,0,0,0,,Rob them!
+Dialogue: 0,0:06:24.90,0:06:27.70,Default,,0,0,0,,{\i1}The two great pirates of the age clashed!{\i0}
+Dialogue: 0,0:06:34.45,0:06:37.77,Default,,0,0,0,,{\i1}The Roger Pirates vs. the Whitebeard Pirates.{\i0}
+Dialogue: 0,0:06:37.75,0:06:39.12,On Top,,0,0,0,,SECOND DAY
+Dialogue: 0,0:06:37.77,0:06:41.54,Default,,0,0,0,,{\i1}The tense, fraught battle lasted \Nthree days and three nights.{\i0}
+Dialogue: 0,0:06:44.25,0:06:46.17,Default,,0,0,0,,Don't push your luck!
+Dialogue: 0,0:06:48.76,0:06:51.68,Default,,0,0,0,,I'm always serious.
+Dialogue: 0,0:06:51.68,0:06:52.64,Default,,0,0,0,,Young man.
+Dialogue: 0,0:07:03.06,0:07:05.07,On Top,,0,0,0,,THIRD DAY
+Dialogue: 0,0:07:40.06,0:07:42.48,Default,,0,0,0,,Then, three boxes of \Ndried meat for a barrel?!
+Dialogue: 0,0:07:40.06,0:07:49.99,On Top,,0,0,0,,FOURTH DAY...
+Dialogue: 0,0:07:42.48,0:07:43.52,Default,,0,0,0,,Deal!
+Dialogue: 0,0:07:43.52,0:07:46.52,Default,,0,0,0,,I like this shirt! Where did you get it?!
+Dialogue: 0,0:07:46.52,0:07:49.99,Default,,0,0,0,,--Let me have more!\N--Wait! You took too much!
+Dialogue: 0,0:07:49.99,0:07:53.01,Default,,0,0,0,,It's basically an equal exchange!
+Dialogue: 0,0:07:53.01,0:07:54.49,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:07:54.49,0:07:56.91,Default,,0,0,0,,You've got something, too, right?
+Dialogue: 0,0:07:56.91,0:07:57.87,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:07:58.41,0:08:02.58,Default,,0,0,0,,We were trying to plunder each other,\Nbut now it's a gift exchange...
+Dialogue: 0,0:08:06.00,0:08:08.50,Default,,0,0,0,,Are they apprentices?
+Dialogue: 0,0:08:10.96,0:08:13.80,Default,,0,0,0,,Come to think of it, they \Nwere always with us...
+Dialogue: 0,0:08:14.13,0:08:16.80,Default,,0,0,0,,They don't look strong...
+Dialogue: 0,0:08:17.55,0:08:19.14,Default,,0,0,0,,But they behave...
+Dialogue: 0,0:08:19.52,0:08:21.73,Default,,0,0,0,,...like veterans.
+Dialogue: 0,0:08:22.31,0:08:24.85,Default,,0,0,0,,Hey, Shanks!
+Dialogue: 0,0:08:25.19,0:08:26.74,Default,,0,0,0,,What?
+Dialogue: 0,0:08:26.74,0:08:31.45,Default,,0,0,0,,You see the guy with the hat over there?
+Dialogue: 0,0:08:31.45,0:08:32.49,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:32.74,0:08:37.87,Default,,0,0,0,,I heard he didn't sleep yesterday or the day before\Nduring the ceasefire at night!
+Dialogue: 0,0:08:38.78,0:08:41.46,Default,,0,0,0,,Why? He wanted to show off?!
+Dialogue: 0,0:08:41.46,0:08:42.64,Default,,0,0,0,,No!
+Dialogue: 0,0:08:42.64,0:08:46.67,Default,,0,0,0,,They say he's never slept even once\Nsince he was born!
+Dialogue: 0,0:08:46.67,0:08:49.44,Default,,0,0,0,,What? Is there such a person?
+Dialogue: 0,0:08:49.44,0:08:53.34,Default,,0,0,0,,That's great. I wonder if he enjoys life\Ntwice as much as us!
+Dialogue: 0,0:08:53.34,0:08:57.01,Default,,0,0,0,,Idiot! It's not that simple!
+Dialogue: 0,0:08:57.01,0:09:00.60,Default,,0,0,0,,--He must be a monster!\N--A monster?
+Dialogue: 0,0:09:02.73,0:09:06.98,Default,,0,0,0,,Hey, Oden! Can you really read it?!
+Dialogue: 0,0:09:08.06,0:09:09.59,Default,,0,0,0,,Yes, I can.
+Dialogue: 0,0:09:09.59,0:09:13.61,Default,,0,0,0,,I can read it, but why do \Nyou have this writing?!
+Dialogue: 0,0:09:13.61,0:09:17.33,Default,,0,0,0,,Knowledge of this script has \Nbeen passed down from father to
+Dialogue: 0,0:09:17.33,0:09:19.75,Default,,0,0,0,,only one son per generation \Nin the Kozuki Clan.
+Dialogue: 0,0:09:29.63,0:09:32.05,Default,,0,0,0,,It's already been 13 years...
+Dialogue: 0,0:09:34.30,0:09:39.37,Default,,0,0,0,,We finally made it to Lodestar Island,\Nthe last island that the Log Pose points to,
+Dialogue: 0,0:09:39.37,0:09:42.85,Default,,0,0,0,,which no man has ever set foot upon.
+Dialogue: 0,0:09:39.39,0:09:42.85,On Top,,0,0,0,,LODESTAR ISLAND
+Dialogue: 0,0:09:43.35,0:09:47.33,Default,,0,0,0,,But we noticed when we \Ncheerfully disembarked...
+Dialogue: 0,0:09:47.33,0:09:50.56,Default,,0,0,0,,...that that wasn't the last island!
+Dialogue: 0,0:09:50.94,0:09:56.13,Default,,0,0,0,,The needles on the Log Pose just kept spinning\Nand didn't point to anywhere!
+Dialogue: 0,0:09:56.13,0:09:58.61,Default,,0,0,0,,I was convinced.
+Dialogue: 0,0:09:58.61,0:10:01.10,Default,,0,0,0,,There was one more island!
+Dialogue: 0,0:10:01.10,0:10:07.96,Default,,0,0,0,,When I make it there,\NI'll be the first person ever to travel all around the world!
+Dialogue: 0,0:10:08.58,0:10:15.30,Default,,0,0,0,,And the location of the island is detailed\Nin the writings on four of these red stones!
+Dialogue: 0,0:10:16.05,0:10:22.39,Default,,0,0,0,,But the World Government has always forbidden anyone\Nfrom deciphering them.
+Dialogue: 0,0:10:22.60,0:10:26.29,Default,,0,0,0,,They are called Ponegliffs.
+Dialogue: 0,0:10:26.29,0:10:29.33,Default,,0,0,0,,I thought they were just cultural artifacts,
+Dialogue: 0,0:10:27.02,0:10:30.48,On Top,,0,0,0,,LODESTAR ISLAND
+Dialogue: 0,0:10:29.33,0:10:31.98,Default,,0,0,0,,but they were actually \Nan important map for us
+Dialogue: 0,0:10:31.98,0:10:35.32,Default,,0,0,0,,which indicates the location \Nof the last island.
+Dialogue: 0,0:10:37.86,0:10:41.58,Default,,0,0,0,,The Government is telling us \Nnot to go to the last island
+Dialogue: 0,0:10:41.58,0:10:43.95,Default,,0,0,0,,which could hold a vast amount of treasure!
+Dialogue: 0,0:10:44.20,0:10:46.91,Default,,0,0,0,,That makes it even more tantalizing!
+Dialogue: 0,0:10:46.91,0:10:51.06,Default,,0,0,0,,If we can get there,\Nwe'll be in both name and deed...
+Dialogue: 0,0:10:51.06,0:10:54.67,Default,,0,0,0,,...the world's greatest pirate group!
+Dialogue: 0,0:10:59.84,0:11:01.47,Default,,0,0,0,,The world's greatest?
+Dialogue: 0,0:11:06.43,0:11:09.06,Default,,0,0,0,,You must be surprised, Newgate!
+Dialogue: 0,0:11:09.56,0:11:13.56,Default,,0,0,0,,That's right! Then I'll...
+Dialogue: 0,0:11:33.33,0:11:38.51,Default,,0,0,0,,{\i1}I could not move.\NI was amazed for the second time today.{\i0}
+Dialogue: 0,0:11:38.96,0:11:41.47,Default,,0,0,0,,{\i1}What is with this guy?!{\i0}
+Dialogue: 0,0:11:50.35,0:11:54.81,Default,,0,0,0,,What are you talking about, Roger?!\NThat's a child's fantasy!
+Dialogue: 0,0:12:01.28,0:12:04.20,Default,,0,0,0,,I'm serious, Newgate!
+Dialogue: 0,0:12:04.78,0:12:06.03,Default,,0,0,0,,Please!
+Dialogue: 0,0:12:07.45,0:12:11.60,Default,,0,0,0,,Just for a year will do.\NLet me borrow Oden!
+Dialogue: 0,0:12:11.60,0:12:13.60,Default,,0,0,0,,This is a once-in-a-lifetime request!
+Dialogue: 0,0:12:13.60,0:12:17.54,Default,,0,0,0,,With him, I'm sure I can \Nget to the last island!
+Dialogue: 0,0:12:18.96,0:12:21.92,Default,,0,0,0,,Hey, don't be selfish!
+Dialogue: 0,0:12:22.80,0:12:25.55,Default,,0,0,0,,Please, Newgate!
+Dialogue: 0,0:12:27.10,0:12:28.76,Default,,0,0,0,,I'm begging you!
+Dialogue: 0,0:12:28.76,0:12:32.77,Default,,0,0,0,,Hey, stop, Captain Roger! He's our enemy!
+Dialogue: 0,0:12:35.44,0:12:39.97,Default,,0,0,0,,Stop! That's pathetic!\NDon't bow your head!
+Dialogue: 0,0:12:39.97,0:12:41.99,Default,,0,0,0,,Please, Oden!
+Dialogue: 0,0:12:42.32,0:12:46.20,Default,,0,0,0,,Accompany us on our journey\Njust for a year!
+Dialogue: 0,0:12:47.66,0:12:49.58,Default,,0,0,0,,Screw you!
+Dialogue: 0,0:12:52.71,0:12:56.63,Default,,0,0,0,,Roger! Are you trying to\Ntake my family member away from me?!
+Dialogue: 0,0:12:57.08,0:13:00.09,Default,,0,0,0,,{\i1}But I could not help feeling excited!{\i0}
+Dialogue: 0,0:13:00.88,0:13:04.30,Default,,0,0,0,,{\i1}Why can the Kozuki Clan read the script?{\i0}
+Dialogue: 0,0:13:05.26,0:13:08.43,Default,,0,0,0,,{\i1}Did I meet him now for a reason?{\i0}
+Dialogue: 0,0:13:15.94,0:13:20.57,Default,,0,0,0,,{\i1}Before I knew it,\Nthe words popped out of my mouth!{\i0}
+Dialogue: 0,0:13:21.32,0:13:23.09,Default,,0,0,0,,White-Kichi-chan!
+Dialogue: 0,0:13:23.09,0:13:25.01,Default,,0,0,0,,I wanna go!
+Dialogue: 0,0:13:25.01,0:13:27.59,Default,,0,0,0,,Please allow me to go!
+Dialogue: 0,0:13:27.59,0:13:31.58,Default,,0,0,0,,I wanna see the last island\Nthat he talked about!
+Dialogue: 0,0:13:35.41,0:13:37.17,Default,,0,0,0,,He's annoyed!
+Dialogue: 0,0:13:37.17,0:13:39.54,Default,,0,0,0,,Of course, I am!
+Dialogue: 0,0:13:39.79,0:13:42.42,Default,,0,0,0,,You and I are like brothers!
+Dialogue: 0,0:13:42.42,0:13:44.88,Default,,0,0,0,,It's just for a year, White-Kichi-chan!
+Dialogue: 0,0:13:53.60,0:13:55.35,Default,,0,0,0,,Please!
+Dialogue: 0,0:14:14.70,0:14:16.29,Default,,0,0,0,,Take care!
+Dialogue: 0,0:14:16.29,0:14:17.83,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:14:18.17,0:14:20.50,Default,,0,0,0,,We are going to stay!
+Dialogue: 0,0:14:21.17,0:14:23.02,Default,,0,0,0,,We like this ship.
+Dialogue: 0,0:14:23.02,0:14:25.88,Default,,0,0,0,,We will wait for your return here.
+Dialogue: 0,0:14:31.51,0:14:33.16,Default,,0,0,0,,Sure thing.
+Dialogue: 0,0:14:33.16,0:14:35.56,Default,,0,0,0,,You guys are full-fledged pirates now.
+Dialogue: 0,0:14:36.68,0:14:39.02,Default,,0,0,0,,Let's do as we like!
+Dialogue: 0,0:14:44.48,0:14:47.82,Default,,0,0,0,,Pops! Aren't you gonna send him off?
+Dialogue: 0,0:14:50.78,0:14:54.08,Default,,0,0,0,,Roger left us gifts in thanks.
+Dialogue: 0,0:14:54.08,0:14:55.92,Default,,0,0,0,,A huge amount of treasure!
+Dialogue: 0,0:14:55.92,0:14:58.38,Default,,0,0,0,,An immense quantity of food!
+Dialogue: 0,0:14:58.38,0:14:59.85,Default,,0,0,0,,What?!
+Dialogue: 0,0:14:59.85,0:15:02.19,Default,,0,0,0,,You idiots!
+Dialogue: 0,0:15:02.19,0:15:04.94,Default,,0,0,0,,Give the food back to them!
+Dialogue: 0,0:15:04.94,0:15:10.32,Default,,0,0,0,,I won't forgive them\Nif they let Kozuki Oden's family go hungry!
+Dialogue: 0,0:15:10.32,0:15:11.81,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:15:11.81,0:15:14.89,Default,,0,0,0,,--Yes!\N--Right away!
+Dialogue: 0,0:15:19.23,0:15:21.31,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:15:24.94,0:15:27.67,Default,,0,0,0,,See you!
+Dialogue: 0,0:15:27.67,0:15:30.07,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:15:30.65,0:15:33.32,Default,,0,0,0,,Do your best!
+Dialogue: 0,0:15:33.78,0:15:38.45,Default,,0,0,0,,Can't wait to hear the story of your journey!
+Dialogue: 0,0:15:38.45,0:15:40.83,Default,,0,0,0,,Take care!
+Dialogue: 0,0:15:51.47,0:15:55.03,Default,,0,0,0,,{\i1}The second chapter of my life as a pirate...{\i0}
+Dialogue: 0,0:15:55.03,0:15:58.06,Default,,0,0,0,,{\i1}A new adventure began!{\i0}
+Dialogue: 0,0:15:58.06,0:16:03.52,Default,,0,0,0,,{\i1}White-Kichi-{\i0}chan{\i1} is great,\Nbut Roger has incalculable depth, too.{\i0}
+Dialogue: 0,0:16:04.02,0:16:06.48,Default,,0,0,0,,{\i1}I'm so lucky!{\i0}
+Dialogue: 0,0:16:10.19,0:16:13.43,Default,,0,0,0,,Oh, good girl, good girl.
+Dialogue: 0,0:16:13.43,0:16:15.53,Default,,0,0,0,,Up, up!
+Dialogue: 0,0:16:16.49,0:16:19.41,Default,,0,0,0,,We haven't held a baby for a long time!
+Dialogue: 0,0:16:19.41,0:16:22.58,Default,,0,0,0,,Yeah, it brings back memories.
+Dialogue: 0,0:16:23.00,0:16:26.54,Default,,0,0,0,,Momonosuke and Hiyori, huh!
+Dialogue: 0,0:16:32.17,0:16:35.22,Default,,0,0,0,,Peek, peek-a-boo!
+Dialogue: 0,0:16:35.59,0:16:39.60,Default,,0,0,0,,--There, up you go!\N--Good boy, good boy...
+Dialogue: 0,0:16:39.60,0:16:43.27,Default,,0,0,0,,Okay? Here we go! Boo!
+Dialogue: 0,0:16:49.86,0:16:52.15,Default,,0,0,0,,--What the?!\N--Something's in here!
+Dialogue: 0,0:16:52.57,0:16:54.41,Default,,0,0,0,,Huh?! What is it?!
+Dialogue: 0,0:17:03.91,0:17:07.17,Default,,0,0,0,,Captain Roger! We have a stowaway!
+Dialogue: 0,0:17:13.59,0:17:16.51,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:17:16.84,0:17:18.20,Default,,0,0,0,,Dogstorm!
+Dialogue: 0,0:17:18.20,0:17:20.06,Default,,0,0,0,,Cat Viper!
+Dialogue: 0,0:17:21.97,0:17:23.69,Default,,0,0,0,,Why are you here?!
+Dialogue: 0,0:17:23.69,0:17:28.61,Default,,0,0,0,,We enjoy hanging out with Oden-sama\Nmore than anything!
+Dialogue: 0,0:17:28.86,0:17:32.48,Default,,0,0,0,,White-Kichi-chan must be mad by now!
+Dialogue: 0,0:17:32.99,0:17:35.53,Default,,0,0,0,,The dog and the cat have disappeared!
+Dialogue: 0,0:17:37.03,0:17:40.53,Default,,0,0,0,,Those fools!
+Dialogue: 0,0:17:47.21,0:17:51.42,Default,,0,0,0,,I know this wasn't the plan,\Nbut can they stay, too?
+Dialogue: 0,0:17:53.76,0:17:56.80,Default,,0,0,0,,I think you have the wrong idea.
+Dialogue: 0,0:18:07.23,0:18:12.69,Default,,0,0,0,,Oden. Captain is only using you\Nfor your knowledge.
+Dialogue: 0,0:18:13.19,0:18:14.82,Default,,0,0,0,,Understood?
+Dialogue: 0,0:18:18.61,0:18:26.62,On Top,,0,0,0,,MOCK TOWN, JAYA
+Dialogue: 0,0:18:20.74,0:18:23.20,Default,,0,0,0,,Hey, have you gotten money, Shanks?!
+Dialogue: 0,0:18:23.20,0:18:26.62,Default,,0,0,0,,Yeah, let's go buy food!
+Dialogue: 0,0:18:26.91,0:18:29.19,Default,,0,0,0,,Potatoes and...
+Dialogue: 0,0:18:29.19,0:18:30.98,Default,,0,0,0,,...burdock!
+Dialogue: 0,0:18:30.98,0:18:32.63,Default,,0,0,0,,I'll take these.
+Dialogue: 0,0:18:32.63,0:18:34.36,Default,,0,0,0,,Where's my money?!
+Dialogue: 0,0:18:34.36,0:18:35.71,Default,,0,0,0,,Mister?!
+Dialogue: 0,0:18:36.22,0:18:38.26,Default,,0,0,0,,Next, radishes!
+Dialogue: 0,0:18:38.55,0:18:42.05,Default,,0,0,0,,Thief! Hey, wait!
+Dialogue: 0,0:18:44.47,0:18:47.44,Default,,0,0,0,,He's stealing from an ordinary citizen!
+Dialogue: 0,0:18:47.44,0:18:49.52,Default,,0,0,0,,Captain's gonna kill him.
+Dialogue: 0,0:18:50.44,0:18:51.81,Default,,0,0,0,,That fool!
+Dialogue: 0,0:18:54.65,0:18:57.74,Default,,0,0,0,,Oden! Don't mess with ordinary people!
+Dialogue: 0,0:18:57.74,0:19:00.11,Default,,0,0,0,,I need more ingredients!
+Dialogue: 0,0:19:00.11,0:19:01.70,Default,,0,0,0,,Ingredients for what?!
+Dialogue: 0,0:19:01.70,0:19:04.47,Default,,0,0,0,,Egg! {\i1}Konnyaku{\i0}!
+Dialogue: 0,0:19:04.47,0:19:07.79,Default,,0,0,0,,{\i1}Chikuwa{\i0}! Beef tendon!
+Dialogue: 0,0:19:07.79,0:19:10.29,Default,,0,0,0,,Thief!
+Dialogue: 0,0:19:11.54,0:19:15.55,Default,,0,0,0,,Hey, I said you must pay \Nmoney to ordinary people!
+Dialogue: 0,0:19:15.55,0:19:19.93,Default,,0,0,0,,I wanna cook super delicious \N{\i1}oden{\i0} for you guys!
+Dialogue: 0,0:19:19.93,0:19:22.22,Default,,0,0,0,,{\i1}Oden{\i0} is food?!
+Dialogue: 0,0:19:22.22,0:19:25.56,Default,,0,0,0,,Yeah! It's the most delicious meal\Nin the Land of Wano!
+Dialogue: 0,0:19:26.35,0:19:28.31,Default,,0,0,0,,There he is! It's him!
+Dialogue: 0,0:19:35.52,0:19:38.32,Default,,0,0,0,,You've got some nerve!
+Dialogue: 0,0:19:40.78,0:19:44.04,Default,,0,0,0,,What?! Is this town lawless?
+Dialogue: 0,0:19:44.04,0:19:45.78,Default,,0,0,0,,Gaban, they're...
+Dialogue: 0,0:19:45.78,0:19:49.33,Default,,0,0,0,,Yeah, they don't look like ordinary people.
+Dialogue: 0,0:20:02.68,0:20:03.93,Default,,0,0,0,,Oden!
+Dialogue: 0,0:20:03.93,0:20:06.06,Default,,0,0,0,,Run, Oden!
+Dialogue: 0,0:20:07.56,0:20:08.52,Default,,0,0,0,,Oden!
+Dialogue: 0,0:20:08.52,0:20:10.14,Default,,0,0,0,,He took it full on!
+Dialogue: 0,0:20:12.14,0:20:13.73,Default,,0,0,0,,Oden!
+Dialogue: 0,0:20:32.71,0:20:34.33,Default,,0,0,0,,Oden! You...
+Dialogue: 0,0:20:35.08,0:20:36.38,Default,,0,0,0,,He's alive!
+Dialogue: 0,0:20:36.38,0:20:37.54,Default,,0,0,0,,Wow!
+Dialogue: 0,0:20:39.51,0:20:42.93,Default,,0,0,0,,Gaban, they're not ordinary people, right?
+Dialogue: 0,0:20:44.05,0:20:45.43,Default,,0,0,0,,No, they're not...
+Dialogue: 0,0:20:47.14,0:20:48.51,Default,,0,0,0,,Oden.
+Dialogue: 0,0:20:49.01,0:20:49.89,Default,,0,0,0,,Okay.
+Dialogue: 0,0:20:53.44,0:20:55.52,Default,,0,0,0,,I haven't gotten kelp yet.
+Dialogue: 0,0:20:55.52,0:20:58.82,Default,,0,0,0,,--Kelp?!\N--I can make good broth out of it.
+Dialogue: 0,0:21:04.11,0:21:05.45,Default,,0,0,0,,You're so strange.
+Dialogue: 0,0:21:06.57,0:21:09.16,Default,,0,0,0,,Gee! Who cares!
+Dialogue: 0,0:21:09.45,0:21:11.20,Default,,0,0,0,,Get them!
+Dialogue: 0,0:21:22.09,0:21:24.39,Default,,0,0,0,,It smells good!
+Dialogue: 0,0:21:24.39,0:21:28.01,Default,,0,0,0,,Okay! I think it's ready.
+Dialogue: 0,0:21:28.47,0:21:31.06,Default,,0,0,0,,This is the Land of Wano's...
+Dialogue: 0,0:21:31.43,0:21:33.31,Default,,0,0,0,,...most delicious meal!
+Dialogue: 0,0:21:37.48,0:21:40.44,Default,,0,0,0,,All right, everyone, dig in!
+Dialogue: 0,0:21:48.57,0:21:51.41,Default,,0,0,0,,How is it? Is it delicious?
+Dialogue: 0,0:21:56.50,0:21:59.92,Default,,0,0,0,,So delicious!
+Dialogue: 0,0:21:59.92,0:22:04.13,Default,,0,0,0,,I didn't know that {\i1}oden{\i0} is so good!
+Dialogue: 0,0:22:04.13,0:22:05.97,Default,,0,0,0,,It's the perfect drinking food!
+Dialogue: 0,0:22:05.97,0:22:08.09,Default,,0,0,0,,Good! So you like it!
+Dialogue: 0,0:22:11.06,0:22:13.10,Default,,0,0,0,,It's too hot!
+Dialogue: 0,0:22:13.10,0:22:14.77,Default,,0,0,0,,Your tongue's too sensitive!
+Dialogue: 0,0:22:17.90,0:22:19.67,Default,,0,0,0,,Guys!
+Dialogue: 0,0:22:19.67,0:22:23.61,Default,,0,0,0,,Let's have a big welcome party\Nfor our new members!
+Dialogue: 0,0:22:23.61,0:22:25.69,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:28.57,0:22:29.70,Default,,0,0,0,,Oden!
+Dialogue: 0,0:22:29.70,0:22:31.37,Default,,0,0,0,,Roger!
+Dialogue: 0,0:22:31.37,0:22:33.87,Default,,0,0,0,,Let's party all night!
+Dialogue: 0,0:22:33.87,0:22:35.17,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:35.17,0:22:36.91,Default,,0,0,0,,Oden!
+Dialogue: 0,0:22:37.25,0:22:38.96,Default,,0,0,0,,Oden!
+Dialogue: 0,0:22:39.29,0:22:41.25,Default,,0,0,0,,Oden!
+Dialogue: 0,0:22:41.25,0:22:43.34,Default,,0,0,0,,Oden!
+Dialogue: 0,0:22:43.34,0:22:46.22,Default,,0,0,0,,{\i1}Oh, radish, {\i0}ganmo{\i1}!{\i0}
+Dialogue: 0,0:22:47.59,0:22:50.26,Default,,0,0,0,,Chikuwa{\i1} and eggs!{\i0}
+Dialogue: 0,0:22:51.39,0:22:55.50,Default,,0,0,0,,{\i1}One, two, three, go ahead and eat!{\i0}
+Dialogue: 0,0:22:55.50,0:22:58.44,Default,,0,0,0,,Oden{\i1} wouldn't be {\i0}oden{\i1}...{\i0}
+Dialogue: 0,0:22:59.52,0:23:03.61,Default,,0,0,0,,{\i1}...if it wasn't boiled!{\i0}
+Dialogue: 0,0:23:04.02,0:23:06.82,Default,,0,0,0,,Yo! Kozuki!
+Dialogue: 0,0:23:18.37,0:23:22.52,Default,,0,0,0,,{\i1}A big, crazy adventure,\Nsinging out loud with jolly crewmembers!{\i0}
+Dialogue: 0,0:23:22.52,0:23:26.19,Default,,0,0,0,,{\i1}Soaring up into the sky and being excited\Nby the mystery at the sea bottom.{\i0}
+Dialogue: 0,0:23:26.19,0:23:28.46,Italics,,0,0,0,,{\i1}Oden deciphers the secret of the world which{\i0}
+Dialogue: 0,0:23:28.46,0:23:31.51,Italics,,0,0,0,,will lead them to the farthest \Nland the Ponegliffs hint at!{\i0}
+Dialogue: 0,0:23:31.51,0:23:35.81,Default,,0,0,0,,{\i1}Keep going!\NThe Roger Pirates advance!{\i0}
+Dialogue: 0,0:23:36.52,0:23:40.75,Default,,0,0,0,,On the next episode of One Piece!\N"Devoting His Life! Roger's Adventure!"
+Dialogue: 0,0:23:40.75,0:23:44.40,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.40,0:23:46.40,Default,,0,0,0,,
+Dialogue: 0,0:23:46.40,0:23:48.40,On Top,,0,0,0,,

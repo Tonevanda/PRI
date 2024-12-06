@@ -1,0 +1,241 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.38,0:00:20.61,Default,,0000,0000,0000,,Did you know there's an awesome\Ntreasure at the end of this sea?!
+Dialogue: 0,0:00:20.61,0:00:25.18,Default,,0000,0000,0000,,And whoever gets it can be King\Nof the Pirates! Isn't that exciting?!
+Dialogue: 0,0:00:25.18,0:00:28.39,Default,,0000,0000,0000,,Unheard-of adventures are waiting!
+Dialogue: 0,0:00:30.39,0:00:38.26,Default,,0000,0000,0000,,Bon voyage! Let that shred of courage grow
+Dialogue: 0,0:00:38.26,0:00:45.90,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:00:45.90,0:00:53.68,Default,,0000,0000,0000,,The horizons everyone\Ndreamed of were separate at first
+Dialogue: 0,0:00:53.68,0:01:00.82,Default,,0000,0000,0000,,but now they can be seen\Nthrough a single telescope
+Dialogue: 0,0:01:00.82,0:01:10.16,Default,,0000,0000,0000,,A bitter compass of destiny\Nis leading your heart astray
+Dialogue: 0,0:01:10.16,0:01:13.06,Default,,0000,0000,0000,,so turn the wheel in the other direction!
+Dialogue: 0,0:01:13.06,0:01:15.13,Default,,0000,0000,0000,,Bon voyage!
+Dialogue: 0,0:01:15.13,0:01:20.37,Default,,0000,0000,0000,,Toss aside your bonds and your past
+Dialogue: 0,0:01:20.37,0:01:27.38,Default,,0000,0000,0000,,We can surely smile despite that
+Dialogue: 0,0:01:27.38,0:01:36.86,Default,,0000,0000,0000,,Tears shed trying to achieve\Nyour dreams aren't for naught
+Dialogue: 0,0:01:36.86,0:01:42.26,Default,,0000,0000,0000,,Precious in my life
+Dialogue: 0,0:01:42.26,0:01:50.04,Default,,0000,0000,0000,,I caught a glimpse of\Nthe tail end to the future
+Dialogue: 0,0:01:51.87,0:01:55.04,On Top,,0000,0000,0000,,"Upper Yard" "Angel Island"
+Dialogue: 0,0:01:57.98,0:01:59.51,Default,,0000,0000,0000,,Impact.
+Dialogue: 0,0:02:02.78,0:02:06.22,Default,,0000,0000,0000,,Burn Blade!
+Dialogue: 0,0:02:14.53,0:02:17.96,Default,,0000,0000,0000,,Did you think you could\Nmove faster than lightning?
+Dialogue: 0,0:02:20.53,0:02:24.84,Default,,0000,0000,0000,,Run! Wyper!
+Dialogue: 0,0:02:24.84,0:02:27.27,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:02:29.61,0:02:32.44,Default,,0000,0000,0000,,Their voices... are disappearing!
+Dialogue: 0,0:02:33.58,0:02:38.25,Default,,0000,0000,0000,,Whoops. It seems the electricity\Ntraveled along the Milky Road.
+Dialogue: 0,0:02:38.25,0:02:40.49,Default,,0000,0000,0000,,Fools...
+Dialogue: 0,0:02:43.09,0:02:47.89,Default,,0000,0000,0000,,"A Mystical City!\NThe Grand Ruins of Shandora!!"
+Dialogue: 0,0:02:51.76,0:02:55.43,Default,,0000,0000,0000,,--Amazing!\N--You're incredible, Nami-san!
+Dialogue: 0,0:02:57.44,0:03:00.01,Default,,0000,0000,0000,,It's all yours now!
+Dialogue: 0,0:03:00.01,0:03:02.64,Default,,0000,0000,0000,,Yes, thanks!
+Dialogue: 0,0:03:02.64,0:03:06.91,Default,,0000,0000,0000,,I love it! It's so much faster!
+Dialogue: 0,0:03:06.91,0:03:11.02,Default,,0000,0000,0000,,Yes. Jet Dials went extinct\Nhundreds of years ago,
+Dialogue: 0,0:03:11.02,0:03:17.22,Default,,0000,0000,0000,,so I was shocked that the waver\Nyou left with me had one onboard!
+Dialogue: 0,0:03:17.22,0:03:20.86,Default,,0000,0000,0000,,But, what do we do now?
+Dialogue: 0,0:03:20.86,0:03:25.70,Default,,0000,0000,0000,,We planned to lead you all\Nto the end of Skypiea, but...
+Dialogue: 0,0:03:25.70,0:03:27.37,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:27.37,0:03:31.54,Default,,0000,0000,0000,,For now, we need to get the ship\Nto the coast we agreed to meet at.
+Dialogue: 0,0:03:31.54,0:03:34.54,Default,,0000,0000,0000,,I really think they're all right...
+Dialogue: 0,0:03:34.54,0:03:38.11,Default,,0000,0000,0000,,Though, with those four together,\Nno one can stop them!
+Dialogue: 0,0:03:38.11,0:03:40.58,Default,,0000,0000,0000,,There's no four-person group on the island.
+Dialogue: 0,0:03:40.58,0:03:43.11,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:03:43.11,0:03:45.28,Default,,0000,0000,0000,,At most, there's a two-person group.
+Dialogue: 0,0:03:45.28,0:03:49.72,Default,,0000,0000,0000,,If there were four people\Nmoving together, I'd know!
+Dialogue: 0,0:03:49.72,0:03:55.09,Default,,0000,0000,0000,,It's Mantra... The thing\NGod and those priests use?
+Dialogue: 0,0:03:56.16,0:03:59.50,Default,,0000,0000,0000,,I was born able to use it!
+Dialogue: 0,0:03:59.50,0:04:01.97,Default,,0000,0000,0000,,That's why I'm afraid...
+Dialogue: 0,0:04:01.97,0:04:06.54,Default,,0000,0000,0000,,You have no idea how scary\Nit is hearing voices disappear!
+Dialogue: 0,0:04:06.54,0:04:09.34,Default,,0000,0000,0000,,Are you gonna cry again?
+Dialogue: 0,0:04:09.34,0:04:12.64,Default,,0000,0000,0000,,I am not crying, you stupid Blue Sea person!
+Dialogue: 0,0:04:12.64,0:04:16.18,Default,,0000,0000,0000,,Her waver broke down, and we passed by
+Dialogue: 0,0:04:16.18,0:04:20.22,Default,,0000,0000,0000,,just as a skyshark was about to attack her...
+Dialogue: 0,0:04:20.22,0:04:22.35,Default,,0000,0000,0000,,What were you planning to do?!
+Dialogue: 0,0:04:22.35,0:04:27.03,Default,,0000,0000,0000,,I don't know! But I can't just\Nsit around doing nothing!
+Dialogue: 0,0:04:29.89,0:04:32.86,Default,,0000,0000,0000,,Laki... Everyone...
+Dialogue: 0,0:04:37.60,0:04:40.91,Default,,0000,0000,0000,,I hope everyone's alright...
+Dialogue: 0,0:04:56.45,0:05:00.19,Default,,0000,0000,0000,,Man, this is no good...
+Dialogue: 0,0:05:00.19,0:05:05.93,Default,,0000,0000,0000,,My bag's on the outside, and the\Ntrees are all rotted and fruitless...
+Dialogue: 0,0:05:05.93,0:05:10.24,Default,,0000,0000,0000,,I was so looking forward to\Nthat boxed meal for breakfast...
+Dialogue: 0,0:05:10.24,0:05:16.84,Default,,0000,0000,0000,,What a weird cave I wound up in.\NI can't find the exit anywhere...
+Dialogue: 0,0:05:16.84,0:05:19.41,Default,,0000,0000,0000,,I wonder if everyone's\Nat the city of gold by now.
+Dialogue: 0,0:05:19.41,0:05:22.18,Default,,0000,0000,0000,,I bet it's pretty, all made out of gold...
+Dialogue: 0,0:05:22.18,0:05:27.85,Default,,0000,0000,0000,,That reminds me, I once heard at\Na bar that gold stew tastes great...
+Dialogue: 0,0:05:40.37,0:05:45.10,Default,,0000,0000,0000,,I've walked a long way.\NGuess I'll have that lunch...
+Dialogue: 0,0:05:49.21,0:05:51.38,Default,,0000,0000,0000,,Not too shabby!
+Dialogue: 0,0:05:51.38,0:05:52.98,Default,,0000,0000,0000,,Who's there?!
+Dialogue: 0,0:05:58.28,0:06:02.92,Default,,0000,0000,0000,,What's that supposed to mean?\NDon't tell me you're after my food?!
+Dialogue: 0,0:06:02.92,0:06:05.32,Default,,0000,0000,0000,,Well, forget it!
+Dialogue: 0,0:06:05.32,0:06:07.49,Default,,0000,0000,0000,,Quit lookin' this way!
+Dialogue: 0,0:06:17.34,0:06:20.04,Default,,0000,0000,0000,,Quit following me!
+Dialogue: 0,0:06:20.04,0:06:24.61,Default,,0000,0000,0000,,Listen! I just ate all my food!\NI don't got any more!
+Dialogue: 0,0:06:24.61,0:06:29.61,Default,,0000,0000,0000,,I wouldn't give you any, anyway!\NGot it?! Now get lost!
+Dialogue: 0,0:06:29.61,0:06:34.62,Default,,0000,0000,0000,,Walkin' all weird-like...\NWhich way are you even facing?!
+Dialogue: 0,0:06:35.62,0:06:38.92,Default,,0000,0000,0000,,You wanna take me on?! Huh?!
+Dialogue: 0,0:06:41.66,0:06:49.63,Default,,0000,0000,0000,,In three hours, only five of the 81\Npeople on this island will be standing.
+Dialogue: 0,0:06:49.63,0:06:52.57,Default,,0000,0000,0000,,Only one hour left until\Nthe time I proclaimed is up...
+Dialogue: 0,0:06:52.57,0:06:56.61,Default,,0000,0000,0000,,Current number of survivors... 25.
+Dialogue: 0,0:06:59.11,0:07:03.18,Default,,0000,0000,0000,,This can't be! What is God Eneru doing here?!
+Dialogue: 0,0:07:03.18,0:07:05.05,Default,,0000,0000,0000,,He's going down!
+Dialogue: 0,0:07:15.93,0:07:19.53,Default,,0000,0000,0000,,Twenty-four left.
+Dialogue: 0,0:07:26.60,0:07:31.24,Default,,0000,0000,0000,,Oh, my. You're nothing but talk, Missy...
+Dialogue: 0,0:07:34.01,0:07:37.32,Default,,0000,0000,0000,,Stomach Mountain!
+Dialogue: 0,0:07:44.26,0:07:45.92,Default,,0000,0000,0000,,A runic statue!
+Dialogue: 0,0:07:45.92,0:07:49.26,Default,,0000,0000,0000,,Veinte Fleurs! Calendula!
+Dialogue: 0,0:08:01.84,0:08:07.18,Default,,0000,0000,0000,,How long are you going to keep\Nprotecting this withered old city?
+Dialogue: 0,0:08:08.35,0:08:16.89,Default,,0000,0000,0000,,You don't seem to have any respect\Nfor the vestiges of our ancestors.
+Dialogue: 0,0:08:16.89,0:08:20.33,Default,,0000,0000,0000,,I have no care for the past!
+Dialogue: 0,0:08:20.33,0:08:24.10,Default,,0000,0000,0000,,Fools always say that.
+Dialogue: 0,0:08:25.96,0:08:28.40,Default,,0000,0000,0000,,Who do you take me for?!
+Dialogue: 0,0:08:28.40,0:08:30.87,Default,,0000,0000,0000,,Punch Mountain!
+Dialogue: 0,0:08:31.87,0:08:33.87,Default,,0000,0000,0000,,I need to move away from the ruins
+Dialogue: 0,0:08:33.87,0:08:37.24,Default,,0000,0000,0000,,before this simpleton destroys it all!
+Dialogue: 0,0:08:54.03,0:08:56.43,Default,,0000,0000,0000,,Back then, I thought my goal had been lost
+Dialogue: 0,0:08:56.43,0:09:00.53,Default,,0000,0000,0000,,with the underground temple of Alubarna...
+Dialogue: 0,0:09:03.33,0:09:07.24,Default,,0000,0000,0000,,Having lost everything,\NI decided to travel with Luffy.
+Dialogue: 0,0:09:07.24,0:09:09.67,Default,,0000,0000,0000,,But these ruins could hold clues\Nabout the unspoken history
+Dialogue: 0,0:09:09.67,0:09:13.01,Default,,0000,0000,0000,,that's been lost to the world below!
+Dialogue: 0,0:09:28.36,0:09:31.46,Default,,0000,0000,0000,,How far are you going to run?
+Dialogue: 0,0:10:02.33,0:10:07.27,Default,,0000,0000,0000,,Is this as far as you run?
+Dialogue: 0,0:10:07.27,0:10:08.67,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:08.67,0:10:11.54,Default,,0000,0000,0000,,It's too late now.
+Dialogue: 0,0:10:11.54,0:10:13.74,Default,,0000,0000,0000,,Too late?
+Dialogue: 0,0:10:13.74,0:10:16.94,Default,,0000,0000,0000,,Even if you repent, I won't forgive you!
+Dialogue: 0,0:10:18.64,0:10:24.02,Default,,0000,0000,0000,,You won't forgive me? You certainly\Ndo adore those shabby ruins.
+Dialogue: 0,0:10:24.02,0:10:27.19,Default,,0000,0000,0000,,Especially when they\Ndon't even belong to you...
+Dialogue: 0,0:10:27.19,0:10:31.02,Default,,0000,0000,0000,,That's right. The ruins belong to no one.
+Dialogue: 0,0:10:31.02,0:10:35.63,Default,,0000,0000,0000,,I don't feel like talking with you anymore.
+Dialogue: 0,0:10:35.63,0:10:40.30,Default,,0000,0000,0000,,Don't worry. You won't have to anymore...
+Dialogue: 0,0:10:40.30,0:10:44.04,Default,,0000,0000,0000,,...because you're going to\Nbe crushed to death now!
+Dialogue: 0,0:10:44.04,0:10:47.27,Default,,0000,0000,0000,,Drop Mountain!
+Dialogue: 0,0:10:47.27,0:10:50.04,Default,,0000,0000,0000,,I can go all out here!
+Dialogue: 0,0:10:50.04,0:10:52.08,Default,,0000,0000,0000,,Treinta Fleurs!
+Dialogue: 0,0:10:55.05,0:10:57.58,Default,,0000,0000,0000,,All you can do is rush forward like a bull...
+Dialogue: 0,0:10:59.05,0:11:03.32,Default,,0000,0000,0000,,Realize the weight of\Nthe history you destroyed!
+Dialogue: 0,0:11:03.32,0:11:05.02,Default,,0000,0000,0000,,Hang!
+Dialogue: 0,0:11:09.29,0:11:11.63,Default,,0000,0000,0000,,He weighs so much!
+Dialogue: 0,0:11:25.94,0:11:28.58,Default,,0000,0000,0000,,Take this! 10-Axe Combo!
+Dialogue: 0,0:11:29.88,0:11:32.55,Default,,0000,0000,0000,,Axe Mountain!
+Dialogue: 0,0:11:49.47,0:11:51.34,Default,,0000,0000,0000,,My eyes!
+Dialogue: 0,0:11:53.20,0:11:55.04,Default,,0000,0000,0000,,What are you-- Huh?!
+Dialogue: 0,0:11:55.04,0:11:58.01,Default,,0000,0000,0000,,Wait! The dials... they're backwards!
+Dialogue: 0,0:11:58.01,0:12:00.44,Default,,0000,0000,0000,,Wait! The dials--!
+Dialogue: 0,0:12:20.43,0:12:24.47,Default,,0000,0000,0000,,What you went around destroying\Nwere great, priceless treasures.
+Dialogue: 0,0:12:24.47,0:12:29.04,Default,,0000,0000,0000,,Relics so rare it's impossible\Nto measure their worth.
+Dialogue: 0,0:12:29.04,0:12:33.61,Default,,0000,0000,0000,,History may repeat itself,\Nbut people can't go back in time.
+Dialogue: 0,0:12:33.61,0:12:36.95,Default,,0000,0000,0000,,You don't understand that.
+Dialogue: 0,0:12:36.95,0:12:40.89,Default,,0000,0000,0000,,I... I understand...
+Dialogue: 0,0:12:40.89,0:12:45.59,Default,,0000,0000,0000,,I won't ever... do it again...
+Dialogue: 0,0:12:45.59,0:12:47.79,Default,,0000,0000,0000,,--Please forgive...\N--I will not.
+Dialogue: 0,0:12:50.96,0:12:55.10,Default,,0000,0000,0000,,In that case... I just need to kill you!
+Dialogue: 0,0:13:00.10,0:13:02.94,Default,,0000,0000,0000,,My fingers! My fingers!
+Dialogue: 0,0:13:02.94,0:13:05.01,Default,,0000,0000,0000,,Cien Fleurs!
+Dialogue: 0,0:13:07.45,0:13:09.51,Default,,0000,0000,0000,,Delphinium!
+Dialogue: 0,0:13:09.51,0:13:13.45,Default,,0000,0000,0000,,What the...?! Stop!
+Dialogue: 0,0:13:13.45,0:13:17.39,Default,,0000,0000,0000,,Wait! Where are you--
+Dialogue: 0,0:13:17.39,0:13:21.06,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:13:21.06,0:13:24.80,Default,,0000,0000,0000,,It's too late for that now...
+Dialogue: 0,0:13:24.80,0:13:29.80,Default,,0000,0000,0000,,Can't breathe...
+Dialogue: 0,0:13:33.24,0:13:34.91,Default,,0000,0000,0000,,Clutch!
+Dialogue: 0,0:13:46.75,0:13:48.95,Default,,0000,0000,0000,,Just awful...
+Dialogue: 0,0:14:02.43,0:14:05.84,Default,,0000,0000,0000,,This should be the center of the city,
+Dialogue: 0,0:14:05.84,0:14:09.41,Default,,0000,0000,0000,,but it doesn't match up with\Nthe map on the monument at all.
+Dialogue: 0,0:14:09.41,0:14:13.51,Default,,0000,0000,0000,,Did everything get broken up in\Nthe shock of coming into the sky?
+Dialogue: 0,0:14:25.89,0:14:29.89,Default,,0000,0000,0000,,I don't get it... Then why did you come here?
+Dialogue: 0,0:14:30.90,0:14:34.47,Default,,0000,0000,0000,,What one expects and what\None hopes are different things.
+Dialogue: 0,0:14:34.47,0:14:38.07,Default,,0000,0000,0000,,What I was seeking was the Rio Poneglyph.
+Dialogue: 0,0:14:39.30,0:14:43.07,Default,,0000,0000,0000,,The only "stone that tells the\Nreal history" among the Poneglyphs
+Dialogue: 0,0:14:43.07,0:14:45.64,Default,,0000,0000,0000,,that are scattered throughout the world.
+Dialogue: 0,0:14:46.98,0:14:50.21,Default,,0000,0000,0000,,That's the Rio Poneglyph...
+Dialogue: 0,0:14:50.21,0:14:53.82,Default,,0000,0000,0000,,What do you mean by the "real history"?
+Dialogue: 0,0:14:55.25,0:15:01.16,Default,,0000,0000,0000,,I give up... I've searched for it\Nfor 20 years and I'm out of clues...
+Dialogue: 0,0:15:01.16,0:15:05.20,Default,,0000,0000,0000,,This place was my last hope... and a failure...
+Dialogue: 0,0:15:05.20,0:15:08.23,Default,,0000,0000,0000,,Dying here like this would\Nbe a fitting end for me...
+Dialogue: 0,0:15:09.47,0:15:13.50,Default,,0000,0000,0000,,Living like this has exhausted me...
+Dialogue: 0,0:15:16.94,0:15:20.41,Default,,0000,0000,0000,,All I want is to learn the history...
+Dialogue: 0,0:15:21.78,0:15:25.98,Default,,0000,0000,0000,,But there're too many enemies...\Nto achieve my dream...
+Dialogue: 0,0:16:28.31,0:16:31.05,Default,,0000,0000,0000,,That's strange...
+Dialogue: 0,0:16:31.05,0:16:34.09,Default,,0000,0000,0000,,This is the city of gold?!
+Dialogue: 0,0:16:34.09,0:16:37.79,Default,,0000,0000,0000,,The size and topography\Nare all completely different.
+Dialogue: 0,0:16:37.79,0:16:39.96,Default,,0000,0000,0000,,And what's most unnatural of all...
+Dialogue: 0,0:16:49.00,0:16:51.67,Default,,0000,0000,0000,,The only entrance is at the top...
+Dialogue: 0,0:16:57.27,0:16:58.81,Default,,0000,0000,0000,,Could it be?!
+Dialogue: 0,0:17:27.61,0:17:29.81,Default,,0000,0000,0000,,I can go below!
+Dialogue: 0,0:17:43.22,0:17:48.89,Default,,0000,0000,0000,,It's so vast... These ruins\Nreally do go much deeper!
+Dialogue: 0,0:17:48.89,0:17:51.50,Default,,0000,0000,0000,,I thought it was strange how Blue Sea ruins
+Dialogue: 0,0:17:51.50,0:17:54.80,Default,,0000,0000,0000,,had Island Clouds for ground...
+Dialogue: 0,0:17:54.80,0:17:58.17,Default,,0000,0000,0000,,The ruins above are nothing more\Nthan the upper parts of the city,
+Dialogue: 0,0:17:58.17,0:18:00.70,Default,,0000,0000,0000,,eaten up by Island Clouds...
+Dialogue: 0,0:18:00.70,0:18:03.07,Default,,0000,0000,0000,,There's still more below!
+Dialogue: 0,0:18:31.14,0:18:32.87,Default,,0000,0000,0000,,Light?!
+Dialogue: 0,0:19:03.30,0:19:08.37,Default,,0000,0000,0000,,800 years ago, the city\Nof Shandora suddenly fell.
+Dialogue: 0,0:19:08.37,0:19:15.95,Default,,0000,0000,0000,,It hardly seems that way.\NIt's still so majestic and grand!
+Dialogue: 0,0:19:15.95,0:19:18.78,Default,,0000,0000,0000,,This is Shandora, the city of gold!
+Dialogue: 0,0:19:42.24,0:19:44.11,Default,,0000,0000,0000,,Could it be?!
+Dialogue: 0,0:19:53.05,0:19:55.32,Default,,0000,0000,0000,,Let me ask you a question...
+Dialogue: 0,0:19:55.32,0:19:58.99,Default,,0000,0000,0000,,By any chance... can the\Nuntold history be uncovered?
+Dialogue: 0,0:19:58.99,0:20:02.19,Default,,0000,0000,0000,,Are you saying that the\NPoneglyphs hold that record?
+Dialogue: 0,0:20:12.04,0:20:17.91,Default,,0000,0000,0000,,They wrote with the ancient\NPoneglyph symbols so easily!
+Dialogue: 0,0:20:17.91,0:20:24.25,Default,,0000,0000,0000,,But only the ones who made the\NPoneglyphs could use these symbols!
+Dialogue: 0,0:20:24.25,0:20:27.72,Default,,0000,0000,0000,,"Hold our true motive in your\Nhearts and speak not of it.
+Dialogue: 0,0:20:27.72,0:20:30.99,Default,,0000,0000,0000,,We are the ones who weave history...
+Dialogue: 0,0:20:30.99,0:20:34.12,Default,,0000,0000,0000,,With the sounding of the grand belfry..."
+Dialogue: 0,0:20:35.96,0:20:45.27,Default,,0000,0000,0000,,That's right! Noland's logbook did\Nmention a giant gold bell here...
+Dialogue: 0,0:20:45.27,0:20:48.97,Default,,0000,0000,0000,,All of the city's writings were burned...
+Dialogue: 0,0:20:50.97,0:20:54.41,Default,,0000,0000,0000,,The city's history was eradicated!
+Dialogue: 0,0:21:01.45,0:21:05.62,Default,,0000,0000,0000,,They'll manage somehow, right?
+Dialogue: 0,0:21:11.16,0:21:13.26,Default,,0000,0000,0000,,Quit following me!
+Dialogue: 0,0:21:15.87,0:21:18.00,Default,,0000,0000,0000,,Now it goes down?
+Dialogue: 0,0:21:19.70,0:21:23.17,Default,,0000,0000,0000,,A Poneglyph was carried into the city!
+Dialogue: 0,0:21:23.17,0:21:27.41,Default,,0000,0000,0000,,There's no question about it!\NThis city fought against hostility!
+Dialogue: 0,0:21:28.91,0:21:32.92,Default,,0000,0000,0000,,Shandora, the city of gold, fought and fell
+Dialogue: 0,0:21:32.92,0:21:35.12,Default,,0000,0000,0000,,trying to protect that Poneglyph!
+Dialogue: 0,0:21:38.19,0:21:43.36,Default,,0000,0000,0000,,In which case, the grand belfry\Nlocated in the center of the four altars
+Dialogue: 0,0:21:43.36,0:21:46.90,Default,,0000,0000,0000,,might contain the "text of real history"...
+Dialogue: 0,0:21:48.77,0:21:51.20,Default,,0000,0000,0000,,The Rio Poneglyph!
+Dialogue: 0,0:21:54.10,0:21:57.88,Default,,0000,0000,0000,,Racing full speed ahead as always
+Dialogue: 0,0:21:57.88,0:22:01.78,Default,,0000,0000,0000,,A to Z, we run through it
+Dialogue: 0,0:22:01.78,0:22:05.48,Default,,0000,0000,0000,,We all have worries and fall many times
+Dialogue: 0,0:22:05.48,0:22:09.39,Default,,0000,0000,0000,,But we just need to rise to the top someday
+Dialogue: 0,0:22:09.39,0:22:17.06,Default,,0000,0000,0000,,What could be beyond the sea\Nin which the morning sun rises?
+Dialogue: 0,0:22:17.06,0:22:25.67,Default,,0000,0000,0000,,Let's go little by little toward\Nthe brilliantly shining sun
+Dialogue: 0,0:22:25.67,0:22:28.41,Default,,0000,0000,0000,,I never treat you "bad"
+Dialogue: 0,0:22:28.41,0:22:30.11,Default,,0000,0000,0000,,How many times did we fall?
+Dialogue: 0,0:22:30.11,0:22:40.82,Default,,0000,0000,0000,,It's all right, we're definitely\Npointing at tomorrow now
+Dialogue: 0,0:22:40.82,0:22:43.59,Default,,0000,0000,0000,,Smile! Come back to you, friends
+Dialogue: 0,0:22:43.59,0:22:47.39,Default,,0000,0000,0000,,Come back to you, friends\NCome back to you, friends
+Dialogue: 0,0:22:47.39,0:22:49.29,Default,,0000,0000,0000,,Come back to you, friends
+Dialogue: 0,0:22:49.29,0:22:53.23,Default,,0000,0000,0000,,Come back to you, friends\NCome back to you, friends
+Dialogue: 0,0:22:53.23,0:22:56.53,Default,,0000,0000,0000,,Come back to you, friends
+Dialogue: 0,0:23:10.11,0:23:13.25,Default,,0000,0000,0000,,Hey, you stupid bird! Where're you taking me?!
+Dialogue: 0,0:23:13.25,0:23:16.15,Default,,0000,0000,0000,,What's with this cave?! Where's the exit?!
+Dialogue: 0,0:23:16.15,0:23:19.02,Default,,0000,0000,0000,,Yikes! The giant snake!\NIt seems irritable for some reason!
+Dialogue: 0,0:23:19.02,0:23:22.69,Default,,0000,0000,0000,,Aah! Why is this snake coming after us?!
+Dialogue: 0,0:23:22.69,0:23:26.00,Default,,0000,0000,0000,,Huh? Looks like we got us\Nsome ferocious ones here...
+Dialogue: 0,0:23:26.00,0:23:27.36,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.36,0:23:31.00,Default,,0000,0000,0000,,"0% Survival Rate! Chopper vs. Ohm,\Nthe Sword Wielding Priest"
+Dialogue: 0,0:23:31.00,0:23:33.34,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.34,0:23:35.34,Default,,0000,0000,0000,,

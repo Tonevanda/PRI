@@ -1,0 +1,412 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.73,0:00:03.76,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:00:03.76,0:00:05.66,Default,,0000,0000,0000,,Gold Roger,\Nthe King of the Pirates,
+Dialogue: 0,0:00:05.66,0:00:07.97,Default,,0000,0000,0000,,attained everything\Nthis world has to offer.
+Dialogue: 0,0:00:07.97,0:00:11.84,Default,,0000,0000,0000,,The words he uttered just before\Nhis death drove people to the seas.
+Dialogue: 0,0:00:11.84,0:00:15.67,Default,,0000,0000,0000,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:15.67,0:00:19.24,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:21.85,0:00:26.59,Default,,0000,0000,0000,,And so men head for the Grand Line\Nin pursuit of their dreams!
+Dialogue: 0,0:00:26.59,0:00:30.49,Default,,0000,0000,0000,,The world has truly entered\Na Great Pirate Era!
+Dialogue: 0,0:00:30.49,0:00:35.86,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:00:35.86,0:00:41.77,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:00:41.77,0:00:43.10,Default,,0000,0000,0000,,ONE PIECE!
+Dialogue: 0,0:00:48.04,0:00:53.61,Default,,0000,0000,0000,,Compasses only cause delays
+Dialogue: 0,0:00:53.61,0:00:59.35,Default,,0000,0000,0000,,Delirious with fever,\NI take the helm
+Dialogue: 0,0:00:59.35,0:01:11.46,Default,,0000,0000,0000,,If the dusty treasure map has\Nbeen verified, it's not a legend!
+Dialogue: 0,0:01:11.46,0:01:17.17,Default,,0000,0000,0000,,When it comes to personal storms,
+Dialogue: 0,0:01:17.17,0:01:22.47,Default,,0000,0000,0000,,simply ride aboard\Nsomeone else's biorhythm
+Dialogue: 0,0:01:22.47,0:01:26.14,Default,,0000,0000,0000,,and pretend it isn't there!
+Dialogue: 0,0:01:26.14,0:01:31.65,Default,,0000,0000,0000,,We're going to gather up\Nall our dreams
+Dialogue: 0,0:01:31.65,0:01:37.36,Default,,0000,0000,0000,,and set out in search\Nof something to find
+Dialogue: 0,0:01:37.36,0:01:43.60,Default,,0000,0000,0000,,A coin in my pocket,\Nand do you wanna be my friend?
+Dialogue: 0,0:01:43.60,0:01:48.97,Default,,0000,0000,0000,,We are, We are on the cruise!
+Dialogue: 0,0:01:48.97,0:01:50.04,Default,,0000,0000,0000,,We are!
+Dialogue: 0,0:01:54.67,0:01:56.11,Default,,0000,0000,0000,,What great weather!
+Dialogue: 0,0:01:56.11,0:01:57.44,Default,,0000,0000,0000,,If we keep going this way,
+Dialogue: 0,0:01:57.44,0:02:00.25,Default,,0000,0000,0000,,we should see the\Nnavy base island soon!
+Dialogue: 0,0:02:00.25,0:02:02.88,Default,,0000,0000,0000,,Wow, Coby! You're amazing!
+Dialogue: 0,0:02:02.88,0:02:04.55,Default,,0000,0000,0000,,We're actually gonna\Nreach our destination?
+Dialogue: 0,0:02:04.55,0:02:05.72,Default,,0000,0000,0000,,But of course!
+Dialogue: 0,0:02:05.72,0:02:08.55,Default,,0000,0000,0000,,These are the bare\Nminimum skills all sailors need!
+Dialogue: 0,0:02:10.42,0:02:13.56,Default,,0000,0000,0000,,This is no time\Nto be laughing, Luffy-san.
+Dialogue: 0,0:02:13.56,0:02:15.99,Default,,0000,0000,0000,,He's being held prisoner there.
+Dialogue: 0,0:02:15.99,0:02:19.16,Default,,0000,0000,0000,,The famous pirate hunter...
+Dialogue: 0,0:02:19.16,0:02:21.83,Default,,0000,0000,0000,,Roronoa Zoro!
+Dialogue: 0,0:02:24.70,0:02:31.98,Default,,0000,0000,0000,,The man who's chopped up\Nbounties like a bloodthirsty beast...
+Dialogue: 0,0:02:31.98,0:02:35.88,Default,,0000,0000,0000,,People say he's a\Ndemon in human form!
+Dialogue: 0,0:02:39.65,0:02:44.19,Default,,0000,0000,0000,,"Enter the Great Swordsman!\NPirate Hunter Roronoa Zoro"
+Dialogue: 0,0:02:50.63,0:02:54.13,Default,,0000,0000,0000,,We made it! The navy base city!
+Dialogue: 0,0:02:58.77,0:03:00.34,Default,,0000,0000,0000,,Seriously, Luffy-san!
+Dialogue: 0,0:03:00.34,0:03:03.21,Default,,0000,0000,0000,,You're crazy to want him to join you!
+Dialogue: 0,0:03:03.21,0:03:06.14,Default,,0000,0000,0000,,I still haven't decided yet.\NI just wanna see if he's a good guy...
+Dialogue: 0,0:03:06.14,0:03:08.81,Default,,0000,0000,0000,,He's been caught\Nbecause he's a bad guy!
+Dialogue: 0,0:03:11.92,0:03:13.92,Default,,0000,0000,0000,,Mm! Yum!
+Dialogue: 0,0:03:13.92,0:03:16.59,Default,,0000,0000,0000,,Do you know if Zoro's at the base?
+Dialogue: 0,0:03:22.23,0:03:25.86,Default,,0000,0000,0000,,It would seem the name "Zoro" is taboo here...
+Dialogue: 0,0:03:25.86,0:03:27.57,Default,,0000,0000,0000,,Well, let's check out the base anyway.
+Dialogue: 0,0:03:27.57,0:03:29.33,Default,,0000,0000,0000,,You're gonna be a marine, right?
+Dialogue: 0,0:03:29.33,0:03:32.84,Default,,0000,0000,0000,,Y-Yes... But I'm not really ready yet...
+Dialogue: 0,0:03:32.84,0:03:33.97,Default,,0000,0000,0000,,Rumor has it...
+Dialogue: 0,0:03:33.97,0:03:37.18,Default,,0000,0000,0000,,...a guy named\NCaptain Morgan is at this base, and...
+Dialogue: 0,0:03:43.62,0:03:45.48,Default,,0000,0000,0000,,What a funny town!
+Dialogue: 0,0:03:45.48,0:03:46.95,Default,,0000,0000,0000,,It's strange...
+Dialogue: 0,0:03:46.95,0:03:51.59,Default,,0000,0000,0000,,I understand Zoro, but why are\Nthey afraid of a navy captain's name?
+Dialogue: 0,0:03:51.59,0:03:54.46,Default,,0000,0000,0000,,I suddenly feel uneasy about this...
+Dialogue: 0,0:03:54.46,0:03:56.90,Default,,0000,0000,0000,,You sure they didn't jump just for fun?
+Dialogue: 0,0:03:56.90,0:03:59.06,Default,,0000,0000,0000,,Nobody would do that!
+Dialogue: 0,0:04:00.43,0:04:02.90,Default,,0000,0000,0000,,Alright! This's the place!
+Dialogue: 0,0:04:02.90,0:04:06.04,Default,,0000,0000,0000,,I'm finally here!
+Dialogue: 0,0:04:06.04,0:04:08.34,Default,,0000,0000,0000,,I guess this is where\Nwe part ways, Luffy-san.
+Dialogue: 0,0:04:08.34,0:04:10.91,Default,,0000,0000,0000,,It was only for a short time, but...
+Dialogue: 0,0:04:10.91,0:04:12.41,Default,,0000,0000,0000,,Upsy-daisy!
+Dialogue: 0,0:04:12.41,0:04:14.55,Default,,0000,0000,0000,,Luffy-san! What in the world are you doing?!
+Dialogue: 0,0:04:14.55,0:04:17.25,Default,,0000,0000,0000,,Now where's this demon?!
+Dialogue: 0,0:04:17.25,0:04:19.42,Default,,0000,0000,0000,,He wouldn't be out here.
+Dialogue: 0,0:04:19.42,0:04:21.52,Default,,0000,0000,0000,,I'm sure he's in\Na prison cell or something...
+Dialogue: 0,0:04:21.52,0:04:22.52,Default,,0000,0000,0000,,There he is!
+Dialogue: 0,0:04:22.52,0:04:23.76,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,0:04:26.56,0:04:27.56,Default,,0000,0000,0000,,See! There he is!
+Dialogue: 0,0:04:27.56,0:04:30.06,Default,,0000,0000,0000,,Yeah, right!\NHe wouldn't be out--
+Dialogue: 0,0:04:35.57,0:04:39.07,Default,,0000,0000,0000,,A black hood and a haramaki...
+Dialogue: 0,0:04:40.74,0:04:44.11,Default,,0000,0000,0000,,That's Roronoa Zoro!
+Dialogue: 0,0:04:44.11,0:04:46.61,Default,,0000,0000,0000,,He can get away easy\Nif we untie those ropes!
+Dialogue: 0,0:04:46.61,0:04:48.85,Default,,0000,0000,0000,,D-Don't be stupid!
+Dialogue: 0,0:04:48.85,0:04:50.95,Default,,0000,0000,0000,,There's no telling what'll\Nhappen if we let him loose!
+Dialogue: 0,0:04:50.95,0:04:53.82,Default,,0000,0000,0000,,I bet he'd try to kill you too, Luffy-san!
+Dialogue: 0,0:04:53.82,0:04:55.92,Default,,0000,0000,0000,,Don't worry! I'm strong!
+Dialogue: 0,0:04:55.92,0:04:58.69,Default,,0000,0000,0000,,I can't believe this guy!
+Dialogue: 0,0:04:58.69,0:05:00.56,Default,,0000,0000,0000,,Hey, you guys.
+Dialogue: 0,0:05:01.79,0:05:03.80,Default,,0000,0000,0000,,You're an eyesore.
+Dialogue: 0,0:05:05.70,0:05:07.03,Default,,0000,0000,0000,,Get lost!
+Dialogue: 0,0:05:08.13,0:05:11.80,Default,,0000,0000,0000,,Luffy-san! There's no way you\Ncould survive with him on your crew!
+Dialogue: 0,0:05:22.68,0:05:24.85,Default,,0000,0000,0000,,Oh no! Stop her, Luffy-san!
+Dialogue: 0,0:05:24.85,0:05:26.68,Default,,0000,0000,0000,,She'll be killed!
+Dialogue: 0,0:05:27.89,0:05:28.92,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:28.92,0:05:32.76,Default,,0000,0000,0000,,You must be hungry!\NI made you some rice balls!
+Dialogue: 0,0:05:32.76,0:05:35.43,Default,,0000,0000,0000,,Do you wanna get killed, pipsqueak? Scram!
+Dialogue: 0,0:05:35.43,0:05:38.46,Default,,0000,0000,0000,,You haven't eaten anything this whole time.
+Dialogue: 0,0:05:38.46,0:05:41.77,Default,,0000,0000,0000,,Here! This is my first time,
+Dialogue: 0,0:05:41.77,0:05:45.50,Default,,0000,0000,0000,,but I worked really hard to make them!
+Dialogue: 0,0:05:45.50,0:05:47.37,Default,,0000,0000,0000,,I ain't hungry!
+Dialogue: 0,0:05:47.37,0:05:49.11,Default,,0000,0000,0000,,You're an eyesore!\NGet the hell outta here!
+Dialogue: 0,0:05:49.11,0:05:49.77,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:05:49.77,0:05:52.84,Default,,0000,0000,0000,,I don't want 'em!\NDon't make me kick your ass!
+Dialogue: 0,0:05:52.84,0:05:55.11,Default,,0000,0000,0000,,It's not nice to be a bully!
+Dialogue: 0,0:05:58.28,0:06:02.12,Default,,0000,0000,0000,,You seem surprisingly well, Roronoa Zoro...
+Dialogue: 0,0:06:02.12,0:06:04.26,Default,,0000,0000,0000,,Now there's another weird guy!
+Dialogue: 0,0:06:04.26,0:06:05.46,Default,,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:06:05.46,0:06:09.39,Default,,0000,0000,0000,,He must be with the navy!\NNow that girl will be safe!
+Dialogue: 0,0:06:09.39,0:06:12.63,Default,,0000,0000,0000,,Oh? Those are some\Ntasty-looking rice balls.
+Dialogue: 0,0:06:12.63,0:06:13.97,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:06:16.27,0:06:17.64,Default,,0000,0000,0000,,Too damn sweet!
+Dialogue: 0,0:06:17.64,0:06:19.04,Default,,0000,0000,0000,,Those're full of sugar!
+Dialogue: 0,0:06:19.04,0:06:21.34,Default,,0000,0000,0000,,You're supposed to use salt for rice balls!
+Dialogue: 0,0:06:21.34,0:06:25.48,Default,,0000,0000,0000,,But I thought they\Nmight taste better sweet...
+Dialogue: 0,0:06:25.48,0:06:27.98,Default,,0000,0000,0000,,--Take this! And this!\N--Stop! Stop!
+Dialogue: 0,0:06:27.98,0:06:30.32,Default,,0000,0000,0000,,H-How horrible!
+Dialogue: 0,0:06:35.29,0:06:39.12,Default,,0000,0000,0000,,And I worked so hard to make those...
+Dialogue: 0,0:06:41.43,0:06:44.23,Default,,0000,0000,0000,,Did you not read this notice?
+Dialogue: 0,0:06:44.23,0:06:47.83,Default,,0000,0000,0000,,"Those who help\Ncriminals will be executed!
+Dialogue: 0,0:06:47.83,0:06:49.83,Default,,0000,0000,0000,,Navy Captain Morgan"
+Dialogue: 0,0:06:52.10,0:06:55.64,Default,,0000,0000,0000,,Looks like even little brats\Nknow how scary my dad is!
+Dialogue: 0,0:06:55.64,0:06:56.84,Default,,0000,0000,0000,,Dad?
+Dialogue: 0,0:06:56.84,0:06:59.91,Default,,0000,0000,0000,,Then that's Captain Morgan's son?!
+Dialogue: 0,0:06:59.91,0:07:01.98,Default,,0000,0000,0000,,You. Throw this kid out.
+Dialogue: 0,0:07:01.98,0:07:03.95,Default,,0000,0000,0000,,Sir?!
+Dialogue: 0,0:07:03.95,0:07:06.65,Default,,0000,0000,0000,,I said throw her over the wall!
+Dialogue: 0,0:07:06.65,0:07:09.95,Default,,0000,0000,0000,,Or can you not follow my orders?!\NDon't make me tell my dad!
+Dialogue: 0,0:07:09.95,0:07:11.96,Default,,0000,0000,0000,,Y-Yes, sir! Right away!
+Dialogue: 0,0:07:13.39,0:07:14.39,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:14.39,0:07:18.43,Default,,0000,0000,0000,,I-I'm sorry, little girl.\NCurl yourself into a ball.
+Dialogue: 0,0:07:26.37,0:07:28.21,Default,,0000,0000,0000,,T-Thanks...
+Dialogue: 0,0:07:28.21,0:07:30.61,Default,,0000,0000,0000,,Are you all right, Luffy-san?!
+Dialogue: 0,0:07:30.61,0:07:32.44,Default,,0000,0000,0000,,Are you all right?!
+Dialogue: 0,0:07:32.44,0:07:34.78,Default,,0000,0000,0000,,I can't believe how\Nhorrible that guy is!
+Dialogue: 0,0:07:34.78,0:07:36.98,Default,,0000,0000,0000,,Do you hurt anywhere?
+Dialogue: 0,0:07:36.98,0:07:38.32,Default,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:07:42.22,0:07:45.86,Default,,0000,0000,0000,,You sure are stubborn about staying alive...
+Dialogue: 0,0:07:45.86,0:07:49.13,Default,,0000,0000,0000,,Yeah! I will live the full month!
+Dialogue: 0,0:07:49.13,0:07:51.46,Default,,0000,0000,0000,,Well, good luck with that.
+Dialogue: 0,0:07:54.10,0:07:56.00,Default,,0000,0000,0000,,Ten days left, you know!
+Dialogue: 0,0:07:56.00,0:07:58.67,Default,,0000,0000,0000,,Assuming you can live that long!
+Dialogue: 0,0:08:00.64,0:08:04.74,Default,,0000,0000,0000,,How can he be so cruel, Luffy-san?!
+Dialogue: 0,0:08:04.74,0:08:06.08,Default,,0000,0000,0000,,He's gone?!
+Dialogue: 0,0:08:08.51,0:08:10.65,Default,,0000,0000,0000,,I hear you're a bad guy.
+Dialogue: 0,0:08:10.65,0:08:12.25,Default,,0000,0000,0000,,Are you still here?
+Dialogue: 0,0:08:12.25,0:08:14.79,Default,,0000,0000,0000,,Being stuck out here for all to see...
+Dialogue: 0,0:08:14.79,0:08:16.29,Default,,0000,0000,0000,,Are you really strong at all?!
+Dialogue: 0,0:08:16.29,0:08:17.79,Default,,0000,0000,0000,,Mind your own business!
+Dialogue: 0,0:08:20.96,0:08:23.80,Default,,0000,0000,0000,,If it were me, I'd probably\Nstarve to death in three days!
+Dialogue: 0,0:08:23.80,0:08:27.23,Default,,0000,0000,0000,,I got more spirit than you.
+Dialogue: 0,0:08:27.23,0:08:30.30,Default,,0000,0000,0000,,I will live through this...
+Dialogue: 0,0:08:30.30,0:08:33.20,Default,,0000,0000,0000,,I swear it!
+Dialogue: 0,0:08:33.20,0:08:34.54,Default,,0000,0000,0000,,What a strange person!
+Dialogue: 0,0:08:34.54,0:08:36.84,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:08:36.84,0:08:40.41,Default,,0000,0000,0000,,Could you pick that up for me?
+Dialogue: 0,0:08:40.41,0:08:42.35,Default,,0000,0000,0000,,You're gonna eat this?
+Dialogue: 0,0:08:42.35,0:08:44.28,Default,,0000,0000,0000,,It's mostly a mud ball now.
+Dialogue: 0,0:08:44.28,0:08:46.28,Default,,0000,0000,0000,,Just shut up and give it here!
+Dialogue: 0,0:08:52.56,0:08:53.89,Default,,0000,0000,0000,,Told you so.
+Dialogue: 0,0:08:53.89,0:08:56.59,Default,,0000,0000,0000,,It was good.
+Dialogue: 0,0:08:56.59,0:08:58.43,Default,,0000,0000,0000,,Thanks for the food.
+Dialogue: 0,0:09:00.26,0:09:02.27,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:09:02.27,0:09:05.94,Default,,0000,0000,0000,,Yeah! He ate every last bite!
+Dialogue: 0,0:09:05.94,0:09:07.21,Default,,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:09:07.21,0:09:10.94,Default,,0000,0000,0000,,Is Zoro really as evil\Nas the rumors say?
+Dialogue: 0,0:09:10.94,0:09:12.61,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:09:12.61,0:09:17.38,Default,,0000,0000,0000,,After all, he let himself\Nget crucified in our place...
+Dialogue: 0,0:09:17.38,0:09:19.85,Default,,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:09:19.85,0:09:23.72,Default,,0000,0000,0000,,It's all that Helmeppo's fault.
+Dialogue: 0,0:09:23.72,0:09:27.66,Default,,0000,0000,0000,,He's Captain Morgan's son...
+Dialogue: 0,0:09:27.66,0:09:29.29,Default,,0000,0000,0000,,Outta the way!
+Dialogue: 0,0:09:29.29,0:09:33.30,Default,,0000,0000,0000,,Make way for my adorable pet-sama!
+Dialogue: 0,0:09:33.30,0:09:35.63,Default,,0000,0000,0000,,Get in the way, and you get executed!
+Dialogue: 0,0:09:42.54,0:09:44.28,Default,,0000,0000,0000,,No! Stop that!
+Dialogue: 0,0:09:44.28,0:09:45.64,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:09:45.64,0:09:48.88,Default,,0000,0000,0000,,You gonna complain about\Nwhat my pet-sama's doin'?!
+Dialogue: 0,0:09:48.88,0:09:50.31,Default,,0000,0000,0000,,Rika! Stop that!
+Dialogue: 0,0:09:50.31,0:09:52.32,Default,,0000,0000,0000,,We'll get in trouble\Nif we go against him!
+Dialogue: 0,0:09:58.76,0:10:01.99,Default,,0000,0000,0000,,--Oh, crap!\N--He's in trouble now!
+Dialogue: 0,0:10:03.46,0:10:05.76,Default,,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:10:05.76,0:10:07.77,Default,,0000,0000,0000,,Don't tell me you're...
+Dialogue: 0,0:10:07.77,0:10:09.77,Default,,0000,0000,0000,,...pirate hunter Zoro?
+Dialogue: 0,0:10:09.77,0:10:11.64,Default,,0000,0000,0000,,And if I am?
+Dialogue: 0,0:10:11.64,0:10:14.57,Default,,0000,0000,0000,,Why is a pirate hunter defying the navy?!
+Dialogue: 0,0:10:14.57,0:10:17.01,Default,,0000,0000,0000,,Just shut up and let me eat in peace!
+Dialogue: 0,0:10:18.14,0:10:19.48,Default,,0000,0000,0000,,Why, you...
+Dialogue: 0,0:10:29.79,0:10:35.66,Default,,0000,0000,0000,,You're annoying me.\NBoth you and your pet-sama!
+Dialogue: 0,0:10:40.33,0:10:44.37,Default,,0000,0000,0000,,You do realize that if my\Ndad finds out about this,
+Dialogue: 0,0:10:44.37,0:10:46.94,Default,,0000,0000,0000,,they're gonna get\Nexecuted for sure!
+Dialogue: 0,0:10:49.94,0:10:53.14,Default,,0000,0000,0000,,Whadya say? Let's make a deal!
+Dialogue: 0,0:10:53.14,0:10:56.95,Default,,0000,0000,0000,,You get strung up in place\Nof this mother and daughter!
+Dialogue: 0,0:10:56.95,0:10:59.45,Default,,0000,0000,0000,,For, yeah, one month...
+Dialogue: 0,0:10:59.45,0:11:01.15,Default,,0000,0000,0000,,If you can survive for one month,
+Dialogue: 0,0:11:01.15,0:11:04.66,Default,,0000,0000,0000,,I'll let you live, too.
+Dialogue: 0,0:11:04.66,0:11:06.32,Default,,0000,0000,0000,,Whadya say?
+Dialogue: 0,0:11:07.79,0:11:09.46,Default,,0000,0000,0000,,One month.
+Dialogue: 0,0:11:12.40,0:11:14.40,Default,,0000,0000,0000,,It's been three weeks since then.
+Dialogue: 0,0:11:16.37,0:11:21.51,Default,,0000,0000,0000,,Helmeppo punches and\Nkicks him while he's tied up!
+Dialogue: 0,0:11:21.51,0:11:24.04,Default,,0000,0000,0000,,I... I...
+Dialogue: 0,0:11:24.04,0:11:25.88,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:11:28.75,0:11:32.58,Default,,0000,0000,0000,,I'm hungry!\NLet us all eat for free!
+Dialogue: 0,0:11:34.02,0:11:36.29,Default,,0000,0000,0000,,Hey! Bring me some booze!
+Dialogue: 0,0:11:36.29,0:11:40.29,Default,,0000,0000,0000,,Quit dawdling! Hurry it up!
+Dialogue: 0,0:11:41.73,0:11:43.26,Default,,0000,0000,0000,,Oh, yes.
+Dialogue: 0,0:11:43.26,0:11:44.93,Default,,0000,0000,0000,,I've been bored lately,
+Dialogue: 0,0:11:44.93,0:11:47.43,Default,,0000,0000,0000,,so I've decided\Nto execute Zoro tomorrow.
+Dialogue: 0,0:11:47.43,0:11:49.43,Default,,0000,0000,0000,,Look forward to it!
+Dialogue: 0,0:11:58.78,0:12:00.41,Default,,0000,0000,0000,,W-What the hell're you doing?!
+Dialogue: 0,0:12:00.41,0:12:02.65,Default,,0000,0000,0000,,Luffy-san! Please stop!
+Dialogue: 0,0:12:02.65,0:12:04.08,Default,,0000,0000,0000,,This guy is scum!
+Dialogue: 0,0:12:04.08,0:12:05.98,Default,,0000,0000,0000,,Y-You hit me!
+Dialogue: 0,0:12:05.98,0:12:08.52,Default,,0000,0000,0000,,I'm Captain Morgan's son, you know!
+Dialogue: 0,0:12:08.52,0:12:10.09,Default,,0000,0000,0000,,So what?!
+Dialogue: 0,0:12:10.09,0:12:12.92,Default,,0000,0000,0000,,I'm gonna tell my dad\Nand he's gonna execute you!
+Dialogue: 0,0:12:12.92,0:12:14.93,Default,,0000,0000,0000,,Fight me yourself!
+Dialogue: 0,0:12:14.93,0:12:16.43,Default,,0000,0000,0000,,Luffy-san! Calm down!
+Dialogue: 0,0:12:16.43,0:12:18.63,Default,,0000,0000,0000,,Are you trying to get\Non the navy's bad side?!
+Dialogue: 0,0:12:18.63,0:12:20.13,Default,,0000,0000,0000,,I've made up my mind, Coby!
+Dialogue: 0,0:12:21.63,0:12:25.40,Default,,0000,0000,0000,,I'm... going to have Zoro join my crew!
+Dialogue: 0,0:12:29.94,0:12:32.18,Default,,0000,0000,0000,,I am...
+Dialogue: 0,0:12:32.18,0:12:33.54,Default,,0000,0000,0000,,great!
+Dialogue: 0,0:12:33.54,0:12:36.45,Default,,0000,0000,0000,,Yes! You're exactly right,\NCaptain Morgan, sir!
+Dialogue: 0,0:12:36.45,0:12:40.69,Default,,0000,0000,0000,,But hasn't tribute to me\Nbeen a bit lacking lately?
+Dialogue: 0,0:12:40.69,0:12:46.19,Default,,0000,0000,0000,,W-Well, the citizens'\Nwallets do have their limits...
+Dialogue: 0,0:12:46.19,0:12:49.86,Default,,0000,0000,0000,,The issue is the level of respect for me.
+Dialogue: 0,0:12:49.86,0:12:51.46,Default,,0000,0000,0000,,Wouldn't you agree?
+Dialogue: 0,0:12:53.33,0:12:55.33,Default,,0000,0000,0000,,Dad!
+Dialogue: 0,0:12:55.33,0:12:58.97,Default,,0000,0000,0000,,There's someone I want you to slaughter!
+Dialogue: 0,0:13:32.70,0:13:35.71,Default,,0000,0000,0000,,You're still as weak as ever, Zoro!
+Dialogue: 0,0:13:37.24,0:13:39.91,Default,,0000,0000,0000,,I promised her...
+Dialogue: 0,0:13:39.91,0:13:43.58,Default,,0000,0000,0000,,I can't afford to die\Nin a place like this!
+Dialogue: 0,0:13:54.69,0:13:57.76,Default,,0000,0000,0000,,You again?\NYou sure have lots of free time.
+Dialogue: 0,0:13:57.76,0:14:00.36,Default,,0000,0000,0000,,I'll untie you, so join my crew!
+Dialogue: 0,0:14:00.36,0:14:01.40,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:14:01.40,0:14:04.80,Default,,0000,0000,0000,,I'm looking for people\Nto join my pirate crew.
+Dialogue: 0,0:14:04.80,0:14:08.47,Default,,0000,0000,0000,,Forget it!\NMe, stooping to a criminal's level?!
+Dialogue: 0,0:14:08.47,0:14:10.27,Default,,0000,0000,0000,,Screw that!
+Dialogue: 0,0:14:10.27,0:14:12.21,Default,,0000,0000,0000,,What's wrong with being a pirate?!
+Dialogue: 0,0:14:12.21,0:14:14.61,Default,,0000,0000,0000,,Pirates are despicable!\NAs if I'd wanna be one!
+Dialogue: 0,0:14:14.61,0:14:16.31,Default,,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:14:16.31,0:14:20.28,Default,,0000,0000,0000,,You're already known\Nas an evil bounty hunter!
+Dialogue: 0,0:14:20.28,0:14:22.55,Default,,0000,0000,0000,,People can say whatever they want,
+Dialogue: 0,0:14:22.55,0:14:26.19,Default,,0000,0000,0000,,but I ain't done anything I regret.
+Dialogue: 0,0:14:26.19,0:14:31.23,Default,,0000,0000,0000,,I will live through this\Nand accomplish what I want!
+Dialogue: 0,0:14:32.46,0:14:33.76,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:14:33.76,0:14:36.40,Default,,0000,0000,0000,,But I've decided you're gonna join me!
+Dialogue: 0,0:14:36.40,0:14:37.90,Default,,0000,0000,0000,,Quit deciding on your own!
+Dialogue: 0,0:14:37.90,0:14:39.97,Default,,0000,0000,0000,,I hear you use swords.
+Dialogue: 0,0:14:39.97,0:14:44.14,Default,,0000,0000,0000,,Yeah. But that stupid son took my stuff...
+Dialogue: 0,0:14:44.14,0:14:46.44,Default,,0000,0000,0000,,--I'll go get it back for you!\N--What?!
+Dialogue: 0,0:14:46.44,0:14:49.38,Default,,0000,0000,0000,,So if you want your sword, join my crew!
+Dialogue: 0,0:14:49.38,0:14:51.38,Default,,0000,0000,0000,,You're really getting on my nerves!
+Dialogue: 0,0:14:52.75,0:14:56.45,Default,,0000,0000,0000,,Is he planning to bust\Ninto the base by himself?!
+Dialogue: 0,0:14:56.45,0:14:59.46,Default,,0000,0000,0000,,You idiot! The base is\Nin the other direction!
+Dialogue: 0,0:15:01.53,0:15:04.93,Default,,0000,0000,0000,,Gum-Gum Rocket!
+Dialogue: 0,0:15:04.93,0:15:08.93,Default,,0000,0000,0000,,W-Who the hell is that guy?!
+Dialogue: 0,0:15:18.71,0:15:21.58,Default,,0000,0000,0000,,Alright! Stop there!
+Dialogue: 0,0:15:21.58,0:15:24.62,Default,,0000,0000,0000,,Stand it up in one shot!
+Dialogue: 0,0:15:24.62,0:15:27.28,Default,,0000,0000,0000,,Dad! Why aren't you\Ngoing to get revenge?!
+Dialogue: 0,0:15:27.28,0:15:29.05,Default,,0000,0000,0000,,The guy hit me!
+Dialogue: 0,0:15:29.05,0:15:32.99,Default,,0000,0000,0000,,Not even you've ever hit me in the face!
+Dialogue: 0,0:15:32.99,0:15:38.56,Default,,0000,0000,0000,,Do you know why I've never hit you before?
+Dialogue: 0,0:15:38.56,0:15:41.80,Default,,0000,0000,0000,,Eh? Because you think I'm--
+Dialogue: 0,0:15:41.80,0:15:45.47,Default,,0000,0000,0000,,Yes. Because you're...
+Dialogue: 0,0:15:52.48,0:15:57.48,Default,,0000,0000,0000,,...a stupid son who\Nisn't even worth hitting!
+Dialogue: 0,0:15:57.48,0:15:59.32,Default,,0000,0000,0000,,Don't get the wrong idea!
+Dialogue: 0,0:16:02.69,0:16:06.89,Default,,0000,0000,0000,,Your dad is the one who's great! Me!
+Dialogue: 0,0:16:09.96,0:16:14.77,Default,,0000,0000,0000,,Which reminds me, I hear a rat\Nsnuck into the crucifixion yard.
+Dialogue: 0,0:16:14.77,0:16:18.40,Default,,0000,0000,0000,,I-I-If you mean that pipsqueak,\NI made sure she was dealt with--
+Dialogue: 0,0:16:18.40,0:16:20.10,Default,,0000,0000,0000,,You killed her, I hope?!
+Dialogue: 0,0:16:20.10,0:16:24.21,Default,,0000,0000,0000,,N-No! I mean, she was just a little kid...
+Dialogue: 0,0:16:24.21,0:16:25.88,Default,,0000,0000,0000,,You, there!
+Dialogue: 0,0:16:25.88,0:16:28.15,Default,,0000,0000,0000,,Go into town and exterminate her!
+Dialogue: 0,0:16:28.15,0:16:30.92,Default,,0000,0000,0000,,Y-You can't be serious!\NShe's just a little girl!
+Dialogue: 0,0:16:30.92,0:16:32.98,Default,,0000,0000,0000,,I can't in good conscience...
+Dialogue: 0,0:16:32.98,0:16:37.42,Default,,0000,0000,0000,,Anyone who disobeys my\Norders is a traitor, even little brats.
+Dialogue: 0,0:16:37.42,0:16:40.26,Default,,0000,0000,0000,,B-But... I can't do it!
+Dialogue: 0,0:16:45.26,0:16:46.66,Default,,0000,0000,0000,,Lieutenant!
+Dialogue: 0,0:16:46.66,0:16:49.17,Default,,0000,0000,0000,,Y-You didn't have to go that far!
+Dialogue: 0,0:16:49.17,0:16:53.97,Default,,0000,0000,0000,,It was with my strength that\NI rose to my rank of captain!
+Dialogue: 0,0:16:53.97,0:16:58.24,Default,,0000,0000,0000,,Listen! In this world,\Ntitles mean everything!
+Dialogue: 0,0:16:58.24,0:17:01.88,Default,,0000,0000,0000,,That means that I, the captain and\Nhighest ranking officer at this base,
+Dialogue: 0,0:17:01.88,0:17:06.78,Default,,0000,0000,0000,,am the most superior person here!
+Dialogue: 0,0:17:06.78,0:17:11.29,Default,,0000,0000,0000,,So everything I do is right!
+Dialogue: 0,0:17:11.29,0:17:13.19,Default,,0000,0000,0000,,Isn't that right, you guys?!
+Dialogue: 0,0:17:13.19,0:17:15.43,Default,,0000,0000,0000,,Yes, sir!\NYou're absolutely correct!
+Dialogue: 0,0:17:15.43,0:17:18.20,Default,,0000,0000,0000,,The kid's death can wait for now.
+Dialogue: 0,0:17:18.20,0:17:22.13,Default,,0000,0000,0000,,Observe! This is the symbol of my authority,
+Dialogue: 0,0:17:22.13,0:17:24.70,Default,,0000,0000,0000,,which took many years to finally complete!
+Dialogue: 0,0:17:24.70,0:17:26.37,Default,,0000,0000,0000,,Now, stand it up!
+Dialogue: 0,0:17:27.91,0:17:30.91,Default,,0000,0000,0000,,Display my greatness\Nat the top of this base!
+Dialogue: 0,0:17:34.85,0:17:37.45,Default,,0000,0000,0000,,That's weird.\NThere's no one here...
+Dialogue: 0,0:17:37.45,0:17:42.62,Default,,0000,0000,0000,,I gotta find that stupid son\Nand get Zoro's sword back.
+Dialogue: 0,0:17:42.62,0:17:44.56,Default,,0000,0000,0000,,Pull! Pull!
+Dialogue: 0,0:17:49.89,0:17:51.40,Default,,0000,0000,0000,,You, there!
+Dialogue: 0,0:17:54.10,0:17:55.60,Default,,0000,0000,0000,,You bumped it, didn't you?!
+Dialogue: 0,0:17:57.30,0:17:59.30,Default,,0000,0000,0000,,I heard something up there...
+Dialogue: 0,0:18:00.74,0:18:03.54,Default,,0000,0000,0000,,I-I'm sorry, sir! I was careless!
+Dialogue: 0,0:18:03.54,0:18:07.51,Default,,0000,0000,0000,,I told you to think\Nof this statue as me!
+Dialogue: 0,0:18:07.51,0:18:12.05,Default,,0000,0000,0000,,The slightest scratch or speck\Nof dirt is treachery against me!
+Dialogue: 0,0:18:12.05,0:18:13.92,Default,,0000,0000,0000,,I'll just check it out!
+Dialogue: 0,0:18:13.92,0:18:16.72,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:16.72,0:18:17.89,Default,,0000,0000,0000,,...Rocket!
+Dialogue: 0,0:18:17.89,0:18:19.39,Default,,0000,0000,0000,,Now you pay!
+Dialogue: 0,0:18:21.06,0:18:22.96,Default,,0000,0000,0000,,I jumped too far!
+Dialogue: 0,0:18:22.96,0:18:25.96,Default,,0000,0000,0000,,--What is that?!\N--It flew up from below!
+Dialogue: 0,0:18:25.96,0:18:27.63,Default,,0000,0000,0000,,I stopped!
+Dialogue: 0,0:18:39.24,0:18:40.58,Default,,0000,0000,0000,,Sorry...
+Dialogue: 0,0:18:43.08,0:18:45.85,Default,,0000,0000,0000,,Seize him!\NI'm going to kill him!
+Dialogue: 0,0:18:45.85,0:18:47.45,Default,,0000,0000,0000,,Yes, sir! Right away!
+Dialogue: 0,0:18:47.45,0:18:49.95,Default,,0000,0000,0000,,Dad! That's him!\NHe's the guy who hit me!
+Dialogue: 0,0:18:49.95,0:18:52.32,Default,,0000,0000,0000,,Oh! It's you!
+Dialogue: 0,0:18:52.32,0:18:53.62,Default,,0000,0000,0000,,I've been looking for you!
+Dialogue: 0,0:18:53.62,0:18:56.83,Default,,0000,0000,0000,,Come with me!\NThere's something I want you to give back!
+Dialogue: 0,0:18:56.83,0:18:58.43,Default,,0000,0000,0000,,--Let me go!\N--Helmeppo-sama!
+Dialogue: 0,0:18:58.43,0:19:00.73,Default,,0000,0000,0000,,After him! Don't let him escape!
+Dialogue: 0,0:19:00.73,0:19:03.27,Default,,0000,0000,0000,,Captain! There's someone\Nin the crucifixion yard!
+Dialogue: 0,0:19:03.27,0:19:04.60,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:09.37,0:19:12.38,Default,,0000,0000,0000,,It's one traitor after the other...
+Dialogue: 0,0:19:16.01,0:19:17.95,Default,,0000,0000,0000,,After him! After him!
+Dialogue: 0,0:19:17.95,0:19:19.45,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:19:22.25,0:19:24.25,Default,,0000,0000,0000,,Someone just had to interrupt...
+Dialogue: 0,0:19:27.22,0:19:29.09,Default,,0000,0000,0000,,Where is Zoro's sword?!
+Dialogue: 0,0:19:29.09,0:19:33.13,Default,,0000,0000,0000,,I'll tell you! I'll tell you!\NJust stop dragging me!
+Dialogue: 0,0:19:33.13,0:19:34.43,Default,,0000,0000,0000,,Alright! Talk!
+Dialogue: 0,0:19:34.43,0:19:37.57,Default,,0000,0000,0000,,In my room...\NWe just passed it...
+Dialogue: 0,0:19:37.57,0:19:41.21,Default,,0000,0000,0000,,What? Why didn't you say so?\NNow we gotta go back.
+Dialogue: 0,0:19:41.21,0:19:44.24,Default,,0000,0000,0000,,--Freeze!\N--Let Helmeppo-sama go!
+Dialogue: 0,0:19:44.24,0:19:45.58,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:19:46.94,0:19:49.71,Default,,0000,0000,0000,,Go ahead and shoot, if you dare!
+Dialogue: 0,0:19:49.71,0:19:51.38,Default,,0000,0000,0000,,No! Don't!
+Dialogue: 0,0:19:53.82,0:19:55.99,Default,,0000,0000,0000,,Please escape, Zoro-san!
+Dialogue: 0,0:19:55.99,0:19:58.59,Default,,0000,0000,0000,,You'll be killed for doing that, you know!
+Dialogue: 0,0:19:58.59,0:20:01.56,Default,,0000,0000,0000,,I can't stand to watch\Nthe navy like this anymore.
+Dialogue: 0,0:20:01.56,0:20:05.43,Default,,0000,0000,0000,,I want to be\Nan honorable marine!
+Dialogue: 0,0:20:05.43,0:20:09.23,Default,,0000,0000,0000,,Stop! I can't escape!\NI only got ten days until--
+Dialogue: 0,0:20:09.23,0:20:11.80,Default,,0000,0000,0000,,You're going to be\Nexecuted tomorrow!
+Dialogue: 0,0:20:11.80,0:20:12.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:12.87,0:20:17.51,Default,,0000,0000,0000,,Helmeppo never once\Nintended to honor your agreement!
+Dialogue: 0,0:20:17.51,0:20:22.01,Default,,0000,0000,0000,,So Luffy-san got angry and punched him!
+Dialogue: 0,0:20:22.01,0:20:23.28,Default,,0000,0000,0000,,He did?
+Dialogue: 0,0:20:23.28,0:20:27.02,Default,,0000,0000,0000,,The navy is after Luffy-san now.
+Dialogue: 0,0:20:27.02,0:20:30.35,Default,,0000,0000,0000,,I won't ask you to be a pirate.
+Dialogue: 0,0:20:30.35,0:20:34.36,Default,,0000,0000,0000,,But please, help Luffy-san!
+Dialogue: 0,0:20:38.26,0:20:43.03,Default,,0000,0000,0000,,Luffy-san is the only\None who can save you.
+Dialogue: 0,0:20:43.03,0:20:49.57,Default,,0000,0000,0000,,And I think you're also the only\None who can save Luffy-san now.
+Dialogue: 0,0:20:51.04,0:20:52.54,Default,,0000,0000,0000,,End of the line!
+Dialogue: 0,0:20:55.11,0:20:57.35,Default,,0000,0000,0000,,For the crime of treachery against me,
+Dialogue: 0,0:20:57.35,0:21:00.28,Default,,0000,0000,0000,,I'll now execute you two where you stand!
+Dialogue: 0,0:21:03.42,0:21:05.09,Default,,0000,0000,0000,,This the room?!
+Dialogue: 0,0:21:08.33,0:21:10.33,Default,,0000,0000,0000,,Bingo!
+Dialogue: 0,0:21:10.33,0:21:12.56,Default,,0000,0000,0000,,But there are three here!
+Dialogue: 0,0:21:12.56,0:21:15.13,Default,,0000,0000,0000,,Hey! Which sword is Zoro's?
+Dialogue: 0,0:21:15.13,0:21:17.17,Default,,0000,0000,0000,,Oh, he passed out.
+Dialogue: 0,0:21:19.17,0:21:20.50,Default,,0000,0000,0000,,Coby!
+Dialogue: 0,0:21:27.28,0:21:29.95,Default,,0000,0000,0000,,This is some interesting\Nstuff you guys've pulled!
+Dialogue: 0,0:21:29.95,0:21:36.52,Default,,0000,0000,0000,,Were you two and that straw hat\Nkid plannin' a coup or something?!
+Dialogue: 0,0:21:36.52,0:21:39.19,Default,,0000,0000,0000,,I've always fought alone.
+Dialogue: 0,0:21:39.19,0:21:43.63,Default,,0000,0000,0000,,Unlike arrogant bastards like\Nyou who use soldiers as cronies!
+Dialogue: 0,0:21:43.63,0:21:45.73,Default,,0000,0000,0000,,Roronoa Zoro...
+Dialogue: 0,0:21:45.73,0:21:48.50,Default,,0000,0000,0000,,Don't you dare underestimate me!
+Dialogue: 0,0:21:48.50,0:21:50.00,Default,,0000,0000,0000,,You may be strong,
+Dialogue: 0,0:21:50.00,0:21:54.27,Default,,0000,0000,0000,,but before my authority,\Nyou're as good as scum!
+Dialogue: 0,0:21:54.27,0:21:55.97,Default,,0000,0000,0000,,Aim!
+Dialogue: 0,0:21:55.97,0:21:57.14,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:22:00.28,0:22:03.11,Default,,0000,0000,0000,,...can't afford to die here!
+Dialogue: 0,0:22:06.98,0:22:09.49,Default,,0000,0000,0000,,You're still as weak as ever, Zoro!
+Dialogue: 0,0:22:11.26,0:22:13.56,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:22:13.56,0:22:14.73,Default,,0000,0000,0000,,...Rocket!
+Dialogue: 0,0:22:14.73,0:22:16.06,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:22:19.80,0:22:21.30,Default,,0000,0000,0000,,--What are you--?!\N--Luffy-san!
+Dialogue: 0,0:22:21.30,0:22:22.80,Default,,0000,0000,0000,,Straw Hat?!
+Dialogue: 0,0:22:27.74,0:22:29.64,Default,,0000,0000,0000,,That doesn't work!
+Dialogue: 0,0:22:34.21,0:22:36.91,Default,,0000,0000,0000,,I told you I was strong!
+Dialogue: 0,0:22:36.91,0:22:40.85,Default,,0000,0000,0000,,W-Who the hell are you?!
+Dialogue: 0,0:22:40.85,0:22:43.52,Default,,0000,0000,0000,,I'm Monkey D. Luffy!
+Dialogue: 0,0:22:43.52,0:22:46.19,Default,,0000,0000,0000,,The man who's gonna\Nbe King of the Pirates!
+Dialogue: 0,0:22:52.03,0:22:55.03,Default,,0000,0000,0000,,"To be continued"
+Dialogue: 0,0:22:55.03,0:23:09.28,Default,,0000,0000,0000,,When I was little, I had\Na vision of a treasure map
+Dialogue: 0,0:23:09.28,0:23:16.22,Default,,0000,0000,0000,,and I always searched\Nfor that miraculous place
+Dialogue: 0,0:23:16.22,0:23:23.39,Default,,0000,0000,0000,,before someone else could\Nbeat me to it
+Dialogue: 0,0:23:25.93,0:23:37.41,Default,,0000,0000,0000,,If the world is going to change
+Dialogue: 0,0:23:37.41,0:23:44.41,Default,,0000,0000,0000,,before I can even attain my dream
+Dialogue: 0,0:23:44.41,0:23:51.49,Default,,0000,0000,0000,,then take me to the time\Nwhen I knew nothing
+Dialogue: 0,0:23:51.49,0:24:04.87,Default,,0000,0000,0000,,so that my memories won't fade
+Dialogue: 0,0:24:09.87,0:24:11.81,Default,,0000,0000,0000,,I'm gonna be the world's greatest swordsman!
+Dialogue: 0,0:24:11.81,0:24:14.14,Default,,0000,0000,0000,,Great! Why not be a great swordsman pirate?!
+Dialogue: 0,0:24:14.14,0:24:15.45,Default,,0000,0000,0000,,Don't talk like it's so easy!
+Dialogue: 0,0:24:15.45,0:24:17.08,Default,,0000,0000,0000,,The soldiers have started to go berserk!
+Dialogue: 0,0:24:17.08,0:24:19.32,Default,,0000,0000,0000,,Probably 'cause we're\Nenemies of the navy now!
+Dialogue: 0,0:24:19.32,0:24:21.15,Default,,0000,0000,0000,,Here! I'll untie your ropes!
+Dialogue: 0,0:24:21.15,0:24:24.55,Default,,0000,0000,0000,,I gotta hurry! There has to be a\Nmap to the Grand Line in this base!
+Dialogue: 0,0:24:24.55,0:24:26.22,Default,,0000,0000,0000,,Huh? The ropes are tighter now.
+Dialogue: 0,0:24:26.22,0:24:27.19,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:24:27.19,0:24:28.49,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:24:28.49,0:24:31.83,Default,,0000,0000,0000,,"Morgan vs. Luffy!\NWho's the Mysterious Pretty Girl?"
+Dialogue: 0,0:24:31.83,0:24:34.50,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!

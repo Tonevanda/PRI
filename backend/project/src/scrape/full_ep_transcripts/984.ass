@@ -1,0 +1,393 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:10.96,0:00:13.80,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:10.96,0:00:13.80,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.84,0:00:16.76,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.84,0:00:16.76,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.80,0:00:21.35,Default,,0000,0000,0000,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.80,0:00:21.35,On Top,,0000,0000,0000,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.39,0:00:24.10,Default,,0000,0000,0000,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.39,0:00:24.10,On Top,,0000,0000,0000,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.73,0:00:33.61,Default,,0000,0000,0000,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.73,0:00:33.61,On Top,,0000,0000,0000,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.65,0:00:36.87,Default,,0000,0000,0000,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.65,0:00:36.87,On Top,,0000,0000,0000,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:36.91,0:00:40.16,Default,,0000,0000,0000,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:36.91,0:00:40.16,On Top,,0000,0000,0000,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.41,0:00:44.96,Default,,0000,0000,0000,,{\i1}Shout it out, to save your spirit from breaking{\i0}
+Dialogue: 0,0:00:40.41,0:00:44.96,On Top,,0000,0000,0000,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.00,0:00:47.42,Default,,0000,0000,0000,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.00,0:00:47.42,On Top,,0000,0000,0000,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.46,0:00:53.84,Default,,0000,0000,0000,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.46,0:00:53.84,On Top,,0000,0000,0000,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:53.88,0:00:57.93,Default,,0000,0000,0000,,{\i1}Even when the darkness tries to tear you apart{\i0}
+Dialogue: 0,0:00:53.88,0:00:57.93,On Top,,0000,0000,0000,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:57.97,0:00:59.22,Default,,0000,0000,0000,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:57.97,0:00:59.22,On Top,,0000,0000,0000,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.26,0:01:00.72,Default,,0000,0000,0000,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.26,0:01:00.72,On Top,,0000,0000,0000,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.76,0:01:04.43,Default,,0000,0000,0000,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.76,0:01:04.43,On Top,,0000,0000,0000,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.48,0:01:07.19,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.48,0:01:07.19,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.23,0:01:10.40,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.23,0:01:10.40,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.44,0:01:15.86,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.44,0:01:15.86,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:15.90,0:01:18.41,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:15.90,0:01:18.41,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.45,0:01:21.33,Default,,0000,0000,0000,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.45,0:01:21.33,On Top,,0000,0000,0000,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.37,0:01:24.08,Default,,0000,0000,0000,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.37,0:01:24.08,On Top,,0000,0000,0000,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.12,0:01:28.83,Default,,0000,0000,0000,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.12,0:01:28.83,On Top,,0000,0000,0000,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:28.88,0:01:33.17,Default,,0000,0000,0000,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:28.88,0:01:33.17,On Top,,0000,0000,0000,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.59,0:01:38.55,Default,,0000,0000,0000,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.59,0:01:38.55,On Top,,0000,0000,0000,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.22,0:01:42.06,Default,,0000,0000,0000,,{\i1}Transcend meetings and partings and keep going{\i0}
+Dialogue: 0,0:01:39.22,0:01:42.06,On Top,,0000,0000,0000,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.10,0:01:46.39,Default,,0000,0000,0000,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.10,0:01:46.39,On Top,,0000,0000,0000,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.81,0:01:49.60,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.81,0:01:49.60,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.65,0:01:52.73,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.65,0:01:52.73,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.77,0:01:57.45,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.77,0:01:57.45,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.49,0:02:01.58,Default,,0000,0000,0000,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:01:57.49,0:02:01.58,On Top,,0000,0000,0000,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:02:16.13,0:02:19.01,Default,,0000,0000,0000,,So this is Onigashima!
+Dialogue: 0,0:02:19.22,0:02:22.97,Default,,0000,0000,0000,,{\i1}Luffy and the others\Nhave finally landed on Onigashima.{\i0}
+Dialogue: 0,0:02:25.27,0:02:26.85,Default,,0000,0000,0000,,My fellow warriors!
+Dialogue: 0,0:02:27.14,0:02:31.06,Default,,0000,0000,0000,,This is Onigashima, Kaido's stronghold!
+Dialogue: 0,0:02:31.44,0:02:34.36,Default,,0000,0000,0000,,Avoid unnecessary battles whenever possible,
+Dialogue: 0,0:02:34.40,0:02:37.32,Default,,0000,0000,0000,,and try to reach the castle for the final battle!
+Dialogue: 0,0:02:40.11,0:02:42.53,Default,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:02:44.83,0:02:51.33,Default,,0000,0000,0000,,{\i1}"Luffy Goes Out of Control?!\NSneaking into Kaido's Banquet!"{\i0}
+Dialogue: 0,0:02:51.88,0:02:54.00,Default,,0000,0000,0000,,Woo hoo! Woo hoo!
+Dialogue: 0,0:02:54.17,0:02:57.13,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}, you're so good!
+Dialogue: 0,0:02:58.97,0:03:00.88,Default,,0000,0000,0000,,Is this what you want?
+Dialogue: 0,0:03:01.05,0:03:02.64,Default,,0000,0000,0000,,No, Orochi-{\i1}sama{\i0}.
+Dialogue: 0,0:03:02.80,0:03:05.06,Default,,0000,0000,0000,,Why not?
+Dialogue: 0,0:03:06.68,0:03:09.73,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}! Drink with us, too!
+Dialogue: 0,0:03:09.89,0:03:11.35,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}!
+Dialogue: 0,0:03:11.52,0:03:14.73,Default,,0000,0000,0000,,Oh! Come closer! Come closer!
+Dialogue: 0,0:03:14.90,0:03:17.40,Default,,0000,0000,0000,,Drink more and more!
+Dialogue: 0,0:03:17.57,0:03:20.28,Default,,0000,0000,0000,,No problem! No problem!
+Dialogue: 0,0:03:20.45,0:03:22.91,Default,,0000,0000,0000,,Orochi-{\i1}sama{\i0}!
+Dialogue: 0,0:03:27.99,0:03:29.54,Default,,0000,0000,0000,,That hits the spot!
+Dialogue: 0,0:03:29.58,0:03:33.04,Default,,0000,0000,0000,,Now that we're free from\Nthe ghosts of the Kozuki Clan,
+Dialogue: 0,0:03:33.08,0:03:36.96,Default,,0000,0000,0000,,booze tastes so heavenly!
+Dialogue: 0,0:03:43.22,0:03:45.47,Default,,0000,0000,0000,,{\i1}Orochi is feeling carefree.{\i0}
+Dialogue: 0,0:03:45.51,0:03:51.02,Default,,0000,0000,0000,,{\i1}This is because Kanjuro the spy\Nhas informed him of the Akazaya's plans,{\i0}
+Dialogue: 0,0:03:51.06,0:03:56.11,Default,,0000,0000,0000,,{\i1}enabling him to counter their insurrection\Nwith a foolproof plan.{\i0}
+Dialogue: 0,0:03:58.19,0:04:01.07,Default,,0000,0000,0000,,Their rendezvous point is Tokage Port!
+Dialogue: 0,0:04:01.11,0:04:04.24,Default,,0000,0000,0000,,Destroy all the routes that lead there!
+Dialogue: 0,0:04:04.36,0:04:05.78,On Top,,0000,0000,0000,,GREAT BRIDGE BETWEEN KURI AND UDON
+Dialogue: 0,0:04:05.95,0:04:07.37,On Top,,0000,0000,0000,,GREAT BRIDGE BETWEEN RINGO AND HAKUMAI
+Dialogue: 0,0:04:08.45,0:04:10.95,On Top,,0000,0000,0000,,ITACHI PORT, KURI
+Dialogue: 0,0:04:11.12,0:04:14.92,Default,,0000,0000,0000,,The Akazaya members are alone and helpless!\NMake sure to kill them all!
+Dialogue: 0,0:04:20.71,0:04:24.84,Default,,0000,0000,0000,,{\i1}He will no longer be tormented by\Nthe Kozuki Clan ghosts.{\i0}
+Dialogue: 0,0:04:26.30,0:04:29.26,On Top,,0000,0000,0000,,ONIGASHIMA
+Dialogue: 0,0:04:27.64,0:04:30.52,Default,,0000,0000,0000,,{\i1}However, at Onigashima...{\i0}
+Dialogue: 0,0:05:06.05,0:05:08.76,On Top,,0000,0000,0000,,THE RAID HAS KICKED OFF
+Dialogue: 0,0:05:06.89,0:05:08.76,Default,,0000,0000,0000,,{\i1}The raid has kicked off!{\i0}
+Dialogue: 0,0:05:12.77,0:05:16.10,On Top,,0000,0000,0000,,EASTERN FORCES
+Dialogue: 0,0:05:13.93,0:05:16.10,Default,,0000,0000,0000,,{\i1}The Eastern Forces led by Kin'emon.{\i0}
+Dialogue: 0,0:05:21.07,0:05:24.15,On Top,,0000,0000,0000,,SOUTHERN FORCES
+Dialogue: 0,0:05:21.98,0:05:24.15,Default,,0000,0000,0000,,{\i1}The Southern Forces led by Denjiro.{\i0}
+Dialogue: 0,0:05:24.82,0:05:28.53,Default,,0000,0000,0000,,{\i1}Combined, there are more than 5,000 troops.{\i0}
+Dialogue: 0,0:05:31.99,0:05:34.54,On Top,,0000,0000,0000,,POLAR TANG
+Dialogue: 0,0:05:37.17,0:05:39.54,Default,,0000,0000,0000,,{\i1}The pirate Law's submarine...{\i0}
+Dialogue: 0,0:05:39.17,0:05:41.34,On Top,,0000,0000,0000,,KAIDO'S CASTLE   LAW\NSOUTHERN FORCES   EASTERN FORCES
+Dialogue: 0,0:05:39.58,0:05:43.05,Default,,0000,0000,0000,,{\i1}...went underwater with the Akazaya samurai on board...{\i0}
+Dialogue: 0,0:05:43.09,0:05:47.38,Default,,0000,0000,0000,,{\i1}...aimed at reaching the castle\Nwhere Orochi and Kaido are.{\i0}
+Dialogue: 0,0:05:59.77,0:06:05.19,Default,,0000,0000,0000,,{\i1}Their enemies are still unaware of\Nthe over 5,000 troops advancing.{\i0}
+Dialogue: 0,0:06:05.36,0:06:07.99,Default,,0000,0000,0000,,All right! We should get going, too!
+Dialogue: 0,0:06:08.15,0:06:09.32,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:09.49,0:06:11.41,Default,,0000,0000,0000,,Before that, Luffy,
+Dialogue: 0,0:06:11.45,0:06:15.12,Default,,0000,0000,0000,,I have {\i1}super{\i0} toys ready for an occasion like this!
+Dialogue: 0,0:06:15.16,0:06:16.87,Default,,0000,0000,0000,,Let's put them to good use!
+Dialogue: 0,0:06:17.83,0:06:18.71,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:18.87,0:06:21.13,Default,,0000,0000,0000,,You mean those awesome ones?!
+Dialogue: 0,0:06:21.42,0:06:23.34,Default,,0000,0000,0000,,All right, let's do this!
+Dialogue: 0,0:06:23.50,0:06:25.42,Default,,0000,0000,0000,,You're so well-prepared, Franky!
+Dialogue: 0,0:06:25.59,0:06:27.26,Default,,0000,0000,0000,,Let's get going!
+Dialogue: 0,0:06:28.88,0:06:30.76,Default,,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:06:37.27,0:06:40.23,Default,,0000,0000,0000,,I'm the one who'll take Kaido's head!
+Dialogue: 0,0:06:41.23,0:06:42.48,Default,,0000,0000,0000,,And me!
+Dialogue: 0,0:06:42.65,0:06:44.36,Default,,0000,0000,0000,,That bastard!
+Dialogue: 0,0:06:44.57,0:06:48.15,Default,,0000,0000,0000,,Hey! Damn Jaggy!\NWhy are you going your own way?!
+Dialogue: 0,0:06:48.19,0:06:51.41,Default,,0000,0000,0000,,You're not following Kin'emon and the others' plan!
+Dialogue: 0,0:06:51.99,0:06:54.53,Default,,0000,0000,0000,,I don't care about the samurai.
+Dialogue: 0,0:06:56.04,0:06:59.66,Default,,0000,0000,0000,,Everything in the Land of Wano\Nis at stake in this battle!
+Dialogue: 0,0:06:59.71,0:07:02.67,Default,,0000,0000,0000,,Do you have any idea what they've been through?!
+Dialogue: 0,0:07:02.83,0:07:06.92,Default,,0000,0000,0000,,Don't get the wrong idea about us!\NWe're not gonna join hands with anyone.
+Dialogue: 0,0:07:06.96,0:07:11.22,Default,,0000,0000,0000,,We came here to take down Kaido\Nand happen to be headed the same way as you all.
+Dialogue: 0,0:07:11.26,0:07:13.09,Default,,0000,0000,0000,,That's it.
+Dialogue: 0,0:07:16.85,0:07:19.39,Default,,0000,0000,0000,,Those fools!
+Dialogue: 0,0:07:19.43,0:07:20.31,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:20.35,0:07:22.60,Default,,0000,0000,0000,,I'm gonna go stop them!
+Dialogue: 0,0:07:22.77,0:07:24.19,Default,,0000,0000,0000,,Wait, Luffy!
+Dialogue: 0,0:07:25.90,0:07:28.49,Default,,0000,0000,0000,,He'll only make things worse.
+Dialogue: 0,0:07:28.99,0:07:30.45,Default,,0000,0000,0000,,I'm gonna go stop him!
+Dialogue: 0,0:07:30.61,0:07:31.78,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:07:34.12,0:07:35.16,Default,,0000,0000,0000,,Hey, Luffy!
+Dialogue: 0,0:07:35.20,0:07:36.58,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:07:43.67,0:07:45.54,Default,,0000,0000,0000,,What's the matter, Kiku?
+Dialogue: 0,0:07:45.71,0:07:49.67,Default,,0000,0000,0000,,I'm a bit worried about Luffytaro-{\i1}san{\i0}.
+Dialogue: 0,0:07:50.05,0:07:52.13,Default,,0000,0000,0000,,If Tra-guy-{\i1}san{\i0}'s prediction is correct,
+Dialogue: 0,0:07:52.18,0:07:55.89,Default,,0000,0000,0000,,he should be heading to Kaido's castle\Nhead on by now.
+Dialogue: 0,0:07:56.64,0:07:59.52,Default,,0000,0000,0000,,No matter what kind of plan you make,
+Dialogue: 0,0:07:59.72,0:08:04.06,Default,,0000,0000,0000,,we know there are two idiots\Nwho'll try to charge in through the front door!
+Dialogue: 0,0:08:07.19,0:08:12.74,On Top,,0000,0000,0000,,IDIOTS
+Dialogue: 0,0:08:07.52,0:08:09.65,Default,,0000,0000,0000,,Those idiots will be good decoys for us.
+Dialogue: 0,0:08:09.69,0:08:13.49,Default,,0000,0000,0000,,And they're stronger than ordinary decoys.
+Dialogue: 0,0:08:13.74,0:08:19.16,Default,,0000,0000,0000,,In order to stop those idiots,\Ntons of Kaido's underlings will be sent to the front.
+Dialogue: 0,0:08:19.62,0:08:22.91,Default,,0000,0000,0000,,If we use Luffytaro-{\i1}san{\i0} who we're indebted to\Nas a decoy,
+Dialogue: 0,0:08:22.96,0:08:25.25,Default,,0000,0000,0000,,and something ends up happening to him...
+Dialogue: 0,0:08:25.42,0:08:27.75,Default,,0000,0000,0000,,There's no point in worrying about it.
+Dialogue: 0,0:08:27.79,0:08:30.46,Default,,0000,0000,0000,,Idiots won't go down that easily.
+Dialogue: 0,0:08:32.13,0:08:35.68,Default,,0000,0000,0000,,You have a lot of trust in your friend!
+Dialogue: 0,0:08:37.01,0:08:38.56,Default,,0000,0000,0000,,He's not my friend!
+Dialogue: 0,0:08:40.52,0:08:41.73,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:09:01.70,0:09:03.41,Default,,0000,0000,0000,,How unlucky.
+Dialogue: 0,0:09:03.46,0:09:07.42,Default,,0000,0000,0000,,I can't believe I have to stand guard down here\Nduring the festival.
+Dialogue: 0,0:09:07.58,0:09:10.38,Default,,0000,0000,0000,,We've got booze, so let's enjoy it.
+Dialogue: 0,0:09:12.38,0:09:15.47,Default,,0000,0000,0000,,I don't think any samurai can get this far.
+Dialogue: 0,0:09:15.63,0:09:16.97,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:09:19.05,0:09:20.43,Default,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:09:24.31,0:09:25.85,Default,,0000,0000,0000,,Is he one of the Akazaya...
+Dialogue: 0,0:09:32.48,0:09:34.40,Default,,0000,0000,0000,,Hey! Keep walking!
+Dialogue: 0,0:09:37.78,0:09:42.08,Default,,0000,0000,0000,,{\i1}Kanjuro who kidnapped Momonosuke\Nand escaped to see Orochi...{\i0}
+Dialogue: 0,0:09:42.12,0:09:47.67,Default,,0000,0000,0000,,{\i1}...hasn't seen Orochi yet,\Njust as Kin'emon expected.{\i0}
+Dialogue: 0,0:09:49.29,0:09:51.29,Default,,0000,0000,0000,,There's a fork again.
+Dialogue: 0,0:09:52.55,0:09:56.84,Default,,0000,0000,0000,,I've never been here before.\NI didn't know it was this complicated.
+Dialogue: 0,0:09:57.30,0:10:02.81,Default,,0000,0000,0000,,To those lowest-level underlings who don't know anything,\NI'm still one of the Akazaya members...
+Dialogue: 0,0:10:03.06,0:10:07.56,Default,,0000,0000,0000,,I must report on Kin'emon and the others\Nas soon as possible.
+Dialogue: 0,0:10:08.52,0:10:11.27,Default,,0000,0000,0000,,How can I get to Orochi-{\i1}sama{\i0}?!
+Dialogue: 0,0:10:11.94,0:10:13.82,Default,,0000,0000,0000,,This way. Let's go.
+Dialogue: 0,0:10:18.20,0:10:20.45,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:10:20.91,0:10:24.62,Default,,0000,0000,0000,,Jaggy!
+Dialogue: 0,0:10:46.89,0:10:48.85,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:10:54.90,0:10:56.69,Default,,0000,0000,0000,,Jaggy!
+Dialogue: 0,0:10:56.94,0:10:59.49,Default,,0000,0000,0000,,Where are you?!
+Dialogue: 0,0:11:16.55,0:11:19.76,Default,,0000,0000,0000,,Damn Luffy! Where did he wander off to?
+Dialogue: 0,0:11:20.55,0:11:21.80,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:11:24.14,0:11:27.14,Default,,0000,0000,0000,,Whoa-whoa, why are you looking so serious?
+Dialogue: 0,0:11:27.18,0:11:30.39,Default,,0000,0000,0000,,Today's a banquet. Drink.
+Dialogue: 0,0:11:30.89,0:11:32.23,Default,,0000,0000,0000,,Good booze.
+Dialogue: 0,0:11:32.40,0:11:33.94,Default,,0000,0000,0000,,How did you know?
+Dialogue: 0,0:11:34.11,0:11:35.61,Default,,0000,0000,0000,,I can tell without drinking it.
+Dialogue: 0,0:11:35.77,0:11:38.82,Default,,0000,0000,0000,,I'm sure you can! Today's a banquet.
+Dialogue: 0,0:11:38.86,0:11:40.90,Default,,0000,0000,0000,,You've got to drink, too!
+Dialogue: 0,0:11:41.07,0:11:43.87,Default,,0000,0000,0000,,I'm looking for someone now.
+Dialogue: 0,0:11:43.91,0:11:45.16,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:11:46.28,0:11:52.46,Default,,0000,0000,0000,,We have tons of booze that the people in Ebisu Town\Nand Okobore Town will never be able to drink!
+Dialogue: 0,0:11:52.87,0:11:54.75,Default,,0000,0000,0000,,Okobore Town?
+Dialogue: 0,0:11:55.29,0:11:57.92,Default,,0000,0000,0000,,Hey, what's taking you so long?
+Dialogue: 0,0:11:57.96,0:12:00.84,Default,,0000,0000,0000,,Hurry up, Franky!
+Dialogue: 0,0:12:01.01,0:12:02.51,Default,,0000,0000,0000,,Everyone's already left.
+Dialogue: 0,0:12:02.72,0:12:06.26,Default,,0000,0000,0000,,Give me a second.\NWe can catch up to them.
+Dialogue: 0,0:12:06.30,0:12:08.60,Default,,0000,0000,0000,,If we use this!
+Dialogue: 0,0:12:34.75,0:12:39.13,Default,,0000,0000,0000,,Black Rhino FR-U4!
+Dialogue: 0,0:12:37.21,0:12:39.13,On Top,,0000,0000,0000,,BLACK RHINO FR-U4
+Dialogue: 0,0:12:39.30,0:12:40.71,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:12:42.05,0:12:44.97,Default,,0000,0000,0000,,I saw it during the battle at the Fish-Man Island!
+Dialogue: 0,0:12:45.26,0:12:48.01,Default,,0000,0000,0000,,Not "it," Jimbei!
+Dialogue: 0,0:12:48.05,0:12:49.76,Default,,0000,0000,0000,,Call this baby "Black Rhino"!
+Dialogue: 0,0:12:49.81,0:12:51.89,Default,,0000,0000,0000,,And there's another one!
+Dialogue: 0,0:12:59.65,0:13:04.36,Default,,0000,0000,0000,,Brachio Tank 5!
+Dialogue: 0,0:13:04.53,0:13:06.61,On Top,,0000,0000,0000,,BRACHIO TANK 5
+Dialogue: 0,0:13:09.45,0:13:11.33,Default,,0000,0000,0000,,I'm a tank commander!
+Dialogue: 0,0:13:11.49,0:13:14.41,On Top,,0000,0000,0000,,COMMANDER CHOPPER
+Dialogue: 0,0:13:11.79,0:13:13.87,Default,,0000,0000,0000,,Commander Chopper!
+Dialogue: 0,0:13:14.58,0:13:16.12,Default,,0000,0000,0000,,We're counting on you, Chopper!
+Dialogue: 0,0:13:16.29,0:13:18.75,Default,,0000,0000,0000,,Great! We can get there safely!
+Dialogue: 0,0:13:18.92,0:13:20.75,Default,,0000,0000,0000,,Chobro, you're so cool!
+Dialogue: 0,0:13:20.96,0:13:22.71,Default,,0000,0000,0000,,You can count on me!
+Dialogue: 0,0:13:24.34,0:13:26.43,Default,,0000,0000,0000,,I'm a sniper!
+Dialogue: 0,0:13:28.18,0:13:29.05,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:13:29.22,0:13:30.26,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:13:30.43,0:13:31.56,Default,,0000,0000,0000,,Franky!
+Dialogue: 0,0:13:31.72,0:13:34.81,On Top,,0000,0000,0000,,WE'RE HERE!
+Dialogue: 0,0:13:32.52,0:13:34.81,Default,,0000,0000,0000,,We're here!
+Dialogue: 0,0:13:36.02,0:13:38.52,Default,,0000,0000,0000,,Now we're all ready!
+Dialogue: 0,0:13:39.44,0:13:40.90,Default,,0000,0000,0000,,Where's Luffy?
+Dialogue: 0,0:13:41.07,0:13:41.98,Default,,0000,0000,0000,,Well,
+Dialogue: 0,0:13:42.28,0:13:47.20,Default,,0000,0000,0000,,because Eustass Kid and his people\Nwent into the island head-on...
+Dialogue: 0,0:13:47.36,0:13:49.99,Default,,0000,0000,0000,,Okay! I'm gonna go stop them!
+Dialogue: 0,0:13:50.03,0:13:51.20,Default,,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:13:53.41,0:13:55.71,Default,,0000,0000,0000,,He'll definitely make things worse!
+Dialogue: 0,0:13:55.87,0:13:57.71,Default,,0000,0000,0000,,Why didn't you stop him?!
+Dialogue: 0,0:13:57.87,0:14:00.71,Default,,0000,0000,0000,,But Roronoa Zoro said what you just said and...
+Dialogue: 0,0:14:00.88,0:14:03.67,Default,,0000,0000,0000,,He'll only make things worse!
+Dialogue: 0,0:14:03.71,0:14:05.01,Default,,0000,0000,0000,,I'm gonna go stop him!
+Dialogue: 0,0:14:07.09,0:14:09.59,Default,,0000,0000,0000,,He'll just lose his way for sure!
+Dialogue: 0,0:14:09.76,0:14:11.55,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:14:11.72,0:14:13.68,Default,,0000,0000,0000,,Oh, come on...
+Dialogue: 0,0:14:13.72,0:14:18.31,Default,,0000,0000,0000,,Those two went off by themselves...\NWho knows what's gonna happen.
+Dialogue: 0,0:14:18.48,0:14:20.52,Default,,0000,0000,0000,,Forget about that idiot,
+Dialogue: 0,0:14:20.56,0:14:25.28,Default,,0000,0000,0000,,and let's go for a drive through the battlefield,\NNami-{\i1}san{\i0}!
+Dialogue: 0,0:14:30.66,0:14:32.28,Default,,0000,0000,0000,,It's full!
+Dialogue: 0,0:14:33.37,0:14:35.79,Default,,0000,0000,0000,,Isn't this too tight, Usopp?!
+Dialogue: 0,0:14:35.95,0:14:39.25,Default,,0000,0000,0000,,It can't be helped. There are so many of us.
+Dialogue: 0,0:14:39.42,0:14:41.25,Default,,0000,0000,0000,,It's too hot!
+Dialogue: 0,0:14:42.79,0:14:43.88,Default,,0000,0000,0000,,Get out, Usopp!
+Dialogue: 0,0:14:44.34,0:14:46.59,Default,,0000,0000,0000,,Damn you! You're in heaven!
+Dialogue: 0,0:14:46.80,0:14:50.51,Default,,0000,0000,0000,,I'm sorry that you don't have shooting skills!\NGet over it!
+Dialogue: 0,0:14:50.68,0:14:56.35,Default,,0000,0000,0000,,I know mature women are irresistible,\Nbut you can't force your way into here, young man.
+Dialogue: 0,0:15:02.81,0:15:04.27,Default,,0000,0000,0000,,Would you like to ride on the back?
+Dialogue: 0,0:15:04.44,0:15:06.53,Default,,0000,0000,0000,,Can I? I'm happy to.
+Dialogue: 0,0:15:07.94,0:15:09.03,Default,,0000,0000,0000,,Ready?!
+Dialogue: 0,0:15:09.20,0:15:10.99,Default,,0000,0000,0000,,Okay, I'm ready.
+Dialogue: 0,0:15:11.66,0:15:12.78,Default,,0000,0000,0000,,You?!
+Dialogue: 0,0:15:12.95,0:15:15.20,Default,,0000,0000,0000,,How about a little bromance?
+Dialogue: 0,0:15:17.16,0:15:18.70,Default,,0000,0000,0000,,Well, okay.
+Dialogue: 0,0:15:20.62,0:15:22.38,Default,,0000,0000,0000,,Commander Chopper!
+Dialogue: 0,0:15:22.83,0:15:26.25,Default,,0000,0000,0000,,Meet me at the back of the island\Nand we'll combine these vehicles.
+Dialogue: 0,0:15:26.30,0:15:27.80,Default,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:15:27.96,0:15:29.38,Default,,0000,0000,0000,,"Combine"!
+Dialogue: 0,0:15:31.63,0:15:33.93,Default,,0000,0000,0000,,{\i1}Super{\i0}!
+Dialogue: 0,0:15:34.43,0:15:35.51,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:15:41.31,0:15:45.27,Default,,0000,0000,0000,,I feel like a rock star!
+Dialogue: 0,0:15:45.52,0:15:48.48,Default,,0000,0000,0000,,Are you a haunted doll or something?!
+Dialogue: 0,0:15:49.40,0:15:50.86,Default,,0000,0000,0000,,We should go, too!
+Dialogue: 0,0:15:52.36,0:15:54.82,Default,,0000,0000,0000,,Robin-{\i1}chan{\i0}!
+Dialogue: 0,0:15:54.87,0:15:56.87,Default,,0000,0000,0000,,Come with me!
+Dialogue: 0,0:15:57.16,0:16:02.08,Default,,0000,0000,0000,,No thanks. You'll get dirty with dust\Non the top of the tank.
+Dialogue: 0,0:16:03.33,0:16:05.25,Default,,0000,0000,0000,,Shall we walk?
+Dialogue: 0,0:16:05.42,0:16:06.46,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:11.17,0:16:13.72,Default,,0000,0000,0000,,You guys are as lively as ever.
+Dialogue: 0,0:16:13.89,0:16:18.18,Default,,0000,0000,0000,,I can't wait to finish the fight\Nand have a welcome party for you.
+Dialogue: 0,0:16:18.35,0:16:23.35,Default,,0000,0000,0000,,Yeah, until then,\NI have to stay as calm as possible.
+Dialogue: 0,0:16:23.77,0:16:29.03,Default,,0000,0000,0000,,In a battle where everyone's so excited,\Nsomeone who calmly perceives the situation is crucial.
+Dialogue: 0,0:16:29.19,0:16:31.65,Default,,0000,0000,0000,,You're so mature.\NIt's reassuring to have you here.
+Dialogue: 0,0:16:31.82,0:16:35.28,Default,,0000,0000,0000,,I want to be helpful\Nin my first fight with this group!
+Dialogue: 0,0:16:42.75,0:16:45.00,Default,,0000,0000,0000,,I'm bored! I'm bored! I'm bored!
+Dialogue: 0,0:16:45.04,0:16:49.96,Default,,0000,0000,0000,,Hey, Pay-Pay,\Ntell me some interesting stories-{\i1}arinsu{\i0}.
+Dialogue: 0,0:16:50.13,0:16:51.63,Default,,0000,0000,0000,,I don't have any.
+Dialogue: 0,0:16:51.88,0:16:53.22,Default,,0000,0000,0000,,You don't?!
+Dialogue: 0,0:16:53.84,0:16:58.01,Default,,0000,0000,0000,,All that living and not one interesting story?
+Dialogue: 0,0:16:58.43,0:16:59.93,Default,,0000,0000,0000,,How...
+Dialogue: 0,0:16:59.97,0:17:03.39,Default,,0000,0000,0000,,How sad, Pay-Pay!
+Dialogue: 0,0:17:03.43,0:17:06.48,Default,,0000,0000,0000,,Let me comfort you-{\i1}rinsu{\i0}!
+Dialogue: 0,0:17:07.44,0:17:10.15,Default,,0000,0000,0000,,Stop, you're heavy, Big Sis!
+Dialogue: 0,0:17:11.90,0:17:15.53,Default,,0000,0000,0000,,"Stop... you're heavy"?
+Dialogue: 0,0:17:15.95,0:17:17.87,Default,,0000,0000,0000,,Did you say "Stop"?!
+Dialogue: 0,0:17:18.28,0:17:20.74,Default,,0000,0000,0000,,Who are you to tell me that?!
+Dialogue: 0,0:17:20.79,0:17:24.25,Default,,0000,0000,0000,,I'm heavy, terrifying,\Nand a pain in the ass, you say?!
+Dialogue: 0,0:17:24.41,0:17:26.37,Default,,0000,0000,0000,,I didn't say that!
+Dialogue: 0,0:17:27.17,0:17:29.00,Default,,0000,0000,0000,,Shut up, you brat!
+Dialogue: 0,0:17:29.63,0:17:31.38,Default,,0000,0000,0000,,Can't you be quiet?!
+Dialogue: 0,0:17:31.55,0:17:32.96,Default,,0000,0000,0000,,"Shut up"?
+Dialogue: 0,0:17:33.30,0:17:34.88,Default,,0000,0000,0000,,Did you say "Shut up"?
+Dialogue: 0,0:17:35.30,0:17:37.01,Default,,0000,0000,0000,,What do you mean "Shut up"?!
+Dialogue: 0,0:17:37.30,0:17:40.35,Default,,0000,0000,0000,,How did Pay-Pay bother you?! Say it!
+Dialogue: 0,0:17:41.81,0:17:45.52,Default,,0000,0000,0000,,I don't think he's talking about Pay-Pay.
+Dialogue: 0,0:17:45.69,0:17:49.65,Default,,0000,0000,0000,,You're messing with my Pay-Pay too much!
+Dialogue: 0,0:17:49.69,0:17:53.40,Default,,0000,0000,0000,,If you make him cry,\Nare you willing to take responsibility?!
+Dialogue: 0,0:17:54.19,0:17:55.78,Default,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:17:55.95,0:17:57.36,Default,,0000,0000,0000,,Thank you for waiting!
+Dialogue: 0,0:17:57.41,0:17:59.16,Default,,0000,0000,0000,,Kaido-{\i1}sama{\i0} is calling for you!
+Dialogue: 0,0:17:59.32,0:18:01.20,Default,,0000,0000,0000,,Tsk! What took you so long, Kaido?!
+Dialogue: 0,0:18:01.37,0:18:03.41,Default,,0000,0000,0000,,Like I said, don't snap at him!
+Dialogue: 0,0:18:03.58,0:18:06.83,Default,,0000,0000,0000,,I'm finally gonna be freed from those shitty brats.
+Dialogue: 0,0:18:07.00,0:18:10.75,Default,,0000,0000,0000,,I really enjoyed Ul-chan's snapping show.
+Dialogue: 0,0:18:18.09,0:18:20.89,Default,,0000,0000,0000,,Oh! I like how you drink!
+Dialogue: 0,0:18:21.05,0:18:24.52,Default,,0000,0000,0000,,You don't need to hold back.\NWe have plenty!
+Dialogue: 0,0:18:24.68,0:18:27.64,Default,,0000,0000,0000,,There's a lot of good booze here.
+Dialogue: 0,0:18:28.64,0:18:33.48,Default,,0000,0000,0000,,You just noticed that? That's because\Nthis is Kaido-{\i1}sama{\i0} and Orochi-{\i1}sama{\i0}'s stronghold.
+Dialogue: 0,0:18:33.65,0:18:36.24,Default,,0000,0000,0000,,There's more than enough booze here...
+Dialogue: 0,0:18:36.28,0:18:39.70,Default,,0000,0000,0000,,...which none of the commoners\Nwill ever get to taste.
+Dialogue: 0,0:18:39.74,0:18:46.16,Default,,0000,0000,0000,,If I had to live miserably and pathetically\Nlike the people in Ebisu Town and Okobore Town,
+Dialogue: 0,0:18:46.20,0:18:48.29,Default,,0000,0000,0000,,I'd rather die!
+Dialogue: 0,0:18:49.46,0:18:50.46,Default,,0000,0000,0000,,Me, too!
+Dialogue: 0,0:18:50.71,0:18:52.59,Default,,0000,0000,0000,,Don't you agree?!
+Dialogue: 0,0:18:55.17,0:18:59.18,Default,,0000,0000,0000,,You don't care about what you're putting\Nthe people in Ebisu Town and Okobore Town through.
+Dialogue: 0,0:18:59.22,0:19:01.76,Default,,0000,0000,0000,,That's how much you like this booze.
+Dialogue: 0,0:19:01.93,0:19:04.39,Default,,0000,0000,0000,,Yeah, it's really good!
+Dialogue: 0,0:19:04.76,0:19:06.22,Default,,0000,0000,0000,,Well then...
+Dialogue: 0,0:19:06.27,0:19:07.77,Default,,0000,0000,0000,,Drink up!
+Dialogue: 0,0:19:10.14,0:19:12.36,Default,,0000,0000,0000,,Whoa-whoa! He's almost drowning!
+Dialogue: 0,0:19:12.52,0:19:14.19,Default,,0000,0000,0000,,Hey, stop! You bastard!
+Dialogue: 0,0:19:14.36,0:19:15.57,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:19:19.86,0:19:21.20,Default,,0000,0000,0000,,--What's wrong?\N--What happened?
+Dialogue: 0,0:19:21.36,0:19:22.53,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:19:23.03,0:19:26.29,Default,,0000,0000,0000,,They just had too much of that fine liquor.
+Dialogue: 0,0:19:26.54,0:19:27.75,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:19:27.91,0:19:29.62,Default,,0000,0000,0000,,They made too much.
+Dialogue: 0,0:19:29.79,0:19:31.83,Default,,0000,0000,0000,,Don't bring it here!
+Dialogue: 0,0:19:32.00,0:19:33.13,Default,,0000,0000,0000,,We had no choice.
+Dialogue: 0,0:19:33.29,0:19:36.13,Default,,0000,0000,0000,,Jaggy! Where are you?!
+Dialogue: 0,0:19:36.17,0:19:40.30,Default,,0000,0000,0000,,He doesn't even know Oden's wishes!\NHow could he do whatever suits him?!
+Dialogue: 0,0:19:41.68,0:19:44.01,Default,,0000,0000,0000,,Hey! Did you see Jaggy?!
+Dialogue: 0,0:19:44.18,0:19:46.35,Default,,0000,0000,0000,,Jaggy? Who is that?
+Dialogue: 0,0:19:46.51,0:19:50.14,Default,,0000,0000,0000,,{\i1}If I get thinner, I'll be too popular{\i0}
+Dialogue: 0,0:19:50.18,0:19:52.52,Default,,0000,0000,0000,,{\i1}So I don't get thinner, that's my kind of...{\i0}
+Dialogue: 0,0:19:52.56,0:19:53.65,Default,,0000,0000,0000,,{\i1}...funk!{\i0}
+Dialogue: 0,0:19:53.81,0:19:55.69,Default,,0000,0000,0000,,That's Balloon!
+Dialogue: 0,0:19:56.82,0:19:59.94,Default,,0000,0000,0000,,You're late! Why don't you eat, too?
+Dialogue: 0,0:20:00.24,0:20:02.66,Default,,0000,0000,0000,,--This way! This way!\N--Yeah.
+Dialogue: 0,0:20:04.20,0:20:07.79,Default,,0000,0000,0000,,Wow! Everything you've got there looks delicious!
+Dialogue: 0,0:20:07.95,0:20:11.46,Default,,0000,0000,0000,,--Why don't you eat some, too?\N--Is it okay?!
+Dialogue: 0,0:20:12.54,0:20:15.67,Default,,0000,0000,0000,,Paradise Farm products are for us alone to enjoy!
+Dialogue: 0,0:20:16.29,0:20:20.92,Default,,0000,0000,0000,,If the people of Okobore Town eat them,\Nthey'll die of shock since they're so delicious!
+Dialogue: 0,0:20:25.34,0:20:29.89,Default,,0000,0000,0000,,How many days do you think it's been\Nsince she ate?!
+Dialogue: 0,0:20:30.31,0:20:35.56,Default,,0000,0000,0000,,{\i1}Even if she busily weaves hats every day\Nand sells them,{\i0}
+Dialogue: 0,0:20:35.60,0:20:39.78,Default,,0000,0000,0000,,{\i1}we can only earn barely enough for\None person to live!{\i0}
+Dialogue: 0,0:20:40.73,0:20:44.36,Default,,0000,0000,0000,,{\i1}Sometimes we get to eat barnyard grass\Nand that's it.{\i0}
+Dialogue: 0,0:20:45.20,0:20:47.45,Default,,0000,0000,0000,,{\i1}But at least, twice a year,{\i0}
+Dialogue: 0,0:20:47.49,0:20:52.25,Default,,0000,0000,0000,,{\i1}on her birthday and New Year's,\NI want her to eat rice!{\i0}
+Dialogue: 0,0:20:53.08,0:20:55.29,Default,,0000,0000,0000,,{\i1}So I gave her money today{\i0}
+Dialogue: 0,0:20:55.33,0:21:00.46,Default,,0000,0000,0000,,{\i1}and sent her to the town\Nto buy rice for her eighth birthday!{\i0}
+Dialogue: 0,0:21:03.67,0:21:06.68,Default,,0000,0000,0000,,--I said "Take it"!\N--I said "I don't want it"!
+Dialogue: 0,0:21:08.68,0:21:11.52,Default,,0000,0000,0000,,After we make a toast,\Nthere'll be even better grub.
+Dialogue: 0,0:21:18.44,0:21:20.19,Default,,0000,0000,0000,,Ouch! Ow, ow, ow!
+Dialogue: 0,0:21:20.36,0:21:23.07,Default,,0000,0000,0000,,Hey, what's that? It's red-bean soup!
+Dialogue: 0,0:21:23.24,0:21:25.40,Default,,0000,0000,0000,,We're drinking now! Screw you!
+Dialogue: 0,0:21:26.53,0:21:27.53,Default,,0000,0000,0000,,Red-bean soup?
+Dialogue: 0,0:21:27.70,0:21:31.04,Default,,0000,0000,0000,,They made too much,\Nso it's been given to us.
+Dialogue: 0,0:21:31.20,0:21:34.04,Default,,0000,0000,0000,,Idiot! It doesn't go with alcohol!
+Dialogue: 0,0:21:34.21,0:21:35.92,Default,,0000,0000,0000,,There are many other things to eat!
+Dialogue: 0,0:21:36.50,0:21:39.71,Default,,0000,0000,0000,,Dump this sickeningly sweet soup!
+Dialogue: 0,0:21:39.92,0:21:42.55,Default,,0000,0000,0000,,Spill it over Okobore Town!
+Dialogue: 0,0:21:43.46,0:21:46.80,Default,,0000,0000,0000,,Good idea!\NThey'll happily sip it off the ground!
+Dialogue: 0,0:22:03.15,0:22:06.40,Default,,0000,0000,0000,,It's so yummy!
+Dialogue: 0,0:22:06.86,0:22:10.20,Default,,0000,0000,0000,,This soup is so delicious!
+Dialogue: 0,0:22:10.37,0:22:13.08,Default,,0000,0000,0000,,{\i1}What? Is this your first time having it?!{\i0}
+Dialogue: 0,0:22:13.24,0:22:16.62,Default,,0000,0000,0000,,{\i1}Yes! There are some rice cakes in it!{\i0}
+Dialogue: 0,0:22:16.66,0:22:19.71,Default,,0000,0000,0000,,{\i1}What a sumptuous treat!{\i0}
+Dialogue: 0,0:22:28.43,0:22:31.76,Default,,0000,0000,0000,,This is the greatest day of my life!
+Dialogue: 0,0:22:34.10,0:22:38.39,Default,,0000,0000,0000,,Damn beggars! Just be happy you're alive!
+Dialogue: 0,0:23:18.31,0:23:20.98,Default,,0000,0000,0000,,{\i1}The solid promise he made with his friend.{\i0}
+Dialogue: 0,0:23:21.02,0:23:27.44,Default,,0000,0000,0000,,{\i1}The Gifters trample on Otama's wish for recovery\Nand her struggle to survive with their petty behavior.{\i0}
+Dialogue: 0,0:23:27.48,0:23:31.99,Default,,0000,0000,0000,,{\i1}Luffy trembles with anger!\NHis all-out Elephant Gun blasts!{\i0}
+Dialogue: 0,0:23:32.03,0:23:35.16,Default,,0000,0000,0000,,{\i1}The battle begins at Onigashima.{\i0}
+Dialogue: 0,0:23:36.49,0:23:41.62,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Thinking of Otama! Luffy's Furious Strike!"
+Dialogue: 0,0:23:41.67,0:23:45.54,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.54,0:23:47.54,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:47.54,0:23:49.54,On Top,,0000,0000,0000,,

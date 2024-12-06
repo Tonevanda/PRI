@@ -1,0 +1,365 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.00,0:00:14.64,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.64,0:00:17.54,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.54,0:00:20.38,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.38,0:00:23.48,Default,,0000,0000,0000,,As long as people\Nseek the answer of freedom,
+Dialogue: 0,0:00:23.48,0:00:26.12,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:35.03,0:00:41.20,Default,,0000,0000,0000,,I only believe in the future --\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.20,0:00:46.54,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.54,0:00:52.54,Default,,0000,0000,0000,,It's too bright,\Nbut I want to gaze at it
+Dialogue: 0,0:00:52.54,0:00:56.15,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.15,0:00:59.55,Default,,0000,0000,0000,,I'm really really stuck on you
+Dialogue: 0,0:00:59.55,0:01:05.99,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:05.99,0:01:09.33,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.33,0:01:15.20,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.14,0:01:24.44,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.44,0:01:30.58,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.58,0:01:33.59,Default,,0000,0000,0000,,I don't really\Nneed everything to add up
+Dialogue: 0,0:01:33.59,0:01:36.76,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.76,0:01:40.36,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.36,0:01:45.90,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:51.04,0:01:53.04,Default,,0000,0000,0000,,This smell is...
+Dialogue: 0,0:01:57.44,0:01:58.58,Default,,0000,0000,0000,,It's him!
+Dialogue: 0,0:01:58.58,0:01:59.91,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:01.95,0:02:03.95,Default,,0000,0000,0000,,Doctorine! There's a problem!
+Dialogue: 0,0:02:03.95,0:02:07.09,Default,,0000,0000,0000,,He's... Wapol is back!
+Dialogue: 0,0:02:09.96,0:02:11.29,Default,,0000,0000,0000,,Is that so...
+Dialogue: 0,0:02:11.29,0:02:14.56,Default,,0000,0000,0000,,Ahh! That bastard!
+Dialogue: 0,0:02:14.56,0:02:16.90,Default,,0000,0000,0000,,That annoying mouth!
+Dialogue: 0,0:02:20.83,0:02:24.50,Default,,0000,0000,0000,,Look! Everything is as it\Nused to be! This is my castle.
+Dialogue: 0,0:02:24.50,0:02:26.67,Default,,0000,0000,0000,,We're restoring the Drum Kingdom!
+Dialogue: 0,0:02:29.27,0:02:32.51,Default,,0000,0000,0000,,Just a moment, Wapol-sama!\NOn top of the castle...
+Dialogue: 0,0:02:32.51,0:02:33.51,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:02:38.42,0:02:40.79,Default,,0000,0000,0000,,What's that strange flag?
+Dialogue: 0,0:02:40.79,0:02:43.46,Default,,0000,0000,0000,,What happened to the\NDrum Kingdom's flag?!
+Dialogue: 0,0:02:47.03,0:02:49.66,Default,,0000,0000,0000,,I burned that thing.
+Dialogue: 0,0:02:49.66,0:02:54.03,Default,,0000,0000,0000,,So you show yourself, Dr. Kureha!\NThe last survivor of the doctor hunt!
+Dialogue: 0,0:02:54.03,0:02:56.60,Default,,0000,0000,0000,,This castle is no longer yours!
+Dialogue: 0,0:02:56.60,0:03:00.71,Default,,0000,0000,0000,,This isn't a place for rotten brats like you!
+Dialogue: 0,0:03:00.71,0:03:06.14,Default,,0000,0000,0000,,Leave this country!\NThe Drum Kingdom has already died out!
+Dialogue: 0,0:03:06.14,0:03:07.85,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:03:09.68,0:03:10.85,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:03:12.65,0:03:15.75,Default,,0000,0000,0000,,I'm gonna beat the crap outta him!
+Dialogue: 0,0:03:19.26,0:03:23.60,Default,,0000,0000,0000,,"Vs. Wapol's Corps!\NThe Power Of The Munch Munch Fruit!"
+Dialogue: 0,0:03:25.26,0:03:25.90,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:03:25.90,0:03:28.07,Default,,0000,0000,0000,,W-Wapol-sama! It's Straw Hat!
+Dialogue: 0,0:03:28.07,0:03:30.07,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:03:30.07,0:03:32.07,Default,,0000,0000,0000,,...Pistol!
+Dialogue: 0,0:03:36.44,0:03:39.11,Default,,0000,0000,0000,,--Wapol-sama!\N--Wapol-sama!
+Dialogue: 0,0:03:49.85,0:03:52.52,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:03:57.86,0:04:00.47,Default,,0000,0000,0000,,How dare you bastards...
+Dialogue: 0,0:04:02.40,0:04:07.51,Default,,0000,0000,0000,,Over and over again... How many\Ntimes do you have to be in our way?!
+Dialogue: 0,0:04:07.51,0:04:10.51,Default,,0000,0000,0000,,Hmm? Why are they here?
+Dialogue: 0,0:04:11.34,0:04:12.34,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:04:27.43,0:04:31.06,Default,,0000,0000,0000,,Since I had someone injured with me then,\NI ran, as there was no other choice.
+Dialogue: 0,0:04:31.06,0:04:36.07,Default,,0000,0000,0000,,But this time... I don't\Nhave to hold back any more!
+Dialogue: 0,0:04:37.74,0:04:39.50,Default,,0000,0000,0000,,Hmm, you bastard!
+Dialogue: 0,0:04:39.50,0:04:44.84,Default,,0000,0000,0000,,How dare you suddenly attack Wapol-sama,\Nthe king of the Drum Kingdom!
+Dialogue: 0,0:04:44.84,0:04:46.48,Default,,0000,0000,0000,,That's right! He's the king!
+Dialogue: 0,0:04:46.48,0:04:49.61,Default,,0000,0000,0000,,How dare you do such a\Nthing to his Excellency,
+Dialogue: 0,0:04:49.61,0:04:52.35,Default,,0000,0000,0000,,the most excellent ruler of all\Nthe citizens on this island!
+Dialogue: 0,0:04:52.35,0:04:55.09,Default,,0000,0000,0000,,Who cares! You guys tick me off!
+Dialogue: 0,0:04:55.09,0:04:58.09,Default,,0000,0000,0000,,Hey young man. You know them?
+Dialogue: 0,0:04:58.09,0:05:00.79,Default,,0000,0000,0000,,Yeah, I do! He's that annoying mouth!\NThe annoying mouth pirate!
+Dialogue: 0,0:05:00.79,0:05:01.76,Default,,0000,0000,0000,,That annoying mouth?
+Dialogue: 0,0:05:01.76,0:05:05.26,Default,,0000,0000,0000,,He keeps getting in my way! He ate part\Nof our ship and attacked my friends!
+Dialogue: 0,0:05:05.26,0:05:07.10,Default,,0000,0000,0000,,I won't let him get away\Nwith it any more!
+Dialogue: 0,0:05:07.10,0:05:10.30,Default,,0000,0000,0000,,Before that, aren't you\Ncold in that getup?
+Dialogue: 0,0:05:10.30,0:05:10.84,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:10.84,0:05:12.50,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:05:13.00,0:05:16.37,Default,,0000,0000,0000,,Didn't they say he was the king?\NHe isn't a pirate?!
+Dialogue: 0,0:05:16.37,0:05:17.84,Default,,0000,0000,0000,,That's what you just realized?!
+Dialogue: 0,0:05:17.84,0:05:21.81,Default,,0000,0000,0000,,Humph! What an idiot! It seems\Nhe finally realized his rudeness.
+Dialogue: 0,0:05:21.81,0:05:24.48,Default,,0000,0000,0000,,Wapol-sama is the king\Nof the Drum Kingdom.
+Dialogue: 0,0:05:24.48,0:05:29.05,Default,,0000,0000,0000,,When he met you before, he was temporarily\Na pirate for his own reasons. That's all.
+Dialogue: 0,0:05:29.05,0:05:30.89,Default,,0000,0000,0000,,He's done being a pirate
+Dialogue: 0,0:05:30.89,0:05:34.56,Default,,0000,0000,0000,,and is going back to being the king\Nof this castle and country.
+Dialogue: 0,0:05:34.56,0:05:36.19,Default,,0000,0000,0000,,Hey, this place is cold!
+Dialogue: 0,0:05:36.19,0:05:37.70,Default,,0000,0000,0000,,That's what I've been saying!
+Dialogue: 0,0:05:37.70,0:05:39.40,Default,,0000,0000,0000,,It's 50 degrees below, you know!
+Dialogue: 0,0:05:39.40,0:05:42.50,Default,,0000,0000,0000,,They're making light of us!
+Dialogue: 0,0:05:42.50,0:05:43.90,Default,,0000,0000,0000,,Wapol-sama!
+Dialogue: 0,0:05:43.90,0:05:48.14,Default,,0000,0000,0000,,I'm really mad now... Straw Hat!
+Dialogue: 0,0:05:48.14,0:05:50.34,Default,,0000,0000,0000,,I'll bite you off!
+Dialogue: 0,0:05:50.34,0:05:54.75,Default,,0000,0000,0000,,Um, could you hold on a minute?\NLuffy went to get some clothes.
+Dialogue: 0,0:05:54.75,0:05:56.11,Default,,0000,0000,0000,,He's gone?!
+Dialogue: 0,0:05:56.11,0:05:57.75,Default,,0000,0000,0000,,Let me ask you a question.
+Dialogue: 0,0:05:57.75,0:06:01.19,Default,,0000,0000,0000,,He... stretched earlier... His arm...
+Dialogue: 0,0:06:01.19,0:06:04.12,Default,,0000,0000,0000,,Yeah, he stretches...\Nit's because he's a rubber man.
+Dialogue: 0,0:06:04.12,0:06:08.03,Default,,0000,0000,0000,,Wh... What's that?
+Dialogue: 0,0:06:08.03,0:06:10.20,Default,,0000,0000,0000,,It's a monster!
+Dialogue: 0,0:06:12.40,0:06:17.27,Default,,0000,0000,0000,,To sum up, the rebel old hag and some\Nof the Straw Hats are in this castle.
+Dialogue: 0,0:06:17.27,0:06:24.01,Default,,0000,0000,0000,,Once we eliminate all of them, there won't\Nbe anyone else impudent enough to defy me.
+Dialogue: 0,0:06:24.01,0:06:26.18,Default,,0000,0000,0000,,Precisely.
+Dialogue: 0,0:06:26.18,0:06:30.11,Default,,0000,0000,0000,,This will become the bright day\Nof the Drum Kingdom's restoration.
+Dialogue: 0,0:06:30.11,0:06:32.22,Default,,0000,0000,0000,,I'll start with you, Dr. Kureha!
+Dialogue: 0,0:06:32.22,0:06:35.65,Default,,0000,0000,0000,,You've got quite the nerve settling\Nin the castle during our absence...
+Dialogue: 0,0:06:35.65,0:06:38.12,Default,,0000,0000,0000,,and even flying a strange flag!
+Dialogue: 0,0:06:38.12,0:06:42.13,Default,,0000,0000,0000,,I made this castle Hiriluk's grave.
+Dialogue: 0,0:06:44.33,0:06:48.57,Default,,0000,0000,0000,,I wasn't really interested\Nin such a run-down castle,
+Dialogue: 0,0:06:48.57,0:06:54.61,Default,,0000,0000,0000,,but this reindeer insisted on\Nflying Hiriluk's flag up there.
+Dialogue: 0,0:06:54.61,0:07:00.25,Default,,0000,0000,0000,,I raised this skull towards\Nall the diseases!
+Dialogue: 0,0:07:00.25,0:07:01.85,Default,,0000,0000,0000,,Skull...
+Dialogue: 0,0:07:01.85,0:07:06.72,Default,,0000,0000,0000,,This is a symbol of the belief\Nthat nothing is impossible!
+Dialogue: 0,0:07:06.72,0:07:11.06,Default,,0000,0000,0000,,I will save this country as a doctor!
+Dialogue: 0,0:07:11.06,0:07:15.26,Default,,0000,0000,0000,,By raising this,\NI'll fight just like pirates do!
+Dialogue: 0,0:07:15.26,0:07:20.77,Default,,0000,0000,0000,,Doctor fought to save this country...\Nby raising that flag...
+Dialogue: 0,0:07:27.24,0:07:32.08,Default,,0000,0000,0000,,Take me to the patients!\NI came to save the Twenty MDs!
+Dialogue: 0,0:07:33.31,0:07:36.05,Default,,0000,0000,0000,,You still don't get it?!\NIt was a trap!
+Dialogue: 0,0:07:36.05,0:07:39.55,Default,,0000,0000,0000,,As you can see,\Nthe Twenty MDs are just fine!
+Dialogue: 0,0:07:44.12,0:07:47.26,Default,,0000,0000,0000,,So that was all...
+Dialogue: 0,0:07:47.26,0:07:51.26,Default,,0000,0000,0000,,Good... So none of them are sick?
+Dialogue: 0,0:07:52.23,0:07:57.60,Default,,0000,0000,0000,,I was convinced...\Nthat this was a national crisis...
+Dialogue: 0,0:07:57.60,0:08:00.71,Default,,0000,0000,0000,,So it was just a trick...
+Dialogue: 0,0:08:03.24,0:08:08.05,Default,,0000,0000,0000,,Hey... when do you think a person dies?
+Dialogue: 0,0:08:08.05,0:08:11.28,Default,,0000,0000,0000,,Doctor!!
+Dialogue: 0,0:08:11.28,0:08:14.32,Default,,0000,0000,0000,,When a bullet from a\Npistol pierces his heart?
+Dialogue: 0,0:08:14.32,0:08:18.56,Default,,0000,0000,0000,,No... When he's attacked\Nby an incurable disease?
+Dialogue: 0,0:08:18.56,0:08:24.40,Default,,0000,0000,0000,,No... When he eats a deadly\Npoisonous mushroom soup?
+Dialogue: 0,0:08:24.40,0:08:26.00,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:08:28.60,0:08:32.40,Default,,0000,0000,0000,,A man dies when people forget him...
+Dialogue: 0,0:08:34.84,0:08:38.24,Default,,0000,0000,0000,,Even if I disappear,\Nmy dream will come true.
+Dialogue: 0,0:08:38.24,0:08:42.85,Default,,0000,0000,0000,,The citizens' sickness of the\Nheart will be cured as well...
+Dialogue: 0,0:08:42.85,0:08:46.18,Default,,0000,0000,0000,,Why're you crying... Dalton-kun?
+Dialogue: 0,0:08:47.89,0:08:51.99,Default,,0000,0000,0000,,I wonder... if it's\Nthe same for a country...
+Dialogue: 0,0:08:51.99,0:08:54.99,Default,,0000,0000,0000,,Yeah, if there's someone\Nto pass it on to...
+Dialogue: 0,0:09:01.40,0:09:07.74,Default,,0000,0000,0000,,Don't worry, Chopper.\NYour mushroom can't kill me.
+Dialogue: 0,0:09:11.11,0:09:14.61,Default,,0000,0000,0000,,I had... such a good life!
+Dialogue: 0,0:09:16.21,0:09:17.88,Default,,0000,0000,0000,,Good-bye, quack...
+Dialogue: 0,0:09:21.42,0:09:24.62,Default,,0000,0000,0000,,Thank you, Chopper!
+Dialogue: 0,0:09:41.17,0:09:43.78,Default,,0000,0000,0000,,This castle is where Doctor died...
+Dialogue: 0,0:09:43.78,0:09:48.28,Default,,0000,0000,0000,,He died trying...\Nto save this country...
+Dialogue: 0,0:09:48.28,0:09:52.42,Default,,0000,0000,0000,,So this place is...\Nthis place is Doctor's grave!
+Dialogue: 0,0:09:54.95,0:09:57.62,Default,,0000,0000,0000,,Grave?! That stupid doctor's?!
+Dialogue: 0,0:10:04.93,0:10:09.77,Default,,0000,0000,0000,,How dare you violate my sacred castle\Nwith that scum doctor's flag!
+Dialogue: 0,0:10:09.77,0:10:12.07,Default,,0000,0000,0000,,Burn down that flag already!
+Dialogue: 0,0:10:15.94,0:10:20.31,Default,,0000,0000,0000,,I won't let you make it\Ninside this castle...
+Dialogue: 0,0:10:20.31,0:10:22.35,Default,,0000,0000,0000,,Hmm?!
+Dialogue: 0,0:10:22.35,0:10:24.48,Default,,0000,0000,0000,,Never!
+Dialogue: 0,0:10:24.48,0:10:26.42,Default,,0000,0000,0000,,Wapol-sama... he is...
+Dialogue: 0,0:10:26.42,0:10:28.42,Default,,0000,0000,0000,,That's right! From that time...
+Dialogue: 0,0:10:29.42,0:10:32.49,Default,,0000,0000,0000,,The monster...\Nthat followed the stupid doctor!
+Dialogue: 0,0:10:34.76,0:10:38.36,Default,,0000,0000,0000,,That flag... is Doctor's faith!
+Dialogue: 0,0:10:38.36,0:10:41.57,Default,,0000,0000,0000,,So I won't let you take it down!
+Dialogue: 0,0:10:41.57,0:10:42.97,Default,,0000,0000,0000,,Never!
+Dialogue: 0,0:10:44.70,0:10:47.34,Default,,0000,0000,0000,,Show them no mercy!\NWe're going into the castle!
+Dialogue: 0,0:10:47.34,0:10:51.14,Default,,0000,0000,0000,,Take down every single one of them!
+Dialogue: 0,0:10:51.14,0:10:53.14,Default,,0000,0000,0000,,Are you gonna fight, too, old lady?
+Dialogue: 0,0:10:53.14,0:10:54.51,Default,,0000,0000,0000,,Old lady?
+Dialogue: 0,0:10:54.51,0:10:55.25,Default,,0000,0000,0000,,Ugh!
+Dialogue: 0,0:10:55.25,0:10:57.98,Default,,0000,0000,0000,,If they're more than you guys\Ncan handle, I'll give you a hand.
+Dialogue: 0,0:10:57.98,0:10:59.28,Default,,0000,0000,0000,,Appreciate that...
+Dialogue: 0,0:10:59.28,0:11:01.12,Default,,0000,0000,0000,,Wapol-sama! Please leave them to us!
+Dialogue: 0,0:11:01.12,0:11:03.59,Default,,0000,0000,0000,,We'll clean up the small fries right away!
+Dialogue: 0,0:11:03.59,0:11:04.76,Default,,0000,0000,0000,,Doctorine!
+Dialogue: 0,0:11:09.99,0:11:12.20,Default,,0000,0000,0000,,Hey hey hey, you with the afro.
+Dialogue: 0,0:11:12.20,0:11:16.87,Default,,0000,0000,0000,,What kind of brother are you,\Nthrowing an afro at a lady?
+Dialogue: 0,0:11:18.37,0:11:20.64,Default,,0000,0000,0000,,Hey, you're getting it now.
+Dialogue: 0,0:11:22.77,0:11:24.08,Default,,0000,0000,0000,,You fell for it...
+Dialogue: 0,0:11:24.08,0:11:25.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:26.71,0:11:28.98,Default,,0000,0000,0000,,Ah! What?! I can't shake it off!
+Dialogue: 0,0:11:28.98,0:11:32.32,Default,,0000,0000,0000,,What's this afro?! Static electricity?!
+Dialogue: 0,0:11:32.32,0:11:33.82,Default,,0000,0000,0000,,Exactly!
+Dialogue: 0,0:11:35.62,0:11:38.62,Default,,0000,0000,0000,,Ahh! Dammit! Come off! Dammit!
+Dialogue: 0,0:11:38.62,0:11:41.43,Default,,0000,0000,0000,,Ohhhhh... it's cold! It's cold!
+Dialogue: 0,0:11:41.43,0:11:42.76,Default,,0000,0000,0000,,Clothes! Clothes!
+Dialogue: 0,0:11:44.73,0:11:46.86,Default,,0000,0000,0000,,Clothes! Clothes! Clothes!
+Dialogue: 0,0:11:46.86,0:11:48.33,Default,,0000,0000,0000,,Where're the clothes?!
+Dialogue: 0,0:11:48.33,0:11:50.84,Default,,0000,0000,0000,,What's going on outside?\NIt seems noisy...
+Dialogue: 0,0:11:50.84,0:11:53.54,Default,,0000,0000,0000,,It's cold outside! Where're my clothes?
+Dialogue: 0,0:11:53.54,0:11:57.04,Default,,0000,0000,0000,,I didn't ask that. I asked\Nwhat was happening outside.
+Dialogue: 0,0:11:57.04,0:11:58.51,Default,,0000,0000,0000,,Ahh, it's a fight.
+Dialogue: 0,0:11:58.51,0:12:00.51,Default,,0000,0000,0000,,I see... You guys're okay, right?
+Dialogue: 0,0:12:00.51,0:12:02.21,Default,,0000,0000,0000,,Yeah, so stay in bed.
+Dialogue: 0,0:12:02.21,0:12:04.05,Default,,0000,0000,0000,,You can use my clothes.
+Dialogue: 0,0:12:04.05,0:12:06.58,Default,,0000,0000,0000,,What? Your clothes're ugly.
+Dialogue: 0,0:12:06.58,0:12:08.32,Default,,0000,0000,0000,,They're cooler than yours.
+Dialogue: 0,0:12:08.32,0:12:11.89,Default,,0000,0000,0000,,Really? Well, I guess it's\Nall right if they're warm.
+Dialogue: 0,0:12:11.89,0:12:13.22,Default,,0000,0000,0000,,Alrighty!
+Dialogue: 0,0:12:14.69,0:12:17.70,Default,,0000,0000,0000,,Oh... I wondered what\Nthe fuss was about...
+Dialogue: 0,0:12:17.70,0:12:21.07,Default,,0000,0000,0000,,That bastard! I'll beat up\Nthat annoying mouth!
+Dialogue: 0,0:12:35.71,0:12:37.65,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:12:37.65,0:12:40.65,Default,,0000,0000,0000,,What's with this afro? It doesn't\Ncome off! It doesn't come off!
+Dialogue: 0,0:12:43.72,0:12:45.72,Default,,0000,0000,0000,,There're lots more coming!
+Dialogue: 0,0:12:46.62,0:12:48.63,Default,,0000,0000,0000,,Marimo's Static Cling!
+Dialogue: 0,0:12:51.46,0:12:54.13,Default,,0000,0000,0000,,What the hell are these things?!\NThey're damn gross!
+Dialogue: 0,0:12:54.70,0:12:57.10,Default,,0000,0000,0000,,Hey, reindeer! Don't just watch! Help me!
+Dialogue: 0,0:12:57.10,0:12:58.37,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:58.37,0:13:00.97,Default,,0000,0000,0000,,Take these off quick!\NThey're really gross!
+Dialogue: 0,0:13:00.97,0:13:03.31,Default,,0000,0000,0000,,On top of that, they're plain! Too plain!
+Dialogue: 0,0:13:03.31,0:13:05.91,Default,,0000,0000,0000,,Ahh! They're now stuck on me!\NI'm giving them back to you!
+Dialogue: 0,0:13:05.91,0:13:08.41,Default,,0000,0000,0000,,Ah! Don't give them back to me!\NKeep at least one!
+Dialogue: 0,0:13:08.41,0:13:09.75,Default,,0000,0000,0000,,No! They're gross!
+Dialogue: 0,0:13:09.75,0:13:11.18,Default,,0000,0000,0000,,They're gross to me, too!
+Dialogue: 0,0:13:11.18,0:13:12.62,Default,,0000,0000,0000,,Stop it! Don't give them to me!
+Dialogue: 0,0:13:12.62,0:13:13.99,Default,,0000,0000,0000,,--What the heck are you guys doing?
+Dialogue: 0,0:13:13.99,0:13:15.09,Default,,0000,0000,0000,,--Ahh! Stop it!\N--What the heck are you guys doing?
+Dialogue: 0,0:13:15.09,0:13:18.52,Default,,0000,0000,0000,,Humph! They know nothing about teamwork.
+Dialogue: 0,0:13:18.52,0:13:20.66,Default,,0000,0000,0000,,I'll tell you one thing.
+Dialogue: 0,0:13:20.66,0:13:23.33,Default,,0000,0000,0000,,Despite their plain look,\Nthose Static Marimos burn flashily.
+Dialogue: 0,0:13:24.70,0:13:27.20,Default,,0000,0000,0000,,Hmm?! Oh no!\NHe's going to burn these afros!
+Dialogue: 0,0:13:27.20,0:13:27.73,Default,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:13:27.73,0:13:30.00,Default,,0000,0000,0000,,Okay... Hey! Where're you going?!
+Dialogue: 0,0:13:30.00,0:13:31.14,Default,,0000,0000,0000,,Decoy plan!
+Dialogue: 0,0:13:31.14,0:13:34.07,Default,,0000,0000,0000,,D-Decoy plan? Am I the decoy?!
+Dialogue: 0,0:13:34.07,0:13:35.77,Default,,0000,0000,0000,,Check mate!
+Dialogue: 0,0:13:35.77,0:13:39.11,Default,,0000,0000,0000,,Ah! Ow! Ow! Snow! Snow! Snow!
+Dialogue: 0,0:13:42.71,0:13:43.71,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:13:44.48,0:13:45.58,Default,,0000,0000,0000,,Wapol-sama!
+Dialogue: 0,0:13:45.58,0:13:46.32,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:13:46.32,0:13:47.65,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:13:49.29,0:13:51.56,Default,,0000,0000,0000,,Whoa... This is really warm!
+Dialogue: 0,0:13:51.56,0:13:52.36,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:13:52.36,0:13:52.72,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:52.72,0:13:54.33,Default,,0000,0000,0000,,Grab my leg from there!
+Dialogue: 0,0:13:54.33,0:13:55.99,Default,,0000,0000,0000,,Your leg? Sure!
+Dialogue: 0,0:13:56.59,0:13:57.46,Default,,0000,0000,0000,,Like this?
+Dialogue: 0,0:13:57.46,0:13:59.16,Default,,0000,0000,0000,,Okay then! Don't let your hands go!
+Dialogue: 0,0:13:59.16,0:14:00.73,Default,,0000,0000,0000,,Hmm? Got it!
+Dialogue: 0,0:14:00.73,0:14:06.77,Default,,0000,0000,0000,,Armée de l'Air Assault... Gum Shoot!
+Dialogue: 0,0:14:33.33,0:14:35.00,Default,,0000,0000,0000,,That was okay I guess...
+Dialogue: 0,0:14:36.73,0:14:40.10,Default,,0000,0000,0000,,Th... Thank you. You guys're amazing...
+Dialogue: 0,0:14:40.10,0:14:43.57,Default,,0000,0000,0000,,Ah! Hey Luffy! You jerk!\NIsn't that Nami-san's jacket?!
+Dialogue: 0,0:14:43.57,0:14:47.98,Default,,0000,0000,0000,,Yeah... Look! He's still alive,\Nthough the hippo flew away.
+Dialogue: 0,0:14:47.98,0:14:49.98,Default,,0000,0000,0000,,Take it off! You jerk!
+Dialogue: 0,0:14:49.98,0:14:51.65,Default,,0000,0000,0000,,Wapol-sama, are you all right?
+Dialogue: 0,0:14:51.65,0:14:55.25,Default,,0000,0000,0000,,They're stronger than we thought.\NWe underestimated them!
+Dialogue: 0,0:14:55.25,0:14:59.96,Default,,0000,0000,0000,,I can no longer let them live!\NThose bastards!
+Dialogue: 0,0:14:59.96,0:15:01.03,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:01.03,0:15:04.93,Default,,0000,0000,0000,,I'll show them... the true power\Nof the Munch Munch Fruit!
+Dialogue: 0,0:15:04.93,0:15:06.26,Default,,0000,0000,0000,,Wapol-sama!
+Dialogue: 0,0:15:07.10,0:15:10.60,Default,,0000,0000,0000,,I'll show them... Munch Munch Factory!
+Dialogue: 0,0:15:10.60,0:15:11.70,Default,,0000,0000,0000,,Oh, he stood up!
+Dialogue: 0,0:15:11.70,0:15:13.64,Default,,0000,0000,0000,,Would a normal person stand\Nup after taking that attack?
+Dialogue: 0,0:15:13.64,0:15:15.97,Default,,0000,0000,0000,,His body's made tough!
+Dialogue: 0,0:15:17.44,0:15:21.48,Default,,0000,0000,0000,,Chess! Call out what I ate today!
+Dialogue: 0,0:15:21.48,0:15:22.48,Default,,0000,0000,0000,,Yes sir!
+Dialogue: 0,0:15:23.91,0:15:28.29,Default,,0000,0000,0000,,Well... you ate one butter-sautéed\Ncannon and one raw cannon on the ship.
+Dialogue: 0,0:15:28.29,0:15:33.19,Default,,0000,0000,0000,,Also cannonball and gunpowder salad as\Nwell as a toasted house in the village.
+Dialogue: 0,0:15:33.19,0:15:34.96,Default,,0000,0000,0000,,What kind of stuff do you eat?!
+Dialogue: 0,0:15:34.96,0:15:37.46,Default,,0000,0000,0000,,When it comes to omnivores,\Nthis guy takes the cake.
+Dialogue: 0,0:15:37.46,0:15:42.80,Default,,0000,0000,0000,,Wait and see... Food soon\Nbecomes my blood and flesh...
+Dialogue: 0,0:15:45.54,0:15:47.54,Default,,0000,0000,0000,,He's gonna do something!
+Dialogue: 0,0:15:50.61,0:15:51.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:51.74,0:15:52.94,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:15:52.94,0:15:56.51,Default,,0000,0000,0000,,Munch Munch Shock!
+Dialogue: 0,0:16:00.95,0:16:04.12,Default,,0000,0000,0000,,Wapol House!
+Dialogue: 0,0:16:04.12,0:16:04.69,Default,,0000,0000,0000,,A house?!
+Dialogue: 0,0:16:04.69,0:16:06.79,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:16:06.79,0:16:10.13,Default,,0000,0000,0000,,It's too soon to be surprised.\NNow this is the king's technique!
+Dialogue: 0,0:16:10.13,0:16:11.00,Default,,0000,0000,0000,,--Ahh!\N--Ahh!
+Dialogue: 0,0:16:11.00,0:16:13.90,Default,,0000,0000,0000,,Munch Munch Factory!
+Dialogue: 0,0:16:13.90,0:16:14.57,Default,,0000,0000,0000,,Ahh!
+Dialogue: 0,0:16:14.57,0:16:16.77,Default,,0000,0000,0000,,--Ahhhh!\N--Ahhhh!
+Dialogue: 0,0:16:16.77,0:16:18.10,Default,,0000,0000,0000,,What the...
+Dialogue: 0,0:16:20.30,0:16:22.37,Default,,0000,0000,0000,,H... He's eating his own men!
+Dialogue: 0,0:16:22.37,0:16:24.54,Default,,0000,0000,0000,,He's eating his own people!
+Dialogue: 0,0:16:45.33,0:16:46.76,Default,,0000,0000,0000,,He stopped moving...
+Dialogue: 0,0:16:46.76,0:16:51.04,Default,,0000,0000,0000,,Feast your eyes on this!\NCome out, miraculous union!
+Dialogue: 0,0:16:51.04,0:16:52.70,Default,,0000,0000,0000,,--Huh?!\N--What?! Union?!
+Dialogue: 0,0:16:59.41,0:17:03.68,Default,,0000,0000,0000,,I am the strongest warrior\Nof the Drum Kingdom...
+Dialogue: 0,0:17:10.55,0:17:13.22,Default,,0000,0000,0000,,Chessmarimo!
+Dialogue: 0,0:17:13.22,0:17:16.59,Default,,0000,0000,0000,,Well... isn't that just one\Nriding on the other's shoulders?
+Dialogue: 0,0:17:16.59,0:17:18.23,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:17:18.23,0:17:20.30,Default,,0000,0000,0000,,What's sweet about it?!
+Dialogue: 0,0:17:20.30,0:17:22.13,Default,,0000,0000,0000,,Don't let your guard down.
+Dialogue: 0,0:17:22.13,0:17:23.47,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:17:23.47,0:17:29.21,Default,,0000,0000,0000,,If they were really weak,\Na stupid act like exiling doctors...
+Dialogue: 0,0:17:29.21,0:17:32.21,Default,,0000,0000,0000,,would've been stopped by the citizens.
+Dialogue: 0,0:17:42.49,0:17:45.62,Default,,0000,0000,0000,,The Drum Kingdom's Constitution, Article 1!
+Dialogue: 0,0:17:45.62,0:17:48.93,Default,,0000,0000,0000,,"Those who don't do as the\Nking wishes should die."
+Dialogue: 0,0:17:48.93,0:17:51.03,Default,,0000,0000,0000,,That sums up this country!
+Dialogue: 0,0:17:51.03,0:17:56.47,Default,,0000,0000,0000,,It's because this country is my country...\Nand this castle is my castle.
+Dialogue: 0,0:17:56.47,0:18:00.47,Default,,0000,0000,0000,,Of all the flags,\Ndon't fly that quack's flag!
+Dialogue: 0,0:18:00.47,0:18:02.87,Default,,0000,0000,0000,,It will ruin the castle!
+Dialogue: 0,0:18:18.39,0:18:22.73,Default,,0000,0000,0000,,A pirate flag...\NHey, reindeer. That flag...
+Dialogue: 0,0:18:25.40,0:18:29.07,Default,,0000,0000,0000,,Nothing is impossible for the man\Nwho raised a flag with a skull!
+Dialogue: 0,0:18:29.07,0:18:33.04,Default,,0000,0000,0000,,That's what I told you, right, Chopper?!
+Dialogue: 0,0:18:44.68,0:18:48.35,Default,,0000,0000,0000,,You bastard... you attacked Doctor's flag!
+Dialogue: 0,0:18:50.96,0:18:55.33,Default,,0000,0000,0000,,Doctor... tried to save even you!
+Dialogue: 0,0:18:55.33,0:18:57.70,Default,,0000,0000,0000,,Chopper...
+Dialogue: 0,0:18:57.70,0:18:59.86,Default,,0000,0000,0000,,Don't hold a grudge against humans.
+Dialogue: 0,0:19:02.30,0:19:04.34,Default,,0000,0000,0000,,This country is sick right now.
+Dialogue: 0,0:19:04.34,0:19:07.54,Default,,0000,0000,0000,,The king also suffers from\Na sickness of the heart.
+Dialogue: 0,0:19:10.47,0:19:11.61,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:19:11.61,0:19:15.95,Default,,0000,0000,0000,,Why? Doctor, a guy like\Nhim isn't worth saving!
+Dialogue: 0,0:19:26.32,0:19:27.49,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:19:27.49,0:19:34.67,Default,,0000,0000,0000,,I... I won't hit you...\Nso leave this country!
+Dialogue: 0,0:19:34.67,0:19:40.17,Default,,0000,0000,0000,,What're you saying, Chopper?!\NYou think he'll just listen to you?!
+Dialogue: 0,0:19:40.17,0:19:43.07,Default,,0000,0000,0000,,But... after all...
+Dialogue: 0,0:19:43.07,0:19:44.38,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:19:44.38,0:19:45.78,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:19:45.78,0:19:47.11,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:19:52.42,0:19:53.65,Default,,0000,0000,0000,,Hey, annoying mouth!
+Dialogue: 0,0:19:53.65,0:19:54.65,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:57.12,0:19:58.79,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:20:00.49,0:20:03.49,Default,,0000,0000,0000,,You were a fake pirate, right?
+Dialogue: 0,0:20:03.49,0:20:06.40,Default,,0000,0000,0000,,You don't know what\Nthis pirate flag means
+Dialogue: 0,0:20:06.40,0:20:09.40,Default,,0000,0000,0000,,because you were fake pirates\Nwho didn't even risk your lives!
+Dialogue: 0,0:20:09.40,0:20:10.90,Default,,0000,0000,0000,,That guy...
+Dialogue: 0,0:20:10.90,0:20:13.74,Default,,0000,0000,0000,,What that flag means, Straw Hat?
+Dialogue: 0,0:20:15.44,0:20:18.61,Default,,0000,0000,0000,,Stupid pirate flags have no meaning!
+Dialogue: 0,0:20:18.61,0:20:20.88,Default,,0000,0000,0000,,That's why you're hopeless!
+Dialogue: 0,0:20:20.88,0:20:22.15,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:20:22.15,0:20:26.95,Default,,0000,0000,0000,,A pirate flag isn't something\Nthat you can raise as a joke!
+Dialogue: 0,0:20:26.95,0:20:31.62,Default,,0000,0000,0000,,What an idiot! If it weren't for a joke,\Nthere's no way I, the king, would raise it!
+Dialogue: 0,0:20:31.62,0:20:35.63,Default,,0000,0000,0000,,Don't put that stupid flag\Nback up when I take it down!
+Dialogue: 0,0:20:37.80,0:20:39.86,Default,,0000,0000,0000,,Dodge it! Watch out!
+Dialogue: 0,0:20:39.86,0:20:42.53,Default,,0000,0000,0000,,You can't break this flag!
+Dialogue: 0,0:20:44.23,0:20:45.00,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:20:45.00,0:20:46.67,Default,,0000,0000,0000,,It's a direct hit!
+Dialogue: 0,0:20:48.34,0:20:50.67,Default,,0000,0000,0000,,He must've been blown away!\NSuch an idiot!
+Dialogue: 0,0:20:56.81,0:20:59.32,Default,,0000,0000,0000,,See? It didn't break...
+Dialogue: 0,0:21:02.22,0:21:05.59,Default,,0000,0000,0000,,C... Can't be! He's stupid!
+Dialogue: 0,0:21:05.59,0:21:11.06,Default,,0000,0000,0000,,I don't know who the heck\Nthis pirate flag belongs to...
+Dialogue: 0,0:21:11.06,0:21:14.06,Default,,0000,0000,0000,,but since this flag is a person's\Npledge to risk his life...
+Dialogue: 0,0:21:14.06,0:21:16.53,Default,,0000,0000,0000,,it's not raised as a joke!
+Dialogue: 0,0:21:19.14,0:21:23.81,Default,,0000,0000,0000,,This flag isn't something you can\Njust break while laughing foolishly!
+Dialogue: 0,0:21:31.28,0:21:33.55,Default,,0000,0000,0000,,Incredible...
+Dialogue: 0,0:21:33.55,0:21:36.72,Default,,0000,0000,0000,,So this is... a pirate!
+Dialogue: 0,0:21:40.59,0:21:43.59,Default,,0000,0000,0000,,It won't break... Never...
+Dialogue: 0,0:21:47.03,0:21:51.03,Default,,0000,0000,0000,,The skull is a mark of faith!
+Dialogue: 0,0:22:00.48,0:22:10.79,Default,,0000,0000,0000,,Even this sleepless town\Nhas dozed off for now
+Dialogue: 0,0:22:10.79,0:22:21.90,Default,,0000,0000,0000,,From today forth,\Nsomething's going to change
+Dialogue: 0,0:22:21.90,0:22:32.18,Default,,0000,0000,0000,,I'm sure I can start fresh,\Nsince I'm not alone
+Dialogue: 0,0:22:32.18,0:22:42.65,Default,,0000,0000,0000,,Just by having you by my side,\NI feel I can become strong
+Dialogue: 0,0:22:42.65,0:22:53.10,Default,,0000,0000,0000,,I wonder how far I can go,\Ntowards the place that leads to the future
+Dialogue: 0,0:22:53.10,0:23:01.41,Default,,0000,0000,0000,,Off in the distance it shines,\Nencompassing the world
+Dialogue: 0,0:23:01.41,0:23:05.11,Default,,0000,0000,0000,,Before dawn
+Dialogue: 0,0:23:10.51,0:23:13.68,Default,,0000,0000,0000,,That reindeer is amazing.\NHe transforms one form after another!
+Dialogue: 0,0:23:13.68,0:23:14.92,Default,,0000,0000,0000,,He can really jump.
+Dialogue: 0,0:23:14.92,0:23:16.55,Default,,0000,0000,0000,,A beam's next! He's gonna shoot a beam!
+Dialogue: 0,0:23:16.55,0:23:18.39,Default,,0000,0000,0000,,He won't, you idiot! H-hey, hold on a sec!
+Dialogue: 0,0:23:18.39,0:23:19.62,Default,,0000,0000,0000,,Where did that tin bastard go?
+Dialogue: 0,0:23:19.62,0:23:21.43,Default,,0000,0000,0000,,What? He's not here!\NWhen on earth did he...
+Dialogue: 0,0:23:21.43,0:23:23.59,Default,,0000,0000,0000,,While you were fascinated by\Nthe transformations, of course!
+Dialogue: 0,0:23:23.59,0:23:25.50,Default,,0000,0000,0000,,Where're you, annoying mouth?!
+Dialogue: 0,0:23:25.50,0:23:26.83,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.83,0:23:30.13,Default,,0000,0000,0000,,"Zoan-Type Devil Fruit!\NChopper's Seven-Form Transformation"
+Dialogue: 0,0:23:30.13,0:23:32.47,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.47,0:23:36.97,Default,,0000,0000,0000,,

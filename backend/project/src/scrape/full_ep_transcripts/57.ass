@@ -1,0 +1,362 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.10,0:00:14.64,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.64,0:00:17.54,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.54,0:00:20.38,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.38,0:00:23.48,Default,,0000,0000,0000,,As long as people seek\Nthe answer of freedom,
+Dialogue: 0,0:00:23.48,0:00:26.12,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:35.03,0:00:41.20,Default,,0000,0000,0000,,I only believe in the future--\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.20,0:00:46.54,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.54,0:00:52.54,Default,,0000,0000,0000,,It's too bright, but I want to gaze at it
+Dialogue: 0,0:00:52.54,0:00:56.15,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.15,0:00:59.55,Default,,0000,0000,0000,,I'm really, really stuck on you
+Dialogue: 0,0:00:59.55,0:01:05.99,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:05.99,0:01:09.33,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.33,0:01:15.20,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.14,0:01:24.44,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.44,0:01:30.58,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.58,0:01:33.59,Default,,0000,0000,0000,,I don't really need\Neverything to add up
+Dialogue: 0,0:01:33.59,0:01:36.76,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.76,0:01:40.36,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.36,0:01:45.90,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:50.64,0:01:52.30,Default,,0000,0000,0000,,Sickle-Sickle...
+Dialogue: 0,0:01:52.30,0:01:54.84,Default,,0000,0000,0000,,...Whirlwind!
+Dialogue: 0,0:01:54.84,0:01:56.37,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:01:56.37,0:01:58.31,Default,,0000,0000,0000,,A wind slash!
+Dialogue: 0,0:01:58.31,0:02:00.51,Default,,0000,0000,0000,,Here they come! Here they come!
+Dialogue: 0,0:02:00.51,0:02:02.01,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:02:08.39,0:02:09.72,Default,,0000,0000,0000,,I won't let you escape...
+Dialogue: 0,0:02:11.22,0:02:12.99,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:02:18.83,0:02:22.83,Default,,0000,0000,0000,,Okay! Set sail for Lost Island!
+Dialogue: 0,0:02:31.64,0:02:35.65,Default,,0000,0000,0000,,"A Solitary Island in the Distant Sea!\NThe Legendary Lost Island"
+Dialogue: 0,0:02:38.62,0:02:40.62,Default,,0000,0000,0000,,Contacting all squad captains!
+Dialogue: 0,0:02:40.62,0:02:42.59,Default,,0000,0000,0000,,Assemble on the deck of Ship #1!
+Dialogue: 0,0:02:42.59,0:02:44.46,Default,,0000,0000,0000,,Where's the resource manager?!
+Dialogue: 0,0:02:44.46,0:02:47.59,Default,,0000,0000,0000,,--Turn the yard this way!\N--No, no! To the right!
+Dialogue: 0,0:02:47.59,0:02:50.50,Default,,0000,0000,0000,,Go get repair planks\Nfrom the other ships!
+Dialogue: 0,0:02:50.50,0:02:54.30,Default,,0000,0000,0000,,Repair Team!\NGet to work repairing Ship #1!
+Dialogue: 0,0:02:55.50,0:02:57.34,Default,,0000,0000,0000,,Those damn pirates...
+Dialogue: 0,0:02:57.34,0:03:00.41,Default,,0000,0000,0000,,They're quicker at running\Nthan I expected.
+Dialogue: 0,0:03:00.41,0:03:04.28,Default,,0000,0000,0000,,No worries. It'd be best to\Nlet them go for now, anyway.
+Dialogue: 0,0:03:04.28,0:03:05.44,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:03:05.44,0:03:09.45,Default,,0000,0000,0000,,They went to such dangerous lengths\Nto escape from this island.
+Dialogue: 0,0:03:09.45,0:03:11.78,Default,,0000,0000,0000,,Why do you think that is?
+Dialogue: 0,0:03:11.78,0:03:14.89,Default,,0000,0000,0000,,Have you forgotten\Nthis island has a legend?
+Dialogue: 0,0:03:14.89,0:03:18.89,Default,,0000,0000,0000,,The story about the dragons'\Nnest on Lost Island...
+Dialogue: 0,0:03:18.89,0:03:21.39,Default,,0000,0000,0000,,What? Are you saying they...?!
+Dialogue: 0,0:03:21.39,0:03:23.40,Default,,0000,0000,0000,,It's only a guess.
+Dialogue: 0,0:03:25.10,0:03:29.73,Default,,0000,0000,0000,,But if so, they'll wind up\Nbeing the perfect guides there.
+Dialogue: 0,0:03:36.17,0:03:39.08,Default,,0000,0000,0000,,Reporting to Commodore Nelson?
+Dialogue: 0,0:03:39.08,0:03:40.48,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:03:41.68,0:03:43.68,Default,,0000,0000,0000,,There will be no need for that.
+Dialogue: 0,0:03:43.68,0:03:46.35,Default,,0000,0000,0000,,Sir! But...!
+Dialogue: 0,0:03:51.62,0:03:55.56,Default,,0000,0000,0000,,The Dragonite I seek...\NThe elixir of immortality...
+Dialogue: 0,0:03:55.56,0:03:59.03,Default,,0000,0000,0000,,As if I'd ever hand it over\Nto the likes of Nelson Royal!
+Dialogue: 0,0:04:00.63,0:04:02.53,Default,,0000,0000,0000,,I will have it!
+Dialogue: 0,0:04:02.53,0:04:06.67,Default,,0000,0000,0000,,To become a flawless\NEric the Whirlwind!
+Dialogue: 0,0:04:11.98,0:04:14.48,Default,,0000,0000,0000,,What's taking so long?!
+Dialogue: 0,0:04:16.98,0:04:19.65,Default,,0000,0000,0000,,Commodore, sir! Please have this!
+Dialogue: 0,0:04:21.32,0:04:24.42,Default,,0000,0000,0000,,That's not what I mean!
+Dialogue: 0,0:04:24.42,0:04:29.09,Default,,0000,0000,0000,,--Commodore Nelson Royal!\N--Oh! It's about time!
+Dialogue: 0,0:04:29.09,0:04:31.53,Default,,0000,0000,0000,,You have a report from Eric, I assume?
+Dialogue: 0,0:04:31.53,0:04:35.83,Default,,0000,0000,0000,,No. It's a message from a soldier\Nworking at Warship Island.
+Dialogue: 0,0:04:35.83,0:04:38.74,Default,,0000,0000,0000,,"Eric has located the\Nlegendary Millennial Dragon."
+Dialogue: 0,0:04:38.74,0:04:41.37,Default,,0000,0000,0000,,He goes on to say that all ships\Nare presently busy repairing damage
+Dialogue: 0,0:04:41.37,0:04:43.84,Default,,0000,0000,0000,,that the flagship received.
+Dialogue: 0,0:04:43.84,0:04:46.48,Default,,0000,0000,0000,,Curse you, Eric...
+Dialogue: 0,0:04:46.48,0:04:51.38,Default,,0000,0000,0000,,Why've you not reported to me\Nafter finding the Millennial Dragon?!
+Dialogue: 0,0:04:51.38,0:04:56.25,Default,,0000,0000,0000,,Are you planning to take the\NDragonite all for yourself?!
+Dialogue: 0,0:04:56.25,0:04:59.26,Default,,0000,0000,0000,,You're nothing more than a hired soldier.
+Dialogue: 0,0:05:05.03,0:05:08.90,Default,,0000,0000,0000,,Our main forces will now\Nhead for Warship Island!
+Dialogue: 0,0:05:08.90,0:05:10.60,Default,,0000,0000,0000,,All ships, move out!
+Dialogue: 0,0:05:24.15,0:05:26.82,Default,,0000,0000,0000,,Lost Island, huh?
+Dialogue: 0,0:05:27.92,0:05:31.82,Default,,0000,0000,0000,,The map doesn't have any islands\Nin the waters around Warship Island
+Dialogue: 0,0:05:31.82,0:05:33.89,Default,,0000,0000,0000,,that fit the bill...
+Dialogue: 0,0:05:33.89,0:05:38.03,Default,,0000,0000,0000,,Hey! Grandpa Ryu!\NWhich way should we go?!
+Dialogue: 0,0:05:56.45,0:05:57.92,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:06:00.62,0:06:03.19,Default,,0000,0000,0000,,I think he went to sleep again!
+Dialogue: 0,0:06:07.49,0:06:10.16,Default,,0000,0000,0000,,Sorry for the wait, everyone!
+Dialogue: 0,0:06:10.16,0:06:12.03,Default,,0000,0000,0000,,The food's ready!
+Dialogue: 0,0:06:12.03,0:06:14.20,Default,,0000,0000,0000,,Did she cook again?!
+Dialogue: 0,0:06:14.20,0:06:16.60,Default,,0000,0000,0000,,No one was waiting for her food!
+Dialogue: 0,0:06:19.54,0:06:21.51,Default,,0000,0000,0000,,Oh! Sanji!
+Dialogue: 0,0:06:21.51,0:06:23.04,Default,,0000,0000,0000,,Whew, what a relief!
+Dialogue: 0,0:06:23.04,0:06:25.28,Default,,0000,0000,0000,,So you made today's meal--?!
+Dialogue: 0,0:06:27.41,0:06:29.15,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:06:29.15,0:06:30.75,Default,,0000,0000,0000,,Eat lots, okay?
+Dialogue: 0,0:06:30.75,0:06:32.58,Default,,0000,0000,0000,,Oh! Food!
+Dialogue: 0,0:06:33.48,0:06:34.65,Default,,0000,0000,0000,,Food!
+Dialogue: 0,0:06:37.09,0:06:39.42,Default,,0000,0000,0000,,Hot!
+Dialogue: 0,0:06:39.42,0:06:40.83,Default,,0000,0000,0000,,Why, you...!
+Dialogue: 0,0:06:47.83,0:06:49.40,Default,,0000,0000,0000,,Hot!
+Dialogue: 0,0:06:49.40,0:06:50.77,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:06:50.77,0:06:51.80,Default,,0000,0000,0000,,Apis!
+Dialogue: 0,0:06:55.54,0:06:56.71,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:07:15.79,0:07:17.53,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:07:17.53,0:07:19.20,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:24.87,0:07:28.74,Default,,0000,0000,0000,,Sheesh. I made all that food\Nand it goes to waste!
+Dialogue: 0,0:07:28.74,0:07:30.94,Default,,0000,0000,0000,,Can't you just make some more, then?
+Dialogue: 0,0:07:30.94,0:07:33.41,Default,,0000,0000,0000,,The point is we shouldn't waste food!
+Dialogue: 0,0:07:38.82,0:07:40.15,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:07:44.52,0:07:46.66,Default,,0000,0000,0000,,Lost Island...
+Dialogue: 0,0:07:46.66,0:07:51.00,Default,,0000,0000,0000,,The dragons' nest...\NIt's east of Warship Island...
+Dialogue: 0,0:07:51.00,0:07:52.86,Default,,0000,0000,0000,,So that's where Lost Island is?!
+Dialogue: 0,0:07:52.86,0:07:55.30,Default,,0000,0000,0000,,Grandpa Ryu said he just remembered!
+Dialogue: 0,0:07:58.90,0:08:01.04,Default,,0000,0000,0000,,We know where!
+Dialogue: 0,0:08:01.04,0:08:03.98,Default,,0000,0000,0000,,Lost Island is east of Warship Island!
+Dialogue: 0,0:08:03.98,0:08:06.04,Default,,0000,0000,0000,,Grandpa Ryu said so!
+Dialogue: 0,0:08:06.04,0:08:07.28,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:08:07.28,0:08:09.35,Default,,0000,0000,0000,,Usopp! Take the wheel!
+Dialogue: 0,0:08:09.35,0:08:10.68,Default,,0000,0000,0000,,You got it!
+Dialogue: 0,0:08:12.98,0:08:17.99,Default,,0000,0000,0000,,Alright! Let's rush\Nstraight for Lost Island!
+Dialogue: 0,0:08:25.60,0:08:27.57,Default,,0000,0000,0000,,Dammit! You better eat all of that!
+Dialogue: 0,0:08:27.57,0:08:29.30,Default,,0000,0000,0000,,Yep! Leave it to me!
+Dialogue: 0,0:08:31.10,0:08:33.04,Default,,0000,0000,0000,,They've changed course?
+Dialogue: 0,0:08:33.04,0:08:35.97,Default,,0000,0000,0000,,Yes, sir! The pirate ship appears\Nto be headed for the waters
+Dialogue: 0,0:08:35.97,0:08:37.98,Default,,0000,0000,0000,,east of Warship Island!
+Dialogue: 0,0:08:39.38,0:08:41.18,Default,,0000,0000,0000,,So they're making their move...
+Dialogue: 0,0:08:45.25,0:08:48.52,Default,,0000,0000,0000,,Turn the bows eastward!\NFull speed ahead!
+Dialogue: 0,0:08:48.52,0:08:52.16,Default,,0000,0000,0000,,We're now going to close\Nin on the Straw Hat Pirates!
+Dialogue: 0,0:08:52.16,0:08:53.73,Default,,0000,0000,0000,,Cannoneers to the gun batteries!
+Dialogue: 0,0:08:53.73,0:08:56.13,Default,,0000,0000,0000,,All ships, prepare for Level 3 combat!
+Dialogue: 0,0:08:56.13,0:08:57.66,Default,,0000,0000,0000,,Our destination...
+Dialogue: 0,0:08:57.66,0:09:00.40,Default,,0000,0000,0000,,...is Lost Island.
+Dialogue: 0,0:09:00.40,0:09:03.07,Default,,0000,0000,0000,,All ships, move out!
+Dialogue: 0,0:09:07.21,0:09:08.94,Default,,0000,0000,0000,,--Here, Zoro.\N--Yeah.
+Dialogue: 0,0:09:10.44,0:09:12.18,Default,,0000,0000,0000,,--Here you go, Zoro.\N--Yeah.
+Dialogue: 0,0:09:13.71,0:09:15.21,Default,,0000,0000,0000,,--Here, Zoro.\N--Yeah.
+Dialogue: 0,0:09:17.42,0:09:19.12,Default,,0000,0000,0000,,--Zoro.\N--Yeah.
+Dialogue: 0,0:09:21.02,0:09:22.95,Default,,0000,0000,0000,,Here, Zoro.
+Dialogue: 0,0:09:22.95,0:09:25.49,Default,,0000,0000,0000,,Can't you hand 'em\Nto me without talking?
+Dialogue: 0,0:09:29.89,0:09:34.20,Default,,0000,0000,0000,,Lost Island is at the\Nend of this great ocean!
+Dialogue: 0,0:09:34.20,0:09:36.80,Default,,0000,0000,0000,,What kind of island could it be?!
+Dialogue: 0,0:09:36.80,0:09:38.44,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:38.44,0:09:41.24,Default,,0000,0000,0000,,Usopp! See anything?!
+Dialogue: 0,0:09:41.24,0:09:42.91,Default,,0000,0000,0000,,Nope, nothing!
+Dialogue: 0,0:09:42.91,0:09:44.41,Default,,0000,0000,0000,,No?
+Dialogue: 0,0:09:45.51,0:09:51.05,Default,,0000,0000,0000,,Man, we've come a long way, but\Nthere's no sign of an island at all...
+Dialogue: 0,0:09:51.05,0:09:52.15,Default,,0000,0000,0000,,Are we sure about this?
+Dialogue: 0,0:09:52.15,0:09:53.52,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:09:53.52,0:09:55.72,Default,,0000,0000,0000,,And then there's Grandpa Ryu...
+Dialogue: 0,0:09:55.72,0:09:59.72,Default,,0000,0000,0000,,I wish he'd remember\Nsome more details or something...
+Dialogue: 0,0:09:59.72,0:10:01.73,Default,,0000,0000,0000,,Oh! I know!
+Dialogue: 0,0:10:03.09,0:10:05.60,Default,,0000,0000,0000,,Let's bonk Grandpa Ryu\Nin the head with this!
+Dialogue: 0,0:10:05.60,0:10:08.43,Default,,0000,0000,0000,,Think maybe then the shock'll\Nhelp him remember something else?
+Dialogue: 0,0:10:08.43,0:10:09.87,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:10:24.38,0:10:26.08,Default,,0000,0000,0000,,Hey! Grandpa Ryu! We're almost there!
+Dialogue: 0,0:10:26.08,0:10:29.35,Default,,0000,0000,0000,,We're almost to Lost Island!
+Dialogue: 0,0:10:29.35,0:10:31.62,Default,,0000,0000,0000,,And it's there, right? The dragons' nest?
+Dialogue: 0,0:10:31.62,0:10:35.29,Default,,0000,0000,0000,,And if you go to the dragons' nest,\Nyou'll get better, right?!
+Dialogue: 0,0:10:37.36,0:10:38.86,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:40.77,0:10:42.97,Default,,0000,0000,0000,,You're so goofy, thanking me!
+Dialogue: 0,0:10:42.97,0:10:44.97,Default,,0000,0000,0000,,We're not even there yet!
+Dialogue: 0,0:11:04.09,0:11:06.06,Default,,0000,0000,0000,,They followed us, huh?
+Dialogue: 0,0:11:07.76,0:11:10.60,Default,,0000,0000,0000,,What's that? Smoke?
+Dialogue: 0,0:11:18.44,0:11:21.31,Default,,0000,0000,0000,,Oh, well! We'll see when we get closer!
+Dialogue: 0,0:11:21.31,0:11:23.04,Default,,0000,0000,0000,,Urgh!
+Dialogue: 0,0:11:23.04,0:11:27.11,Default,,0000,0000,0000,,That's not true! I don't think\Nyou're troubling me at all!
+Dialogue: 0,0:11:27.11,0:11:28.41,Default,,0000,0000,0000,,What's your problem?!
+Dialogue: 0,0:11:28.41,0:11:30.31,Default,,0000,0000,0000,,--It turned into an argument at some point.\N--Hey! Grandpa Ryu!
+Dialogue: 0,0:11:30.31,0:11:30.85,Default,,0000,0000,0000,,--It turned into an argument at some point.\N--Hey! Are you listening?
+Dialogue: 0,0:11:30.85,0:11:31.62,Default,,0000,0000,0000,,--It looks more like Apis is\N--Hey! Are you listening?
+Dialogue: 0,0:11:31.62,0:11:32.35,Default,,0000,0000,0000,,--It looks more like Apis is\N--Pretending to sleep isn't fair!
+Dialogue: 0,0:11:32.35,0:11:33.85,Default,,0000,0000,0000,,--the only one who's angry, though...\N--Pretending to sleep isn't fair!
+Dialogue: 0,0:11:33.85,0:11:34.52,Default,,0000,0000,0000,,--the only one who's angry, though...\N--Hey, say something!
+Dialogue: 0,0:11:34.52,0:11:36.35,Default,,0000,0000,0000,,--Do you think we should stop her?\N--Hey, say something!
+Dialogue: 0,0:11:43.26,0:11:45.63,Default,,0000,0000,0000,,A... ship?
+Dialogue: 0,0:11:45.63,0:11:48.30,Default,,0000,0000,0000,,But something's definitely\Nnot right about it...
+Dialogue: 0,0:12:04.08,0:12:07.42,Default,,0000,0000,0000,,Awesome! Nami! Check it out!
+Dialogue: 0,0:12:07.42,0:12:10.35,Default,,0000,0000,0000,,I already am...
+Dialogue: 0,0:12:10.35,0:12:13.52,Default,,0000,0000,0000,,Look! Look at me!
+Dialogue: 0,0:12:24.60,0:12:26.60,Default,,0000,0000,0000,,--The pirate ship!\N--This can't be real!
+Dialogue: 0,0:12:27.44,0:12:28.74,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:12:28.74,0:12:30.88,Default,,0000,0000,0000,,I-It vanished!
+Dialogue: 0,0:12:30.88,0:12:33.11,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:12:33.11,0:12:36.95,Default,,0000,0000,0000,,Hey! What just happened?!\NWhy did they disappear?!
+Dialogue: 0,0:12:36.95,0:12:39.18,Default,,0000,0000,0000,,I-I have no idea!
+Dialogue: 0,0:12:40.79,0:12:42.09,Default,,0000,0000,0000,,--All ships, full stop!\N--Yes, sir!
+Dialogue: 0,0:12:42.09,0:12:44.39,Default,,0000,0000,0000,,Tell everyone to wait on\Nstandby until my next orders!
+Dialogue: 0,0:12:44.39,0:12:45.16,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:12:45.16,0:12:47.19,Default,,0000,0000,0000,,Continue moving forward.
+Dialogue: 0,0:12:47.19,0:12:51.10,Default,,0000,0000,0000,,You can't be serious! There's no\Ntelling what's in the waters ahead!
+Dialogue: 0,0:12:51.10,0:12:52.66,Default,,0000,0000,0000,,It's too risky!
+Dialogue: 0,0:12:52.66,0:12:54.37,Default,,0000,0000,0000,,That again?
+Dialogue: 0,0:12:58.64,0:13:01.71,Default,,0000,0000,0000,,Then have them prepare a small craft.
+Dialogue: 0,0:13:01.71,0:13:04.48,Default,,0000,0000,0000,,You're not seriously going to...!
+Dialogue: 0,0:13:04.48,0:13:07.61,Default,,0000,0000,0000,,That's right. I'm going on my own.
+Dialogue: 0,0:13:26.83,0:13:28.80,Default,,0000,0000,0000,,Huh? It's just fog...
+Dialogue: 0,0:13:28.80,0:13:32.64,Default,,0000,0000,0000,,I thought Nami was in\Nbig trouble again or something...
+Dialogue: 0,0:13:32.64,0:13:34.67,Default,,0000,0000,0000,,What in the world's going on?!
+Dialogue: 0,0:13:34.67,0:13:38.18,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:13:38.18,0:13:40.78,Default,,0000,0000,0000,,Our own ship was right in front of us...
+Dialogue: 0,0:13:40.78,0:13:42.95,Default,,0000,0000,0000,,And then we went right through it... right?
+Dialogue: 0,0:13:42.95,0:13:45.25,Default,,0000,0000,0000,,I can't see anything at all!
+Dialogue: 0,0:13:45.25,0:13:48.19,Default,,0000,0000,0000,,It was almost like... a mirage...
+Dialogue: 0,0:13:48.19,0:13:50.19,Default,,0000,0000,0000,,A mirage? That's it!
+Dialogue: 0,0:13:50.19,0:13:52.19,Default,,0000,0000,0000,,I read about this a long time ago!
+Dialogue: 0,0:13:52.19,0:13:55.19,Default,,0000,0000,0000,,It said temperature differences\Nbetween warm and cold ocean water
+Dialogue: 0,0:13:55.19,0:13:57.86,Default,,0000,0000,0000,,can create mirages at sea!
+Dialogue: 0,0:14:09.07,0:14:10.84,Default,,0000,0000,0000,,Is this a mirage, too?
+Dialogue: 0,0:14:10.84,0:14:13.98,Default,,0000,0000,0000,,Urgh! What's the deal with this sea?!
+Dialogue: 0,0:14:20.65,0:14:22.85,Default,,0000,0000,0000,,Dammit! What're you doing?!
+Dialogue: 0,0:14:22.85,0:14:26.29,Default,,0000,0000,0000,,Shut up! I can't help it,\Nyou damn bastard!
+Dialogue: 0,0:14:26.29,0:14:27.99,Default,,0000,0000,0000,,Sanji-kun! Zoro!
+Dialogue: 0,0:14:27.99,0:14:30.23,Default,,0000,0000,0000,,Let's raise the sails! Undo the ropes!
+Dialogue: 0,0:14:30.23,0:14:31.76,Default,,0000,0000,0000,,Yes, Nami-san!
+Dialogue: 0,0:14:31.76,0:14:33.23,Default,,0000,0000,0000,,You stay in the cabin!
+Dialogue: 0,0:14:33.23,0:14:36.17,Default,,0000,0000,0000,,No! I'm going to stay\Nby Grandpa Ryu's side!
+Dialogue: 0,0:14:36.17,0:14:39.00,Default,,0000,0000,0000,,You idiot! There's nothing you\Ncan do by staying with him!
+Dialogue: 0,0:14:39.00,0:14:42.44,Default,,0000,0000,0000,,I'm sure he's feeling lonesome!\NI hafta hurry to him!
+Dialogue: 0,0:14:42.44,0:14:43.44,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:46.11,0:14:48.05,Default,,0000,0000,0000,,Just sit down and shut up!
+Dialogue: 0,0:14:56.32,0:14:59.96,Default,,0000,0000,0000,,Hurry! We need to hurry back\Ndown and get out of danger!
+Dialogue: 0,0:15:03.46,0:15:05.26,Default,,0000,0000,0000,,For some reason it seems...
+Dialogue: 0,0:15:05.26,0:15:08.20,Default,,0000,0000,0000,,...like this sea's trying\Nto push the ship back.
+Dialogue: 0,0:15:12.07,0:15:14.00,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:15:14.54,0:15:15.81,Default,,0000,0000,0000,,Grandpa Ryu!
+Dialogue: 0,0:15:15.81,0:15:18.68,Default,,0000,0000,0000,,Don't worry! This storm is no big deal at--!
+Dialogue: 0,0:15:29.85,0:15:31.06,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:15:36.09,0:15:37.26,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:15:46.10,0:15:49.51,Default,,0000,0000,0000,,Grandpa Ryu! No! What are you saying?!
+Dialogue: 0,0:15:49.51,0:15:52.38,Default,,0000,0000,0000,,We will save you! Don't give up!
+Dialogue: 0,0:15:58.08,0:16:01.85,Default,,0000,0000,0000,,We promised we'd go\Nto your nest together!
+Dialogue: 0,0:16:01.85,0:16:03.95,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:16:03.95,0:16:06.06,Default,,0000,0000,0000,,...Lasso!
+Dialogue: 0,0:16:07.39,0:16:09.29,Default,,0000,0000,0000,,Nami-san! There's light over there!
+Dialogue: 0,0:16:09.29,0:16:11.76,Default,,0000,0000,0000,,That's the eye of the typhoon!
+Dialogue: 0,0:16:11.76,0:16:14.77,Default,,0000,0000,0000,,Hey! I see an island below that light!
+Dialogue: 0,0:16:14.77,0:16:16.57,Default,,0000,0000,0000,,We're going to land there!
+Dialogue: 0,0:16:18.94,0:16:20.07,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:16:20.07,0:16:22.47,Default,,0000,0000,0000,,Don't worry! Leave it to me!
+Dialogue: 0,0:16:22.47,0:16:25.64,Default,,0000,0000,0000,,We're taking him to\Nthe dragons' nest, right?!
+Dialogue: 0,0:16:25.64,0:16:26.71,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:34.15,0:16:38.76,Default,,0000,0000,0000,,Stormy seas surround the island...
+Dialogue: 0,0:16:38.76,0:16:42.63,Default,,0000,0000,0000,,It's almost like they're trying\Nto keep people away from it...
+Dialogue: 0,0:16:42.63,0:16:47.16,Default,,0000,0000,0000,,That must be why nobody's\Never found it before, huh?
+Dialogue: 0,0:16:47.16,0:16:52.57,Default,,0000,0000,0000,,But it seems more like a castle\Nthat's sunk into the sea than an island...
+Dialogue: 0,0:16:55.11,0:16:59.51,Default,,0000,0000,0000,,Whoa! Check it out!\NDoesn't that seem shaped like a dragon?!
+Dialogue: 0,0:16:59.51,0:17:02.78,Default,,0000,0000,0000,,This must be where the\NMillennial Dragon lives after all!
+Dialogue: 0,0:17:02.78,0:17:06.28,Default,,0000,0000,0000,,Wow! Dragons sure are skillful!
+Dialogue: 0,0:17:06.28,0:17:10.39,Default,,0000,0000,0000,,You idiot! It was obviously\Nhumans who made this building!
+Dialogue: 0,0:17:10.39,0:17:12.89,Default,,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:17:12.89,0:17:16.13,Default,,0000,0000,0000,,We made it to Lost Island!
+Dialogue: 0,0:17:19.93,0:17:23.30,Default,,0000,0000,0000,,But does anyone even live here anymore?
+Dialogue: 0,0:17:23.30,0:17:25.77,Default,,0000,0000,0000,,The whole place has been\Nswallowed up by Mother Nature...
+Dialogue: 0,0:17:25.77,0:17:28.87,Default,,0000,0000,0000,,Say, where do you suppose\Nthe dragons' nest is?
+Dialogue: 0,0:17:28.87,0:17:30.31,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:30.31,0:17:33.28,Default,,0000,0000,0000,,Grandpa Ryu!\NI'm talking to you, Grandpa Ryu!
+Dialogue: 0,0:17:33.28,0:17:38.28,Default,,0000,0000,0000,,Sheesh! We're at the dragon nest\Nisland now! Come on, wake up!
+Dialogue: 0,0:17:43.85,0:17:46.32,Default,,0000,0000,0000,,What did he say?
+Dialogue: 0,0:17:46.32,0:17:48.33,Default,,0000,0000,0000,,He says he's not sure...
+Dialogue: 0,0:17:48.33,0:17:51.66,Default,,0000,0000,0000,,He says this might not be Lost Island...
+Dialogue: 0,0:17:51.66,0:17:53.96,Default,,0000,0000,0000,,--What?!\N--You can't be serious!
+Dialogue: 0,0:17:53.96,0:17:57.60,Default,,0000,0000,0000,,We went all the way through\Nthat stormy sea just to get here!
+Dialogue: 0,0:17:58.74,0:18:00.94,Default,,0000,0000,0000,,Apis!
+Dialogue: 0,0:18:00.94,0:18:02.77,Default,,0000,0000,0000,,Look at the top there!
+Dialogue: 0,0:18:02.77,0:18:05.24,Default,,0000,0000,0000,,We could look down at the\Nwhole island from up there!
+Dialogue: 0,0:18:05.24,0:18:08.61,Default,,0000,0000,0000,,Yeah! Trying to figure things\Nout here won't get us anywhere!
+Dialogue: 0,0:18:08.61,0:18:10.31,Default,,0000,0000,0000,,--Let's go have a look!\N--Okay!
+Dialogue: 0,0:18:10.31,0:18:12.82,Default,,0000,0000,0000,,Alright! Let's go!
+Dialogue: 0,0:18:19.02,0:18:23.13,Default,,0000,0000,0000,,Stupid Nami makes\Nthe men do all the work...
+Dialogue: 0,0:18:23.13,0:18:24.73,Default,,0000,0000,0000,,It's like, "Try pushing it yourself!"
+Dialogue: 0,0:18:24.73,0:18:27.80,Default,,0000,0000,0000,,Hey, you! Less complaining\Nand more pushing!
+Dialogue: 0,0:18:27.80,0:18:29.63,Default,,0000,0000,0000,,Don't start getting cocky, you!
+Dialogue: 0,0:18:29.63,0:18:31.57,Default,,0000,0000,0000,,Quit complaining and push!
+Dialogue: 0,0:18:31.57,0:18:34.57,Default,,0000,0000,0000,,Ah! Nami-san is so nice\Nwhen she's snappy!
+Dialogue: 0,0:18:34.57,0:18:36.04,Default,,0000,0000,0000,,If only!
+Dialogue: 0,0:18:45.22,0:18:46.98,Default,,0000,0000,0000,,It's a city...
+Dialogue: 0,0:18:49.52,0:18:53.89,Default,,0000,0000,0000,,Wow! Everything is broken everywhere!
+Dialogue: 0,0:18:53.89,0:18:56.26,Default,,0000,0000,0000,,Did people really used to live here?
+Dialogue: 0,0:18:56.26,0:18:59.06,Default,,0000,0000,0000,,Obviously, given all of these houses.
+Dialogue: 0,0:18:59.06,0:19:01.27,Default,,0000,0000,0000,,Then why's there no one here now?
+Dialogue: 0,0:19:01.27,0:19:05.80,Default,,0000,0000,0000,,Who knows? Maybe they found\Na better island to live on.
+Dialogue: 0,0:19:09.54,0:19:12.24,Default,,0000,0000,0000,,The Millennial Dragon's mark...
+Dialogue: 0,0:19:12.24,0:19:17.18,Default,,0000,0000,0000,,Did the Millennial Dragon play\Nwith children here on this island?
+Dialogue: 0,0:19:18.78,0:19:22.22,Default,,0000,0000,0000,,Hey! Are you guys friends\Nof the Millennial Dragon too?
+Dialogue: 0,0:19:23.82,0:19:27.36,Default,,0000,0000,0000,,Come on, Apis. Don't get left behind!
+Dialogue: 0,0:19:28.59,0:19:31.40,Default,,0000,0000,0000,,Guess what?!\NThese birds told me something!
+Dialogue: 0,0:19:31.40,0:19:35.17,Default,,0000,0000,0000,,They said there's a building\Non the summit with a dragon mark!
+Dialogue: 0,0:19:35.17,0:19:36.37,Default,,0000,0000,0000,,For reals?!
+Dialogue: 0,0:19:36.37,0:19:39.20,Default,,0000,0000,0000,,It might be the dragons' nest!
+Dialogue: 0,0:19:43.94,0:19:46.74,Default,,0000,0000,0000,,Nami! Hurry up!
+Dialogue: 0,0:19:48.28,0:19:50.21,Default,,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:20:03.43,0:20:04.83,Default,,0000,0000,0000,,Ready... go!
+Dialogue: 0,0:20:07.93,0:20:10.43,Default,,0000,0000,0000,,We finally made it... I can't go on...
+Dialogue: 0,0:20:11.60,0:20:14.17,Default,,0000,0000,0000,,Thanks for showing us the way!
+Dialogue: 0,0:20:16.77,0:20:19.14,Default,,0000,0000,0000,,We've sure come up a long ways.
+Dialogue: 0,0:20:19.14,0:20:21.11,Default,,0000,0000,0000,,Good work, everyone!
+Dialogue: 0,0:20:21.11,0:20:22.88,Default,,0000,0000,0000,,Yep! Good work!
+Dialogue: 0,0:20:25.88,0:20:28.45,Default,,0000,0000,0000,,This painting is of the\NMillennial Dragon, right?
+Dialogue: 0,0:20:28.45,0:20:30.75,Default,,0000,0000,0000,,Yeah, it is.
+Dialogue: 0,0:20:30.75,0:20:33.22,Default,,0000,0000,0000,,This building is the dragons' nest?
+Dialogue: 0,0:20:33.22,0:20:34.69,Default,,0000,0000,0000,,This place?
+Dialogue: 0,0:20:34.69,0:20:38.76,Default,,0000,0000,0000,,Hold on! Where's the entrance?\NHow do we get inside?
+Dialogue: 0,0:20:38.76,0:20:40.26,Default,,0000,0000,0000,,This is the door!
+Dialogue: 0,0:20:40.26,0:20:41.30,Default,,0000,0000,0000,,You're so stupid!
+Dialogue: 0,0:20:41.30,0:20:44.03,Default,,0000,0000,0000,,There's no handle\Nor keyhole anywhere!
+Dialogue: 0,0:20:44.03,0:20:45.90,Default,,0000,0000,0000,,How're you supposed to open it?!
+Dialogue: 0,0:20:54.11,0:20:55.45,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:20:55.45,0:20:59.78,Default,,0000,0000,0000,,Apis! That pendant... You don't mean...
+Dialogue: 0,0:20:59.78,0:21:03.12,Default,,0000,0000,0000,,It's actually a key that opens\Nthe door to the dragons' nest?
+Dialogue: 0,0:21:05.26,0:21:06.66,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:12.20,0:21:13.76,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:17.97,0:21:20.57,Default,,0000,0000,0000,,I can't reach...
+Dialogue: 0,0:21:20.57,0:21:23.51,Default,,0000,0000,0000,,--You're so little, Apis!\N--So what?!
+Dialogue: 0,0:21:23.51,0:21:25.54,Default,,0000,0000,0000,,Alright! Leave it to me!
+Dialogue: 0,0:21:26.88,0:21:28.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:28.41,0:21:29.85,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:22:02.41,0:22:05.72,Default,,0000,0000,0000,,We're alive... right?
+Dialogue: 0,0:22:05.72,0:22:07.99,Default,,0000,0000,0000,,Yeah, it seems that way...
+Dialogue: 0,0:22:07.99,0:22:12.16,Default,,0000,0000,0000,,Say, what was that about it\Nbeing a key just a minute ago?
+Dialogue: 0,0:22:14.42,0:22:15.89,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:22:18.60,0:22:21.67,Default,,0000,0000,0000,,Well, in any case, we're inside now.
+Dialogue: 0,0:22:23.30,0:22:25.20,Default,,0000,0000,0000,,It worked out!
+Dialogue: 0,0:22:25.20,0:22:29.27,Default,,0000,0000,0000,,But... what is this place?
+Dialogue: 0,0:22:29.27,0:22:32.01,Default,,0000,0000,0000,,Yeah... What is it?
+Dialogue: 0,0:22:39.75,0:22:42.02,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:22:56.07,0:23:01.07,Default,,0000,0000,0000,,My overflowing feelings don't connect
+Dialogue: 0,0:23:01.07,0:23:05.98,Default,,0000,0000,0000,,as I firmly squeeze your hand back
+Dialogue: 0,0:23:05.98,0:23:10.91,Default,,0000,0000,0000,,I'll set off by myself,
+Dialogue: 0,0:23:10.91,0:23:16.25,Default,,0000,0000,0000,,so keep watching me intently\Nas I go into the distance
+Dialogue: 0,0:23:20.76,0:23:25.76,Default,,0000,0000,0000,,I was thinking about it\Na bit since this morning
+Dialogue: 0,0:23:25.76,0:23:30.33,Default,,0000,0000,0000,,Why is it so hot?
+Dialogue: 0,0:23:30.33,0:23:40.74,Default,,0000,0000,0000,,Starting from some point, I haven't\Nbeen able to get away from that
+Dialogue: 0,0:23:41.81,0:23:46.68,Default,,0000,0000,0000,,I want to catch those\Nfeelings that rushed off,
+Dialogue: 0,0:23:46.68,0:23:51.56,Default,,0000,0000,0000,,and I'm already about\Nto overtake myself, even
+Dialogue: 0,0:23:51.56,0:23:56.56,Default,,0000,0000,0000,,I want to embrace my\Ndreams that have jumped out
+Dialogue: 0,0:23:56.56,0:24:01.73,Default,,0000,0000,0000,,With you, I can run there
+Dialogue: 0,0:24:10.74,0:24:13.18,Default,,0000,0000,0000,,Hey, now! Is this really Lost Island?!
+Dialogue: 0,0:24:13.18,0:24:15.51,Default,,0000,0000,0000,,See! Look at that! This means...
+Dialogue: 0,0:24:15.51,0:24:16.15,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:24:16.15,0:24:19.22,Default,,0000,0000,0000,,That bastard!\NHe followed us all the way here?!
+Dialogue: 0,0:24:19.22,0:24:20.98,Default,,0000,0000,0000,,Alright! Let's fight! You too, Zoro!
+Dialogue: 0,0:24:20.98,0:24:22.82,Default,,0000,0000,0000,,I said stop already!
+Dialogue: 0,0:24:22.82,0:24:25.72,Default,,0000,0000,0000,,Oh, no! Now there's a huge armada!
+Dialogue: 0,0:24:25.72,0:24:27.02,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:24:27.02,0:24:30.19,Default,,0000,0000,0000,,"Showdown in the Ruins!\NTense Zoro vs. Eric!"
+Dialogue: 0,0:24:30.19,0:24:32.40,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:24:32.40,0:24:34.40,Default,,0000,0000,0000,,

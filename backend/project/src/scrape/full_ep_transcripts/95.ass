@@ -1,0 +1,385 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.99,0:00:14.62,Default,,0000,0000,0000,,Inherited will...
+Dialogue: 0,0:00:14.62,0:00:17.49,Default,,0000,0000,0000,,The tide of the times...\NPeople's dreams...
+Dialogue: 0,0:00:17.49,0:00:20.33,Default,,0000,0000,0000,,These things cannot be stopped.
+Dialogue: 0,0:00:20.33,0:00:23.43,Default,,0000,0000,0000,,As long as people\Nseek the answer of freedom,
+Dialogue: 0,0:00:23.43,0:00:26.07,Default,,0000,0000,0000,,these things will never cease to be!
+Dialogue: 0,0:00:34.98,0:00:41.05,Default,,0000,0000,0000,,I only believe in the future --\NI don't care if anyone laughs
+Dialogue: 0,0:00:41.05,0:00:46.56,Default,,0000,0000,0000,,That racing passion makes you shine
+Dialogue: 0,0:00:46.56,0:00:52.56,Default,,0000,0000,0000,,It's too bright,\Nbut I want to gaze at it
+Dialogue: 0,0:00:52.56,0:00:56.06,Default,,0000,0000,0000,,I sense "aesthetics" somewhere
+Dialogue: 0,0:00:56.06,0:00:59.37,Default,,0000,0000,0000,,I'm really really stuck on you
+Dialogue: 0,0:00:59.37,0:01:06.01,Default,,0000,0000,0000,,I follow, follow in the footsteps\Nof a dream that resembles no one
+Dialogue: 0,0:01:06.01,0:01:09.31,Default,,0000,0000,0000,,Until I dramatically get it
+Dialogue: 0,0:01:09.31,0:01:15.18,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:18.22,0:01:24.43,Default,,0000,0000,0000,,I'm going to catch, catch the shape\Nof a dream no one can see
+Dialogue: 0,0:01:24.43,0:01:30.47,Default,,0000,0000,0000,,I'm going to go with you,\Nso passionate feelings
+Dialogue: 0,0:01:30.47,0:01:33.54,Default,,0000,0000,0000,,I don't really\Nneed everything to add up
+Dialogue: 0,0:01:33.54,0:01:36.71,Default,,0000,0000,0000,,Rather than run-of-the-mill daily life,
+Dialogue: 0,0:01:36.71,0:01:40.31,Default,,0000,0000,0000,,run for paradise instead
+Dialogue: 0,0:01:40.31,0:01:45.85,Default,,0000,0000,0000,,Believe In Wonderland!
+Dialogue: 0,0:01:50.05,0:02:07.14,On Top,,0000,0000,0000,,"Yuba"              "Nanohana"   "Katorea"
+Dialogue: 0,0:01:52.42,0:01:56.66,Default,,0000,0000,0000,,Three years have passed since\Na single drop of rain fell
+Dialogue: 0,0:01:56.66,0:01:58.29,Default,,0000,0000,0000,,in the kingdom of oases.
+Dialogue: 0,0:01:58.29,0:02:02.46,Default,,0000,0000,0000,,Seeing hope beyond turmoil,\Nthe people took up weapons.
+Dialogue: 0,0:02:02.46,0:02:05.83,Default,,0000,0000,0000,,The burning land is now\Nenveloped by a sad bellowing
+Dialogue: 0,0:02:05.83,0:02:08.17,Default,,0000,0000,0000,,and a mighty swell.
+Dialogue: 0,0:02:10.31,0:02:12.87,Default,,0000,0000,0000,,After arriving in Alabasta,\NLuffy and the others
+Dialogue: 0,0:02:12.87,0:02:15.88,Default,,0000,0000,0000,,encountered Navy Captain Smoker.
+Dialogue: 0,0:02:17.55,0:02:19.78,Default,,0000,0000,0000,,There to save Luffy\Nin the nick of time
+Dialogue: 0,0:02:19.78,0:02:23.09,Default,,0000,0000,0000,,was the man who controls fire:\NFire Fist Ace.
+Dialogue: 0,0:02:23.09,0:02:26.76,Default,,0000,0000,0000,,Ace turned out to be\NLuffy's older brother.
+Dialogue: 0,0:02:31.56,0:02:36.17,Default,,0000,0000,0000,,"Ace and Luffy!\NHot Emotions and Brotherly Bonds"
+Dialogue: 0,0:02:49.61,0:02:50.75,Default,,0000,0000,0000,,Move.
+Dialogue: 0,0:02:50.75,0:02:54.08,Default,,0000,0000,0000,,I'm afraid that's a no-can-do.
+Dialogue: 0,0:03:00.42,0:03:02.42,Default,,0000,0000,0000,,Fire Fist Ace...
+Dialogue: 0,0:03:03.66,0:03:07.16,Default,,0000,0000,0000,,To think you're Straw Hat's brother...
+Dialogue: 0,0:03:19.51,0:03:21.24,Default,,0000,0000,0000,,White...
+Dialogue: 0,0:03:21.24,0:03:22.58,Default,,0000,0000,0000,,Spark!
+Dialogue: 0,0:03:29.02,0:03:30.75,Default,,0000,0000,0000,,Wh-What is that?!
+Dialogue: 0,0:03:30.75,0:03:34.09,Default,,0000,0000,0000,,--Is a house on fire?!\N--No, it's no ordinary fire!
+Dialogue: 0,0:03:35.22,0:03:37.13,Default,,0000,0000,0000,,What in the world is happening?
+Dialogue: 0,0:03:37.13,0:03:39.60,Default,,0000,0000,0000,,It's a fight between flame and smoke?!
+Dialogue: 0,0:03:39.60,0:03:44.27,Default,,0000,0000,0000,,He did say he ate\Nthe Flame-Flame Fruit.
+Dialogue: 0,0:03:44.27,0:03:48.54,Default,,0000,0000,0000,,But Luffy! Is it true\Nthat guy's your brother?!
+Dialogue: 0,0:03:48.54,0:03:51.31,Default,,0000,0000,0000,,Yeah! His name's Ace!
+Dialogue: 0,0:03:51.31,0:03:54.08,Default,,0000,0000,0000,,You having a brother\Nisn't that surprising,
+Dialogue: 0,0:03:54.08,0:03:56.18,Default,,0000,0000,0000,,but what's he doing\Nin the Grand Line?!
+Dialogue: 0,0:03:56.18,0:03:57.81,Default,,0000,0000,0000,,Ace is a pirate!
+Dialogue: 0,0:03:57.81,0:04:02.08,Default,,0000,0000,0000,,He left the island three years\Nbefore me to find the One Piece!
+Dialogue: 0,0:04:07.56,0:04:10.23,Default,,0000,0000,0000,,A-Anyways, let's hurry back to the ship!
+Dialogue: 0,0:04:10.23,0:04:12.06,Default,,0000,0000,0000,,Let's escape before\Nanyone comes after us!
+Dialogue: 0,0:04:12.06,0:04:13.70,Default,,0000,0000,0000,,Yes, Nami-san!
+Dialogue: 0,0:04:18.83,0:04:23.17,Default,,0000,0000,0000,,Still, I never thought I'd\Nsee Ace in a place like this!
+Dialogue: 0,0:04:26.31,0:04:27.54,Default,,0000,0000,0000,,The path splits into two!
+Dialogue: 0,0:04:27.54,0:04:29.44,Default,,0000,0000,0000,,Usopp, left! Hear me, guys?!
+Dialogue: 0,0:04:29.44,0:04:31.78,Default,,0000,0000,0000,,Yes, Nami-san! I'll follow\Nyou wherever you go!
+Dialogue: 0,0:04:31.78,0:04:34.22,Default,,0000,0000,0000,,Enough, pervy cook!
+Dialogue: 0,0:04:34.22,0:04:37.89,Default,,0000,0000,0000,,Cool! The fireball's gone even higher!
+Dialogue: 0,0:04:38.89,0:04:43.56,Default,,0000,0000,0000,,It seems there really is no end to\Na fight between flame and smoke.
+Dialogue: 0,0:04:43.56,0:04:47.00,Default,,0000,0000,0000,,Though it was already obvious enough.
+Dialogue: 0,0:04:47.00,0:04:48.96,Default,,0000,0000,0000,,Where did Straw Hat's crew go?
+Dialogue: 0,0:04:48.96,0:04:50.13,Default,,0000,0000,0000,,Th-They're gone!
+Dialogue: 0,0:04:50.13,0:04:53.07,Default,,0000,0000,0000,,So is Ace! We've lost sight of him!
+Dialogue: 0,0:04:53.07,0:04:56.61,Default,,0000,0000,0000,,I caught Straw Hat for the\Nfirst time in the Grand Line...
+Dialogue: 0,0:04:56.61,0:05:02.81,Default,,0000,0000,0000,,But Portgas D. Ace.\NYou simply had to get in the way.
+Dialogue: 0,0:05:02.81,0:05:05.48,Default,,0000,0000,0000,,Hurry and load the stuff!\NWe're leaving right away!
+Dialogue: 0,0:05:05.48,0:05:07.38,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:05:07.38,0:05:09.12,Default,,0000,0000,0000,,Set the sails!
+Dialogue: 0,0:05:11.05,0:05:15.79,Default,,0000,0000,0000,,S-Say. Are we leaving again just\Nafter we finally reached the island?
+Dialogue: 0,0:05:15.79,0:05:20.46,Default,,0000,0000,0000,,Yes. We only stopped by this town\Nto get what we're going to need.
+Dialogue: 0,0:05:20.46,0:05:25.23,Default,,0000,0000,0000,,Now we're going to head up the\Nriver into the interior of Alabasta.
+Dialogue: 0,0:05:25.23,0:05:28.87,Default,,0000,0000,0000,,Our next destination is Erumalu,\Nthe City of Green.
+Dialogue: 0,0:05:28.87,0:05:29.87,Default,,0000,0000,0000,,Erumalu?
+Dialogue: 0,0:05:29.87,0:05:31.58,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:05:31.58,0:05:32.54,Default,,0000,0000,0000,,Pick up the pace!
+Dialogue: 0,0:05:32.54,0:05:33.58,Default,,0000,0000,0000,,All set!
+Dialogue: 0,0:05:33.58,0:05:35.51,Default,,0000,0000,0000,,Okay! Let's set sail!
+Dialogue: 0,0:05:39.85,0:05:41.68,Default,,0000,0000,0000,,Y'know...
+Dialogue: 0,0:05:41.68,0:05:43.02,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:44.89,0:05:48.02,Default,,0000,0000,0000,,I get the feeling we're\Nmissing someone...
+Dialogue: 0,0:05:48.02,0:05:49.69,Default,,0000,0000,0000,,So do I...
+Dialogue: 0,0:05:49.69,0:05:53.23,Default,,0000,0000,0000,,Yeah. We're missing\Napproximately one person.
+Dialogue: 0,0:05:53.23,0:05:56.06,Default,,0000,0000,0000,,That moron!
+Dialogue: 0,0:05:57.10,0:05:58.60,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:00.14,0:06:03.21,Default,,0000,0000,0000,,That's weird.
+Dialogue: 0,0:06:03.21,0:06:05.21,Default,,0000,0000,0000,,Why am I the only one here?
+Dialogue: 0,0:06:08.41,0:06:11.35,Default,,0000,0000,0000,,Where did they go?
+Dialogue: 0,0:06:11.35,0:06:16.55,Default,,0000,0000,0000,,Sheesh! I guess my letting you\Nescape was pretty much pointless.
+Dialogue: 0,0:06:16.55,0:06:17.49,Default,,0000,0000,0000,,Yo!
+Dialogue: 0,0:06:17.49,0:06:18.82,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:06:20.49,0:06:22.52,Default,,0000,0000,0000,,Haven't seen you in a while, Luffy!
+Dialogue: 0,0:06:22.52,0:06:24.13,Default,,0000,0000,0000,,You too, Ace!
+Dialogue: 0,0:06:28.60,0:06:30.63,Default,,0000,0000,0000,,How many years has it been?
+Dialogue: 0,0:06:30.63,0:06:31.53,Default,,0000,0000,0000,,Good question.
+Dialogue: 0,0:06:31.53,0:06:34.20,Default,,0000,0000,0000,,But, Luffy. It looks like you\Nstill go at your own pace,
+Dialogue: 0,0:06:34.20,0:06:36.37,Default,,0000,0000,0000,,just like you did\Nsince you were a kid.
+Dialogue: 0,0:06:36.37,0:06:40.14,Default,,0000,0000,0000,,You too, Ace! I was surprised\Nyou ate a Devil Fruit,
+Dialogue: 0,0:06:40.14,0:06:41.64,Default,,0000,0000,0000,,but besides that, you're the same!
+Dialogue: 0,0:06:41.64,0:06:44.88,Default,,0000,0000,0000,,Like when you'd sneak into the fields,\Neat 100 watermelons,
+Dialogue: 0,0:06:44.88,0:06:47.65,Default,,0000,0000,0000,,and then spit the seeds\Nout like a gun and run!
+Dialogue: 0,0:06:47.65,0:06:50.36,Default,,0000,0000,0000,,That wasn't me! That was you!
+Dialogue: 0,0:06:50.36,0:06:52.99,Default,,0000,0000,0000,,And then you got big bumps right here!
+Dialogue: 0,0:06:52.99,0:06:56.33,Default,,0000,0000,0000,,That was you, too!\NI watched and laughed!
+Dialogue: 0,0:07:03.97,0:07:05.63,Default,,0000,0000,0000,,I guess we're both the same!
+Dialogue: 0,0:07:05.63,0:07:07.60,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:07.60,0:07:09.64,Default,,0000,0000,0000,,This brings back memories!
+Dialogue: 0,0:07:09.64,0:07:13.31,Default,,0000,0000,0000,,Say, weren't your friends\Nlooking for you?
+Dialogue: 0,0:07:13.31,0:07:14.34,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:14.34,0:07:16.88,Default,,0000,0000,0000,,But, Ace. What are you\Ndoing in this country?
+Dialogue: 0,0:07:16.88,0:07:21.78,Default,,0000,0000,0000,,Huh? You mean you didn't get\Nthe message I sent to Drum?
+Dialogue: 0,0:07:21.78,0:07:23.32,Default,,0000,0000,0000,,Drum?
+Dialogue: 0,0:07:23.32,0:07:27.76,Default,,0000,0000,0000,,Yeah. It's no big deal\Nor anything, though.
+Dialogue: 0,0:07:27.76,0:07:31.23,Default,,0000,0000,0000,,I'm just in these waters\Non minor business,
+Dialogue: 0,0:07:31.23,0:07:33.90,Default,,0000,0000,0000,,so I thought I might look you up.
+Dialogue: 0,0:07:33.90,0:07:35.73,Default,,0000,0000,0000,,Minor business?
+Dialogue: 0,0:07:37.10,0:07:40.30,Default,,0000,0000,0000,,I'm a member of the\NWhitebeard Pirates now.
+Dialogue: 0,0:07:40.30,0:07:42.40,Default,,0000,0000,0000,,Whitebeard Pirates?
+Dialogue: 0,0:07:42.40,0:07:46.04,Default,,0000,0000,0000,,This is the mark of the\NWhitebeard Pirates. It's my pride.
+Dialogue: 0,0:07:46.04,0:07:47.21,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:49.08,0:07:52.25,Default,,0000,0000,0000,,Luffy. Won't you join\Nthe Whitebeard Pirates?
+Dialogue: 0,0:07:52.25,0:07:54.98,Default,,0000,0000,0000,,Your friends can come too, of course.
+Dialogue: 0,0:07:54.98,0:07:56.12,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:07:58.89,0:08:01.16,Default,,0000,0000,0000,,I figured not. Just thought I'd ask.
+Dialogue: 0,0:08:01.16,0:08:05.83,Default,,0000,0000,0000,,Whitebeard is the greatest pirate I know.
+Dialogue: 0,0:08:06.39,0:08:10.60,Default,,0000,0000,0000,,I wanna help him to be\NKing of the Pirates...
+Dialogue: 0,0:08:10.60,0:08:12.87,Default,,0000,0000,0000,,And not you, Luffy.
+Dialogue: 0,0:08:12.87,0:08:15.50,Default,,0000,0000,0000,,That's fine!\NThen we'll just have to fight!
+Dialogue: 0,0:08:18.17,0:08:20.84,Default,,0000,0000,0000,,I'm gonna be King of the Pirates.
+Dialogue: 0,0:08:22.38,0:08:24.81,Default,,0000,0000,0000,,Hey! Don't drink it all, Luffy!
+Dialogue: 0,0:08:32.52,0:08:34.89,Default,,0000,0000,0000,,Something must've happened in town.
+Dialogue: 0,0:08:34.89,0:08:40.16,Default,,0000,0000,0000,,Smoker and all the\Nmarines left the ship...
+Dialogue: 0,0:08:40.16,0:08:41.60,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:08:41.60,0:08:45.97,Default,,0000,0000,0000,,This is perfect! I'll use this\Nchance to escape somehow!
+Dialogue: 0,0:08:45.97,0:08:48.87,Default,,0000,0000,0000,,Mr. 11.
+Dialogue: 0,0:08:48.87,0:08:53.01,Default,,0000,0000,0000,,You must be members of Baroque\NWorks if you know my codename!
+Dialogue: 0,0:08:53.01,0:08:56.41,Default,,0000,0000,0000,,Are you Millions?! Hurry and untie me!
+Dialogue: 0,0:08:56.41,0:08:59.21,Default,,0000,0000,0000,,Yeah, we are members of Baroque Works.
+Dialogue: 0,0:08:59.21,0:09:03.62,Default,,0000,0000,0000,,But we're Billions. Meaning we're\Ncandidates to be Number Agents.
+Dialogue: 0,0:09:03.62,0:09:09.66,Default,,0000,0000,0000,,Mr. 11. You're barely an agent.\NYou're not much stronger than us.
+Dialogue: 0,0:09:09.66,0:09:12.03,Default,,0000,0000,0000,,O-Oh! I see!
+Dialogue: 0,0:09:12.03,0:09:17.27,Default,,0000,0000,0000,,Sorry about that, Billions.\NBut could you hurry and untie me?
+Dialogue: 0,0:09:17.27,0:09:19.27,Default,,0000,0000,0000,,Don't be silly!
+Dialogue: 0,0:09:20.74,0:09:27.04,Default,,0000,0000,0000,,With you gone, one of us can\Nbe promoted to a Number Agent.
+Dialogue: 0,0:09:28.64,0:09:31.81,Default,,0000,0000,0000,,So let's empty one of the Agents' seats!
+Dialogue: 0,0:09:31.81,0:09:34.08,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:09:40.92,0:09:42.42,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:45.26,0:09:47.66,Default,,0000,0000,0000,,Fire Fist Ace is in this town!
+Dialogue: 0,0:09:47.66,0:09:50.06,Default,,0000,0000,0000,,What?! Fire Fist Ace?!
+Dialogue: 0,0:09:50.06,0:09:53.50,Default,,0000,0000,0000,,The Second Division Commander\Nof the Whitebeard Pirates?
+Dialogue: 0,0:09:53.50,0:09:59.47,Default,,0000,0000,0000,,If we can take down Ace,\Nwe're guaranteed to be Number Agents!
+Dialogue: 0,0:09:59.47,0:10:02.11,Default,,0000,0000,0000,,Anyways, let's look for your friends.
+Dialogue: 0,0:10:02.11,0:10:05.21,Default,,0000,0000,0000,,Getting spotted by the\NNavy's always a pain.
+Dialogue: 0,0:10:05.21,0:10:09.08,Default,,0000,0000,0000,,They might've gone back to the ship.
+Dialogue: 0,0:10:09.08,0:10:11.29,Default,,0000,0000,0000,,Which harbor is your ship in?
+Dialogue: 0,0:10:11.29,0:10:14.52,Default,,0000,0000,0000,,Actually, I can't remember at all.
+Dialogue: 0,0:10:14.52,0:10:15.96,Default,,0000,0000,0000,,Oh, geez.
+Dialogue: 0,0:10:15.96,0:10:21.30,Default,,0000,0000,0000,,Pirate ship captains usually\Nremember where they leave their ship.
+Dialogue: 0,0:10:23.10,0:10:24.93,Default,,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:10:24.93,0:10:27.37,Default,,0000,0000,0000,,You are the same as ever.
+Dialogue: 0,0:10:27.37,0:10:32.01,Default,,0000,0000,0000,,Say, what kind of crew do you have?
+Dialogue: 0,0:10:32.01,0:10:34.88,Default,,0000,0000,0000,,A swordsman who wants to be the\Nworld's greatest sword master.
+Dialogue: 0,0:10:34.88,0:10:36.88,Default,,0000,0000,0000,,He's always wearing a haramaki.
+Dialogue: 0,0:10:36.88,0:10:40.42,Default,,0000,0000,0000,,A navigator who likes maps\Nand tangerines and money!
+Dialogue: 0,0:10:40.42,0:10:43.86,Default,,0000,0000,0000,,Then there's a cook who\Nmakes really yummy food...
+Dialogue: 0,0:10:43.86,0:10:46.09,Default,,0000,0000,0000,,Oh, and there's a liar, too!
+Dialogue: 0,0:10:46.09,0:10:48.42,Default,,0000,0000,0000,,And then a reindeer!
+Dialogue: 0,0:10:49.62,0:10:54.00,Default,,0000,0000,0000,,That's quite the variety you got there.
+Dialogue: 0,0:10:54.00,0:10:56.53,Default,,0000,0000,0000,,We also have a princess and a duck now!
+Dialogue: 0,0:10:56.53,0:10:57.43,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:57.43,0:10:59.80,Default,,0000,0000,0000,,They're all so interesting!
+Dialogue: 0,0:10:59.80,0:11:03.97,Default,,0000,0000,0000,,I'd say you're probably the\Nmost interesting of all, though.
+Dialogue: 0,0:11:03.97,0:11:08.98,Default,,0000,0000,0000,,Still, only a handful of people for a\Npirate crew... That's just like you.
+Dialogue: 0,0:11:08.98,0:11:11.95,Default,,0000,0000,0000,,I also want a musician!
+Dialogue: 0,0:11:11.95,0:11:14.15,Default,,0000,0000,0000,,Stop right there, Fire Fist Ace!
+Dialogue: 0,0:11:17.49,0:11:20.69,Default,,0000,0000,0000,,As you can see,\Nthere's no place to run now!
+Dialogue: 0,0:11:20.69,0:11:24.43,Default,,0000,0000,0000,,Fire Fist Ace! Your head is mine!
+Dialogue: 0,0:11:24.43,0:11:26.26,Default,,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:11:46.18,0:11:50.69,Default,,0000,0000,0000,,I-Is it really okay to\Nset sail without Luffy?
+Dialogue: 0,0:11:50.69,0:11:53.42,Default,,0000,0000,0000,,The Navy will be all over the harbors.
+Dialogue: 0,0:11:53.42,0:11:55.66,Default,,0000,0000,0000,,We need to hide the ship first.
+Dialogue: 0,0:11:55.66,0:11:58.76,Default,,0000,0000,0000,,There should be a cove ahead\Nthat's hidden from view!
+Dialogue: 0,0:11:58.76,0:12:02.70,Default,,0000,0000,0000,,So we'll wait for things to\Ncool down, then look for Luffy.
+Dialogue: 0,0:12:02.70,0:12:07.04,Default,,0000,0000,0000,,Yeesh! He's always, always\Ncausing trouble like this!
+Dialogue: 0,0:12:08.60,0:12:11.48,Default,,0000,0000,0000,,He's a real reliable captain...
+Dialogue: 0,0:12:19.92,0:12:24.39,Default,,0000,0000,0000,,Fire Fist Ace! Your bad luck ends here!
+Dialogue: 0,0:12:26.79,0:12:31.29,Default,,0000,0000,0000,,Hey! Isn't that Straw Hat Luffy?!
+Dialogue: 0,0:12:31.29,0:12:33.33,Default,,0000,0000,0000,,N-Now that you mention it--!
+Dialogue: 0,0:12:33.33,0:12:36.87,Default,,0000,0000,0000,,H-He's worth 30 million Berries!
+Dialogue: 0,0:12:36.87,0:12:40.87,Default,,0000,0000,0000,,Talk about lucky! Fire Fist Ace\Nand Straw Hat Luffy!
+Dialogue: 0,0:12:40.87,0:12:45.24,Default,,0000,0000,0000,,Once I have your heads, our promotion\Nis a hop, skip, and jump away!
+Dialogue: 0,0:12:45.24,0:12:48.08,Default,,0000,0000,0000,,Anyway, let's find your ship.\NLet's go to the shore.
+Dialogue: 0,0:12:48.08,0:12:49.58,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:49.58,0:12:51.85,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:12:51.85,0:12:53.85,Default,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:12:55.22,0:12:57.12,Default,,0000,0000,0000,,Bastards!
+Dialogue: 0,0:12:57.12,0:12:59.09,Default,,0000,0000,0000,,Get them!
+Dialogue: 0,0:13:01.42,0:13:03.06,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:13:03.06,0:13:06.06,Default,,0000,0000,0000,,What the--?! What the--?!
+Dialogue: 0,0:13:08.40,0:13:09.20,Default,,0000,0000,0000,,So sorry!
+Dialogue: 0,0:13:09.20,0:13:10.80,Default,,0000,0000,0000,,Hold the bastard down!
+Dialogue: 0,0:13:16.70,0:13:18.97,Default,,0000,0000,0000,,Wh-What the--?! His arms stretched!
+Dialogue: 0,0:13:18.97,0:13:21.31,Default,,0000,0000,0000,,He has Devil Fruit powers?!
+Dialogue: 0,0:13:23.61,0:13:26.55,Default,,0000,0000,0000,,Don't scare me like that, you jerks!
+Dialogue: 0,0:13:41.76,0:13:45.47,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:13:45.47,0:13:46.80,Default,,0000,0000,0000,,Oww! Hot!
+Dialogue: 0,0:13:47.94,0:13:50.77,Default,,0000,0000,0000,,...Bazooka!
+Dialogue: 0,0:14:06.36,0:14:08.06,Default,,0000,0000,0000,,D-Don't let 'em scare you!
+Dialogue: 0,0:14:08.06,0:14:11.56,Default,,0000,0000,0000,,The rank of Number Agent\Nis riding on this!
+Dialogue: 0,0:14:11.56,0:14:13.83,Default,,0000,0000,0000,,After them!
+Dialogue: 0,0:14:13.83,0:14:15.06,Default,,0000,0000,0000,,Oh! The ocean!
+Dialogue: 0,0:14:15.06,0:14:16.73,Default,,0000,0000,0000,,See your ship?
+Dialogue: 0,0:14:18.00,0:14:20.54,Default,,0000,0000,0000,,There's no escape!
+Dialogue: 0,0:14:20.54,0:14:22.17,Default,,0000,0000,0000,,You guys just never learn.
+Dialogue: 0,0:14:22.17,0:14:26.21,Default,,0000,0000,0000,,Oh! There it is!
+Dialogue: 0,0:14:26.21,0:14:30.08,Default,,0000,0000,0000,,Hey! Over here! Guys!
+Dialogue: 0,0:14:30.08,0:14:31.61,Default,,0000,0000,0000,,Hey, Luffy. Go on--
+Dialogue: 0,0:14:31.61,0:14:33.22,Default,,0000,0000,0000,,Never mind.
+Dialogue: 0,0:14:35.32,0:14:37.65,Default,,0000,0000,0000,,Oh! There he is! It's Luffy!
+Dialogue: 0,0:14:37.65,0:14:39.99,Default,,0000,0000,0000,,--I found Luffy!\N--You did?
+Dialogue: 0,0:14:39.99,0:14:42.56,Default,,0000,0000,0000,,Yeah. That stupid face is definitely his.
+Dialogue: 0,0:14:42.56,0:14:43.89,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:48.03,0:14:50.47,Default,,0000,0000,0000,,I'm back!
+Dialogue: 0,0:14:50.47,0:14:53.47,Default,,0000,0000,0000,,Sanji-san! Tony-kun!
+Dialogue: 0,0:14:54.74,0:14:56.44,Default,,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:14:56.44,0:14:58.11,Default,,0000,0000,0000,,Not again...
+Dialogue: 0,0:14:59.54,0:15:01.81,Default,,0000,0000,0000,,Sorry 'bout that, Sanji, Chopper!
+Dialogue: 0,0:15:01.81,0:15:06.78,Default,,0000,0000,0000,,Do you not know how to learn your\Nlesson?! I oughta gut you whole!
+Dialogue: 0,0:15:06.78,0:15:09.65,Default,,0000,0000,0000,,Yeah! Do you have any idea how\Nmuch trouble you've caused?!
+Dialogue: 0,0:15:09.65,0:15:12.75,Default,,0000,0000,0000,,Try to act somewhat like a captain!
+Dialogue: 0,0:15:12.75,0:15:13.79,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:15:13.79,0:15:15.99,Default,,0000,0000,0000,,Oh, that's right! Ace!
+Dialogue: 0,0:15:15.99,0:15:18.69,Default,,0000,0000,0000,,--Ace?\N--Your brother was with you?
+Dialogue: 0,0:15:18.69,0:15:22.16,Default,,0000,0000,0000,,Is it okay to just leave him there?
+Dialogue: 0,0:15:22.16,0:15:25.23,Default,,0000,0000,0000,,I guess he'll be okay! Ace is strong!
+Dialogue: 0,0:15:25.23,0:15:27.27,Default,,0000,0000,0000,,He's strong?
+Dialogue: 0,0:15:27.27,0:15:31.01,Default,,0000,0000,0000,,Yeah! He hadn't eaten the\NFlame-Flame Fruit a long time ago,
+Dialogue: 0,0:15:31.01,0:15:34.88,Default,,0000,0000,0000,,but I still never beat\Nhim in a single fight!
+Dialogue: 0,0:15:34.88,0:15:36.98,Default,,0000,0000,0000,,He's real strong, Ace is!
+Dialogue: 0,0:15:36.98,0:15:39.78,Default,,0000,0000,0000,,There's a flesh-and-blood\Nperson you could never beat?!
+Dialogue: 0,0:15:39.78,0:15:42.58,Default,,0000,0000,0000,,I guess the big brother of a\Nmonster is an even bigger monster...
+Dialogue: 0,0:15:42.58,0:15:46.62,Default,,0000,0000,0000,,That's right! I lost all the time!
+Dialogue: 0,0:15:46.62,0:15:49.22,Default,,0000,0000,0000,,But I'd win now if we tried!
+Dialogue: 0,0:15:49.22,0:15:52.16,Default,,0000,0000,0000,,I assume that's another groundless claim.
+Dialogue: 0,0:15:53.90,0:15:55.56,Default,,0000,0000,0000,,Who...
+Dialogue: 0,0:15:57.30,0:15:59.30,Default,,0000,0000,0000,,can win what now?!
+Dialogue: 0,0:16:00.20,0:16:03.60,Default,,0000,0000,0000,,Oh! Ace! This is the crew\NI was talking about!
+Dialogue: 0,0:16:03.60,0:16:07.54,Default,,0000,0000,0000,,Oh! Thank you all for taking\Ncare of my little brother!
+Dialogue: 0,0:16:07.54,0:16:09.71,Default,,0000,0000,0000,,Eh? Oh, not at all.
+Dialogue: 0,0:16:09.71,0:16:14.98,Default,,0000,0000,0000,,He might be a bit much for\Nyou to handle too, but...
+Dialogue: 0,0:16:14.98,0:16:16.25,Default,,0000,0000,0000,,No, not at all.
+Dialogue: 0,0:16:16.25,0:16:19.09,Default,,0000,0000,0000,,Take good care of 'im.
+Dialogue: 0,0:16:19.09,0:16:21.46,Default,,0000,0000,0000,,You probably have lots\Nof catching up to do.
+Dialogue: 0,0:16:21.46,0:16:23.96,Default,,0000,0000,0000,,Why don't you come in?\NI'll make some tea.
+Dialogue: 0,0:16:23.96,0:16:27.13,Default,,0000,0000,0000,,No, uhh, that's okay.\NDon't do it on account of me.
+Dialogue: 0,0:16:30.50,0:16:33.50,Default,,0000,0000,0000,,T-Talk about unexpected...
+Dialogue: 0,0:16:33.50,0:16:35.34,Default,,0000,0000,0000,,That's for sure.
+Dialogue: 0,0:16:35.34,0:16:38.54,Default,,0000,0000,0000,,I would've expected him to\Nbe as reckless as Luffy...
+Dialogue: 0,0:16:38.54,0:16:42.84,Default,,0000,0000,0000,,No, this sensible man can't\Npossibly be Luffy's brother!
+Dialogue: 0,0:16:42.84,0:16:45.18,Default,,0000,0000,0000,,He's a nice guy who\Ncares about his brother!
+Dialogue: 0,0:16:45.18,0:16:47.38,Default,,0000,0000,0000,,Brothers can be so wonderful!
+Dialogue: 0,0:16:47.38,0:16:49.98,Default,,0000,0000,0000,,The sea is just full of surprises...
+Dialogue: 0,0:16:49.98,0:16:52.22,Default,,0000,0000,0000,,Come now, everyone!
+Dialogue: 0,0:16:52.22,0:16:55.09,Default,,0000,0000,0000,,See! Aren't these guys neat?!
+Dialogue: 0,0:16:58.60,0:17:01.56,Default,,0000,0000,0000,,Baroque Works!\NThose are the Billions' ships!
+Dialogue: 0,0:17:01.56,0:17:06.40,Default,,0000,0000,0000,,Fire Fist Ace and Straw Hat Luffy!\NDon't think you can get away!
+Dialogue: 0,0:17:06.40,0:17:10.47,Default,,0000,0000,0000,,We'll show you just what Baroque\NWorks' Billions are made of!
+Dialogue: 0,0:17:10.47,0:17:12.14,Default,,0000,0000,0000,,Those guys again?
+Dialogue: 0,0:17:12.14,0:17:14.98,Default,,0000,0000,0000,,Luffy. I'll clean them up.
+Dialogue: 0,0:17:14.98,0:17:15.98,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:17:17.55,0:17:19.21,Default,,0000,0000,0000,,What's he going to do?
+Dialogue: 0,0:17:19.21,0:17:21.45,Default,,0000,0000,0000,,Especially in that little boat...
+Dialogue: 0,0:17:23.22,0:17:25.12,Default,,0000,0000,0000,,Let's see how skilled
+Dialogue: 0,0:17:25.12,0:17:29.29,Default,,0000,0000,0000,,this Second Division Commander of\Nthe Whitebeard Pirates really is!
+Dialogue: 0,0:17:29.29,0:17:32.99,Default,,0000,0000,0000,,Here he comes! Fire Fist Ace!
+Dialogue: 0,0:17:32.99,0:17:36.36,Default,,0000,0000,0000,,Just try to get past five\Nof our ships, if you can!
+Dialogue: 0,0:17:39.40,0:17:40.67,Default,,0000,0000,0000,,He jumped!
+Dialogue: 0,0:17:40.67,0:17:42.24,Default,,0000,0000,0000,,F-Fire!
+Dialogue: 0,0:17:42.24,0:17:44.81,Default,,0000,0000,0000,,Shoot him into the ocean!
+Dialogue: 0,0:17:54.05,0:17:55.45,Default,,0000,0000,0000,,Fire Fist!
+Dialogue: 0,0:18:19.07,0:18:21.24,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:18:32.82,0:18:34.99,Default,,0000,0000,0000,,Captain Smoker!
+Dialogue: 0,0:18:34.99,0:18:39.43,Default,,0000,0000,0000,,Straw Hat Luffy and his crew\Nare nowhere to be found.
+Dialogue: 0,0:18:39.43,0:18:42.23,Default,,0000,0000,0000,,What do you think, Tashigi?
+Dialogue: 0,0:18:42.23,0:18:44.70,Default,,0000,0000,0000,,Vivi was with them.
+Dialogue: 0,0:18:44.70,0:18:49.74,Default,,0000,0000,0000,,Vivi? Princess Nefertari Vivi\Nwas with the Straw Hats?
+Dialogue: 0,0:18:49.74,0:18:51.24,Default,,0000,0000,0000,,She must be a hostage.
+Dialogue: 0,0:18:51.24,0:18:55.58,Default,,0000,0000,0000,,They abducted the princess\Nfor some sort of scheme...
+Dialogue: 0,0:18:55.58,0:18:59.81,Default,,0000,0000,0000,,No. Vivi was acting like\Nshe was part of the crew.
+Dialogue: 0,0:18:59.81,0:19:03.99,Default,,0000,0000,0000,,The princess? Part of their crew?
+Dialogue: 0,0:19:03.99,0:19:07.82,Default,,0000,0000,0000,,Something really is\Nhappening in this country.
+Dialogue: 0,0:19:07.82,0:19:09.82,Default,,0000,0000,0000,,Captain Smoker!
+Dialogue: 0,0:19:09.82,0:19:11.09,Default,,0000,0000,0000,,I'm sorry, sir!
+Dialogue: 0,0:19:11.09,0:19:15.60,Default,,0000,0000,0000,,Mr. 11 was done in by someone\Nwhile he was tied up on the ship!
+Dialogue: 0,0:19:15.60,0:19:18.17,Default,,0000,0000,0000,,We still haven't located\Nthe Straw Hats, either!
+Dialogue: 0,0:19:18.17,0:19:22.70,Default,,0000,0000,0000,,No need to fret. I have a good\Nidea of where they're headed.
+Dialogue: 0,0:19:22.70,0:19:25.41,Default,,0000,0000,0000,,He's after Crocodile.
+Dialogue: 0,0:19:25.41,0:19:29.31,Default,,0000,0000,0000,,Crocodile?! One of the\NSeven Warlords of the Sea,
+Dialogue: 0,0:19:29.31,0:19:31.41,Default,,0000,0000,0000,,the pirates given government approval?!
+Dialogue: 0,0:19:31.41,0:19:34.62,Default,,0000,0000,0000,,You know I hate the Seven Warlords.
+Dialogue: 0,0:19:34.62,0:19:36.42,Default,,0000,0000,0000,,Especially that detestable man.
+Dialogue: 0,0:19:36.42,0:19:41.49,Default,,0000,0000,0000,,B-But standpoint-wise,\Nhe's a Navy and government ally!
+Dialogue: 0,0:19:41.49,0:19:44.99,Default,,0000,0000,0000,,He's always been a clever pirate.
+Dialogue: 0,0:19:44.99,0:19:49.30,Default,,0000,0000,0000,,He's never been the type to just\Nquietly obey the government!
+Dialogue: 0,0:19:49.30,0:19:51.87,Default,,0000,0000,0000,,Tashigi! All you need\Nto remember is one thing!
+Dialogue: 0,0:19:51.87,0:19:56.87,Default,,0000,0000,0000,,A pirate is a pirate,\Nno matter where he goes!
+Dialogue: 0,0:19:56.87,0:20:01.08,Default,,0000,0000,0000,,Straw Hat will show\Nup wherever Crocodile is!
+Dialogue: 0,0:20:01.08,0:20:03.88,Default,,0000,0000,0000,,Things should become\Nclear if we go there.
+Dialogue: 0,0:20:03.88,0:20:07.35,Default,,0000,0000,0000,,And next time, you won't\Nget away, Straw Hat!
+Dialogue: 0,0:20:07.35,0:20:11.95,Default,,0000,0000,0000,,--Woohoo!\N--Ace is one of us now!
+Dialogue: 0,0:20:11.95,0:20:12.76,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:20:12.76,0:20:15.46,Default,,0000,0000,0000,,Who said I was joining you?
+Dialogue: 0,0:20:17.53,0:20:19.23,Default,,0000,0000,0000,,Here's to delicious drinks!
+Dialogue: 0,0:20:19.23,0:20:19.83,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:20:19.83,0:20:21.46,Default,,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:20:21.46,0:20:25.40,Default,,0000,0000,0000,,They're always looking\Nfor an excuse to drink to!
+Dialogue: 0,0:20:25.40,0:20:27.74,Default,,0000,0000,0000,,Medicine is horrible!
+Dialogue: 0,0:20:30.67,0:20:34.51,Default,,0000,0000,0000,,Ace! Are you sure you won't join us?
+Dialogue: 0,0:20:34.51,0:20:37.01,Default,,0000,0000,0000,,I'm chasing a certain man.
+Dialogue: 0,0:20:38.81,0:20:40.48,Default,,0000,0000,0000,,His name's Blackbeard.
+Dialogue: 0,0:20:40.48,0:20:41.78,Default,,0000,0000,0000,,Blackbeard?!
+Dialogue: 0,0:20:41.78,0:20:45.49,Default,,0000,0000,0000,,He's the pirate who\Nattacked the Drum Kingdom!
+Dialogue: 0,0:20:45.49,0:20:48.69,Default,,0000,0000,0000,,He used to be a member of the 2nd\NDivision of the Whitebeard Pirates,
+Dialogue: 0,0:20:48.69,0:20:50.62,Default,,0000,0000,0000,,one of my men.
+Dialogue: 0,0:20:50.62,0:20:53.46,Default,,0000,0000,0000,,But he committed the worst\Npossible sin on a pirate ship:
+Dialogue: 0,0:20:53.46,0:20:56.46,Default,,0000,0000,0000,,he killed a crewmember and jumped ship.
+Dialogue: 0,0:20:56.46,0:21:00.74,Default,,0000,0000,0000,,So, as the commander,\NI gotta find and get rid of him.
+Dialogue: 0,0:21:00.74,0:21:03.87,Default,,0000,0000,0000,,So that's why you're chasing after him?
+Dialogue: 0,0:21:03.87,0:21:09.88,Default,,0000,0000,0000,,I came here because I caught word\Nthat Blackbeard was seen in Yuba.
+Dialogue: 0,0:21:11.41,0:21:15.55,Default,,0000,0000,0000,,Then your destination\Nis the same as ours!
+Dialogue: 0,0:21:15.55,0:21:18.22,Default,,0000,0000,0000,,We've just entered the Sandora River.
+Dialogue: 0,0:21:18.22,0:21:22.29,Default,,0000,0000,0000,,First, we'll land at Erumalu, then\Nhead into the interior of Alabasta
+Dialogue: 0,0:21:22.29,0:21:24.53,Default,,0000,0000,0000,,to reach Yuba here!
+Dialogue: 0,0:21:24.53,0:21:27.09,Default,,0000,0000,0000,,The leader of the rebel army is in Yuba.
+Dialogue: 0,0:21:27.09,0:21:29.80,Default,,0000,0000,0000,,I see. So you're headed to Yuba next.
+Dialogue: 0,0:21:29.80,0:21:32.93,Default,,0000,0000,0000,,I'll follow Nami-san and\NVivi-chan wherever they go!
+Dialogue: 0,0:21:32.93,0:21:34.77,Default,,0000,0000,0000,,Get lost, Love Cook.
+Dialogue: 0,0:21:34.77,0:21:36.14,Default,,0000,0000,0000,,Say what, you--?!
+Dialogue: 0,0:21:36.14,0:21:39.21,Default,,0000,0000,0000,,A-Anyways! It looks like we can\Ntravel together for a short while!
+Dialogue: 0,0:21:39.21,0:21:43.28,Default,,0000,0000,0000,,Yeah, yeah! His brother\Nis more than welcome here!
+Dialogue: 0,0:21:44.35,0:21:46.88,Default,,0000,0000,0000,,Let's have a fun time, Ace!
+Dialogue: 0,0:21:46.88,0:21:49.88,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:00.19,0:22:06.04,Default,,0000,0000,0000,,Like the adventurers\NI dreamed of when I was a child
+Dialogue: 0,0:22:06.04,0:22:11.11,Default,,0000,0000,0000,,I continue on to the ends of emotion
+Dialogue: 0,0:22:11.11,0:22:17.08,Default,,0000,0000,0000,,I scoop up my hands,
+Dialogue: 0,0:22:17.08,0:22:23.72,Default,,0000,0000,0000,,and the sand and time\Nthat spills from them
+Dialogue: 0,0:22:23.72,0:22:30.73,Default,,0000,0000,0000,,show me that this is\Nwhat I was born to do
+Dialogue: 0,0:22:30.73,0:22:42.84,Default,,0000,0000,0000,,Let's continue swimming\Nat a near-tumbling speed
+Dialogue: 0,0:22:42.84,0:22:53.58,Default,,0000,0000,0000,,Until we wash up someday\Non a white sandy beach
+Dialogue: 0,0:22:53.58,0:22:56.72,Default,,0000,0000,0000,,no one knows about
+Dialogue: 0,0:23:10.30,0:23:11.53,Default,,0000,0000,0000,,This is Erumalu?
+Dialogue: 0,0:23:11.53,0:23:14.40,Default,,0000,0000,0000,,--Huh? There's nothing here.\N--Erumalu, the City of Green...
+Dialogue: 0,0:23:14.40,0:23:16.87,Default,,0000,0000,0000,,The City of Green?!\NThere's no green anywhere!
+Dialogue: 0,0:23:16.87,0:23:18.94,Default,,0000,0000,0000,,It was a thriving city\Nuntil just recently...
+Dialogue: 0,0:23:18.94,0:23:20.11,Default,,0000,0000,0000,,This was?
+Dialogue: 0,0:23:20.11,0:23:22.91,Default,,0000,0000,0000,,Karoo. I have an important\Nfavor to ask of you.
+Dialogue: 0,0:23:22.91,0:23:24.42,Default,,0000,0000,0000,,I want you to go to Alubarna!
+Dialogue: 0,0:23:25.98,0:23:27.38,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.38,0:23:29.98,Default,,0000,0000,0000,,"Erumalu, the City of Green,\Nand the Kung Fu Dugongs!"
+Dialogue: 0,0:23:29.98,0:23:32.32,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.32,0:23:34.32,Default,,0000,0000,0000,,

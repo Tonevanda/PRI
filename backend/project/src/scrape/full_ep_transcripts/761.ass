@@ -1,0 +1,380 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: onscreensigns,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0400,0040,0020,0
+Style: onscreensign2,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,1,0030,0040,0040,0
+Style: name right,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0030,0040,0040,0
+Style: name left,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0040,0040,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.80,0:00:21.73,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:00:15.80,0:00:21.73,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:00:21.73,0:00:28.61,Default,,0000,0000,0000,,{\i1}That's why I start a \Njourney with you, we can!{\i0}
+Dialogue: 0,0:00:21.73,0:00:28.61,On Top,,0000,0000,0000,,{\i1}dakara tabidatsun da kimi to, we can!{\i0}
+Dialogue: 0,0:00:38.91,0:00:42.29,Default,,0000,0000,0000,,{\i1}Traveling from sea to sea{\i0}
+Dialogue: 0,0:00:38.91,0:00:42.29,On Top,,0000,0000,0000,,{\i1}umi kara umi wo mata ni kakete{\i0}
+Dialogue: 0,0:00:44.08,0:00:47.33,Default,,0000,0000,0000,,{\i1}In search of the one-piece treasure{\i0}
+Dialogue: 0,0:00:44.08,0:00:47.33,On Top,,0000,0000,0000,,{\i1}hitotsunagi no takara sagashi ni{\i0}
+Dialogue: 0,0:00:49.63,0:00:52.63,Default,,0000,0000,0000,,{\i1}Despite the fact that \Neveryone laughs and says{\i0}
+Dialogue: 0,0:00:49.63,0:00:52.63,On Top,,0000,0000,0000,,{\i1}sonna no yumemonogatari dato{\i0}
+Dialogue: 0,0:00:54.68,0:00:57.34,Default,,0000,0000,0000,,{\i1}that it's just a fantasy{\i0}
+Dialogue: 0,0:00:54.68,0:00:57.34,On Top,,0000,0000,0000,,{\i1}daremo ga waratteiru kedo{\i0}
+Dialogue: 0,0:00:57.72,0:01:03.89,Default,,0000,0000,0000,,{\i1}A rush of excitement is our only compass{\i0}
+Dialogue: 0,0:00:57.72,0:01:03.89,On Top,,0000,0000,0000,,{\i1}mune no takaburi dake ga rashinban{\i0}
+Dialogue: 0,0:01:05.35,0:01:09.06,Default,,0000,0000,0000,,{\i1}Just keep pretending you know everything{\i0}
+Dialogue: 0,0:01:05.35,0:01:09.06,On Top,,0000,0000,0000,,{\i1}shittakaburi shitero yo{\i0}
+Dialogue: 0,0:01:09.06,0:01:16.03,Default,,0000,0000,0000,,{\i1}Textbooks are just guidebooks{\i0}
+Dialogue: 0,0:01:09.06,0:01:16.03,On Top,,0000,0000,0000,,{\i1}kyoukasho nante sa guidebook{\i0}
+Dialogue: 0,0:01:16.03,0:01:18.70,Default,,0000,0000,0000,,{\i1}Both the rain and our \Ntears will eventually stop{\i0}
+Dialogue: 0,0:01:16.03,0:01:18.70,On Top,,0000,0000,0000,,{\i1}ame mo namida mo itsuka wa yamu{\i0}
+Dialogue: 0,0:01:18.70,0:01:21.70,Default,,0000,0000,0000,,{\i1}Hold up your head, pull up anchor{\i0}
+Dialogue: 0,0:01:18.70,0:01:21.70,On Top,,0000,0000,0000,,{\i1}kao wo agero ikari wo agero{\i0}
+Dialogue: 0,0:01:21.70,0:01:24.41,Default,,0000,0000,0000,,{\i1}Once the storm in your heart subsides{\i0}
+Dialogue: 0,0:01:21.70,0:01:24.41,On Top,,0000,0000,0000,,{\i1}kokoro no arashi ga sugita nara{\i0}
+Dialogue: 0,0:01:24.41,0:01:26.96,Default,,0000,0000,0000,,{\i1}Take the helm, now, win a victory{\i0}
+Dialogue: 0,0:01:24.41,0:01:26.96,On Top,,0000,0000,0000,,{\i1}kajitore saa kachitore{\i0}
+Dialogue: 0,0:01:26.96,0:01:29.67,Default,,0000,0000,0000,,{\i1}By the time tomorrow's wind blows{\i0}
+Dialogue: 0,0:01:26.96,0:01:29.67,On Top,,0000,0000,0000,,{\i1}ashita no kaze ga fuku koro niwa{\i0}
+Dialogue: 0,0:01:29.67,0:01:32.42,Default,,0000,0000,0000,,{\i1}Get refreshed, spread sail, chest out{\i0}
+Dialogue: 0,0:01:29.67,0:01:32.42,On Top,,0000,0000,0000,,{\i1}harebare ho wo hare mune wo hare{\i0}
+Dialogue: 0,0:01:32.42,0:01:34.76,Default,,0000,0000,0000,,{\i1}It makes me long to see someone{\i0}
+Dialogue: 0,0:01:32.42,0:01:34.76,On Top,,0000,0000,0000,,{\i1}dareka ni aitakunarun da{\i0}
+Dialogue: 0,0:01:34.76,0:01:41.76,Default,,0000,0000,0000,,{\i1}There are tons of unimaginable truth{\i0}
+Dialogue: 0,0:01:34.76,0:01:41.76,On Top,,0000,0000,0000,,{\i1}souzou tsukanai koto bakari daro{\i0}
+Dialogue: 0,0:01:42.68,0:01:46.31,Default,,0000,0000,0000,,{\i1}Don't turn a blind eye{\i0}
+Dialogue: 0,0:01:42.68,0:01:46.31,On Top,,0000,0000,0000,,{\i1}miteminufuri suruna yo{\i0}
+Dialogue: 0,0:01:46.31,0:01:53.03,Default,,0000,0000,0000,,{\i1}Common sense is just the mind of the masses{\i0}
+Dialogue: 0,0:01:46.31,0:01:53.03,On Top,,0000,0000,0000,,{\i1}joushiki nante sa tasuuketsu{\i0}
+Dialogue: 0,0:01:54.69,0:02:00.37,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:01:54.69,0:02:00.37,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:02:00.37,0:02:05.29,Default,,0000,0000,0000,,{\i1}That's why we've got to go, \NCaptain Live-By-My-Own-Rules{\i0}
+Dialogue: 0,0:02:00.37,0:02:05.29,On Top,,0000,0000,0000,,{\i1}dakara ikou ze amano jack senchou{\i0}
+Dialogue: 0,0:02:05.29,0:02:11.08,Default,,0000,0000,0000,,{\i1}Who says it's impossible? \NNothing has started yet{\i0}
+Dialogue: 0,0:02:05.29,0:02:11.08,On Top,,0000,0000,0000,,{\i1}dekiyashinai koto tte nani? \Nmada nani mo hajimatte nai{\i0}
+Dialogue: 0,0:02:11.08,0:02:16.05,Default,,0000,0000,0000,,{\i1}I want to know everything now, yes, we can!{\i0}
+Dialogue: 0,0:02:11.08,0:02:16.05,On Top,,0000,0000,0000,,{\i1}subete shiritain da ima, yes, we can!{\i0}
+Dialogue: 0,0:02:16.05,0:02:19.34,Default,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:16.05,0:02:19.34,On Top,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:19.34,0:02:22.01,Default,,0000,0000,0000,,{\i1}This moment{\i0}
+Dialogue: 0,0:02:19.34,0:02:22.01,On Top,,0000,0000,0000,,{\i1}kono shunkan{\i0}
+Dialogue: 0,0:02:22.01,0:02:24.72,Default,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:22.01,0:02:24.72,On Top,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:24.72,0:02:27.43,Default,,0000,0000,0000,,{\i1}This great feeling{\i0}
+Dialogue: 0,0:02:24.72,0:02:27.43,On Top,,0000,0000,0000,,{\i1}kono kaikan{\i0}
+Dialogue: 0,0:02:27.43,0:02:34.69,Default,,0000,0000,0000,,{\i1}Now, now, yes, we can!{\i0}
+Dialogue: 0,0:02:27.43,0:02:34.69,On Top,,0000,0000,0000,,{\i1}ima ima, yes, we can!{\i0}
+Dialogue: 0,0:02:40.66,0:02:42.20,Default,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:40.66,0:02:42.20,On Top,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:46.79,0:02:50.33,Default,,0000,0000,0000,,{\i1}The goal is the last island - Raftel{\i0}
+Dialogue: 0,0:02:50.33,0:02:54.92,Default,,0000,0000,0000,,{\i1}and the Great Treasure of One Piece!{\i0}
+Dialogue: 0,0:02:55.71,0:02:59.17,Default,,0000,0000,0000,,{\i1}However, no one has ever reached\Nthe legendary island...{\i0}
+Dialogue: 0,0:02:59.17,0:03:02.97,Default,,0000,0000,0000,,{\i1}...except for Gold Roger, \NKing of the Pirates.{\i0}
+Dialogue: 0,0:03:03.93,0:03:06.35,Default,,0000,0000,0000,,{\i1}It is the Great Pirate Era.{\i0}
+Dialogue: 0,0:03:06.35,0:03:10.77,Default,,0000,0000,0000,,{\i1}While the monsters of the New World\Nfight each other fiercely,{\i0}
+Dialogue: 0,0:03:10.77,0:03:16.57,Default,,0000,0000,0000,,{\i1}the Straw Hat Pirates are\Nin the center of the storm!{\i0}
+Dialogue: 0,0:03:16.57,0:03:19.70,Default,,0000,0000,0000,,{\i1}Their captain is a rubber man\Nwho ate the Gum-Gum Fruit.{\i0}
+Dialogue: 0,0:03:19.70,0:03:21.70,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:22.45,0:03:23.66,Default,,0000,0000,0000,,{\i1}Zoro!{\i0}
+Dialogue: 0,0:03:23.66,0:03:24.87,Default,,0000,0000,0000,,{\i1}Nami!{\i0}
+Dialogue: 0,0:03:24.87,0:03:26.08,Default,,0000,0000,0000,,{\i1}Usopp!{\i0}
+Dialogue: 0,0:03:26.08,0:03:27.41,Default,,0000,0000,0000,,{\i1}Sanji!{\i0}
+Dialogue: 0,0:03:27.41,0:03:28.66,Default,,0000,0000,0000,,{\i1}Chopper!{\i0}
+Dialogue: 0,0:03:28.66,0:03:29.79,Default,,0000,0000,0000,,{\i1}Robin!{\i0}
+Dialogue: 0,0:03:29.79,0:03:31.08,Default,,0000,0000,0000,,{\i1}Franky!{\i0}
+Dialogue: 0,0:03:31.08,0:03:32.00,Default,,0000,0000,0000,,{\i1}Brook!{\i0}
+Dialogue: 0,0:03:32.54,0:03:35.79,Default,,0000,0000,0000,,{\i1}This tight-knit group of nine pirates...{\i0}
+Dialogue: 0,0:03:35.79,0:03:37.67,Italics,,0000,0000,0000,,{\i1}...are making their way through the vast sea
+Dialogue: 0,0:03:37.67,0:03:39.69,Italics,,0000,0000,0000,,with their sights set on the One Piece!{\i0}
+Dialogue: 0,0:03:40.88,0:03:44.80,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:51.02,0:03:53.10,Default,,0000,0000,0000,,{\i1}Luffy and the others arrived at Zou,
+Dialogue: 0,0:03:53.10,0:03:55.48,Default,,0000,0000,0000,,an island where their new \Nadventure will take place.{\i0}
+Dialogue: 0,0:03:56.32,0:03:59.03,Default,,0000,0000,0000,,{\i1}This enormous island,\Nwhich is as high as the clouds, is,{\i0}
+Dialogue: 0,0:03:59.03,0:04:03.05,Default,,0000,0000,0000,,{\i1}as its name suggests,\Na zou (elephant) that has been alive
+Dialogue: 0,0:04:03.05,0:04:05.30,Italics,,0000,0000,0000,,for a millennium.{\i0}
+Dialogue: 0,0:04:05.99,0:04:09.04,Default,,0000,0000,0000,,{\i1}The group visited Dogstorm, \NKing of the Day of
+Dialogue: 0,0:04:09.04,0:04:11.39,Default,,0000,0000,0000,,the Mokomo Dukedom, at his sanatorium.{\i0}
+Dialogue: 0,0:04:11.39,0:04:13.67,Default,,0000,0000,0000,,{\i1}There they listened to all the details of
+Dialogue: 0,0:04:13.67,0:04:14.89,Default,,0000,0000,0000,,the battle between the Minks and...{\i0}
+Dialogue: 0,0:04:14.89,0:04:17.66,Default,,0000,0000,0000,,{\i1}...the Beast Pirates led by Jack, \NEmperor Kaido's subordinate,
+Dialogue: 0,0:04:17.66,0:04:21.28,Default,,0000,0000,0000,,that happened a half month ago.{\i0}
+Dialogue: 0,0:04:21.76,0:04:24.34,Default,,0000,0000,0000,,{\i1}On the fifth day of the battle,{\i0}
+Dialogue: 0,0:04:24.34,0:04:27.96,Default,,0000,0000,0000,,{\i1}Jack finally brought out a poison-gas weapon.{\i0}
+Dialogue: 0,0:04:28.97,0:04:35.01,Default,,0000,0000,0000,,{\i1}The gas quickly filled the country\Nmaking the Minks fall one after another.{\i0}
+Dialogue: 0,0:04:43.28,0:04:45.26,Default,,0000,0000,0000,,What's going on here?!
+Dialogue: 0,0:04:48.83,0:04:53.06,Default,,0000,0000,0000,,Anyway, let's go back to the forest for now!\NWe'll be killed by the gas!
+Dialogue: 0,0:04:54.54,0:04:59.20,Default,,0000,0000,0000,,{\i1}"The Time Limit Closes in!\NThe Bond Between the Mink Tribe and the Crew!"{\i0}
+Dialogue: 0,0:05:02.05,0:05:04.84,Default,,0000,0000,0000,,It was a terrible sight.
+Dialogue: 0,0:05:06.01,0:05:09.47,Default,,0000,0000,0000,,We wanted to do something right away,
+Dialogue: 0,0:05:09.89,0:05:13.77,Default,,0000,0000,0000,,but the gas was still there\Nand it could've put our lives in jeopardy too.
+Dialogue: 0,0:05:13.77,0:05:16.81,Default,,0000,0000,0000,,That's why we left the city temporarily.
+Dialogue: 0,0:05:16.83,0:05:18.24,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:05:29.03,0:05:33.91,On Top,,0000,0000,0000,,ZOU, 10 DAYS AGO
+Dialogue: 0,0:05:29.23,0:05:31.41,DefaultLow,,0000,0000,0000,,Boy! I can't believe it!
+Dialogue: 0,0:05:31.41,0:05:34.56,DefaultLow,,0000,0000,0000,,The whole country has been \Nravaged by the poison gas!
+Dialogue: 0,0:05:34.58,0:05:37.06,Default,,0000,0000,0000,,Chopper, can't we do anything?
+Dialogue: 0,0:05:39.04,0:05:41.48,Default,,0000,0000,0000,,Considering the smell of the gas,
+Dialogue: 0,0:05:41.92,0:05:46.18,Default,,0000,0000,0000,,it definitely has a nerve \Nagent as an ingredient.
+Dialogue: 0,0:05:46.18,0:05:48.91,Default,,0000,0000,0000,,There are other odors that I don't recognize.
+Dialogue: 0,0:05:51.01,0:05:53.29,Default,,0000,0000,0000,,I got the chills seeing its power!
+Dialogue: 0,0:05:55.37,0:05:56.66,Default,,0000,0000,0000,,What's so funny?!
+Dialogue: 0,0:05:57.29,0:05:59.86,Default,,0000,0000,0000,,The name of the gas is Koro!
+Dialogue: 0,0:05:59.86,0:06:02.29,Default,,0000,0000,0000,,It's a weapon of mass \Ndestruction that I invented!
+Dialogue: 0,0:06:02.48,0:06:03.84,Default,,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:06:04.03,0:06:07.30,Default,,0000,0000,0000,,I said that gas was made by me...
+Dialogue: 0,0:06:10.99,0:06:14.49,Default,,0000,0000,0000,,What?! Why should I take the blame?!
+Dialogue: 0,0:06:14.49,0:06:16.89,Default,,0000,0000,0000,,I'm not the one who used it!
+Dialogue: 0,0:06:17.21,0:06:18.81,Default,,0000,0000,0000,,This guy is the worst.
+Dialogue: 0,0:06:18.81,0:06:22.78,Default,,0000,0000,0000,,If you hadn't made it,\Nno one would've fallen victim to it!
+Dialogue: 0,0:06:22.78,0:06:25.26,Default,,0000,0000,0000,,I'm sure you can neutralize \Nit with your ability!
+Dialogue: 0,0:06:25.26,0:06:26.61,Default,,0000,0000,0000,,Do it now!
+Dialogue: 0,0:06:26.63,0:06:30.80,Default,,0000,0000,0000,,Then, make an antidote!\NIt's not too late yet!
+Dialogue: 0,0:06:30.80,0:06:34.47,Default,,0000,0000,0000,,The gas works quite slowly, doesn't it?!
+Dialogue: 0,0:06:34.60,0:06:38.04,Default,,0000,0000,0000,,I made it that way on purpose\Nby my own calculations.
+Dialogue: 0,0:06:38.53,0:06:42.67,Default,,0000,0000,0000,,How long will it take for them to die\Nafter exposure?!
+Dialogue: 0,0:06:42.90,0:06:45.80,Default,,0000,0000,0000,,48 hours, maybe?
+Dialogue: 0,0:06:46.24,0:06:47.67,Default,,0000,0000,0000,,48 hours?!
+Dialogue: 0,0:06:47.67,0:06:53.35,Default,,0000,0000,0000,,Considering how much it cleared away,\Nmore than a day has passed already!
+Dialogue: 0,0:06:53.74,0:06:55.39,Default,,0000,0000,0000,,Not again!
+Dialogue: 0,0:06:55.79,0:06:59.73,Default,,0000,0000,0000,,Hey! Don't think the \Nunderdogs are always good!
+Dialogue: 0,0:07:00.13,0:07:00.81,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:00.81,0:07:06.86,Default,,0000,0000,0000,,The Mink Tribe is known for disliking humans\Nand their great fighting strength!
+Dialogue: 0,0:07:06.86,0:07:09.15,Default,,0000,0000,0000,,Leave them alone for your own good!
+Dialogue: 0,0:07:09.17,0:07:12.85,Default,,0000,0000,0000,,They'll bite us to death\Nas soon as we save them!
+Dialogue: 0,0:07:12.85,0:07:15.62,Default,,0000,0000,0000,,Bite us to death?
+Dialogue: 0,0:07:15.62,0:07:17.75,Default,,0000,0000,0000,,That gas guy's annoying!
+Dialogue: 0,0:07:17.75,0:07:20.41,Default,,0000,0000,0000,,And he's fascinated by its success.
+Dialogue: 0,0:07:20.41,0:07:24.15,Default,,0000,0000,0000,,The way the gas works really\Nreflects his character.
+Dialogue: 0,0:07:24.15,0:07:28.30,Default,,0000,0000,0000,,Taking two days to kill people little \Nby little sounds really awful!
+Dialogue: 0,0:07:28.30,0:07:30.30,Default,,0000,0000,0000,,What happened then?
+Dialogue: 0,0:07:31.07,0:07:32.24,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:07:34.71,0:07:37.54,Default,,0000,0000,0000,,We should've waited on the ship quietly!
+Dialogue: 0,0:07:37.54,0:07:39.43,Default,,0000,0000,0000,,You're pretty stupid to be \Nrushing ahead like this!
+Dialogue: 0,0:07:39.79,0:07:43.27,Default,,0000,0000,0000,,Shut up and do what he says!\NAre you gonna do it?!
+Dialogue: 0,0:07:43.99,0:07:46.44,Default,,0000,0000,0000,,Or do you just want your \Nheart to be crushed?!
+Dialogue: 0,0:07:52.32,0:07:55.07,Default,,0000,0000,0000,,Fine! But I won't forget this!
+Dialogue: 0,0:07:55.07,0:07:57.26,Default,,0000,0000,0000,,It was the right call to come ashore!
+Dialogue: 0,0:07:57.26,0:08:02.77,Default,,0000,0000,0000,,We can still save them! We need your help!
+Dialogue: 0,0:08:03.27,0:08:06.69,Default,,0000,0000,0000,,In that case, why don't you \Ntreat me more nicely...
+Dialogue: 0,0:08:06.69,0:08:08.16,Default,,0000,0000,0000,,Did you say something?!
+Dialogue: 0,0:08:08.65,0:08:10.70,Default,,0000,0000,0000,,Stop taunting me with that!
+Dialogue: 0,0:08:10.70,0:08:11.92,Default,,0000,0000,0000,,Hurry up, Caesar!
+Dialogue: 0,0:08:11.92,0:08:17.18,Default,,0000,0000,0000,,If they die because of you,\NI'll make you pay for it!
+Dialogue: 0,0:08:17.20,0:08:20.43,Default,,0000,0000,0000,,We need your help!
+Dialogue: 0,0:08:22.58,0:08:23.75,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:26.91,0:08:28.48,Default,,0000,0000,0000,,--What the...?\N--What's going on?
+Dialogue: 0,0:08:45.65,0:08:47.65,Default,,0000,0000,0000,,I'm losing my power...
+Dialogue: 0,0:08:47.65,0:08:50.07,Default,,0000,0000,0000,,It's salty! It's seawater!
+Dialogue: 0,0:08:52.32,0:08:53.42,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:09:04.25,0:09:06.33,Default,,0000,0000,0000,,Sanji, thank you.
+Dialogue: 0,0:09:08.63,0:09:12.51,Default,,0000,0000,0000,,Couldn't you save me a little more gently?!
+Dialogue: 0,0:09:13.47,0:09:16.56,Default,,0000,0000,0000,,Stop complaining after I saved you!
+Dialogue: 0,0:09:20.19,0:09:21.49,Default,,0000,0000,0000,,That's Nami-{\i1}san{\i0}'s voice!
+Dialogue: 0,0:09:21.81,0:09:23.22,Default,,0000,0000,0000,,Okay, Caesar?!
+Dialogue: 0,0:09:23.22,0:09:28.00,Default,,0000,0000,0000,,Get the poison gas you created\Nout of the city before I come back!
+Dialogue: 0,0:09:28.00,0:09:29.75,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:29.75,0:09:33.26,Default,,0000,0000,0000,,Otherwise,\NI'll crush your heart here in my fist and...
+Dialogue: 0,0:09:33.82,0:09:35.63,Default,,0000,0000,0000,,Alright! You devil!
+Dialogue: 0,0:09:36.49,0:09:39.18,Default,,0000,0000,0000,,Sanji, leave him in my hands.
+Dialogue: 0,0:09:39.18,0:09:41.29,Default,,0000,0000,0000,,Yeah, thanks!
+Dialogue: 0,0:09:45.66,0:09:46.48,Default,,0000,0000,0000,,There she is!
+Dialogue: 0,0:09:46.83,0:09:47.96,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:09:47.96,0:09:50.36,Default,,0000,0000,0000,,--Keep stalling him like that!\N--What?!
+Dialogue: 0,0:09:51.59,0:09:54.26,Default,,0000,0000,0000,,Diable! Mouton...
+Dialogue: 0,0:09:54.26,0:09:56.34,Default,,0000,0000,0000,,...Mallet!
+Dialogue: 0,0:10:02.85,0:10:04.75,Default,,0000,0000,0000,,Sheepshead-{\i1}sama{\i0}!
+Dialogue: 0,0:10:05.81,0:10:10.26,Default,,0000,0000,0000,,Guys! Retreat!\NSheepshead-{\i1}sama{\i0} has been taken down!
+Dialogue: 0,0:10:10.26,0:10:11.09,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:11.07,0:10:13.05,Default,,0000,0000,0000,,But we haven't found the samurai yet!
+Dialogue: 0,0:10:13.05,0:10:15.67,Default,,0000,0000,0000,,Although we cornered them this far,\Nhe didn't show himself!
+Dialogue: 0,0:10:16.24,0:10:18.95,Default,,0000,0000,0000,,The samurai's not here! Tell him so!
+Dialogue: 0,0:10:18.95,0:10:20.03,Default,,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:10:33.96,0:10:36.24,Default,,0000,0000,0000,,Do it! Neutralize the gas!
+Dialogue: 0,0:10:37.00,0:10:41.70,Default,,0000,0000,0000,,How annoying. All right.\NI'll do it! Are you happy now?!
+Dialogue: 0,0:10:42.27,0:10:44.93,Default,,0000,0000,0000,,Koro-neutralizing gas!
+Dialogue: 0,0:10:45.93,0:10:48.33,Default,,0000,0000,0000,,This is so against my will!
+Dialogue: 0,0:10:53.46,0:10:55.67,Default,,0000,0000,0000,,Roko!
+Dialogue: 0,0:11:57.38,0:11:58.61,Default,,0000,0000,0000,,Okay, it's good!
+Dialogue: 0,0:11:59.92,0:12:02.51,Default,,0000,0000,0000,,Hey! Guys!
+Dialogue: 0,0:12:03.09,0:12:05.24,Default,,0000,0000,0000,,Get over here now!
+Dialogue: 0,0:12:05.85,0:12:09.14,Default,,0000,0000,0000,,That's Chopperemon!\NFrom the forest down below!
+Dialogue: 0,0:12:09.14,0:12:11.44,Default,,0000,0000,0000,,Let's go now! There's no time to lose!
+Dialogue: 0,0:12:14.35,0:12:17.68,Default,,0000,0000,0000,,Th-This is awful!
+Dialogue: 0,0:12:17.68,0:12:20.09,Default,,0000,0000,0000,,Were they all killed by Caesar's weapon?!
+Dialogue: 0,0:12:22.24,0:12:26.27,Default,,0000,0000,0000,,Yeah. Most of the people have been wiped out.
+Dialogue: 0,0:12:26.27,0:12:28.43,Default,,0000,0000,0000,,It must've been done by \Nthose fools from earlier.
+Dialogue: 0,0:12:28.79,0:12:31.02,Default,,0000,0000,0000,,You mean those people who just attacked us?
+Dialogue: 0,0:12:31.86,0:12:35.27,Default,,0000,0000,0000,,Seems like Caesar neutralized \Nthe gas successfully
+Dialogue: 0,0:12:36.04,0:12:38.03,Default,,0000,0000,0000,,but they've done so much damage.
+Dialogue: 0,0:12:38.55,0:12:39.88,Default,,0000,0000,0000,,So there is a chance
+Dialogue: 0,0:12:39.88,0:12:42.65,Default,,0000,0000,0000,,that a lot of them are\Nstill hiding somewhere on the island.
+Dialogue: 0,0:12:43.05,0:12:45.18,Default,,0000,0000,0000,,Are you sure?!
+Dialogue: 0,0:12:45.18,0:12:47.30,Default,,0000,0000,0000,,There is a chance, I said.
+Dialogue: 0,0:12:47.61,0:12:52.93,Default,,0000,0000,0000,,According to the gas idiot,\Nthe Mink Tribe is a savage race.
+Dialogue: 0,0:12:54.52,0:12:58.53,Default,,0000,0000,0000,,We might end up regretting that we saved them\Nbut...
+Dialogue: 0,0:12:58.53,0:13:01.59,Default,,0000,0000,0000,,Are you-{\i1}teia{\i0} guys Jack's allies too?!
+Dialogue: 0,0:13:03.99,0:13:05.13,Default,,0000,0000,0000,,Nami-{\i1}san{\i0}!
+Dialogue: 0,0:13:05.57,0:13:06.91,Default,,0000,0000,0000,,Onami!
+Dialogue: 0,0:13:10.08,0:13:12.39,Default,,0000,0000,0000,,Wait! It's okay!
+Dialogue: 0,0:13:12.89,0:13:14.44,Default,,0000,0000,0000,,She's weaken by the poison!
+Dialogue: 0,0:13:27.80,0:13:30.49,Default,,0000,0000,0000,,Nami-{\i1}san{\i0}! She has an explosive!
+Dialogue: 0,0:13:31.10,0:13:32.23,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:35.94,0:13:40.38,Default,,0000,0000,0000,,I'll never forgive you-{\i1}teia{\i0} people! Never!
+Dialogue: 0,0:13:40.69,0:13:45.42,Default,,0000,0000,0000,,What did we do to you?!\NWhat do you gain from killing us?!
+Dialogue: 0,0:13:45.99,0:13:48.52,Default,,0000,0000,0000,,The person you-{\i1}teia{\i0} are looking\Nfor isn't here!
+Dialogue: 0,0:13:49.37,0:13:52.18,Default,,0000,0000,0000,,This country has a millennium-long history!
+Dialogue: 0,0:13:52.74,0:13:55.68,Default,,0000,0000,0000,,How much do you have to destroy\Nto get your fill?!
+Dialogue: 0,0:14:36.50,0:14:38.08,Default,,0000,0000,0000,,Wanda-{\i1}san{\i0}!
+Dialogue: 0,0:14:38.08,0:14:40.69,Default,,0000,0000,0000,,Those-{\i1}teia{\i0} people saved me!
+Dialogue: 0,0:14:41.13,0:14:42.34,Default,,0000,0000,0000,,Tristan!
+Dialogue: 0,0:14:42.34,0:14:45.36,Default,,0000,0000,0000,,All of Jack's subordinates have just\Nleft the island!
+Dialogue: 0,0:14:45.80,0:14:47.53,Default,,0000,0000,0000,,What? Left?
+Dialogue: 0,0:14:47.97,0:14:49.42,Default,,0000,0000,0000,,Did they-{\i1}teia{\i0}?
+Dialogue: 0,0:14:52.07,0:14:53.19,Default,,0000,0000,0000,,Pedro!
+Dialogue: 0,0:14:53.19,0:14:57.54,Default,,0000,0000,0000,,Wanda. They-{\i1}gara{\i0} have \Nnothing to do with Jack.
+Dialogue: 0,0:15:02.19,0:15:05.47,Default,,0000,0000,0000,,The poison gas has just cleared away\Nfrom the city...
+Dialogue: 0,0:15:06.69,0:15:08.63,Default,,0000,0000,0000,,...because of their-{\i1}gara{\i0} magic.
+Dialogue: 0,0:15:08.63,0:15:12.09,Default,,0000,0000,0000,,Come to think of it, the gas is gone.
+Dialogue: 0,0:15:12.09,0:15:13.64,Default,,0000,0000,0000,,You-{\i1}teia{\i0} people...
+Dialogue: 0,0:15:14.99,0:15:16.27,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:15:16.27,0:15:18.56,Default,,0000,0000,0000,,What are you guys doing?!
+Dialogue: 0,0:15:18.56,0:15:19.41,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:15:19.41,0:15:22.96,Default,,0000,0000,0000,,More than a day has passed\Nsince the gas was released!
+Dialogue: 0,0:15:22.96,0:15:25.85,Default,,0000,0000,0000,,To counteract this gas, we \Nhave to give the poisoned ones
+Dialogue: 0,0:15:25.85,0:15:28.81,Default,,0000,0000,0000,,the antidote within 48 hours \Nor it'll be too late for them!
+Dialogue: 0,0:15:28.81,0:15:29.49,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:15:29.49,0:15:31.99,Default,,0000,0000,0000,,I'm gonna make the antidote now!
+Dialogue: 0,0:15:31.99,0:15:32.99,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:32.99,0:15:37.50,Default,,0000,0000,0000,,To save everybody in the country,\Nwe can't even waste a second!
+Dialogue: 0,0:15:37.50,0:15:40.37,Default,,0000,0000,0000,,Where is there a hospital?!\NI need more instruments and medicine!
+Dialogue: 0,0:15:40.77,0:15:43.04,Default,,0000,0000,0000,,Bring everybody who can help here!
+Dialogue: 0,0:15:43.40,0:15:46.24,Default,,0000,0000,0000,,I'm a doctor! Do as I say!
+Dialogue: 0,0:15:46.24,0:15:49.26,Default,,0000,0000,0000,,I'm a nurse! Let me help you!
+Dialogue: 0,0:15:49.26,0:15:50.84,Default,,0000,0000,0000,,Okay! Thanks!
+Dialogue: 0,0:15:53.66,0:15:56.10,Default,,0000,0000,0000,,Are you going to... save us?
+Dialogue: 0,0:16:03.96,0:16:08.03,Default,,0000,0000,0000,,I thought we were going to die... All of us!
+Dialogue: 0,0:16:08.03,0:16:10.46,Default,,0000,0000,0000,,We won't give up on anybody!
+Dialogue: 0,0:16:14.76,0:16:16.55,Default,,0000,0000,0000,,You need to help us.
+Dialogue: 0,0:16:16.55,0:16:18.20,Default,,0000,0000,0000,,Tsk. All right.
+Dialogue: 0,0:16:20.39,0:16:23.79,Default,,0000,0000,0000,,It was a race against time from there.
+Dialogue: 0,0:16:34.84,0:16:37.55,Default,,0000,0000,0000,,Are you telling me to make it with these?!
+Dialogue: 0,0:16:38.45,0:16:40.47,Default,,0000,0000,0000,,Yes, make the antidote!
+Dialogue: 0,0:16:40.47,0:16:43.85,Default,,0000,0000,0000,,--Where are the doctors?\N--They're taking shelter in the fortress.
+Dialogue: 0,0:16:43.85,0:16:45.25,Default,,0000,0000,0000,,Fortress?
+Dialogue: 0,0:16:45.25,0:16:50.65,Default,,0000,0000,0000,,Most of the citizens are taking shelter\Nat the Rightflank Fortress in the forest.
+Dialogue: 0,0:16:50.65,0:16:53.46,Default,,0000,0000,0000,,Bring everyone here now!
+Dialogue: 0,0:16:53.46,0:16:57.62,Default,,0000,0000,0000,,I need their help with\Ncarrying the injured to the open space here!
+Dialogue: 0,0:16:57.97,0:17:03.31,Default,,0000,0000,0000,,Tristan, I'm alright.\NThe gas is flowing into the forest too.
+Dialogue: 0,0:17:03.31,0:17:05.46,Default,,0000,0000,0000,,We need everyone's help!
+Dialogue: 0,0:17:05.46,0:17:08.71,Default,,0000,0000,0000,,Okay! I'll go and get them!\NIt won't take long!
+Dialogue: 0,0:17:08.71,0:17:13.17,Default,,0000,0000,0000,,When the antidote is made,\Nwe'll administer it to everyone!
+Dialogue: 0,0:17:13.49,0:17:14.70,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:14.70,0:17:15.84,Default,,0000,0000,0000,,Let's do it.
+Dialogue: 0,0:17:15.84,0:17:19.30,Default,,0000,0000,0000,,We'll start treating those we can!
+Dialogue: 0,0:17:19.30,0:17:22.47,Default,,0000,0000,0000,,Yeah, thanks! Now, let's do it!
+Dialogue: 0,0:17:30.96,0:17:32.53,Default,,0000,0000,0000,,This way! Hurry up!
+Dialogue: 0,0:17:37.05,0:17:38.66,Default,,0000,0000,0000,,Wh-What the...
+Dialogue: 0,0:17:41.93,0:17:45.29,Default,,0000,0000,0000,,Th-This is... awful...
+Dialogue: 0,0:17:57.78,0:17:59.18,Default,,0000,0000,0000,,Done!
+Dialogue: 0,0:17:59.72,0:18:04.37,Default,,0000,0000,0000,,Hey! The antidote will be ready soon!\NPlease! We need your help!
+Dialogue: 0,0:18:23.85,0:18:25.00,Default,,0000,0000,0000,,Will this work?!
+Dialogue: 0,0:18:26.85,0:18:30.08,Default,,0000,0000,0000,,{\i1}I{\i0} made that! Of course, it'll work!
+Dialogue: 0,0:18:30.08,0:18:33.24,Default,,0000,0000,0000,,Okay, we need enough for \Nall the fallen people!
+Dialogue: 0,0:18:33.24,0:18:34.21,Default,,0000,0000,0000,,Make more!
+Dialogue: 0,0:18:34.21,0:18:36.05,Default,,0000,0000,0000,,For all of them?!
+Dialogue: 0,0:18:39.78,0:18:44.08,Default,,0000,0000,0000,,Okay! You're alright now.\NIt'll take effect soon.
+Dialogue: 0,0:18:44.08,0:18:45.39,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:55.55,0:18:58.63,Default,,0000,0000,0000,,Don't worry. They are okay!
+Dialogue: 0,0:19:09.10,0:19:11.56,Default,,0000,0000,0000,,There! You're okay now!
+Dialogue: 0,0:19:12.31,0:19:13.63,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:13.63,0:19:16.05,Default,,0000,0000,0000,,Let me help you too!
+Dialogue: 0,0:19:16.36,0:19:20.38,Default,,0000,0000,0000,,Is it okay for you to move now?\NYou should rest more.
+Dialogue: 0,0:19:20.38,0:19:23.70,Default,,0000,0000,0000,,No, I'm much better.
+Dialogue: 0,0:19:23.70,0:19:27.31,Default,,0000,0000,0000,,And this is {\i1}our{\i0} country!
+Dialogue: 0,0:19:36.51,0:19:39.03,Default,,0000,0000,0000,,You have to pull yourself together!
+Dialogue: 0,0:19:50.98,0:19:54.57,Default,,0000,0000,0000,,Okay, everybody!\NI made something for you!
+Dialogue: 0,0:19:54.57,0:19:56.67,Default,,0000,0000,0000,,Eat up! It'll give you strength!
+Dialogue: 0,0:20:07.33,0:20:09.83,Default,,0000,0000,0000,,It's damn good, isn't it?
+Dialogue: 0,0:20:09.83,0:20:12.21,Default,,0000,0000,0000,,Yeah, thank you.
+Dialogue: 0,0:20:12.21,0:20:15.81,Default,,0000,0000,0000,,It's warming up my entire body.
+Dialogue: 0,0:20:16.27,0:20:17.97,Default,,0000,0000,0000,,Do you want some more?
+Dialogue: 0,0:20:17.97,0:20:22.15,Default,,0000,0000,0000,,No, I had enough.\NLet everyone else have more.
+Dialogue: 0,0:20:22.15,0:20:26.87,Default,,0000,0000,0000,,Well, I can keep making more!\NEat as much as you can!
+Dialogue: 0,0:20:26.87,0:20:31.83,Default,,0000,0000,0000,,Alright, everybody!\NI'll play you some soothing music.
+Dialogue: 0,0:20:54.17,0:20:57.80,Default,,0000,0000,0000,,You didn't even know who we were!
+Dialogue: 0,0:20:58.67,0:21:01.71,Default,,0000,0000,0000,,But you saved us without giving up.
+Dialogue: 0,0:21:03.05,0:21:07.10,Default,,0000,0000,0000,,We'll never forget what you did for us!
+Dialogue: 0,0:21:07.10,0:21:09.56,Default,,0000,0000,0000,,We'll pay our debt to you someday!
+Dialogue: 0,0:21:09.56,0:21:11.66,Default,,0000,0000,0000,,No, no! You don't have to do that!
+Dialogue: 0,0:21:14.85,0:21:19.75,Default,,0000,0000,0000,,You guys did such a nice thing!\NI'm so proud of you!
+Dialogue: 0,0:21:20.24,0:21:22.92,Default,,0000,0000,0000,,I can't believe it was that serious...
+Dialogue: 0,0:21:22.92,0:21:26.30,Default,,0000,0000,0000,,Now I understand why\Nwe were so welcomed.
+Dialogue: 0,0:21:29.64,0:21:33.00,Default,,0000,0000,0000,,Anyway, that Jack guy makes me mad!
+Dialogue: 0,0:21:33.00,0:21:36.31,Default,,0000,0000,0000,,I'll kick his butt as \Nwell as Kaido's someday!
+Dialogue: 0,0:21:36.31,0:21:39.49,Default,,0000,0000,0000,,But he said there was an obituary...
+Dialogue: 0,0:21:40.01,0:21:43.65,Default,,0000,0000,0000,,Oh yeah!\NDamn! I can't kick his butt!
+Dialogue: 0,0:21:43.65,0:21:49.62,Default,,0000,0000,0000,,Well, it's hard to believe\Nif you had seen him with your own eyes.
+Dialogue: 0,0:21:49.62,0:21:51.93,Default,,0000,0000,0000,,Do you think he's alive?
+Dialogue: 0,0:21:51.93,0:21:53.33,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:21:54.35,0:21:56.87,Default,,0000,0000,0000,,Guys, will you stay here and talk?
+Dialogue: 0,0:21:57.67,0:21:59.67,Default,,0000,0000,0000,,Are you gonna go somewhere, Chopper?
+Dialogue: 0,0:22:00.07,0:22:03.37,Default,,0000,0000,0000,,It's night now so I'll go examine \NCat Viper, the King of the Night,
+Dialogue: 0,0:22:03.37,0:22:06.09,Default,,0000,0000,0000,,and the Guardians of the Whale Forest!
+Dialogue: 0,0:22:06.09,0:22:08.30,Default,,0000,0000,0000,,Oh, I'll take you there with my Warney.
+Dialogue: 0,0:22:08.30,0:22:12.60,Default,,0000,0000,0000,,Come to think of it, Wanda,\Nisn't it time for you to sleep too?
+Dialogue: 0,0:22:12.60,0:22:16.27,Default,,0000,0000,0000,,I work as a Kingsbird.
+Dialogue: 0,0:22:16.27,0:22:17.71,Default,,0000,0000,0000,,A Kingsbird?
+Dialogue: 0,0:22:17.71,0:22:21.68,Default,,0000,0000,0000,,Yes - an aide to the kings \Nand the only office that is
+Dialogue: 0,0:22:21.68,0:22:24.08,Default,,0000,0000,0000,,allowed to go back and forth between them
+Dialogue: 0,0:22:24.08,0:22:25.74,Default,,0000,0000,0000,,regardless of whether it's day or night.
+Dialogue: 0,0:22:25.74,0:22:28.36,Default,,0000,0000,0000,,Wow, that's an important job!
+Dialogue: 0,0:22:29.39,0:22:32.72,Default,,0000,0000,0000,,I have to tell him\Nthat Duke Dogstorm is okay.
+Dialogue: 0,0:22:32.72,0:22:35.10,Default,,0000,0000,0000,,He'd probably say it's unnecessary.
+Dialogue: 0,0:22:35.79,0:22:37.25,Default,,0000,0000,0000,,Okay! See you guys!
+Dialogue: 0,0:22:37.85,0:22:41.17,Default,,0000,0000,0000,,I'll come with you!\NI wanna see Cat Viper!
+Dialogue: 0,0:22:41.17,0:22:46.55,Default,,0000,0000,0000,,Master Cat Viper! I like him so much!\NI'll come with you!
+Dialogue: 0,0:22:46.55,0:22:48.16,Default,,0000,0000,0000,,We'll come too!
+Dialogue: 0,0:22:48.16,0:22:51.64,Default,,0000,0000,0000,,I'm curious about this King of the Night!
+Dialogue: 0,0:22:52.07,0:22:56.39,Default,,0000,0000,0000,,Chopper said he's heavily injured...
+Dialogue: 0,0:22:56.39,0:22:59.79,Default,,0000,0000,0000,,Well, he has amazing recuperative powers.
+Dialogue: 0,0:22:59.79,0:23:02.31,Default,,0000,0000,0000,,And he's big like Dogstorm!
+Dialogue: 0,0:23:02.68,0:23:05.26,Default,,0000,0000,0000,,Is it really okay for us to come?
+Dialogue: 0,0:23:05.26,0:23:07.51,Default,,0000,0000,0000,,Yes, you're welcome.
+Dialogue: 0,0:23:07.51,0:23:11.70,Default,,0000,0000,0000,,I'm sure Master Cat Viper will be happy\Nto see our saviors.
+Dialogue: 0,0:23:11.70,0:23:14.33,Default,,0000,0000,0000,,Well, if you're sure it's all right...
+Dialogue: 0,0:23:14.49,0:23:18.36,Default,,0000,0000,0000,,Okay! Let's go see Master Cat Viper!
+Dialogue: 0,0:23:24.40,0:23:27.07,Italics,,0000,0000,0000,,{\i1}Sanji and the rest who \Nsaved the Minks that were
+Dialogue: 0,0:23:27.07,0:23:28.88,Italics,,0000,0000,0000,,in trouble face another crisis!{\i0}
+Dialogue: 0,0:23:29.34,0:23:32.14,Italics,,0000,0000,0000,,{\i1}Pekoms, burning with anger at \Nseeing his hometown destroyed
+Dialogue: 0,0:23:32.14,0:23:34.80,Italics,,0000,0000,0000,,and Bege who devotes himself solely \Ntowards fulfilling his duty!{\i0}
+Dialogue: 0,0:23:34.80,0:23:36.35,Italics,,0000,0000,0000,,{\i1}It's an explosive situation!
+Dialogue: 0,0:23:36.35,0:23:40.06,Italics,,0000,0000,0000,,An intense face-off against \Nthe Big Mom Pirates begins!{\i0}
+Dialogue: 0,0:23:40.06,0:23:41.37,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.37,0:23:44.94,Default,,0000,0000,0000,,"The Delinquent Comes Home! \NEmperor Big Mom's Assassins!"
+Dialogue: 0,0:23:44.94,0:23:47.38,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!
+Dialogue: 0,0:23:47.38,0:23:49.38,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:49.38,0:23:51.38,On Top,,0000,0000,0000,,

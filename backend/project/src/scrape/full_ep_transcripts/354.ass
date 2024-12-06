@@ -1,0 +1,306 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.35,0:00:20.76,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:20.76,0:00:22.87,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:22.87,0:00:29.90,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:37.24,0:00:40.56,On Top,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:40.56,0:00:43.98,On Top,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:43.98,0:00:49.52,On Top,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:49.52,0:00:55.74,On Top,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:55.74,0:01:02.75,On Top,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:01:02.75,0:01:07.25,On Top,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:01:07.25,0:01:09.33,On Top,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:01:09.33,0:01:16.51,On Top,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:23.58,0:01:27.03,On Top,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:27.03,0:01:30.23,On Top,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:30.23,0:01:35.78,On Top,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:35.78,0:01:41.99,On Top,,0000,0000,0000,,With our pulses racing, let's go on a trip now
+Dialogue: 0,0:01:41.99,0:01:49.04,On Top,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:49.04,0:01:53.17,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:53.17,0:01:55.79,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:55.79,0:02:00.15,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:00.15,0:02:02.85,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:02.85,0:02:04.52,On Top,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:02:04.52,0:02:06.23,On Top,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:02:06.23,0:02:07.89,On Top,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:02:07.89,0:02:09.52,On Top,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:02:09.52,0:02:11.06,On Top,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:02:11.06,0:02:12.98,On Top,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:02:12.98,0:02:14.59,On Top,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:14.59,0:02:15.76,On Top,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:15.76,0:02:20.02,On Top,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:20.02,0:02:22.20,On Top,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:22.20,0:02:26.58,On Top,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:26.58,0:02:29.00,On Top,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:29.00,0:02:33.11,On Top,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:33.11,0:02:35.49,On Top,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:35.49,0:02:39.90,On Top,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:39.90,0:02:43.01,On Top,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:46.87,0:02:49.97,Default,,0000,0000,0000,,Wealth, fame, power...
+Dialogue: 0,0:02:51.12,0:02:53.67,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:02:53.67,0:02:56.40,Default,,0000,0000,0000,,once attained everything\Nthis world has to offer.
+Dialogue: 0,0:02:56.88,0:02:59.24,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:02:59.24,0:03:02.87,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:03:03.28,0:03:07.41,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:03:07.41,0:03:11.83,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:03:12.39,0:03:16.84,Default,,0000,0000,0000,,And so men rushed onto the\NGrand Line in pursuit of romanticism!
+Dialogue: 0,0:03:17.40,0:03:21.36,Default,,0000,0000,0000,,The world has truly entered a Great Pirate Era!
+Dialogue: 0,0:03:32.96,0:03:34.44,Default,,0000,0000,0000,,They were merciless.
+Dialogue: 0,0:03:34.90,0:03:39.32,Default,,0000,0000,0000,,Wha--? M-M-Marriage?!
+Dialogue: 0,0:03:39.32,0:03:42.53,Default,,0000,0000,0000,,Don't be stupid! I won't let that happen!
+Dialogue: 0,0:03:42.53,0:03:46.11,Default,,0000,0000,0000,,He's got guts to marry Nami...
+Dialogue: 0,0:03:46.11,0:03:48.56,Default,,0000,0000,0000,,And there is a giant version of me?
+Dialogue: 0,0:03:48.56,0:03:50.50,Default,,0000,0000,0000,,That's how you make a zombie?
+Dialogue: 0,0:03:50.90,0:03:57.68,Default,,0000,0000,0000,,So we need to find a zombie in sandals,\NLuffy's giant, and the cook's dogguin.
+Dialogue: 0,0:03:57.68,0:04:01.38,Default,,0000,0000,0000,,Our shadows will come back if we\Nthrow salt in their mouths, right?
+Dialogue: 0,0:04:01.80,0:04:05.09,Default,,0000,0000,0000,,But honestly, I'm amazed you\Ndiscovered that weakness.
+Dialogue: 0,0:04:05.09,0:04:07.30,Default,,0000,0000,0000,,All of our info came from that bag of bones,
+Dialogue: 0,0:04:07.30,0:04:11.14,Default,,0000,0000,0000,,from how to defeat the zombies\Nto how to rescue you guys.
+Dialogue: 0,0:04:12.36,0:04:13.06,Default,,0000,0000,0000,,He...
+Dialogue: 0,0:04:14.34,0:04:16.45,Default,,0000,0000,0000,,He's a real man!
+Dialogue: 0,0:04:17.78,0:04:21.82,Default,,0000,0000,0000,,Didn't you say, "I got so\Nlonely that I wanted to die"?
+Dialogue: 0,0:04:22.33,0:04:25.90,Default,,0000,0000,0000,,If I were you, I would have\Ntaken my own life ages ago.
+Dialogue: 0,0:04:25.90,0:04:29.40,Default,,0000,0000,0000,,You're doing all of this because\Nyou want to keep a promise...
+Dialogue: 0,0:04:29.40,0:04:33.79,Default,,0000,0000,0000,,What exactly did you promise your crewmates?
+Dialogue: 0,0:04:34.33,0:04:36.07,Default,,0000,0000,0000,,It's quite simple.
+Dialogue: 0,0:04:36.72,0:04:42.35,Default,,0000,0000,0000,,Long ago, we left a member of my\Ncrew behind at a certain location.
+Dialogue: 0,0:04:42.35,0:04:44.97,Default,,0000,0000,0000,,It was unavoidable, yet sad.
+Dialogue: 0,0:04:45.39,0:04:50.93,Default,,0000,0000,0000,,When we set sail, we vehemently\Nswore that we would return.
+Dialogue: 0,0:04:50.93,0:04:53.71,Default,,0000,0000,0000,,But then we were annihilated on these seas,
+Dialogue: 0,0:04:53.71,0:04:55.77,Default,,0000,0000,0000,,preventing us from keeping our promise.
+Dialogue: 0,0:04:57.73,0:05:03.82,Default,,0000,0000,0000,,I believe it has been... fifty years\Nnow since the day we died.
+Dialogue: 0,0:05:05.11,0:05:08.75,Default,,0000,0000,0000,,Fifty years?! Hey, that was ages ago!
+Dialogue: 0,0:05:08.75,0:05:10.24,Default,,0000,0000,0000,,I wasn't even born yet!
+Dialogue: 0,0:05:10.63,0:05:14.20,Default,,0000,0000,0000,,Sorry, but I doubt he's been waiting that long!
+Dialogue: 0,0:05:14.97,0:05:20.42,Default,,0000,0000,0000,,What right do I have to decide\Nwhether or not he's still waiting?
+Dialogue: 0,0:05:22.78,0:05:26.51,Default,,0000,0000,0000,,We swore to reunite with my crewmate\Noff some capes. His name is...
+Dialogue: 0,0:05:27.17,0:05:28.80,Default,,0000,0000,0000,,...Laboon!
+Dialogue: 0,0:05:28.80,0:05:34.22,Default,,0000,0000,0000,,I doubt he will forgive us for\Nirresponsibly dying on him...
+Dialogue: 0,0:05:34.64,0:05:36.31,Default,,0000,0000,0000,,We made a selfish promise
+Dialogue: 0,0:05:36.31,0:05:38.98,Default,,0000,0000,0000,,and died under a distant sky\Nwhere our voices couldn't reach him.
+Dialogue: 0,0:05:41.22,0:05:44.19,Default,,0000,0000,0000,,"I'm sorry we died" could never cut it!
+Dialogue: 0,0:05:45.64,0:05:49.99,Default,,0000,0000,0000,,We gave our word as men that we would return!
+Dialogue: 0,0:05:53.69,0:05:55.66,Default,,0000,0000,0000,,And that's why he's still alive...
+Dialogue: 0,0:05:56.62,0:05:58.15,Default,,0000,0000,0000,,Laboon...
+Dialogue: 0,0:06:03.43,0:06:05.55,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:06:06.18,0:06:07.43,Default,,0000,0000,0000,,It's him...
+Dialogue: 0,0:06:15.44,0:06:16.31,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:16.31,0:06:20.52,Default,,0000,0000,0000,,Oh, yeah. Chopper wasn't there for this, huh?
+Dialogue: 0,0:06:20.52,0:06:22.86,Default,,0000,0000,0000,,We know him.
+Dialogue: 0,0:06:27.09,0:06:29.20,Default,,0000,0000,0000,,We know that whale.
+Dialogue: 0,0:06:37.81,0:06:42.75,Default,,0000,0000,0000,,"I Swear to Go See Him!!\NBrook and the Cape of Promise!"
+Dialogue: 0,0:06:44.40,0:06:45.92,Default,,0000,0000,0000,,You know him?!
+Dialogue: 0,0:06:45.92,0:06:49.00,Default,,0000,0000,0000,,Why? How'd you meet?
+Dialogue: 0,0:06:50.79,0:06:54.46,Default,,0000,0000,0000,,Twin Capes is at the\Nentrance to the Grand Line.
+Dialogue: 0,0:06:55.20,0:06:57.22,Default,,0000,0000,0000,,A freakishly huge whale was there...
+Dialogue: 0,0:07:01.10,0:07:03.76,Default,,0000,0000,0000,,Nami-san! I see a mountain up ahead!
+Dialogue: 0,0:07:03.76,0:07:05.94,Default,,0000,0000,0000,,A mountain?! That can't be!
+Dialogue: 0,0:07:05.94,0:07:07.94,Default,,0000,0000,0000,,But it's really there!
+Dialogue: 0,0:07:07.94,0:07:11.02,Default,,0000,0000,0000,,Who cares?! Go!!
+Dialogue: 0,0:07:12.70,0:07:13.54,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:17.83,0:07:19.22,Default,,0000,0000,0000,,Oh, crap!!
+Dialogue: 0,0:07:21.34,0:07:23.03,Default,,0000,0000,0000,,It's not a mountain!!
+Dialogue: 0,0:07:23.03,0:07:24.32,Default,,0000,0000,0000,,It's a black wall!!
+Dialogue: 0,0:07:24.32,0:07:25.47,Default,,0000,0000,0000,,No, it's not!!
+Dialogue: 0,0:07:25.47,0:07:26.94,Default,,0000,0000,0000,,Then what is it?!
+Dialogue: 0,0:07:26.94,0:07:29.80,Default,,0000,0000,0000,,I-I-It's a whale!!
+Dialogue: 0,0:07:32.27,0:07:34.00,Default,,0000,0000,0000,,Wh-Wh-What're we gonna do?!
+Dialogue: 0,0:07:34.00,0:07:36.99,Default,,0000,0000,0000,,--Shall we fight?\N--Idiot! There's no way we can fight that!
+Dialogue: 0,0:07:36.99,0:07:41.56,Default,,0000,0000,0000,,B-B-But our path is blocked!\NWhat're we gonna do?!
+Dialogue: 0,0:07:41.56,0:07:45.22,Default,,0000,0000,0000,,Oh, yeah! I've got an idea!
+Dialogue: 0,0:07:45.22,0:07:47.77,Default,,0000,0000,0000,,Luffy...? Hey, what're you doing?!
+Dialogue: 0,0:07:52.38,0:07:58.31,Default,,0000,0000,0000,,It doesn't work! The ship doesn't turn!
+Dialogue: 0,0:07:58.31,0:08:00.95,Default,,0000,0000,0000,,--Dammit!\N--Don't give up!
+Dialogue: 0,0:08:10.13,0:08:11.55,Default,,0000,0000,0000,,Is this it...?!
+Dialogue: 0,0:08:18.89,0:08:20.77,Default,,0000,0000,0000,,Cannon?!
+Dialogue: 0,0:08:20.77,0:08:22.73,Default,,0000,0000,0000,,All right! Did it stop?
+Dialogue: 0,0:08:30.04,0:08:32.23,Default,,0000,0000,0000,,Ah... We're screwed...
+Dialogue: 0,0:08:33.67,0:08:34.66,Default,,0000,0000,0000,,This might be it...
+Dialogue: 0,0:08:37.48,0:08:39.41,Default,,0000,0000,0000,,My special seat...!
+Dialogue: 0,0:08:39.41,0:08:41.40,Default,,0000,0000,0000,,Let's get out of here before it's too late!!
+Dialogue: 0,0:08:41.40,0:08:43.54,Default,,0000,0000,0000,,What the heck is going on?!
+Dialogue: 0,0:08:43.54,0:08:46.20,Default,,0000,0000,0000,,Did he not notice the cannon attack\Nbecause his body's too big?!
+Dialogue: 0,0:08:46.20,0:08:47.55,Default,,0000,0000,0000,,Or is he just slow?!
+Dialogue: 0,0:08:47.55,0:08:49.13,Default,,0000,0000,0000,,Who knows?! Anyway,\Nlet's get out of here now!
+Dialogue: 0,0:08:54.05,0:08:56.36,Default,,0000,0000,0000,,Ahhh! My ears hurt!
+Dialogue: 0,0:08:56.36,0:08:58.05,Default,,0000,0000,0000,,Paddle! Just paddle!!
+Dialogue: 0,0:08:58.05,0:08:59.51,Default,,0000,0000,0000,,We have to get away from him!
+Dialogue: 0,0:09:05.84,0:09:06.90,Default,,0000,0000,0000,,Luffy...?
+Dialogue: 0,0:09:06.90,0:09:12.73,Default,,0000,0000,0000,,You...! What the hell did\Nyou do to my special seat?!
+Dialogue: 0,0:09:13.78,0:09:17.16,Default,,0000,0000,0000,,Dumbass!!
+Dialogue: 0,0:09:31.07,0:09:32.42,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:09:48.36,0:09:50.15,Default,,0000,0000,0000,,--Luffy!\N--Luffy!
+Dialogue: 0,0:09:56.40,0:09:59.36,Default,,0000,0000,0000,,I'm not gonna die!!
+Dialogue: 0,0:10:09.37,0:10:13.50,Default,,0000,0000,0000,,Thanks to Luffy's silliness,\Nwe got swallowed whole.
+Dialogue: 0,0:10:14.67,0:10:17.51,Default,,0000,0000,0000,,Th... The whale ate you?!
+Dialogue: 0,0:10:17.96,0:10:19.97,Default,,0000,0000,0000,,And that was Laboon, right?
+Dialogue: 0,0:10:19.97,0:10:25.20,Default,,0000,0000,0000,,Right. There was an ancient lighthouse\Nkeeper who lived inside the whale.
+Dialogue: 0,0:10:25.20,0:10:26.43,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:28.60,0:10:29.98,Default,,0000,0000,0000,,Flower pops!
+Dialogue: 0,0:10:39.31,0:10:42.82,Default,,0000,0000,0000,,He had been treating Laboon from the inside.
+Dialogue: 0,0:10:45.62,0:10:48.12,Default,,0000,0000,0000,,The lighthouse keeper was treating him?
+Dialogue: 0,0:10:48.12,0:10:53.17,Default,,0000,0000,0000,,Supposedly he used to be\Nthe medic on a pirate ship.
+Dialogue: 0,0:10:53.17,0:10:58.63,Default,,0000,0000,0000,,Yeah? But why did he\Nneed treatment? Was he sick?
+Dialogue: 0,0:10:59.02,0:11:01.04,Default,,0000,0000,0000,,He was continually bashing his head
+Dialogue: 0,0:11:01.04,0:11:04.58,Default,,0000,0000,0000,,against the Red Line, which is\Nlike a wall dividing our world.
+Dialogue: 0,0:11:04.58,0:11:09.68,Default,,0000,0000,0000,,He's been waiting fifty years for some\Npirates who promised to come for him
+Dialogue: 0,0:11:09.68,0:11:11.60,Default,,0000,0000,0000,,after they traveled around the world.
+Dialogue: 0,0:11:14.27,0:11:19.00,Default,,0000,0000,0000,,But fifty years...? Those pirates sure\Nare making him wait a long time...
+Dialogue: 0,0:11:19.00,0:11:22.07,Default,,0000,0000,0000,,Idiot! This is the Grand Line.
+Dialogue: 0,0:11:22.51,0:11:23.93,Default,,0000,0000,0000,,They're dead.
+Dialogue: 0,0:11:26.05,0:11:28.69,Default,,0000,0000,0000,,No matter how long he waits,\Nthey won't come back.
+Dialogue: 0,0:11:28.69,0:11:33.28,Default,,0000,0000,0000,,Yeah, it's true that fifty years ago\Nthe Grand Line was an uncharted sea
+Dialogue: 0,0:11:33.28,0:11:36.55,Default,,0000,0000,0000,,more terrible and chaotic than it is now.
+Dialogue: 0,0:11:36.55,0:11:41.92,Default,,0000,0000,0000,,Why are you talking so hopeless?!\NYou don't know that for sure yet!
+Dialogue: 0,0:11:41.92,0:11:45.40,Default,,0000,0000,0000,,They might come back!\NIt's a very touching story!
+Dialogue: 0,0:11:45.40,0:11:50.92,Default,,0000,0000,0000,,A whale continues to believe in the\Npromise with his friends... Right, pops?!
+Dialogue: 0,0:11:50.92,0:11:54.94,Default,,0000,0000,0000,,Yeah... But reality is cruel.
+Dialogue: 0,0:11:55.64,0:12:03.27,Default,,0000,0000,0000,,I confirmed it using reliable information.\NThey ran away... from the Grand Line.
+Dialogue: 0,0:12:03.27,0:12:07.79,Default,,0000,0000,0000,,Can't be... Don't tell me...\Nthey left without him?!
+Dialogue: 0,0:12:08.79,0:12:13.49,Default,,0000,0000,0000,,Even if they are alive,\Nthey'll probably never come back here.
+Dialogue: 0,0:12:13.49,0:12:16.94,Default,,0000,0000,0000,,Seasons. Weather. Current. Wind direction.
+Dialogue: 0,0:12:16.94,0:12:22.36,Default,,0000,0000,0000,,They are all random. Common sense\Nis useless in the Grand Line.
+Dialogue: 0,0:12:22.36,0:12:27.14,Default,,0000,0000,0000,,The terror of the Grand Line takes\Nover weak minds in an instant.
+Dialogue: 0,0:12:29.43,0:12:34.61,Default,,0000,0000,0000,,They abandoned this whale?!\NWhen he's been waiting for fifty years...?!
+Dialogue: 0,0:12:34.61,0:12:35.56,Default,,0000,0000,0000,,That's cruel!
+Dialogue: 0,0:12:36.19,0:12:39.74,Default,,0000,0000,0000,,If you know that, why haven't you told him?
+Dialogue: 0,0:12:39.74,0:12:42.44,Default,,0000,0000,0000,,That whale can understand\Nwhat people say, right?
+Dialogue: 0,0:12:43.05,0:12:46.88,Default,,0000,0000,0000,,I did tell him... everything.
+Dialogue: 0,0:13:07.51,0:13:11.89,Default,,0000,0000,0000,,Listen to me, Laboon! They're not gonna...
+Dialogue: 0,0:13:21.15,0:13:23.73,Default,,0000,0000,0000,,I understand you don't wanna accept it.
+Dialogue: 0,0:13:24.48,0:13:27.83,Default,,0000,0000,0000,,But you somehow have to accept it...
+Dialogue: 0,0:13:28.49,0:13:29.20,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:13:33.79,0:13:35.25,Default,,0000,0000,0000,,Laboon!
+Dialogue: 0,0:13:45.51,0:13:51.38,Default,,0000,0000,0000,,It's since then that he started\Nhowling at Reverse Mountain
+Dialogue: 0,0:13:51.38,0:13:54.87,Default,,0000,0000,0000,,and that he started slamming\Nhis body against the Red Line...
+Dialogue: 0,0:13:54.87,0:14:01.75,Default,,0000,0000,0000,,It's as if he's insisting that they'll come back\Nfrom the other side of that wall any time now...
+Dialogue: 0,0:14:01.75,0:14:03.15,Default,,0000,0000,0000,,What a whale...
+Dialogue: 0,0:14:03.15,0:14:04.96,Default,,0000,0000,0000,,When there's no point in waiting...
+Dialogue: 0,0:14:05.86,0:14:09.66,Default,,0000,0000,0000,,He refuses my words because if he accepts them,\Nit means that there is no point in waiting.
+Dialogue: 0,0:14:10.23,0:14:14.22,Default,,0000,0000,0000,,He's afraid of that more than anything.
+Dialogue: 0,0:14:14.22,0:14:19.02,Default,,0000,0000,0000,,He's from the West Blue.\NThere's no way of going back there now.
+Dialogue: 0,0:14:19.02,0:14:24.84,Default,,0000,0000,0000,,That's why those pirates he came here\Nwith are his only buddies and hope.
+Dialogue: 0,0:14:40.91,0:14:43.43,Default,,0000,0000,0000,,Look at the scars on his forehead!
+Dialogue: 0,0:14:43.43,0:14:48.82,Default,,0000,0000,0000,,If he continues to hit his head hard\Nlike that, he'll die without doubt.
+Dialogue: 0,0:14:48.82,0:14:52.05,Default,,0000,0000,0000,,It's a strange relationship, but\NI've been with him for 50 long years.
+Dialogue: 0,0:14:52.05,0:14:53.91,Default,,0000,0000,0000,,I can't just stand by and watch him die now.
+Dialogue: 0,0:14:54.71,0:14:56.36,Default,,0000,0000,0000,,Hmph!
+Dialogue: 0,0:14:56.36,0:14:58.61,Default,,0000,0000,0000,,--Huh?\N--What's that idiot doing?
+Dialogue: 0,0:14:58.61,0:15:00.12,Default,,0000,0000,0000,,When we looked away for a second...
+Dialogue: 0,0:15:00.12,0:15:02.61,Default,,0000,0000,0000,,Is he pretending he's mountain\Nclimbing or something?
+Dialogue: 0,0:15:03.59,0:15:05.99,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:15:05.99,0:15:08.59,Default,,0000,0000,0000,,...Flower Arrangement!
+Dialogue: 0,0:15:09.14,0:15:10.96,Default,,0000,0000,0000,,Isn't that a mast?
+Dialogue: 0,0:15:10.96,0:15:12.91,Default,,0000,0000,0000,,Yep. It's from our ship.
+Dialogue: 0,0:15:12.91,0:15:16.64,Default,,0000,0000,0000,,It's the main mast... Hey! Don't break the ship!
+Dialogue: 0,0:15:23.44,0:15:25.90,Default,,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:15:36.73,0:15:38.22,Default,,0000,0000,0000,,Wha...?! Hey, kid!
+Dialogue: 0,0:15:38.22,0:15:41.21,Default,,0000,0000,0000,,Don't worry. He doesn't die\Neven when he's crushed!
+Dialogue: 0,0:15:45.02,0:15:46.84,Default,,0000,0000,0000,,Ha! Dummy!
+Dialogue: 0,0:15:53.85,0:15:55.05,Default,,0000,0000,0000,,What does he think he's doing?!
+Dialogue: 0,0:15:59.10,0:16:02.27,Default,,0000,0000,0000,,Luffy! What the hell are you trying to do?!
+Dialogue: 0,0:16:07.18,0:16:08.29,Default,,0000,0000,0000,,It's a draw!
+Dialogue: 0,0:16:13.03,0:16:14.28,Default,,0000,0000,0000,,I'm strong, aren't I?
+Dialogue: 0,0:16:15.87,0:16:17.83,Default,,0000,0000,0000,,You wanna defeat me, don't you?!
+Dialogue: 0,0:16:18.25,0:16:22.79,Default,,0000,0000,0000,,Our fight isn't over yet!\NSo we have to fight again.
+Dialogue: 0,0:16:22.79,0:16:26.50,Default,,0000,0000,0000,,Your buddies're dead,\Nbut I'm your rival forever.
+Dialogue: 0,0:16:26.50,0:16:30.59,Default,,0000,0000,0000,,We definitely have to fight again\Nin order to decide who is stronger.
+Dialogue: 0,0:16:30.97,0:16:34.38,Default,,0000,0000,0000,,After going around the Grand Line,\Nwe'll come back to see you again.
+Dialogue: 0,0:16:35.77,0:16:37.68,Default,,0000,0000,0000,,When I come back, let's fight again!
+Dialogue: 0,0:16:52.24,0:16:54.80,Default,,0000,0000,0000,,Hmmm. This is good.
+Dialogue: 0,0:16:54.80,0:16:58.43,Default,,0000,0000,0000,,This is the symbol of our\Npromise to fight again.
+Dialogue: 0,0:16:58.43,0:17:04.10,Default,,0000,0000,0000,,Until we come back, don't remove that\Nmark by hitting your head. Got that?!
+Dialogue: 0,0:17:07.91,0:17:09.25,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:17:11.68,0:17:15.13,Default,,0000,0000,0000,,See ya, flower pops! Thanks for the log pose!
+Dialogue: 0,0:17:15.13,0:17:17.11,Default,,0000,0000,0000,,Yeah. Have a safe trip!
+Dialogue: 0,0:17:17.11,0:17:19.86,Default,,0000,0000,0000,,See ya, whale! I'm leaving now!
+Dialogue: 0,0:17:24.57,0:17:26.56,Default,,0000,0000,0000,,To Whisky Peak...
+Dialogue: 0,0:17:26.56,0:17:28.98,Default,,0000,0000,0000,,...full speed ahead!!
+Dialogue: 0,0:17:29.53,0:17:31.43,Default,,0000,0000,0000,,Yeah!!
+Dialogue: 0,0:17:49.01,0:17:54.58,Default,,0000,0000,0000,,Luffy got him to stop killing himself\Nby hitting his head on the wall,
+Dialogue: 0,0:17:54.58,0:17:56.97,Default,,0000,0000,0000,,so he's still alive...
+Dialogue: 0,0:18:00.49,0:18:03.43,Default,,0000,0000,0000,,Even now, he's waiting for his\Ncrewmates back at those capes.
+Dialogue: 0,0:18:03.87,0:18:05.83,Default,,0000,0000,0000,,It's an unbelievable story.
+Dialogue: 0,0:18:07.22,0:18:11.31,Default,,0000,0000,0000,,Both sides have been keeping\Ntheir promise for fifty years!
+Dialogue: 0,0:18:11.31,0:18:15.82,Default,,0000,0000,0000,,I had no idea one of the people\NLaboon has been waiting for...
+Dialogue: 0,0:18:22.28,0:18:25.03,Default,,0000,0000,0000,,...was that skeleton!
+Dialogue: 0,0:18:33.69,0:18:37.97,Default,,0000,0000,0000,,I, too, have grown stronger\Nduring these past five years!
+Dialogue: 0,0:18:40.45,0:18:44.31,Default,,0000,0000,0000,,We share the same thought patterns!
+Dialogue: 0,0:19:01.70,0:19:04.87,Default,,0000,0000,0000,,I see you still hold your afro dear.
+Dialogue: 0,0:19:04.87,0:19:08.70,Default,,0000,0000,0000,,You cannot possibly hope to\Ndefend such a large weakness.
+Dialogue: 0,0:19:09.33,0:19:10.38,Default,,0000,0000,0000,,Silence!
+Dialogue: 0,0:19:17.51,0:19:24.23,Default,,0000,0000,0000,,Laboon, do you still remember us?
+Dialogue: 0,0:19:28.06,0:19:32.59,Default,,0000,0000,0000,,My heart grows tight\Nwhenever I think about you.
+Dialogue: 0,0:19:36.61,0:19:39.57,Default,,0000,0000,0000,,Although I don't have a heart anymore!
+Dialogue: 0,0:19:41.04,0:19:45.53,Default,,0000,0000,0000,,We were not strong enough to face\Nthe harsh cruelty of the Grand Line!
+Dialogue: 0,0:19:47.54,0:19:51.12,Default,,0000,0000,0000,,All of our friends have died!
+Dialogue: 0,0:20:00.82,0:20:07.14,Default,,0000,0000,0000,,As for me, I lost everything along with\Nmy crewmates, including my face and body...
+Dialogue: 0,0:20:07.58,0:20:11.23,Default,,0000,0000,0000,,Even if we were to meet again,\Nyou probably wouldn't recognize me
+Dialogue: 0,0:20:11.23,0:20:13.84,Default,,0000,0000,0000,,now that I've been reduced to a skeleton!
+Dialogue: 0,0:20:37.72,0:20:38.63,Default,,0000,0000,0000,,Don't! Don't!
+Dialogue: 0,0:20:39.27,0:20:41.11,Default,,0000,0000,0000,,Don't hurt my afro!
+Dialogue: 0,0:20:52.69,0:20:56.90,Default,,0000,0000,0000,,I have nothing left...
+Dialogue: 0,0:20:59.14,0:21:05.53,Default,,0000,0000,0000,,But I want to protect this hair,\Nwhich everyone said resembled you!
+Dialogue: 0,0:21:15.70,0:21:18.31,Default,,0000,0000,0000,,Seeing them like this, they look just alike!
+Dialogue: 0,0:21:18.31,0:21:21.05,Default,,0000,0000,0000,,Brook's hair really resembles Laboon!
+Dialogue: 0,0:21:22.97,0:21:24.80,Default,,0000,0000,0000,,Hey, Brother!
+Dialogue: 0,0:21:28.14,0:21:30.43,Default,,0000,0000,0000,,I will protect the last remnant of who I was!
+Dialogue: 0,0:21:34.23,0:21:37.27,Default,,0000,0000,0000,,I swear I will go see you!
+Dialogue: 0,0:21:40.99,0:21:43.09,Default,,0000,0000,0000,,So I'd like you to keep waiting...
+Dialogue: 0,0:21:45.56,0:21:46.82,Default,,0000,0000,0000,,...at the capes...
+Dialogue: 0,0:21:49.96,0:21:51.70,Default,,0000,0000,0000,,...where we made our promise.
+Dialogue: 0,0:22:05.61,0:22:08.96,Default,,0000,0000,0000,,I love that bag of bones\Nand that whale, dammit!
+Dialogue: 0,0:22:08.96,0:22:10.05,Default,,0000,0000,0000,,Shuddup!
+Dialogue: 0,0:22:11.74,0:22:13.45,Default,,0000,0000,0000,,Now I'm getting excited!
+Dialogue: 0,0:22:13.45,0:22:19.98,Default,,0000,0000,0000,,He's a musician, a talking skeleton,\Nhas an afro, goes "Yo-ho ho!"
+Dialogue: 0,0:22:20.65,0:22:23.25,Default,,0000,0000,0000,,and was Laboon's pal!
+Dialogue: 0,0:22:24.32,0:22:28.11,Default,,0000,0000,0000,,He's coming aboard our ship,\Neven if I have to drag him.
+Dialogue: 0,0:22:28.11,0:22:31.95,Default,,0000,0000,0000,,He's joining our crew! Any objections, guys?
+Dialogue: 0,0:22:33.19,0:22:35.66,Default,,0000,0000,0000,,If there were, would you change your mind?
+Dialogue: 0,0:22:35.66,0:22:39.29,Default,,0000,0000,0000,,I wanna help him see Laboon again!
+Dialogue: 0,0:22:39.67,0:22:41.98,Default,,0000,0000,0000,,You've got my vote, dammit!
+Dialogue: 0,0:22:41.98,0:22:45.92,Default,,0000,0000,0000,,Same here, dummy!\NI'm not afraid of that skeleton!
+Dialogue: 0,0:22:46.38,0:22:52.97,Default,,0000,0000,0000,,That's a given. I'm more concerned\Nabout stopping Nami-san's marriage!
+Dialogue: 0,0:22:53.90,0:22:56.27,Default,,0000,0000,0000,,Hey, Zoro! Where are you going?
+Dialogue: 0,0:22:58.27,0:23:02.93,Default,,0000,0000,0000,,I'm going to raid the place. Don't we\Nhave one more shadow to recover now?
+Dialogue: 0,0:23:05.47,0:23:10.10,Default,,0000,0000,0000,,Sweet! Guys, get ready for our counterattack!
+Dialogue: 0,0:23:10.10,0:23:13.17,Default,,0000,0000,0000,,We're gonna knock\NThriller Bark outta the water!
+Dialogue: 0,0:23:13.17,0:23:15.96,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:17.54,0:23:19.96,Default,,0000,0000,0000,,--Go!\N--You're coming, stupid!
+Dialogue: 0,0:23:25.23,0:23:28.80,Default,,0000,0000,0000,,Unforgiveable! Who's trying\Nto marry Nami-san?!
+Dialogue: 0,0:23:28.80,0:23:30.09,Default,,0000,0000,0000,,Oh, I forgot to mention this,
+Dialogue: 0,0:23:30.09,0:23:32.10,Default,,0000,0000,0000,,but when Nami was in the bath,\Nthat invisible man--
+Dialogue: 0,0:23:32.10,0:23:35.86,Default,,0000,0000,0000,,What did you just say?! Wh-Wh-What did\Nhe do when she was in the bath?!
+Dialogue: 0,0:23:35.86,0:23:37.01,Default,,0000,0000,0000,,He looked her up and down.
+Dialogue: 0,0:23:38.42,0:23:39.98,Default,,0000,0000,0000,,The bastard!
+Dialogue: 0,0:23:40.35,0:23:41.64,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.64,0:23:45.01,Default,,0000,0000,0000,,"Food, Nami, and Shadows!!\NLuffy's Enraged Counterattack!"
+Dialogue: 0,0:23:45.01,0:23:47.14,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

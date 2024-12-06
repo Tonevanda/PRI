@@ -1,0 +1,319 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.65,0:00:11.26,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.26,0:00:14.09,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:14.09,0:00:17.26,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.26,0:00:21.27,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.27,0:00:25.94,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.44,0:00:35.95,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.95,0:00:40.45,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.45,0:00:45.62,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.62,0:00:53.97,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.97,0:01:04.08,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:04.08,0:01:13.58,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.58,0:01:18.59,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.59,0:01:26.26,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.26,0:01:31.94,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.94,0:01:36.44,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.44,0:01:41.61,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.61,0:01:48.82,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:54.96,0:01:59.56,Default,,0000,0000,0000,,"The Fabled Pirate Hunter!\NZoro, the Wandering Swordsman"
+Dialogue: 0,0:02:22.59,0:02:26.52,Default,,0000,0000,0000,,We're going to drink up\Nevery bit of liquor in this joint!
+Dialogue: 0,0:02:28.26,0:02:29.26,Default,,0000,0000,0000,,Hey, now, Billy,
+Dialogue: 0,0:02:29.26,0:02:31.60,Default,,0000,0000,0000,,how many places are you going\Nto ruin before you're satisfied?
+Dialogue: 0,0:02:31.60,0:02:34.60,Default,,0000,0000,0000,,How should I know?
+Dialogue: 0,0:02:34.27,0:02:38.80,On Top,,0000,0000,0000,,"Yosaku (several years ago)"
+Dialogue: 0,0:02:34.60,0:02:39.94,Default,,0000,0000,0000,,That man over there... has a\Nbounty of 5,000,000 Berries.
+Dialogue: 0,0:02:39.94,0:02:44.94,Default,,0000,0000,0000,,5,000,000? What do you say we\Nback off on this one, Yosaku?
+Dialogue: 0,0:02:40.94,0:02:44.98,On Top,,0000,0000,0000,,"Johnny (several years ago)"
+Dialogue: 0,0:02:44.94,0:02:48.95,Default,,0000,0000,0000,,Hey, Johnny, if all we do is go after\Nsmall-timers, we won't get anywhere.
+Dialogue: 0,0:02:48.95,0:02:52.28,Default,,0000,0000,0000,,This is the time when a bounty hunter\Nhas to go after the higher ranks.
+Dialogue: 0,0:02:52.28,0:02:54.95,Default,,0000,0000,0000,,I know what you're saying,\Nbut when it comes to 5,000,000,
+Dialogue: 0,0:02:54.95,0:02:58.36,Default,,0000,0000,0000,,even we would lose by a hair.
+Dialogue: 0,0:03:16.91,0:03:19.24,Default,,0000,0000,0000,,Give me something to eat.
+Dialogue: 0,0:03:19.24,0:03:20.58,Default,,0000,0000,0000,,Got any money?
+Dialogue: 0,0:03:20.58,0:03:23.25,Default,,0000,0000,0000,,Not right now. However,
+Dialogue: 0,0:03:23.25,0:03:28.12,Default,,0000,0000,0000,,I'll be making some soon enough,\Nonce I cut me up a bounty.
+Dialogue: 0,0:03:31.26,0:03:33.93,Default,,0000,0000,0000,,I can't let that go unanswered!
+Dialogue: 0,0:03:33.93,0:03:37.83,Default,,0000,0000,0000,,I'll cut you down before you can get me!
+Dialogue: 0,0:03:46.94,0:03:51.94,Default,,0000,0000,0000,,Don't go making me exert\Nmyself so much. I'm hungry.
+Dialogue: 0,0:03:51.94,0:03:56.61,Default,,0000,0000,0000,,Answer me one thing:\NIs there a bounty on your head?
+Dialogue: 0,0:03:56.61,0:04:00.22,Default,,0000,0000,0000,,Won't you be surprised to hear?\NI've got a bounty of 5,000,000 Berries!
+Dialogue: 0,0:04:00.22,0:04:02.22,Default,,0000,0000,0000,,You don't say. That's plenty.
+Dialogue: 0,0:04:02.22,0:04:03.76,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:13.56,0:04:16.23,Default,,0000,0000,0000,,I've earned some money.\NNow give me something to eat.
+Dialogue: 0,0:04:16.23,0:04:18.17,Default,,0000,0000,0000,,Yes, coming right up!
+Dialogue: 0,0:04:19.90,0:04:22.91,Default,,0000,0000,0000,,He's got amazing skill.
+Dialogue: 0,0:04:22.91,0:04:25.24,Default,,0000,0000,0000,,He's not on the wanted list.
+Dialogue: 0,0:04:25.24,0:04:28.58,Default,,0000,0000,0000,,If he's a bounty hunter,\Nsomeone should know who he is.
+Dialogue: 0,0:04:28.58,0:04:31.58,Default,,0000,0000,0000,,Could he be the pirate hunter\Nwe've heard about lately?
+Dialogue: 0,0:04:31.58,0:04:33.92,Default,,0000,0000,0000,,I've heard he's one incredibly brutal guy.
+Dialogue: 0,0:04:33.92,0:04:38.26,Default,,0000,0000,0000,,No, word is that the pirate\Nhunter uses three swords.
+Dialogue: 0,0:04:38.26,0:04:41.93,Default,,0000,0000,0000,,They say that one of them is a\Nfamous sword, with a white sheath.
+Dialogue: 0,0:04:41.93,0:04:44.93,Default,,0000,0000,0000,,What's more, they say\Nhe's like a demon beast,
+Dialogue: 0,0:04:44.93,0:04:46.93,Default,,0000,0000,0000,,who's taken the form of a man.
+Dialogue: 0,0:04:46.93,0:04:51.27,Default,,0000,0000,0000,,He sure doesn't look like that.\NIf that's the case...
+Dialogue: 0,0:04:51.27,0:04:55.27,Default,,0000,0000,0000,,...we can't just stand by\Nas our prey is taken from us!
+Dialogue: 0,0:04:55.27,0:04:57.08,Default,,0000,0000,0000,,Hey, Johnny...
+Dialogue: 0,0:04:59.28,0:05:03.21,Default,,0000,0000,0000,,Hey, mister, if you're a bounty hunter, too,
+Dialogue: 0,0:05:03.21,0:05:05.88,Default,,0000,0000,0000,,then you have to abide by our rules.
+Dialogue: 0,0:05:05.88,0:05:07.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:07.22,0:05:09.55,Default,,0000,0000,0000,,We didn't want to make\Nany trouble for the pub,
+Dialogue: 0,0:05:09.55,0:05:12.56,Default,,0000,0000,0000,,so we were waiting for him to leave.
+Dialogue: 0,0:05:12.56,0:05:16.69,Default,,0000,0000,0000,,We had first dibs on this guy.\NHe was our prey.
+Dialogue: 0,0:05:20.90,0:05:22.23,Default,,0000,0000,0000,,H-Hey, you!
+Dialogue: 0,0:05:22.23,0:05:26.90,Default,,0000,0000,0000,,Didn't you hear me?! There are\Nrules among fellow bounty hunters!
+Dialogue: 0,0:05:30.58,0:05:32.58,Default,,0000,0000,0000,,Hawk-Eye.
+Dialogue: 0,0:05:32.58,0:05:35.25,Default,,0000,0000,0000,,Do you know Hawk-Eye Mihawk?
+Dialogue: 0,0:05:35.25,0:05:38.25,Default,,0000,0000,0000,,Mihawk? One of the Seven Warlords?
+Dialogue: 0,0:05:38.25,0:05:40.59,Default,,0000,0000,0000,,I'm on a journey,\Nwith the aim of defeating him,
+Dialogue: 0,0:05:40.59,0:05:43.59,Default,,0000,0000,0000,,and becoming the world's\Ngreatest swordsmaster.
+Dialogue: 0,0:05:43.59,0:05:46.92,Default,,0000,0000,0000,,I do collect bounties, in order to eat,
+Dialogue: 0,0:05:46.92,0:05:49.59,Default,,0000,0000,0000,,but it's not as though I'm a bounty hunter.
+Dialogue: 0,0:05:49.59,0:05:51.26,Default,,0000,0000,0000,,The world's greatest swordsmaster?
+Dialogue: 0,0:05:51.26,0:05:52.60,Default,,0000,0000,0000,,Hey, did you hear that, partner?
+Dialogue: 0,0:05:52.60,0:05:56.27,Default,,0000,0000,0000,,No way! There's no way!\NYou must be dreaming!
+Dialogue: 0,0:05:56.27,0:05:58.94,Default,,0000,0000,0000,,When I was a kid, that's what\NI made up my mind to do.
+Dialogue: 0,0:05:58.94,0:06:00.87,Default,,0000,0000,0000,,It doesn't matter what anyone else says.
+Dialogue: 0,0:06:00.87,0:06:06.21,Default,,0000,0000,0000,,Even if it was your childhood\Ndream, there's no way you'll...
+Dialogue: 0,0:06:06.21,0:06:09.88,Default,,0000,0000,0000,,I didn't know you had claim on him. Sorry.
+Dialogue: 0,0:06:09.88,0:06:14.22,Default,,0000,0000,0000,,You can deliver him to the navy.\NThe bounty is yours.
+Dialogue: 0,0:06:14.22,0:06:16.85,Default,,0000,0000,0000,,--Y-You mean it?!\N--However...
+Dialogue: 0,0:06:16.85,0:06:19.29,Default,,0000,0000,0000,,...my lunch here is on you.
+Dialogue: 0,0:06:27.23,0:06:31.24,Default,,0000,0000,0000,,We did it, Johnny! 5,000,000 Berries!\NWe'll be able to eat for a while,
+Dialogue: 0,0:06:31.24,0:06:33.91,Default,,0000,0000,0000,,without having to go after any bounties.
+Dialogue: 0,0:06:33.91,0:06:35.24,Default,,0000,0000,0000,,Hey, what's the matter?
+Dialogue: 0,0:06:35.24,0:06:37.24,Default,,0000,0000,0000,,Aren't you happy?
+Dialogue: 0,0:06:37.24,0:06:39.58,Default,,0000,0000,0000,,Why...
+Dialogue: 0,0:06:39.58,0:06:41.58,Default,,0000,0000,0000,,...did you become a bounty hunter?
+Dialogue: 0,0:06:41.58,0:06:43.58,Default,,0000,0000,0000,,Huh? Why did I?
+Dialogue: 0,0:06:43.58,0:06:46.92,Default,,0000,0000,0000,,Isn't it obvious? So I could eat.
+Dialogue: 0,0:06:46.92,0:06:50.59,Default,,0000,0000,0000,,The village where I\Nwas born was really poor.
+Dialogue: 0,0:06:50.59,0:06:54.93,Default,,0000,0000,0000,,Even so, the bandits still\Nhit villages like mine a lot.
+Dialogue: 0,0:06:54.93,0:06:58.26,Default,,0000,0000,0000,,When they did, the bounty\Nhunters who were after
+Dialogue: 0,0:06:58.26,0:07:01.57,Default,,0000,0000,0000,,the bandits' heads came, too.
+Dialogue: 0,0:07:08.87,0:07:13.21,Default,,0000,0000,0000,,Deep down in my heart, I wanted\Nto be just like those dashing men,
+Dialogue: 0,0:07:13.21,0:07:17.22,Default,,0000,0000,0000,,who challenged the bandits to fight.
+Dialogue: 0,0:07:17.22,0:07:19.55,Default,,0000,0000,0000,,I thought to myself, someday,
+Dialogue: 0,0:07:19.55,0:07:23.55,Default,,0000,0000,0000,,I sure do hope that I can take\Ndown those bad men like that, too.
+Dialogue: 0,0:07:23.55,0:07:25.56,Default,,0000,0000,0000,,It wasn't until much later that I learned
+Dialogue: 0,0:07:25.56,0:07:28.23,Default,,0000,0000,0000,,that they collected bounties\Nas their profession.
+Dialogue: 0,0:07:28.23,0:07:30.90,Default,,0000,0000,0000,,Now that you mention it,\NI wanted to be like them, too.
+Dialogue: 0,0:07:30.90,0:07:33.90,Default,,0000,0000,0000,,When I heard what that "world's\Ngreatest" dude in there said,
+Dialogue: 0,0:07:33.90,0:07:37.24,Default,,0000,0000,0000,,it reminded me of myself back then.
+Dialogue: 0,0:07:37.24,0:07:40.57,Default,,0000,0000,0000,,Hey, what are you getting all\Nsentimental on me for? It's not like you.
+Dialogue: 0,0:07:40.57,0:07:42.27,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:07:45.58,0:07:47.25,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:07:47.25,0:07:49.25,Default,,0000,0000,0000,,What's wrong? Has something happened?
+Dialogue: 0,0:07:49.25,0:07:52.92,Default,,0000,0000,0000,,Bandits! The Dick Gang is attacking\Na ranch just outside of town!
+Dialogue: 0,0:07:52.92,0:07:54.89,Default,,0000,0000,0000,,Dick the Bandit?
+Dialogue: 0,0:07:56.59,0:07:58.66,Default,,0000,0000,0000,,Here he is! Wow!
+Dialogue: 0,0:07:58.66,0:08:01.23,Default,,0000,0000,0000,,He's a big-leaguer-- 10,000,000 Berries!
+Dialogue: 0,0:08:05.86,0:08:08.70,Default,,0000,0000,0000,,Snap it up, men!
+Dialogue: 0,0:08:15.21,0:08:19.71,Default,,0000,0000,0000,,They were hiding quite a bit, huh?\NWe got a big haul today!
+Dialogue: 0,0:08:23.88,0:08:25.22,Default,,0000,0000,0000,,Is that them?
+Dialogue: 0,0:08:25.22,0:08:28.22,Default,,0000,0000,0000,,Hey, what do we do?\NThey're taking it all away, fast!
+Dialogue: 0,0:08:28.22,0:08:31.56,Default,,0000,0000,0000,,We're talking about the bandit Dick.\NWe're no match for him.
+Dialogue: 0,0:08:31.56,0:08:33.89,Default,,0000,0000,0000,,It's not worth it if he takes\Nour lives from us, too.
+Dialogue: 0,0:08:33.89,0:08:35.59,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:08:37.90,0:08:41.83,Default,,0000,0000,0000,,All right, next one!\NTake everything they've got!
+Dialogue: 0,0:08:46.90,0:08:50.91,Default,,0000,0000,0000,,What's with the people in this town?\NThey're such cowards.
+Dialogue: 0,0:08:50.91,0:08:53.58,Default,,0000,0000,0000,,Don't they even have\Nthe guts to put up a fight?
+Dialogue: 0,0:08:53.58,0:08:55.91,Default,,0000,0000,0000,,Well, maybe that's smart, in a certain sense.
+Dialogue: 0,0:08:55.91,0:08:58.25,Default,,0000,0000,0000,,There are those who take,\Nand those who get taken from,
+Dialogue: 0,0:08:58.25,0:09:00.85,Default,,0000,0000,0000,,and you're either one or\Nthe other in this day and age.
+Dialogue: 0,0:09:00.85,0:09:03.52,Default,,0000,0000,0000,,Being weak is a crime all by itself.
+Dialogue: 0,0:09:03.52,0:09:07.26,Default,,0000,0000,0000,,Defiance is something only a fool would do!
+Dialogue: 0,0:09:12.20,0:09:14.53,Default,,0000,0000,0000,,So there is a fool here...
+Dialogue: 0,0:09:14.53,0:09:16.87,Default,,0000,0000,0000,,G-Give back our food!
+Dialogue: 0,0:09:16.87,0:09:20.54,Default,,0000,0000,0000,,That's something we all\Nworked very hard to store up!
+Dialogue: 0,0:09:20.54,0:09:22.24,Default,,0000,0000,0000,,Harry!
+Dialogue: 0,0:09:25.21,0:09:29.21,Default,,0000,0000,0000,,You've got grown-up guts, at least.
+Dialogue: 0,0:09:29.21,0:09:31.22,Default,,0000,0000,0000,,Darn you...!
+Dialogue: 0,0:09:31.22,0:09:35.19,Default,,0000,0000,0000,,Harry! Stop! You're no match for him! Harry!
+Dialogue: 0,0:09:36.89,0:09:38.22,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:09:38.22,0:09:41.99,Default,,0000,0000,0000,,Hey, take it easy, partner.\NEven we would lose to him by a hair.
+Dialogue: 0,0:09:45.90,0:09:49.03,Default,,0000,0000,0000,,That's not why. He's...
+Dialogue: 0,0:09:53.24,0:09:55.37,Default,,0000,0000,0000,,...who I was that day...
+Dialogue: 0,0:09:58.91,0:10:01.98,Default,,0000,0000,0000,,He doesn't know how to compromise\Nor look out for himself yet.
+Dialogue: 0,0:10:05.58,0:10:07.95,Default,,0000,0000,0000,,He's me, back when I was still innocent.
+Dialogue: 0,0:10:10.92,0:10:13.09,Default,,0000,0000,0000,,Hey! Johnny!
+Dialogue: 0,0:10:14.59,0:10:17.00,Default,,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:10:17.00,0:10:18.90,Default,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:10:20.26,0:10:22.93,Default,,0000,0000,0000,,Just a nameless bounty hunter.
+Dialogue: 0,0:10:22.93,0:10:25.04,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:10:55.97,0:11:00.24,Default,,0000,0000,0000,,You guys are bounty hunters, huh?\NAre you after my head?
+Dialogue: 0,0:11:00.24,0:11:03.57,Default,,0000,0000,0000,,What a pain. You're just a couple of hyenas.
+Dialogue: 0,0:11:03.57,0:11:04.58,Default,,0000,0000,0000,,What did you call us?!
+Dialogue: 0,0:11:04.58,0:11:07.58,Default,,0000,0000,0000,,If you want money, then I\Ncan give you some charity,
+Dialogue: 0,0:11:07.58,0:11:09.25,Default,,0000,0000,0000,,if you don't mind small change.
+Dialogue: 0,0:11:09.25,0:11:12.25,Default,,0000,0000,0000,,--We don't want it!\N--Huh?
+Dialogue: 0,0:11:12.25,0:11:16.92,Default,,0000,0000,0000,,We just feel a little bit like\Nbeing champions of justice today.
+Dialogue: 0,0:11:16.92,0:11:18.59,Default,,0000,0000,0000,,Eh? Hey, Johnny...
+Dialogue: 0,0:11:18.59,0:11:21.49,Default,,0000,0000,0000,,Champions of justice?
+Dialogue: 0,0:11:25.60,0:11:27.27,Default,,0000,0000,0000,,--Hey...\N--Partner...
+Dialogue: 0,0:11:27.27,0:11:29.60,Default,,0000,0000,0000,,Would you let me be a man?
+Dialogue: 0,0:11:29.60,0:11:31.14,Default,,0000,0000,0000,,Johnny...
+Dialogue: 0,0:11:33.27,0:11:35.61,Default,,0000,0000,0000,,Johnny, you mean...?
+Dialogue: 0,0:11:36.94,0:11:39.61,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:11:39.61,0:11:42.61,Default,,0000,0000,0000,,There's no such thing as\Njustice or evil in this day and age!
+Dialogue: 0,0:11:42.61,0:11:47.02,Default,,0000,0000,0000,,The mighty prevail!\NThat's all there is to it, am I right?
+Dialogue: 0,0:11:48.29,0:11:50.29,Default,,0000,0000,0000,,We're serious!
+Dialogue: 0,0:11:50.29,0:11:52.29,Default,,0000,0000,0000,,Yeah! Just this morning,
+Dialogue: 0,0:11:52.29,0:11:57.30,Default,,0000,0000,0000,,we turned in a bounty worth\N5,000,000 Berries to the navy!
+Dialogue: 0,0:11:57.30,0:11:59.56,Default,,0000,0000,0000,,The navy, this morning?
+Dialogue: 0,0:12:02.57,0:12:07.57,Default,,0000,0000,0000,,You're the ones who did in Billy--\Nmy sworn brother?!
+Dialogue: 0,0:12:07.57,0:12:09.17,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:34.93,0:12:37.60,Default,,0000,0000,0000,,Have you finished the\Nsword I asked you to do?
+Dialogue: 0,0:12:37.60,0:12:39.24,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:49.28,0:12:51.28,Default,,0000,0000,0000,,You have exceptional skill.
+Dialogue: 0,0:12:51.28,0:12:55.29,Default,,0000,0000,0000,,I put in a lot of work. You're too\Nreckless with such a precious sword.
+Dialogue: 0,0:12:55.29,0:12:58.29,Default,,0000,0000,0000,,If that were an ordinary sword,\Nit would have met the same fate
+Dialogue: 0,0:12:58.29,0:13:01.56,Default,,0000,0000,0000,,as those two other broken swords of yours.
+Dialogue: 0,0:13:01.56,0:13:04.56,Default,,0000,0000,0000,,All right. I'll be careful.
+Dialogue: 0,0:13:19.58,0:13:23.25,Default,,0000,0000,0000,,I'm going to get stronger for her, too!
+Dialogue: 0,0:13:23.25,0:13:27.59,Default,,0000,0000,0000,,I'm going to get strong enough\Nthat my name reaches to heaven!
+Dialogue: 0,0:13:27.59,0:13:31.26,Default,,0000,0000,0000,,I'm going to be the world's\Nstrongest swordsman!
+Dialogue: 0,0:13:37.93,0:13:40.26,Default,,0000,0000,0000,,Thanks for your help. I'd like\Nto pay you something extra,
+Dialogue: 0,0:13:40.26,0:13:42.93,Default,,0000,0000,0000,,but unfortunately, right now, I'm broke.
+Dialogue: 0,0:13:42.93,0:13:46.60,Default,,0000,0000,0000,,Don't worry about it. It's not often\NI get to see such an item as that.
+Dialogue: 0,0:13:46.60,0:13:48.61,Default,,0000,0000,0000,,It was a feast for the eyes.
+Dialogue: 0,0:13:48.61,0:13:52.08,Default,,0000,0000,0000,,Not at all like this\Ngood-for-nothing long sword.
+Dialogue: 0,0:13:53.95,0:13:57.62,Default,,0000,0000,0000,,Hey, didn't I tell you so?! Give me a break!
+Dialogue: 0,0:13:57.62,0:14:00.22,Default,,0000,0000,0000,,No matter how many swords you carry,\Nit'll never be enough like this!
+Dialogue: 0,0:14:00.22,0:14:05.56,Default,,0000,0000,0000,,Damn, I've done it again. Sorry,\NI'll be sure to make it up to you.
+Dialogue: 0,0:14:08.89,0:14:11.23,Default,,0000,0000,0000,,That's that punk Dick, the mountain whale.
+Dialogue: 0,0:14:11.23,0:14:14.23,Default,,0000,0000,0000,,He's a 10,000,000-Berry bandit,\Nwho uses a cannon.
+Dialogue: 0,0:14:14.23,0:14:17.37,Default,,0000,0000,0000,,A bandit with a price on his head, huh?
+Dialogue: 0,0:14:33.58,0:14:35.52,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:14:37.59,0:14:41.39,Default,,0000,0000,0000,,It's no use. He's too much\Nfor those guys, after all.
+Dialogue: 0,0:14:49.27,0:14:51.57,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:14:51.57,0:14:54.27,Default,,0000,0000,0000,,Are you two really the ones\Nwho took out my sworn brother?
+Dialogue: 0,0:14:54.27,0:14:57.28,Default,,0000,0000,0000,,Hmph! We were the ones who turned in Billy,
+Dialogue: 0,0:14:57.28,0:14:59.94,Default,,0000,0000,0000,,but someone else beat him, you bastard!
+Dialogue: 0,0:14:59.94,0:15:04.22,Default,,0000,0000,0000,,Then what are you bragging for?\NI thought you were pretty weak.
+Dialogue: 0,0:15:04.22,0:15:06.15,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:22.23,0:15:25.90,Default,,0000,0000,0000,,Man, you are relentless.
+Dialogue: 0,0:15:29.24,0:15:31.24,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:31.24,0:15:32.24,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:15:32.24,0:15:36.58,Default,,0000,0000,0000,,Why, you...! You want to\Ndie that badly, do you?!
+Dialogue: 0,0:15:42.92,0:15:46.92,Default,,0000,0000,0000,,Boss! We're done loading\Nall the loot into the cart.
+Dialogue: 0,0:15:46.92,0:15:50.60,Default,,0000,0000,0000,,You're done? Then let's pull out of here.
+Dialogue: 0,0:15:50.60,0:15:54.93,Default,,0000,0000,0000,,There's no sense in messing\Naround with these weaklings.
+Dialogue: 0,0:15:54.93,0:15:58.27,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:15:58.27,0:16:00.87,Default,,0000,0000,0000,,I said hold it right there, wanted man!
+Dialogue: 0,0:16:00.87,0:16:06.54,Default,,0000,0000,0000,,We've turned in dozens--\Nno, hundreds of bounties by a hair!
+Dialogue: 0,0:16:06.54,0:16:11.88,Default,,0000,0000,0000,,If we let you get away, it will\Nshame us for generations to come!
+Dialogue: 0,0:16:11.88,0:16:16.89,Default,,0000,0000,0000,,What a waste. It's not worth it, is it?
+Dialogue: 0,0:16:16.89,0:16:22.23,Default,,0000,0000,0000,,Maybe we won't earn anything... but still...
+Dialogue: 0,0:16:22.23,0:16:27.13,Default,,0000,0000,0000,,...there are times when a man\Nhas to stick to his beliefs, and fight!
+Dialogue: 0,0:16:28.90,0:16:31.24,Default,,0000,0000,0000,,You guys aren't long for this life.
+Dialogue: 0,0:16:31.24,0:16:33.91,Default,,0000,0000,0000,,We knew that when we started!
+Dialogue: 0,0:16:33.91,0:16:35.57,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:16:35.57,0:16:39.08,Default,,0000,0000,0000,,Hey, men! Take care of\Nthese guys, right away!
+Dialogue: 0,0:16:41.25,0:16:43.88,Default,,0000,0000,0000,,--Let 'em have it!\N--Out of the way!
+Dialogue: 0,0:16:57.60,0:17:00.53,Default,,0000,0000,0000,,What do you want?! Let me go!\NThey're in there fighting for me!
+Dialogue: 0,0:17:00.53,0:17:03.53,Default,,0000,0000,0000,,If you feel like fighting...
+Dialogue: 0,0:17:03.53,0:17:07.94,Default,,0000,0000,0000,,...think. What can you do\Nwith the power you've got?
+Dialogue: 0,0:17:23.89,0:17:26.56,Default,,0000,0000,0000,,My, my, you poor guys.
+Dialogue: 0,0:17:26.56,0:17:30.23,Default,,0000,0000,0000,,You don't have a spot on your\Nfaces that hasn't been messed up.
+Dialogue: 0,0:17:30.23,0:17:33.10,Default,,0000,0000,0000,,I think it's about time to put an end to this.
+Dialogue: 0,0:17:34.23,0:17:38.90,Default,,0000,0000,0000,,It won't gain me a single\Nred cent to kill the two of you,
+Dialogue: 0,0:17:38.90,0:17:42.24,Default,,0000,0000,0000,,but consider this your own twist of fate.
+Dialogue: 0,0:17:42.24,0:17:46.24,Default,,0000,0000,0000,,The hard luck that comes from\Nhaving come after my head.
+Dialogue: 0,0:17:46.24,0:17:50.58,Default,,0000,0000,0000,,But relax, I'll send you into\Nthe next world together, as pals.
+Dialogue: 0,0:17:53.58,0:17:55.59,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:17:56.59,0:17:58.19,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:18:04.86,0:18:09.23,Default,,0000,0000,0000,,That's enough, don't you think?\NThis fight was over a long time ago.
+Dialogue: 0,0:18:12.54,0:18:13.87,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:18:13.87,0:18:15.54,Default,,0000,0000,0000,,That guy from earlier...
+Dialogue: 0,0:18:15.54,0:18:20.55,Default,,0000,0000,0000,,Forgive me, but I'm going\Nto swipe your prey from you.
+Dialogue: 0,0:18:20.55,0:18:23.21,Default,,0000,0000,0000,,I've come into an urgent\Nneed of money, you see.
+Dialogue: 0,0:18:23.21,0:18:25.22,Default,,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:18:25.22,0:18:26.92,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:18:29.22,0:18:30.86,Default,,0000,0000,0000,,Who is that?
+Dialogue: 0,0:18:32.22,0:18:35.83,Default,,0000,0000,0000,,A-A white-sheathed sword...?
+Dialogue: 0,0:18:37.90,0:18:40.57,Default,,0000,0000,0000,,I need to borrow your swords for a minute.
+Dialogue: 0,0:18:40.57,0:18:44.57,Default,,0000,0000,0000,,No problem, but what exactly are you--
+Dialogue: 0,0:18:44.57,0:18:47.91,Default,,0000,0000,0000,,Three swords?! You don't mean...!
+Dialogue: 0,0:18:47.91,0:18:51.64,Default,,0000,0000,0000,,The pirate hunter, Roronoa Zoro?!
+Dialogue: 0,0:18:53.58,0:18:57.92,Default,,0000,0000,0000,,Ho, so this is the fabled pirate hunter, huh?
+Dialogue: 0,0:18:57.92,0:19:00.85,Default,,0000,0000,0000,,So then, what's going on here?
+Dialogue: 0,0:19:00.85,0:19:04.19,Default,,0000,0000,0000,,Sure, I've gotten noticeably stronger lately,
+Dialogue: 0,0:19:04.19,0:19:07.86,Default,,0000,0000,0000,,but as soon as I use too\Nmuch of it, my swords break.
+Dialogue: 0,0:19:07.86,0:19:11.20,Default,,0000,0000,0000,,I can't go overusing my strength so recklessly.
+Dialogue: 0,0:19:11.20,0:19:13.53,Default,,0000,0000,0000,,No matter the sword,\NI have to get to the point
+Dialogue: 0,0:19:13.53,0:19:16.63,Default,,0000,0000,0000,,where I'm able to get\N100% of its force out of it.
+Dialogue: 0,0:19:19.87,0:19:23.88,Default,,0000,0000,0000,,Roronoa Zoro-san, even using three swords,
+Dialogue: 0,0:19:23.88,0:19:28.78,Default,,0000,0000,0000,,I don't think you'll be able to\Ndefeat that many men at once.
+Dialogue: 0,0:19:30.55,0:19:32.88,Default,,0000,0000,0000,,Using three swords is not the same thing
+Dialogue: 0,0:19:32.88,0:19:35.22,Default,,0000,0000,0000,,as using the Three-Sword Style.
+Dialogue: 0,0:19:35.22,0:19:39.22,Default,,0000,0000,0000,,Three-Sword Style, you say?\NLet's see it, why don't we?
+Dialogue: 0,0:19:39.22,0:19:41.33,Default,,0000,0000,0000,,Get him, men!
+Dialogue: 0,0:19:54.57,0:19:56.57,Default,,0000,0000,0000,,He did it! Incredible!
+Dialogue: 0,0:19:56.57,0:19:58.21,Default,,0000,0000,0000,,Outstanding!
+Dialogue: 0,0:19:59.91,0:20:01.68,Default,,0000,0000,0000,,Watch out!
+Dialogue: 0,0:20:09.25,0:20:11.66,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:20:25.60,0:20:28.27,Default,,0000,0000,0000,,I told you, don't stand beside me.
+Dialogue: 0,0:20:28.27,0:20:30.61,Default,,0000,0000,0000,,You're going to catch\Na cold dressed like that.
+Dialogue: 0,0:20:30.61,0:20:33.61,Default,,0000,0000,0000,,People who catch colds are people\Nwho let their mind's guard down.
+Dialogue: 0,0:20:33.61,0:20:36.95,Default,,0000,0000,0000,,Well, I wonder if someone\Nsomewhere is spreading stories
+Dialogue: 0,0:20:36.95,0:20:39.28,Default,,0000,0000,0000,,about Zoro, the pirate hunter.
+Dialogue: 0,0:20:39.28,0:20:42.29,Default,,0000,0000,0000,,I've never once called myself a pirate hunter.
+Dialogue: 0,0:20:42.29,0:20:46.96,Default,,0000,0000,0000,,Then, who did give you\Na name as cool as that?
+Dialogue: 0,0:20:46.96,0:20:50.66,Default,,0000,0000,0000,,Who knows? It doesn't matter to me.
+Dialogue: 0,0:21:08.25,0:21:10.25,Default,,0000,0000,0000,,O-Oh, crap! My flame!
+Dialogue: 0,0:21:10.25,0:21:12.52,Default,,0000,0000,0000,,Oni Giri!!
+Dialogue: 0,0:21:15.92,0:21:19.69,Default,,0000,0000,0000,,So that... is the Three-Sword Style...
+Dialogue: 0,0:21:26.26,0:21:28.93,Default,,0000,0000,0000,,All right, they aren't broken.
+Dialogue: 0,0:21:28.93,0:21:30.87,Default,,0000,0000,0000,,Thanks for the help.
+Dialogue: 0,0:21:32.27,0:21:34.27,Default,,0000,0000,0000,,Roronoa Zoro!
+Dialogue: 0,0:21:34.27,0:21:37.94,Default,,0000,0000,0000,,I'm deeply impressed by your skill.\NWould you let us join you?
+Dialogue: 0,0:21:37.94,0:21:39.94,Default,,0000,0000,0000,,We are a bounty hunting unit,
+Dialogue: 0,0:21:39.94,0:21:42.28,Default,,0000,0000,0000,,fearsome enough by a hair\Nto silence a crying child,
+Dialogue: 0,0:21:42.28,0:21:45.28,Default,,0000,0000,0000,,Yosaku and Johnny.
+Dialogue: 0,0:21:45.28,0:21:47.09,Default,,0000,0000,0000,,Suit yourselves.
+Dialogue: 0,0:21:51.62,0:21:54.46,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:21:54.46,0:22:02.57,Default,,0000,0000,0000,,Ah, beyond the never-ending sky
+Dialogue: 0,0:22:02.57,0:22:13.01,Default,,0000,0000,0000,,The future that I once saw\Nis now starting to take shape
+Dialogue: 0,0:22:20.92,0:22:28.43,Default,,0000,0000,0000,,There are days where I almost lose to myself
+Dialogue: 0,0:22:28.43,0:22:36.80,Default,,0000,0000,0000,,When that happened, there was\Nsomeplace warm I could go
+Dialogue: 0,0:22:36.80,0:22:42.94,Default,,0000,0000,0000,,The friends I took pride in\Nalways, without fail,
+Dialogue: 0,0:22:42.94,0:22:53.95,Default,,0000,0000,0000,,pushed me onwards, didn't they?
+Dialogue: 0,0:22:53.95,0:23:02.23,Default,,0000,0000,0000,,Ah, the stars are pouring\Ndown underneath the sky
+Dialogue: 0,0:23:02.23,0:23:04.90,Default,,0000,0000,0000,,This unique moment...
+Dialogue: 0,0:23:10.57,0:23:11.90,Default,,0000,0000,0000,,--Hey, Luffy...\N--Huh?
+Dialogue: 0,0:23:11.90,0:23:14.24,Default,,0000,0000,0000,,Let's hurry and get off this island.
+Dialogue: 0,0:23:14.24,0:23:16.57,Default,,0000,0000,0000,,It looks like there's going to\Nbe nothing but trouble here.
+Dialogue: 0,0:23:16.57,0:23:19.58,Default,,0000,0000,0000,,I get the same whiff from that\Nold-timer that I do from you.
+Dialogue: 0,0:23:19.58,0:23:22.25,Default,,0000,0000,0000,,Really? Then there's nothing\Nto worry about, is there?
+Dialogue: 0,0:23:22.25,0:23:24.25,Default,,0000,0000,0000,,No, that's why I'm worried!
+Dialogue: 0,0:23:24.25,0:23:25.58,Default,,0000,0000,0000,,Oh, yeah?
+Dialogue: 0,0:23:25.58,0:23:26.92,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.92,0:23:30.25,Default,,0000,0000,0000,,"Zenny of the Island of Goats and\Nthe Pirate Ship In the Mountains!"
+Dialogue: 0,0:23:30.25,0:23:32.59,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.59,0:23:37.10,Default,,0000,0000,0000,,

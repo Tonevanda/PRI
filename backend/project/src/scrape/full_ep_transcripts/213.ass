@@ -1,0 +1,394 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.95,0:00:23.25,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:00:23.25,0:00:26.67,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:00:26.67,0:00:30.05,Default,,0000,0000,0000,,{\i1}As power passes through our clasped hands{\i0}
+Dialogue: 0,0:00:30.05,0:00:33.63,Default,,0000,0000,0000,,{\i1}let's grab hold of our wishes{\i0}
+Dialogue: 0,0:00:41.23,0:00:48.73,Default,,0000,0000,0000,,{\i1}Working together, let's ride the giant waves{\i0}
+Dialogue: 0,0:00:48.73,0:00:55.95,Default,,0000,0000,0000,,{\i1}Let's hurry toward the excitement--\Nthere's the starting signal{\i0}
+Dialogue: 0,0:00:55.95,0:01:02.91,Default,,0000,0000,0000,,{\i1}Now's the time to set sail-- let's raise anchor{\i0}
+Dialogue: 0,0:01:02.91,0:01:10.05,Default,,0000,0000,0000,,{\i1}Cut through the rainbow-colored wind\Nand head for a sea of adventure{\i0}
+Dialogue: 0,0:01:10.05,0:01:13.71,Default,,0000,0000,0000,,{\i1}It'll be a journey fraught with injury{\i0}
+Dialogue: 0,0:01:13.71,0:01:17.22,Default,,0000,0000,0000,,{\i1}but what you cherish most will be right there{\i0}
+Dialogue: 0,0:01:17.22,0:01:21.39,Default,,0000,0000,0000,,{\i1}And if you get into a jam{\i0}
+Dialogue: 0,0:01:21.39,0:01:24.39,Default,,0000,0000,0000,,{\i1}I'll always be there to protect you{\i0}
+Dialogue: 0,0:01:24.39,0:01:28.61,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:01:28.61,0:01:32.11,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:01:32.11,0:01:35.44,Default,,0000,0000,0000,,{\i1}If a storm hits, let's put\Nour arms around each other{\i0}
+Dialogue: 0,0:01:35.44,0:01:39.66,Default,,0000,0000,0000,,{\i1}and gaze at the light beyond{\i0}
+Dialogue: 0,0:01:39.66,0:01:43.37,Default,,0000,0000,0000,,{\i1}If we gather up the pieces of our dreams{\i0}
+Dialogue: 0,0:01:43.37,0:01:46.67,Default,,0000,0000,0000,,{\i1}they'll make a map leading to tomorrow{\i0}
+Dialogue: 0,0:01:46.67,0:01:50.04,Default,,0000,0000,0000,,{\i1}So let's grab hold of our wishes{\i0}
+Dialogue: 0,0:01:50.04,0:01:55.30,Default,,0000,0000,0000,,{\i1}under the same flag-- together, we're one{\i0}
+Dialogue: 0,0:01:55.30,0:01:58.05,Default,,0000,0000,0000,,{\i1}One Piece{\i0}
+Dialogue: 0,0:02:07.48,0:02:11.15,Default,,0000,0000,0000,,Armée de l'Air Power Shoot!
+Dialogue: 0,0:02:16.28,0:02:17.44,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:02:23.37,0:02:25.04,Default,,0000,0000,0000,,Goal!
+Dialogue: 0,0:02:25.04,0:02:29.56,Default,,0000,0000,0000,,Goal! Goal!
+Dialogue: 0,0:02:29.56,0:02:32.67,Default,,0000,0000,0000,,Team Straw Hat is victorious!
+Dialogue: 0,0:02:37.59,0:02:39.51,Default,,0000,0000,0000,,Shelly!
+Dialogue: 0,0:02:46.10,0:02:47.93,Default,,0000,0000,0000,,Wh-What's this?!
+Dialogue: 0,0:02:47.93,0:02:52.77,Default,,0000,0000,0000,,Captain Monkey D. Luffy has\Nchosen Shelly, Tonjit's former horse!
+Dialogue: 0,0:02:52.77,0:02:55.32,Default,,0000,0000,0000,,What in the world is he thinking?!
+Dialogue: 0,0:02:59.49,0:03:03.95,Default,,0000,0000,0000,,Old stilts guy. I took Shelly\Nback from those guys.
+Dialogue: 0,0:03:03.95,0:03:05.05,Default,,0000,0000,0000,,You guys...
+Dialogue: 0,0:03:05.05,0:03:06.66,Default,,0000,0000,0000,,Now you can always be together.
+Dialogue: 0,0:03:07.16,0:03:09.79,Default,,0000,0000,0000,,I truly appreciate this. Thank you.
+Dialogue: 0,0:03:11.92,0:03:13.72,Default,,0000,0000,0000,,Well, that explains that.
+Dialogue: 0,0:03:13.72,0:03:16.38,Default,,0000,0000,0000,,Guess it couldn't be helped this time!
+Dialogue: 0,0:03:18.80,0:03:20.59,Default,,0000,0000,0000,,That's a good girl!
+Dialogue: 0,0:03:22.46,0:03:23.22,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:03:24.37,0:03:25.68,Default,,0000,0000,0000,,Got a problem with that?
+Dialogue: 0,0:03:27.64,0:03:28.93,Default,,0000,0000,0000,,Nope!
+Dialogue: 0,0:03:30.40,0:03:31.56,Default,,0000,0000,0000,,Chopper...
+Dialogue: 0,0:03:31.56,0:03:34.44,Default,,0000,0000,0000,,Leave it to me! It'll be just fine!
+Dialogue: 0,0:03:34.44,0:03:37.51,Default,,0000,0000,0000,,Yeah, sure. Uh-huh.
+Dialogue: 0,0:03:37.51,0:03:40.25,Default,,0000,0000,0000,,I wonder what the next game will be.
+Dialogue: 0,0:03:40.25,0:03:43.28,Default,,0000,0000,0000,,Let's get started!
+Dialogue: 0,0:03:43.28,0:03:45.62,Default,,0000,0000,0000,,We will win Chopper back!
+Dialogue: 0,0:03:45.66,0:03:54.63,B1,,0000,0000,0000,,{\fad(2000,2000)}"Round 3! \NThe Round-and-Round Roller Race!"
+Dialogue: 0,0:03:58.96,0:04:03.01,Default,,0000,0000,0000,,Don't worry, Shelly. I'm sure it'll be all right.
+Dialogue: 0,0:04:03.69,0:04:05.97,Default,,0000,0000,0000,,Let's have faith in them.
+Dialogue: 0,0:04:05.97,0:04:06.93,OS,,0000,0000,0000,,"Delectable oden"
+Dialogue: 0,0:04:07.42,0:04:10.01,Default,,0000,0000,0000,,Two daikon sticks and two\Nmochi tofu pouches, please.
+Dialogue: 0,0:04:10.01,0:04:11.43,Default,,0000,0000,0000,,You got it!
+Dialogue: 0,0:04:11.43,0:04:15.36,Default,,0000,0000,0000,,--Bring Support Pillar #6!\N--Hurry it up!
+Dialogue: 0,0:04:15.36,0:04:18.03,Default,,0000,0000,0000,,Hey, where'd you put my wood plane?!
+Dialogue: 0,0:04:21.42,0:04:23.78,Default,,0000,0000,0000,,This next game sounds fun.
+Dialogue: 0,0:04:23.78,0:04:27.12,OS,,0000,0000,0000,,"Foxy Life!"
+Dialogue: 0,0:04:24.12,0:04:27.12,Default,,0000,0000,0000,,Fun? How can you say that, Robin?
+Dialogue: 0,0:04:27.12,0:04:30.29,Default,,0000,0000,0000,,Put yourself in Chopper's shoes. Poor guy...
+Dialogue: 0,0:04:30.29,0:04:33.12,Default,,0000,0000,0000,,That's a good point. I apologize.
+Dialogue: 0,0:04:35.30,0:04:36.96,Default,,0000,0000,0000,,It's no big deal...
+Dialogue: 0,0:04:38.66,0:04:41.92,Default,,0000,0000,0000,,...compared to these carefree dimwits!
+Dialogue: 0,0:04:41.92,0:04:44.39,Default,,0000,0000,0000,,Oh, ladies!
+Dialogue: 0,0:04:44.39,0:04:48.52,Default,,0000,0000,0000,,--You're both so lovely!\N--Oh! Are you ready?
+Dialogue: 0,0:04:48.52,0:04:50.10,Default,,0000,0000,0000,,What are you eating, Luffy?
+Dialogue: 0,0:04:50.10,0:04:51.45,Default,,0000,0000,0000,,A Long Kiwi!
+Dialogue: 0,0:04:51.45,0:04:54.81,Default,,0000,0000,0000,,That old hooorse guy gave\Nit to me! It's pretty good!
+Dialogue: 0,0:04:58.50,0:05:00.03,Default,,0000,0000,0000,,--You can't have it.\N--I don't want it!
+Dialogue: 0,0:05:00.03,0:05:00.77,Default,,0000,0000,0000,,Mellorine!
+Dialogue: 0,0:05:01.57,0:05:07.20,Default,,0000,0000,0000,,It's time for Round #3,\Nthe "Run Roller Round" roller skating race!
+Dialogue: 0,0:05:07.20,0:05:09.96,Default,,0000,0000,0000,,It's a head-to-head race on an outdoor track!
+Dialogue: 0,0:05:09.96,0:05:12.82,Default,,0000,0000,0000,,Once again, the rules are simple!
+Dialogue: 0,0:05:12.82,0:05:17.59,Default,,0000,0000,0000,,First, each team's scorer will start\Nskating at the sound of the first whistle,
+Dialogue: 0,0:05:17.59,0:05:22.05,Default,,0000,0000,0000,,and team defenders will follow suit after\Nthe second whistle 20 seconds later.
+Dialogue: 0,0:05:22.05,0:05:25.51,Default,,0000,0000,0000,,Defenders can hinder the opposing\Nteam or root for their own!
+Dialogue: 0,0:05:25.51,0:05:27.85,Default,,0000,0000,0000,,Anything goes!
+Dialogue: 0,0:05:27.85,0:05:34.75,Default,,0000,0000,0000,,After five minutes are up, the team\Nwhose scorer is in the lead wins!
+Dialogue: 0,0:05:34.75,0:05:39.11,Default,,0000,0000,0000,,Naturally, being even a single step\Nahead means victory in that round!
+Dialogue: 0,0:05:40.11,0:05:43.15,Default,,0000,0000,0000,,Incidentally, yours truly will\Nbe doing the play-by-play
+Dialogue: 0,0:05:43.15,0:05:47.08,Default,,0000,0000,0000,,from a special seat by the starting line!
+Dialogue: 0,0:05:47.08,0:05:51.28,Default,,0000,0000,0000,,All right! It's time for\Nboth teams to come on out!
+Dialogue: 0,0:05:52.37,0:05:57.02,Default,,0000,0000,0000,,Okay, guys. We have to\Nget Chopper back this time.
+Dialogue: 0,0:05:57.02,0:05:58.58,Default,,0000,0000,0000,,Let's do it!
+Dialogue: 0,0:05:58.59,0:06:00.86,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:00.86,0:06:06.30,Default,,0000,0000,0000,,Oh! The Straw Hat Dangers\Ncome out with a war cry!
+Dialogue: 0,0:06:11.64,0:06:16.56,Default,,0000,0000,0000,,And lying in wait are the\Nindomitable Foxy Devils!
+Dialogue: 0,0:06:17.68,0:06:20.90,Default,,0000,0000,0000,,First is the team's playmaker, Porche-chan!
+Dialogue: 0,0:06:20.90,0:06:23.36,Default,,0000,0000,0000,,Next is the speedy Chiqicheetah
+Dialogue: 0,0:06:23.36,0:06:25.36,Default,,0000,0000,0000,,and Masshikaku, the defense's linchpin!
+Dialogue: 0,0:06:25.36,0:06:28.83,Default,,0000,0000,0000,,Then there's the fishmen Jube and Girarin!
+Dialogue: 0,0:06:28.83,0:06:30.53,Default,,0000,0000,0000,,Oh, and last but not least!
+Dialogue: 0,0:06:30.53,0:06:34.33,Default,,0000,0000,0000,,Our own Foxy is the head coach,\Nwith Hamburg as manager!
+Dialogue: 0,0:06:34.33,0:06:37.20,Default,,0000,0000,0000,,A truly powerful lineup, indeed!
+Dialogue: 0,0:06:48.05,0:06:49.51,Default,,0000,0000,0000,,H-Huh?!
+Dialogue: 0,0:06:49.51,0:06:54.85,Default,,0000,0000,0000,,Oh, my! Chiqicheetah is clashing\Neven before the starting whistle?!
+Dialogue: 0,0:06:55.93,0:06:58.39,Default,,0000,0000,0000,,What's with this guy?! He's creepin' me out...
+Dialogue: 0,0:07:01.96,0:07:05.69,Default,,0000,0000,0000,,He's indeed a quick runner,\Nbut he's also sensitive to smells!
+Dialogue: 0,0:07:05.69,0:07:08.61,Default,,0000,0000,0000,,You ate something pungent, didn't you?!
+Dialogue: 0,0:07:08.61,0:07:13.74,Default,,0000,0000,0000,,Ha! You didn't eat that old guy's\Nrotten hunk of milk, did ya?
+Dialogue: 0,0:07:13.74,0:07:15.33,Default,,0000,0000,0000,,Oh, is that why?
+Dialogue: 0,0:07:15.33,0:07:17.33,Default,,0000,0000,0000,,You did eat it?!
+Dialogue: 0,0:07:19.70,0:07:21.33,Default,,0000,0000,0000,,M-Man, you're rude!
+Dialogue: 0,0:07:21.33,0:07:22.46,Default,,0000,0000,0000,,Shoo! Shoo!
+Dialogue: 0,0:07:26.92,0:07:29.24,Default,,0000,0000,0000,,Looks like nothing happened...
+Dialogue: 0,0:07:29.24,0:07:33.14,Default,,0000,0000,0000,,Allow me to continue explaining the rules!
+Dialogue: 0,0:07:33.14,0:07:36.93,Default,,0000,0000,0000,,Each team has a coach and a manager!
+Dialogue: 0,0:07:36.93,0:07:40.27,Default,,0000,0000,0000,,Neither is allowed to directly\Nparticipate in the game!
+Dialogue: 0,0:07:40.27,0:07:45.36,Default,,0000,0000,0000,,Be aware that a person\Ncan only be a scorer once!
+Dialogue: 0,0:07:45.36,0:07:50.41,Default,,0000,0000,0000,,Oh, but there are only four\NStraw Hats who can serve as scorers!
+Dialogue: 0,0:07:50.41,0:07:52.99,Default,,0000,0000,0000,,They're one man short!
+Dialogue: 0,0:07:52.99,0:07:54.78,Default,,0000,0000,0000,,What will come of this?!
+Dialogue: 0,0:07:54.78,0:08:00.92,Default,,0000,0000,0000,,All right! I'll let one of you\Nparticipate twice, since I'm a nice guy!
+Dialogue: 0,0:08:00.92,0:08:03.67,Default,,0000,0000,0000,,Pride permitting, of course!
+Dialogue: 0,0:08:04.76,0:08:06.46,Default,,0000,0000,0000,,I can't stand his tone!
+Dialogue: 0,0:08:06.46,0:08:08.23,Default,,0000,0000,0000,,You're so generous, Boss!
+Dialogue: 0,0:08:08.23,0:08:11.30,Default,,0000,0000,0000,,Your kindness seriously moves me to tears!
+Dialogue: 0,0:08:11.30,0:08:13.22,Default,,0000,0000,0000,,You're a real man!
+Dialogue: 0,0:08:13.22,0:08:15.72,Default,,0000,0000,0000,,Oh, you guys!
+Dialogue: 0,0:08:15.72,0:08:17.18,Default,,0000,0000,0000,,You're too much!
+Dialogue: 0,0:08:17.18,0:08:20.12,Default,,0000,0000,0000,,He's actually taking that\Nlame flattery seriously!
+Dialogue: 0,0:08:20.12,0:08:22.19,Default,,0000,0000,0000,,Man, Split-Head sure is dumb.
+Dialogue: 0,0:08:22.19,0:08:25.06,Default,,0000,0000,0000,,It's like watching a lame play.
+Dialogue: 0,0:08:25.58,0:08:27.98,Default,,0000,0000,0000,,Oh, Boss! Come back!
+Dialogue: 0,0:08:29.50,0:08:33.82,Default,,0000,0000,0000,,But maybe we should take him\Nup on his offer! You know?
+Dialogue: 0,0:08:33.82,0:08:37.16,Default,,0000,0000,0000,,Well, as much as I hate to\Nadmit it, it is our only option...
+Dialogue: 0,0:08:37.16,0:08:41.08,Default,,0000,0000,0000,,It's for Chopper's sake. This is\Nno time to get hung up on pride.
+Dialogue: 0,0:08:44.29,0:08:45.84,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:08:45.84,0:08:49.77,Default,,0000,0000,0000,,A match is a match, though! We won't lose!
+Dialogue: 0,0:08:49.77,0:08:51.17,Default,,0000,0000,0000,,You're too soft-hearted.
+Dialogue: 0,0:08:51.17,0:08:55.09,Default,,0000,0000,0000,,Wanna know why I would make\Nan offer that benefits you?
+Dialogue: 0,0:08:55.09,0:08:56.81,Default,,0000,0000,0000,,It's because...
+Dialogue: 0,0:08:56.81,0:08:58.14,Default,,0000,0000,0000,,...we're the best--!
+Dialogue: 0,0:08:58.14,0:09:01.85,Default,,0000,0000,0000,,All right! Let's win Chopper back!
+Dialogue: 0,0:09:01.85,0:09:03.35,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:03.35,0:09:04.98,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:09:04.98,0:09:09.15,Default,,0000,0000,0000,,Both captains have agreed\Nto the rule amendment!
+Dialogue: 0,0:09:09.15,0:09:13.19,Default,,0000,0000,0000,,Straw Hat Dangers, please\Nselect a scorer for each round!
+Dialogue: 0,0:09:14.91,0:09:20.16,Default,,0000,0000,0000,,With five rounds, the odd-numbered\Nrounds of 1, 3, and 5 are key.
+Dialogue: 0,0:09:20.16,0:09:22.50,Default,,0000,0000,0000,,Especially the very first round...
+Dialogue: 0,0:09:22.50,0:09:24.75,Default,,0000,0000,0000,,Put me in two rounds! Okay?! Okay?!
+Dialogue: 0,0:09:24.75,0:09:28.84,Default,,0000,0000,0000,,Okay! Just shut up! I'm trying to think!
+Dialogue: 0,0:09:28.84,0:09:33.84,Default,,0000,0000,0000,,Okay, so I'll stick Luffy in\NRound #1 and Round #5...
+Dialogue: 0,0:09:33.84,0:09:35.93,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:09:36.93,0:09:40.68,Default,,0000,0000,0000,,But I can't ask too much\Nout of Nami-san and Usopp...
+Dialogue: 0,0:09:40.68,0:09:41.89,Default,,0000,0000,0000,,Robin-chan.
+Dialogue: 0,0:09:41.89,0:09:44.64,Default,,0000,0000,0000,,I hate to ask, but could\Nyou switch to Round #3?
+Dialogue: 0,0:09:44.64,0:09:47.34,Default,,0000,0000,0000,,Sure. Any round is fine with me.
+Dialogue: 0,0:09:47.34,0:09:49.32,Default,,0000,0000,0000,,Thanks-- Oh, wait.
+Dialogue: 0,0:09:49.32,0:09:52.15,Default,,0000,0000,0000,,Could the other team have the same idea?
+Dialogue: 0,0:09:52.15,0:09:53.48,Default,,0000,0000,0000,,In which case...
+Dialogue: 0,0:09:53.48,0:09:56.16,Default,,0000,0000,0000,,Come on! Hurry up!
+Dialogue: 0,0:09:56.16,0:09:58.12,Default,,0000,0000,0000,,Okay! All set!
+Dialogue: 0,0:09:58.12,0:10:00.62,Default,,0000,0000,0000,,Luffy has Rounds #1 and #5. Nami-san has #2.
+Dialogue: 0,0:10:00.62,0:10:03.50,Default,,0000,0000,0000,,Usopp has #3, and Robin-chan has Round #4!
+Dialogue: 0,0:10:03.50,0:10:06.91,Default,,0000,0000,0000,,Hold on! Why do you get to decide that?!
+Dialogue: 0,0:10:06.91,0:10:11.63,Default,,0000,0000,0000,,Huh? 'Cause I'm the coach\Nand you're the manager, duh.
+Dialogue: 0,0:10:11.63,0:10:15.68,Default,,0000,0000,0000,,Screw that! Why do I have\Nto take orders from you?!
+Dialogue: 0,0:10:15.68,0:10:17.30,Default,,0000,0000,0000,,Isn't it obvious?!
+Dialogue: 0,0:10:17.30,0:10:20.43,Default,,0000,0000,0000,,You can't be coach with all that\Nmoss seeping into your brain!
+Dialogue: 0,0:10:20.43,0:10:24.01,Default,,0000,0000,0000,,Your eyebrow's funnier than you are.\NLooks like coiled poop.
+Dialogue: 0,0:10:24.01,0:10:25.18,Default,,0000,0000,0000,,Poop?!
+Dialogue: 0,0:10:25.18,0:10:29.57,Default,,0000,0000,0000,,There's one more very important\Nthing to keep in mind!
+Dialogue: 0,0:10:29.57,0:10:31.69,Default,,0000,0000,0000,,Knock it off! I can't hear him!
+Dialogue: 0,0:10:32.47,0:10:36.49,Default,,0000,0000,0000,,Be aware that going in reverse\Nor leaving the course
+Dialogue: 0,0:10:36.49,0:10:39.20,Default,,0000,0000,0000,,will result in immediate disqualification!
+Dialogue: 0,0:10:39.51,0:10:42.45,Default,,0000,0000,0000,,Starting before the whistle\Nmeans disqualification, too!
+Dialogue: 0,0:10:45.40,0:10:49.33,Default,,0000,0000,0000,,All right, everything appears\Nto be set! The first round pits...
+Dialogue: 0,0:10:49.33,0:10:54.38,Default,,0000,0000,0000,,Oh! It's a clash between two big shots!\NStraw Hat Luffy versus Porche-chan!
+Dialogue: 0,0:10:54.38,0:10:57.34,Default,,0000,0000,0000,,This looks to be a heated\Nbattle from the very start!
+Dialogue: 0,0:10:57.34,0:11:00.04,Default,,0000,0000,0000,,Now let's get underway!
+Dialogue: 0,0:11:00.04,0:11:01.60,Default,,0000,0000,0000,,Talk about exciting!
+Dialogue: 0,0:11:01.60,0:11:04.68,Default,,0000,0000,0000,,--I love these races!\N--Me too!
+Dialogue: 0,0:11:04.68,0:11:08.69,Default,,0000,0000,0000,,Porche-chan! Beat that rubber dude senseless!
+Dialogue: 0,0:11:10.17,0:11:11.90,Default,,0000,0000,0000,,Check it out!
+Dialogue: 0,0:11:12.90,0:11:15.94,Default,,0000,0000,0000,,Wha...?! Wh-What in the world?!
+Dialogue: 0,0:11:15.94,0:11:17.98,Default,,0000,0000,0000,,You can't be serious...!
+Dialogue: 0,0:11:21.27,0:11:24.03,Default,,0000,0000,0000,,Th-This is hard...
+Dialogue: 0,0:11:26.95,0:11:30.21,Default,,0000,0000,0000,,A-Am I seeing things?!
+Dialogue: 0,0:11:30.21,0:11:34.44,Default,,0000,0000,0000,,I don't see it! I don't see anything at all!
+Dialogue: 0,0:11:40.11,0:11:44.14,Default,,0000,0000,0000,,Oh, my! He can't skate at all!
+Dialogue: 0,0:11:44.14,0:11:48.35,Default,,0000,0000,0000,,And according to the roster, Straw Hat\NLuffy plans to skate in two rounds!
+Dialogue: 0,0:11:48.35,0:11:50.60,Default,,0000,0000,0000,,Is this game already over?!
+Dialogue: 0,0:11:52.48,0:11:54.48,Default,,0000,0000,0000,,Are you serious?! This'll be a cinch!
+Dialogue: 0,0:11:56.47,0:11:58.48,Default,,0000,0000,0000,,Upsy-daisy...
+Dialogue: 0,0:12:01.66,0:12:03.57,Default,,0000,0000,0000,,Now what do we do?
+Dialogue: 0,0:12:03.57,0:12:09.12,Default,,0000,0000,0000,,Wait... Does this mean the third round's\Ngonna be extra important now?!
+Dialogue: 0,0:12:35.52,0:12:40.99,Default,,0000,0000,0000,,Both teams are finally at the starting line,\Nbut will this even be much of a race?!
+Dialogue: 0,0:12:40.99,0:12:42.86,Default,,0000,0000,0000,,It's time to begin!
+Dialogue: 0,0:12:43.19,0:12:46.49,Default,,0000,0000,0000,,I can't believe you asked to be in two rounds!
+Dialogue: 0,0:12:46.49,0:12:51.39,Default,,0000,0000,0000,,It's not my fault! I didn't think it was this hard!
+Dialogue: 0,0:12:52.37,0:12:54.65,Default,,0000,0000,0000,,It's over! It's all over!
+Dialogue: 0,0:12:54.65,0:12:57.50,Default,,0000,0000,0000,,We have no choice, though.\NWe'll have to pick up the slack.
+Dialogue: 0,0:12:58.32,0:13:01.28,Default,,0000,0000,0000,,Okay, it's time! Scorers, get in position!
+Dialogue: 0,0:13:01.28,0:13:03.21,Default,,0000,0000,0000,,Hey! Not you again!
+Dialogue: 0,0:13:03.21,0:13:06.30,Default,,0000,0000,0000,,You'll have hell to pay if you\Ntry any funny stuff again!
+Dialogue: 0,0:13:08.63,0:13:13.19,Default,,0000,0000,0000,,There's no need for "funny stuff";\Nit's already clear we're going to win!
+Dialogue: 0,0:13:14.10,0:13:17.73,Default,,0000,0000,0000,,It's time for the third game:\Nthe Run Roller Round!
+Dialogue: 0,0:13:17.73,0:13:20.69,Default,,0000,0000,0000,,Will Straw Hat Luffy emerge\Nfrom Round #1 victorious?!
+Dialogue: 0,0:13:20.69,0:13:23.53,Default,,0000,0000,0000,,Or will it be our own Porche-chan?!
+Dialogue: 0,0:13:24.91,0:13:28.45,Default,,0000,0000,0000,,On your marks! Get set!
+Dialogue: 0,0:13:31.79,0:13:36.01,Default,,0000,0000,0000,,There she goes! Porche-chan\Nstarts off with a spectacular dash!
+Dialogue: 0,0:13:36.01,0:13:38.80,Default,,0000,0000,0000,,Meanwhile, Straw Hat Luffy is...
+Dialogue: 0,0:13:38.80,0:13:40.34,Default,,0000,0000,0000,,...flat on his face!
+Dialogue: 0,0:13:40.34,0:13:43.76,Default,,0000,0000,0000,,He's collapsed before even\Ncrossing the starting line!
+Dialogue: 0,0:13:44.24,0:13:45.88,Default,,0000,0000,0000,,That was an impressive fall...
+Dialogue: 0,0:13:47.14,0:13:48.26,Default,,0000,0000,0000,,Stupid things!
+Dialogue: 0,0:13:48.26,0:13:52.26,Default,,0000,0000,0000,,Whoa, now! Removing your skates\Nwill mean instant disqualification!
+Dialogue: 0,0:13:52.26,0:13:54.14,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:13:56.06,0:13:59.59,Default,,0000,0000,0000,,Oh! I can just grab those--!
+Dialogue: 0,0:14:02.07,0:14:04.07,Default,,0000,0000,0000,,Ooh! This is too easy!
+Dialogue: 0,0:14:05.65,0:14:09.45,Default,,0000,0000,0000,,Twenty seconds have passed!\NIt's time to let the defenders loose!
+Dialogue: 0,0:14:10.03,0:14:13.41,Default,,0000,0000,0000,,Masshikaku!
+Dialogue: 0,0:14:13.41,0:14:15.87,Default,,0000,0000,0000,,Hey! He's about to get pinned! Help him!
+Dialogue: 0,0:14:15.87,0:14:17.75,Default,,0000,0000,0000,,Are you crazy?!
+Dialogue: 0,0:14:22.21,0:14:24.59,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:14:28.76,0:14:30.47,Default,,0000,0000,0000,,Gum-Gum Balloon!
+Dialogue: 0,0:14:30.47,0:14:32.11,Default,,0000,0000,0000,,That's it! Now, Usopp!
+Dialogue: 0,0:14:32.11,0:14:33.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:34.08,0:14:35.01,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:14:35.01,0:14:37.52,Default,,0000,0000,0000,,Listen! We're gonna keep\Nknocking you forward!
+Dialogue: 0,0:14:37.52,0:14:39.81,Default,,0000,0000,0000,,Don't you dare exhale, Luffy!
+Dialogue: 0,0:14:40.75,0:14:41.90,Default,,0000,0000,0000,,Talk about low!
+Dialogue: 0,0:14:42.98,0:14:45.11,Default,,0000,0000,0000,,Cien Fleurs! Delphinium!
+Dialogue: 0,0:14:53.37,0:14:54.53,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:14:54.53,0:14:56.74,Default,,0000,0000,0000,,--It's her again!\N--Awesome!
+Dialogue: 0,0:14:56.74,0:14:59.25,Default,,0000,0000,0000,,What speed!
+Dialogue: 0,0:14:59.25,0:15:02.88,Default,,0000,0000,0000,,He's well on his way to\Ncatching up with Porche-chan!
+Dialogue: 0,0:15:03.46,0:15:04.46,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:15:04.46,0:15:06.42,Default,,0000,0000,0000,,Flower Shurikens!
+Dialogue: 0,0:15:10.93,0:15:11.97,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:15:11.97,0:15:16.27,Default,,0000,0000,0000,,Amazing! I've never witnessed\Na race like this before!
+Dialogue: 0,0:15:16.27,0:15:20.69,Default,,0000,0000,0000,,But the Foxy Devils have some serious defense!
+Dialogue: 0,0:15:22.15,0:15:24.36,Default,,0000,0000,0000,,I'm a wall...
+Dialogue: 0,0:15:29.94,0:15:33.36,Default,,0000,0000,0000,,Oh! But he clears the wall with a skillful toss!
+Dialogue: 0,0:15:33.36,0:15:36.45,Default,,0000,0000,0000,,Is it only a matter of time\Nuntil he catches Porche-chan?!
+Dialogue: 0,0:15:36.45,0:15:37.95,Default,,0000,0000,0000,,Nice, Robin-chan!
+Dialogue: 0,0:15:38.37,0:15:39.41,Default,,0000,0000,0000,,Nope!
+Dialogue: 0,0:15:43.59,0:15:46.75,Default,,0000,0000,0000,,Killer Sword Festival!
+Dialogue: 0,0:15:54.39,0:15:56.80,Default,,0000,0000,0000,,What a turn of events!
+Dialogue: 0,0:15:56.80,0:15:59.52,Default,,0000,0000,0000,,Straw Hat Luffy has gone outside the course!
+Dialogue: 0,0:15:59.52,0:16:01.73,Default,,0000,0000,0000,,--No way!\N--He cut him!
+Dialogue: 0,0:16:01.73,0:16:04.19,Default,,0000,0000,0000,,You okay, Luffy?!
+Dialogue: 0,0:16:06.69,0:16:10.25,Default,,0000,0000,0000,,Rest easy! My Killer Swords don't cut!
+Dialogue: 0,0:16:10.25,0:16:11.69,Default,,0000,0000,0000,,They're all show!
+Dialogue: 0,0:16:11.69,0:16:13.70,Default,,0000,0000,0000,,I-I don't feel so good...
+Dialogue: 0,0:16:14.08,0:16:15.57,Default,,0000,0000,0000,,What kind of bragging is that?
+Dialogue: 0,0:16:17.66,0:16:19.29,Default,,0000,0000,0000,,This is bad...
+Dialogue: 0,0:16:19.29,0:16:23.62,Default,,0000,0000,0000,,Luffy's in the fifth round, so me,\NUsopp, and Robin all have to win...
+Dialogue: 0,0:16:23.62,0:16:26.75,Default,,0000,0000,0000,,Chopper might not be\Nthe only one at risk now...!
+Dialogue: 0,0:16:28.21,0:16:32.10,Default,,0000,0000,0000,,The winner of the first round is Porche-chan!
+Dialogue: 0,0:16:32.10,0:16:34.97,Default,,0000,0000,0000,,One point to the Foxy Devils!
+Dialogue: 0,0:16:34.97,0:16:37.22,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:16:37.22,0:16:38.68,Default,,0000,0000,0000,,Just get down from there!
+Dialogue: 0,0:16:38.68,0:16:40.64,Default,,0000,0000,0000,,All right! Let's move right along!
+Dialogue: 0,0:16:41.27,0:16:45.90,Default,,0000,0000,0000,,The second round match-up\Npits the heartless Navigator Nami
+Dialogue: 0,0:16:45.90,0:16:50.65,Default,,0000,0000,0000,,against the King of Defense,\Nthe Human Wall: Masshikaku!
+Dialogue: 0,0:16:52.52,0:16:55.28,Default,,0000,0000,0000,,I just have to give it everything I've got!
+Dialogue: 0,0:16:56.82,0:16:58.66,Default,,0000,0000,0000,,Round #2!
+Dialogue: 0,0:16:58.66,0:17:02.33,Default,,0000,0000,0000,,On your marks! Get set!
+Dialogue: 0,0:17:05.16,0:17:07.07,Default,,0000,0000,0000,,And they're off!
+Dialogue: 0,0:17:07.07,0:17:09.56,Default,,0000,0000,0000,,Oh, but what a shock!
+Dialogue: 0,0:17:09.56,0:17:11.41,Default,,0000,0000,0000,,Masshikaku is slow!
+Dialogue: 0,0:17:11.41,0:17:13.09,Default,,0000,0000,0000,,Like, really slow!
+Dialogue: 0,0:17:13.09,0:17:17.05,Default,,0000,0000,0000,,The heartless Nami quickly increases her lead!
+Dialogue: 0,0:17:17.05,0:17:19.68,Default,,0000,0000,0000,,What's with this guy? Is he even trying to win?
+Dialogue: 0,0:17:22.93,0:17:25.73,Default,,0000,0000,0000,,What is this?! What's going on?!
+Dialogue: 0,0:17:25.73,0:17:27.19,Default,,0000,0000,0000,,Is this some sort of tactic?!
+Dialogue: 0,0:17:27.19,0:17:30.06,Default,,0000,0000,0000,,Forget about him, Nami! Just keep movin'!
+Dialogue: 0,0:17:30.06,0:17:31.02,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:31.02,0:17:33.44,Default,,0000,0000,0000,,There's the second whistle!
+Dialogue: 0,0:17:33.44,0:17:35.53,Default,,0000,0000,0000,,Let's do it, Robin!
+Dialogue: 0,0:17:39.45,0:17:41.53,Default,,0000,0000,0000,,Wh-What are they doing?!
+Dialogue: 0,0:17:43.41,0:17:45.63,Default,,0000,0000,0000,,Just try and get through, if you dare.
+Dialogue: 0,0:17:45.63,0:17:47.58,Default,,0000,0000,0000,,Not even water can get past us!
+Dialogue: 0,0:17:47.58,0:17:51.42,Default,,0000,0000,0000,,Little late to be playin' roadblocks!\NWe're the ones in the lead...
+Dialogue: 0,0:17:51.42,0:17:54.71,Default,,0000,0000,0000,,Wh-What's with you guys?! Move!
+Dialogue: 0,0:17:54.71,0:17:57.09,Default,,0000,0000,0000,,Wait! Don't push yourself, Luffy!
+Dialogue: 0,0:17:57.09,0:18:00.64,Default,,0000,0000,0000,,We're gonna win if things stay as they are!
+Dialogue: 0,0:18:02.82,0:18:04.22,Default,,0000,0000,0000,,Yes, maybe!
+Dialogue: 0,0:18:09.56,0:18:11.47,Default,,0000,0000,0000,,Flower Hypnosis!
+Dialogue: 0,0:18:33.96,0:18:36.18,Default,,0000,0000,0000,,What...?
+Dialogue: 0,0:18:36.18,0:18:38.30,Default,,0000,0000,0000,,We were asleep?!
+Dialogue: 0,0:18:38.30,0:18:40.26,Default,,0000,0000,0000,,So it would seem...
+Dialogue: 0,0:18:40.26,0:18:41.55,Default,,0000,0000,0000,,Luffy! Get up! Hey!
+Dialogue: 0,0:18:45.52,0:18:49.31,Default,,0000,0000,0000,,But things still look the same... right?
+Dialogue: 0,0:18:49.31,0:18:50.14,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:18:50.73,0:18:53.36,Default,,0000,0000,0000,,Nami! Hurry!
+Dialogue: 0,0:18:53.36,0:18:55.82,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:18:56.28,0:18:58.24,Default,,0000,0000,0000,,--You need to get moving!\N--Five!
+Dialogue: 0,0:18:58.24,0:19:00.99,Default,,0000,0000,0000,,--Huh? Why?\N--Four! Three!
+Dialogue: 0,0:19:00.99,0:19:02.24,Default,,0000,0000,0000,,Two!
+Dialogue: 0,0:19:02.24,0:19:04.28,Default,,0000,0000,0000,,One!
+Dialogue: 0,0:19:07.54,0:19:09.71,Default,,0000,0000,0000,,Team Foxy wins two rounds in a row!
+Dialogue: 0,0:19:09.72,0:19:12.56,Default,,0000,0000,0000,,Victory is already within reach!
+Dialogue: 0,0:19:12.56,0:19:13.92,Default,,0000,0000,0000,,That can't be...!
+Dialogue: 0,0:19:13.92,0:19:17.17,Default,,0000,0000,0000,,They did a full lap while we were asleep...?
+Dialogue: 0,0:19:17.17,0:19:19.88,Default,,0000,0000,0000,,Yep! Sucks to be you!
+Dialogue: 0,0:19:21.75,0:19:24.39,Default,,0000,0000,0000,,I can't believe we beat 'em with Masshikaku!
+Dialogue: 0,0:19:26.25,0:19:28.94,Default,,0000,0000,0000,,Is this for real...?!
+Dialogue: 0,0:19:28.94,0:19:32.92,Default,,0000,0000,0000,,Team Foxy scores twice in a row!\NLuffy's team is in a real pinch!
+Dialogue: 0,0:19:32.92,0:19:36.46,Default,,0000,0000,0000,,The third round is now a crucial one!
+Dialogue: 0,0:19:36.46,0:19:40.80,Default,,0000,0000,0000,,It pits long-nosed Usopp against\NChiqicheetah the speedster!
+Dialogue: 0,0:19:42.24,0:19:44.08,Default,,0000,0000,0000,,M-My chronic sickness--
+Dialogue: 0,0:19:44.08,0:19:46.62,Default,,0000,0000,0000,,Don't give us any crap about\Na "Can't Race Anyone" disease!
+Dialogue: 0,0:19:46.62,0:19:47.70,Default,,0000,0000,0000,,Eep...
+Dialogue: 0,0:19:54.00,0:19:58.01,Default,,0000,0000,0000,,Are you kidding me? Chiqicheetah is a cheetah!
+Dialogue: 0,0:19:58.01,0:19:59.84,Default,,0000,0000,0000,,--I don't stand a chance...\N--Oww.
+Dialogue: 0,0:20:00.34,0:20:04.76,Default,,0000,0000,0000,,No. Relax more and use your hips.
+Dialogue: 0,0:20:04.76,0:20:06.64,Default,,0000,0000,0000,,You've skated before?
+Dialogue: 0,0:20:07.02,0:20:10.30,Default,,0000,0000,0000,,--No, but just watch how the others do it!\N--Can't expect much help...
+Dialogue: 0,0:20:10.30,0:20:13.52,Default,,0000,0000,0000,,--Stand with your legs spread out more!\N--What I need is a strategy...
+Dialogue: 0,0:20:13.52,0:20:15.69,Default,,0000,0000,0000,,Like this? Oww...
+Dialogue: 0,0:20:15.69,0:20:17.74,Default,,0000,0000,0000,,--No!\N--Like this?
+Dialogue: 0,0:20:17.74,0:20:19.29,Default,,0000,0000,0000,,--Oww!\N--No!
+Dialogue: 0,0:20:19.29,0:20:20.29,Default,,0000,0000,0000,,Like this?
+Dialogue: 0,0:20:20.29,0:20:22.61,Default,,0000,0000,0000,,--Ouch!\N--No! Listen to me, dammit!
+Dialogue: 0,0:20:23.93,0:20:25.95,Default,,0000,0000,0000,,On your marks!
+Dialogue: 0,0:20:25.95,0:20:28.71,Default,,0000,0000,0000,,--Get set!\N--Nothing comes to mind...!
+Dialogue: 0,0:20:28.71,0:20:32.46,Default,,0000,0000,0000,,All right, whatever! I'll just go\Nas fast as I possibly can!
+Dialogue: 0,0:20:37.88,0:20:41.63,Default,,0000,0000,0000,,Oh! I'm in the lead?!
+Dialogue: 0,0:20:41.64,0:20:43.68,Default,,0000,0000,0000,,So fast!
+Dialogue: 0,0:20:43.68,0:20:46.47,Default,,0000,0000,0000,,No one's a match for Chiqicheetah's speed!
+Dialogue: 0,0:20:46.47,0:20:48.80,Default,,0000,0000,0000,,He doesn't need any support, ya know!
+Dialogue: 0,0:20:48.80,0:20:51.81,Default,,0000,0000,0000,,Damn! It's hopeless after all?!
+Dialogue: 0,0:20:53.95,0:20:56.65,Default,,0000,0000,0000,,No way! A full lap already?!
+Dialogue: 0,0:20:56.65,0:20:59.15,Default,,0000,0000,0000,,Maybe you two should sit back and relax too?
+Dialogue: 0,0:20:59.15,0:21:00.98,Default,,0000,0000,0000,,It's not over until it's over!
+Dialogue: 0,0:21:00.98,0:21:04.95,Default,,0000,0000,0000,,Twenty seconds are up! Defense, go!
+Dialogue: 0,0:21:04.95,0:21:07.15,Default,,0000,0000,0000,,--Let's go, Robin!\N--Yes!
+Dialogue: 0,0:21:07.15,0:21:08.41,Default,,0000,0000,0000,,My! How admirable!
+Dialogue: 0,0:21:09.57,0:21:12.14,Default,,0000,0000,0000,,He's already back?!
+Dialogue: 0,0:21:12.14,0:21:13.92,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:21:21.93,0:21:24.09,Default,,0000,0000,0000,,--Oh...\N--Oh?!
+Dialogue: 0,0:21:31.76,0:21:33.18,Default,,0000,0000,0000,,That's it.
+Dialogue: 0,0:21:33.18,0:21:35.56,Default,,0000,0000,0000,,Now do it just like I explained!
+Dialogue: 0,0:21:36.14,0:21:38.40,Default,,0000,0000,0000,,Oh! Is he gonna make it?!
+Dialogue: 0,0:21:38.40,0:21:40.48,Default,,0000,0000,0000,,Just a little more! You can do it!
+Dialogue: 0,0:21:42.65,0:21:46.95,Default,,0000,0000,0000,,That's it! Stand up, Luffy!
+Dialogue: 0,0:21:52.51,0:21:55.00,Default,,0000,0000,0000,,--Oh!\N--I'm so moved!
+Dialogue: 0,0:21:55.00,0:21:56.83,Default,,0000,0000,0000,,Totally!
+Dialogue: 0,0:21:57.93,0:21:59.29,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:21:59.75,0:22:03.29,Default,,0000,0000,0000,,All right! I'm up! Hang on, Usopp!
+Dialogue: 0,0:22:06.05,0:22:09.05,Default,,0000,0000,0000,,Hang on, Chopper!
+Dialogue: 0,0:22:21.04,0:22:23.16,Default,,0000,0000,0000,,{\i1}A piece of a dream that we started grasping{\i0}
+Dialogue: 0,0:22:23.16,0:22:26.71,Default,,0000,0000,0000,,{\i1}Chasing after something constant{\i0}
+Dialogue: 0,0:22:26.71,0:22:31.34,Default,,0000,0000,0000,,{\i1}We send our aspirations sailing into the sky{\i0}
+Dialogue: 0,0:22:32.30,0:22:34.59,Default,,0000,0000,0000,,{\i1}Even when we're exhausted{\i0}
+Dialogue: 0,0:22:34.59,0:22:37.76,Default,,0000,0000,0000,,{\i1}We have a compass that can\Nsearch for something constant{\i0}
+Dialogue: 0,0:22:37.76,0:22:43.18,Default,,0000,0000,0000,,{\i1}Say, do you think we can keep it forever?{\i0}
+Dialogue: 0,0:22:43.18,0:22:46.10,Default,,0000,0000,0000,,{\i1}At the end of the dream\Nthat we will reach someday{\i0}
+Dialogue: 0,0:22:46.10,0:22:48.90,Default,,0000,0000,0000,,{\i1}We want to be adults as we\Nare now as much as possible{\i0}
+Dialogue: 0,0:22:48.90,0:22:51.86,Default,,0000,0000,0000,,{\i1}We pray to this endless sky that we look up at{\i0}
+Dialogue: 0,0:22:51.86,0:22:54.94,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:22:54.94,0:22:57.74,Default,,0000,0000,0000,,{\i1}Wild fantasies from our childhood{\i0}
+Dialogue: 0,0:22:57.74,0:23:00.57,Default,,0000,0000,0000,,{\i1}We trace unforgettable memories{\i0}
+Dialogue: 0,0:23:00.57,0:23:06.25,Default,,0000,0000,0000,,{\i1}And try to keep the embers\Nburning that still consume us{\i0}
+Dialogue: 0,0:23:06.25,0:23:09.04,Default,,0000,0000,0000,,{\i1}To this familiar sunny sky{\i0}
+Dialogue: 0,0:23:09.04,0:23:11.88,Default,,0000,0000,0000,,{\i1}Together we entrust our feelings{\i0}
+Dialogue: 0,0:23:11.88,0:23:14.46,Default,,0000,0000,0000,,{\i1}We go beyond the changing time{\i0}
+Dialogue: 0,0:23:14.46,0:23:17.26,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:23:25.00,0:23:27.05,Default,,0000,0000,0000,,Straw Hat Luffy has finally found his footing!
+Dialogue: 0,0:23:27.05,0:23:29.05,Default,,0000,0000,0000,,All right! I'm not gonna lose now!
+Dialogue: 0,0:23:29.05,0:23:30.34,Default,,0000,0000,0000,,But standing is all you can do!
+Dialogue: 0,0:23:30.34,0:23:32.97,Default,,0000,0000,0000,,Can't this idiot who's inferior to me\Nin every way do something?!
+Dialogue: 0,0:23:32.97,0:23:35.06,Default,,0000,0000,0000,,Don't be sneakin' insults in!
+Dialogue: 0,0:23:35.06,0:23:38.31,Default,,0000,0000,0000,,Wait! I know just how to turn the tables on 'em!
+Dialogue: 0,0:23:38.31,0:23:40.85,Default,,0000,0000,0000,,Look forward to seeing me in action!
+Dialogue: 0,0:23:40.85,0:23:41.98,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.98,0:23:44.98,Default,,0000,0000,0000,,"A Seriously Heated Race!\NInto the Final Round!"
+Dialogue: 0,0:23:44.98,0:23:47.40,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:47.40,0:23:49.40,Default,,0000,0000,0000,,

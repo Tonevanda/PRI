@@ -1,0 +1,318 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.65,0:00:11.26,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.26,0:00:14.09,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:14.09,0:00:17.26,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.26,0:00:21.27,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.27,0:00:25.94,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.44,0:00:35.95,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.95,0:00:40.45,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.45,0:00:45.62,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.62,0:00:53.97,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.97,0:01:04.08,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:04.08,0:01:13.58,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.58,0:01:18.59,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.59,0:01:26.26,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.26,0:01:31.94,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.94,0:01:36.44,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.44,0:01:41.61,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.61,0:01:48.82,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:59.96,0:02:03.57,Default,,0000,0000,0000,,Simmer three nights and two days,\Nto take off the bitter edge...
+Dialogue: 0,0:02:03.57,0:02:06.87,Default,,0000,0000,0000,,Nami-san and Robin-chan, just you wait!
+Dialogue: 0,0:02:06.87,0:02:09.21,Default,,0000,0000,0000,,This is a special breakfast!
+Dialogue: 0,0:02:11.58,0:02:16.18,Default,,0000,0000,0000,,"A Recipe Handed Down!\NSanji, the Iron Man of Curry"
+Dialogue: 0,0:02:21.92,0:02:26.59,Default,,0000,0000,0000,,Damn, it's like milk got spilled into\Nthis fog. I can't see ahead of us.
+Dialogue: 0,0:02:26.59,0:02:28.86,Default,,0000,0000,0000,,Luffy, do you see anything?
+Dialogue: 0,0:02:33.26,0:02:35.93,Default,,0000,0000,0000,,Hey, I see something!
+Dialogue: 0,0:02:38.27,0:02:41.94,Default,,0000,0000,0000,,Oh, no! There's a giant ship in front of us!
+Dialogue: 0,0:02:41.94,0:02:44.61,Default,,0000,0000,0000,,Sanji-kun! The helm! Hard to starboard!
+Dialogue: 0,0:02:44.61,0:02:49.25,Default,,0000,0000,0000,,Here, Nami-san! It's Sanji's\Nspecially made love--
+Dialogue: 0,0:02:50.95,0:02:55.62,Default,,0000,0000,0000,,T-This is bad! We're surrounded\Nby the navy, aren't we?!
+Dialogue: 0,0:02:55.62,0:02:57.29,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:02:57.29,0:03:01.56,Default,,0000,0000,0000,,Not even the navy can move\Naround in this kind of fog, huh?
+Dialogue: 0,0:03:01.56,0:03:05.56,Default,,0000,0000,0000,,It might be best for us to escape\Nunder cover of this thick fog.
+Dialogue: 0,0:03:05.56,0:03:09.90,Default,,0000,0000,0000,,You're right. Keep heading forward.\NEveryone, keep quiet.
+Dialogue: 0,0:03:09.90,0:03:12.24,Default,,0000,0000,0000,,--Especially you, Luffy.\N--Right!
+Dialogue: 0,0:03:13.57,0:03:15.57,Default,,0000,0000,0000,,Nami-san...
+Dialogue: 0,0:03:15.57,0:03:18.04,Default,,0000,0000,0000,,Please, wait a minute.
+Dialogue: 0,0:03:19.58,0:03:22.81,Default,,0000,0000,0000,,A child? I wonder what he's doing.
+Dialogue: 0,0:03:31.59,0:03:34.16,Default,,0000,0000,0000,,--Look out!\N--Allow me.
+Dialogue: 0,0:03:45.27,0:03:49.61,Default,,0000,0000,0000,,He's okay now. The smelling\Nsalts appear to be working.
+Dialogue: 0,0:03:49.61,0:03:50.94,Default,,0000,0000,0000,,W-Where am I?
+Dialogue: 0,0:03:50.94,0:03:53.61,Default,,0000,0000,0000,,You're on the ship of the Luffy Pirates.
+Dialogue: 0,0:03:53.61,0:03:55.95,Default,,0000,0000,0000,,--P-Pirates?!\N--Yeah.
+Dialogue: 0,0:03:55.95,0:04:00.28,Default,,0000,0000,0000,,Do you remember? You fell\Noverboard from a navy ship.
+Dialogue: 0,0:04:03.55,0:04:07.23,Default,,0000,0000,0000,,S-Stay back! You're planning\Nto attack the navy, aren't you?!
+Dialogue: 0,0:04:07.23,0:04:09.56,Default,,0000,0000,0000,,What's with him? And after\Nwe rescued him, too.
+Dialogue: 0,0:04:09.56,0:04:12.13,Default,,0000,0000,0000,,You can't blame him. He's a marine.
+Dialogue: 0,0:04:13.56,0:04:14.90,Default,,0000,0000,0000,,First, eat something.
+Dialogue: 0,0:04:14.90,0:04:17.90,Default,,0000,0000,0000,,I don't want it! I don't need any pirate help!
+Dialogue: 0,0:04:17.90,0:04:22.57,Default,,0000,0000,0000,,Ha, you won't have any soup made\Nby the cook on a pirate ship, huh?
+Dialogue: 0,0:04:22.57,0:04:25.24,Default,,0000,0000,0000,,It's not poisoned, or anything.
+Dialogue: 0,0:04:25.24,0:04:28.81,Default,,0000,0000,0000,,You'll settle down, once you've got\Na little something in your stomach.
+Dialogue: 0,0:04:30.25,0:04:35.49,Default,,0000,0000,0000,,This soup is amazing! Imagine,\Nconsommé, as clear as this!
+Dialogue: 0,0:04:51.60,0:04:53.60,Default,,0000,0000,0000,,Thanks, that was good.
+Dialogue: 0,0:04:53.60,0:04:54.94,Default,,0000,0000,0000,,Sure, you're welcome.
+Dialogue: 0,0:04:54.94,0:04:58.28,Default,,0000,0000,0000,,I'm Tajio. I'm a probationary\Ncook for the navy.
+Dialogue: 0,0:04:58.28,0:04:59.94,Default,,0000,0000,0000,,I'm Sanji.
+Dialogue: 0,0:04:59.94,0:05:02.55,Default,,0000,0000,0000,,Yeah, you're a cook, are you?
+Dialogue: 0,0:05:02.55,0:05:05.22,Default,,0000,0000,0000,,Sanji-san, you're so good!
+Dialogue: 0,0:05:05.22,0:05:08.22,Default,,0000,0000,0000,,Too good to be a pirate cook\Non a run-down ship like this!
+Dialogue: 0,0:05:08.22,0:05:11.56,Default,,0000,0000,0000,,What did you say?!\NThis ship is not run-down!
+Dialogue: 0,0:05:11.56,0:05:14.89,Default,,0000,0000,0000,,Yeah! This ship is from Syrup Village,\Nwhere I used to live--
+Dialogue: 0,0:05:14.89,0:05:18.23,Default,,0000,0000,0000,,--Is it sweet?\N--No, not like that. And there\Nwas this girl, named Kaya,
+Dialogue: 0,0:05:18.23,0:05:21.70,Default,,0000,0000,0000,,--Now, now, now, take it easy...\N--who gave us this ship,\Nso it's very dear to us!
+Dialogue: 0,0:05:25.24,0:05:27.61,Default,,0000,0000,0000,,As it happens, I...
+Dialogue: 0,0:05:34.91,0:05:38.25,Default,,0000,0000,0000,,I spilled the curry that\Nthey were having for lunch.
+Dialogue: 0,0:05:38.25,0:05:40.92,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:05:40.92,0:05:43.59,Default,,0000,0000,0000,,You make it.
+Dialogue: 0,0:05:43.59,0:05:47.59,Default,,0000,0000,0000,,You spilled it, right? So if\Nyou're really sorry about it,
+Dialogue: 0,0:05:47.59,0:05:52.93,Default,,0000,0000,0000,,then you make the curry again,\Nin time for lunch.
+Dialogue: 0,0:05:52.93,0:05:54.93,Default,,0000,0000,0000,,The chef was right. No question.
+Dialogue: 0,0:05:54.93,0:05:56.27,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:05:56.27,0:05:59.60,Default,,0000,0000,0000,,So then, I've tried\Nmaking it again and again,
+Dialogue: 0,0:05:59.60,0:06:01.21,Default,,0000,0000,0000,,but it doesn't turn out right.
+Dialogue: 0,0:06:01.21,0:06:03.88,Default,,0000,0000,0000,,Tajio-kun, do you have\Nany experience cooking?
+Dialogue: 0,0:06:03.88,0:06:07.55,Default,,0000,0000,0000,,I only started being a\Nprobationary cook six months ago.
+Dialogue: 0,0:06:07.55,0:06:10.21,Default,,0000,0000,0000,,Six months should be plenty.
+Dialogue: 0,0:06:10.21,0:06:14.22,Default,,0000,0000,0000,,No, I can't! All I do every day\Nis wash dishes and peel things!
+Dialogue: 0,0:06:14.22,0:06:17.56,Default,,0000,0000,0000,,I still haven't actually made any food!
+Dialogue: 0,0:06:17.56,0:06:20.22,Default,,0000,0000,0000,,What's worse...
+Dialogue: 0,0:06:20.22,0:06:23.23,Default,,0000,0000,0000,,All of the ships' captains have a custom
+Dialogue: 0,0:06:23.23,0:06:26.90,Default,,0000,0000,0000,,of getting together once a week,\Nand having curry for lunch.
+Dialogue: 0,0:06:26.90,0:06:31.24,Default,,0000,0000,0000,,This week, it's my ship's turn to host it.
+Dialogue: 0,0:06:31.24,0:06:36.24,Default,,0000,0000,0000,,How is my curry supposed to meet\Nthe tastes of the navy's big shots?
+Dialogue: 0,0:06:36.24,0:06:38.24,Default,,0000,0000,0000,,The navy's curry is famous.
+Dialogue: 0,0:06:38.24,0:06:41.25,Default,,0000,0000,0000,,I hear the chef on each ship\Ncompetes with all the others,
+Dialogue: 0,0:06:41.25,0:06:43.92,Default,,0000,0000,0000,,and each one has their\Nown flavor for their ship.
+Dialogue: 0,0:06:43.92,0:06:46.58,Default,,0000,0000,0000,,Oh, yeah? That sounds yummy, huh?
+Dialogue: 0,0:06:46.58,0:06:48.25,Default,,0000,0000,0000,,With six months' time in the galley,
+Dialogue: 0,0:06:48.25,0:06:50.25,Default,,0000,0000,0000,,if you don't have any\Nconfidence in yourself,
+Dialogue: 0,0:06:50.25,0:06:53.93,Default,,0000,0000,0000,,then go back and apologize\Nto your chef again.
+Dialogue: 0,0:06:53.93,0:06:55.93,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:06:55.93,0:06:58.93,Default,,0000,0000,0000,,If I tell him that, he'll put me off the ship!
+Dialogue: 0,0:06:58.93,0:07:01.20,Default,,0000,0000,0000,,Does it have to be that ship?
+Dialogue: 0,0:07:01.20,0:07:03.20,Default,,0000,0000,0000,,Is there any reason for that, or anything?
+Dialogue: 0,0:07:03.20,0:07:04.87,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:07:04.87,0:07:07.54,Default,,0000,0000,0000,,The All...
+Dialogue: 0,0:07:07.54,0:07:10.11,Default,,0000,0000,0000,,Do you know about the All Blue?!
+Dialogue: 0,0:07:12.88,0:07:15.21,Default,,0000,0000,0000,,The East Blue, the West Blue,
+Dialogue: 0,0:07:15.21,0:07:17.55,Default,,0000,0000,0000,,the South Blue, the North Blue...
+Dialogue: 0,0:07:17.55,0:07:21.89,Default,,0000,0000,0000,,It's where all the delicacies from\Nthe four seas are gathered together.
+Dialogue: 0,0:07:21.89,0:07:26.22,Default,,0000,0000,0000,,As a cook, it's a sea of treasures\Nthat I'd like to go to sometime.
+Dialogue: 0,0:07:26.22,0:07:29.89,Default,,0000,0000,0000,,The senior cooks laugh it off as a dream,
+Dialogue: 0,0:07:29.89,0:07:34.57,Default,,0000,0000,0000,,but I believe in it! I'm sure\Nthe All Blue is out there!
+Dialogue: 0,0:07:34.57,0:07:38.57,Default,,0000,0000,0000,,If I'm aboard a naval warship, there's\Na good chance I'll go there, right?
+Dialogue: 0,0:07:38.57,0:07:42.57,Default,,0000,0000,0000,,So I... So I can't afford\Nto be put off the ship!
+Dialogue: 0,0:07:42.57,0:07:45.18,Default,,0000,0000,0000,,The All Blue? Isn't that...?
+Dialogue: 0,0:07:50.25,0:07:52.92,Default,,0000,0000,0000,,I would like to get away from\Nhere as soon as we can...
+Dialogue: 0,0:07:52.92,0:07:57.92,Default,,0000,0000,0000,,Yeah, if we're spotted, and\Nthey launch a salvo at us...
+Dialogue: 0,0:07:57.92,0:08:00.19,Default,,0000,0000,0000,,Then again, given the circumstances,
+Dialogue: 0,0:08:00.19,0:08:03.26,Default,,0000,0000,0000,,we have to send this boy back,\Ndon't we, Sanji-kun?
+Dialogue: 0,0:08:05.20,0:08:08.20,Default,,0000,0000,0000,,I'm just taking him back\Nto his ship, that's all.
+Dialogue: 0,0:08:08.20,0:08:10.74,Default,,0000,0000,0000,,Luffy, give us a hand.
+Dialogue: 0,0:08:11.87,0:08:15.84,Default,,0000,0000,0000,,Gum-Gum Mooring Line!!
+Dialogue: 0,0:08:17.21,0:08:19.21,Default,,0000,0000,0000,,Hey, Sanji, I've got hold.
+Dialogue: 0,0:08:19.21,0:08:22.21,Default,,0000,0000,0000,,Once noontime comes,\Nthis fog will clear up.
+Dialogue: 0,0:08:22.21,0:08:25.55,Default,,0000,0000,0000,,Later than that, and it will be too\Ndangerous for us to wait around.
+Dialogue: 0,0:08:25.55,0:08:27.55,Default,,0000,0000,0000,,That's long enough.
+Dialogue: 0,0:08:27.55,0:08:29.55,Default,,0000,0000,0000,,How much are you planning to help him?
+Dialogue: 0,0:08:29.55,0:08:31.56,Default,,0000,0000,0000,,I'm just going to have\Na little look for myself
+Dialogue: 0,0:08:31.56,0:08:33.89,Default,,0000,0000,0000,,at what the galley of a navy ship looks like.
+Dialogue: 0,0:08:33.89,0:08:36.23,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:08:36.23,0:08:39.63,Default,,0000,0000,0000,,All right, hold on tight!
+Dialogue: 0,0:08:48.57,0:08:50.91,Default,,0000,0000,0000,,By the way, why did you come along, too?
+Dialogue: 0,0:08:50.91,0:08:53.24,Default,,0000,0000,0000,,How were you going to get back?
+Dialogue: 0,0:08:53.24,0:08:55.25,Default,,0000,0000,0000,,Well, just wait here, and behave yourself.
+Dialogue: 0,0:08:55.25,0:08:56.85,Default,,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:08:59.32,0:09:01.49,On Top,,0000,0000,0000,,"18th Fleet Galley"
+Dialogue: 0,0:08:59.92,0:09:01.85,Default,,0000,0000,0000,,This is the galley.
+Dialogue: 0,0:09:01.85,0:09:06.09,Default,,0000,0000,0000,,Yeah. Might as well have a look,\Nas long as I'm here.
+Dialogue: 0,0:09:12.86,0:09:16.20,Default,,0000,0000,0000,,That's the navy for you.\NThis is expensive stuff.
+Dialogue: 0,0:09:16.20,0:09:18.64,Default,,0000,0000,0000,,What's more, it's all in good repair.
+Dialogue: 0,0:09:20.20,0:09:23.01,Default,,0000,0000,0000,,--What's that?\N--It's coming from the ship's pantry.
+Dialogue: 0,0:09:26.21,0:09:27.88,Default,,0000,0000,0000,,That startled me...
+Dialogue: 0,0:09:27.88,0:09:30.21,Default,,0000,0000,0000,,Luffy! What are you doing in here?!
+Dialogue: 0,0:09:30.21,0:09:33.22,Default,,0000,0000,0000,,Sanji! Recon! I'm on recon!
+Dialogue: 0,0:09:33.22,0:09:36.42,Default,,0000,0000,0000,,A chance like this doesn't\Ncome along every day, after all.
+Dialogue: 0,0:09:38.56,0:09:40.89,Default,,0000,0000,0000,,So, I'm just going to go do some more recon.
+Dialogue: 0,0:09:40.89,0:09:45.23,Default,,0000,0000,0000,,Do as you like, but if the marines\Nfind you, they won't go easy on you.
+Dialogue: 0,0:09:45.23,0:09:46.56,Default,,0000,0000,0000,,And another thing...
+Dialogue: 0,0:09:46.56,0:09:49.57,Default,,0000,0000,0000,,Leave what you've stuffed\Ndown your pants here.
+Dialogue: 0,0:09:49.57,0:09:51.50,Default,,0000,0000,0000,,Apples, right?
+Dialogue: 0,0:09:54.24,0:09:57.01,Default,,0000,0000,0000,,This here is navy curry.
+Dialogue: 0,0:10:02.91,0:10:05.78,Default,,0000,0000,0000,,Back when I was at a maritime restaurant...
+Dialogue: 0,0:10:06.92,0:10:10.49,Default,,0000,0000,0000,,...the owner, Zeff,\Nnever taught me anything.
+Dialogue: 0,0:10:13.93,0:10:18.13,Default,,0000,0000,0000,,Day in and day out, all he ever\Nlet me do was wash dishes.
+Dialogue: 0,0:10:21.27,0:10:22.93,Default,,0000,0000,0000,,Hey, little brat!
+Dialogue: 0,0:10:22.93,0:10:26.94,Default,,0000,0000,0000,,You have to do more than just your hardest.
+Dialogue: 0,0:10:26.94,0:10:30.94,Default,,0000,0000,0000,,Use your head, and think about\Nwhy I let you into my kitchen,
+Dialogue: 0,0:10:30.94,0:10:34.91,Default,,0000,0000,0000,,then had you do chores for the\Nlast six months, or the last year!
+Dialogue: 0,0:10:40.28,0:10:44.62,Default,,0000,0000,0000,,That's what Zeff told me, as I was\Ndripping with dissatisfaction.
+Dialogue: 0,0:10:44.62,0:10:50.63,Default,,0000,0000,0000,,I get it. Chef has me in here to\Nlet me steal his cooking skills.
+Dialogue: 0,0:10:50.63,0:10:53.77,Default,,0000,0000,0000,,Cooking isn't something that can be taught.
+Dialogue: 0,0:10:58.64,0:11:01.44,Default,,0000,0000,0000,,Sanji-san, I'm going to try!
+Dialogue: 0,0:11:04.24,0:11:08.91,Default,,0000,0000,0000,,Let's see... What was it Chef said...?
+Dialogue: 0,0:11:08.91,0:11:12.92,Default,,0000,0000,0000,,The basic recipe for curry is\Npowder, soup, and ingredients.
+Dialogue: 0,0:11:12.92,0:11:16.15,Default,,0000,0000,0000,,His curry powder is delicately blended!
+Dialogue: 0,0:11:17.92,0:11:20.26,Default,,0000,0000,0000,,That aroma...
+Dialogue: 0,0:11:20.26,0:11:21.93,Default,,0000,0000,0000,,They take ready-made curry powder,
+Dialogue: 0,0:11:21.93,0:11:25.30,Default,,0000,0000,0000,,and add in some freshly made garam masala.
+Dialogue: 0,0:11:31.60,0:11:36.27,Default,,0000,0000,0000,,Don't be so lazy that you use\Nthe powder that's already there!
+Dialogue: 0,0:11:36.27,0:11:39.38,Default,,0000,0000,0000,,The flavor of a spice diminishes by the day!
+Dialogue: 0,0:11:40.61,0:11:42.65,Default,,0000,0000,0000,,It's the garam masala!
+Dialogue: 0,0:11:50.62,0:11:53.26,Default,,0000,0000,0000,,His sense of smell is true, huh?
+Dialogue: 0,0:12:18.92,0:12:20.92,Default,,0000,0000,0000,,This is huge!
+Dialogue: 0,0:12:20.92,0:12:22.92,Default,,0000,0000,0000,,In this fog...
+Dialogue: 0,0:12:22.92,0:12:26.26,Default,,0000,0000,0000,,...we won't be moving for a little while.
+Dialogue: 0,0:12:26.26,0:12:28.59,Default,,0000,0000,0000,,It'll probably clear up around midday.
+Dialogue: 0,0:12:28.59,0:12:31.60,Default,,0000,0000,0000,,By the way, did you hear\Nabout the customary luncheon?
+Dialogue: 0,0:12:31.60,0:12:34.93,Default,,0000,0000,0000,,Yeah, about how that\Nprobationary cook Tajio is making it?
+Dialogue: 0,0:12:34.93,0:12:37.94,Default,,0000,0000,0000,,I wonder just what exactly\Nhe's going to feed us.
+Dialogue: 0,0:12:37.94,0:12:39.64,Default,,0000,0000,0000,,No doubt!
+Dialogue: 0,0:12:42.61,0:12:45.28,Default,,0000,0000,0000,,For the bullion, I can use\Nthe ready-made stuff
+Dialogue: 0,0:12:45.28,0:12:48.28,Default,,0000,0000,0000,,that's thoroughly boiled.
+Dialogue: 0,0:12:48.28,0:12:50.72,Default,,0000,0000,0000,,Now, it's time to prepare the ingredients.
+Dialogue: 0,0:12:52.28,0:12:56.02,Default,,0000,0000,0000,,First, I need to cut up and brown the beef.
+Dialogue: 0,0:13:06.23,0:13:10.23,Default,,0000,0000,0000,,There's a type of beef curry\Nwhere the beef's juices
+Dialogue: 0,0:13:10.23,0:13:13.57,Default,,0000,0000,0000,,are sealed within the beef itself...
+Dialogue: 0,0:13:13.57,0:13:15.57,Default,,0000,0000,0000,,But from the mellow flavor of this curry,
+Dialogue: 0,0:13:15.57,0:13:18.24,Default,,0000,0000,0000,,this isn't the type that keeps\Nthe essence of the meat inside,
+Dialogue: 0,0:13:18.24,0:13:21.58,Default,,0000,0000,0000,,it allows it to dissolve out into the soup.
+Dialogue: 0,0:13:21.58,0:13:27.49,Default,,0000,0000,0000,,In which case, this kid is\Nmessing it up right from the start.
+Dialogue: 0,0:13:29.59,0:13:31.36,Default,,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:13:34.26,0:13:39.93,Default,,0000,0000,0000,,Kid, cooking is not something\Nyou should rush through.
+Dialogue: 0,0:13:39.93,0:13:44.27,Default,,0000,0000,0000,,Remember, everything in cooking\Ndepends on preparation.
+Dialogue: 0,0:13:44.27,0:13:48.11,Default,,0000,0000,0000,,It's vital to take your time. That is everything.
+Dialogue: 0,0:13:56.28,0:13:59.28,Default,,0000,0000,0000,,Include garlic...
+Dialogue: 0,0:13:59.28,0:14:01.89,Default,,0000,0000,0000,,...ginger...
+Dialogue: 0,0:14:01.89,0:14:04.22,Default,,0000,0000,0000,,...turmeric,
+Dialogue: 0,0:14:04.22,0:14:06.96,Default,,0000,0000,0000,,and add some yogurt.
+Dialogue: 0,0:14:41.59,0:14:43.96,Default,,0000,0000,0000,,That takes care of the preparations.
+Dialogue: 0,0:14:45.26,0:14:47.97,Default,,0000,0000,0000,,Next, I have to sauté the onions.
+Dialogue: 0,0:15:05.22,0:15:07.55,Default,,0000,0000,0000,,Smoking, where I'm preparing food?!
+Dialogue: 0,0:15:07.55,0:15:09.89,Default,,0000,0000,0000,,As a cook, do you think that's okay?!
+Dialogue: 0,0:15:09.89,0:15:13.22,Default,,0000,0000,0000,,Earlier, I said you were too good\Nto be a cook on a pirate ship,
+Dialogue: 0,0:15:13.22,0:15:14.89,Default,,0000,0000,0000,,but I take it back!
+Dialogue: 0,0:15:14.89,0:15:19.23,Default,,0000,0000,0000,,My, my, I singed my hair.
+Dialogue: 0,0:15:27.57,0:15:31.24,Default,,0000,0000,0000,,Remember, you first sauté\Nonions over a strong flame.
+Dialogue: 0,0:15:31.24,0:15:33.58,Default,,0000,0000,0000,,Keep them moving,\Nso they don't get scorched.
+Dialogue: 0,0:15:33.58,0:15:36.25,Default,,0000,0000,0000,,Once the onions are soft, lower the flame.
+Dialogue: 0,0:15:36.25,0:15:39.25,Default,,0000,0000,0000,,Go slowly and gently,\Nsimmering over a low flame,
+Dialogue: 0,0:15:39.25,0:15:43.25,Default,,0000,0000,0000,,until they're golden-brown. Got that, men?
+Dialogue: 0,0:15:44.59,0:15:48.59,Default,,0000,0000,0000,,Sanji-san was warning me\Nabout the heat level...
+Dialogue: 0,0:16:04.21,0:16:10.05,Default,,0000,0000,0000,,Wow, this is high. The view is\Ncompletely different, all right.
+Dialogue: 0,0:16:12.88,0:16:14.89,Default,,0000,0000,0000,,W-Who are you?!
+Dialogue: 0,0:16:14.89,0:16:16.22,Default,,0000,0000,0000,,I've been spotted!
+Dialogue: 0,0:16:16.22,0:16:19.36,Default,,0000,0000,0000,,--Hold it!\N--I'm not holding anything!
+Dialogue: 0,0:16:22.23,0:16:25.56,Default,,0000,0000,0000,,Melt some pork lard...
+Dialogue: 0,0:16:25.56,0:16:27.67,Default,,0000,0000,0000,,...add the flour...
+Dialogue: 0,0:16:29.23,0:16:32.54,Default,,0000,0000,0000,,Gently, so as not to scorch it...
+Dialogue: 0,0:16:37.24,0:16:39.58,Default,,0000,0000,0000,,Put the curry powder in...
+Dialogue: 0,0:16:39.58,0:16:43.35,Default,,0000,0000,0000,,...and add garam masala,\Nto enhance the flavor.
+Dialogue: 0,0:16:47.92,0:16:51.62,Default,,0000,0000,0000,,Now, to bring all the ingredients together...
+Dialogue: 0,0:16:54.26,0:16:56.26,Default,,0000,0000,0000,,Add in the bullion...
+Dialogue: 0,0:16:58.26,0:16:59.83,Default,,0000,0000,0000,,The tomatoes...
+Dialogue: 0,0:17:04.87,0:17:07.01,Default,,0000,0000,0000,,Add the onions...
+Dialogue: 0,0:17:11.21,0:17:13.85,Default,,0000,0000,0000,,Then put the marinated meat in.
+Dialogue: 0,0:17:36.23,0:17:38.90,Default,,0000,0000,0000,,It's not right...
+Dialogue: 0,0:17:38.90,0:17:40.91,Default,,0000,0000,0000,,It has no body.
+Dialogue: 0,0:17:43.91,0:17:47.15,Default,,0000,0000,0000,,Sure enough, I can't do it.
+Dialogue: 0,0:17:53.92,0:17:56.59,Default,,0000,0000,0000,,Subtle flavoring...!
+Dialogue: 0,0:17:56.59,0:17:58.12,Default,,0000,0000,0000,,Sanji-san!
+Dialogue: 0,0:18:03.86,0:18:06.86,Default,,0000,0000,0000,,This apple...
+Dialogue: 0,0:18:06.86,0:18:08.60,Default,,0000,0000,0000,,...sure is sweet.
+Dialogue: 0,0:18:09.87,0:18:11.37,Default,,0000,0000,0000,,Sanji-san...
+Dialogue: 0,0:18:12.54,0:18:13.87,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:18:13.87,0:18:16.21,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:18:16.21,0:18:20.21,Default,,0000,0000,0000,,I haven't done anything\Nyou need to thank me for.
+Dialogue: 0,0:18:20.21,0:18:23.21,Default,,0000,0000,0000,,Sanji-san, you just pretended to stop by,
+Dialogue: 0,0:18:23.21,0:18:25.55,Default,,0000,0000,0000,,but really, you were trying to teach me.
+Dialogue: 0,0:18:25.55,0:18:26.88,Default,,0000,0000,0000,,Don't get the wrong impression.
+Dialogue: 0,0:18:26.88,0:18:30.22,Default,,0000,0000,0000,,Over there! He ran over there!
+Dialogue: 0,0:18:30.22,0:18:33.22,Default,,0000,0000,0000,,Sanji! Let's go!
+Dialogue: 0,0:18:33.22,0:18:35.56,Default,,0000,0000,0000,,That idiot...
+Dialogue: 0,0:18:35.56,0:18:37.23,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:18:37.23,0:18:39.23,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:39.23,0:18:41.67,Default,,0000,0000,0000,,...Mooring Line!!
+Dialogue: 0,0:18:42.70,0:18:45.27,Default,,0000,0000,0000,,All right! I've grabbed on!
+Dialogue: 0,0:18:47.24,0:18:48.91,Default,,0000,0000,0000,,Tajio...
+Dialogue: 0,0:18:48.91,0:18:51.58,Default,,0000,0000,0000,,I think it's out there, too.
+Dialogue: 0,0:18:51.58,0:18:54.25,Default,,0000,0000,0000,,The All Blue.
+Dialogue: 0,0:18:54.25,0:18:55.71,Default,,0000,0000,0000,,Sanji! Grab on!
+Dialogue: 0,0:18:55.71,0:18:57.35,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:19:06.86,0:19:10.19,Default,,0000,0000,0000,,Hey, Tajio, there was a\Nsuspicious-looking man just here, right?
+Dialogue: 0,0:19:10.19,0:19:11.20,Default,,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:19:11.20,0:19:15.20,Default,,0000,0000,0000,,Huh? I don't know. Are you sure\Nyou weren't seeing things?
+Dialogue: 0,0:19:15.20,0:19:18.20,Default,,0000,0000,0000,,Keep looking! They must be\Nhiding on the ship somewhere!
+Dialogue: 0,0:19:18.20,0:19:20.07,Default,,0000,0000,0000,,Find him!
+Dialogue: 0,0:19:25.88,0:19:29.88,Default,,0000,0000,0000,,Why, you...! You have some\Nsort of grudge against me?
+Dialogue: 0,0:19:29.88,0:19:31.22,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:31.22,0:19:33.89,Default,,0000,0000,0000,,No, that face doesn't say "sorry"!
+Dialogue: 0,0:19:33.89,0:19:35.22,Default,,0000,0000,0000,,That's why I'm sorry.
+Dialogue: 0,0:19:35.22,0:19:37.22,Default,,0000,0000,0000,,I'm gonna fillet you...!
+Dialogue: 0,0:19:38.22,0:19:40.22,Default,,0000,0000,0000,,What's the matter, Luffy?
+Dialogue: 0,0:19:40.22,0:19:43.56,Default,,0000,0000,0000,,You've damaged the\NGoing Merry again, huh?!
+Dialogue: 0,0:19:43.56,0:19:45.90,Default,,0000,0000,0000,,Oh, Usopp, Nami, sorry!
+Dialogue: 0,0:19:45.90,0:19:49.57,Default,,0000,0000,0000,,The navy saw me, so we had\Nto come back in a hurry.
+Dialogue: 0,0:19:49.57,0:19:52.57,Default,,0000,0000,0000,,Huh?! H-Hang on, what\Ndo you mean by that?!
+Dialogue: 0,0:19:52.57,0:19:56.24,Default,,0000,0000,0000,,This is a precious ship,\Nthat we got from Kaya!
+Dialogue: 0,0:19:56.24,0:19:58.24,Default,,0000,0000,0000,,How many times do I have to tell you that?!
+Dialogue: 0,0:19:58.24,0:20:01.58,Default,,0000,0000,0000,,We can't stand around like this! Usopp,\NSanji-kun, we're leaving immediately!
+Dialogue: 0,0:20:01.58,0:20:03.58,Default,,0000,0000,0000,,Yes, Nami-san!
+Dialogue: 0,0:20:03.58,0:20:06.05,Default,,0000,0000,0000,,Urgh, I can't move...
+Dialogue: 0,0:20:20.60,0:20:21.93,Default,,0000,0000,0000,,Serve it.
+Dialogue: 0,0:20:21.93,0:20:23.67,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:20:37.62,0:20:40.72,Default,,0000,0000,0000,,Please, enjoy your meal.
+Dialogue: 0,0:20:52.30,0:20:54.30,Default,,0000,0000,0000,,Oh, this is good.
+Dialogue: 0,0:20:54.30,0:20:56.30,Default,,0000,0000,0000,,It's just thick enough, and the spicy flavor
+Dialogue: 0,0:20:56.30,0:20:57.64,Default,,0000,0000,0000,,is spreading throughout my mouth.
+Dialogue: 0,0:20:57.64,0:21:00.24,Default,,0000,0000,0000,,The meat is so tender...
+Dialogue: 0,0:21:00.24,0:21:03.24,Default,,0000,0000,0000,,Another bowl, right away!
+Dialogue: 0,0:21:03.24,0:21:05.58,Default,,0000,0000,0000,,--Tajio...\N--Yes, Chef?
+Dialogue: 0,0:21:05.58,0:21:09.05,Default,,0000,0000,0000,,Make sure you clean up in there.
+Dialogue: 0,0:21:10.25,0:21:11.92,Default,,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:21:22.93,0:21:24.80,Default,,0000,0000,0000,,Sanji-san...
+Dialogue: 0,0:21:27.60,0:21:31.24,Default,,0000,0000,0000,,I think it's out there, too-- the All Blue.
+Dialogue: 0,0:21:41.95,0:21:43.95,Default,,0000,0000,0000,,I'm going to work hard,
+Dialogue: 0,0:21:43.95,0:21:48.45,Default,,0000,0000,0000,,and someday, I'll be as good\Na cook as you are, Sanji-san.
+Dialogue: 0,0:21:54.46,0:22:02.57,Default,,0000,0000,0000,,Ah, beyond the never-ending sky
+Dialogue: 0,0:22:02.57,0:22:13.01,Default,,0000,0000,0000,,The future that I once saw\Nis now starting to take shape
+Dialogue: 0,0:22:20.92,0:22:28.43,Default,,0000,0000,0000,,There are days where I almost lose to myself
+Dialogue: 0,0:22:28.43,0:22:36.80,Default,,0000,0000,0000,,When that happened, there was\Nsomeplace warm I could go
+Dialogue: 0,0:22:36.80,0:22:42.94,Default,,0000,0000,0000,,The friends I took pride in\Nalways, without fail,
+Dialogue: 0,0:22:42.94,0:22:53.95,Default,,0000,0000,0000,,pushed me onwards, didn't they?
+Dialogue: 0,0:22:53.95,0:23:02.23,Default,,0000,0000,0000,,Ah, the stars are pouring\Ndown underneath the sky
+Dialogue: 0,0:23:02.23,0:23:04.90,Default,,0000,0000,0000,,This unique moment...
+Dialogue: 0,0:23:12.90,0:23:15.91,Default,,0000,0000,0000,,Wow, fireworks are great, huh?\NThey truly are pretty!
+Dialogue: 0,0:23:15.91,0:23:19.24,Default,,0000,0000,0000,,I'd like to set some off sometime.\NHuh? You'll let me?
+Dialogue: 0,0:23:19.24,0:23:23.25,Default,,0000,0000,0000,,I'm so happy! And what's more,\Nyou'll let me set off that huge one?!
+Dialogue: 0,0:23:23.25,0:23:26.25,Default,,0000,0000,0000,,Wow! Then again, isn't that one too big?
+Dialogue: 0,0:23:26.25,0:23:27.59,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.59,0:23:31.26,Default,,0000,0000,0000,,"I Will Make it Bloom!\NUsopp the Man and the Eight-Foot Shell"
+Dialogue: 0,0:23:31.26,0:23:33.59,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.59,0:23:38.08,Default,,0000,0000,0000,,
