@@ -10,7 +10,6 @@ function SearchBar({ inputValue, handleInputChange, handleSearch }) {
                         type="text"
                         value={inputValue}
                         onChange={handleInputChange}
-                        placeholder="Type something..."
                         className="form-control"
                     />
                     <span className="input-icon">

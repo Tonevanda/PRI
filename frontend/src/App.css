@@ -22,13 +22,13 @@ body {
 }
 
 .welcome-page.initial {
-  margin-top: 20%;
+  margin-top: 15%;
 }
 
 .input-group {
   width: 100%;
   border-radius: 55px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   overflow: hidden;
 }
 
@@ -70,4 +70,27 @@ body {
   height: 100%;
   object-fit: cover;
   z-index: -1;
+}
+
+.title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 6rem;
+  color: #ffffff;
+  text-shadow: 
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    3px 3px 8px rgba(0, 0, 0, 0.9); /* Increase text shadow on hover */
+  transition: transform 0.2s;
+}
+
+.title:hover {
+  transform: scale(1.1);
+  text-shadow: 
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    3px 3px 8px rgba(0, 0, 0, 0.9); /* Increase text shadow on hover */
 }

@@ -57,7 +57,7 @@ function MainPage() {
 
             {/* Title */}
             <div className='mb-5'>
-                <h1 onClick={handleReset} className='display-1' style={{ cursor: 'pointer' }}>One Search</h1>
+                <h1 onClick={handleReset} className='title' style={{ cursor: 'pointer' }}>One Search</h1>
             </div>
 
             {/* Search bar */}
