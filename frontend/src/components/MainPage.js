@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import QueryComponent from '../query/QueryComponent'; // Import the QueryComponent
+import QueryResult from './QueryResult.js';
 
-function WelcomePageComponent() {
+function MainPage() {
     const [inputValue, setInputValue] = useState('');
     const [results, setResults] = useState([]);
     const [currentPage, setCurrentPage] = useState(1);
@@ -75,7 +75,7 @@ function WelcomePageComponent() {
             {/* Prints the results received from the server */}
             <div className="query-list">
                 {currentResults.map((result, index) => (
-                    <QueryComponent key={index} query={result} />
+                    <QueryResult key={index} query={result} />
                 ))}
             </div>
 
@@ -96,4 +96,4 @@ function WelcomePageComponent() {
     );
 }
 
-export default WelcomePageComponent;
+export default MainPage;

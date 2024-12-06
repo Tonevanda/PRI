@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const QueryComponent = ({ query }) => {
+const QueryResult = ({ query }) => {
     const [isExpanded, setIsExpanded] = useState(false);
 
     const handleExpand = () => {
@@ -21,4 +21,4 @@ const QueryComponent = ({ query }) => {
     );
 };
 
-export default QueryComponent;
+export default QueryResult;

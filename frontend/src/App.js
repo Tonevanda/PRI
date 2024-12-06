@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import WelcomePageComponent from './components/welcomepage/WelcomePageComponent';
+import MainPage from './components/MainPage.js';
 
 function App() {
   return (
     <div className='App'>
-      <WelcomePageComponent />
+      <MainPage />
     </div>
   );
 }
