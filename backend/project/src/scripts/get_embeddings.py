@@ -12,7 +12,7 @@ def get_embedding(text):
 
 if __name__ == "__main__":
 
-    csv_file = 'data.csv'  # Replace with your CSV file path
+    csv_file = '../../data/data.csv'  # Replace with your CSV file path
     json_file = '../../data/data_embeddings.json'  # Replace with your desired JSON file path
 
     data = []
