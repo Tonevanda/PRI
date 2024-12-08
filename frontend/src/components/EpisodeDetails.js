@@ -51,6 +51,12 @@ function EpisodeDetails() {
         navigate('/', { state: { results: location.state?.results, currentPage: location.state?.currentPage } });
     };
 
+    const formatDate = (dateString) => {
+        const options = { year: 'numeric', month: '2-digit', day: '2-digit' };
+        const date = new Date(dateString);
+        return date.toLocaleDateString('en-GB', options);
+    };
+
     return (
         <div className="d-flex justify-content-center align-items-start" style={{ minHeight: '100vh', padding: '20px' }}>
             <div className="card" style={{ width: '90%' }}>
@@ -58,13 +64,28 @@ function EpisodeDetails() {
                     <div className="d-flex justify-content-start">
                         <i className="fas fa-arrow-left" style={{ cursor: 'pointer' }} onClick={handleBackClick}></i>
                     </div>
-                    <h5 className="card-title">{episode.Title}</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h6>
+                    <h3 className="card-title">{episode.Title}</h3>
+                    <h5 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h5>
                     <div className="card-divider"></div>
-                    <div style={{ textAlign: 'left' }}>
+                    <div className="extra-info" style={{ textAlign: 'left' }}>
+                        <p><strong>Season:</strong> {episode.Season}</p>
+                        <p><strong>Saga:</strong> {episode.Saga}</p>
+                        <p><strong>Arc:</strong> {episode.Arc}</p>
+                        <p><strong>Opening:</strong> {episode.Opening}</p>
+                        <p><strong>Air Date:</strong> {formatDate(episode.airdate)}</p>
+                    </div>
+                    <div className="card-divider"></div>
+                    <div className="episode-summary-title" style={{ textAlign: 'center' }}>
+                        <h3>Episode Summary</h3>
+                    </div>
+                    <div className="episode-summary-text" style={{ textAlign: 'left' }}>
                         <p className="card-text">
                             {episode.Summary}
                         </p>
+                    </div>
+                    <div className="card-divider"></div>
+                    <div className="anime-notes" style={{ textAlign: 'left' }}>
+                        <p><strong>Anime Notes:</strong> {episode.anime_notes}</p>
                     </div>
                 </div>
             </div>
