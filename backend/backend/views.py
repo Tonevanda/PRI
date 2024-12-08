@@ -21,8 +21,8 @@ def episode(request, episode_id):
             "wt": "json"
         }
 
-        uri = "http://localhost:8983/solr/episodes/select"
-        response = requests.post(uri, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        url = "http://localhost:8983/solr/episodes/select"
+        response = requests.post(url=url, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
         return JsonResponse(response.json()['response']['docs'], safe=False)
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
@@ -45,9 +45,9 @@ def search(request):
             "wt": "json"
         }
 
-        uri = "http://localhost:8983/solr/episodes/select"
-        response_embeddings = requests.post(uri, data=solr_data, headers={"Content-Type": "application/x-www-form-urlencoded"})
-        response_params = requests.post(uri, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        url = "http://localhost:8983/solr/episodes/select"
+        response_embeddings = requests.post(url=url, data=solr_data, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        response_params = requests.post(url=url, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
 
