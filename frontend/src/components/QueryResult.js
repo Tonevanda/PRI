@@ -2,11 +2,11 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function QueryResult({ query, results }) {
+function QueryResult({ query, results, currentPage }) {
     const navigate = useNavigate();
 
     const handleClick = () => {
-        navigate(`/episode/${query.Episode}`, { state: { results } });
+        navigate(`/episode/${query.Episode}`, { state: { results, currentPage } });
     }
 
     return (

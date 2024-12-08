@@ -16,6 +16,9 @@ function MainPage() {
         if (location.state?.results) {
             setResults(location.state.results);
         }
+        if (location.state?.currentPage) {
+            setCurrentPage(location.state.currentPage);
+        }
     }, [location.state]);
 
 
@@ -79,7 +82,7 @@ function MainPage() {
             {/* Prints the results received from the server */}
             <div className="query-list">
                 {currentResults.map((result, index) => (
-                    <QueryResult key={index} query={result} results={results} />
+                    <QueryResult key={index} query={result} results={results} currentPage={currentPage} />
                 ))}
             </div>
 

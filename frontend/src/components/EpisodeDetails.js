@@ -48,12 +48,12 @@ function EpisodeDetails() {
     }
 
     const handleBackClick = () => {
-        navigate('/', { state: { results: location.state?.results } });
-    }
+        navigate('/', { state: { results: location.state?.results, currentPage: location.state?.currentPage } });
+    };
 
     return (
         <div className="d-flex justify-content-center align-items-start" style={{ minHeight: '100vh', padding: '20px' }}>
-            <div className="card" style={{ width: '80%', maxHeight: '90vh', overflowY: 'auto' }}>
+            <div className="card" style={{ width: '90%' }}>
                 <div className='card-body'>
                     <div className="d-flex justify-content-start">
                         <i className="fas fa-arrow-left" style={{ cursor: 'pointer' }} onClick={handleBackClick}></i>
@@ -61,9 +61,11 @@ function EpisodeDetails() {
                     <h5 className="card-title">{episode.Title}</h5>
                     <h6 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h6>
                     <div className="card-divider"></div>
-                    <p className="card-text">
-                        {episode.Summary}
-                    </p>
+                    <div style={{ textAlign: 'left' }}>
+                        <p className="card-text">
+                            {episode.Summary}
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
