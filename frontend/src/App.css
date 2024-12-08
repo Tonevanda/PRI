@@ -59,11 +59,11 @@ body {
   width: 100%;
 }
 
-.card {
+.query {
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.card:hover {
+.query:hover {
   transform: scale(1.05);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -99,4 +99,18 @@ body {
     -1px 1px 0 #000,
     1px 1px 0 #000,
     3px 3px 8px rgba(0, 0, 0, 0.9); /* Increase text shadow on hover */
+}
+
+.card-body{
+  padding: 20px;
+  text-align: center;
+}
+
+.card-subtitle{
+  margin-bottom: 10px;
+}
+
+.card-divider{
+  border-top: 1px solid #333;
+  margin: 10px 0;
 }

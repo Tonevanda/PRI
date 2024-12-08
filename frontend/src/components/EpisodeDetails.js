@@ -1,10 +1,13 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate, useLocation } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 function EpisodeDetails() {
     const { episode_id } = useParams();
     const [episode, setEpisode] = useState(null);
+    const navigate = useNavigate();
+    const location = useLocation();
 
     useEffect(() => {
         const fetchEpisode = async () => {
@@ -29,18 +32,39 @@ function EpisodeDetails() {
         [episode_id]
     );
 
+    useEffect(() => {
+        if (episode) {
+            document.title = `Episode ${episode.Episode} | One Search`;
+        }
+        else {
+            document.title = 'One Search';
+        }
+    },
+        [episode]
+    );
+
     if (!episode) {
         return <div>Loading Episode Details...</div>;
     }
 
+    const handleBackClick = () => {
+        navigate('/', { state: { results: location.state?.results } });
+    }
+
     return (
-        <div className="card mb-3" style={{ cursor: 'pointer' }}>
-            <div className='card-body'>
-                <h5 className="card-title">{episode.Title}</h5>
-                <h6 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h6>
-                <p className="card-text">
-                    {`${episode.Summary.substring(0, 100)}...`}
-                </p>
+        <div className="d-flex justify-content-center align-items-start" style={{ minHeight: '100vh', padding: '20px' }}>
+            <div className="card" style={{ width: '80%', maxHeight: '90vh', overflowY: 'auto' }}>
+                <div className='card-body'>
+                    <div className="d-flex justify-content-start">
+                        <i className="fas fa-arrow-left" style={{ cursor: 'pointer' }} onClick={handleBackClick}></i>
+                    </div>
+                    <h5 className="card-title">{episode.Title}</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h6>
+                    <div className="card-divider"></div>
+                    <p className="card-text">
+                        {episode.Summary}
+                    </p>
+                </div>
             </div>
         </div>
     );

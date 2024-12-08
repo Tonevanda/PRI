@@ -1,14 +1,23 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import QueryResult from './QueryResult.js';
 import SearchBar from './SearchBar.js';
 import Pagination from './Pagination.js';
 
 function MainPage() {
+    const location = useLocation();
     const [inputValue, setInputValue] = useState('');
-    const [results, setResults] = useState([]);
+    const [results, setResults] = useState(location.state?.results || []);
     const [currentPage, setCurrentPage] = useState(1);
     const resultsPerPage = 5;
+
+    useEffect(() => {
+        if (location.state?.results) {
+            setResults(location.state.results);
+        }
+    }, [location.state]);
+
 
     const handleInputChange = (event) => {
         setInputValue(event.target.value);
@@ -70,7 +79,7 @@ function MainPage() {
             {/* Prints the results received from the server */}
             <div className="query-list">
                 {currentResults.map((result, index) => (
-                    <QueryResult key={index} query={result} />
+                    <QueryResult key={index} query={result} results={results} />
                 ))}
             </div>
 
