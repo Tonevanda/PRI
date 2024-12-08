@@ -43,13 +43,23 @@ body {
   padding-left: 55px;
 }
 
-.input-icon {
+.input-icon-left {
   position: absolute;
   left: 15px;
   top: 50%;
   transform: translateY(-50%);
   color: #aaa;
   pointer-events: none;
+  z-index: 1;
+}
+
+.input-icon-right {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #aaa;
+  cursor: pointer;
 }
 
 .App{
