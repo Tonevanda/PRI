@@ -9,7 +9,7 @@ function MainPage() {
     const location = useLocation();
     const [inputValue, setInputValue] = useState('');
     const [results, setResults] = useState(location.state?.results || []);
-    const [currentPage, setCurrentPage] = useState(1);
+    const [currentPage, setCurrentPage] = useState(location.state?.currentPage || 1);
     const resultsPerPage = 5;
 
     useEffect(() => {
@@ -19,6 +19,7 @@ function MainPage() {
         if (location.state?.currentPage) {
             setCurrentPage(location.state.currentPage);
         }
+        document.title = 'One Search';
     }, [location.state]);
 
 
