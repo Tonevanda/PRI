@@ -44,7 +44,14 @@ function EpisodeDetails() {
     );
 
     if (!episode) {
-        return <div>Loading Episode Details...</div>;
+        return (
+            <div className="loading-overlay">
+                <div className="spinner-border text-primary" role="status">
+                    <span className="sr-only">Loading...</span>
+                </div>
+                <div className="loading-text">Loading Episode Details...</div>
+            </div>
+        );
     }
 
     const handleBackClick = () => {
