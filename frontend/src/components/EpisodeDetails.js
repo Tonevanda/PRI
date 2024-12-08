@@ -64,8 +64,8 @@ function EpisodeDetails() {
                     <div className="d-flex justify-content-start">
                         <i className="fas fa-arrow-left" style={{ cursor: 'pointer' }} onClick={handleBackClick}></i>
                     </div>
-                    <h3 className="card-title">{episode.Title}</h3>
-                    <h5 className="card-subtitle mb-2 text-muted">Episode {episode.Episode}</h5>
+                    <h3 className="card-title detail-title">{episode.Title}</h3>
+                    <h5 className="card-subtitle mb-2 text-muted detail-subtitle">Episode {episode.Episode}</h5>
                     <div className="card-divider"></div>
                     <div className="extra-info" style={{ textAlign: 'left' }}>
                         <p><strong>Season:</strong> {episode.Season}</p>
@@ -75,16 +75,16 @@ function EpisodeDetails() {
                         <p><strong>Air Date:</strong> {formatDate(episode.airdate)}</p>
                     </div>
                     <div className="card-divider"></div>
-                    <div className="episode-summary-title" style={{ textAlign: 'center' }}>
+                    <div className="episode-summary-title">
                         <h3>Episode Summary</h3>
                     </div>
-                    <div className="episode-summary-text" style={{ textAlign: 'left' }}>
+                    <div className="episode-summary-text">
                         <p className="card-text">
                             {episode.Summary}
                         </p>
                     </div>
                     <div className="card-divider"></div>
-                    <div className="anime-notes" style={{ textAlign: 'left' }}>
+                    <div className="anime-notes">
                         <p><strong>Anime Notes:</strong> {episode.anime_notes}</p>
                     </div>
                 </div>
