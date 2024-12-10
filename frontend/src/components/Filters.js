@@ -4,11 +4,30 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Filters({ initialFilters, onFiltersChange }) {
     const [selectedArcs, setSelectedArcs] = useState(initialFilters.arcs || []);
     const [selectedSagas, setSelectedSagas] = useState(initialFilters.sagas || []);
+    const [uniqueArcs, setUniqueArcs] = useState([]);
+    const [uniqueSagas, setUniqueSagas] = useState([]);
 
     useEffect(() => {
         setSelectedArcs(initialFilters.arcs || []);
         setSelectedSagas(initialFilters.sagas || []);
     }, [initialFilters]);
+
+    useEffect(() => {
+        const fetchUniqueValues = async () => {
+            try {
+                const response = await fetch('http://localhost:8000/get-unique-values/');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const data = await response.json();
+                setUniqueArcs(data.arcs);
+                setUniqueSagas(data.sagas);
+            } catch (error) {
+                console.error('Error fetching unique values:', error);
+            }
+        }
+        fetchUniqueValues();
+    }, []);
 
     const handleArcChange = (event) => {
         const { value, checked } = event.target;
@@ -32,77 +51,35 @@ function Filters({ initialFilters, onFiltersChange }) {
         <div className="filters">
             <div className="form-group">
                 <label htmlFor="arc">Select Arc</label>
-                <div className="form-check">
-                    <input
-                        className="form-check-input"
-                        type="checkbox"
-                        value="Romance Dawn"
-                        id="romanceDawn"
-                        onChange={handleArcChange}
-                        checked={selectedArcs.includes("Romance Dawn")}
-                    />
-                    <label className="form-check-label" htmlFor="romanceDawn">Romance Dawn</label>
-                </div>
-                <div className="form-check">
-                    <input
-                        className="form-check-input"
-                        type="checkbox"
-                        value="Orange Town"
-                        id="orangeTown"
-                        onChange={handleArcChange}
-                        checked={selectedArcs.includes("Orange Town")}
-                    />
-                    <label className="form-check-label" htmlFor="orangeTown">Orange Town</label>
-                </div>
-                <div className="form-check">
-                    <input
-                        className="form-check-input"
-                        type="checkbox"
-                        value="Syrup Village"
-                        id="syrupVillage"
-                        onChange={handleArcChange}
-                        checked={selectedArcs.includes("Syrup Village")}
-                    />
-                    <label className="form-check-label" htmlFor="syrupVillage">Syrup Village</label>
-                </div>
+                {uniqueArcs.map((arc) => (
+                    <div className="form-check" key={arc}>
+                        <input
+                            className="form-check-input"
+                            type="checkbox"
+                            value={arc}
+                            id={arc}
+                            onChange={handleArcChange}
+                            checked={selectedArcs.includes(arc)}
+                        />
+                        <label className="form-check-label" htmlFor={arc}>{arc}</label>
+                    </div>
+                ))}
             </div>
             <div className="form-group">
                 <label htmlFor="saga">Select Saga</label>
-                <div id="saga">
-                    <div className="form-check">
+                {uniqueSagas.map((saga) => (
+                    <div className="form-check" key={saga}>
                         <input
                             className="form-check-input"
                             type="checkbox"
-                            value="East Blue"
-                            id="eastBlue"
+                            value={saga}
+                            id={saga}
                             onChange={handleSagaChange}
-                            checked={selectedSagas.includes("East Blue")}
+                            checked={selectedSagas.includes(saga)}
                         />
-                        <label className="form-check-label" htmlFor="eastBlue">East Blue</label>
+                        <label className="form-check-label" htmlFor={saga}>{saga}</label>
                     </div>
-                    <div className="form-check">
-                        <input
-                            className="form-check-input"
-                            type="checkbox"
-                            value="Alabasta"
-                            id="alabasta"
-                            onChange={handleSagaChange}
-                            checked={selectedSagas.includes("Alabasta")}
-                        />
-                        <label className="form-check-label" htmlFor="alabasta">Alabasta</label>
-                    </div>
-                    <div className="form-check">
-                        <input
-                            className="form-check-input"
-                            type="checkbox"
-                            value="Sky Island"
-                            id="skyIsland"
-                            onChange={handleSagaChange}
-                            checked={selectedSagas.includes("Sky Island")}
-                        />
-                        <label className="form-check-label" htmlFor="skyIsland">Sky Island</label>
-                    </div>
-                </div>
+                ))}
             </div>
         </div>
     );

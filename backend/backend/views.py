@@ -1,6 +1,22 @@
 from django.http import JsonResponse
 import requests
+import pandas as pd
 from sentence_transformers import SentenceTransformer
+
+def get_unique_values(request):
+    try:
+        # Read the CSV file
+        df = pd.read_csv('./project/data/data.csv')
+
+        # Extract unique values for arcs and sagas
+        unique_arcs = df['Arc'].dropna().unique().tolist()
+        unique_sagas = df['Saga'].dropna().unique().tolist()
+
+        # Return the unique values as a JSON response
+        return JsonResponse({'arcs': unique_arcs, 'sagas': unique_sagas})
+    except Exception as e:
+        print(f"Error reading CSV file: {e}")
+        return JsonResponse({'error': str(e)}, status=500)
 
 def text_to_embedding(text):
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -11,12 +27,6 @@ def text_to_embedding(text):
     return embedding_str
 
 def build_filter_query(filters):
-    """
-    Build a Solr filter query (fq) from a dictionary of filters.
-    Each key in the dictionary represents a field, and the value is a list of values for that field.
-    Between fields of same key, the values are OR'd. Between different keys, the values are AND'd.
-    """
-
     fq_list = []
     for field, values in filters.items():
         
