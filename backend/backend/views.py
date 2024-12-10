@@ -41,7 +41,10 @@ def search(request):
         }
         solr_params = {
             "q": query,
+            "rq": f"{{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=1}}",
+            "rqq": f"{{!knn f=vector topK=10}}{embedding}",
             "useParams": "params",
+            "fl": "score, *",
             "wt": "json"
         }
 
@@ -52,5 +55,11 @@ def search(request):
         print(f"Error querying Solr: {e}")
 
 
+    embeddingsJson = JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
+    responseJson = JsonResponse(response_params.json()['response']['docs'], safe=False)
+
+
+
+
     # Process the query and generate results
-    return JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
+    return responseJson
