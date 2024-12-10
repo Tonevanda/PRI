@@ -60,7 +60,6 @@ def search(request):
     arcs = request.GET.get("arcs", '')
     sagas = request.GET.get("sagas", '')
     filter_query = build_filter_query({"Arc": arcs.split(','), "Saga": sagas.split(',')})
-    print("Filter query:", filter_query)
     print(f"GET request for search: {query}, arcs: {arcs}, sagas: {sagas}")
     embedding = text_to_embedding(query)
     try:
