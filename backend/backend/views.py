@@ -10,6 +10,22 @@ def text_to_embedding(text):
     embedding_str = "[" + ",".join(map(str, embedding)) + "]"
     return embedding_str
 
+def build_filter_query(filters):
+    """
+    Build a Solr filter query (fq) from a dictionary of filters.
+    Each key in the dictionary represents a field, and the value is a list of values for that field.
+    Between fields of same key, the values are OR'd. Between different keys, the values are AND'd.
+    """
+
+    fq_list = []
+    for field, values in filters.items():
+        
+        field_filter = " OR ".join([f'{field}:"{value}"' for value in values])
+        fq_list.append(f"({field_filter})")
+    
+    combined_fq = " AND ".join(fq_list)
+    return combined_fq
+
 def episode(request, episode_id):
     print(f"GET request for Episode {episode_id}")
     try:
@@ -31,13 +47,18 @@ def episode(request, episode_id):
 
 def search(request):
     query = request.GET.get("query", '')
-    print(f"GET request for search: {query}")
+    arcs = request.GET.get("arcs", '')
+    sagas = request.GET.get("sagas", '')
+    filter_query = build_filter_query({"Arc": arcs.split(','), "Saga": sagas.split(',')})
+    print("Filter query:", filter_query)
+    print(f"GET request for search: {query}, arcs: {arcs}, sagas: {sagas}")
     embedding = text_to_embedding(query)
     try:
         solr_data = {
             "q": f"{{!knn f=vector topK=10}}{embedding}",
             "fl": "score, *",
-            "wt": "json"
+            "wt": "json",
+            "fq": filter_query
         }
         solr_params = {
             "q": query,

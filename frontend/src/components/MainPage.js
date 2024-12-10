@@ -27,11 +27,9 @@ function MainPage() {
         setInputValue(event.target.value);
     };
 
-    const handleSearch = async (event) => {
-        event.preventDefault();
-
+    const handleSearch = async (queryParams) => {
         try {
-            const response = await fetch(`http://localhost:8000/search?query=${inputValue}`);
+            const response = await fetch(`http://localhost:8000/search?${queryParams}`);
             if (!response.ok) {
                 throw new Error('Network response was not ok');
             }
