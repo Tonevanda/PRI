@@ -9,7 +9,15 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 def get_embedding(text):
     # The model.encode() method already returns a list of floats
     return model.encode(text, convert_to_tensor=False).tolist()
+def truncate_text(text, max_words=256):
+    words = text.split()
+    truncated_words = words[:max_words]
+    return ' '.join(truncated_words)
 
+def process_text_in_chunks(text, max_words=256):
+    words = text.split()
+    chunks = [words[i:i + max_words] for i in range(0, len(words), max_words)]
+    return [' '.join(chunk) for chunk in chunks]
 if __name__ == "__main__":
 
     csv_file = '../../data/data.csv'  # Replace with your CSV file path
@@ -33,8 +41,17 @@ if __name__ == "__main__":
         anime_notes = document.get("anime notes")
         episode_script = document.get("episode script")
 
-        combined_text = title + " " + season + " " + arc + " " + saga + " " + summary + " " + anime_notes + " " + episode_script
-        document["vector"] = get_embedding(combined_text)
+        combined_text = f"{title} {season} {arc} {saga} {summary} {anime_notes} {episode_script}"
+        text_chunks = process_text_in_chunks(combined_text, max_words=256)
+
+        # Initialize an empty list to store the combined embeddings
+        combined_embeddings = []
+
+        for chunk in text_chunks:
+            embedding = get_embedding(chunk)
+            combined_embeddings.extend(embedding)
+
+        document["vector"] = combined_embeddings
 
     # Output updated JSON to STDOUT
     with open(json_file, mode='w', encoding='utf-8') as file:
