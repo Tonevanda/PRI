@@ -17,6 +17,8 @@ sleep 5
 # Update synonyms.txt
 docker cp ./project/data/synonyms.txt onepiece_solr:/var/solr/data/episodes/conf/synonyms.txt
 
+docker cp ./project/data/synonyms.txt onepiece_solr:/var/solr/data/m2_episodes/conf/synonyms.txt
+
 # Schema definition via API
 curl -X POST -H 'Content-type:application/json' \
     --data-binary "@./project/data/schema.json" \

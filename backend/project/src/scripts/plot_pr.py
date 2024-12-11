@@ -58,19 +58,20 @@ def plot_pr_curve(qrels_file, def_qrels_file, m2_qrels_file, output_file):
         linewidth=1,
     )
     plt.plot(
-        def_recall_levels,
-        def_interpolated_precision,
-        drawstyle="steps-post",
-        label=f"Def AvP: {def_map_score:.4f}, AUC: {def_auc_score:.4f}",
-        linewidth=1,
-    )
-    plt.plot(
         m2_recall_levels,
         m2_interpolated_precision,
         drawstyle="steps-post",
         label=f"M2 AvP: {m2_map_score:.4f}, AUC: {m2_auc_score:.4f}",
         linewidth=1,
     )
+    plt.plot(
+        def_recall_levels,
+        def_interpolated_precision,
+        drawstyle="steps-post",
+        label=f"Def AvP: {def_map_score:.4f}, AUC: {def_auc_score:.4f}",
+        linewidth=1,
+    )
+    
 
     plt.xlabel("Recall")
     plt.ylabel("Precision")
