@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, useNavigate, useLocation } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import LoadingOverlay from "./LoadingOverlay";
 
 function EpisodeDetails() {
     const { episode_id } = useParams();
@@ -43,16 +44,6 @@ function EpisodeDetails() {
         [episode]
     );
 
-    if (!episode) {
-        return (
-            <div className="loading-overlay">
-                <div className="spinner-border text-primary" role="status">
-                    <span className="sr-only">Loading...</span>
-                </div>
-                <div className="loading-text">Loading Episode Details...</div>
-            </div>
-        );
-    }
 
     const handleBackClick = () => {
         navigate('/', { state: { results: location.state?.results, currentPage: location.state?.currentPage } });
@@ -64,6 +55,12 @@ function EpisodeDetails() {
         return date.toLocaleDateString('en-GB', options);
     };
 
+    // If the episode is not loaded yet, display a loading overlay
+    if (!episode) {
+        return <LoadingOverlay />;
+    }
+
+    // If the episode is loaded, display the episode details
     return (
         <div className="d-flex justify-content-center align-items-start" style={{ minHeight: '100vh', padding: '20px' }}>
             <div className="card" style={{ width: '90%' }}>
