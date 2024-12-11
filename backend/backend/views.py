@@ -62,6 +62,7 @@ def search(request):
     filter_query = build_filter_query({"Arc": arcs.split(','), "Saga": sagas.split(',')})
     print(f"GET request for search: {query}, arcs: {arcs}, sagas: {sagas}")
     embedding = text_to_embedding(query)
+
     try:
         solr_data = {
             "q": f"{{!knn f=vector topK=10}}{embedding}",
@@ -71,16 +72,27 @@ def search(request):
         }
         solr_params = {
             "q": query,
+            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
+            "rqq": f"{{!knn f=vector topK=10}}{embedding}",
             "useParams": "params",
+            "fl": "score, *",
             "wt": "json"
         }
 
         url = "http://localhost:8983/solr/episodes/select"
         response_embeddings = requests.post(url=url, data=solr_data, headers={"Content-Type": "application/x-www-form-urlencoded"})
-        response_params = requests.post(url=url, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        response_params = requests.post(url=url, data=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+
+        embeddingsJson = JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
+        responseJson = JsonResponse(response_params.json()['response']['docs'], safe=False)
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
 
 
+    
+
+
+
+
     # Process the query and generate results
-    return JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
+    return responseJson
