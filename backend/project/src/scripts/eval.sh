@@ -4,4 +4,4 @@ rm -rf qrels
 mkdir diagrams
 mkdir results
 mkdir qrels
-python ../src/scripts/pipeline.py --query ./query.json
+python pipeline.py --query ./query.json

@@ -2,7 +2,15 @@ import argparse
 import sys
 import subprocess
 import json
+from sentence_transformers import SentenceTransformer
 
+def text_to_embedding(text):
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    embedding = model.encode(text, convert_to_tensor=False).tolist()
+    
+    # Convert the embedding to the expected format
+    embedding_str = "[" + ",".join(map(str, embedding)) + "]"
+    return embedding_str
 
 
 def feedForward(query_file):
@@ -15,9 +23,15 @@ def feedForward(query_file):
 
     for query_name, params in query_json.items():
         params['q'] = params['q'].replace('"', '\\"')
+
+        if(not query_name.startswith("m2") and not query_name.startswith("def")):
+            print(f"Running query: {query_name}")
+            embedding = text_to_embedding(params['q'])
+            params['rqq'] = f"{{!knn f=vector topK=10}}{embedding}"
+        
         command = (
-            f"python ../src/scripts/query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr |"
-            f"python ../src/scripts/solr2trec.py > ./results/{query_name}.txt"
+            f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr |"
+            f"python solr2trec.py > ./results/{query_name}.txt"
         )
         subprocess.run(command, shell=True, check=True)
         
@@ -25,7 +39,7 @@ def feedForward(query_file):
 
 
         command = (
-            f"python ../src/scripts/qrels2trec.py --qrels {qrel_str} > ./qrels/{query_name}.txt"
+            f"python qrels2trec.py --qrels {qrel_str} > ./qrels/{query_name}.txt"
         )
 
         subprocess.run(command, shell=True, check=True)
@@ -35,7 +49,7 @@ def feedForward(query_file):
 
         command = (
             f"cat ./results/{query_name}.txt |"
-            f"python ../src/scripts/plot_pr.py --qrels ./qrels/{query_name}.txt --output ./diagrams/{query_name}.png"
+            f"python plot_pr.py --qrels ./qrels/{query_name}.txt --output ./diagrams/{query_name}.png"
         )
 
         subprocess.run(command, shell=True, check=True)
