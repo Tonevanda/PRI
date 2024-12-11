@@ -4,12 +4,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import QueryResult from './QueryResult.js';
 import SearchBar from './SearchBar.js';
 import Pagination from './Pagination.js';
+import Warning from './Warning.js';
 
 function MainPage() {
     const location = useLocation();
     const [inputValue, setInputValue] = useState('');
     const [results, setResults] = useState(location.state?.results || []);
     const [currentPage, setCurrentPage] = useState(location.state?.currentPage || 1);
+    const [showWarning, setShowWarning] = useState(false);
     const resultsPerPage = 5;
 
     useEffect(() => {
@@ -40,6 +42,7 @@ function MainPage() {
             const data = await response.json();
             setResults(data);
             setCurrentPage(1); // Reset to the first page on new search
+            setShowWarning(data.length === 0);
         } catch (error) {
             console.error('There was a problem with the fetch operation:', error);
         }
@@ -49,11 +52,16 @@ function MainPage() {
         setInputValue('');
         setResults([]);
         setCurrentPage(1);
+        setShowWarning(false);
     };
 
     const handlePageChange = (pageNumber) => {
         setCurrentPage(pageNumber);
     };
+
+    const handleCloseWarning = () => {
+        setShowWarning(false);
+    }
 
     // Calculate the results to display on the current page
     const indexOfLastResult = currentPage * resultsPerPage;
@@ -77,6 +85,11 @@ function MainPage() {
                 handleInputChange={handleInputChange}
                 handleSearch={handleSearch}
             />
+
+            {/* Warning message when no results are found */}
+            {showWarning && (
+                <Warning handleCloseWarning={handleCloseWarning} />
+            )}
 
             {/* Prints the results received from the server */}
             <div className="query-list">
