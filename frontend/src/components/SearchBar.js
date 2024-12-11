@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Filters from './Filters';
 
 function SearchBar({ inputValue, handleInputChange, handleSearch }) {
     const [showFilters, setShowFilters] = useState(false);
     const [filters, setFilters] = useState({ arcs: [], sagas: [] });
+    const modalRef = useRef(null);
 
     const handleFilterClick = () => {
         setShowFilters(!showFilters);
@@ -28,6 +29,24 @@ function SearchBar({ inputValue, handleInputChange, handleSearch }) {
         handleSearch(queryParams);
     }
 
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (modalRef.current && !modalRef.current.contains(event.target)) {
+                handleClose();
+            }
+        };
+
+        if (showFilters) {
+            document.addEventListener('mousedown', handleClickOutside);
+        } else {
+            document.removeEventListener('mousedown', handleClickOutside);
+        }
+
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, [showFilters]);
+
     return (
         <div className='mb-3 w-50'>
             <form onSubmit={handleSearchWithFilters} className="w-100">
@@ -50,7 +69,7 @@ function SearchBar({ inputValue, handleInputChange, handleSearch }) {
             {showFilters && (
                 <div className="modal show d-block" tabIndex="-1" role="dialog">
                     <div className="modal-dialog" role="document">
-                        <div className="modal-content">
+                        <div className="modal-content" ref={modalRef}>
                             <div className="modal-header">
                                 <h5 className="modal-title">Filters</h5>
                             </div>

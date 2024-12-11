@@ -170,3 +170,41 @@ body {
   margin-left: 10px;
   font-size: 1.5rem;
 }
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.filters-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-group {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.form-group:last-child {
+  margin-right: 0;
+}
+
+.modal-content{
+  background-color: #f9dcbd;
+}
+
+.modal-header{
+  justify-content: center;
+  border-bottom: 2px solid #333;
+}
+
+.modal-title{
+  font-size: 2.5rem;
+}
+
+.modal-body{
+  border-bottom: 2px solid #333;
+}

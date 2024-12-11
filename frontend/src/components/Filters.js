@@ -48,25 +48,9 @@ function Filters({ initialFilters, onFiltersChange }) {
     };
 
     return (
-        <div className="filters">
+        <div className="filters-container">
             <div className="form-group">
-                <label htmlFor="arc">Select Arc</label>
-                {uniqueArcs.map((arc) => (
-                    <div className="form-check" key={arc}>
-                        <input
-                            className="form-check-input"
-                            type="checkbox"
-                            value={arc}
-                            id={arc}
-                            onChange={handleArcChange}
-                            checked={selectedArcs.includes(arc)}
-                        />
-                        <label className="form-check-label" htmlFor={arc}>{arc}</label>
-                    </div>
-                ))}
-            </div>
-            <div className="form-group">
-                <label htmlFor="saga">Select Saga</label>
+                <label htmlFor="saga" className="section-title">Select Saga</label>
                 {uniqueSagas.map((saga) => (
                     <div className="form-check" key={saga}>
                         <input
@@ -78,6 +62,22 @@ function Filters({ initialFilters, onFiltersChange }) {
                             checked={selectedSagas.includes(saga)}
                         />
                         <label className="form-check-label" htmlFor={saga}>{saga}</label>
+                    </div>
+                ))}
+            </div>
+            <div className="form-group">
+                <label htmlFor="arc" className="section-title">Select Arc</label>
+                {uniqueArcs.map((arc) => (
+                    <div className="form-check" key={arc}>
+                        <input
+                            className="form-check-input"
+                            type="checkbox"
+                            value={arc}
+                            id={arc}
+                            onChange={handleArcChange}
+                            checked={selectedArcs.includes(arc)}
+                        />
+                        <label className="form-check-label" htmlFor={arc}>{arc}</label>
                     </div>
                 ))}
             </div>
