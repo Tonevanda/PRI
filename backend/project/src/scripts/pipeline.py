@@ -25,7 +25,7 @@ def feedForward(query_file):
         params['q'] = params['q'].replace('"', '\\"')
 
         if(not query_name.startswith("m2") and not query_name.startswith("def")):
-            print(f"Running query: {query_name}")
+            #print(f"Running query: {query_name}")
             embedding = text_to_embedding(params['q'])
             params['rqq'] = f"{{!knn f=vector topK=10}}{embedding}"
         
@@ -45,18 +45,20 @@ def feedForward(query_file):
         subprocess.run(command, shell=True, check=True)
 
 
+        
+def plot_pr_curve():
+    queries = [
+        "sh_childhood",
+        "luffy_fight",
+        "bounty",
+        "ancient_weapon"
+    ]
 
-
+    for query in queries:
         command = (
-            f"cat ./results/{query_name}.txt |"
-            f"python plot_pr.py --qrels ./qrels/{query_name}.txt --output ./diagrams/{query_name}.png"
+            f"python plot_pr.py --qrels ./qrels/{query}.txt --def_qrels ./qrels/def_{query}.txt --m2_qrels ./qrels/m2_{query}.txt --output ./diagrams/{query}.png"
         )
-
         subprocess.run(command, shell=True, check=True)
-
-
-        
-        
 
 
 
@@ -76,3 +78,4 @@ if __name__ == "__main__":
 
 
     feedForward(args.query)
+    plot_pr_curve()
