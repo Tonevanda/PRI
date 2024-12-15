@@ -1,7 +1,6 @@
 {
     "bounty": {
         "q": "straw hat pirates bounty raised",
-        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=30000}",
         "collection": "episodes",
         "useParams": "params",
         "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
@@ -22,8 +21,6 @@
 
     "sh_childhood":{
         "q": "straw hat pirates childhood east blue saga",
-        "filter": "-_nest_path_:*",
-        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
         "collection": "episodes",
         "useParams": "params",
         "qrel": [4, 19, 26, 17, 35, 36, 34]
@@ -44,8 +41,6 @@
 
     "luffy_fight": {
         "q": "luffy duels straw hat pirates",
-        "filter": "-_nest_path_:*",
-        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
         "collection": "episodes",
         "useParams": "params",
         "qrel": [66, 808, 236]
@@ -66,8 +61,6 @@
 
     "ancient_weapon": {
         "q": "ancient weapon explained",
-        "filter": "-_nest_path_:*",
-        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
         "collection": "episodes",
         "useParams": "params",
         "qrel": [243, 118, 1082, 1080, 546, 569]
