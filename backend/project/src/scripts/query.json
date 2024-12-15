@@ -1,7 +1,7 @@
 {
     "bounty": {
         "q": "straw hat pirates bounty raised",
-        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=300000000000}",
+        "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=30000}",
         "collection": "episodes",
         "useParams": "params",
         "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]

@@ -72,8 +72,8 @@ def search(request):
         }
         solr_params = {
             "q": query,
-            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
-            "rqq": f"{{!parent which=\"Summary:*\"}}{{!knn f=vector topK=100}}{embedding}",
+            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=30000}",
+            "rqq": f"{{!parent which=\"*:* -_nest_path_:*\" score=max}}{{!knn f=vector topK=100}}{embedding}",
             "useParams": "params",
             "fl": "score, *",
             "wt": "json"

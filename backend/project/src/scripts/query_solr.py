@@ -38,7 +38,7 @@ def fetch_solr_results(query, collection, params, solr_uri):
             "useParams": params,
         }
 
-        response = requests.post(uri, params=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        response = requests.post(uri, data=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
         response.raise_for_status()  # Raise error if the request failed
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
