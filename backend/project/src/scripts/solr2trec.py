@@ -48,6 +48,7 @@ if __name__ == "__main__":
     # Parse command-line arguments
     args = parser.parse_args()
 
+    
     # Load Solr response from STDIN
     solr_response = json.load(sys.stdin)
 

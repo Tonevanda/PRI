@@ -46,14 +46,14 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
         # Send the POST request to Solr
 
         if rqq is None:
-            print("\n   rqq is empty\n")
+            #print("\n   rqq is empty\n")
             solr_params = {
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params
             }
         else:
-            print("\n   rqq is not empty\n")
+            #print("\n   rqq is not empty\n")
             solr_params = {
                 "q": query,
                 "fl": "id, Episode, score",
@@ -112,6 +112,7 @@ if __name__ == "__main__":
     )
     # Parse command-line arguments
     args = parser.parse_args()
+    #print(args)
 
     # Call the function with parsed arguments
     fetch_solr_results(args.query, args.collection, args.useParams, args.uri, args.useRqq)

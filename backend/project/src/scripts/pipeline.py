@@ -27,6 +27,7 @@ def feedForward(query_file):
         if(not query_name.startswith("m2") and not query_name.startswith("def")):
             rqq = "True"
 
+        print(rqq)
         command = (
             f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr --useRqq {rqq} |"
             f"python solr2trec.py > ./results/{query_name}.txt"
