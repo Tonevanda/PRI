@@ -27,8 +27,7 @@ def process_text_phrase_by_phrase(text):
 if __name__ == "__main__":
 
     csv_file = '../../data/data.csv' 
-    #json_file = '../../data/data_embeddings.json' 
-    json_file = './data_embeddings.json'
+    json_file = '../../data/data_embeddings.json' 
 
     data = []
     with open(csv_file, mode='r', encoding='utf-8') as file:
