@@ -39,11 +39,13 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
     if(useRqq=="True"):
         embedding = text_to_embedding(query)
         rqq = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=100}' + str(embedding)
+    else:
+        rqq = None
 
     try:
         # Send the POST request to Solr
 
-        if(rqq == "False"):
+        if rqq is None:
             print("\n   rqq is empty\n")
             solr_params = {
                 "q": query,
@@ -108,7 +110,6 @@ if __name__ == "__main__":
         default="False",
         help="If we're meant to use the RQQ parameter.",
     )
-
     # Parse command-line arguments
     args = parser.parse_args()
 
