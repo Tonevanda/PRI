@@ -25,9 +25,8 @@ def feedForward(query_file):
         params['q'] = params['q'].replace('"', '\\"')
 
         if(not query_name.startswith("m2") and not query_name.startswith("def")):
-            #print(f"Running query: {query_name}")
             embedding = text_to_embedding(params['q'])
-            params['rqq'] = f"{{!knn f=vector topK=10}}{embedding}"
+            params['rqq'] = f"{{!parent which=\"-_nest_path_:*\" score=max}}{{!knn f=vector topK=100}}{embedding}",
         
         command = (
             f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr |"

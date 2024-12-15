@@ -73,7 +73,7 @@ def search(request):
         solr_params = {
             "q": query,
             "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=0.2}",
-            "rqq": f"{{!knn f=vector topK=10}}{embedding}",
+            "rqq": f"{{!parent which=\"Summary:*\"}}{{!knn f=vector topK=100}}{embedding}",
             "useParams": "params",
             "fl": "score, *",
             "wt": "json"
