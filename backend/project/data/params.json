@@ -5,7 +5,6 @@
             "defType": "edismax",
             "rows": 30,
             "qf": "Title^10 Arc^50 Saga^50 Summary^30 episode_script^10 anime_notes^15",
-            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=4}",
             "mm": "7<80% 10<60% 15<50%",
             "pf": "Summary^10 episode_script^5 anime_notes",
             "ps": 5,

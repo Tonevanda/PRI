@@ -58,6 +58,7 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params,
+                "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=90}",
                 "rqq": rqq
             }
 
