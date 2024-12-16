@@ -60,7 +60,7 @@ def fetch_solr_results(query, collection, params, solr_uri, mode):
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params,
-                "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
+                "rq": "{!rerank reRankQuery=$rqq reRankDocs=40 reRankWeight=95}",
                 "rqq": rqq
             }
         elif mode == "emb":
