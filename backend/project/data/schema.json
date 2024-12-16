@@ -55,7 +55,7 @@
             "name": "denseVector",
             "class": "solr.DenseVectorField",
             "vectorDimension": 384,
-            "similarityFunction": "cosine",
+            "similarityFunction": "dot_product",
             "knnAlgorithm": "hnsw",
             "hnswMaxConnections": 32,
             "hnswBeamWidth": 200
