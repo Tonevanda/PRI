@@ -69,6 +69,10 @@ def evaluate_results(metric):
         precision, recall, map_score, auc_score, recall_levels, interpolated_precision = calculate_precision_recall(y_true, y_pred)
         if metric == "MAP":
             query_metric += map_score
+        elif metric == "AUC":
+            query_metric += auc_score
+        elif metric == "MAP_AND_AUC":
+            query_metric += (map_score + auc_score) / 2
 
     return query_metric / len(queries)
     
@@ -91,7 +95,9 @@ topks = [520, 450]
 scores = ["avg", "max", "total"]
 reRankDocs = [30, 40]
 reRankWeights = [75, 95]
-metric = "MAP"
+metric = "MAP"   #AUC, MAP_AND_AUC
+
+
 
 
 best_result = 0
