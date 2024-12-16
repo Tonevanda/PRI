@@ -38,7 +38,7 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
 
     if(useRqq=="True"):
         embedding = text_to_embedding(query)
-        rqq = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=300}' + str(embedding)
+        rqq = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=400}' + str(embedding)
     else:
         rqq = None
 
@@ -58,7 +58,7 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params,
-                "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=90}",
+                "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
                 "rqq": rqq
             }
 
