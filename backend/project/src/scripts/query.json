@@ -17,6 +17,11 @@
         "useParams": "default_params",
         "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
     },
+    "emb_bounty":{
+        "q": "straw hat pirates bounty raised",
+        "collection": "episodes",
+        "qrel": [4, 19, 26, 17, 35, 36, 34]
+    },
 
 
     "sh_childhood":{
@@ -35,6 +40,11 @@
         "q": "straw hat pirates childhood east blue saga",
         "collection": "def_episodes",
         "useParams": "default_params",
+        "qrel": [4, 19, 26, 17, 35, 36, 34]
+    },
+    "emb_sh_childhood":{
+        "q": "straw hat pirates childhood east blue saga",
+        "collection": "episodes",
         "qrel": [4, 19, 26, 17, 35, 36, 34]
     },
 
@@ -57,6 +67,11 @@
         "useParams": "default_params",
         "qrel": [66, 808, 236]
     },
+    "emb_luffy_fight":{
+        "q": "luffy duels straw hat pirates",
+        "collection": "episodes",
+        "qrel": [4, 19, 26, 17, 35, 36, 34]
+    },
 
 
     "ancient_weapon": {
@@ -72,9 +87,14 @@
         "qrel": [243, 118, 1082, 1080, 546, 569]
     },
     "def_ancient_weapon": {
-        "q": "ancient weapon explain",
+        "q": "ancient weapon explained",
         "collection": "def_episodes",
         "useParams": "default_params",
         "qrel": [243, 118, 1082, 1080, 546, 569]
+    },
+    "emb_ancient_weapon":{
+        "q": "ancient weapon explained",
+        "collection": "episodes",
+        "qrel": [4, 19, 26, 17, 35, 36, 34]
     }
 }

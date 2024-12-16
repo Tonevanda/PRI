@@ -44,10 +44,7 @@ if __name__ == "__main__":
     for document in data:
         # Extract fields if they exist, otherwise default to empty strings
         summary = document.get("Summary", "")
-        arc = document.get("Arc", "")
-        saga = document.get("Saga", "")
         document["vectors"] = []
-        metadata = saga + arc
 
 
         # Generate embeddings phrase by phrase for Summary, Anime Notes, and Episode Script
@@ -55,7 +52,6 @@ if __name__ == "__main__":
 
         for phrase in summary_phrases:
             # Generate embeddings for each phrase
-            phrase = metadata + " " + phrase
             embedding = get_embedding(phrase)
             document["vectors"].append({
                 "vector": embedding

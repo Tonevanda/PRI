@@ -64,26 +64,20 @@ def search(request):
     embedding = text_to_embedding(query)
 
     try:
-        solr_data = {
-            "q": f"{{!knn f=vector topK=10}}{embedding}",
-            "fl": "score, *",
-            "wt": "json",
-            "fq": filter_query
-        }
         solr_params = {
             "q": query,
-            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=30000}",
-            "rqq": f"{{!parent which=\"*:* -_nest_path_:*\" score=max}}{{!knn f=vector topK=100}}{embedding}",
+            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
+            "rqq": f"{{!parent which=\"*:* -_nest_path_:*\" score=avg}}{{!knn f=vector topK=520}}{embedding}",
             "useParams": "params",
             "fl": "score, *",
             "wt": "json"
         }
 
         url = "http://localhost:8983/solr/episodes/select"
-        response_embeddings = requests.post(url=url, data=solr_data, headers={"Content-Type": "application/x-www-form-urlencoded"})
+        #response_embeddings = requests.post(url=url, data=solr_data, headers={"Content-Type": "application/x-www-form-urlencoded"})
         response_params = requests.post(url=url, data=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
 
-        embeddingsJson = JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
+        #embeddingsJson = JsonResponse(response_embeddings.json()['response']['docs'], safe=False)
         responseJson = JsonResponse(response_params.json()['response']['docs'], safe=False)
     except requests.RequestException as e:
         print(f"Error querying Solr: {e}")
