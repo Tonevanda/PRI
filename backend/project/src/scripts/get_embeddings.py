@@ -9,7 +9,10 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def get_embedding(text):
     # The model.encode() method already returns a list of floats
-    return model.encode(text, convert_to_tensor=False).tolist()
+
+    embedding = model.encode(text, convert_to_tensor=False, normalize_embeddings=True).tolist()
+    return embedding
+
 def truncate_text(text, max_words=256):
     words = text.split()
     truncated_words = words[:max_words]

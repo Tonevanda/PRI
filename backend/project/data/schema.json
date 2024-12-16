@@ -56,7 +56,9 @@
             "class": "solr.DenseVectorField",
             "vectorDimension": 384,
             "similarityFunction": "cosine",
-            "knnAlgorithm": "hnsw"
+            "knnAlgorithm": "hnsw",
+            "hnswMaxConnections": 32,
+            "hnswBeamWidth": 200
         }
 
     ],
@@ -131,7 +133,7 @@
             "name": "vector",
             "type": "denseVector",
             "indexed": true,
-            "stored": true
+            "stored": false
         }
 
     ]
