@@ -38,7 +38,7 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
 
     if(useRqq=="True"):
         embedding = text_to_embedding(query)
-        rqq = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=400}' + str(embedding)
+        rqq = '{!parent which=\"*:* -_nest_path_:*\" score=avg}{!knn f=vector topK=520}' + str(embedding)
     else:
         rqq = None
 
