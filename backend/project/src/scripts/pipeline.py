@@ -23,13 +23,15 @@ def feedForward(query_file):
 
     for query_name, params in query_json.items():
         params['q'] = params['q'].replace('"', '\\"')
-        rqq = "False"
-        if(not query_name.startswith("m2") and not query_name.startswith("def")):
-            rqq = "True"
+        mode = "rqq"
+        if query_name.startswith("m2") or query_name.startswith("def"):
+            mode = "par"
+        elif query_name.startswith("emb"):
+            mode = "emb"
+            params['useParams'] = "smth"
 
-        print(rqq)
         command = (
-            f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr --useRqq {rqq} |"
+            f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr --mode {mode} |"
             f"python solr2trec.py > ./results/{query_name}.txt"
         )
         subprocess.run(command, shell=True, check=True)
@@ -48,14 +50,14 @@ def feedForward(query_file):
 def plot_pr_curve():
     queries = [
         "sh_childhood",
-        "luffy_fight",
-        "bounty",
-        "ancient_weapon"
+        #"luffy_fight",
+        #"bounty",
+        #"ancient_weapon"
     ]
 
     for query in queries:
         command = (
-            f"python plot_pr.py --qrels ./qrels/{query}.txt --def_qrels ./qrels/def_{query}.txt --m2_qrels ./qrels/m2_{query}.txt --output ./diagrams/{query}.png"
+            f"python plot_pr.py --qrels ./qrels/{query}.txt --def_qrels ./qrels/def_{query}.txt --m2_qrels ./qrels/m2_{query}.txt --emb_qrels ./qrels/emb_{query}.txt --output ./diagrams/{query}.png"
         )
         subprocess.run(command, shell=True, check=True)
 

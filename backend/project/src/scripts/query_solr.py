@@ -19,7 +19,7 @@ def text_to_embedding(text):
     return embedding_str
 
 
-def fetch_solr_results(query, collection, params, solr_uri, useRqq):
+def fetch_solr_results(query, collection, params, solr_uri, mode):
     """
     Fetch search results from a Solr instance based on the query parameters.
 
@@ -27,7 +27,7 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
     - query_file: Path to the JSON file containing Solr query parameters.
     - solr_uri: URI of the Solr instance (e.g., http://localhost:8983/solr).
     - collection: Solr collection name from which results will be fetched.
-    - useRqq: If we're meant to use the RQQ parameter.
+    - mode: The mode to perform the request
 
     Output:
     - Prints the JSON search results to STDOUT.
@@ -36,29 +36,38 @@ def fetch_solr_results(query, collection, params, solr_uri, useRqq):
     # Construct the Solr request URL
     uri = f"{solr_uri}/{collection}/select"
 
-    if(useRqq=="True"):
+    if mode=="rqq":
         embedding = text_to_embedding(query)
         rqq = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=100}' + str(embedding)
-    else:
-        rqq = None
+    elif mode == "emb":
+        embedding = text_to_embedding(query)
+        new_query = '{!parent which=\"*:* -_nest_path_:*\" score=max}{!knn f=vector topK=100}' + str(embedding)
+
 
     try:
         # Send the POST request to Solr
 
-        if rqq is None:
+        if mode == "par":
             #print("\n   rqq is empty\n")
             solr_params = {
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params
             }
-        else:
+        elif mode == "rqq":
             #print("\n   rqq is not empty\n")
             solr_params = {
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params,
                 "rqq": rqq
+            }
+        elif mode == "emb":
+            solr_params = {
+                "q": new_query,
+                "fl": "id, Episode, score",
+                "rows": 30,
+                "wt": "json"
             }
 
         response = requests.post(uri, data=solr_params, headers={"Content-Type": "application/x-www-form-urlencoded"})
@@ -104,15 +113,15 @@ if __name__ == "__main__":
         help="The URI of the Solr instance (default: http://localhost:8983/solr).",
     )
     parser.add_argument(
-        "--useRqq",
+        "--mode",
         type=str,
         required=True,
-        default="False",
-        help="If we're meant to use the RQQ parameter.",
+        default="par",
+        help="The mode which the system performs the request to solr.",
     )
     # Parse command-line arguments
     args = parser.parse_args()
     #print(args)
 
     # Call the function with parsed arguments
-    fetch_solr_results(args.query, args.collection, args.useParams, args.uri, args.useRqq)
+    fetch_solr_results(args.query, args.collection, args.useParams, args.uri, args.mode)
