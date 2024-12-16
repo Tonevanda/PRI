@@ -13,7 +13,7 @@ def text_to_embedding(text):
     return embedding_str
 
 
-def feedForward(query_file):
+def feedForward(query_file, topk, score, reRankDocs, reRankWeight):
     # Load the query parameters from the JSON file
     try:
         query_json = json.load(open(query_file))
@@ -31,7 +31,7 @@ def feedForward(query_file):
             params['useParams'] = "smth"
 
         command = (
-            f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr --mode {mode} |"
+            f"python query_solr.py --query \"{params['q']}\" --collection {params['collection']} --useParams {params['useParams']} --uri http://localhost:8983/solr --mode {mode} --topk {topk} --score {score} --reRankDocs {reRankDocs} --reRankWeight {reRankWeight} |"
             f"python solr2trec.py > ./results/{query_name}.txt"
         )
         subprocess.run(command, shell=True, check=True)
@@ -74,9 +74,45 @@ if __name__ == "__main__":
         required=True,
         help="Path to the query json file",
     )
+    parser.add_argument(
+        "--topk",
+        type=str,
+        required=True,
+        default="None",
+        help="topk",
+    )
+    parser.add_argument(
+        "--score",
+        type=str,
+        required=True,
+        default="None",
+        help="score",
+    )
+    parser.add_argument(
+        "--reRankDocs",
+        type=str,
+        required=True,
+        default="None",
+        help="reRankDocs",
+    )
+    parser.add_argument(
+        "--reRankWeight",
+        type=str,
+        required=True,
+        default="None",
+        help="reRankWeight",
+    )
+    parser.add_argument(
+        "--gridSearch",
+        type=str,
+        required=True,
+        help="Path to the query json file",
+    )
     
     args = parser.parse_args()
 
 
-    feedForward(args.query)
-    plot_pr_curve()
+    feedForward(args.query, args.topk, args.score, args.reRankDocs, args.reRankWeight)
+    if(args.gridSearch == "False"):
+        plot_pr_curve()
+

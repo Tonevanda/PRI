@@ -19,7 +19,7 @@ def text_to_embedding(text):
     return embedding_str
 
 
-def fetch_solr_results(query, collection, params, solr_uri, mode):
+def fetch_solr_results(query, collection, params, solr_uri, mode, topk, score, reRankDocs, reRankWeight):
     """
     Fetch search results from a Solr instance based on the query parameters.
 
@@ -38,10 +38,10 @@ def fetch_solr_results(query, collection, params, solr_uri, mode):
 
     if mode=="rqq":
         embedding = text_to_embedding(query)
-        rqq = '{!parent which=\"*:* -_nest_path_:*\" score=avg}{!knn f=vector topK=520}' + str(embedding)
+        rqq = '{!parent which=\"*:* -_nest_path_:*\" score='+str(score)+'}{!knn f=vector topK='+str(topk)+'}' + str(embedding)
     elif mode == "emb":
         embedding = text_to_embedding(query)
-        new_query = '{!parent which=\"*:* -_nest_path_:*\" score=avg}{!knn f=vector topK=520}' + str(embedding)
+        new_query = '{!parent which=\"*:* -_nest_path_:*\" score='+str(score)+'}{!knn f=vector topK='+str(topk)+'}' + str(embedding)
 
 
     try:
@@ -60,7 +60,7 @@ def fetch_solr_results(query, collection, params, solr_uri, mode):
                 "q": query,
                 "fl": "id, Episode, score",
                 "useParams": params,
-                "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
+                "rq": "{!rerank reRankQuery=$rqq reRankDocs="+str(reRankDocs)+" reRankWeight="+str(reRankWeight)+"}",
                 "rqq": rqq
             }
         elif mode == "emb":
@@ -120,9 +120,37 @@ if __name__ == "__main__":
         default="par",
         help="The mode which the system performs the request to solr.",
     )
+    parser.add_argument(
+        "--topk",
+        type=str,
+        required=True,
+        default="None",
+        help="topk",
+    )
+    parser.add_argument(
+        "--score",
+        type=str,
+        required=True,
+        default="None",
+        help="score",
+    )
+    parser.add_argument(
+        "--reRankDocs",
+        type=str,
+        required=True,
+        default="None",
+        help="reRankDocs",
+    )
+    parser.add_argument(
+        "--reRankWeight",
+        type=str,
+        required=True,
+        default="None",
+        help="reRankWeight",
+    )
     # Parse command-line arguments
     args = parser.parse_args()
     #print(args)
 
     # Call the function with parsed arguments
-    fetch_solr_results(args.query, args.collection, args.useParams, args.uri, args.mode)
+    fetch_solr_results(args.query, args.collection, args.useParams, args.uri, args.mode, args.topk, args.score, args.reRankDocs, args.reRankWeight)
