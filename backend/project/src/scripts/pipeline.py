@@ -50,9 +50,9 @@ def feedForward(query_file):
 def plot_pr_curve():
     queries = [
         "sh_childhood",
-        #"luffy_fight",
-        #"bounty",
-        #"ancient_weapon"
+        "luffy_fight",
+        "bounty",
+        "ancient_weapon"
     ]
 
     for query in queries:
