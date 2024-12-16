@@ -18,7 +18,7 @@ def truncate_text(text, max_words=256):
     truncated_words = words[:max_words]
     return ' '.join(truncated_words)
 
-def process_text_in_chunks(text, max_words=256):
+def process_text_in_chunks(text, arcs, sagas, max_words=256):
     words = text.split()
     chunks = [words[i:i + max_words] for i in range(0, len(words), max_words)]
     return [' '.join(chunk) for chunk in chunks]
@@ -44,13 +44,18 @@ if __name__ == "__main__":
     for document in data:
         # Extract fields if they exist, otherwise default to empty strings
         summary = document.get("Summary", "")
+        arc = document.get("Arc", "")
+        saga = document.get("Saga", "")
         document["vectors"] = []
+        metadata = saga + arc
+
 
         # Generate embeddings phrase by phrase for Summary, Anime Notes, and Episode Script
         summary_phrases = process_text_phrase_by_phrase(summary)
 
         for phrase in summary_phrases:
             # Generate embeddings for each phrase
+            phrase = metadata + " " + phrase
             embedding = get_embedding(phrase)
             document["vectors"].append({
                 "vector": embedding
