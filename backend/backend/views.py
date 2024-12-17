@@ -66,7 +66,7 @@ def search(request):
     try:
         solr_params = {
             "q": query,
-            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
+            "rq": "{!rerank reRankQuery=$rqq reRankDocs=40 reRankWeight=95}",
             "rqq": f"{{!parent which=\"*:* -_nest_path_:*\" score=avg}}{{!knn f=vector topK=520}}{embedding}",
             "useParams": "params",
             "fl": "score, *",
