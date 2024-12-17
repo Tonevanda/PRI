@@ -96,14 +96,7 @@ def plot_pr_curve_all(qrels_file, def_qrels_file, m2_qrels_file, emb_qrels_file,
     emb_precision, emb_recall, emb_map_score, emb_auc_score, emb_recall_levels, emb_interpolated_precision = calculate_precision_recall(emb_y_true, emb_y_pred)
 
 
-    plt.xlabel("Recall")
-    plt.ylabel("Precision")
-    plt.xlim(0, 1)
-    plt.ylim(0, 1)
-    plt.legend(loc="lower left", prop={"size": 10})
-    plt.title("Precision-Recall Curve")
-    plt.savefig(output_file, format="png", dpi=300)
-    print(f"Precision-Recall plot saved to {output_file}")
+
 
     plt.plot(
         recall_levels,

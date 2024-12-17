@@ -1,26 +1,26 @@
 {
-    "bounty": {
-        "q": "straw hat pirates bounty raised",
-        "collection": "episodes",
-        "useParams": "params",
-        "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
-    },
-    "sh_childhood":{
+    "m2_sh_childhood":{
         "q": "straw hat pirates childhood east blue saga",
-        "collection": "episodes",
-        "useParams": "params",
+        "collection": "m2_episodes",
+        "useParams": "m2params",
         "qrel": [4, 19, 26, 17, 35, 36, 34]
     },
-    "luffy_fight": {
+    "m2_bounty": {
+        "q": "straw hat pirates bounty raised",
+        "collection": "m2_episodes",
+        "useParams": "m2params",
+        "qrel": [1080, 879, 521, 320, 45, 1086, 746, 128, 878]
+    },
+    "m2_luffy_fight": {
         "q": "luffy duels straw hat pirates",
-        "collection": "episodes",
-        "useParams": "params",
+        "collection": "m2_episodes",
+        "useParams": "m2params",
         "qrel": [66, 808, 236]
     },
-    "ancient_weapon": {
+    "m2_ancient_weapon": {
         "q": "ancient weapon explained",
-        "collection": "episodes",
-        "useParams": "params",
+        "collection": "m2_episodes",
+        "useParams": "m2params",
         "qrel": [243, 118, 1082, 1080, 546, 569]
-    }
+    },
 }
