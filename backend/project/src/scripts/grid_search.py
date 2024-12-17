@@ -97,11 +97,11 @@ reRankDocs = []
 reRankWeights = []
 metric = "MAP_AND_AUC"   #MAP, AUC, MAP_AND_AUC
 
-for i in range(90, 521, 5):
+for i in range(520, 521, 5):
     topks.append(i)
-for i in range(30, 81, 5):
+for i in range(40, 41, 5):
     reRankDocs.append(i)
-for i in range(60, 201, 5):
+for i in range(95, 96, 5):
     reRankWeights.append(i)
 
 
