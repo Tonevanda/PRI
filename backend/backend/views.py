@@ -27,6 +27,8 @@ def text_to_embedding(text):
     return embedding_str
 
 def build_filter_query(filters):
+    if filters["Arc"] == [''] and filters["Saga"] == ['']:
+        return ""
     fq_list = []
     for field, values in filters.items():
         
@@ -66,11 +68,12 @@ def search(request):
     try:
         solr_params = {
             "q": query,
-            "rq": "{!rerank reRankQuery=$rqq reRankDocs=30 reRankWeight=95}",
+            "rq": "{!rerank reRankQuery=$rqq reRankDocs=40 reRankWeight=95}",
             "rqq": f"{{!parent which=\"*:* -_nest_path_:*\" score=avg}}{{!knn f=vector topK=520}}{embedding}",
             "useParams": "params",
             "fl": "score, *",
-            "wt": "json"
+            "wt": "json",
+            "fq": filter_query
         }
 
         url = "http://localhost:8983/solr/episodes/select"

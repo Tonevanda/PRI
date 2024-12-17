@@ -4,4 +4,4 @@ rm -rf qrels
 mkdir diagrams
 mkdir results
 mkdir qrels
-python pipeline.py --query ./query.json --topk 520 --score avg --reRankDocs 30 --reRankWeight 95 --gridSearch False
+python pipeline.py --query ./query.json --topk 520 --score avg --reRankDocs 40 --reRankWeight 95 --gridSearch False
