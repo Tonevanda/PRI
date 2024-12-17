@@ -91,11 +91,18 @@ commands = [
 # Execute each command
 
 
-topks = [520, 450]
+topks = []
 scores = ["avg", "max", "total"]
-reRankDocs = [30, 40]
-reRankWeights = [75, 95]
-metric = "MAP"   #AUC, MAP_AND_AUC
+reRankDocs = []
+reRankWeights = []
+metric = "MAP_AND_AUC"   #MAP, AUC, MAP_AND_AUC
+
+for i in range(90, 521, 5):
+    topks.append(i)
+for i in range(30, 81, 5):
+    reRankDocs.append(i)
+for i in range(60, 201, 5):
+    reRankWeights.append(i)
 
 
 
