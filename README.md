@@ -1,4 +1,7 @@
-# PRI - One Piece Search Engine
+# One Piece Search Engine
+Developed for PRI (Information Processing and Retrieval) @ FEUP - MEIC
+
+Uses Solr' capabilities to create the search engine. Uses both keyword matching and embeddings.
 
 ## Frontend
 
@@ -19,3 +22,9 @@ You need Django installed in your system.
 To do that, run `pip install django` in your terminal.
 
 To start the server, go into the `backend` folder and run `python3 manage.py runserver` or `python manage.py runserver`.
+
+## Developed by
+João Lourenço
+João Cardoso
+Tiago Cruz
+Tomás Xavier
