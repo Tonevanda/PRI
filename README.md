@@ -3,7 +3,7 @@ Developed for PRI (Information Processing and Retrieval) @ FEUP - MEIC
 
 Uses Solr' capabilities to create the search engine. Uses both keyword matching and embeddings.
 
-Final Classification: 18/20
+Final Classification: 17.3/20
 
 Report can be found [here](/report/One_Piece_Search_Engine.pdf) for in-depth analysis.
 
