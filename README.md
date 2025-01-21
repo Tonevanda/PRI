@@ -3,6 +3,8 @@ Developed for PRI (Information Processing and Retrieval) @ FEUP - MEIC
 
 Uses Solr' capabilities to create the search engine. Uses both keyword matching and embeddings.
 
+Final Classification: 18/20
+
 ## Frontend
 
 The frontend is built using React.
